@@ -3,12 +3,19 @@ from __future__ import annotations
 import json
 import os
 import smtplib
+import urllib.error
 import urllib.request
 from dataclasses import dataclass
 from email.message import EmailMessage
 from email.utils import make_msgid
 
 from gh_trending_notifier.models import Newsletter
+
+
+# Some provider APIs (e.g. Resend) sit behind Cloudflare, which rejects the
+# default urllib User-Agent ("Python-urllib/x.y") with a 403 / error code 1010.
+# Send an explicit User-Agent so the request is not blocked.
+USER_AGENT = "gh-trending-notifier/0.1 (+https://github.com/bcanozgur/gh-trending-notifier)"
 
 
 class EmailError(RuntimeError):
@@ -82,6 +89,7 @@ def _send_resend(newsletter: Newsletter, recipients: list[str]) -> SendResult:
         headers={
             "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json",
+            "User-Agent": USER_AGENT,
         },
         method="POST",
     )
@@ -109,6 +117,7 @@ def _send_brevo(newsletter: Newsletter, recipients: list[str]) -> SendResult:
             "api-key": api_key,
             "Content-Type": "application/json",
             "Accept": "application/json",
+            "User-Agent": USER_AGENT,
         },
         method="POST",
     )
@@ -121,6 +130,14 @@ def _post_json(request: urllib.request.Request, provider: str) -> None:
         with urllib.request.urlopen(request, timeout=30) as response:
             if response.status >= 300:
                 raise EmailError(f"{provider} send failed: HTTP {response.status}")
+    except urllib.error.HTTPError as exc:
+        body = ""
+        try:
+            body = exc.read().decode("utf-8", "replace").strip()
+        except Exception:  # pragma: no cover - best-effort diagnostics
+            pass
+        detail = f": {body}" if body else ""
+        raise EmailError(f"{provider} send failed: HTTP {exc.code}{detail}") from exc
     except OSError as exc:
         raise EmailError(f"{provider} send failed: {exc}") from exc
 
