@@ -21,64 +21,27 @@ state, email adapters, tests, and a daily GitHub Actions workflow.
 
 ## Architecture
 
-The system is **serverless**: there is no always-on host. GitHub Actions runs the
-pipeline once per day on an ephemeral runner, the run commits its state back into
-the repository (`data/`), and the machine is then discarded. The sequence below
-shows a full daily run end to end.
+**Serverless** — no always-on host. A daily GitHub Actions run pulls GitHub
+Trending, ranks and curates the repos, emails the digest, and commits its state
+back into the repo. Then the runner shuts down.
 
 ```mermaid
-sequenceDiagram
-    autonumber
-    actor Sched as Trigger (cron 07:30 UTC / manual)
-    participant CI as GitHub Actions Runner
-    participant CLI as Notifier CLI
-    participant GT as github.com/trending
-    participant API as GitHub API
-    participant Mail as Email Provider (Resend)
-    participant Inbox as Recipient
-    participant Data as data/ (git state)
+flowchart LR
+    Trigger([Daily 10:30 or manual]) --> CLI
+    Sources[(GitHub Trending + API)] --> CLI
 
-    Note over Sched,CI: schedule cron + workflow_dispatch are the only triggers
-
-    Sched->>CI: Trigger workflow
-    activate CI
-    CI->>CI: checkout, setup Python 3.12, run tests
-    CI->>CLI: run (with optional --send)
-    activate CLI
-
-    CLI->>Data: read state.json (has_sent? last_sent history)
-    CLI->>GT: fetch trending HTML (since=daily)
-    GT-->>CLI: repo cards
-    CLI->>API: enrich repos (topics, license, README, releases)
-    API-->>CLI: metadata
-
-    Note over CLI: rank with 8-factor deterministic score<br/>dedupe repos sent in last 7 days<br/>select top 10, render HTML + text
-
-    CLI->>Data: write runs/DATE.json + previews/DATE.html and .txt
-
-    alt --send AND new repos exist
-        CLI->>Mail: send newsletter (HTML + text)
-        Mail->>Inbox: deliver email
-        CLI->>Data: write sent/DATE.json (hashed recipients) + set last_sent
-    else dry-run or nothing new
-        CLI->>Data: update state.json only
+    subgraph Runner [GitHub Actions · serverless]
+        CLI[Notifier CLI<br/>fetch · score · curate · render]
     end
 
-    CLI->>Data: prune files and state older than 28 days
-    CLI-->>CI: exit 0
-    deactivate CLI
-
-    CI->>Data: commit & push data/ (github-actions bot)
-    deactivate CI
+    CLI --> Email{{Resend email}}
+    Email --> Inbox([Developer inbox])
+    CLI <--> State[(data/ · state in git)]
 ```
 
-| Layer | Responsibility |
-| --- | --- |
-| **Trigger** | `schedule` (cron `30 7 * * *` = 10:30 Europe/Istanbul) + manual `workflow_dispatch` |
-| **Runner** | Ephemeral `ubuntu-latest`; checkout, tests, run CLI, commit state back to git |
-| **CLI pipeline** | fetch -> parse -> enrich -> rank (8-factor) -> dedupe + top 10 -> render -> send -> record -> prune |
-| **Email** | Adapter for Resend / Brevo / SMTP, selected by `EMAIL_PROVIDER` |
-| **State** | Committed JSON under `data/` (no database): `state.json`, `runs/`, `previews/`, `sent/` |
+`schedule` cron (10:30 Europe/Istanbul) and manual `workflow_dispatch` are the
+only triggers. State lives as committed JSON under `data/` — no database. Email
+delivery is adapter-based (`EMAIL_PROVIDER`: Resend / Brevo / SMTP).
 
 ## Local Usage
 
