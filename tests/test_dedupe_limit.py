@@ -1,11 +1,21 @@
+import json
+import os
 import tempfile
 from datetime import date, timedelta
 from pathlib import Path
 from unittest import TestCase
 
-from gh_trending_notifier.cli import _select_for_newsletter
+from gh_trending_notifier.cli import _newsletter_limit, _select_for_newsletter
 from gh_trending_notifier.models import RankedRepo, ScoreBreakdown, TrendingRepo
-from gh_trending_notifier.state import read_json, recently_sent_names, state_path, update_state
+from gh_trending_notifier.render import build_newsletter
+from gh_trending_notifier.state import (
+    read_json,
+    recently_sent_names,
+    record_run,
+    run_path,
+    state_path,
+    update_state,
+)
 
 
 def _ranked(full_name: str, rank: int, score: float = 50.0) -> RankedRepo:
@@ -78,3 +88,27 @@ class DedupeLimitTests(TestCase):
 
             names = {r.repo.full_name for r in selected2}
             self.assertEqual(names, {"acme/new-a", "acme/new-b"})
+
+    def test_run_archive_keeps_full_reviewed_set(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            ranked = [_ranked(f"acme/repo{i}", i) for i in range(1, 13)]
+            selected = ranked[:10]
+            newsletter = build_newsletter("2026-06-07", selected)
+
+            record_run(root, newsletter, reviewed=ranked)
+
+            payload = json.loads(run_path(root, "2026-06-07").read_text(encoding="utf-8"))
+            self.assertEqual(len(payload["ranked"]), 10)
+            self.assertEqual(len(payload["reviewed"]), 12)
+
+    def test_zero_repo_limit_is_floored_to_one(self) -> None:
+        old = os.environ.get("NEWSLETTER_MAX_REPOS")
+        os.environ["NEWSLETTER_MAX_REPOS"] = "0"
+        try:
+            self.assertEqual(_newsletter_limit(), 10)
+        finally:
+            if old is None:
+                os.environ.pop("NEWSLETTER_MAX_REPOS", None)
+            else:
+                os.environ["NEWSLETTER_MAX_REPOS"] = old

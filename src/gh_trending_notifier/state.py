@@ -44,9 +44,19 @@ def has_sent(root: Path, date: str) -> bool:
     return sent_path(root, date).exists()
 
 
-def record_run(root: Path, newsletter: Newsletter) -> Path:
+def record_run(
+    root: Path,
+    newsletter: Newsletter,
+    reviewed: list[RankedRepo] | None = None,
+) -> Path:
     path = run_path(root, newsletter.date)
-    write_json(path, newsletter.to_dict())
+    payload = newsletter.to_dict()
+    # `newsletter.ranked` only holds the repos actually featured (top N after
+    # dedupe). Persist the complete reviewed set so the archive keeps the full
+    # audit trail of every repo and score considered for this run.
+    if reviewed is not None:
+        payload["reviewed"] = [item.to_dict() for item in reviewed]
+    write_json(path, payload)
     html_path, text_path = preview_paths(root, newsletter.date)
     html_path.parent.mkdir(parents=True, exist_ok=True)
     html_path.write_text(newsletter.html, encoding="utf-8")
@@ -96,9 +106,6 @@ def update_state(
         entry["last_total_stars"] = item.repo.total_stars
         if sent_names and item.repo.full_name in sent_names:
             entry["last_sent"] = date
-            sent_on = entry.setdefault("sent_on", [])
-            if date not in sent_on:
-                sent_on.append(date)
     current["last_run"] = date
     write_json(path, current)
     return path

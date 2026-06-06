@@ -87,7 +87,7 @@ def run_command(args: argparse.Namespace) -> int:
     ranked = rank_repositories(repos, enrichments=enrichments, previous_state=state, today=date)
     selected = _select_for_newsletter(ranked, state, date)
     newsletter = build_newsletter(date, selected)
-    run_file = record_run(repo_root, newsletter)
+    run_file = record_run(repo_root, newsletter, reviewed=ranked)
 
     skipped = len(ranked) - len(selected)
     print(f"Parsed {len(repos)} Trending repositories from {TRENDING_URL}.")
@@ -124,14 +124,17 @@ def run_command(args: argparse.Namespace) -> int:
 
 
 def _newsletter_limit() -> int:
-    return _positive_env("NEWSLETTER_MAX_REPOS", DEFAULT_NEWSLETTER_LIMIT)
+    # At least one repo must be featured; a 0/empty cap would silently suppress
+    # every send.
+    return _positive_env("NEWSLETTER_MAX_REPOS", DEFAULT_NEWSLETTER_LIMIT, minimum=1)
 
 
 def _dedupe_days() -> int:
-    return _positive_env("NEWSLETTER_DEDUPE_DAYS", DEFAULT_DEDUPE_DAYS)
+    # 0 is valid here and disables deduplication.
+    return _positive_env("NEWSLETTER_DEDUPE_DAYS", DEFAULT_DEDUPE_DAYS, minimum=0)
 
 
-def _positive_env(name: str, default: int) -> int:
+def _positive_env(name: str, default: int, minimum: int = 0) -> int:
     raw = os.getenv(name)
     if raw is None:
         return default
@@ -139,7 +142,7 @@ def _positive_env(name: str, default: int) -> int:
         value = int(raw)
     except ValueError:
         return default
-    return value if value >= 0 else default
+    return value if value >= minimum else default
 
 
 def _select_for_newsletter(ranked, state, date):
