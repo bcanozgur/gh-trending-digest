@@ -3,6 +3,7 @@ from __future__ import annotations
 import hashlib
 import json
 from datetime import date as date_type
+from datetime import timedelta
 from pathlib import Path
 from typing import Any
 
@@ -109,6 +110,58 @@ def update_state(
     current["last_run"] = date
     write_json(path, current)
     return path
+
+
+def _date_from_stem(stem: str) -> date_type | None:
+    try:
+        return date_type.fromisoformat(stem)
+    except ValueError:
+        return None
+
+
+def prune_old_data(root: Path, today: str, retention_days: int) -> int:
+    """Delete dated run/preview/sent files and drop state entries not seen within
+    `retention_days` days, so committed history stays bounded. Returns the number
+    of files removed. `retention_days <= 0` disables pruning."""
+    if retention_days <= 0:
+        return 0
+    try:
+        cutoff = date_type.fromisoformat(today) - timedelta(days=retention_days)
+    except ValueError:
+        return 0
+
+    data_dir = root / "data"
+    removed = 0
+    dated_files = [
+        (data_dir / "runs", "*.json"),
+        (data_dir / "previews", "*.html"),
+        (data_dir / "previews", "*.txt"),
+        (data_dir / "sent", "*.json"),
+    ]
+    for directory, pattern in dated_files:
+        if not directory.exists():
+            continue
+        for path in directory.glob(pattern):
+            file_date = _date_from_stem(path.stem)
+            if file_date is not None and file_date < cutoff:
+                path.unlink()
+                removed += 1
+
+    state_file = state_path(root)
+    state = read_json(state_file, None)
+    if isinstance(state, dict) and isinstance(state.get("repos"), dict):
+        repos = state["repos"]
+        stale = []
+        for name, entry in repos.items():
+            last_seen = entry.get("last_seen") if isinstance(entry, dict) else None
+            seen_date = _date_from_stem(last_seen) if isinstance(last_seen, str) else None
+            if seen_date is not None and seen_date < cutoff:
+                stale.append(name)
+        if stale:
+            for name in stale:
+                del repos[name]
+            write_json(state_file, state)
+    return removed
 
 
 def record_sent(root: Path, date: str, provider: str, recipients: list[str], message_id: str) -> Path:

@@ -13,6 +13,7 @@ from gh_trending_notifier.render import build_newsletter
 from gh_trending_notifier.scoring import rank_repositories
 from gh_trending_notifier.state import (
     has_sent,
+    prune_old_data,
     read_json,
     record_run,
     record_sent,
@@ -26,6 +27,8 @@ from gh_trending_notifier.trending import TRENDING_URL, fetch_trending_html, par
 # repository is suppressed after it has been sent (to avoid repeats).
 DEFAULT_NEWSLETTER_LIMIT = 10
 DEFAULT_DEDUPE_DAYS = 7
+# How long to keep dated run/preview/sent files and state entries before pruning.
+DEFAULT_RETENTION_DAYS = 28
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -99,11 +102,7 @@ def run_command(args: argparse.Namespace) -> int:
     print(f"Subject: {newsletter.subject}")
     write_github_step_summary(newsletter, run_file)
 
-    if args.send:
-        if not selected:
-            update_state(repo_root, date, ranked)
-            print(f"No new repositories for {date}; nothing to send.")
-            return 0
+    if args.send and selected:
         recipients = parse_recipients(os.getenv("MAIL_TO"))
         result = send_newsletter(newsletter, args.email_provider, recipients)
         sent_file = record_sent(
@@ -118,7 +117,14 @@ def run_command(args: argparse.Namespace) -> int:
         print(f"Sent via {result.provider}; marker: {sent_file}")
     else:
         update_state(repo_root, date, ranked)
-        print("Dry run only; email not sent.")
+        if args.send:
+            print(f"No new repositories for {date}; nothing to send.")
+        else:
+            print("Dry run only; email not sent.")
+
+    pruned = prune_old_data(repo_root, date, _retention_days())
+    if pruned:
+        print(f"Pruned {pruned} dated files older than {_retention_days()} days.")
 
     return 0
 
@@ -132,6 +138,15 @@ def _newsletter_limit() -> int:
 def _dedupe_days() -> int:
     # 0 is valid here and disables deduplication.
     return _positive_env("NEWSLETTER_DEDUPE_DAYS", DEFAULT_DEDUPE_DAYS, minimum=0)
+
+
+def _retention_days() -> int:
+    # 0 disables pruning. Otherwise never prune inside the dedupe window, or we
+    # would drop the `last_sent` state that prevents repeated repos.
+    configured = _positive_env("DATA_RETENTION_DAYS", DEFAULT_RETENTION_DAYS, minimum=0)
+    if configured == 0:
+        return 0
+    return max(configured, _dedupe_days())
 
 
 def _positive_env(name: str, default: int, minimum: int = 0) -> int:
