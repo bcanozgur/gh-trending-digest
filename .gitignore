@@ -9,3 +9,10 @@ dist/
 .env
 .env.*
 !.env.example
+
+# Agent/skill definitions and planning docs — kept local, not pushed to GitHub
+.agents/
+.claude/
+AGENTS.md
+CLAUDE.md
+docs/
