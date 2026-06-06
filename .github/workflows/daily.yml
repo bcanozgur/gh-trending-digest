@@ -1,0 +1,71 @@
+name: Daily GitHub Trending Newsletter
+
+on:
+  workflow_dispatch:
+    inputs:
+      send:
+        description: "Send email instead of dry-run"
+        required: false
+        default: "false"
+  schedule:
+    - cron: "17 6 * * *"
+
+concurrency:
+  group: daily-github-trending-newsletter
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  newsletter:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONPATH: src
+      PYTHONDONTWRITEBYTECODE: "1"
+      EMAIL_PROVIDER: ${{ vars.EMAIL_PROVIDER || 'smtp' }}
+      MAIL_FROM: ${{ secrets.MAIL_FROM }}
+      MAIL_TO: ${{ secrets.MAIL_TO }}
+      SMTP_HOST: ${{ secrets.SMTP_HOST }}
+      SMTP_PORT: ${{ secrets.SMTP_PORT }}
+      SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+      SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+      RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+      BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run tests
+        run: python -m unittest discover -s tests
+
+      - name: Generate newsletter
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SEND_INPUT: ${{ github.event.inputs.send || 'false' }}
+          SEND_BY_DEFAULT: ${{ vars.SEND_EMAIL || 'false' }}
+        run: |
+          SEND_FLAG=""
+          if [ "$SEND_INPUT" = "true" ] || [ "$SEND_BY_DEFAULT" = "true" ]; then
+            SEND_FLAG="--send"
+          fi
+          python -m gh_trending_notifier.cli run $SEND_FLAG
+
+      - name: Commit generated state
+        if: always()
+        run: |
+          if [ -n "$(git status --porcelain data)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data
+            git commit -m "Store daily GitHub Trending run"
+            git pull --rebase
+            git push
+          else
+            echo "No generated state changes."
+          fi

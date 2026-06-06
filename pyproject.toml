@@ -1,0 +1,27 @@
+[build-system]
+requires = ["hatchling>=1.25"]
+build-backend = "hatchling.build"
+
+[project]
+name = "gh-trending-notifier"
+version = "0.1.0"
+description = "Daily GitHub Trending intelligence email for developers."
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+authors = [{ name = "Berke Can Ozgur" }]
+dependencies = []
+
+[project.scripts]
+gh-trending-notifier = "gh_trending_notifier.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/gh_trending_notifier"]
