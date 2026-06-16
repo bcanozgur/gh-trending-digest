@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-06-16
+
+Today leans toward AI workflow signal; the strongest pick is puppeteer/puppeteer.
+
+Top picks
+1. puppeteer/puppeteer - 78.1/100
+   https://github.com/puppeteer/puppeteer
+   AI Workflow, DevTools: TypeScript project with 171 stars today; score 78.1/100.
+2. alibaba/zvec - 74.2/100
+   https://github.com/alibaba/zvec
+   AI Workflow, Try Today: C++ project with 251 stars today; score 74.2/100.
+3. OpenBMB/VoxCPM - 62.0/100
+   https://github.com/OpenBMB/VoxCPM
+   AI Workflow, Try Today: Python project with 413 stars today; score 62.0/100.
+4. Universal-Debloater-Alliance/universal-android-debloater-next-generation - 59.2/100
+   https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
+   AI Workflow, Try Today: Rust project with 146 stars today; score 59.2/100.
+5. cypress-io/cypress - 56.0/100
+   https://github.com/cypress-io/cypress
+   DevTools, Try Today: TypeScript project with 11 stars today; score 56.0/100.
+
+Full reviewed list
+- puppeteer/puppeteer: 78.1/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 171 stars today; score 78.1/100.
+- alibaba/zvec: 74.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: C++ project with 251 stars today; score 74.2/100.
+- OpenBMB/VoxCPM: 62.0/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 413 stars today; score 62.0/100.
+- Universal-Debloater-Alliance/universal-android-debloater-next-generation: 59.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Rust project with 146 stars today; score 59.2/100.
+- cypress-io/cypress: 56.0/100 [DevTools, Try Today, Deep Dive] DevTools, Try Today: TypeScript project with 11 stars today; score 56.0/100.
+- n0-computer/iroh: 52.1/100 [Try Today] Try Today: Rust project with 326 stars today; score 52.1/100.
+- sponsors/freeCodeCamp: 24.6/100 [Watch, Hype Risk] Watch, Hype Risk: TypeScript project with 640 stars today; score 24.6/100.
+
+Generated for 2026-06-16 from GitHub Trending daily.
