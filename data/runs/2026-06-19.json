@@ -1,0 +1,1353 @@
+{
+  "date": "2026-06-19",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-12T14:57:10Z",
+        "default_branch": "main",
+        "description": "A framework for building agent-native applications.",
+        "fork": false,
+        "full_name": "BuilderIO/agent-native",
+        "homepage": "https://agent-native.com",
+        "latest_release": "@agent-native/skills@0.2.33",
+        "license_spdx": null,
+        "open_issues": 10,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-19T11:48:18Z",
+        "readme_excerpt": "# Agent-Native ### Open-source framework for agentic applications you own. Don't choose between rich user interfaces and autonomous agents. Every Agent-Native app is both. ## Agents and UIs \u2014 Fully Connected The agent and the UI are equal citizens of the same system. Every action works both ways \u2014 click it or ask for it. ![Agents and UIs fully connected](https://cdn.builder.io/api/v1/file/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fadc1e9e9368e4a8cb1b4dbb5aae5aaa2) - **Everything syncs** \u2014 Agent and UI shar",
+        "topics": [
+          "agents",
+          "ai",
+          "react"
+        ],
+        "updated_at": "2026-06-19T11:47:22Z"
+      },
+      "repo": {
+        "description": "A framework for building agent-native applications.",
+        "forks": 101,
+        "full_name": "BuilderIO/agent-native",
+        "language": "TypeScript",
+        "name": "agent-native",
+        "owner": "BuilderIO",
+        "rank": 6,
+        "stars_today": 172,
+        "total_stars": 804,
+        "url": "https://github.com/BuilderIO/agent-native"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.25,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 5.25,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 70.95
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 172 stars today; score 71.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-02-06T18:14:14Z",
+        "default_branch": "main",
+        "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+        "fork": false,
+        "full_name": "aishwaryanr/awesome-generative-ai-guide",
+        "homepage": "https://www.linkedin.com/in/areganti/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 17,
+        "primary_language": "HTML",
+        "pushed_at": "2026-05-19T21:20:54Z",
+        "readme_excerpt": "# :star: :bookmark: awesome-generative-ai-guide Generative AI is experiencing rapid growth, and this repository serves as a comprehensive hub for updates on generative AI research, interview materials, notebooks, and more! <a href=\"https://trendshift.io/repositories/7663\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/7663\" alt=\"aishwaryanr%2Fawesome-generative-ai-guide | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> Explore the following r",
+        "topics": [
+          "awesome",
+          "awesome-list",
+          "generative-ai",
+          "interview-questions",
+          "large-language-models",
+          "llms",
+          "notebook-jupyter",
+          "vision-and-language"
+        ],
+        "updated_at": "2026-06-19T11:47:01Z"
+      },
+      "repo": {
+        "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+        "forks": 5732,
+        "full_name": "aishwaryanr/awesome-generative-ai-guide",
+        "language": "HTML",
+        "name": "awesome-generative-ai-guide",
+        "owner": "aishwaryanr",
+        "rank": 5,
+        "stars_today": 203,
+        "total_stars": 27421,
+        "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.46,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 70.26
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: HTML project with 203 stars today; score 70.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-07T04:15:51Z",
+        "default_branch": "main",
+        "description": "macOS video editor built for AI",
+        "fork": false,
+        "full_name": "palmier-io/palmier-pro",
+        "homepage": "https://palmier.io",
+        "latest_release": "v0.3.4",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 13,
+        "primary_language": "Swift",
+        "pushed_at": "2026-06-19T07:55:05Z",
+        "readme_excerpt": "<div align=\"center\"> # Palmier Pro **The video editor built for AI.** <a href=\"https://github.com/palmier-io/palmier-pro/releases/latest/download/PalmierPro.dmg\"> <img src=\"./assets/macos-badge.png\" alt=\"Download palmierpro for macOS\" width=\"180\" /> </a> <sub><i>Requires macOS 26 (Tahoe) on Apple Silicon</i></sub> <a href=\"https://x.com/Palmier_io\"><img src=\"https://img.shields.io/badge/Follow-%40Palmier__io-000000?style=flat&logo=x&logoColor=white\" alt=\"Follow on X\" /></a> <a href=\"https://disc",
+        "topics": [
+          "ai-video",
+          "claude",
+          "macos",
+          "mcp",
+          "seedance2",
+          "swift",
+          "video-editor"
+        ],
+        "updated_at": "2026-06-19T11:45:46Z"
+      },
+      "repo": {
+        "description": "macOS video editor built for AI",
+        "forks": 160,
+        "full_name": "palmier-io/palmier-pro",
+        "language": "Swift",
+        "name": "palmier-pro",
+        "owner": "palmier-io",
+        "rank": 3,
+        "stars_today": 749,
+        "total_stars": 1387,
+        "url": "https://github.com/palmier-io/palmier-pro"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.91,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 66.21
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Swift project with 749 stars today; score 66.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-09T08:17:02Z",
+        "default_branch": "main",
+        "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+        "fork": false,
+        "full_name": "zai-org/GLM-5",
+        "homepage": "https://z.ai/blog/glm-5.2",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 34,
+        "primary_language": null,
+        "pushed_at": "2026-06-18T09:18:21Z",
+        "readme_excerpt": "# GLM-5.2 & GLM-5.1 & GLM-5 <div align=\"center\"> <img src=resources/logo.svg width=\"15%\"/> </div> <p align=\"center\"> \ud83d\udc4b Join our <a href=\"resources/WECHAT.md\" target=\"_blank\">Wechat</a> or <a href=\"https://discord.gg/Hc5z9bx5Xw\" target=\"_blank\">Discord</a> community. <br> \ud83d\udcd6 Check out the GLM-5.2 <a href=\"https://z.ai/blog/glm-5.2\" target=\"_blank\">blog</a> and GLM-5 <a href=\"https://arxiv.org/abs/2602.15763\" target=\"_blank\">Technical report</a>. <br> \ud83d\udccd Use GLM-5.2 API services on <a href=\"https://",
+        "topics": [
+          "agentic-ai",
+          "coding",
+          "llm",
+          "long-horizon"
+        ],
+        "updated_at": "2026-06-19T11:46:42Z"
+      },
+      "repo": {
+        "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+        "forks": 444,
+        "full_name": "zai-org/GLM-5",
+        "language": null,
+        "name": "GLM-5",
+        "owner": "zai-org",
+        "rank": 9,
+        "stars_today": 202,
+        "total_stars": 4343,
+        "url": "https://github.com/zai-org/GLM-5"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.88,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 65.18
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Unknown project with 202 stars today; score 65.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-04-23T03:54:26Z",
+        "default_branch": "develop",
+        "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+        "fork": false,
+        "full_name": "Kong/insomnia",
+        "homepage": "https://insomnia.rest",
+        "latest_release": "core@13.0.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 854,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-18T20:31:47Z",
+        "readme_excerpt": "# Insomnia API Client [![Website](https://img.shields.io/badge/Get%20started%20for%20free-8A2BE2)](https://insomnia.rest) ![Stars](https://img.shields.io/github/stars/Kong/insomnia?style=flat-square) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Kong/insomnia?style=flat-square) [![Slack Channel](https://chat.insomnia.rest/badge.svg)](https://chat.insomnia.rest/) [![license](https://img.shields.io/github/license/Kong/insomnia.svg)](LICENSE) ![Twitter Follow](https://im",
+        "topics": [
+          "api",
+          "api-client",
+          "api-design",
+          "curl",
+          "electron-app",
+          "graphql",
+          "grpc",
+          "http-client",
+          "rest-api",
+          "websockets"
+        ],
+        "updated_at": "2026-06-19T11:46:28Z"
+      },
+      "repo": {
+        "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+        "forks": 2295,
+        "full_name": "Kong/insomnia",
+        "language": "TypeScript",
+        "name": "insomnia",
+        "owner": "Kong",
+        "rank": 14,
+        "stars_today": 18,
+        "total_stars": 38797,
+        "url": "https://github.com/Kong/insomnia"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.77,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 62.68
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 18 stars today; score 62.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-03T13:16:29Z",
+        "default_branch": "main",
+        "description": "Official Python inference and LoRA trainer package for the LTX-2 audio\u2013video generative model.",
+        "fork": false,
+        "full_name": "Lightricks/LTX-2",
+        "homepage": "https://ltx.io/model/ltx-2",
+        "latest_release": null,
+        "license_spdx": "NOASSERTION",
+        "open_issues": 94,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-17T14:26:42Z",
+        "readme_excerpt": "# LTX-2 [![Website](https://img.shields.io/badge/Website-LTX-181717?logo=google-chrome)](https://ltx.io) [![Model](https://img.shields.io/badge/HuggingFace-Model-orange?logo=huggingface)](https://huggingface.co/Lightricks/LTX-2.3) [![Demo](https://img.shields.io/badge/Demo-Try%20Now-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAFKADAAQAAAABAAAAFAAAAACy3fD9AAACmElEQ",
+        "topics": [
+          "generative-ai",
+          "ltx",
+          "ltx-2"
+        ],
+        "updated_at": "2026-06-19T11:37:17Z"
+      },
+      "repo": {
+        "description": "Official Python inference and LoRA trainer package for the LTX-2 audio\u2013video generative model.",
+        "forks": 1214,
+        "full_name": "Lightricks/LTX-2",
+        "language": "Python",
+        "name": "LTX-2",
+        "owner": "Lightricks",
+        "rank": 15,
+        "stars_today": 51,
+        "total_stars": 7565,
+        "url": "https://github.com/Lightricks/LTX-2"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.69,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 3.85,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 61.54
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Python project with 51 stars today; score 61.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-08T17:26:06Z",
+        "default_branch": "main",
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "fork": false,
+        "full_name": "koala73/worldmonitor",
+        "homepage": "https://worldmonitor.app",
+        "latest_release": "v2.5.23",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 183,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-19T06:40:13Z",
+        "readme_excerpt": "# World Monitor **Real-time global intelligence dashboard** \u2014 AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface. [![GitHub stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=social)](https://github.com/koala73/worldmonitor/stargazers) [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/re63kWKxaz) [![License: AGPL v3](https://img.sh",
+        "topics": [
+          "ai",
+          "dashboard",
+          "geopolitics",
+          "monitoring",
+          "news",
+          "opensource",
+          "osint",
+          "palantir",
+          "situation"
+        ],
+        "updated_at": "2026-06-19T11:49:20Z"
+      },
+      "repo": {
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "forks": 9110,
+        "full_name": "koala73/worldmonitor",
+        "language": "TypeScript",
+        "name": "worldmonitor",
+        "owner": "koala73",
+        "rank": 4,
+        "stars_today": 133,
+        "total_stars": 56847,
+        "url": "https://github.com/koala73/worldmonitor"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.45,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 55.7
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 133 stars today; score 55.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/chopratejas",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+        "forks": 2479,
+        "full_name": "sponsors/chopratejas",
+        "language": "Python",
+        "name": "chopratejas",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 3938,
+        "total_stars": 36497,
+        "url": "https://github.com/sponsors/chopratejas"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 11.14,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.55,
+        "technical_quality": 3.5,
+        "total": 45.07
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 3938 stars today; score 45.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/withastro",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The sandbox agent framework.",
+        "forks": 310,
+        "full_name": "sponsors/withastro",
+        "language": "TypeScript",
+        "name": "withastro",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 162,
+        "total_stars": 5632,
+        "url": "https://github.com/sponsors/withastro"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.65,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 37.0
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 162 stars today; score 37.0/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-24T22:01:00Z",
+        "default_branch": "main",
+        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+        "fork": false,
+        "full_name": "DeusData/codebase-memory-mcp",
+        "homepage": "https://deusdata.github.io/codebase-memory-mcp/",
+        "latest_release": "v0.8.1",
+        "license_spdx": "MIT",
+        "open_issues": 109,
+        "primary_language": "C",
+        "pushed_at": "2026-06-13T05:43:03Z",
+        "readme_excerpt": "# codebase-memory-mcp [![GitHub Release](https://img.shields.io/github/v/release/DeusData/codebase-memory-mcp?style=flat&color=blue)](https://github.com/DeusData/codebase-memory-mcp/releases/latest) [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE) [![CI](https://img.shields.io/github/actions/workflow/status/DeusData/codebase-memory-mcp/dry-run.yml?label=CI)](https://github.com/DeusData/codebase-memory-mcp/actions/workflows/dry-run.yml) [![Tests](https://img.shields.io/badge/",
+        "topics": [
+          "aider",
+          "ast",
+          "claude-code",
+          "code-analysis",
+          "code-intelligence",
+          "codex",
+          "cursor",
+          "cypher",
+          "developer-tools",
+          "gemini-cli",
+          "graph-visualization",
+          "kilocode",
+          "knowledge-graph",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "opencode",
+          "sqlite",
+          "tree-sitter",
+          "windsurf"
+        ],
+        "updated_at": "2026-06-19T11:49:35Z"
+      },
+      "repo": {
+        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+        "forks": 587,
+        "full_name": "DeusData/codebase-memory-mcp",
+        "language": "C",
+        "name": "codebase-memory-mcp",
+        "owner": "DeusData",
+        "rank": 1,
+        "stars_today": 2322,
+        "total_stars": 7502,
+        "url": "https://github.com/DeusData/codebase-memory-mcp"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 8.55,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 80.85
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C project with 2322 stars today; score 80.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-12T14:57:10Z",
+        "default_branch": "main",
+        "description": "A framework for building agent-native applications.",
+        "fork": false,
+        "full_name": "BuilderIO/agent-native",
+        "homepage": "https://agent-native.com",
+        "latest_release": "@agent-native/skills@0.2.33",
+        "license_spdx": null,
+        "open_issues": 10,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-19T11:48:18Z",
+        "readme_excerpt": "# Agent-Native ### Open-source framework for agentic applications you own. Don't choose between rich user interfaces and autonomous agents. Every Agent-Native app is both. ## Agents and UIs \u2014 Fully Connected The agent and the UI are equal citizens of the same system. Every action works both ways \u2014 click it or ask for it. ![Agents and UIs fully connected](https://cdn.builder.io/api/v1/file/assets%2FYJIGb4i01jvw0SRdL5Bt%2Fadc1e9e9368e4a8cb1b4dbb5aae5aaa2) - **Everything syncs** \u2014 Agent and UI shar",
+        "topics": [
+          "agents",
+          "ai",
+          "react"
+        ],
+        "updated_at": "2026-06-19T11:47:22Z"
+      },
+      "repo": {
+        "description": "A framework for building agent-native applications.",
+        "forks": 101,
+        "full_name": "BuilderIO/agent-native",
+        "language": "TypeScript",
+        "name": "agent-native",
+        "owner": "BuilderIO",
+        "rank": 6,
+        "stars_today": 172,
+        "total_stars": 804,
+        "url": "https://github.com/BuilderIO/agent-native"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.25,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 5.25,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 70.95
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 172 stars today; score 71.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-02-06T18:14:14Z",
+        "default_branch": "main",
+        "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+        "fork": false,
+        "full_name": "aishwaryanr/awesome-generative-ai-guide",
+        "homepage": "https://www.linkedin.com/in/areganti/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 17,
+        "primary_language": "HTML",
+        "pushed_at": "2026-05-19T21:20:54Z",
+        "readme_excerpt": "# :star: :bookmark: awesome-generative-ai-guide Generative AI is experiencing rapid growth, and this repository serves as a comprehensive hub for updates on generative AI research, interview materials, notebooks, and more! <a href=\"https://trendshift.io/repositories/7663\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/7663\" alt=\"aishwaryanr%2Fawesome-generative-ai-guide | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> Explore the following r",
+        "topics": [
+          "awesome",
+          "awesome-list",
+          "generative-ai",
+          "interview-questions",
+          "large-language-models",
+          "llms",
+          "notebook-jupyter",
+          "vision-and-language"
+        ],
+        "updated_at": "2026-06-19T11:47:01Z"
+      },
+      "repo": {
+        "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+        "forks": 5732,
+        "full_name": "aishwaryanr/awesome-generative-ai-guide",
+        "language": "HTML",
+        "name": "awesome-generative-ai-guide",
+        "owner": "aishwaryanr",
+        "rank": 5,
+        "stars_today": 203,
+        "total_stars": 27421,
+        "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.46,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 70.26
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: HTML project with 203 stars today; score 70.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-29T15:23:22Z",
+        "default_branch": "main",
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "fork": false,
+        "full_name": "calesthio/OpenMontage",
+        "homepage": "https://github.com/calesthio/OpenMontage",
+        "latest_release": null,
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 63,
+        "primary_language": "Python",
+        "pushed_at": "2026-05-07T12:12:36Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"assets/logo.png\" alt=\"OpenMontage\" width=\"200\"> </p> <h1 align=\"center\">OpenMontage</h1> <p align=\"center\"><strong>The first open-source, agentic video production system.</strong></p> <p align=\"center\"> <a href=\"#start-from-a-video-you-already-love\">Paste A Video</a> &nbsp;\u00b7&nbsp; <a href=\"#quick-start\">Quick Start</a> &nbsp;\u00b7&nbsp; <a href=\"#try-these-prompts\">Try These Prompts</a> &nbsp;\u00b7&nbsp; <a href=\"#pipelines\">Pipelines</a> &nbsp;\u00b7&nbsp; <a href=\"#how-it-works",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "ai",
+          "claude",
+          "copilot",
+          "cursor",
+          "elevenlabs",
+          "ffmpeg",
+          "flux",
+          "image-generation",
+          "open-source",
+          "openai",
+          "python",
+          "remotion",
+          "stable-diffusion",
+          "text-to-speech",
+          "text-to-video",
+          "video-generation",
+          "video-production"
+        ],
+        "updated_at": "2026-06-19T11:46:56Z"
+      },
+      "repo": {
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "forks": 1057,
+        "full_name": "calesthio/OpenMontage",
+        "language": "Python",
+        "name": "OpenMontage",
+        "owner": "calesthio",
+        "rank": 8,
+        "stars_today": 738,
+        "total_stars": 5893,
+        "url": "https://github.com/calesthio/OpenMontage"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.17,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.9,
+        "total": 66.52
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 738 stars today; score 66.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-07T04:15:51Z",
+        "default_branch": "main",
+        "description": "macOS video editor built for AI",
+        "fork": false,
+        "full_name": "palmier-io/palmier-pro",
+        "homepage": "https://palmier.io",
+        "latest_release": "v0.3.4",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 13,
+        "primary_language": "Swift",
+        "pushed_at": "2026-06-19T07:55:05Z",
+        "readme_excerpt": "<div align=\"center\"> # Palmier Pro **The video editor built for AI.** <a href=\"https://github.com/palmier-io/palmier-pro/releases/latest/download/PalmierPro.dmg\"> <img src=\"./assets/macos-badge.png\" alt=\"Download palmierpro for macOS\" width=\"180\" /> </a> <sub><i>Requires macOS 26 (Tahoe) on Apple Silicon</i></sub> <a href=\"https://x.com/Palmier_io\"><img src=\"https://img.shields.io/badge/Follow-%40Palmier__io-000000?style=flat&logo=x&logoColor=white\" alt=\"Follow on X\" /></a> <a href=\"https://disc",
+        "topics": [
+          "ai-video",
+          "claude",
+          "macos",
+          "mcp",
+          "seedance2",
+          "swift",
+          "video-editor"
+        ],
+        "updated_at": "2026-06-19T11:45:46Z"
+      },
+      "repo": {
+        "description": "macOS video editor built for AI",
+        "forks": 160,
+        "full_name": "palmier-io/palmier-pro",
+        "language": "Swift",
+        "name": "palmier-pro",
+        "owner": "palmier-io",
+        "rank": 3,
+        "stars_today": 749,
+        "total_stars": 1387,
+        "url": "https://github.com/palmier-io/palmier-pro"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.91,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 66.21
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Swift project with 749 stars today; score 66.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-09T08:17:02Z",
+        "default_branch": "main",
+        "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+        "fork": false,
+        "full_name": "zai-org/GLM-5",
+        "homepage": "https://z.ai/blog/glm-5.2",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 34,
+        "primary_language": null,
+        "pushed_at": "2026-06-18T09:18:21Z",
+        "readme_excerpt": "# GLM-5.2 & GLM-5.1 & GLM-5 <div align=\"center\"> <img src=resources/logo.svg width=\"15%\"/> </div> <p align=\"center\"> \ud83d\udc4b Join our <a href=\"resources/WECHAT.md\" target=\"_blank\">Wechat</a> or <a href=\"https://discord.gg/Hc5z9bx5Xw\" target=\"_blank\">Discord</a> community. <br> \ud83d\udcd6 Check out the GLM-5.2 <a href=\"https://z.ai/blog/glm-5.2\" target=\"_blank\">blog</a> and GLM-5 <a href=\"https://arxiv.org/abs/2602.15763\" target=\"_blank\">Technical report</a>. <br> \ud83d\udccd Use GLM-5.2 API services on <a href=\"https://",
+        "topics": [
+          "agentic-ai",
+          "coding",
+          "llm",
+          "long-horizon"
+        ],
+        "updated_at": "2026-06-19T11:46:42Z"
+      },
+      "repo": {
+        "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+        "forks": 444,
+        "full_name": "zai-org/GLM-5",
+        "language": null,
+        "name": "GLM-5",
+        "owner": "zai-org",
+        "rank": 9,
+        "stars_today": 202,
+        "total_stars": 4343,
+        "url": "https://github.com/zai-org/GLM-5"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.88,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 65.18
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Unknown project with 202 stars today; score 65.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-04-23T03:54:26Z",
+        "default_branch": "develop",
+        "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+        "fork": false,
+        "full_name": "Kong/insomnia",
+        "homepage": "https://insomnia.rest",
+        "latest_release": "core@13.0.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 854,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-18T20:31:47Z",
+        "readme_excerpt": "# Insomnia API Client [![Website](https://img.shields.io/badge/Get%20started%20for%20free-8A2BE2)](https://insomnia.rest) ![Stars](https://img.shields.io/github/stars/Kong/insomnia?style=flat-square) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Kong/insomnia?style=flat-square) [![Slack Channel](https://chat.insomnia.rest/badge.svg)](https://chat.insomnia.rest/) [![license](https://img.shields.io/github/license/Kong/insomnia.svg)](LICENSE) ![Twitter Follow](https://im",
+        "topics": [
+          "api",
+          "api-client",
+          "api-design",
+          "curl",
+          "electron-app",
+          "graphql",
+          "grpc",
+          "http-client",
+          "rest-api",
+          "websockets"
+        ],
+        "updated_at": "2026-06-19T11:46:28Z"
+      },
+      "repo": {
+        "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+        "forks": 2295,
+        "full_name": "Kong/insomnia",
+        "language": "TypeScript",
+        "name": "insomnia",
+        "owner": "Kong",
+        "rank": 14,
+        "stars_today": 18,
+        "total_stars": 38797,
+        "url": "https://github.com/Kong/insomnia"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.77,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 62.68
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 18 stars today; score 62.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-03T13:16:29Z",
+        "default_branch": "main",
+        "description": "Official Python inference and LoRA trainer package for the LTX-2 audio\u2013video generative model.",
+        "fork": false,
+        "full_name": "Lightricks/LTX-2",
+        "homepage": "https://ltx.io/model/ltx-2",
+        "latest_release": null,
+        "license_spdx": "NOASSERTION",
+        "open_issues": 94,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-17T14:26:42Z",
+        "readme_excerpt": "# LTX-2 [![Website](https://img.shields.io/badge/Website-LTX-181717?logo=google-chrome)](https://ltx.io) [![Model](https://img.shields.io/badge/HuggingFace-Model-orange?logo=huggingface)](https://huggingface.co/Lightricks/LTX-2.3) [![Demo](https://img.shields.io/badge/Demo-Try%20Now-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAFKADAAQAAAABAAAAFAAAAACy3fD9AAACmElEQ",
+        "topics": [
+          "generative-ai",
+          "ltx",
+          "ltx-2"
+        ],
+        "updated_at": "2026-06-19T11:37:17Z"
+      },
+      "repo": {
+        "description": "Official Python inference and LoRA trainer package for the LTX-2 audio\u2013video generative model.",
+        "forks": 1214,
+        "full_name": "Lightricks/LTX-2",
+        "language": "Python",
+        "name": "LTX-2",
+        "owner": "Lightricks",
+        "rank": 15,
+        "stars_today": 51,
+        "total_stars": 7565,
+        "url": "https://github.com/Lightricks/LTX-2"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.69,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 3.85,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 61.54
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Python project with 51 stars today; score 61.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-04-29T21:26:26Z",
+        "default_branch": "master",
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "fork": false,
+        "full_name": "google-research/timesfm",
+        "homepage": "https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/",
+        "latest_release": "v2.0.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 222,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-17T13:11:09Z",
+        "readme_excerpt": "# TimesFM TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. * Paper: [A decoder-only foundation model for time-series forecasting](https://arxiv.org/abs/2310.10688), ICML 2024. * All checkpoints: [TimesFM Hugging Face Collection](https://huggingface.co/collections/google/timesfm-release-66e4be5fdb56e960c1e482a6). * [Google Research blog](https://research.google/blog/a-decoder-only-foundation-model-for-tim",
+        "topics": [],
+        "updated_at": "2026-06-19T11:49:11Z"
+      },
+      "repo": {
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "forks": 2252,
+        "full_name": "google-research/timesfm",
+        "language": "Python",
+        "name": "timesfm",
+        "owner": "google-research",
+        "rank": 2,
+        "stars_today": 844,
+        "total_stars": 23828,
+        "url": "https://github.com/google-research/timesfm"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.26,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 61.36
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 844 stars today; score 61.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-08T17:26:06Z",
+        "default_branch": "main",
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "fork": false,
+        "full_name": "koala73/worldmonitor",
+        "homepage": "https://worldmonitor.app",
+        "latest_release": "v2.5.23",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 183,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-19T06:40:13Z",
+        "readme_excerpt": "# World Monitor **Real-time global intelligence dashboard** \u2014 AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface. [![GitHub stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=social)](https://github.com/koala73/worldmonitor/stargazers) [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/re63kWKxaz) [![License: AGPL v3](https://img.sh",
+        "topics": [
+          "ai",
+          "dashboard",
+          "geopolitics",
+          "monitoring",
+          "news",
+          "opensource",
+          "osint",
+          "palantir",
+          "situation"
+        ],
+        "updated_at": "2026-06-19T11:49:20Z"
+      },
+      "repo": {
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "forks": 9110,
+        "full_name": "koala73/worldmonitor",
+        "language": "TypeScript",
+        "name": "worldmonitor",
+        "owner": "koala73",
+        "rank": 4,
+        "stars_today": 133,
+        "total_stars": 56847,
+        "url": "https://github.com/koala73/worldmonitor"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.45,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 55.7
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 133 stars today; score 55.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/chopratejas",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+        "forks": 2479,
+        "full_name": "sponsors/chopratejas",
+        "language": "Python",
+        "name": "chopratejas",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 3938,
+        "total_stars": 36497,
+        "url": "https://github.com/sponsors/chopratejas"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 11.14,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.55,
+        "technical_quality": 3.5,
+        "total": 45.07
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 3938 stars today; score 45.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-03-14T19:30:08Z",
+        "default_branch": "main",
+        "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+        "fork": false,
+        "full_name": "n0-computer/iroh",
+        "homepage": "https://iroh.computer",
+        "latest_release": "v1.0.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 149,
+        "primary_language": "Rust",
+        "pushed_at": "2026-06-19T08:10:10Z",
+        "readme_excerpt": "<h1 align=\"center\"><a href=\"https://iroh.computer\"><img alt=\"iroh\" src=\"./.img/iroh_wordmark.svg\" width=\"100\" /></a></h1> <h3 align=\"center\"> less net work for networks </h3> [![Documentation](https://img.shields.io/badge/docs-latest-blue.svg?style=flat-square)](https://docs.rs/iroh/) [![Crates.io](https://img.shields.io/crates/v/iroh.svg?style=flat-square)](https://crates.io/crates/iroh) [![downloads](https://img.shields.io/crates/d/iroh.svg?style=flat-square)](https://crates.io/crates/iroh) [!",
+        "topics": [
+          "does-anyone-read-these",
+          "holepunching",
+          "memes",
+          "multipath",
+          "p2p",
+          "quic",
+          "realtime",
+          "rust",
+          "tags",
+          "tagsoftags"
+        ],
+        "updated_at": "2026-06-19T11:41:31Z"
+      },
+      "repo": {
+        "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+        "forks": 465,
+        "full_name": "n0-computer/iroh",
+        "language": "Rust",
+        "name": "iroh",
+        "owner": "n0-computer",
+        "rank": 11,
+        "stars_today": 369,
+        "total_stars": 10134,
+        "url": "https://github.com/n0-computer/iroh"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.95,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 1.2,
+        "technical_quality": 14.0,
+        "total": 45.0
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Rust project with 369 stars today; score 45.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-12-29T22:09:07Z",
+        "default_branch": "develop",
+        "description": "Penpot: The open-source design tool for design and code collaboration",
+        "fork": false,
+        "full_name": "penpot/penpot",
+        "homepage": "https://penpot.app",
+        "latest_release": "2.16.0",
+        "license_spdx": "MPL-2.0",
+        "open_issues": 661,
+        "primary_language": "Clojure",
+        "pushed_at": "2026-06-19T11:41:44Z",
+        "readme_excerpt": "<img width=\"100%\" src=\"https://github.com/user-attachments/assets/da17b160-f289-436f-b140-972083a08602\" /> [uri_license]: https://www.mozilla.org/en-US/MPL/2.0 [uri_license_image]: https://img.shields.io/badge/MPL-2.0-blue.svg <p align=\"center\"> <a href=\"https://www.digitalpublicgoods.net/r/penpot\" rel=\"nofollow\"> <img alt=\"Verified DPG\" src=\"https://img.shields.io/badge/Verified-DPG-3333AB?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzEiIGhlaWdodD0iMzMiIHZpZXdCb3g9IjAgMCAzMSAzMyIgZmlsbD0ib",
+        "topics": [
+          "clojure",
+          "clojurescript",
+          "design",
+          "prototyping",
+          "ui",
+          "ux-design",
+          "ux-experience"
+        ],
+        "updated_at": "2026-06-19T11:49:23Z"
+      },
+      "repo": {
+        "description": "Penpot: The open-source design tool for design and code collaboration",
+        "forks": 3258,
+        "full_name": "penpot/penpot",
+        "language": "Clojure",
+        "name": "penpot",
+        "owner": "penpot",
+        "rank": 13,
+        "stars_today": 318,
+        "total_stars": 50377,
+        "url": "https://github.com/penpot/penpot"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.55,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 1.04,
+        "technical_quality": 14.0,
+        "total": 44.44
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Clojure project with 318 stars today; score 44.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/withastro",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The sandbox agent framework.",
+        "forks": 310,
+        "full_name": "sponsors/withastro",
+        "language": "TypeScript",
+        "name": "withastro",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 162,
+        "total_stars": 5632,
+        "url": "https://github.com/sponsors/withastro"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.65,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 37.0
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 162 stars today; score 37.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 20678,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 12,
+        "stars_today": 1429,
+        "total_stars": 232898,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.06,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 34.21
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 1429 stars today; score 34.2/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-06-19",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is BuilderIO/agent-native."
+}
