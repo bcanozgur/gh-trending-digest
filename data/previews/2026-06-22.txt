@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-06-22
+
+Today leans toward AI workflow signal; the strongest pick is JCodesMore/ai-website-cloner-template.
+
+Top picks
+1. JCodesMore/ai-website-cloner-template - 75.8/100
+   https://github.com/JCodesMore/ai-website-cloner-template
+   AI Workflow, DevTools: TypeScript project with 63 stars today; score 75.8/100.
+2. firecrawl/firecrawl - 73.6/100
+   https://github.com/firecrawl/firecrawl
+   AI Workflow, DevTools: TypeScript project with 513 stars today; score 73.6/100.
+3. jamiepine/voicebox - 70.9/100
+   https://github.com/jamiepine/voicebox
+   AI Workflow, Try Today: TypeScript project with 614 stars today; score 70.9/100.
+4. garrytan/gstack - 70.5/100
+   https://github.com/garrytan/gstack
+   AI Workflow, Try Today: TypeScript project with 454 stars today; score 70.5/100.
+5. heygen-com/hyperframes - 68.4/100
+   https://github.com/heygen-com/hyperframes
+   AI Workflow, DevTools: TypeScript project with 369 stars today; score 68.4/100.
+
+Full reviewed list
+- JCodesMore/ai-website-cloner-template: 75.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 63 stars today; score 75.8/100.
+- firecrawl/firecrawl: 73.6/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 513 stars today; score 73.6/100.
+- jamiepine/voicebox: 70.9/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 614 stars today; score 70.9/100.
+- garrytan/gstack: 70.5/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 454 stars today; score 70.5/100.
+- heygen-com/hyperframes: 68.4/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 369 stars today; score 68.4/100.
+- sponsors/lyogavin: 41.0/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Jupyter Notebook project with 453 stars today; score 41.0/100.
+- sponsors/Stirling-Tools: 24.1/100 [Watch, Hype Risk] Watch, Hype Risk: Java project with 394 stars today; score 24.1/100.
+
+Generated for 2026-06-22 from GitHub Trending daily.
