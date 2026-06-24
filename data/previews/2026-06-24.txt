@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-06-24
+
+Today leans toward AI workflow signal; the strongest pick is DeusData/codebase-memory-mcp.
+
+Top picks
+1. DeusData/codebase-memory-mcp - 77.1/100
+   https://github.com/DeusData/codebase-memory-mcp
+   AI Workflow, DevTools: C project with 1300 stars today; score 77.1/100.
+2. NousResearch/hermes-agent - 74.8/100
+   https://github.com/NousResearch/hermes-agent
+   AI Workflow, Try Today: Python project with 936 stars today; score 74.8/100.
+3. shanraisshan/claude-code-best-practice - 73.7/100
+   https://github.com/shanraisshan/claude-code-best-practice
+   AI Workflow, DevTools: HTML project with 344 stars today; score 73.7/100.
+4. revfactory/harness - 69.4/100
+   https://github.com/revfactory/harness
+   AI Workflow, Try Today: HTML project with 128 stars today; score 69.4/100.
+5. anthropics/claude-plugins-official - 67.9/100
+   https://github.com/anthropics/claude-plugins-official
+   AI Workflow, Try Today: Python project with 77 stars today; score 67.9/100.
+
+Full reviewed list
+- DeusData/codebase-memory-mcp: 77.1/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: C project with 1300 stars today; score 77.1/100.
+- NousResearch/hermes-agent: 74.8/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 936 stars today; score 74.8/100.
+- shanraisshan/claude-code-best-practice: 73.7/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: HTML project with 344 stars today; score 73.7/100.
+- revfactory/harness: 69.4/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: HTML project with 128 stars today; score 69.4/100.
+- anthropics/claude-plugins-official: 67.9/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 77 stars today; score 67.9/100.
+- sponsors/calesthio: 46.3/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Python project with 3592 stars today; score 46.3/100.
+- sponsors/affaan-m: 41.0/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: JavaScript project with 593 stars today; score 41.0/100.
+
+Generated for 2026-06-24 from GitHub Trending daily.
