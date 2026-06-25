@@ -1,0 +1,32 @@
+GitHub Trending: AI workflow signal - 2026-06-25
+
+Today leans toward AI workflow signal; the strongest pick is stablyai/orca.
+
+Top picks
+1. stablyai/orca - 80.7/100
+   https://github.com/stablyai/orca
+   AI Workflow, DevTools: TypeScript project with 331 stars today; score 80.7/100.
+2. google-labs-code/design.md - 65.0/100
+   https://github.com/google-labs-code/design.md
+   AI Workflow, Try Today: TypeScript project with 619 stars today; score 65.0/100.
+3. interviewstreet/hiring-agent - 64.9/100
+   https://github.com/interviewstreet/hiring-agent
+   AI Workflow, Try Today: Python project with 203 stars today; score 64.9/100.
+4. andreknieriem/headunit-revived - 59.5/100
+   https://github.com/andreknieriem/headunit-revived
+   AI Workflow, Try Today: Kotlin project with 41 stars today; score 59.5/100.
+5. apple/container - 59.1/100
+   https://github.com/apple/container
+   AI Workflow, Try Today: Swift project with 1838 stars today; score 59.1/100.
+
+Full reviewed list
+- stablyai/orca: 80.7/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 331 stars today; score 80.7/100.
+- google-labs-code/design.md: 65.0/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 619 stars today; score 65.0/100.
+- interviewstreet/hiring-agent: 64.9/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 203 stars today; score 64.9/100.
+- andreknieriem/headunit-revived: 59.5/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Kotlin project with 41 stars today; score 59.5/100.
+- apple/container: 59.1/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Swift project with 1838 stars today; score 59.1/100.
+- flutter/flutter: 56.1/100 [DevTools, Try Today, Deep Dive] DevTools, Try Today: Dart project with 73 stars today; score 56.1/100.
+- kunchenguid/no-mistakes: 51.3/100 [DevTools, Try Today] DevTools, Try Today: Go project with 110 stars today; score 51.3/100.
+- Flowseal/zapret-discord-youtube: 37.5/100 [Watch] Watch: Batchfile project with 61 stars today; score 37.5/100.
+
+Generated for 2026-06-25 from GitHub Trending daily.
