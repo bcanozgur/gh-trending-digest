@@ -1,0 +1,1452 @@
+{
+  "date": "2026-06-26",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-07T11:19:51Z",
+        "default_branch": "main",
+        "description": "AI \u65f6\u4ee3\u7684\u4f2f\u514b\u5e0c\u5c14\uff1a\u57fa\u4e8e Claude Code \u7684\u4ef7\u503c\u6295\u8d44\u7814\u7a76\u6846\u67b6\u3002\u5df4\u83f2\u7279\u00b7\u8292\u683c\u00b7\u6bb5\u6c38\u5e73\u00b7\u674e\u5f55\u56db\u5927\u5e08\u65b9\u6cd5\u8bba + \u591aAgent\u5e76\u884c\u7814\u7a76\u3002| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+        "fork": false,
+        "full_name": "xbtlin/ai-berkshire",
+        "homepage": "https://github.com/xbtlin/ai-berkshire#readme",
+        "latest_release": "v1.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 14,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-26T10:15:22Z",
+        "readme_excerpt": "\u4e2d\u6587 | [English](README_EN.md) # AI Berkshire - AI \u65f6\u4ee3\u7684\u4ef7\u503c\u6295\u8d44\u7814\u7a76\u6846\u67b6 > \"Price is what you pay, value is what you get.\" \u2014 Warren Buffett > > \u7528 AI \u91cd\u65b0\u5b9a\u4e49\u6295\u8d44\u7814\u7a76\u7684\u6df1\u5ea6\u4e0e\u6548\u7387\u3002 **AI Berkshire** \u662f\u4e00\u5957\u57fa\u4e8e [Claude Code](https://claude.ai/code) \u7684\u6295\u8d44\u7814\u7a76 Skill \u5408\u96c6\uff0c\u5c06\u5df4\u83f2\u7279\u3001\u8292\u683c\u3001\u6bb5\u6c38\u5e73\u3001\u674e\u5f55\u56db\u4f4d\u4ef7\u503c\u6295\u8d44\u5927\u5e08\u7684\u65b9\u6cd5\u8bba\u7cfb\u7edf\u5316\u3001\u7ed3\u6784\u5316\uff0c\u901a\u8fc7 AI Agent \u5b9e\u73b0\u4e13\u4e1a\u7ea7\u6295\u8d44\u7814\u7a76\u3002 \u4e00\u4e2a\u4eba + Claude = \u4e00\u4e2a\u6295\u7814\u56e2\u961f\u3002 --- ## Real Track Record > \u4e0d\u662f\u7eb8\u4e0a\u8c08\u5175\u3002\u8fd9\u5957\u6846\u67b6\u80cc\u540e\u662f\u771f\u91d1\u767d\u94f6\u9a8c\u8bc1\u7684\u6295\u8d44\u4f53\u7cfb\u3002 ### 2024 \u5168\u5e74\u6536\u76ca\uff1a+69.29% <img src=\"assets/2024-returns.jpg\" width=\"300\" /> ### 2025 \u5e74\u81f3\u4eca\u6536\u76ca\uff1a+66.38% <img src=\"assets/2025-returns.jpg\" width=\"",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "anthropic",
+          "berkshire-hathaway",
+          "charlie-munger",
+          "china-stock",
+          "claude",
+          "claude-code",
+          "financial-analysis",
+          "fintech",
+          "fundamental-analysis",
+          "investment",
+          "investment-research",
+          "llm",
+          "mcp",
+          "portfolio-management",
+          "stock-analysis",
+          "stock-market",
+          "value-investing",
+          "warren-buffett"
+        ],
+        "updated_at": "2026-06-26T10:35:09Z"
+      },
+      "repo": {
+        "description": "AI \u65f6\u4ee3\u7684\u4f2f\u514b\u5e0c\u5c14\uff1a\u57fa\u4e8e Claude Code \u7684\u4ef7\u503c\u6295\u8d44\u7814\u7a76\u6846\u67b6\u3002\u5df4\u83f2\u7279\u00b7\u8292\u683c\u00b7\u6bb5\u6c38\u5e73\u00b7\u674e\u5f55\u56db\u5927\u5e08\u65b9\u6cd5\u8bba + \u591aAgent\u5e76\u884c\u7814\u7a76\u3002| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+        "forks": 393,
+        "full_name": "xbtlin/ai-berkshire",
+        "language": "Python",
+        "name": "ai-berkshire",
+        "owner": "xbtlin",
+        "rank": 3,
+        "stars_today": 309,
+        "total_stars": 2738,
+        "url": "https://github.com/xbtlin/ai-berkshire"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.07,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 75.12
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 309 stars today; score 75.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-23T09:30:17Z",
+        "default_branch": "main",
+        "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+        "fork": false,
+        "full_name": "alibaba/page-agent",
+        "homepage": "https://alibaba.github.io/page-agent/",
+        "latest_release": "v1.10.0",
+        "license_spdx": "MIT",
+        "open_issues": 49,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-25T17:07:30Z",
+        "readme_excerpt": "# Page Agent <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://page-agent.github.io/assets/readme/banner-dark.png\"> <img alt=\"Page Agent Banner\" src=\"https://page-agent.github.io/assets/readme/banner-light.png\"> </picture> [![License: MIT](https://img.shields.io/badge/License-MIT-auto.svg)](https://opensource.org/licenses/MIT) [![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1.svg)](http://www.typescriptlang.org/) [![Bundle Size](https://img.shields.i",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agents",
+          "browser-automation",
+          "javascript",
+          "mcp",
+          "typescript",
+          "web"
+        ],
+        "updated_at": "2026-06-26T10:36:23Z"
+      },
+      "repo": {
+        "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+        "forks": 1731,
+        "full_name": "alibaba/page-agent",
+        "language": "TypeScript",
+        "name": "page-agent",
+        "owner": "alibaba",
+        "rank": 11,
+        "stars_today": 163,
+        "total_stars": 20140,
+        "url": "https://github.com/alibaba/page-agent"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.56,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 72.86
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 163 stars today; score 72.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-02-29T08:52:34Z",
+        "default_branch": "master",
+        "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+        "fork": false,
+        "full_name": "opendatalab/MinerU",
+        "homepage": "https://opendatalab.github.io/MinerU/",
+        "latest_release": "mineru-3.4.0-released",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 27,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-26T08:30:31Z",
+        "readme_excerpt": "<div align=\"center\" xmlns=\"http://www.w3.org/1999/html\"> <!-- logo --> <p align=\"center\"> <img src=\"https://gcore.jsdelivr.net/gh/opendatalab/MinerU@master/docs/images/MinerU-logo.png\" width=\"300px\" style=\"vertical-align:middle;\"> </p> <!-- icon --> [![stars](https://img.shields.io/github/stars/opendatalab/MinerU.svg)](https://github.com/opendatalab/MinerU) [![forks](https://img.shields.io/github/forks/opendatalab/MinerU.svg)](https://github.com/opendatalab/MinerU) [![open issues](https://img.sh",
+        "topics": [
+          "ai4science",
+          "document-analysis",
+          "docx",
+          "extract-data",
+          "layout-analysis",
+          "ocr",
+          "parser",
+          "pdf",
+          "pdf-converter",
+          "pdf-extractor-llm",
+          "pdf-extractor-pretrain",
+          "pdf-extractor-rag",
+          "pdf-parser",
+          "pptx",
+          "python",
+          "xlsx"
+        ],
+        "updated_at": "2026-06-26T10:36:18Z"
+      },
+      "repo": {
+        "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+        "forks": 5913,
+        "full_name": "opendatalab/MinerU",
+        "language": "Python",
+        "name": "MinerU",
+        "owner": "opendatalab",
+        "rank": 13,
+        "stars_today": 644,
+        "total_stars": 70006,
+        "url": "https://github.com/opendatalab/MinerU"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.45,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 69.2
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 644 stars today; score 69.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-27T18:57:41Z",
+        "default_branch": "main",
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "fork": false,
+        "full_name": "every-app/open-seo",
+        "homepage": "https://openseo.so",
+        "latest_release": "v0.0.21",
+        "license_spdx": "MIT",
+        "open_issues": 16,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-24T19:23:13Z",
+        "readme_excerpt": "# OpenSEO > Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for _the people_. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control. > All-in-one SEO tool for you and your AI agent. Connect with any agent like Claude Code, OpenClaw or Hermes. We have pre-built skills, but you can build your own to tailor OpenSEO to your needs. <img width=\"1385\" height=\"794\" alt=\"Image\" src=\"https://github.com/user-attac",
+        "topics": [
+          "backlink-analysis",
+          "google-search-console-mcp",
+          "keyword-research",
+          "mcp",
+          "seo",
+          "seo-tools",
+          "site-audit"
+        ],
+        "updated_at": "2026-06-26T10:36:53Z"
+      },
+      "repo": {
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "forks": 328,
+        "full_name": "every-app/open-seo",
+        "language": "TypeScript",
+        "name": "open-seo",
+        "owner": "every-app",
+        "rank": 7,
+        "stars_today": 57,
+        "total_stars": 2875,
+        "url": "https://github.com/every-app/open-seo"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.88,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 68.68
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 57 stars today; score 68.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-23T12:44:08Z",
+        "default_branch": "main",
+        "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+        "fork": false,
+        "full_name": "aws/agent-toolkit-for-aws",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 11,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-25T18:23:03Z",
+        "readme_excerpt": "# Agent Toolkit for AWS [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE) [![Build](https://github.com/aws/agent-toolkit-for-aws/actions/workflows/build.yml/badge.svg)](https://github.com/aws/agent-toolkit-for-aws/actions/workflows/build.yml) [![Status](https://img.shields.io/badge/status-GA-green.svg)](https://github.com/aws/agent-toolkit-for-aws) Help AI coding agents build, deploy, and manage applications on AWS. The Agent Toolkit for AWS gives AI coding agents",
+        "topics": [],
+        "updated_at": "2026-06-26T10:30:00Z"
+      },
+      "repo": {
+        "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+        "forks": 115,
+        "full_name": "aws/agent-toolkit-for-aws",
+        "language": "Python",
+        "name": "agent-toolkit-for-aws",
+        "owner": "aws",
+        "rank": 9,
+        "stars_today": 47,
+        "total_stars": 1230,
+        "url": "https://github.com/aws/agent-toolkit-for-aws"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.56,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 66.66
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 47 stars today; score 66.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2021-09-26T02:33:09Z",
+        "default_branch": "main",
+        "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+        "fork": false,
+        "full_name": "IceWhaleTech/CasaOS",
+        "homepage": "https://casaos.zimaspace.com",
+        "latest_release": "v0.4.15",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 808,
+        "primary_language": "Go",
+        "pushed_at": "2025-08-06T08:54:04Z",
+        "readme_excerpt": "# CasaOS - Your Personal Cloud <!-- Readme i18n links --> <!-- > English | [\u4e2d\u6587](#) | [Fran\u00e7ais](#) --> <p align=\"center\"> <!-- CasaOS Banner --> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/IceWhaleTech/logo/main/casaos/casaos_banner_dark_night_800x300.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/IceWhaleTech/logo/main/casaos/casaos_banner_twilight_blue_800x300.png\"> <img alt=\"CasaOS\" src=\"https:",
+        "topics": [
+          "casaos",
+          "docker",
+          "golang",
+          "home-automation",
+          "home-cloud",
+          "home-server",
+          "iot",
+          "raspberry",
+          "self-hosted",
+          "vuejs"
+        ],
+        "updated_at": "2026-06-26T10:35:25Z"
+      },
+      "repo": {
+        "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+        "forks": 2005,
+        "full_name": "IceWhaleTech/CasaOS",
+        "language": "Go",
+        "name": "CasaOS",
+        "owner": "IceWhaleTech",
+        "rank": 12,
+        "stars_today": 223,
+        "total_stars": 35056,
+        "url": "https://github.com/IceWhaleTech/CasaOS"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.56,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 66.65
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 223 stars today; score 66.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-19T11:51:54Z",
+        "default_branch": "main",
+        "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+        "fork": false,
+        "full_name": "mauriceboe/TREK",
+        "homepage": "https://demo.liketrek.com",
+        "latest_release": "v3.1.2",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 26,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-26T08:41:54Z",
+        "readme_excerpt": "<div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/logo-trek-light.gif\" /> <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/logo-trek-dark.gif\" /> <img src=\"docs/logo-trek-dark.gif\" alt=\"TREK\" height=\"96\" /> </picture> <br /> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/subtitle-light.png\" /> <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/subtitle-dark.png\" /> <img src=\"docs/subtitle-dark.png\" alt=\"Your trips. You",
+        "topics": [
+          "budget-tracker",
+          "collaborative",
+          "open-source",
+          "opensource",
+          "packing-list",
+          "poi",
+          "real-time",
+          "routes",
+          "self-hosted",
+          "travel",
+          "travel-app",
+          "travel-planner",
+          "traveling",
+          "trip",
+          "trip-planner",
+          "wanderlog",
+          "wanderlust",
+          "webapplication"
+        ],
+        "updated_at": "2026-06-26T10:35:30Z"
+      },
+      "repo": {
+        "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+        "forks": 633,
+        "full_name": "mauriceboe/TREK",
+        "language": "TypeScript",
+        "name": "TREK",
+        "owner": "mauriceboe",
+        "rank": 4,
+        "stars_today": 241,
+        "total_stars": 7167,
+        "url": "https://github.com/mauriceboe/TREK"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.76,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 1.53,
+        "technical_quality": 14.0,
+        "total": 51.34
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: TypeScript project with 241 stars today; score 51.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2021-04-13T09:13:48Z",
+        "default_branch": "master",
+        "description": "M3U Playlist for free TV channels",
+        "fork": false,
+        "full_name": "Free-TV/IPTV",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 228,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-17T05:25:41Z",
+        "readme_excerpt": "Free TV ======= This is an M3U playlist for free TV channels around the World. Either free locally (over the air): [<img src=\"https://hatscripts.github.io/circle-flags/flags/us.svg\" width=\"24\">](lists/usa.md) [<img src=\"https://hatscripts.github.io/circle-flags/flags/ca.svg\" width=\"24\">](lists/canada.md) [<img src=\"https://hatscripts.github.io/circle-flags/flags/gb.svg\" width=\"24\">](lists/uk.md) [<img src=\"https://hatscripts.github.io/circle-flags/flags/ie.svg\" width=\"24\">](lists/ireland.md) [<i",
+        "topics": [
+          "help-wanted",
+          "looking-for-contributors"
+        ],
+        "updated_at": "2026-06-26T10:33:57Z"
+      },
+      "repo": {
+        "description": "M3U Playlist for free TV channels",
+        "forks": 2690,
+        "full_name": "Free-TV/IPTV",
+        "language": "Python",
+        "name": "IPTV",
+        "owner": "Free-TV",
+        "rank": 14,
+        "stars_today": 139,
+        "total_stars": 18375,
+        "url": "https://github.com/Free-TV/IPTV"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.07,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 3.01,
+        "technical_quality": 9.1,
+        "total": 44.57
+      },
+      "tags": [
+        "AI Workflow"
+      ],
+      "verdict": "AI Workflow: Python project with 139 stars today; score 44.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/NanmiCoder",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\u5c0f\u7ea2\u4e66\u7b14\u8bb0 | \u8bc4\u8bba\u722c\u866b\u3001\u6296\u97f3\u89c6\u9891 | \u8bc4\u8bba\u722c\u866b\u3001\u5feb\u624b\u89c6\u9891 | \u8bc4\u8bba\u722c\u866b\u3001B \u7ad9\u89c6\u9891 \uff5c \u8bc4\u8bba\u722c\u866b\u3001\u5fae\u535a\u5e16\u5b50 \uff5c \u8bc4\u8bba\u722c\u866b\u3001\u767e\u5ea6\u8d34\u5427\u5e16\u5b50 \uff5c \u767e\u5ea6\u8d34\u5427\u8bc4\u8bba\u56de\u590d\u722c\u866b | \u77e5\u4e4e\u95ee\u7b54\u6587\u7ae0\uff5c\u8bc4\u8bba\u722c\u866b",
+        "forks": 10956,
+        "full_name": "sponsors/NanmiCoder",
+        "language": "Python",
+        "name": "NanmiCoder",
+        "owner": "sponsors",
+        "rank": 16,
+        "stars_today": 398,
+        "total_stars": 53182,
+        "url": "https://github.com/sponsors/NanmiCoder"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.41,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 0.99,
+        "technical_quality": 3.5,
+        "total": 21.8
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 398 stars today; score 21.8/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-07T11:19:51Z",
+        "default_branch": "main",
+        "description": "AI \u65f6\u4ee3\u7684\u4f2f\u514b\u5e0c\u5c14\uff1a\u57fa\u4e8e Claude Code \u7684\u4ef7\u503c\u6295\u8d44\u7814\u7a76\u6846\u67b6\u3002\u5df4\u83f2\u7279\u00b7\u8292\u683c\u00b7\u6bb5\u6c38\u5e73\u00b7\u674e\u5f55\u56db\u5927\u5e08\u65b9\u6cd5\u8bba + \u591aAgent\u5e76\u884c\u7814\u7a76\u3002| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+        "fork": false,
+        "full_name": "xbtlin/ai-berkshire",
+        "homepage": "https://github.com/xbtlin/ai-berkshire#readme",
+        "latest_release": "v1.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 14,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-26T10:15:22Z",
+        "readme_excerpt": "\u4e2d\u6587 | [English](README_EN.md) # AI Berkshire - AI \u65f6\u4ee3\u7684\u4ef7\u503c\u6295\u8d44\u7814\u7a76\u6846\u67b6 > \"Price is what you pay, value is what you get.\" \u2014 Warren Buffett > > \u7528 AI \u91cd\u65b0\u5b9a\u4e49\u6295\u8d44\u7814\u7a76\u7684\u6df1\u5ea6\u4e0e\u6548\u7387\u3002 **AI Berkshire** \u662f\u4e00\u5957\u57fa\u4e8e [Claude Code](https://claude.ai/code) \u7684\u6295\u8d44\u7814\u7a76 Skill \u5408\u96c6\uff0c\u5c06\u5df4\u83f2\u7279\u3001\u8292\u683c\u3001\u6bb5\u6c38\u5e73\u3001\u674e\u5f55\u56db\u4f4d\u4ef7\u503c\u6295\u8d44\u5927\u5e08\u7684\u65b9\u6cd5\u8bba\u7cfb\u7edf\u5316\u3001\u7ed3\u6784\u5316\uff0c\u901a\u8fc7 AI Agent \u5b9e\u73b0\u4e13\u4e1a\u7ea7\u6295\u8d44\u7814\u7a76\u3002 \u4e00\u4e2a\u4eba + Claude = \u4e00\u4e2a\u6295\u7814\u56e2\u961f\u3002 --- ## Real Track Record > \u4e0d\u662f\u7eb8\u4e0a\u8c08\u5175\u3002\u8fd9\u5957\u6846\u67b6\u80cc\u540e\u662f\u771f\u91d1\u767d\u94f6\u9a8c\u8bc1\u7684\u6295\u8d44\u4f53\u7cfb\u3002 ### 2024 \u5168\u5e74\u6536\u76ca\uff1a+69.29% <img src=\"assets/2024-returns.jpg\" width=\"300\" /> ### 2025 \u5e74\u81f3\u4eca\u6536\u76ca\uff1a+66.38% <img src=\"assets/2025-returns.jpg\" width=\"",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "anthropic",
+          "berkshire-hathaway",
+          "charlie-munger",
+          "china-stock",
+          "claude",
+          "claude-code",
+          "financial-analysis",
+          "fintech",
+          "fundamental-analysis",
+          "investment",
+          "investment-research",
+          "llm",
+          "mcp",
+          "portfolio-management",
+          "stock-analysis",
+          "stock-market",
+          "value-investing",
+          "warren-buffett"
+        ],
+        "updated_at": "2026-06-26T10:35:09Z"
+      },
+      "repo": {
+        "description": "AI \u65f6\u4ee3\u7684\u4f2f\u514b\u5e0c\u5c14\uff1a\u57fa\u4e8e Claude Code \u7684\u4ef7\u503c\u6295\u8d44\u7814\u7a76\u6846\u67b6\u3002\u5df4\u83f2\u7279\u00b7\u8292\u683c\u00b7\u6bb5\u6c38\u5e73\u00b7\u674e\u5f55\u56db\u5927\u5e08\u65b9\u6cd5\u8bba + \u591aAgent\u5e76\u884c\u7814\u7a76\u3002| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+        "forks": 393,
+        "full_name": "xbtlin/ai-berkshire",
+        "language": "Python",
+        "name": "ai-berkshire",
+        "owner": "xbtlin",
+        "rank": 3,
+        "stars_today": 309,
+        "total_stars": 2738,
+        "url": "https://github.com/xbtlin/ai-berkshire"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.07,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 75.12
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 309 stars today; score 75.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-13T11:14:39Z",
+        "default_branch": "master",
+        "description": "Clone any website with one command using AI coding agents",
+        "fork": false,
+        "full_name": "JCodesMore/ai-website-cloner-template",
+        "homepage": "https://dsc.gg/jcodesmore",
+        "latest_release": "v0.3.1",
+        "license_spdx": "MIT",
+        "open_issues": 17,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-01T04:09:21Z",
+        "readme_excerpt": "# AI Website Cloner Template <a href=\"https://github.com/JCodesMore/ai-website-cloner-template/blob/master/LICENSE\"><img src=\"https://img.shields.io/badge/license-MIT-blue\" alt=\"MIT License\" /></a> <a href=\"https://github.com/JCodesMore/ai-website-cloner-template/stargazers\"><img src=\"https://img.shields.io/github/stars/JCodesMore/ai-website-cloner-template?style=flat\" alt=\"Stars\" /></a> <a href=\"https://discord.gg/hrTSX5yTpB\"><img src=\"https://img.shields.io/discord/1400896964597383279?label=di",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-tools",
+          "automation",
+          "boilerplate",
+          "claude",
+          "claude-code",
+          "clone",
+          "developer-tools",
+          "nextjs",
+          "react",
+          "reverse-engineering",
+          "shadcn-ui",
+          "skills",
+          "tailwindcss",
+          "template",
+          "typescript",
+          "web-scraping",
+          "website-clone"
+        ],
+        "updated_at": "2026-06-26T10:36:43Z"
+      },
+      "repo": {
+        "description": "Clone any website with one command using AI coding agents",
+        "forks": 3057,
+        "full_name": "JCodesMore/ai-website-cloner-template",
+        "language": "TypeScript",
+        "name": "ai-website-cloner-template",
+        "owner": "JCodesMore",
+        "rank": 6,
+        "stars_today": 1024,
+        "total_stars": 20946,
+        "url": "https://github.com/JCodesMore/ai-website-cloner-template"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.38,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 74.08
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1024 stars today; score 74.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-23T09:30:17Z",
+        "default_branch": "main",
+        "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+        "fork": false,
+        "full_name": "alibaba/page-agent",
+        "homepage": "https://alibaba.github.io/page-agent/",
+        "latest_release": "v1.10.0",
+        "license_spdx": "MIT",
+        "open_issues": 49,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-25T17:07:30Z",
+        "readme_excerpt": "# Page Agent <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://page-agent.github.io/assets/readme/banner-dark.png\"> <img alt=\"Page Agent Banner\" src=\"https://page-agent.github.io/assets/readme/banner-light.png\"> </picture> [![License: MIT](https://img.shields.io/badge/License-MIT-auto.svg)](https://opensource.org/licenses/MIT) [![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1.svg)](http://www.typescriptlang.org/) [![Bundle Size](https://img.shields.i",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agents",
+          "browser-automation",
+          "javascript",
+          "mcp",
+          "typescript",
+          "web"
+        ],
+        "updated_at": "2026-06-26T10:36:23Z"
+      },
+      "repo": {
+        "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+        "forks": 1731,
+        "full_name": "alibaba/page-agent",
+        "language": "TypeScript",
+        "name": "page-agent",
+        "owner": "alibaba",
+        "rank": 11,
+        "stars_today": 163,
+        "total_stars": 20140,
+        "url": "https://github.com/alibaba/page-agent"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.56,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 72.86
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 163 stars today; score 72.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-02-29T08:52:34Z",
+        "default_branch": "master",
+        "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+        "fork": false,
+        "full_name": "opendatalab/MinerU",
+        "homepage": "https://opendatalab.github.io/MinerU/",
+        "latest_release": "mineru-3.4.0-released",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 27,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-26T08:30:31Z",
+        "readme_excerpt": "<div align=\"center\" xmlns=\"http://www.w3.org/1999/html\"> <!-- logo --> <p align=\"center\"> <img src=\"https://gcore.jsdelivr.net/gh/opendatalab/MinerU@master/docs/images/MinerU-logo.png\" width=\"300px\" style=\"vertical-align:middle;\"> </p> <!-- icon --> [![stars](https://img.shields.io/github/stars/opendatalab/MinerU.svg)](https://github.com/opendatalab/MinerU) [![forks](https://img.shields.io/github/forks/opendatalab/MinerU.svg)](https://github.com/opendatalab/MinerU) [![open issues](https://img.sh",
+        "topics": [
+          "ai4science",
+          "document-analysis",
+          "docx",
+          "extract-data",
+          "layout-analysis",
+          "ocr",
+          "parser",
+          "pdf",
+          "pdf-converter",
+          "pdf-extractor-llm",
+          "pdf-extractor-pretrain",
+          "pdf-extractor-rag",
+          "pdf-parser",
+          "pptx",
+          "python",
+          "xlsx"
+        ],
+        "updated_at": "2026-06-26T10:36:18Z"
+      },
+      "repo": {
+        "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+        "forks": 5913,
+        "full_name": "opendatalab/MinerU",
+        "language": "Python",
+        "name": "MinerU",
+        "owner": "opendatalab",
+        "rank": 13,
+        "stars_today": 644,
+        "total_stars": 70006,
+        "url": "https://github.com/opendatalab/MinerU"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.45,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 69.2
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 644 stars today; score 69.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-27T18:57:41Z",
+        "default_branch": "main",
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "fork": false,
+        "full_name": "every-app/open-seo",
+        "homepage": "https://openseo.so",
+        "latest_release": "v0.0.21",
+        "license_spdx": "MIT",
+        "open_issues": 16,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-24T19:23:13Z",
+        "readme_excerpt": "# OpenSEO > Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for _the people_. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control. > All-in-one SEO tool for you and your AI agent. Connect with any agent like Claude Code, OpenClaw or Hermes. We have pre-built skills, but you can build your own to tailor OpenSEO to your needs. <img width=\"1385\" height=\"794\" alt=\"Image\" src=\"https://github.com/user-attac",
+        "topics": [
+          "backlink-analysis",
+          "google-search-console-mcp",
+          "keyword-research",
+          "mcp",
+          "seo",
+          "seo-tools",
+          "site-audit"
+        ],
+        "updated_at": "2026-06-26T10:36:53Z"
+      },
+      "repo": {
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "forks": 328,
+        "full_name": "every-app/open-seo",
+        "language": "TypeScript",
+        "name": "open-seo",
+        "owner": "every-app",
+        "rank": 7,
+        "stars_today": 57,
+        "total_stars": 2875,
+        "url": "https://github.com/every-app/open-seo"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.88,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 68.68
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 57 stars today; score 68.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-31T14:15:28Z",
+        "default_branch": "main",
+        "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+        "fork": false,
+        "full_name": "shanraisshan/claude-code-best-practice",
+        "homepage": "https://linkedin.com/in/shanraisshan",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 11,
+        "primary_language": "HTML",
+        "pushed_at": "2026-06-26T07:34:50Z",
+        "readme_excerpt": "# claude-code-best-practice from vibe coding to agentic engineering - practice makes claude perfect ![updated with Claude Code](https://img.shields.io/badge/updated_with_Claude_Code-Jun%2026%2C%202026%209%3A40%20AM%20PKT-white?style=flat&labelColor=555) <a href=\"https://github.com/shanraisshan/claude-code-best-practice/stargazers\"><img src=\"https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat&label=%E2%98%85&labelColor=555&color=white\" alt=\"GitHub Stars\"></a><br>",
+        "topics": [
+          "agentic-ai",
+          "agentic-coding",
+          "agentic-engineering",
+          "agentic-workflow",
+          "ai",
+          "ai-agents",
+          "anthropic",
+          "best-practices",
+          "boris",
+          "claude",
+          "claude-ai",
+          "claude-code",
+          "claude-code-agents",
+          "claude-code-best-practices",
+          "claude-code-commands",
+          "claude-code-skills",
+          "context-engineering",
+          "pakistan",
+          "pakistani-developer",
+          "vibe-coding"
+        ],
+        "updated_at": "2026-06-26T10:36:58Z"
+      },
+      "repo": {
+        "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+        "forks": 6094,
+        "full_name": "shanraisshan/claude-code-best-practice",
+        "language": "HTML",
+        "name": "claude-code-best-practice",
+        "owner": "shanraisshan",
+        "rank": 15,
+        "stars_today": 287,
+        "total_stars": 61012,
+        "url": "https://github.com/shanraisshan/claude-code-best-practice"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.29,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.6,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.9,
+        "total": 67.49
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: HTML project with 287 stars today; score 67.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-23T12:44:08Z",
+        "default_branch": "main",
+        "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+        "fork": false,
+        "full_name": "aws/agent-toolkit-for-aws",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 11,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-25T18:23:03Z",
+        "readme_excerpt": "# Agent Toolkit for AWS [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE) [![Build](https://github.com/aws/agent-toolkit-for-aws/actions/workflows/build.yml/badge.svg)](https://github.com/aws/agent-toolkit-for-aws/actions/workflows/build.yml) [![Status](https://img.shields.io/badge/status-GA-green.svg)](https://github.com/aws/agent-toolkit-for-aws) Help AI coding agents build, deploy, and manage applications on AWS. The Agent Toolkit for AWS gives AI coding agents",
+        "topics": [],
+        "updated_at": "2026-06-26T10:30:00Z"
+      },
+      "repo": {
+        "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+        "forks": 115,
+        "full_name": "aws/agent-toolkit-for-aws",
+        "language": "Python",
+        "name": "agent-toolkit-for-aws",
+        "owner": "aws",
+        "rank": 9,
+        "stars_today": 47,
+        "total_stars": 1230,
+        "url": "https://github.com/aws/agent-toolkit-for-aws"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.56,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 66.66
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 47 stars today; score 66.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2021-09-26T02:33:09Z",
+        "default_branch": "main",
+        "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+        "fork": false,
+        "full_name": "IceWhaleTech/CasaOS",
+        "homepage": "https://casaos.zimaspace.com",
+        "latest_release": "v0.4.15",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 808,
+        "primary_language": "Go",
+        "pushed_at": "2025-08-06T08:54:04Z",
+        "readme_excerpt": "# CasaOS - Your Personal Cloud <!-- Readme i18n links --> <!-- > English | [\u4e2d\u6587](#) | [Fran\u00e7ais](#) --> <p align=\"center\"> <!-- CasaOS Banner --> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/IceWhaleTech/logo/main/casaos/casaos_banner_dark_night_800x300.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/IceWhaleTech/logo/main/casaos/casaos_banner_twilight_blue_800x300.png\"> <img alt=\"CasaOS\" src=\"https:",
+        "topics": [
+          "casaos",
+          "docker",
+          "golang",
+          "home-automation",
+          "home-cloud",
+          "home-server",
+          "iot",
+          "raspberry",
+          "self-hosted",
+          "vuejs"
+        ],
+        "updated_at": "2026-06-26T10:35:25Z"
+      },
+      "repo": {
+        "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+        "forks": 2005,
+        "full_name": "IceWhaleTech/CasaOS",
+        "language": "Go",
+        "name": "CasaOS",
+        "owner": "IceWhaleTech",
+        "rank": 12,
+        "stars_today": 223,
+        "total_stars": 35056,
+        "url": "https://github.com/IceWhaleTech/CasaOS"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.56,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 66.65
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 223 stars today; score 66.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-11T21:22:45Z",
+        "default_branch": "main",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+        "fork": false,
+        "full_name": "garrytan/gstack",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 738,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-25T16:42:45Z",
+        "readme_excerpt": "# gstack > \"I don't think I've typed like a line of code probably since December, basically, which is an extremely large change.\" \u2014 [Andrej Karpathy](https://fortune.com/2026/03/21/andrej-karpathy-openai-cofounder-ai-agents-coding-state-of-psychosis-openclaw/), No Priors podcast, March 2026 When I heard Karpathy say this, I wanted to find out how. How does one person ship like a team of twenty? Peter Steinberger built [OpenClaw](https://github.com/openclaw/openclaw) \u2014 247K GitHub stars \u2014 essenti",
+        "topics": [],
+        "updated_at": "2026-06-26T10:36:34Z"
+      },
+      "repo": {
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+        "forks": 17214,
+        "full_name": "garrytan/gstack",
+        "language": "TypeScript",
+        "name": "gstack",
+        "owner": "garrytan",
+        "rank": 8,
+        "stars_today": 767,
+        "total_stars": 116207,
+        "url": "https://github.com/garrytan/gstack"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.47,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.9,
+        "total": 65.77
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 767 stars today; score 65.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-10T17:54:59Z",
+        "default_branch": "main",
+        "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+        "fork": false,
+        "full_name": "google-labs-code/design.md",
+        "homepage": "https://stitch.withgoogle.com/docs/design-md/specification",
+        "latest_release": "0.3.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 32,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-15T22:22:46Z",
+        "readme_excerpt": "# DESIGN.md A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. ## The Format A DESIGN.md file combines machine-readable design tokens (YAML front matter) with human-readable design rationale (markdown prose). Tokens give agents exact values. Prose tells them *why* those values exist and how to apply them. ```md --- name: Heritage colors: primary: \"#1A1C1E\" secondary: \"#6C7278\" tertiary: \"#B84",
+        "topics": [],
+        "updated_at": "2026-06-26T10:36:48Z"
+      },
+      "repo": {
+        "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+        "forks": 1683,
+        "full_name": "google-labs-code/design.md",
+        "language": "TypeScript",
+        "name": "design.md",
+        "owner": "google-labs-code",
+        "rank": 1,
+        "stars_today": 1475,
+        "total_stars": 20310,
+        "url": "https://github.com/google-labs-code/design.md"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.21,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.31
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 1475 stars today; score 63.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-05-30T21:26:05Z",
+        "default_branch": "main",
+        "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
+        "fork": false,
+        "full_name": "apple/container",
+        "homepage": "https://apple.github.io/container/documentation/",
+        "latest_release": "1.0.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 384,
+        "primary_language": "Swift",
+        "pushed_at": "2026-06-26T04:44:13Z",
+        "readme_excerpt": "<h1> <img alt=\"Containerization logo\" src=\"./assets/Containerization-Logo.png\" width=\"70\" valign=\"middle\"> &nbsp;container </h1> `container` is a tool that you can use to create and run Linux containers as lightweight virtual machines on your Mac. It's written in Swift, and optimized for Apple silicon. The tool consumes and produces [OCI-compatible container images](https://github.com/opencontainers/image-spec), so you can pull and run images from any standard container registry. You can push im",
+        "topics": [],
+        "updated_at": "2026-06-26T10:36:40Z"
+      },
+      "repo": {
+        "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+        "forks": 1276,
+        "full_name": "apple/container",
+        "language": "Swift",
+        "name": "container",
+        "owner": "apple",
+        "rank": 5,
+        "stars_today": 1351,
+        "total_stars": 43480,
+        "url": "https://github.com/apple/container"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.33,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 57.93
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Swift project with 1351 stars today; score 57.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-19T11:51:54Z",
+        "default_branch": "main",
+        "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+        "fork": false,
+        "full_name": "mauriceboe/TREK",
+        "homepage": "https://demo.liketrek.com",
+        "latest_release": "v3.1.2",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 26,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-26T08:41:54Z",
+        "readme_excerpt": "<div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/logo-trek-light.gif\" /> <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/logo-trek-dark.gif\" /> <img src=\"docs/logo-trek-dark.gif\" alt=\"TREK\" height=\"96\" /> </picture> <br /> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/subtitle-light.png\" /> <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/subtitle-dark.png\" /> <img src=\"docs/subtitle-dark.png\" alt=\"Your trips. You",
+        "topics": [
+          "budget-tracker",
+          "collaborative",
+          "open-source",
+          "opensource",
+          "packing-list",
+          "poi",
+          "real-time",
+          "routes",
+          "self-hosted",
+          "travel",
+          "travel-app",
+          "travel-planner",
+          "traveling",
+          "trip",
+          "trip-planner",
+          "wanderlog",
+          "wanderlust",
+          "webapplication"
+        ],
+        "updated_at": "2026-06-26T10:35:30Z"
+      },
+      "repo": {
+        "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+        "forks": 633,
+        "full_name": "mauriceboe/TREK",
+        "language": "TypeScript",
+        "name": "TREK",
+        "owner": "mauriceboe",
+        "rank": 4,
+        "stars_today": 241,
+        "total_stars": 7167,
+        "url": "https://github.com/mauriceboe/TREK"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.76,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 1.53,
+        "technical_quality": 14.0,
+        "total": 51.34
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: TypeScript project with 241 stars today; score 51.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mukul975",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "817 structured cybersecurity skills for AI agents \u00b7 Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) \u00b7 agentskills.io standard \u00b7 Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms \u00b7 29 security domains \u00b7 Apache 2.0",
+        "forks": 2477,
+        "full_name": "sponsors/mukul975",
+        "language": "Python",
+        "name": "mukul975",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 571,
+        "total_stars": 21578,
+        "url": "https://github.com/sponsors/mukul975"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.7,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 0.7,
+        "strategic_relevance": 7.0,
+        "technical_quality": 3.5,
+        "total": 50.7
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 571 stars today; score 50.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2021-04-13T09:13:48Z",
+        "default_branch": "master",
+        "description": "M3U Playlist for free TV channels",
+        "fork": false,
+        "full_name": "Free-TV/IPTV",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 228,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-17T05:25:41Z",
+        "readme_excerpt": "Free TV ======= This is an M3U playlist for free TV channels around the World. Either free locally (over the air): [<img src=\"https://hatscripts.github.io/circle-flags/flags/us.svg\" width=\"24\">](lists/usa.md) [<img src=\"https://hatscripts.github.io/circle-flags/flags/ca.svg\" width=\"24\">](lists/canada.md) [<img src=\"https://hatscripts.github.io/circle-flags/flags/gb.svg\" width=\"24\">](lists/uk.md) [<img src=\"https://hatscripts.github.io/circle-flags/flags/ie.svg\" width=\"24\">](lists/ireland.md) [<i",
+        "topics": [
+          "help-wanted",
+          "looking-for-contributors"
+        ],
+        "updated_at": "2026-06-26T10:33:57Z"
+      },
+      "repo": {
+        "description": "M3U Playlist for free TV channels",
+        "forks": 2690,
+        "full_name": "Free-TV/IPTV",
+        "language": "Python",
+        "name": "IPTV",
+        "owner": "Free-TV",
+        "rank": 14,
+        "stars_today": 139,
+        "total_stars": 18375,
+        "url": "https://github.com/Free-TV/IPTV"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.07,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 3.01,
+        "technical_quality": 9.1,
+        "total": 44.57
+      },
+      "tags": [
+        "AI Workflow"
+      ],
+      "verdict": "AI Workflow: Python project with 139 stars today; score 44.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/calesthio",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "forks": 2551,
+        "full_name": "sponsors/calesthio",
+        "language": "Python",
+        "name": "calesthio",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 3434,
+        "total_stars": 22922,
+        "url": "https://github.com/sponsors/calesthio"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 11.86,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.84,
+        "technical_quality": 3.5,
+        "total": 40.88
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 3434 stars today; score 40.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/NanmiCoder",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\u5c0f\u7ea2\u4e66\u7b14\u8bb0 | \u8bc4\u8bba\u722c\u866b\u3001\u6296\u97f3\u89c6\u9891 | \u8bc4\u8bba\u722c\u866b\u3001\u5feb\u624b\u89c6\u9891 | \u8bc4\u8bba\u722c\u866b\u3001B \u7ad9\u89c6\u9891 \uff5c \u8bc4\u8bba\u722c\u866b\u3001\u5fae\u535a\u5e16\u5b50 \uff5c \u8bc4\u8bba\u722c\u866b\u3001\u767e\u5ea6\u8d34\u5427\u5e16\u5b50 \uff5c \u767e\u5ea6\u8d34\u5427\u8bc4\u8bba\u56de\u590d\u722c\u866b | \u77e5\u4e4e\u95ee\u7b54\u6587\u7ae0\uff5c\u8bc4\u8bba\u722c\u866b",
+        "forks": 10956,
+        "full_name": "sponsors/NanmiCoder",
+        "language": "Python",
+        "name": "NanmiCoder",
+        "owner": "sponsors",
+        "rank": 16,
+        "stars_today": 398,
+        "total_stars": 53182,
+        "url": "https://github.com/sponsors/NanmiCoder"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.41,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 0.99,
+        "technical_quality": 3.5,
+        "total": 21.8
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 398 stars today; score 21.8/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-06-26",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is xbtlin/ai-berkshire."
+}

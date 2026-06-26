@@ -1,0 +1,33 @@
+GitHub Trending: AI workflow signal - 2026-06-26
+
+Today leans toward AI workflow signal; the strongest pick is xbtlin/ai-berkshire.
+
+Top picks
+1. xbtlin/ai-berkshire - 75.1/100
+   https://github.com/xbtlin/ai-berkshire
+   AI Workflow, DevTools: Python project with 309 stars today; score 75.1/100.
+2. alibaba/page-agent - 72.9/100
+   https://github.com/alibaba/page-agent
+   AI Workflow, Try Today: TypeScript project with 163 stars today; score 72.9/100.
+3. opendatalab/MinerU - 69.2/100
+   https://github.com/opendatalab/MinerU
+   AI Workflow, DevTools: Python project with 644 stars today; score 69.2/100.
+4. every-app/open-seo - 68.7/100
+   https://github.com/every-app/open-seo
+   AI Workflow, Try Today: TypeScript project with 57 stars today; score 68.7/100.
+5. aws/agent-toolkit-for-aws - 66.7/100
+   https://github.com/aws/agent-toolkit-for-aws
+   AI Workflow, DevTools: Python project with 47 stars today; score 66.7/100.
+
+Full reviewed list
+- xbtlin/ai-berkshire: 75.1/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 309 stars today; score 75.1/100.
+- alibaba/page-agent: 72.9/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 163 stars today; score 72.9/100.
+- opendatalab/MinerU: 69.2/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 644 stars today; score 69.2/100.
+- every-app/open-seo: 68.7/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 57 stars today; score 68.7/100.
+- aws/agent-toolkit-for-aws: 66.7/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 47 stars today; score 66.7/100.
+- IceWhaleTech/CasaOS: 66.7/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Go project with 223 stars today; score 66.7/100.
+- mauriceboe/TREK: 51.3/100 [Try Today] Try Today: TypeScript project with 241 stars today; score 51.3/100.
+- Free-TV/IPTV: 44.6/100 [AI Workflow] AI Workflow: Python project with 139 stars today; score 44.6/100.
+- sponsors/NanmiCoder: 21.8/100 [Watch, Hype Risk] Watch, Hype Risk: Python project with 398 stars today; score 21.8/100.
+
+Generated for 2026-06-26 from GitHub Trending daily.
