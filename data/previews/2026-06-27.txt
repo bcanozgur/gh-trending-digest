@@ -1,0 +1,30 @@
+GitHub Trending: AI workflow signal - 2026-06-27
+
+Today leans toward AI workflow signal; the strongest pick is Panniantong/Agent-Reach.
+
+Top picks
+1. Panniantong/Agent-Reach - 73.1/100
+   https://github.com/Panniantong/Agent-Reach
+   AI Workflow, DevTools: Python project with 1194 stars today; score 73.1/100.
+2. commaai/openpilot - 60.4/100
+   https://github.com/commaai/openpilot
+   AI Workflow, Try Today: Python project with 80 stars today; score 60.4/100.
+3. alchaincyf/zhangxuefeng-skill - 59.2/100
+   https://github.com/alchaincyf/zhangxuefeng-skill
+   AI Workflow, Try Today: Unknown project with 160 stars today; score 59.2/100.
+4. grafana/grafana - 50.5/100
+   https://github.com/grafana/grafana
+   Try Today: TypeScript project with 32 stars today; score 50.5/100.
+5. ripienaar/free-for-dev - 46.3/100
+   https://github.com/ripienaar/free-for-dev
+   DevTools: HTML project with 90 stars today; score 46.3/100.
+
+Full reviewed list
+- Panniantong/Agent-Reach: 73.1/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 1194 stars today; score 73.1/100.
+- commaai/openpilot: 60.4/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 80 stars today; score 60.4/100.
+- alchaincyf/zhangxuefeng-skill: 59.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Unknown project with 160 stars today; score 59.2/100.
+- grafana/grafana: 50.5/100 [Try Today] Try Today: TypeScript project with 32 stars today; score 50.5/100.
+- ripienaar/free-for-dev: 46.3/100 [DevTools] DevTools: HTML project with 90 stars today; score 46.3/100.
+- sponsors/simplex-chat: 25.6/100 [Watch, Hype Risk] Watch, Hype Risk: Haskell project with 432 stars today; score 25.6/100.
+
+Generated for 2026-06-27 from GitHub Trending daily.
