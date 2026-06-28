@@ -1,0 +1,33 @@
+GitHub Trending: AI workflow signal - 2026-06-28
+
+Today leans toward AI workflow signal; the strongest pick is Anil-matcha/Open-Generative-AI.
+
+Top picks
+1. Anil-matcha/Open-Generative-AI - 69.3/100
+   https://github.com/Anil-matcha/Open-Generative-AI
+   AI Workflow, DevTools: JavaScript project with 255 stars today; score 69.3/100.
+2. HKUDS/Vibe-Trading - 67.6/100
+   https://github.com/HKUDS/Vibe-Trading
+   AI Workflow, DevTools: Python project with 92 stars today; score 67.6/100.
+3. dbt-labs/dbt-core - 63.3/100
+   https://github.com/dbt-labs/dbt-core
+   AI Workflow, Try Today: Rust project with 18 stars today; score 63.3/100.
+4. Fission-AI/OpenSpec - 59.2/100
+   https://github.com/Fission-AI/OpenSpec
+   AI Workflow, DevTools: TypeScript project with 177 stars today; score 59.2/100.
+5. microsoft/PowerToys - 46.9/100
+   https://github.com/microsoft/PowerToys
+   Try Today: C project with 57 stars today; score 46.9/100.
+
+Full reviewed list
+- Anil-matcha/Open-Generative-AI: 69.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: JavaScript project with 255 stars today; score 69.3/100.
+- HKUDS/Vibe-Trading: 67.6/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 92 stars today; score 67.6/100.
+- dbt-labs/dbt-core: 63.3/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Rust project with 18 stars today; score 63.3/100.
+- Fission-AI/OpenSpec: 59.2/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 177 stars today; score 59.2/100.
+- microsoft/PowerToys: 46.9/100 [Try Today] Try Today: C project with 57 stars today; score 46.9/100.
+- sponsors/topoteretes: 39.2/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Python project with 780 stars today; score 39.2/100.
+- sponsors/luongnv89: 38.2/100 [AI Workflow, Hype Risk] AI Workflow, Hype Risk: Python project with 141 stars today; score 38.2/100.
+- sponsors/anomalyco: 32.9/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: TypeScript project with 392 stars today; score 32.9/100.
+- sponsors/keycloak: 20.2/100 [Watch, Hype Risk] Watch, Hype Risk: Java project with 20 stars today; score 20.2/100.
+
+Generated for 2026-06-28 from GitHub Trending daily.
