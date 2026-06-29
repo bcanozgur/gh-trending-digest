@@ -1,0 +1,34 @@
+GitHub Trending: AI workflow signal - 2026-06-29
+
+Today leans toward AI workflow signal; the strongest pick is Unclecheng-li/VulnClaw.
+
+Top picks
+1. Unclecheng-li/VulnClaw - 78.5/100
+   https://github.com/Unclecheng-li/VulnClaw
+   AI Workflow, DevTools: Python project with 105 stars today; score 78.5/100.
+2. browser-use/video-use - 64.7/100
+   https://github.com/browser-use/video-use
+   AI Workflow, Try Today: Python project with 196 stars today; score 64.7/100.
+3. veracrypt/VeraCrypt - 57.4/100
+   https://github.com/veracrypt/VeraCrypt
+   AI Workflow, Try Today: C project with 114 stars today; score 57.4/100.
+4. refactoringhq/tolaria - 54.9/100
+   https://github.com/refactoringhq/tolaria
+   AI Workflow, DevTools: TypeScript project with 249 stars today; score 54.9/100.
+5. sponsors/msitarzewski - 39.0/100
+   https://github.com/sponsors/msitarzewski
+   AI Workflow, Watch: Shell project with 1221 stars today; score 39.0/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- Unclecheng-li/VulnClaw: 78.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 105 stars today; score 78.5/100.
+- browser-use/video-use: 64.7/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 196 stars today; score 64.7/100.
+- veracrypt/VeraCrypt: 57.4/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: C project with 114 stars today; score 57.4/100.
+- refactoringhq/tolaria: 54.9/100 [AI Workflow, DevTools, Try Today] AI Workflow, DevTools: TypeScript project with 249 stars today; score 54.9/100.
+- sponsors/msitarzewski: 39.0/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Shell project with 1221 stars today; score 39.0/100.
+- sponsors/logto-io: 32.2/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: TypeScript project with 77 stars today; score 32.2/100.
+- sponsors/altic-dev: 25.9/100 [Watch, Hype Risk] Watch, Hype Risk: Swift project with 365 stars today; score 25.9/100.
+- sponsors/cupy: 24.5/100 [Watch, Hype Risk] Watch, Hype Risk: Python project with 174 stars today; score 24.5/100.
+- sponsors/soxoj: 19.0/100 [Watch, Hype Risk] Watch, Hype Risk: Python project with 191 stars today; score 19.0/100.
+
+Generated for 2026-06-29 from GitHub Trending daily.
