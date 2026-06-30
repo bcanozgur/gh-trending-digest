@@ -1,0 +1,13 @@
+GitHub Trending: daily developer signal - 2026-06-30
+
+Today leans toward daily developer signal; the strongest pick is 0xNyk/council-of-high-intelligence.
+
+Top picks
+1. 0xNyk/council-of-high-intelligence - 73.5/100
+   https://github.com/0xNyk/council-of-high-intelligence
+   AI Workflow, Try Today: Shell project with 331 stars today; score 73.5/100.
+
+Full reviewed list
+- 0xNyk/council-of-high-intelligence: 73.5/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Shell project with 331 stars today; score 73.5/100.
+
+Generated for 2026-06-30 from GitHub Trending daily.

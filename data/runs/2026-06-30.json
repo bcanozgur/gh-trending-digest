@@ -1,0 +1,868 @@
+{
+  "date": "2026-06-30",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-02T08:47:09Z",
+        "default_branch": "main",
+        "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more \u2014 structured multi-round deliberation with genuine model diversity. One command: /council",
+        "fork": false,
+        "full_name": "0xNyk/council-of-high-intelligence",
+        "homepage": null,
+        "latest_release": "v1.1.0",
+        "license_spdx": "MIT",
+        "open_issues": 6,
+        "primary_language": "Shell",
+        "pushed_at": "2026-06-27T03:38:09Z",
+        "readme_excerpt": "# Council of High Intelligence <p align=\"center\"> <img src=\"assets/header.jpeg\" alt=\"Council of High Intelligence\" width=\"800\"> </p> <p align=\"center\"> 18 AI personas deliberate your hardest decisions across multiple LLM providers. One command. </p> <p align=\"center\"> <a href=\"https://github.com/0xNyk/council-of-high-intelligence/releases\"><img src=\"https://img.shields.io/github/v/release/0xNyk/council-of-high-intelligence\" alt=\"Release\"></a> <a href=\"https://github.com/0xNyk/council-of-high-int",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "decision-making",
+          "deliberation",
+          "gemini",
+          "multi-llm",
+          "ollama",
+          "openai",
+          "prompt-engineering"
+        ],
+        "updated_at": "2026-06-30T10:43:15Z"
+      },
+      "repo": {
+        "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more \u2014 structured multi-round deliberation with genuine model diversity. One command: /council",
+        "forks": 218,
+        "full_name": "0xNyk/council-of-high-intelligence",
+        "language": "Shell",
+        "name": "council-of-high-intelligence",
+        "owner": "0xNyk",
+        "rank": 12,
+        "stars_today": 331,
+        "total_stars": 2248,
+        "url": "https://github.com/0xNyk/council-of-high-intelligence"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.45,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.45
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Shell project with 331 stars today; score 73.5/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-07T11:19:51Z",
+        "default_branch": "main",
+        "description": "AI \u65f6\u4ee3\u7684\u4f2f\u514b\u5e0c\u5c14\uff1a\u57fa\u4e8e Claude Code / Codex \u7684\u4ef7\u503c\u6295\u8d44\u7814\u7a76\u6846\u67b6\u3002\u5df4\u83f2\u7279\u00b7\u8292\u683c\u00b7\u6bb5\u6c38\u5e73\u00b7\u674e\u5f55\u56db\u5927\u5e08\u65b9\u6cd5\u8bba + \u591aAgent\u5e76\u884c\u7814\u7a76\u3002| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+        "fork": false,
+        "full_name": "xbtlin/ai-berkshire",
+        "homepage": "https://github.com/xbtlin/ai-berkshire#readme",
+        "latest_release": "v1.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 26,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-30T03:13:44Z",
+        "readme_excerpt": "\u4e2d\u6587 | [English](README_EN.md) # AI Berkshire - AI \u65f6\u4ee3\u7684\u4ef7\u503c\u6295\u8d44\u7814\u7a76\u6846\u67b6 > \"Price is what you pay, value is what you get.\" \u2014 Warren Buffett > > \u7528 AI \u91cd\u65b0\u5b9a\u4e49\u6295\u8d44\u7814\u7a76\u7684\u6df1\u5ea6\u4e0e\u6548\u7387\u3002 **AI Berkshire** \u662f\u4e00\u5957\u540c\u65f6\u517c\u5bb9 Claude Code \u4e0e Codex \u7684\u6295\u8d44\u7814\u7a76 Skill \u5408\u96c6\uff0c\u5c06\u5df4\u83f2\u7279\u3001\u8292\u683c\u3001\u6bb5\u6c38\u5e73\u3001\u674e\u5f55\u56db\u4f4d\u4ef7\u503c\u6295\u8d44\u5927\u5e08\u7684\u65b9\u6cd5\u8bba\u7cfb\u7edf\u5316\u3001\u7ed3\u6784\u5316\uff0c\u901a\u8fc7 AI Agent \u5b9e\u73b0\u4e13\u4e1a\u7ea7\u6295\u8d44\u7814\u7a76\u3002 \u4e00\u4e2a\u4eba + Claude Code / Codex = \u4e00\u4e2a\u6295\u7814\u56e2\u961f\u3002 --- ## Real Track Record > \u4e0d\u662f\u7eb8\u4e0a\u8c08\u5175\u3002\u8fd9\u5957\u6846\u67b6\u80cc\u540e\u662f\u771f\u91d1\u767d\u94f6\u9a8c\u8bc1\u7684\u6295\u8d44\u4f53\u7cfb\u3002 ### 2024 \u5168\u5e74\u6536\u76ca\uff1a+69.29% <img src=\"assets/2024-returns.jpg\" width=\"300\" /> ### 2025 \u5e74\u81f3\u4eca\u6536\u76ca\uff1a+66.38% <img src=\"assets/2025-returns.jpg\" width=\"300",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "anthropic",
+          "berkshire-hathaway",
+          "charlie-munger",
+          "china-stock",
+          "claude",
+          "claude-code",
+          "financial-analysis",
+          "fintech",
+          "fundamental-analysis",
+          "investment",
+          "investment-research",
+          "llm",
+          "mcp",
+          "portfolio-management",
+          "stock-analysis",
+          "stock-market",
+          "value-investing",
+          "warren-buffett"
+        ],
+        "updated_at": "2026-06-30T10:40:23Z"
+      },
+      "repo": {
+        "description": "AI \u65f6\u4ee3\u7684\u4f2f\u514b\u5e0c\u5c14\uff1a\u57fa\u4e8e Claude Code / Codex \u7684\u4ef7\u503c\u6295\u8d44\u7814\u7a76\u6846\u67b6\u3002\u5df4\u83f2\u7279\u00b7\u8292\u683c\u00b7\u6bb5\u6c38\u5e73\u00b7\u674e\u5f55\u56db\u5927\u5e08\u65b9\u6cd5\u8bba + \u591aAgent\u5e76\u884c\u7814\u7a76\u3002| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+        "forks": 927,
+        "full_name": "xbtlin/ai-berkshire",
+        "language": "Python",
+        "name": "ai-berkshire",
+        "owner": "xbtlin",
+        "rank": 9,
+        "stars_today": 1386,
+        "total_stars": 7204,
+        "url": "https://github.com/xbtlin/ai-berkshire"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 8.46,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 74.31
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1386 stars today; score 74.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-02T08:47:09Z",
+        "default_branch": "main",
+        "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more \u2014 structured multi-round deliberation with genuine model diversity. One command: /council",
+        "fork": false,
+        "full_name": "0xNyk/council-of-high-intelligence",
+        "homepage": null,
+        "latest_release": "v1.1.0",
+        "license_spdx": "MIT",
+        "open_issues": 6,
+        "primary_language": "Shell",
+        "pushed_at": "2026-06-27T03:38:09Z",
+        "readme_excerpt": "# Council of High Intelligence <p align=\"center\"> <img src=\"assets/header.jpeg\" alt=\"Council of High Intelligence\" width=\"800\"> </p> <p align=\"center\"> 18 AI personas deliberate your hardest decisions across multiple LLM providers. One command. </p> <p align=\"center\"> <a href=\"https://github.com/0xNyk/council-of-high-intelligence/releases\"><img src=\"https://img.shields.io/github/v/release/0xNyk/council-of-high-intelligence\" alt=\"Release\"></a> <a href=\"https://github.com/0xNyk/council-of-high-int",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "decision-making",
+          "deliberation",
+          "gemini",
+          "multi-llm",
+          "ollama",
+          "openai",
+          "prompt-engineering"
+        ],
+        "updated_at": "2026-06-30T10:43:15Z"
+      },
+      "repo": {
+        "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more \u2014 structured multi-round deliberation with genuine model diversity. One command: /council",
+        "forks": 218,
+        "full_name": "0xNyk/council-of-high-intelligence",
+        "language": "Shell",
+        "name": "council-of-high-intelligence",
+        "owner": "0xNyk",
+        "rank": 12,
+        "stars_today": 331,
+        "total_stars": 2248,
+        "url": "https://github.com/0xNyk/council-of-high-intelligence"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.45,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.45
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Shell project with 331 stars today; score 73.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-18T13:02:17Z",
+        "default_branch": "main",
+        "description": "\u57fa\u4e8e AI Agent + MCP \u5de5\u5177\u94fe + \u6e17\u900f Skill \u7f16\u6392\uff0c \u914d\u5408\u5927\u8bed\u8a00\u6a21\u578b\uff0c \u81ea\u7136\u8bed\u8a00\u8f93\u5165 \u2192 \u81ea\u52a8\u5b8c\u6210\u300c\u4fe1\u606f\u6536\u96c6 \u2192 \u6f0f\u6d1e\u53d1\u73b0 \u2192 \u6f0f\u6d1e\u5229\u7528 \u2192 \u62a5\u544a\u751f\u6210\u300d\u5168\u6d41\u7a0b\u3002",
+        "fork": false,
+        "full_name": "Unclecheng-li/VulnClaw",
+        "homepage": null,
+        "latest_release": "v0.3.2",
+        "license_spdx": "MIT",
+        "open_issues": 10,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-30T10:28:41Z",
+        "readme_excerpt": "<div align=\"center\"> # VulnClaw \ud83e\udd9e > *AI \u9a71\u52a8\u7684\u6e17\u900f\u6d4b\u8bd5 CLI \u5de5\u5177 \u2014 \u8bf4\u4eba\u8bdd\uff0c\u6253\u6f0f\u6d1e\u3002* [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/) [![OpenAI Compatible](https://img.shields.io/badge/API-OpenAI_Compatible-green)](https://platform.openai.com/) [![MCP](https://img.shields.io/badge/Toolchain-MCP-orange)](https://modelcontextprotocol.io/) [![PyPI](https://img.shields.io/badge/PyPI-v0.3.2-bluev",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "ai-tools",
+          "ctf",
+          "cybersecurity",
+          "openclaw",
+          "penetration-testing",
+          "penetration-testing-tools",
+          "security-tools",
+          "skill"
+        ],
+        "updated_at": "2026-06-30T10:39:40Z"
+      },
+      "repo": {
+        "description": "\u57fa\u4e8e AI Agent + MCP \u5de5\u5177\u94fe + \u6e17\u900f Skill \u7f16\u6392\uff0c \u914d\u5408\u5927\u8bed\u8a00\u6a21\u578b\uff0c \u81ea\u7136\u8bed\u8a00\u8f93\u5165 \u2192 \u81ea\u52a8\u5b8c\u6210\u300c\u4fe1\u606f\u6536\u96c6 \u2192 \u6f0f\u6d1e\u53d1\u73b0 \u2192 \u6f0f\u6d1e\u5229\u7528 \u2192 \u62a5\u544a\u751f\u6210\u300d\u5168\u6d41\u7a0b\u3002",
+        "forks": 191,
+        "full_name": "Unclecheng-li/VulnClaw",
+        "language": "Python",
+        "name": "VulnClaw",
+        "owner": "Unclecheng-li",
+        "rank": 11,
+        "stars_today": 129,
+        "total_stars": 1354,
+        "url": "https://github.com/Unclecheng-li/VulnClaw"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.72,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 73.22
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 129 stars today; score 73.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-01T09:52:20Z",
+        "default_branch": "main",
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "fork": false,
+        "full_name": "HKUDS/Vibe-Trading",
+        "homepage": "https://vibetrading.wiki/",
+        "latest_release": "v0.1.10",
+        "license_spdx": "MIT",
+        "open_issues": 30,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-30T07:09:49Z",
+        "readme_excerpt": "<p align=\"center\"> <b>English</b> | <a href=\"README_zh.md\">\u4e2d\u6587</a> | <a href=\"README_ja.md\">\u65e5\u672c\u8a9e</a> | <a href=\"README_ko.md\">\ud55c\uad6d\uc5b4</a> | <a href=\"README_ar.md\">\u0627\u0644\u0639\u0631\u0628\u064a\u0629</a> </p> <p align=\"center\"> <img src=\"assets/icon.png\" width=\"120\" alt=\"Vibe-Trading Logo\"/> </p> <h1 align=\"center\">Vibe-Trading: Your Personal Trading Agent</h1> <p align=\"center\"> <b>One Command to Empower Your Agent with Comprehensive Trading Capabilities</b> </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/255",
+        "topics": [
+          "ai-agent",
+          "algorithmic-trading",
+          "backtesting",
+          "fintech",
+          "llm",
+          "mcp",
+          "multi-agent",
+          "python",
+          "quantitative-finance",
+          "trading"
+        ],
+        "updated_at": "2026-06-30T10:40:25Z"
+      },
+      "repo": {
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "forks": 2714,
+        "full_name": "HKUDS/Vibe-Trading",
+        "language": "Python",
+        "name": "Vibe-Trading",
+        "owner": "HKUDS",
+        "rank": 13,
+        "stars_today": 839,
+        "total_stars": 15493,
+        "url": "https://github.com/HKUDS/Vibe-Trading"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.51,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 66.11
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 839 stars today; score 66.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-12T01:34:42Z",
+        "default_branch": "main",
+        "description": "Edit videos with coding agents",
+        "fork": false,
+        "full_name": "browser-use/video-use",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 47,
+        "primary_language": "Python",
+        "pushed_at": "2026-05-15T06:39:02Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"static/video-use-banner.png\" alt=\"video-use\" width=\"100%\"> </p> # video-use Introducing **video-use** \u2014 edit videos with Claude Code. 100% open source. Drop raw footage in a folder, chat with Claude Code, get `final.mp4` back. Works for any content \u2014 talking heads, montages, tutorials, travel, interviews \u2014 without presets or menus. ## What it does - **Cuts out filler words** (`umm`, `uh`, false starts) and dead space between takes - **Auto color grades** every segmen",
+        "topics": [],
+        "updated_at": "2026-06-30T10:39:00Z"
+      },
+      "repo": {
+        "description": "Edit videos with coding agents",
+        "forks": 1588,
+        "full_name": "browser-use/video-use",
+        "language": "Python",
+        "name": "video-use",
+        "owner": "browser-use",
+        "rank": 10,
+        "stars_today": 967,
+        "total_stars": 12267,
+        "url": "https://github.com/browser-use/video-use"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.5,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 62.55
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 967 stars today; score 62.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-11-24T01:33:30Z",
+        "default_branch": "master",
+        "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+        "fork": false,
+        "full_name": "commaai/openpilot",
+        "homepage": "https://comma.ai/openpilot",
+        "latest_release": "v0.11.1",
+        "license_spdx": "MIT",
+        "open_issues": 143,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-30T10:19:51Z",
+        "readme_excerpt": "<div align=\"center\" style=\"text-align: center;\"> <h1>openpilot</h1> <p> <b>openpilot is an operating system for robotics.</b> <br> Currently, it upgrades the driver assistance system in 300+ supported cars. </p> <h3> <a href=\"https://docs.comma.ai\">Docs</a> <span> \u00b7 </span> <a href=\"https://docs.comma.ai/contributing/roadmap/\">Roadmap</a> <span> \u00b7 </span> <a href=\"https://github.com/commaai/openpilot/blob/master/docs/CONTRIBUTING.md\">Contribute</a> <span> \u00b7 </span> <a href=\"https://discord.comma",
+        "topics": [
+          "advanced-driver-assistance-systems",
+          "driver-assistance-systems",
+          "robotics"
+        ],
+        "updated_at": "2026-06-30T10:38:40Z"
+      },
+      "repo": {
+        "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+        "forks": 11116,
+        "full_name": "commaai/openpilot",
+        "language": "Python",
+        "name": "openpilot",
+        "owner": "commaai",
+        "rank": 6,
+        "stars_today": 458,
+        "total_stars": 62886,
+        "url": "https://github.com/commaai/openpilot"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.87,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 56.47
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 458 stars today; score 56.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-14T19:43:14Z",
+        "default_branch": "main",
+        "description": "Desktop app to manage markdown knowledge bases",
+        "fork": false,
+        "full_name": "refactoringhq/tolaria",
+        "homepage": "https://tolaria.md",
+        "latest_release": "v2026-06-26",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 70,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-29T18:37:56Z",
+        "readme_excerpt": "![Latest stable](https://img.shields.io/github/v/release/refactoringhq/tolaria?display_name=tag) [![CI](https://github.com/refactoringhq/tolaria/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/refactoringhq/tolaria/actions/workflows/ci.yml) [![Codecov](https://codecov.io/gh/refactoringhq/tolaria/graph/badge.svg?branch=main)](https://codecov.io/gh/refactoringhq/tolaria) [![CodeScene Hotspot Code Health](https://codescene.io/projects/76865/status-badges/hotspot-code-health)](ht",
+        "topics": [],
+        "updated_at": "2026-06-30T10:42:30Z"
+      },
+      "repo": {
+        "description": "Desktop app to manage markdown knowledge bases",
+        "forks": 1213,
+        "full_name": "refactoringhq/tolaria",
+        "language": "TypeScript",
+        "name": "tolaria",
+        "owner": "refactoringhq",
+        "rank": 14,
+        "stars_today": 280,
+        "total_stars": 17774,
+        "url": "https://github.com/refactoringhq/tolaria"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.94,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 54.54
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 280 stars today; score 54.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-11-08T22:12:36Z",
+        "default_branch": "master",
+        "description": "Disk encryption with strong security based on TrueCrypt",
+        "fork": false,
+        "full_name": "veracrypt/VeraCrypt",
+        "homepage": "https://veracrypt.jp",
+        "latest_release": "VeraCrypt_1.26.29",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 432,
+        "primary_language": "C",
+        "pushed_at": "2026-06-30T08:52:22Z",
+        "readme_excerpt": "This archive contains the source code of VeraCrypt. It is based on the original TrueCrypt 7.1a with security enhancements and modifications. # Important You may use the source code contained in this archive only if you accept and agree to the license terms contained in the file 'License.txt', which is included in this archive. Note that the license specifies, for example, that a derived work must not be called 'TrueCrypt' or 'VeraCrypt' # Contents [I. Windows](#i-windows) [II. Linux and Mac OS X",
+        "topics": [
+          "encryption",
+          "encryption-algorithms",
+          "encryption-decryption",
+          "idrix",
+          "veracrypt",
+          "veracrypt-source"
+        ],
+        "updated_at": "2026-06-30T10:26:48Z"
+      },
+      "repo": {
+        "description": "Disk encryption with strong security based on TrueCrypt",
+        "forks": 1232,
+        "full_name": "veracrypt/VeraCrypt",
+        "language": "C",
+        "name": "VeraCrypt",
+        "owner": "veracrypt",
+        "rank": 15,
+        "stars_today": 186,
+        "total_stars": 10599,
+        "url": "https://github.com/veracrypt/VeraCrypt"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.39,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 52.23
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: C project with 186 stars today; score 52.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-03-18T21:06:26Z",
+        "default_branch": "master",
+        "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+        "fork": false,
+        "full_name": "ripienaar/free-for-dev",
+        "homepage": "https://free-for.dev/",
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 12,
+        "primary_language": "HTML",
+        "pushed_at": "2026-06-30T09:12:37Z",
+        "readme_excerpt": "# free-for.dev Developers and Open Source authors now have many services offering free tiers, but finding them all takes time to make informed decisions. This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers. The scope of this particular list is limited to things that infrastructure developers (System Administrator, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. ",
+        "topics": [
+          "awesome-list",
+          "free-for-developers"
+        ],
+        "updated_at": "2026-06-30T10:36:41Z"
+      },
+      "repo": {
+        "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+        "forks": 13286,
+        "full_name": "ripienaar/free-for-dev",
+        "language": "HTML",
+        "name": "free-for-dev",
+        "owner": "ripienaar",
+        "rank": 7,
+        "stars_today": 1935,
+        "total_stars": 127075,
+        "url": "https://github.com/ripienaar/free-for-dev"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.14,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 3.85,
+        "strategic_relevance": 4.55,
+        "technical_quality": 11.2,
+        "total": 50.59
+      },
+      "tags": [
+        "DevTools"
+      ],
+      "verdict": "DevTools: HTML project with 1935 stars today; score 50.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/msitarzewski",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "forks": 19599,
+        "full_name": "sponsors/msitarzewski",
+        "language": "Shell",
+        "name": "msitarzewski",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 1425,
+        "total_stars": 119810,
+        "url": "https://github.com/sponsors/msitarzewski"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 9.64,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 38.09
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 1425 stars today; score 38.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/simplex-chat",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps \ud83d\udcf1!",
+        "forks": 996,
+        "full_name": "sponsors/simplex-chat",
+        "language": "Haskell",
+        "name": "simplex-chat",
+        "owner": "sponsors",
+        "rank": 1,
+        "stars_today": 1607,
+        "total_stars": 17185,
+        "url": "https://github.com/sponsors/simplex-chat"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 10.58,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.32,
+        "technical_quality": 3.5,
+        "total": 28.1
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Haskell project with 1607 stars today; score 28.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/logto-io",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83e\uddd1\u200d\ud83d\ude80 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+        "forks": 886,
+        "full_name": "sponsors/logto-io",
+        "language": "TypeScript",
+        "name": "logto-io",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 158,
+        "total_stars": 12964,
+        "url": "https://github.com/sponsors/logto-io"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.28,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 27.23
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 158 stars today; score 27.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/altic-dev",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One \u2b50 takes us a long way :))",
+        "forks": 288,
+        "full_name": "sponsors/altic-dev",
+        "language": "Swift",
+        "name": "altic-dev",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 830,
+        "total_stars": 4664,
+        "url": "https://github.com/sponsors/altic-dev"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.77,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 2.76,
+        "technical_quality": 3.5,
+        "total": 22.73
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Swift project with 830 stars today; score 22.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/cupy",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "NumPy & SciPy for GPU",
+        "forks": 1087,
+        "full_name": "sponsors/cupy",
+        "language": "Python",
+        "name": "cupy",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 352,
+        "total_stars": 11957,
+        "url": "https://github.com/sponsors/cupy"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.84,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.98,
+        "technical_quality": 3.5,
+        "total": 20.02
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 352 stars today; score 20.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/soxoj",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from 3000+ sites",
+        "forks": 2614,
+        "full_name": "sponsors/soxoj",
+        "language": "Python",
+        "name": "soxoj",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 224,
+        "total_stars": 34675,
+        "url": "https://github.com/sponsors/soxoj"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.0,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.63,
+        "technical_quality": 3.5,
+        "total": 18.83
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 224 stars today; score 18.8/100."
+    }
+  ],
+  "subject": "GitHub Trending: daily developer signal - 2026-06-30",
+  "summary": "Today leans toward daily developer signal; the strongest pick is 0xNyk/council-of-high-intelligence."
+}
