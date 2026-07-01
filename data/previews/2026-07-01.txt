@@ -1,0 +1,34 @@
+GitHub Trending: AI workflow signal - 2026-07-01
+
+Today leans toward AI workflow signal; the strongest pick is usestrix/strix.
+
+Top picks
+1. usestrix/strix - 76.9/100
+   https://github.com/usestrix/strix
+   AI Workflow, DevTools: Python project with 515 stars today; score 76.9/100.
+2. hasaneyldrm/exercises-dataset - 66.6/100
+   https://github.com/hasaneyldrm/exercises-dataset
+   AI Workflow, DevTools: HTML project with 1343 stars today; score 66.6/100.
+3. facebook/astryx - 66.0/100
+   https://github.com/facebook/astryx
+   AI Workflow, Try Today: TypeScript project with 364 stars today; score 66.0/100.
+4. allenai/olmocr - 64.4/100
+   https://github.com/allenai/olmocr
+   AI Workflow, Try Today: Python project with 295 stars today; score 64.4/100.
+5. TencentCloud/CubeSandbox - 62.6/100
+   https://github.com/TencentCloud/CubeSandbox
+   AI Workflow, Try Today: Rust project with 46 stars today; score 62.6/100.
+
+Full reviewed list
+- usestrix/strix: 76.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 515 stars today; score 76.9/100.
+- hasaneyldrm/exercises-dataset: 66.6/100 [AI Workflow, DevTools, Deep Dive] AI Workflow, DevTools: HTML project with 1343 stars today; score 66.6/100.
+- facebook/astryx: 66.0/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 364 stars today; score 66.0/100.
+- allenai/olmocr: 64.4/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 295 stars today; score 64.4/100.
+- TencentCloud/CubeSandbox: 62.6/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Rust project with 46 stars today; score 62.6/100.
+- Mebus/cupp: 59.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 32 stars today; score 59.2/100.
+- yikart/AiToEarn: 58.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 128 stars today; score 58.3/100.
+- sponsors/diegosouzapw: 56.1/100 [AI Workflow, DevTools, Deep Dive, Watch, Hype Risk] AI Workflow, DevTools: TypeScript project with 387 stars today; score 56.1/100.
+- microsoft/AI-For-Beginners: 55.5/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Jupyter Notebook project with 252 stars today; score 55.5/100.
+- CoreBunch/Instatic: 52.0/100 [DevTools, Try Today] DevTools, Try Today: TypeScript project with 351 stars today; score 52.0/100.
+
+Generated for 2026-07-01 from GitHub Trending daily.
