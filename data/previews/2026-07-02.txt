@@ -1,0 +1,23 @@
+GitHub Trending: daily developer signal - 2026-07-02
+
+Today leans toward daily developer signal; the strongest pick is togatoga/karukan.
+
+Top picks
+1. togatoga/karukan - 45.4/100
+   https://github.com/togatoga/karukan
+   DevTools, Try Today: Rust project with 42 stars today; score 45.4/100.
+2. sponsors/ogulcancelik - 33.0/100
+   https://github.com/sponsors/ogulcancelik
+   AI Workflow, DevTools: Rust project with 609 stars today; score 33.0/100.
+   Caution: Weak onboarding evidence.
+3. sponsors/CoreBunch - 22.6/100
+   https://github.com/sponsors/CoreBunch
+   Watch, Hype Risk: TypeScript project with 508 stars today; score 22.6/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- togatoga/karukan: 45.4/100 [DevTools, Try Today] DevTools, Try Today: Rust project with 42 stars today; score 45.4/100.
+- sponsors/ogulcancelik: 33.0/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Rust project with 609 stars today; score 33.0/100.
+- sponsors/CoreBunch: 22.6/100 [Watch, Hype Risk] Watch, Hype Risk: TypeScript project with 508 stars today; score 22.6/100.
+
+Generated for 2026-07-02 from GitHub Trending daily.

@@ -1,0 +1,1250 @@
+{
+  "date": "2026-07-02",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-08-11T05:01:06Z",
+        "default_branch": "main",
+        "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+        "fork": false,
+        "full_name": "togatoga/karukan",
+        "homepage": null,
+        "latest_release": "v0.1.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 14,
+        "primary_language": "Rust",
+        "pushed_at": "2026-06-24T12:30:23Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"icon.png\" width=\"128\" alt=\"karukan\" /> <h1>Karukan</h1> <p>Linux\u30fbmacOS\u5411\u3051\u65e5\u672c\u8a9e\u5165\u529b\u30b7\u30b9\u30c6\u30e0 \u2014 \u30cb\u30e5\u30fc\u30e9\u30eb\u304b\u306a\u6f22\u5b57\u5909\u63db\u30a8\u30f3\u30b8\u30f3</p> [![CI (engine)](https://github.com/togatoga/karukan/actions/workflows/karukan-engine-ci.yml/badge.svg)](https://github.com/togatoga/karukan/actions/workflows/karukan-engine-ci.yml) [![CI (im)](https://github.com/togatoga/karukan/actions/workflows/karukan-im-ci.yml/badge.svg)](https://github.com/togatoga/karukan/actions/workflows/karukan-im-ci.yml) [![CI (fcitx5)]",
+        "topics": [
+          "fcitx5",
+          "ime",
+          "input-method",
+          "inputmethod",
+          "japanese",
+          "linux",
+          "macos",
+          "natural-language-processing",
+          "nlp",
+          "rust"
+        ],
+        "updated_at": "2026-07-02T09:45:11Z"
+      },
+      "repo": {
+        "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+        "forks": 38,
+        "full_name": "togatoga/karukan",
+        "language": "Rust",
+        "name": "karukan",
+        "owner": "togatoga",
+        "rank": 9,
+        "stars_today": 42,
+        "total_stars": 625,
+        "url": "https://github.com/togatoga/karukan"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.59,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 45.4
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Rust project with 42 stars today; score 45.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/ogulcancelik",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "agent multiplexer that lives in your terminal.",
+        "forks": 580,
+        "full_name": "sponsors/ogulcancelik",
+        "language": "Rust",
+        "name": "ogulcancelik",
+        "owner": "sponsors",
+        "rank": 14,
+        "stars_today": 609,
+        "total_stars": 9886,
+        "url": "https://github.com/sponsors/ogulcancelik"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.8,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 32.95
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 609 stars today; score 33.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/CoreBunch",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+        "forks": 177,
+        "full_name": "sponsors/CoreBunch",
+        "language": "TypeScript",
+        "name": "CoreBunch",
+        "owner": "sponsors",
+        "rank": 17,
+        "stars_today": 508,
+        "total_stars": 2179,
+        "url": "https://github.com/sponsors/CoreBunch"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.02,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.23,
+        "technical_quality": 3.5,
+        "total": 22.65
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: TypeScript project with 508 stars today; score 22.6/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-08-05T21:28:30Z",
+        "default_branch": "main",
+        "description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
+        "fork": false,
+        "full_name": "usestrix/strix",
+        "homepage": "https://strix.ai",
+        "latest_release": "v1.0.4",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 124,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-30T18:27:23Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://strix.ai/\"> <img src=\"https://github.com/usestrix/.github/raw/main/imgs/cover.png\" alt=\"Strix Banner\" width=\"100%\"> </a> </p> <div align=\"center\"> # Strix ### The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app\u2019s vulnerabilities. <br/> <a href=\"https://docs.strix.ai\"><img src=\"https://img.shields.io/badge/Docs-docs.strix.ai-2b9246?style=for-the-badge&logo=gitbook&logoColor=white\" alt=\"Docs\"></a> <a href=\"https://strix.ai\"><img ",
+        "topics": [
+          "agents",
+          "ai-hacking",
+          "ai-penetration-testing",
+          "ai-pentesting",
+          "ai-security",
+          "artificial-intelligence",
+          "bug-bounty",
+          "code-quality",
+          "ctf-tools",
+          "cybersecurity",
+          "cybersecurity-tools",
+          "ethical-hacking",
+          "hacking",
+          "llm-security",
+          "offensive-security",
+          "penetration-testing",
+          "pentesting-tools",
+          "red-teaming",
+          "security",
+          "security-automation"
+        ],
+        "updated_at": "2026-07-02T10:17:07Z"
+      },
+      "repo": {
+        "description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
+        "forks": 3269,
+        "full_name": "usestrix/strix",
+        "language": "Python",
+        "name": "strix",
+        "owner": "usestrix",
+        "rank": 2,
+        "stars_today": 1211,
+        "total_stars": 30599,
+        "url": "https://github.com/usestrix/strix"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.57,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.42
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1211 stars today; score 73.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-18T13:02:17Z",
+        "default_branch": "main",
+        "description": "\u57fa\u4e8e AI Agent + MCP \u5de5\u5177\u94fe + \u6e17\u900f Skill \u7f16\u6392\uff0c \u914d\u5408\u5927\u8bed\u8a00\u6a21\u578b\uff0c \u81ea\u7136\u8bed\u8a00\u8f93\u5165 \u2192 \u81ea\u52a8\u5b8c\u6210\u300c\u4fe1\u606f\u6536\u96c6 \u2192 \u6f0f\u6d1e\u53d1\u73b0 \u2192 \u6f0f\u6d1e\u5229\u7528 \u2192 \u62a5\u544a\u751f\u6210\u300d\u5168\u6d41\u7a0b\u3002",
+        "fork": false,
+        "full_name": "Unclecheng-li/VulnClaw",
+        "homepage": null,
+        "latest_release": "v0.3.2",
+        "license_spdx": "MIT",
+        "open_issues": 11,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-02T04:47:39Z",
+        "readme_excerpt": "<div align=\"center\"> # VulnClaw \ud83e\udd9e > *AI \u9a71\u52a8\u7684\u6e17\u900f\u6d4b\u8bd5 CLI \u5de5\u5177 \u2014 \u8bf4\u4eba\u8bdd\uff0c\u6253\u6f0f\u6d1e\u3002* [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/) [![OpenAI Compatible](https://img.shields.io/badge/API-OpenAI_Compatible-green)](https://platform.openai.com/) [![MCP](https://img.shields.io/badge/Toolchain-MCP-orange)](https://modelcontextprotocol.io/) [![PyPI](https://img.shields.io/badge/PyPI-v0.3.2-bluev",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "ai-tools",
+          "ctf",
+          "cybersecurity",
+          "openclaw",
+          "penetration-testing",
+          "penetration-testing-tools",
+          "security-tools",
+          "skill"
+        ],
+        "updated_at": "2026-07-02T10:17:25Z"
+      },
+      "repo": {
+        "description": "\u57fa\u4e8e AI Agent + MCP \u5de5\u5177\u94fe + \u6e17\u900f Skill \u7f16\u6392\uff0c \u914d\u5408\u5927\u8bed\u8a00\u6a21\u578b\uff0c \u81ea\u7136\u8bed\u8a00\u8f93\u5165 \u2192 \u81ea\u52a8\u5b8c\u6210\u300c\u4fe1\u606f\u6536\u96c6 \u2192 \u6f0f\u6d1e\u53d1\u73b0 \u2192 \u6f0f\u6d1e\u5229\u7528 \u2192 \u62a5\u544a\u751f\u6210\u300d\u5168\u6d41\u7a0b\u3002",
+        "forks": 229,
+        "full_name": "Unclecheng-li/VulnClaw",
+        "language": "Python",
+        "name": "VulnClaw",
+        "owner": "Unclecheng-li",
+        "rank": 11,
+        "stars_today": 132,
+        "total_stars": 1707,
+        "url": "https://github.com/Unclecheng-li/VulnClaw"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.61,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 73.11
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 132 stars today; score 73.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-02T08:47:09Z",
+        "default_branch": "main",
+        "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more \u2014 structured multi-round deliberation with genuine model diversity. One command: /council",
+        "fork": false,
+        "full_name": "0xNyk/council-of-high-intelligence",
+        "homepage": null,
+        "latest_release": "v1.1.0",
+        "license_spdx": "MIT",
+        "open_issues": 6,
+        "primary_language": "Shell",
+        "pushed_at": "2026-07-02T08:48:20Z",
+        "readme_excerpt": "# Council of High Intelligence <p align=\"center\"> <img src=\"assets/header.jpeg\" alt=\"Council of High Intelligence\" width=\"800\"> </p> <p align=\"center\"> 18 AI personas deliberate your hardest decisions across multiple LLM providers. One command. </p> <p align=\"center\"> <a href=\"https://github.com/0xNyk/council-of-high-intelligence/releases\"><img src=\"https://img.shields.io/github/v/release/0xNyk/council-of-high-intelligence\" alt=\"Release\"></a> <a href=\"https://github.com/0xNyk/council-of-high-int",
+        "topics": [
+          "ai-agents",
+          "claude",
+          "claude-code",
+          "decision-making",
+          "deliberation",
+          "gemini",
+          "multi-llm",
+          "ollama",
+          "openai",
+          "prompt-engineering"
+        ],
+        "updated_at": "2026-07-02T10:10:10Z"
+      },
+      "repo": {
+        "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more \u2014 structured multi-round deliberation with genuine model diversity. One command: /council",
+        "forks": 254,
+        "full_name": "0xNyk/council-of-high-intelligence",
+        "language": "Shell",
+        "name": "council-of-high-intelligence",
+        "owner": "0xNyk",
+        "rank": 15,
+        "stars_today": 161,
+        "total_stars": 2862,
+        "url": "https://github.com/0xNyk/council-of-high-intelligence"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.13,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 66.93
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Shell project with 161 stars today; score 66.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-01T09:52:20Z",
+        "default_branch": "main",
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "fork": false,
+        "full_name": "HKUDS/Vibe-Trading",
+        "homepage": "https://vibetrading.wiki/",
+        "latest_release": "v0.1.10",
+        "license_spdx": "MIT",
+        "open_issues": 6,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-02T08:48:33Z",
+        "readme_excerpt": "<p align=\"center\"> <b>English</b> | <a href=\"README_zh.md\">\u4e2d\u6587</a> | <a href=\"README_ja.md\">\u65e5\u672c\u8a9e</a> | <a href=\"README_ko.md\">\ud55c\uad6d\uc5b4</a> | <a href=\"README_ar.md\">\u0627\u0644\u0639\u0631\u0628\u064a\u0629</a> </p> <p align=\"center\"> <img src=\"assets/icon.png\" width=\"120\" alt=\"Vibe-Trading Logo\"/> </p> <h1 align=\"center\">Vibe-Trading: Your Personal Trading Agent</h1> <p align=\"center\"> <b>One Command to Empower Your Agent with Comprehensive Trading Capabilities</b> </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/255",
+        "topics": [
+          "ai-agent",
+          "algorithmic-trading",
+          "backtesting",
+          "fintech",
+          "llm",
+          "mcp",
+          "multi-agent",
+          "python",
+          "quantitative-finance",
+          "trading"
+        ],
+        "updated_at": "2026-07-02T10:16:47Z"
+      },
+      "repo": {
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "forks": 2851,
+        "full_name": "HKUDS/Vibe-Trading",
+        "language": "Python",
+        "name": "Vibe-Trading",
+        "owner": "HKUDS",
+        "rank": 3,
+        "stars_today": 694,
+        "total_stars": 17061,
+        "url": "https://github.com/HKUDS/Vibe-Trading"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.67,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 66.27
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 694 stars today; score 66.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-18T03:07:18Z",
+        "default_branch": "main",
+        "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+        "fork": false,
+        "full_name": "hasaneyldrm/exercises-dataset",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 19,
+        "primary_language": "HTML",
+        "pushed_at": "2026-06-30T10:19:40Z",
+        "readme_excerpt": "<div align=\"center\"> # \ud83d\udcaa Exercises Dataset **A developer setup wizard + structured, multilingual exercise dataset \u2014 scaffold your own exercise app backend (DB schema, API code, LLM prompt) over 1,324 exercises with category, body-part, equipment, target and muscle-group data and step-by-step instructions in 6 languages (English, Spanish, Italian, Turkish, Russian, Chinese). Exercise media is not included.** [![Exercises](https://img.shields.io/badge/Exercises-1324-blue?style=flat-square)](data/e",
+        "topics": [
+          "excercises",
+          "fitness",
+          "fitness-app"
+        ],
+        "updated_at": "2026-07-02T10:17:49Z"
+      },
+      "repo": {
+        "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+        "forks": 988,
+        "full_name": "hasaneyldrm/exercises-dataset",
+        "language": "HTML",
+        "name": "exercises-dataset",
+        "owner": "hasaneyldrm",
+        "rank": 4,
+        "stars_today": 2470,
+        "total_stars": 8823,
+        "url": "https://github.com/hasaneyldrm/exercises-dataset"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.57,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 2.8,
+        "strategic_relevance": 4.72,
+        "technical_quality": 11.2,
+        "total": 63.97
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: HTML project with 2470 stars today; score 64.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-12T01:34:42Z",
+        "default_branch": "main",
+        "description": "Edit videos with coding agents",
+        "fork": false,
+        "full_name": "browser-use/video-use",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 50,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-01T00:33:52Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"static/video-use-banner.png\" alt=\"video-use\" width=\"100%\"> </p> # video-use Introducing **video-use** \u2014 edit videos with Claude Code. 100% open source. Drop raw footage in a folder, chat with Claude Code, get `final.mp4` back. Works for any content \u2014 talking heads, montages, tutorials, travel, interviews \u2014 without presets or menus. Try video-use in [Browser Use Cloud](https://cloud.browser-use.com/v4?utm_campaign=video-use-use-in-cloud&utm_source=github). ## What it ",
+        "topics": [],
+        "updated_at": "2026-07-02T10:18:15Z"
+      },
+      "repo": {
+        "description": "Edit videos with coding agents",
+        "forks": 1663,
+        "full_name": "browser-use/video-use",
+        "language": "Python",
+        "name": "video-use",
+        "owner": "browser-use",
+        "rank": 19,
+        "stars_today": 693,
+        "total_stars": 13468,
+        "url": "https://github.com/browser-use/video-use"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.36,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 63.91
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 693 stars today; score 63.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-09T16:20:32Z",
+        "default_branch": "main",
+        "description": "An open source design system that's fully customizable and agent ready",
+        "fork": false,
+        "full_name": "facebook/astryx",
+        "homepage": "http://astryx.atmeta.com",
+        "latest_release": "v0.1.2",
+        "license_spdx": "MIT",
+        "open_issues": 197,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-02T10:15:10Z",
+        "readme_excerpt": "<!-- SYNC CONTRACT: Architecture changes require documentation updates. --> # Astryx An open source design system that's fully customizable and built for how we build now \u2014 by people and the agents working alongside them. > **Currently in Beta** \u00b7 Built on [React](https://react.dev) and [StyleX](https://stylexjs.com) ## Overview Astryx is an open source design system that grew inside Meta over the last eight years, where it became the most-used and largest design system in the company \u2014 powering",
+        "topics": [],
+        "updated_at": "2026-07-02T10:18:07Z"
+      },
+      "repo": {
+        "description": "An open source design system that's fully customizable and agent ready",
+        "forks": 163,
+        "full_name": "facebook/astryx",
+        "language": "TypeScript",
+        "name": "astryx",
+        "owner": "facebook",
+        "rank": 5,
+        "stars_today": 708,
+        "total_stars": 3138,
+        "url": "https://github.com/facebook/astryx"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.43,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 61.53
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 708 stars today; score 61.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-09-17T14:53:40Z",
+        "default_branch": "main",
+        "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+        "fork": false,
+        "full_name": "allenai/olmocr",
+        "homepage": null,
+        "latest_release": "v0.4.27",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 83,
+        "primary_language": "Python",
+        "pushed_at": "2026-03-25T17:52:37Z",
+        "readme_excerpt": "<div align=\"center\"> <img width=\"350\" alt=\"olmocr-2-full@2x\" src=\"https://github.com/user-attachments/assets/24f1b596-4059-46f1-8130-5d72dcc0b02e\" /> <hr/> </div> <p align=\"center\"> <a href=\"https://github.com/allenai/OLMo/blob/main/LICENSE\"> <img alt=\"GitHub License\" src=\"https://img.shields.io/github/license/allenai/OLMo\"> </a> <a href=\"https://github.com/allenai/olmocr/releases\"> <img alt=\"GitHub release\" src=\"https://img.shields.io/github/release/allenai/olmocr.svg\"> </a> <a href=\"https://ar",
+        "topics": [],
+        "updated_at": "2026-07-02T10:17:37Z"
+      },
+      "repo": {
+        "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+        "forks": 1518,
+        "full_name": "allenai/olmocr",
+        "language": "Python",
+        "name": "olmocr",
+        "owner": "allenai",
+        "rank": 7,
+        "stars_today": 334,
+        "total_stars": 18473,
+        "url": "https://github.com/allenai/olmocr"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.87,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 58.92
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 334 stars today; score 58.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-10T03:00:31Z",
+        "default_branch": "master",
+        "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+        "fork": false,
+        "full_name": "TencentCloud/CubeSandbox",
+        "homepage": "https://cubesandbox.com",
+        "latest_release": "v0.4.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 89,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-02T09:36:46Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"docs/assets/cube-sandbox-logo.png\" alt=\"Cube Sandbox Logo\" width=\"140\" /> </p> <h1 align=\"center\">CubeSandbox</h1> <p align=\"center\"> <strong>Instant, Concurrent, Secure & Lightweight Sandbox Service for AI Agents</strong> </p> <p align=\"center\"> <a href=\"https://github.com/tencentcloud/CubeSandbox/stargazers\"><img src=\"https://img.shields.io/github/stars/tencentcloud/cubesandbox?style=social\" alt=\"GitHub Stars\" /></a> <a href=\"https://github.com/tencentcloud/CubeSan",
+        "topics": [
+          "agents",
+          "container",
+          "sandbox"
+        ],
+        "updated_at": "2026-07-02T10:14:37Z"
+      },
+      "repo": {
+        "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+        "forks": 575,
+        "full_name": "TencentCloud/CubeSandbox",
+        "language": "Rust",
+        "name": "CubeSandbox",
+        "owner": "TencentCloud",
+        "rank": 18,
+        "stars_today": 79,
+        "total_stars": 6977,
+        "url": "https://github.com/TencentCloud/CubeSandbox"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.42,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 57.47
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 79 stars today; score 57.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2012-05-06T15:24:41Z",
+        "default_branch": "master",
+        "description": "Common User Passwords Profiler (CUPP)",
+        "fork": false,
+        "full_name": "Mebus/cupp",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "GPL-3.0",
+        "open_issues": 51,
+        "primary_language": "Python",
+        "pushed_at": "2025-12-26T11:53:35Z",
+        "readme_excerpt": "# CUPP - Common User Passwords Profiler [![Build Status](https://travis-ci.org/Mebus/cupp.svg?branch=master)](https://travis-ci.org/Mebus/cupp) [![Coverage Status](https://coveralls.io/repos/github/Mebus/cupp/badge.svg)](https://coveralls.io/github/Mebus/cupp) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/be081b6a20b043ce9d79fd3d48b40009)](https://app.codacy.com/gh/Mebus/cupp/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) [![Rawsec's CyberSecurit",
+        "topics": [
+          "dictionary-attack",
+          "password",
+          "password-strength",
+          "weak-passwords",
+          "wordlist",
+          "wordlist-generator"
+        ],
+        "updated_at": "2026-07-02T10:13:10Z"
+      },
+      "repo": {
+        "description": "Common User Passwords Profiler (CUPP)",
+        "forks": 2072,
+        "full_name": "Mebus/cupp",
+        "language": "Python",
+        "name": "cupp",
+        "owner": "Mebus",
+        "rank": 10,
+        "stars_today": 184,
+        "total_stars": 6292,
+        "url": "https://github.com/Mebus/cupp"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.93,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 54.48
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 184 stars today; score 54.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-14T19:43:14Z",
+        "default_branch": "main",
+        "description": "Desktop app to manage markdown knowledge bases",
+        "fork": false,
+        "full_name": "refactoringhq/tolaria",
+        "homepage": "https://tolaria.md",
+        "latest_release": "v2026-07-01",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 55,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-02T06:17:36Z",
+        "readme_excerpt": "![Latest stable](https://img.shields.io/github/v/release/refactoringhq/tolaria?display_name=tag) [![CI](https://github.com/refactoringhq/tolaria/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/refactoringhq/tolaria/actions/workflows/ci.yml) [![Codecov](https://codecov.io/gh/refactoringhq/tolaria/graph/badge.svg?branch=main)](https://codecov.io/gh/refactoringhq/tolaria) [![CodeScene Hotspot Code Health](https://codescene.io/projects/76865/status-badges/hotspot-code-health)](ht",
+        "topics": [],
+        "updated_at": "2026-07-02T10:18:21Z"
+      },
+      "repo": {
+        "description": "Desktop app to manage markdown knowledge bases",
+        "forks": 1232,
+        "full_name": "refactoringhq/tolaria",
+        "language": "TypeScript",
+        "name": "tolaria",
+        "owner": "refactoringhq",
+        "rank": 13,
+        "stars_today": 150,
+        "total_stars": 18159,
+        "url": "https://github.com/refactoringhq/tolaria"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.38,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 53.98
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 150 stars today; score 54.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-02-24T08:03:24Z",
+        "default_branch": "main",
+        "description": "Let's use AI to Earn!",
+        "fork": false,
+        "full_name": "yikart/AiToEarn",
+        "homepage": "https://aitoearn.ai/",
+        "latest_release": "v2.5.0",
+        "license_spdx": "MIT",
+        "open_issues": 24,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-26T16:13:58Z",
+        "readme_excerpt": "# [Aitoearn\uff1a#1 AI\u5185\u5bb9\u8425\u9500\u667a\u80fd\u4f53](https://aitoearn.ai) <a href=\"https://trendshift.io/repositories/20785\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/20785\" alt=\"yikart%2FAiToEarn | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> [![GitHub stars](https://img.shields.io/github/stars/yikart/AiToEarn?color=fa6470)](https://github.com/yikart/AiToEarn/stargazers) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Require",
+        "topics": [
+          "auto-publish",
+          "douyin",
+          "douyin-api",
+          "electron-app",
+          "electron-react",
+          "kuaishou",
+          "kwai",
+          "published",
+          "shipinhao",
+          "tool",
+          "xiaohongshu"
+        ],
+        "updated_at": "2026-07-02T10:17:23Z"
+      },
+      "repo": {
+        "description": "Let's use AI to Earn!",
+        "forks": 3420,
+        "full_name": "yikart/AiToEarn",
+        "language": "TypeScript",
+        "name": "AiToEarn",
+        "owner": "yikart",
+        "rank": 20,
+        "stars_today": 116,
+        "total_stars": 22837,
+        "url": "https://github.com/yikart/AiToEarn"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.26,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 52.86
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 116 stars today; score 52.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2021-03-03T16:27:36Z",
+        "default_branch": "main",
+        "description": "12 Weeks, 24 Lessons, AI for All!",
+        "fork": false,
+        "full_name": "microsoft/AI-For-Beginners",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 40,
+        "primary_language": "Jupyter Notebook",
+        "pushed_at": "2026-06-11T01:06:57Z",
+        "readme_excerpt": "[![GitHub license](https://img.shields.io/github/license/microsoft/AI-For-Beginners.svg)](https://github.com/microsoft/AI-For-Beginners/blob/main/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/AI-For-Beginners.svg)](https://GitHub.com/microsoft/AI-For-Beginners/graphs/contributors/) [![GitHub issues](https://img.shields.io/github/issues/microsoft/AI-For-Beginners.svg)](https://GitHub.com/microsoft/AI-For-Beginners/issues/) [![GitHub pull-requests](https://i",
+        "topics": [
+          "ai",
+          "artificial-intelligence",
+          "cnn",
+          "computer-vision",
+          "deep-learning",
+          "gan",
+          "machine-learning",
+          "microsoft-for-beginners",
+          "nlp",
+          "rnn"
+        ],
+        "updated_at": "2026-07-02T10:18:36Z"
+      },
+      "repo": {
+        "description": "12 Weeks, 24 Lessons, AI for All!",
+        "forks": 10298,
+        "full_name": "microsoft/AI-For-Beginners",
+        "language": "Jupyter Notebook",
+        "name": "AI-For-Beginners",
+        "owner": "microsoft",
+        "rank": 12,
+        "stars_today": 1096,
+        "total_stars": 50934,
+        "url": "https://github.com/microsoft/AI-For-Beginners"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.74,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 52.79
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: Jupyter Notebook project with 1096 stars today; score 52.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/diegosouzapw",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+        "forks": 1504,
+        "full_name": "sponsors/diegosouzapw",
+        "language": "TypeScript",
+        "name": "diegosouzapw",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 1010,
+        "total_stars": 9987,
+        "url": "https://github.com/sponsors/diegosouzapw"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.31,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 52.56
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1010 stars today; score 52.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-08-11T05:01:06Z",
+        "default_branch": "main",
+        "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+        "fork": false,
+        "full_name": "togatoga/karukan",
+        "homepage": null,
+        "latest_release": "v0.1.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 14,
+        "primary_language": "Rust",
+        "pushed_at": "2026-06-24T12:30:23Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"icon.png\" width=\"128\" alt=\"karukan\" /> <h1>Karukan</h1> <p>Linux\u30fbmacOS\u5411\u3051\u65e5\u672c\u8a9e\u5165\u529b\u30b7\u30b9\u30c6\u30e0 \u2014 \u30cb\u30e5\u30fc\u30e9\u30eb\u304b\u306a\u6f22\u5b57\u5909\u63db\u30a8\u30f3\u30b8\u30f3</p> [![CI (engine)](https://github.com/togatoga/karukan/actions/workflows/karukan-engine-ci.yml/badge.svg)](https://github.com/togatoga/karukan/actions/workflows/karukan-engine-ci.yml) [![CI (im)](https://github.com/togatoga/karukan/actions/workflows/karukan-im-ci.yml/badge.svg)](https://github.com/togatoga/karukan/actions/workflows/karukan-im-ci.yml) [![CI (fcitx5)]",
+        "topics": [
+          "fcitx5",
+          "ime",
+          "input-method",
+          "inputmethod",
+          "japanese",
+          "linux",
+          "macos",
+          "natural-language-processing",
+          "nlp",
+          "rust"
+        ],
+        "updated_at": "2026-07-02T09:45:11Z"
+      },
+      "repo": {
+        "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+        "forks": 38,
+        "full_name": "togatoga/karukan",
+        "language": "Rust",
+        "name": "karukan",
+        "owner": "togatoga",
+        "rank": 9,
+        "stars_today": 42,
+        "total_stars": 625,
+        "url": "https://github.com/togatoga/karukan"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.59,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 45.4
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Rust project with 42 stars today; score 45.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/msitarzewski",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "forks": 20250,
+        "full_name": "sponsors/msitarzewski",
+        "language": "Shell",
+        "name": "msitarzewski",
+        "owner": "sponsors",
+        "rank": 1,
+        "stars_today": 2114,
+        "total_stars": 124822,
+        "url": "https://github.com/sponsors/msitarzewski"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 10.79,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.41,
+        "technical_quality": 3.5,
+        "total": 39.38
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 2114 stars today; score 39.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/ogulcancelik",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "agent multiplexer that lives in your terminal.",
+        "forks": 580,
+        "full_name": "sponsors/ogulcancelik",
+        "language": "Rust",
+        "name": "ogulcancelik",
+        "owner": "sponsors",
+        "rank": 14,
+        "stars_today": 609,
+        "total_stars": 9886,
+        "url": "https://github.com/sponsors/ogulcancelik"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.8,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 32.95
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 609 stars today; score 33.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/altic-dev",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One \u2b50 takes us a long way :)) Windows, iOS waitlist open! Linux coming soon.",
+        "forks": 340,
+        "full_name": "sponsors/altic-dev",
+        "language": "Swift",
+        "name": "altic-dev",
+        "owner": "sponsors",
+        "rank": 16,
+        "stars_today": 572,
+        "total_stars": 5701,
+        "url": "https://github.com/sponsors/altic-dev"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.39,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 31.84
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Swift project with 572 stars today; score 31.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/logto-io",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83e\uddd1\u200d\ud83d\ude80 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+        "forks": 912,
+        "full_name": "sponsors/logto-io",
+        "language": "TypeScript",
+        "name": "logto-io",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 113,
+        "total_stars": 13452,
+        "url": "https://github.com/sponsors/logto-io"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.98,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 26.93
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 113 stars today; score 26.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/CoreBunch",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+        "forks": 177,
+        "full_name": "sponsors/CoreBunch",
+        "language": "TypeScript",
+        "name": "CoreBunch",
+        "owner": "sponsors",
+        "rank": 17,
+        "stars_today": 508,
+        "total_stars": 2179,
+        "url": "https://github.com/sponsors/CoreBunch"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.02,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.23,
+        "technical_quality": 3.5,
+        "total": 22.65
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: TypeScript project with 508 stars today; score 22.6/100."
+    }
+  ],
+  "subject": "GitHub Trending: daily developer signal - 2026-07-02",
+  "summary": "Today leans toward daily developer signal; the strongest pick is togatoga/karukan."
+}
