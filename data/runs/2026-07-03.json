@@ -1,0 +1,1467 @@
+{
+  "date": "2026-07-03",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-11T10:39:55Z",
+        "default_branch": "main",
+        "description": "Chrome DevTools for coding agents",
+        "fork": false,
+        "full_name": "ChromeDevTools/chrome-devtools-mcp",
+        "homepage": "https://npmjs.org/package/chrome-devtools-mcp",
+        "latest_release": "chrome-devtools-mcp-v1.4.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 86,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-03T10:11:19Z",
+        "readme_excerpt": "# Chrome DevTools for agents [![npm chrome-devtools-mcp package](https://img.shields.io/npm/v/chrome-devtools-mcp.svg)](https://npmjs.org/package/chrome-devtools-mcp) Chrome DevTools for agents (`chrome-devtools-mcp`) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debuggi",
+        "topics": [
+          "browser",
+          "chrome",
+          "chrome-devtools",
+          "debugging",
+          "devtools",
+          "mcp",
+          "mcp-server",
+          "puppeteer"
+        ],
+        "updated_at": "2026-07-03T10:14:14Z"
+      },
+      "repo": {
+        "description": "Chrome DevTools for coding agents",
+        "forks": 2941,
+        "full_name": "ChromeDevTools/chrome-devtools-mcp",
+        "language": "TypeScript",
+        "name": "chrome-devtools-mcp",
+        "owner": "ChromeDevTools",
+        "rank": 7,
+        "stars_today": 104,
+        "total_stars": 45296,
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.02,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 76.92
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 104 stars today; score 76.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-02-08T22:28:03Z",
+        "default_branch": "main",
+        "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+        "fork": false,
+        "full_name": "langflow-ai/langflow",
+        "homepage": "http://www.langflow.org",
+        "latest_release": "v1.10.1",
+        "license_spdx": "MIT",
+        "open_issues": 965,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-03T00:48:10Z",
+        "readme_excerpt": "<!-- markdownlint-disable MD030 --> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"./docs/static/img/langflow-logo-color-blue-bg.svg\"> <img src=\"./docs/static/img/langflow-logo-color-black-solid.svg\" alt=\"Langflow logo\"> </picture> [![Release Notes](https://img.shields.io/github/release/langflow-ai/langflow?style=flat-square)](https://github.com/langflow-ai/langflow/releases) [![PyPI - License](https://img.shields.io/badge/license-MIT-orange)](https://opensource.org/licenses/MIT)",
+        "topics": [
+          "agents",
+          "chatgpt",
+          "generative-ai",
+          "large-language-models",
+          "multiagent",
+          "react-flow"
+        ],
+        "updated_at": "2026-07-03T10:11:16Z"
+      },
+      "repo": {
+        "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+        "forks": 9412,
+        "full_name": "langflow-ai/langflow",
+        "language": "Python",
+        "name": "langflow",
+        "owner": "langflow-ai",
+        "rank": 14,
+        "stars_today": 117,
+        "total_stars": 151023,
+        "url": "https://github.com/langflow-ai/langflow"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.05,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 75.95
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 117 stars today; score 76.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-12-16T15:47:19Z",
+        "default_branch": "main",
+        "description": "Specification and documentation for Agent Skills",
+        "fork": false,
+        "full_name": "agentskills/agentskills",
+        "homepage": "https://agentskills.io",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 47,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-01T21:37:32Z",
+        "readme_excerpt": "# Agent Skills [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/MKPE9g8aUy) A standardized way to give AI agents new capabilities and expertise. ## What are Agent Skills? Agent Skills are a lightweight, open format for extending AI agent capabilities with specialized knowledge and workflows. At its core, a skill is a folder containing a `SKILL.md` file. This file includes metadata (`name` and `description`, at minimum) and instruction",
+        "topics": [
+          "agent-skills"
+        ],
+        "updated_at": "2026-07-03T10:12:59Z"
+      },
+      "repo": {
+        "description": "Specification and documentation for Agent Skills",
+        "forks": 1382,
+        "full_name": "agentskills/agentskills",
+        "language": "Python",
+        "name": "agentskills",
+        "owner": "agentskills",
+        "rank": 12,
+        "stars_today": 86,
+        "total_stars": 21792,
+        "url": "https://github.com/agentskills/agentskills"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.25,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 64.55
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 86 stars today; score 64.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-30T15:29:52Z",
+        "default_branch": "main",
+        "description": "Use Codex from Claude Code to review code or delegate tasks.",
+        "fork": false,
+        "full_name": "openai/codex-plugin-cc",
+        "homepage": null,
+        "latest_release": "v1.0.5",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 266,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-06-23T17:36:38Z",
+        "readme_excerpt": "# Codex plugin for Claude Code Use Codex from inside Claude Code for code reviews or to delegate tasks to Codex. This plugin is for Claude Code users who want an easy way to start using Codex from the workflow they already have. <video src=\"./docs/plugin-demo.webm\" controls muted playsinline autoplay></video> ## What You Get - `/codex:review` for a normal read-only Codex review - `/codex:adversarial-review` for a steerable challenge review - `/codex:rescue`, `/codex:transfer`, `/codex:status`, `",
+        "topics": [],
+        "updated_at": "2026-07-03T10:13:36Z"
+      },
+      "repo": {
+        "description": "Use Codex from Claude Code to review code or delegate tasks.",
+        "forks": 1390,
+        "full_name": "openai/codex-plugin-cc",
+        "language": "JavaScript",
+        "name": "codex-plugin-cc",
+        "owner": "openai",
+        "rank": 13,
+        "stars_today": 352,
+        "total_stars": 22883,
+        "url": "https://github.com/openai/codex-plugin-cc"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.85,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.1
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 352 stars today; score 63.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-08-13T05:26:41Z",
+        "default_branch": "main",
+        "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "fork": false,
+        "full_name": "pytorch/pytorch",
+        "homepage": "https://pytorch.org",
+        "latest_release": "v2.12.1",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 18274,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-03T10:14:21Z",
+        "readme_excerpt": "<picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-light.png\" /> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png\" /> <img src=\"https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png\" alt=\"PyTorch logo\" /> </picture> ------------------------------------------------------------",
+        "topics": [
+          "autograd",
+          "deep-learning",
+          "gpu",
+          "machine-learning",
+          "neural-network",
+          "numpy",
+          "python",
+          "tensor"
+        ],
+        "updated_at": "2026-07-03T10:05:32Z"
+      },
+      "repo": {
+        "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "forks": 28239,
+        "full_name": "pytorch/pytorch",
+        "language": "Python",
+        "name": "pytorch",
+        "owner": "pytorch",
+        "rank": 15,
+        "stars_today": 65,
+        "total_stars": 101336,
+        "url": "https://github.com/pytorch/pytorch"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.76,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 54.01
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 65 stars today; score 54.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-07-19T17:15:33Z",
+        "default_branch": "main",
+        "description": "Action for checking out a repo",
+        "fork": false,
+        "full_name": "actions/checkout",
+        "homepage": "https://github.com/features/actions",
+        "latest_release": "v7.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 676,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-30T14:34:23Z",
+        "readme_excerpt": "[![Build and Test](https://github.com/actions/checkout/actions/workflows/test.yml/badge.svg)](https://github.com/actions/checkout/actions/workflows/test.yml) # Checkout v7 ## What's new - Safer fork pull request handling: checkout now refuses to check out fork pull request code by default when the workflow is triggered by `pull_request_target` or `workflow_run`. These triggers run with the base repository's `GITHUB_TOKEN`, secrets, and runner access, where executing a fork's code commonly leads ",
+        "topics": [],
+        "updated_at": "2026-07-03T10:04:57Z"
+      },
+      "repo": {
+        "description": "Action for checking out a repo",
+        "forks": 2530,
+        "full_name": "actions/checkout",
+        "language": "TypeScript",
+        "name": "checkout",
+        "owner": "actions",
+        "rank": 9,
+        "stars_today": 26,
+        "total_stars": 8211,
+        "url": "https://github.com/actions/checkout"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.52,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 51.58
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 26 stars today; score 51.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-09-06T19:31:06Z",
+        "default_branch": "dev",
+        "description": "Machine Learning Systems",
+        "fork": false,
+        "full_name": "harvard-edge/cs249r_book",
+        "homepage": "http://mlsysbook.ai/",
+        "latest_release": "tinytorch-v0.1.13",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 15,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-02T21:36:20Z",
+        "readme_excerpt": "# Machine Learning Systems *Principles and Practices of Engineering Artificially Intelligent Systems* <p align=\"center\"> <a href=\"README.md\">English</a> \u2022 <a href=\"README/README_zh.md\">\u4e2d\u6587</a> \u2022 <a href=\"README/README_ja.md\">\u65e5\u672c\u8a9e</a> \u2022 <a href=\"README/README_ko.md\">\ud55c\uad6d\uc5b4</a> </p> <div align=\"center\"> <!-- Build Status --> <p align=\"center\"> <a href=\"https://github.com/harvard-edge/cs249r_book/actions/workflows/book-validate-dev.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/har",
+        "topics": [
+          "artificial-intelligence",
+          "cloud-ml",
+          "computer-systems",
+          "courseware",
+          "deep-learning",
+          "edge-machine-learning",
+          "embedded-ml",
+          "machine-learning",
+          "machine-learning-systems",
+          "mobile-ml",
+          "textbook",
+          "tinyml"
+        ],
+        "updated_at": "2026-07-03T10:14:01Z"
+      },
+      "repo": {
+        "description": "Machine Learning Systems",
+        "forks": 3102,
+        "full_name": "harvard-edge/cs249r_book",
+        "language": "Python",
+        "name": "cs249r_book",
+        "owner": "harvard-edge",
+        "rank": 16,
+        "stars_today": 68,
+        "total_stars": 25907,
+        "url": "https://github.com/harvard-edge/cs249r_book"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.63,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 46.14
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Python project with 68 stars today; score 46.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-11-25T22:25:41Z",
+        "default_branch": "master",
+        "description": "Clean Code concepts adapted for JavaScript",
+        "fork": false,
+        "full_name": "ryanmcdermott/clean-code-javascript",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 124,
+        "primary_language": "JavaScript",
+        "pushed_at": "2024-07-29T07:24:37Z",
+        "readme_excerpt": "# clean-code-javascript ## Table of Contents 1. [Introduction](#introduction) 2. [Variables](#variables) 3. [Functions](#functions) 4. [Objects and Data Structures](#objects-and-data-structures) 5. [Classes](#classes) 6. [SOLID](#solid) 7. [Testing](#testing) 8. [Concurrency](#concurrency) 9. [Error Handling](#error-handling) 10. [Formatting](#formatting) 11. [Comments](#comments) 12. [Translation](#translation) ## Introduction ![Humorous image of software quality estimation as a count of how ma",
+        "topics": [
+          "best-practices",
+          "clean-architecture",
+          "clean-code",
+          "composition",
+          "inheritance",
+          "javascript",
+          "principles"
+        ],
+        "updated_at": "2026-07-03T10:13:54Z"
+      },
+      "repo": {
+        "description": "Clean Code concepts adapted for JavaScript",
+        "forks": 12478,
+        "full_name": "ryanmcdermott/clean-code-javascript",
+        "language": "JavaScript",
+        "name": "clean-code-javascript",
+        "owner": "ryanmcdermott",
+        "rank": 17,
+        "stars_today": 27,
+        "total_stars": 94662,
+        "url": "https://github.com/ryanmcdermott/clean-code-javascript"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.37,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 45.88
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: JavaScript project with 27 stars today; score 45.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 34485,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 486,
+        "total_stars": 225451,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.65,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 36.6
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 486 stars today; score 36.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/JuliusBrussee",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
+        "forks": 4582,
+        "full_name": "sponsors/JuliusBrussee",
+        "language": "JavaScript",
+        "name": "JuliusBrussee",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 926,
+        "total_stars": 82214,
+        "url": "https://github.com/sponsors/JuliusBrussee"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.02,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 35.17
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 926 stars today; score 35.2/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-11T10:39:55Z",
+        "default_branch": "main",
+        "description": "Chrome DevTools for coding agents",
+        "fork": false,
+        "full_name": "ChromeDevTools/chrome-devtools-mcp",
+        "homepage": "https://npmjs.org/package/chrome-devtools-mcp",
+        "latest_release": "chrome-devtools-mcp-v1.4.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 86,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-03T10:11:19Z",
+        "readme_excerpt": "# Chrome DevTools for agents [![npm chrome-devtools-mcp package](https://img.shields.io/npm/v/chrome-devtools-mcp.svg)](https://npmjs.org/package/chrome-devtools-mcp) Chrome DevTools for agents (`chrome-devtools-mcp`) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debuggi",
+        "topics": [
+          "browser",
+          "chrome",
+          "chrome-devtools",
+          "debugging",
+          "devtools",
+          "mcp",
+          "mcp-server",
+          "puppeteer"
+        ],
+        "updated_at": "2026-07-03T10:14:14Z"
+      },
+      "repo": {
+        "description": "Chrome DevTools for coding agents",
+        "forks": 2941,
+        "full_name": "ChromeDevTools/chrome-devtools-mcp",
+        "language": "TypeScript",
+        "name": "chrome-devtools-mcp",
+        "owner": "ChromeDevTools",
+        "rank": 7,
+        "stars_today": 104,
+        "total_stars": 45296,
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.02,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 76.92
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 104 stars today; score 76.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-02-08T22:28:03Z",
+        "default_branch": "main",
+        "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+        "fork": false,
+        "full_name": "langflow-ai/langflow",
+        "homepage": "http://www.langflow.org",
+        "latest_release": "v1.10.1",
+        "license_spdx": "MIT",
+        "open_issues": 965,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-03T00:48:10Z",
+        "readme_excerpt": "<!-- markdownlint-disable MD030 --> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"./docs/static/img/langflow-logo-color-blue-bg.svg\"> <img src=\"./docs/static/img/langflow-logo-color-black-solid.svg\" alt=\"Langflow logo\"> </picture> [![Release Notes](https://img.shields.io/github/release/langflow-ai/langflow?style=flat-square)](https://github.com/langflow-ai/langflow/releases) [![PyPI - License](https://img.shields.io/badge/license-MIT-orange)](https://opensource.org/licenses/MIT)",
+        "topics": [
+          "agents",
+          "chatgpt",
+          "generative-ai",
+          "large-language-models",
+          "multiagent",
+          "react-flow"
+        ],
+        "updated_at": "2026-07-03T10:11:16Z"
+      },
+      "repo": {
+        "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+        "forks": 9412,
+        "full_name": "langflow-ai/langflow",
+        "language": "Python",
+        "name": "langflow",
+        "owner": "langflow-ai",
+        "rank": 14,
+        "stars_today": 117,
+        "total_stars": 151023,
+        "url": "https://github.com/langflow-ai/langflow"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.05,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 75.95
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 117 stars today; score 76.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-08-05T21:28:30Z",
+        "default_branch": "main",
+        "description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
+        "fork": false,
+        "full_name": "usestrix/strix",
+        "homepage": "https://strix.ai",
+        "latest_release": "v1.0.4",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 133,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-03T04:15:53Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://strix.ai/\"> <img src=\"https://github.com/usestrix/.github/raw/main/imgs/cover.png\" alt=\"Strix Banner\" width=\"100%\"> </a> </p> <div align=\"center\"> # Strix ### The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app\u2019s vulnerabilities. <br/> <a href=\"https://docs.strix.ai\"><img src=\"https://img.shields.io/badge/Docs-docs.strix.ai-2b9246?style=for-the-badge&logo=gitbook&logoColor=white\" alt=\"Docs\"></a> <a href=\"https://strix.ai\"><img ",
+        "topics": [
+          "agents",
+          "ai-hacking",
+          "ai-penetration-testing",
+          "ai-pentesting",
+          "ai-security",
+          "artificial-intelligence",
+          "bug-bounty",
+          "code-quality",
+          "ctf-tools",
+          "cybersecurity",
+          "cybersecurity-tools",
+          "ethical-hacking",
+          "hacking",
+          "llm-security",
+          "offensive-security",
+          "penetration-testing",
+          "pentesting-tools",
+          "red-teaming",
+          "security",
+          "security-automation"
+        ],
+        "updated_at": "2026-07-03T10:13:37Z"
+      },
+      "repo": {
+        "description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
+        "forks": 3457,
+        "full_name": "usestrix/strix",
+        "language": "Python",
+        "name": "strix",
+        "owner": "usestrix",
+        "rank": 1,
+        "stars_today": 2137,
+        "total_stars": 33398,
+        "url": "https://github.com/usestrix/strix"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 9.52,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 75.37
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 2137 stars today; score 75.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-01T09:52:20Z",
+        "default_branch": "main",
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "fork": false,
+        "full_name": "HKUDS/Vibe-Trading",
+        "homepage": "https://vibetrading.wiki/",
+        "latest_release": "v0.1.10",
+        "license_spdx": "MIT",
+        "open_issues": 14,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-03T08:49:36Z",
+        "readme_excerpt": "<p align=\"center\"> <b>English</b> | <a href=\"README_zh.md\">\u4e2d\u6587</a> | <a href=\"README_ja.md\">\u65e5\u672c\u8a9e</a> | <a href=\"README_ko.md\">\ud55c\uad6d\uc5b4</a> | <a href=\"README_ar.md\">\u0627\u0644\u0639\u0631\u0628\u064a\u0629</a> </p> <p align=\"center\"> <img src=\"assets/icon.png\" width=\"120\" alt=\"Vibe-Trading Logo\"/> </p> <h1 align=\"center\">Vibe-Trading: Your Personal Trading Agent</h1> <p align=\"center\"> <b>One Command to Empower Your Agent with Comprehensive Trading Capabilities</b> </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/255",
+        "topics": [
+          "ai-agent",
+          "algorithmic-trading",
+          "backtesting",
+          "fintech",
+          "llm",
+          "mcp",
+          "multi-agent",
+          "python",
+          "quantitative-finance",
+          "trading"
+        ],
+        "updated_at": "2026-07-03T10:13:13Z"
+      },
+      "repo": {
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "forks": 2907,
+        "full_name": "HKUDS/Vibe-Trading",
+        "language": "Python",
+        "name": "Vibe-Trading",
+        "owner": "HKUDS",
+        "rank": 11,
+        "stars_today": 939,
+        "total_stars": 17621,
+        "url": "https://github.com/HKUDS/Vibe-Trading"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.76,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 65.36
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 939 stars today; score 65.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-12T01:34:42Z",
+        "default_branch": "main",
+        "description": "Edit videos with coding agents",
+        "fork": false,
+        "full_name": "browser-use/video-use",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 52,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-01T00:33:52Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"static/video-use-banner.png\" alt=\"video-use\" width=\"100%\"> </p> # video-use Introducing **video-use** \u2014 edit videos with Claude Code. 100% open source. Drop raw footage in a folder, chat with Claude Code, get `final.mp4` back. Works for any content \u2014 talking heads, montages, tutorials, travel, interviews \u2014 without presets or menus. Try video-use in [Browser Use Cloud](https://cloud.browser-use.com/v4?utm_campaign=video-use-use-in-cloud&utm_source=github). ## What it ",
+        "topics": [],
+        "updated_at": "2026-07-03T10:13:44Z"
+      },
+      "repo": {
+        "description": "Edit videos with coding agents",
+        "forks": 1710,
+        "full_name": "browser-use/video-use",
+        "language": "Python",
+        "name": "video-use",
+        "owner": "browser-use",
+        "rank": 8,
+        "stars_today": 554,
+        "total_stars": 14174,
+        "url": "https://github.com/browser-use/video-use"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.13,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 64.68
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 554 stars today; score 64.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-12-16T15:47:19Z",
+        "default_branch": "main",
+        "description": "Specification and documentation for Agent Skills",
+        "fork": false,
+        "full_name": "agentskills/agentskills",
+        "homepage": "https://agentskills.io",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 47,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-01T21:37:32Z",
+        "readme_excerpt": "# Agent Skills [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/MKPE9g8aUy) A standardized way to give AI agents new capabilities and expertise. ## What are Agent Skills? Agent Skills are a lightweight, open format for extending AI agent capabilities with specialized knowledge and workflows. At its core, a skill is a folder containing a `SKILL.md` file. This file includes metadata (`name` and `description`, at minimum) and instruction",
+        "topics": [
+          "agent-skills"
+        ],
+        "updated_at": "2026-07-03T10:12:59Z"
+      },
+      "repo": {
+        "description": "Specification and documentation for Agent Skills",
+        "forks": 1382,
+        "full_name": "agentskills/agentskills",
+        "language": "Python",
+        "name": "agentskills",
+        "owner": "agentskills",
+        "rank": 12,
+        "stars_today": 86,
+        "total_stars": 21792,
+        "url": "https://github.com/agentskills/agentskills"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.25,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 64.55
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 86 stars today; score 64.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-30T15:29:52Z",
+        "default_branch": "main",
+        "description": "Use Codex from Claude Code to review code or delegate tasks.",
+        "fork": false,
+        "full_name": "openai/codex-plugin-cc",
+        "homepage": null,
+        "latest_release": "v1.0.5",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 266,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-06-23T17:36:38Z",
+        "readme_excerpt": "# Codex plugin for Claude Code Use Codex from inside Claude Code for code reviews or to delegate tasks to Codex. This plugin is for Claude Code users who want an easy way to start using Codex from the workflow they already have. <video src=\"./docs/plugin-demo.webm\" controls muted playsinline autoplay></video> ## What You Get - `/codex:review` for a normal read-only Codex review - `/codex:adversarial-review` for a steerable challenge review - `/codex:rescue`, `/codex:transfer`, `/codex:status`, `",
+        "topics": [],
+        "updated_at": "2026-07-03T10:13:36Z"
+      },
+      "repo": {
+        "description": "Use Codex from Claude Code to review code or delegate tasks.",
+        "forks": 1390,
+        "full_name": "openai/codex-plugin-cc",
+        "language": "JavaScript",
+        "name": "codex-plugin-cc",
+        "owner": "openai",
+        "rank": 13,
+        "stars_today": 352,
+        "total_stars": 22883,
+        "url": "https://github.com/openai/codex-plugin-cc"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.85,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.1
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 352 stars today; score 63.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-18T03:07:18Z",
+        "default_branch": "main",
+        "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+        "fork": false,
+        "full_name": "hasaneyldrm/exercises-dataset",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 22,
+        "primary_language": "HTML",
+        "pushed_at": "2026-06-30T10:19:40Z",
+        "readme_excerpt": "<div align=\"center\"> # \ud83d\udcaa Exercises Dataset **A developer setup wizard + structured, multilingual exercise dataset \u2014 scaffold your own exercise app backend (DB schema, API code, LLM prompt) over 1,324 exercises with category, body-part, equipment, target and muscle-group data and step-by-step instructions in 6 languages (English, Spanish, Italian, Turkish, Russian, Chinese). Exercise media is not included.** [![Exercises](https://img.shields.io/badge/Exercises-1324-blue?style=flat-square)](data/e",
+        "topics": [
+          "excercises",
+          "fitness",
+          "fitness-app"
+        ],
+        "updated_at": "2026-07-03T10:14:18Z"
+      },
+      "repo": {
+        "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+        "forks": 1078,
+        "full_name": "hasaneyldrm/exercises-dataset",
+        "language": "HTML",
+        "name": "exercises-dataset",
+        "owner": "hasaneyldrm",
+        "rank": 4,
+        "stars_today": 938,
+        "total_stars": 9668,
+        "url": "https://github.com/hasaneyldrm/exercises-dataset"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.77,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 2.8,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 57.72
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: HTML project with 938 stars today; score 57.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-08-13T05:26:41Z",
+        "default_branch": "main",
+        "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "fork": false,
+        "full_name": "pytorch/pytorch",
+        "homepage": "https://pytorch.org",
+        "latest_release": "v2.12.1",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 18274,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-03T10:14:21Z",
+        "readme_excerpt": "<picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-light.png\" /> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png\" /> <img src=\"https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png\" alt=\"PyTorch logo\" /> </picture> ------------------------------------------------------------",
+        "topics": [
+          "autograd",
+          "deep-learning",
+          "gpu",
+          "machine-learning",
+          "neural-network",
+          "numpy",
+          "python",
+          "tensor"
+        ],
+        "updated_at": "2026-07-03T10:05:32Z"
+      },
+      "repo": {
+        "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "forks": 28239,
+        "full_name": "pytorch/pytorch",
+        "language": "Python",
+        "name": "pytorch",
+        "owner": "pytorch",
+        "rank": 15,
+        "stars_today": 65,
+        "total_stars": 101336,
+        "url": "https://github.com/pytorch/pytorch"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.76,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 54.01
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 65 stars today; score 54.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-07-19T17:15:33Z",
+        "default_branch": "main",
+        "description": "Action for checking out a repo",
+        "fork": false,
+        "full_name": "actions/checkout",
+        "homepage": "https://github.com/features/actions",
+        "latest_release": "v7.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 676,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-30T14:34:23Z",
+        "readme_excerpt": "[![Build and Test](https://github.com/actions/checkout/actions/workflows/test.yml/badge.svg)](https://github.com/actions/checkout/actions/workflows/test.yml) # Checkout v7 ## What's new - Safer fork pull request handling: checkout now refuses to check out fork pull request code by default when the workflow is triggered by `pull_request_target` or `workflow_run`. These triggers run with the base repository's `GITHUB_TOKEN`, secrets, and runner access, where executing a fork's code commonly leads ",
+        "topics": [],
+        "updated_at": "2026-07-03T10:04:57Z"
+      },
+      "repo": {
+        "description": "Action for checking out a repo",
+        "forks": 2530,
+        "full_name": "actions/checkout",
+        "language": "TypeScript",
+        "name": "checkout",
+        "owner": "actions",
+        "rank": 9,
+        "stars_today": 26,
+        "total_stars": 8211,
+        "url": "https://github.com/actions/checkout"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.52,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 51.58
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 26 stars today; score 51.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-09-06T19:31:06Z",
+        "default_branch": "dev",
+        "description": "Machine Learning Systems",
+        "fork": false,
+        "full_name": "harvard-edge/cs249r_book",
+        "homepage": "http://mlsysbook.ai/",
+        "latest_release": "tinytorch-v0.1.13",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 15,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-02T21:36:20Z",
+        "readme_excerpt": "# Machine Learning Systems *Principles and Practices of Engineering Artificially Intelligent Systems* <p align=\"center\"> <a href=\"README.md\">English</a> \u2022 <a href=\"README/README_zh.md\">\u4e2d\u6587</a> \u2022 <a href=\"README/README_ja.md\">\u65e5\u672c\u8a9e</a> \u2022 <a href=\"README/README_ko.md\">\ud55c\uad6d\uc5b4</a> </p> <div align=\"center\"> <!-- Build Status --> <p align=\"center\"> <a href=\"https://github.com/harvard-edge/cs249r_book/actions/workflows/book-validate-dev.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/har",
+        "topics": [
+          "artificial-intelligence",
+          "cloud-ml",
+          "computer-systems",
+          "courseware",
+          "deep-learning",
+          "edge-machine-learning",
+          "embedded-ml",
+          "machine-learning",
+          "machine-learning-systems",
+          "mobile-ml",
+          "textbook",
+          "tinyml"
+        ],
+        "updated_at": "2026-07-03T10:14:01Z"
+      },
+      "repo": {
+        "description": "Machine Learning Systems",
+        "forks": 3102,
+        "full_name": "harvard-edge/cs249r_book",
+        "language": "Python",
+        "name": "cs249r_book",
+        "owner": "harvard-edge",
+        "rank": 16,
+        "stars_today": 68,
+        "total_stars": 25907,
+        "url": "https://github.com/harvard-edge/cs249r_book"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.63,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 46.14
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Python project with 68 stars today; score 46.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-11-25T22:25:41Z",
+        "default_branch": "master",
+        "description": "Clean Code concepts adapted for JavaScript",
+        "fork": false,
+        "full_name": "ryanmcdermott/clean-code-javascript",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 124,
+        "primary_language": "JavaScript",
+        "pushed_at": "2024-07-29T07:24:37Z",
+        "readme_excerpt": "# clean-code-javascript ## Table of Contents 1. [Introduction](#introduction) 2. [Variables](#variables) 3. [Functions](#functions) 4. [Objects and Data Structures](#objects-and-data-structures) 5. [Classes](#classes) 6. [SOLID](#solid) 7. [Testing](#testing) 8. [Concurrency](#concurrency) 9. [Error Handling](#error-handling) 10. [Formatting](#formatting) 11. [Comments](#comments) 12. [Translation](#translation) ## Introduction ![Humorous image of software quality estimation as a count of how ma",
+        "topics": [
+          "best-practices",
+          "clean-architecture",
+          "clean-code",
+          "composition",
+          "inheritance",
+          "javascript",
+          "principles"
+        ],
+        "updated_at": "2026-07-03T10:13:54Z"
+      },
+      "repo": {
+        "description": "Clean Code concepts adapted for JavaScript",
+        "forks": 12478,
+        "full_name": "ryanmcdermott/clean-code-javascript",
+        "language": "JavaScript",
+        "name": "clean-code-javascript",
+        "owner": "ryanmcdermott",
+        "rank": 17,
+        "stars_today": 27,
+        "total_stars": 94662,
+        "url": "https://github.com/ryanmcdermott/clean-code-javascript"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.37,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 45.88
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: JavaScript project with 27 stars today; score 45.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/msitarzewski",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "forks": 20458,
+        "full_name": "sponsors/msitarzewski",
+        "language": "Shell",
+        "name": "msitarzewski",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 3032,
+        "total_stars": 126060,
+        "url": "https://github.com/sponsors/msitarzewski"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 11.71,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.78,
+        "technical_quality": 3.5,
+        "total": 40.67
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 3032 stars today; score 40.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 34485,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 486,
+        "total_stars": 225451,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.65,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 36.6
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 486 stars today; score 36.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/JuliusBrussee",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
+        "forks": 4582,
+        "full_name": "sponsors/JuliusBrussee",
+        "language": "JavaScript",
+        "name": "JuliusBrussee",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 926,
+        "total_stars": 82214,
+        "url": "https://github.com/sponsors/JuliusBrussee"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.02,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 35.17
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 926 stars today; score 35.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 21714,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 897,
+        "total_stars": 245042,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.37,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 34.52
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 897 stars today; score 34.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/santifer",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+        "forks": 11430,
+        "full_name": "sponsors/santifer",
+        "language": "JavaScript",
+        "name": "santifer",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 372,
+        "total_stars": 58284,
+        "url": "https://github.com/sponsors/santifer"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.05,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 32.5
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 372 stars today; score 32.5/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-07-03",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is ChromeDevTools/chrome-devtools-mcp."
+}

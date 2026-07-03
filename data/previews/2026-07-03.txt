@@ -1,0 +1,34 @@
+GitHub Trending: AI workflow signal - 2026-07-03
+
+Today leans toward AI workflow signal; the strongest pick is ChromeDevTools/chrome-devtools-mcp.
+
+Top picks
+1. ChromeDevTools/chrome-devtools-mcp - 76.9/100
+   https://github.com/ChromeDevTools/chrome-devtools-mcp
+   AI Workflow, DevTools: TypeScript project with 104 stars today; score 76.9/100.
+2. langflow-ai/langflow - 76.0/100
+   https://github.com/langflow-ai/langflow
+   AI Workflow, DevTools: Python project with 117 stars today; score 76.0/100.
+3. agentskills/agentskills - 64.5/100
+   https://github.com/agentskills/agentskills
+   AI Workflow, DevTools: Python project with 86 stars today; score 64.5/100.
+4. openai/codex-plugin-cc - 63.1/100
+   https://github.com/openai/codex-plugin-cc
+   AI Workflow, DevTools: JavaScript project with 352 stars today; score 63.1/100.
+5. pytorch/pytorch - 54.0/100
+   https://github.com/pytorch/pytorch
+   AI Workflow, Try Today: Python project with 65 stars today; score 54.0/100.
+
+Full reviewed list
+- ChromeDevTools/chrome-devtools-mcp: 76.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 104 stars today; score 76.9/100.
+- langflow-ai/langflow: 76.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 117 stars today; score 76.0/100.
+- agentskills/agentskills: 64.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 86 stars today; score 64.5/100.
+- openai/codex-plugin-cc: 63.1/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: JavaScript project with 352 stars today; score 63.1/100.
+- pytorch/pytorch: 54.0/100 [AI Workflow, Try Today] AI Workflow, Try Today: Python project with 65 stars today; score 54.0/100.
+- actions/checkout: 51.6/100 [DevTools, Try Today] DevTools, Try Today: TypeScript project with 26 stars today; score 51.6/100.
+- harvard-edge/cs249r_book: 46.1/100 [DevTools, Try Today] DevTools, Try Today: Python project with 68 stars today; score 46.1/100.
+- ryanmcdermott/clean-code-javascript: 45.9/100 [DevTools, Try Today] DevTools, Try Today: JavaScript project with 27 stars today; score 45.9/100.
+- sponsors/affaan-m: 36.6/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: JavaScript project with 486 stars today; score 36.6/100.
+- sponsors/JuliusBrussee: 35.2/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: JavaScript project with 926 stars today; score 35.2/100.
+
+Generated for 2026-07-03 from GitHub Trending daily.
