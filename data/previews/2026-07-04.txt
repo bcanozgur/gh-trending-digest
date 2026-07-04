@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-07-04
+
+Today leans toward AI workflow signal; the strongest pick is ansible/ansible.
+
+Top picks
+1. ansible/ansible - 76.0/100
+   https://github.com/ansible/ansible
+   AI Workflow, DevTools: Python project with 65 stars today; score 76.0/100.
+2. anthropics/claude-code - 71.1/100
+   https://github.com/anthropics/claude-code
+   AI Workflow, DevTools: Python project with 221 stars today; score 71.1/100.
+3. elastic/elasticsearch - 60.2/100
+   https://github.com/elastic/elasticsearch
+   AI Workflow, Try Today: Java project with 91 stars today; score 60.2/100.
+4. apache/maven - 59.0/100
+   https://github.com/apache/maven
+   AI Workflow, Try Today: Java project with 58 stars today; score 59.0/100.
+5. rommapp/romm - 55.0/100
+   https://github.com/rommapp/romm
+   DevTools, Try Today: Python project with 239 stars today; score 55.0/100.
+
+Full reviewed list
+- ansible/ansible: 76.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 65 stars today; score 76.0/100.
+- anthropics/claude-code: 71.1/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 221 stars today; score 71.1/100.
+- elastic/elasticsearch: 60.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Java project with 91 stars today; score 60.2/100.
+- apache/maven: 59.0/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Java project with 58 stars today; score 59.0/100.
+- rommapp/romm: 55.0/100 [DevTools, Try Today, Deep Dive] DevTools, Try Today: Python project with 239 stars today; score 55.0/100.
+- sponsors/obra: 34.3/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Shell project with 1209 stars today; score 34.3/100.
+- sponsors/supabase: 30.9/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: TypeScript project with 169 stars today; score 30.9/100.
+
+Generated for 2026-07-04 from GitHub Trending daily.

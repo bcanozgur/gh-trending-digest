@@ -1,0 +1,1387 @@
+{
+  "date": "2026-07-04",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2012-03-06T14:58:02Z",
+        "default_branch": "devel",
+        "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+        "fork": false,
+        "full_name": "ansible/ansible",
+        "homepage": "https://www.ansible.com/",
+        "latest_release": "v2.21.1",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 805,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-01T18:49:55Z",
+        "readme_excerpt": "[![PyPI version](https://img.shields.io/pypi/v/ansible-core.svg)](https://pypi.org/project/ansible-core) [![Docs badge](https://img.shields.io/badge/docs-latest-brightgreen.svg)](https://docs.ansible.com/ansible/latest/) [![Chat badge](https://img.shields.io/badge/chat-Matrix-brightgreen.svg)](https://docs.ansible.com/ansible/devel/community/communication.html#real-time-chat) [![Ansible forum](https://img.shields.io/badge/forum-Ansible-orange.svg)](https://docs.ansible.com/ansible/devel/communit",
+        "topics": [
+          "ansible",
+          "python"
+        ],
+        "updated_at": "2026-07-04T09:31:03Z"
+      },
+      "repo": {
+        "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com .",
+        "forks": 24114,
+        "full_name": "ansible/ansible",
+        "language": "Python",
+        "name": "ansible",
+        "owner": "ansible",
+        "rank": 7,
+        "stars_today": 65,
+        "total_stars": 69266,
+        "url": "https://github.com/ansible/ansible"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.93,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 76.02
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 65 stars today; score 76.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-02-22T17:41:21Z",
+        "default_branch": "main",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "fork": false,
+        "full_name": "anthropics/claude-code",
+        "homepage": "https://code.claude.com/docs/en/overview",
+        "latest_release": "v2.1.201",
+        "license_spdx": null,
+        "open_issues": 9845,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-03T23:50:35Z",
+        "readme_excerpt": "# Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your t",
+        "topics": [],
+        "updated_at": "2026-07-04T09:35:46Z"
+      },
+      "repo": {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "forks": 21869,
+        "full_name": "anthropics/claude-code",
+        "language": "Python",
+        "name": "claude-code",
+        "owner": "anthropics",
+        "rank": 13,
+        "stars_today": 221,
+        "total_stars": 135984,
+        "url": "https://github.com/anthropics/claude-code"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.52,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 71.12
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 221 stars today; score 71.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2010-02-08T13:20:56Z",
+        "default_branch": "main",
+        "description": "Free and Open Source, Distributed, RESTful Search Engine",
+        "fork": false,
+        "full_name": "elastic/elasticsearch",
+        "homepage": "https://www.elastic.co/products/elasticsearch",
+        "latest_release": "v9.4.3",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 5920,
+        "primary_language": "Java",
+        "pushed_at": "2026-07-04T08:00:26Z",
+        "readme_excerpt": "= Elasticsearch Elasticsearch is a distributed search and analytics engine, scalable data store and vector database optimized for speed and relevance on production-scale workloads. Elasticsearch is the foundation of Elastic's open Stack platform. Search in near real-time over massive datasets, perform vector searches, integrate with generative AI applications, and much more. Use cases enabled by Elasticsearch include: * https://www.elastic.co/search-labs/blog/articles/retrieval-augmented-generat",
+        "topics": [
+          "elasticsearch",
+          "java",
+          "search-engine"
+        ],
+        "updated_at": "2026-07-04T09:28:36Z"
+      },
+      "repo": {
+        "description": "Free and Open Source, Distributed, RESTful Search Engine",
+        "forks": 25942,
+        "full_name": "elastic/elasticsearch",
+        "language": "Java",
+        "name": "elasticsearch",
+        "owner": "elastic",
+        "rank": 4,
+        "stars_today": 91,
+        "total_stars": 77410,
+        "url": "https://github.com/elastic/elasticsearch"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.43,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 60.18
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Java project with 91 stars today; score 60.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2009-05-21T03:22:03Z",
+        "default_branch": "master",
+        "description": "Apache Maven core",
+        "fork": false,
+        "full_name": "apache/maven",
+        "homepage": "https://maven.apache.org/ref/current",
+        "latest_release": "maven-3.9.16",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 698,
+        "primary_language": "Java",
+        "pushed_at": "2026-07-03T13:50:15Z",
+        "readme_excerpt": "<!--- Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to You under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in wri",
+        "topics": [
+          "apache-maven",
+          "build-management",
+          "hacktoberfest",
+          "java",
+          "maven"
+        ],
+        "updated_at": "2026-07-04T09:18:03Z"
+      },
+      "repo": {
+        "description": "Apache Maven core",
+        "forks": 2904,
+        "full_name": "apache/maven",
+        "language": "Java",
+        "name": "maven",
+        "owner": "apache",
+        "rank": 12,
+        "stars_today": 58,
+        "total_stars": 5260,
+        "url": "https://github.com/apache/maven"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.19,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 58.99
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Java project with 58 stars today; score 59.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-03-08T16:11:01Z",
+        "default_branch": "master",
+        "description": "A beautiful, powerful, self-hosted rom manager and player.",
+        "fork": false,
+        "full_name": "rommapp/romm",
+        "homepage": "https://romm.app",
+        "latest_release": "4.9.2",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 184,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-03T21:13:19Z",
+        "readme_excerpt": "<!-- trunk-ignore-all(markdownlint/MD033) --> <!-- trunk-ignore(markdownlint/MD041) --> <div align=\"center\"> <img src=\".github/resources/isotipo.png\" height=\"180px\" width=\"auto\" alt=\"romm logo\"> <h3 style=\"font-size: 25px;\"> A beautiful, powerful, self-hosted ROM manager and player. </h3> [![discord-badge-img]][discord-badge] [![docs-badge-img]][docs] [![license-badge-img]][license-badge] [![release-badge-img]][release-badge] [![docker-pulls-badge-img]][docker-pulls-badge] </div> </div> # Overvi",
+        "topics": [
+          "emulation",
+          "open-source",
+          "retrogaming",
+          "rommapp",
+          "self-hosted"
+        ],
+        "updated_at": "2026-07-04T09:30:49Z"
+      },
+      "repo": {
+        "description": "A beautiful, powerful, self-hosted rom manager and player.",
+        "forks": 481,
+        "full_name": "rommapp/romm",
+        "language": "Python",
+        "name": "romm",
+        "owner": "rommapp",
+        "rank": 9,
+        "stars_today": 239,
+        "total_stars": 9927,
+        "url": "https://github.com/rommapp/romm"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.15,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 55.0
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: Python project with 239 stars today; score 55.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 21795,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 15,
+        "stars_today": 1209,
+        "total_stars": 245796,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.13,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 34.28
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 1209 stars today; score 34.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/supabase",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+        "forks": 12981,
+        "full_name": "sponsors/supabase",
+        "language": "TypeScript",
+        "name": "supabase",
+        "owner": "sponsors",
+        "rank": 17,
+        "stars_today": 169,
+        "total_stars": 105631,
+        "url": "https://github.com/sponsors/supabase"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 1.79,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 30.94
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 169 stars today; score 30.9/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-08-05T21:28:30Z",
+        "default_branch": "main",
+        "description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
+        "fork": false,
+        "full_name": "usestrix/strix",
+        "homepage": "https://strix.ai",
+        "latest_release": "v1.0.4",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 160,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-03T14:43:32Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://strix.ai/\"> <img src=\"https://github.com/usestrix/.github/raw/main/imgs/cover.png\" alt=\"Strix Banner\" width=\"100%\"> </a> </p> <div align=\"center\"> # Strix ### The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app\u2019s vulnerabilities. <br/> <a href=\"https://docs.strix.ai\"><img src=\"https://img.shields.io/badge/Docs-docs.strix.ai-2b9246?style=for-the-badge&logo=gitbook&logoColor=white\" alt=\"Docs\"></a> <a href=\"https://strix.ai\"><img ",
+        "topics": [
+          "agents",
+          "ai-hacking",
+          "ai-penetration-testing",
+          "ai-pentesting",
+          "ai-security",
+          "artificial-intelligence",
+          "bug-bounty",
+          "code-quality",
+          "ctf-tools",
+          "cybersecurity",
+          "cybersecurity-tools",
+          "ethical-hacking",
+          "hacking",
+          "llm-security",
+          "offensive-security",
+          "penetration-testing",
+          "pentesting-tools",
+          "red-teaming",
+          "security",
+          "security-automation"
+        ],
+        "updated_at": "2026-07-04T09:38:02Z"
+      },
+      "repo": {
+        "description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
+        "forks": 3608,
+        "full_name": "usestrix/strix",
+        "language": "Python",
+        "name": "strix",
+        "owner": "usestrix",
+        "rank": 1,
+        "stars_today": 2803,
+        "total_stars": 35293,
+        "url": "https://github.com/usestrix/strix"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.82,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 77.67
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 2803 stars today; score 77.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2012-03-06T14:58:02Z",
+        "default_branch": "devel",
+        "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+        "fork": false,
+        "full_name": "ansible/ansible",
+        "homepage": "https://www.ansible.com/",
+        "latest_release": "v2.21.1",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 805,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-01T18:49:55Z",
+        "readme_excerpt": "[![PyPI version](https://img.shields.io/pypi/v/ansible-core.svg)](https://pypi.org/project/ansible-core) [![Docs badge](https://img.shields.io/badge/docs-latest-brightgreen.svg)](https://docs.ansible.com/ansible/latest/) [![Chat badge](https://img.shields.io/badge/chat-Matrix-brightgreen.svg)](https://docs.ansible.com/ansible/devel/community/communication.html#real-time-chat) [![Ansible forum](https://img.shields.io/badge/forum-Ansible-orange.svg)](https://docs.ansible.com/ansible/devel/communit",
+        "topics": [
+          "ansible",
+          "python"
+        ],
+        "updated_at": "2026-07-04T09:31:03Z"
+      },
+      "repo": {
+        "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com .",
+        "forks": 24114,
+        "full_name": "ansible/ansible",
+        "language": "Python",
+        "name": "ansible",
+        "owner": "ansible",
+        "rank": 7,
+        "stars_today": 65,
+        "total_stars": 69266,
+        "url": "https://github.com/ansible/ansible"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.93,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 76.02
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 65 stars today; score 76.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-11T10:39:55Z",
+        "default_branch": "main",
+        "description": "Chrome DevTools for coding agents",
+        "fork": false,
+        "full_name": "ChromeDevTools/chrome-devtools-mcp",
+        "homepage": "https://npmjs.org/package/chrome-devtools-mcp",
+        "latest_release": "chrome-devtools-mcp-v1.5.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 87,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-03T11:18:49Z",
+        "readme_excerpt": "# Chrome DevTools for agents [![npm chrome-devtools-mcp package](https://img.shields.io/npm/v/chrome-devtools-mcp.svg)](https://npmjs.org/package/chrome-devtools-mcp) Chrome DevTools for agents (`chrome-devtools-mcp`) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debuggi",
+        "topics": [
+          "browser",
+          "chrome",
+          "chrome-devtools",
+          "debugging",
+          "devtools",
+          "mcp",
+          "mcp-server",
+          "puppeteer"
+        ],
+        "updated_at": "2026-07-04T09:31:42Z"
+      },
+      "repo": {
+        "description": "Chrome DevTools for coding agents",
+        "forks": 2967,
+        "full_name": "ChromeDevTools/chrome-devtools-mcp",
+        "language": "TypeScript",
+        "name": "chrome-devtools-mcp",
+        "owner": "ChromeDevTools",
+        "rank": 6,
+        "stars_today": 405,
+        "total_stars": 45591,
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.07,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 72.77
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 405 stars today; score 72.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-02-22T17:41:21Z",
+        "default_branch": "main",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "fork": false,
+        "full_name": "anthropics/claude-code",
+        "homepage": "https://code.claude.com/docs/en/overview",
+        "latest_release": "v2.1.201",
+        "license_spdx": null,
+        "open_issues": 9845,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-03T23:50:35Z",
+        "readme_excerpt": "# Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your t",
+        "topics": [],
+        "updated_at": "2026-07-04T09:35:46Z"
+      },
+      "repo": {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "forks": 21869,
+        "full_name": "anthropics/claude-code",
+        "language": "Python",
+        "name": "claude-code",
+        "owner": "anthropics",
+        "rank": 13,
+        "stars_today": 221,
+        "total_stars": 135984,
+        "url": "https://github.com/anthropics/claude-code"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.52,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 71.12
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 221 stars today; score 71.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-09T16:20:32Z",
+        "default_branch": "main",
+        "description": "An open source design system that's fully customizable and agent ready",
+        "fork": false,
+        "full_name": "facebook/astryx",
+        "homepage": "http://astryx.atmeta.com",
+        "latest_release": "v0.1.2",
+        "license_spdx": "MIT",
+        "open_issues": 206,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-04T09:34:57Z",
+        "readme_excerpt": "<!-- SYNC CONTRACT: Architecture changes require documentation updates. --> # Astryx An open source design system that's fully customizable and built for how we build now \u2014 by people and the agents working alongside them. > **Currently in Beta** \u00b7 Built on [React](https://react.dev) and [StyleX](https://stylexjs.com) ## Overview Astryx is an open source design system that grew inside Meta over the last eight years, where it became the most-used and largest design system in the company \u2014 powering",
+        "topics": [],
+        "updated_at": "2026-07-04T09:37:08Z"
+      },
+      "repo": {
+        "description": "An open source design system that's fully customizable and agent ready",
+        "forks": 291,
+        "full_name": "facebook/astryx",
+        "language": "TypeScript",
+        "name": "astryx",
+        "owner": "facebook",
+        "rank": 8,
+        "stars_today": 885,
+        "total_stars": 5003,
+        "url": "https://github.com/facebook/astryx"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.19,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 61.29
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 885 stars today; score 61.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-30T15:29:52Z",
+        "default_branch": "main",
+        "description": "Use Codex from Claude Code to review code or delegate tasks.",
+        "fork": false,
+        "full_name": "openai/codex-plugin-cc",
+        "homepage": null,
+        "latest_release": "v1.0.5",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 267,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-06-23T17:36:38Z",
+        "readme_excerpt": "# Codex plugin for Claude Code Use Codex from inside Claude Code for code reviews or to delegate tasks to Codex. This plugin is for Claude Code users who want an easy way to start using Codex from the workflow they already have. <video src=\"./docs/plugin-demo.webm\" controls muted playsinline autoplay></video> ## What You Get - `/codex:review` for a normal read-only Codex review - `/codex:adversarial-review` for a steerable challenge review - `/codex:rescue`, `/codex:transfer`, `/codex:status`, `",
+        "topics": [],
+        "updated_at": "2026-07-04T09:36:36Z"
+      },
+      "repo": {
+        "description": "Use Codex from Claude Code to review code or delegate tasks.",
+        "forks": 1437,
+        "full_name": "openai/codex-plugin-cc",
+        "language": "JavaScript",
+        "name": "codex-plugin-cc",
+        "owner": "openai",
+        "rank": 2,
+        "stars_today": 634,
+        "total_stars": 23482,
+        "url": "https://github.com/openai/codex-plugin-cc"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.32,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 60.37
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 634 stars today; score 60.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2010-02-08T13:20:56Z",
+        "default_branch": "main",
+        "description": "Free and Open Source, Distributed, RESTful Search Engine",
+        "fork": false,
+        "full_name": "elastic/elasticsearch",
+        "homepage": "https://www.elastic.co/products/elasticsearch",
+        "latest_release": "v9.4.3",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 5920,
+        "primary_language": "Java",
+        "pushed_at": "2026-07-04T08:00:26Z",
+        "readme_excerpt": "= Elasticsearch Elasticsearch is a distributed search and analytics engine, scalable data store and vector database optimized for speed and relevance on production-scale workloads. Elasticsearch is the foundation of Elastic's open Stack platform. Search in near real-time over massive datasets, perform vector searches, integrate with generative AI applications, and much more. Use cases enabled by Elasticsearch include: * https://www.elastic.co/search-labs/blog/articles/retrieval-augmented-generat",
+        "topics": [
+          "elasticsearch",
+          "java",
+          "search-engine"
+        ],
+        "updated_at": "2026-07-04T09:28:36Z"
+      },
+      "repo": {
+        "description": "Free and Open Source, Distributed, RESTful Search Engine",
+        "forks": 25942,
+        "full_name": "elastic/elasticsearch",
+        "language": "Java",
+        "name": "elasticsearch",
+        "owner": "elastic",
+        "rank": 4,
+        "stars_today": 91,
+        "total_stars": 77410,
+        "url": "https://github.com/elastic/elasticsearch"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.43,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 60.18
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Java project with 91 stars today; score 60.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-12-16T15:47:19Z",
+        "default_branch": "main",
+        "description": "Specification and documentation for Agent Skills",
+        "fork": false,
+        "full_name": "agentskills/agentskills",
+        "homepage": "https://agentskills.io",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 47,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-01T21:37:32Z",
+        "readme_excerpt": "# Agent Skills [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/MKPE9g8aUy) A standardized way to give AI agents new capabilities and expertise. ## What are Agent Skills? Agent Skills are a lightweight, open format for extending AI agent capabilities with specialized knowledge and workflows. At its core, a skill is a folder containing a `SKILL.md` file. This file includes metadata (`name` and `description`, at minimum) and instruction",
+        "topics": [
+          "agent-skills"
+        ],
+        "updated_at": "2026-07-04T09:37:50Z"
+      },
+      "repo": {
+        "description": "Specification and documentation for Agent Skills",
+        "forks": 1399,
+        "full_name": "agentskills/agentskills",
+        "language": "Python",
+        "name": "agentskills",
+        "owner": "agentskills",
+        "rank": 16,
+        "stars_today": 406,
+        "total_stars": 22125,
+        "url": "https://github.com/agentskills/agentskills"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.63,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 59.73
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 406 stars today; score 59.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2009-05-21T03:22:03Z",
+        "default_branch": "master",
+        "description": "Apache Maven core",
+        "fork": false,
+        "full_name": "apache/maven",
+        "homepage": "https://maven.apache.org/ref/current",
+        "latest_release": "maven-3.9.16",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 698,
+        "primary_language": "Java",
+        "pushed_at": "2026-07-03T13:50:15Z",
+        "readme_excerpt": "<!--- Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to You under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in wri",
+        "topics": [
+          "apache-maven",
+          "build-management",
+          "hacktoberfest",
+          "java",
+          "maven"
+        ],
+        "updated_at": "2026-07-04T09:18:03Z"
+      },
+      "repo": {
+        "description": "Apache Maven core",
+        "forks": 2904,
+        "full_name": "apache/maven",
+        "language": "Java",
+        "name": "maven",
+        "owner": "apache",
+        "rank": 12,
+        "stars_today": 58,
+        "total_stars": 5260,
+        "url": "https://github.com/apache/maven"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.19,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 58.99
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Java project with 58 stars today; score 59.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-10T03:00:31Z",
+        "default_branch": "master",
+        "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+        "fork": false,
+        "full_name": "TencentCloud/CubeSandbox",
+        "homepage": "https://cubesandbox.com",
+        "latest_release": "v0.5.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 81,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-03T16:40:12Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"docs/assets/cube-sandbox-logo.png\" alt=\"Cube Sandbox Logo\" width=\"140\" /> </p> <h1 align=\"center\">CubeSandbox</h1> <p align=\"center\"> <strong>Instant, Concurrent, Secure & Lightweight Sandbox Service for AI Agents</strong> </p> <p align=\"center\"> <a href=\"https://github.com/tencentcloud/CubeSandbox/stargazers\"><img src=\"https://img.shields.io/github/stars/tencentcloud/cubesandbox?style=social\" alt=\"GitHub Stars\" /></a> <a href=\"https://github.com/tencentcloud/CubeSan",
+        "topics": [
+          "agents",
+          "container",
+          "sandbox"
+        ],
+        "updated_at": "2026-07-04T09:38:18Z"
+      },
+      "repo": {
+        "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+        "forks": 593,
+        "full_name": "TencentCloud/CubeSandbox",
+        "language": "Rust",
+        "name": "CubeSandbox",
+        "owner": "TencentCloud",
+        "rank": 18,
+        "stars_today": 60,
+        "total_stars": 7251,
+        "url": "https://github.com/TencentCloud/CubeSandbox"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.33,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 57.38
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 60 stars today; score 57.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-03-08T16:11:01Z",
+        "default_branch": "master",
+        "description": "A beautiful, powerful, self-hosted rom manager and player.",
+        "fork": false,
+        "full_name": "rommapp/romm",
+        "homepage": "https://romm.app",
+        "latest_release": "4.9.2",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 184,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-03T21:13:19Z",
+        "readme_excerpt": "<!-- trunk-ignore-all(markdownlint/MD033) --> <!-- trunk-ignore(markdownlint/MD041) --> <div align=\"center\"> <img src=\".github/resources/isotipo.png\" height=\"180px\" width=\"auto\" alt=\"romm logo\"> <h3 style=\"font-size: 25px;\"> A beautiful, powerful, self-hosted ROM manager and player. </h3> [![discord-badge-img]][discord-badge] [![docs-badge-img]][docs] [![license-badge-img]][license-badge] [![release-badge-img]][release-badge] [![docker-pulls-badge-img]][docker-pulls-badge] </div> </div> # Overvi",
+        "topics": [
+          "emulation",
+          "open-source",
+          "retrogaming",
+          "rommapp",
+          "self-hosted"
+        ],
+        "updated_at": "2026-07-04T09:30:49Z"
+      },
+      "repo": {
+        "description": "A beautiful, powerful, self-hosted rom manager and player.",
+        "forks": 481,
+        "full_name": "rommapp/romm",
+        "language": "Python",
+        "name": "romm",
+        "owner": "rommapp",
+        "rank": 9,
+        "stars_today": 239,
+        "total_stars": 9927,
+        "url": "https://github.com/rommapp/romm"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.15,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 55.0
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: Python project with 239 stars today; score 55.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-08-13T05:26:41Z",
+        "default_branch": "main",
+        "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "fork": false,
+        "full_name": "pytorch/pytorch",
+        "homepage": "https://pytorch.org",
+        "latest_release": "v2.12.1",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 18285,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-04T09:33:00Z",
+        "readme_excerpt": "<picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-light.png\" /> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png\" /> <img src=\"https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png\" alt=\"PyTorch logo\" /> </picture> ------------------------------------------------------------",
+        "topics": [
+          "autograd",
+          "deep-learning",
+          "gpu",
+          "machine-learning",
+          "neural-network",
+          "numpy",
+          "python",
+          "tensor"
+        ],
+        "updated_at": "2026-07-04T09:18:13Z"
+      },
+      "repo": {
+        "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "forks": 28254,
+        "full_name": "pytorch/pytorch",
+        "language": "Python",
+        "name": "pytorch",
+        "owner": "pytorch",
+        "rank": 11,
+        "stars_today": 293,
+        "total_stars": 101476,
+        "url": "https://github.com/pytorch/pytorch"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.02,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 50.07
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 293 stars today; score 50.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-07-19T17:15:33Z",
+        "default_branch": "main",
+        "description": "Action for checking out a repo",
+        "fork": false,
+        "full_name": "actions/checkout",
+        "homepage": "https://github.com/features/actions",
+        "latest_release": "v7.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 676,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-30T14:34:23Z",
+        "readme_excerpt": "[![Build and Test](https://github.com/actions/checkout/actions/workflows/test.yml/badge.svg)](https://github.com/actions/checkout/actions/workflows/test.yml) # Checkout v7 ## What's new - Safer fork pull request handling: checkout now refuses to check out fork pull request code by default when the workflow is triggered by `pull_request_target` or `workflow_run`. These triggers run with the base repository's `GITHUB_TOKEN`, secrets, and runner access, where executing a fork's code commonly leads ",
+        "topics": [],
+        "updated_at": "2026-07-04T09:30:37Z"
+      },
+      "repo": {
+        "description": "Action for checking out a repo",
+        "forks": 2535,
+        "full_name": "actions/checkout",
+        "language": "TypeScript",
+        "name": "checkout",
+        "owner": "actions",
+        "rank": 5,
+        "stars_today": 129,
+        "total_stars": 8291,
+        "url": "https://github.com/actions/checkout"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.4,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 47.26
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 129 stars today; score 47.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-09-06T19:31:06Z",
+        "default_branch": "dev",
+        "description": "Machine Learning Systems",
+        "fork": false,
+        "full_name": "harvard-edge/cs249r_book",
+        "homepage": "http://mlsysbook.ai/",
+        "latest_release": "tinytorch-v0.1.13",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 14,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-03T21:11:52Z",
+        "readme_excerpt": "# Machine Learning Systems *Principles and Practices of Engineering Artificially Intelligent Systems* <p align=\"center\"> <a href=\"README.md\">English</a> \u2022 <a href=\"README/README_zh.md\">\u4e2d\u6587</a> \u2022 <a href=\"README/README_ja.md\">\u65e5\u672c\u8a9e</a> \u2022 <a href=\"README/README_ko.md\">\ud55c\uad6d\uc5b4</a> </p> <div align=\"center\"> <!-- Build Status --> <p align=\"center\"> <a href=\"https://github.com/harvard-edge/cs249r_book/actions/workflows/book-validate-dev.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/har",
+        "topics": [
+          "artificial-intelligence",
+          "cloud-ml",
+          "computer-systems",
+          "courseware",
+          "deep-learning",
+          "edge-machine-learning",
+          "embedded-ml",
+          "machine-learning",
+          "machine-learning-systems",
+          "mobile-ml",
+          "textbook",
+          "tinyml"
+        ],
+        "updated_at": "2026-07-04T09:35:08Z"
+      },
+      "repo": {
+        "description": "Machine Learning Systems",
+        "forks": 3147,
+        "full_name": "harvard-edge/cs249r_book",
+        "language": "Python",
+        "name": "cs249r_book",
+        "owner": "harvard-edge",
+        "rank": 10,
+        "stars_today": 793,
+        "total_stars": 26343,
+        "url": "https://github.com/harvard-edge/cs249r_book"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.63,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 43.94
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Python project with 793 stars today; score 43.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/JuliusBrussee",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
+        "forks": 4652,
+        "full_name": "sponsors/JuliusBrussee",
+        "language": "JavaScript",
+        "name": "JuliusBrussee",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 2863,
+        "total_stars": 83325,
+        "url": "https://github.com/sponsors/JuliusBrussee"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 11.71,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.78,
+        "technical_quality": 3.5,
+        "total": 37.43
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 2863 stars today; score 37.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 21795,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 15,
+        "stars_today": 1209,
+        "total_stars": 245796,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.13,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 34.28
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 1209 stars today; score 34.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/msitarzewski",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "forks": 20569,
+        "full_name": "sponsors/msitarzewski",
+        "language": "Shell",
+        "name": "msitarzewski",
+        "owner": "sponsors",
+        "rank": 19,
+        "stars_today": 1208,
+        "total_stars": 126751,
+        "url": "https://github.com/sponsors/msitarzewski"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.55,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 33.0
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 1208 stars today; score 33.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/ogulcancelik",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "agent multiplexer that lives in your terminal.",
+        "forks": 648,
+        "full_name": "sponsors/ogulcancelik",
+        "language": "Rust",
+        "name": "ogulcancelik",
+        "owner": "sponsors",
+        "rank": 14,
+        "stars_today": 478,
+        "total_stars": 11027,
+        "url": "https://github.com/sponsors/ogulcancelik"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.13,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 32.28
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 478 stars today; score 32.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/supabase",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+        "forks": 12981,
+        "full_name": "sponsors/supabase",
+        "language": "TypeScript",
+        "name": "supabase",
+        "owner": "sponsors",
+        "rank": 17,
+        "stars_today": 169,
+        "total_stars": 105631,
+        "url": "https://github.com/sponsors/supabase"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 1.79,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 30.94
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 169 stars today; score 30.9/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-07-04",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is ansible/ansible."
+}
