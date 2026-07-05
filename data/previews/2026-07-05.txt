@@ -1,0 +1,34 @@
+GitHub Trending: AI workflow signal - 2026-07-05
+
+Today leans toward AI workflow signal; the strongest pick is alirezarezvani/claude-skills.
+
+Top picks
+1. alirezarezvani/claude-skills - 75.8/100
+   https://github.com/alirezarezvani/claude-skills
+   AI Workflow, DevTools: Python project with 136 stars today; score 75.8/100.
+2. alibaba/page-agent - 71.7/100
+   https://github.com/alibaba/page-agent
+   AI Workflow, Try Today: TypeScript project with 742 stars today; score 71.7/100.
+3. dotnet/skills - 70.0/100
+   https://github.com/dotnet/skills
+   AI Workflow, DevTools: C# project with 59 stars today; score 70.0/100.
+4. crynta/terax-ai - 67.2/100
+   https://github.com/crynta/terax-ai
+   AI Workflow, DevTools: TypeScript project with 62 stars today; score 67.2/100.
+5. chthollyphile/folia-major - 63.4/100
+   https://github.com/chthollyphile/folia-major
+   AI Workflow, DevTools: TypeScript project with 175 stars today; score 63.4/100.
+
+Full reviewed list
+- alirezarezvani/claude-skills: 75.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 136 stars today; score 75.8/100.
+- alibaba/page-agent: 71.7/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 742 stars today; score 71.7/100.
+- dotnet/skills: 70.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: C# project with 59 stars today; score 70.0/100.
+- crynta/terax-ai: 67.2/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 62 stars today; score 67.2/100.
+- chthollyphile/folia-major: 63.4/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 175 stars today; score 63.4/100.
+- immich-app/immich: 49.9/100 [Try Today] Try Today: TypeScript project with 201 stars today; score 49.9/100.
+- sponsors/asgeirtj: 43.0/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: JavaScript project with 471 stars today; score 43.0/100.
+- sponsors/CoplayDev: 35.4/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: C# project with 69 stars today; score 35.4/100.
+- sponsors/Zackriya-Solutions: 35.2/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Rust project with 718 stars today; score 35.2/100.
+- sponsors/mattpocock: 34.3/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Shell project with 973 stars today; score 34.3/100.
+
+Generated for 2026-07-05 from GitHub Trending daily.
