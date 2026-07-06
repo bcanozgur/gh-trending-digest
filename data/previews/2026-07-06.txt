@@ -1,0 +1,34 @@
+GitHub Trending: AI workflow signal - 2026-07-06
+
+Today leans toward AI workflow signal; the strongest pick is bradautomates/claude-video.
+
+Top picks
+1. bradautomates/claude-video - 77.1/100
+   https://github.com/bradautomates/claude-video
+   AI Workflow, DevTools: Python project with 368 stars today; score 77.1/100.
+2. addyosmani/agent-skills - 76.5/100
+   https://github.com/addyosmani/agent-skills
+   AI Workflow, DevTools: Shell project with 1114 stars today; score 76.5/100.
+3. gastownhall/gastown - 71.7/100
+   https://github.com/gastownhall/gastown
+   AI Workflow, DevTools: Go project with 51 stars today; score 71.7/100.
+4. firecrawl/firecrawl - 71.7/100
+   https://github.com/firecrawl/firecrawl
+   AI Workflow, DevTools: TypeScript project with 834 stars today; score 71.7/100.
+5. alibaba/zvec - 68.8/100
+   https://github.com/alibaba/zvec
+   AI Workflow, Try Today: C++ project with 355 stars today; score 68.8/100.
+
+Full reviewed list
+- bradautomates/claude-video: 77.1/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 368 stars today; score 77.1/100.
+- addyosmani/agent-skills: 76.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Shell project with 1114 stars today; score 76.5/100.
+- gastownhall/gastown: 71.7/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Go project with 51 stars today; score 71.7/100.
+- firecrawl/firecrawl: 71.7/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 834 stars today; score 71.7/100.
+- alibaba/zvec: 68.8/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: C++ project with 355 stars today; score 68.8/100.
+- mvanhorn/last30days-skill: 67.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 237 stars today; score 67.9/100.
+- ruvnet/RuView: 60.1/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Rust project with 161 stars today; score 60.1/100.
+- karakeep-app/karakeep: 59.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 178 stars today; score 59.9/100.
+- sponsors/steipete: 48.1/100 [AI Workflow, Hype Risk] AI Workflow, Hype Risk: Swift project with 153 stars today; score 48.1/100.
+- sponsors/Leonxlnx: 37.1/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: JavaScript project with 863 stars today; score 37.1/100.
+
+Generated for 2026-07-06 from GitHub Trending daily.
