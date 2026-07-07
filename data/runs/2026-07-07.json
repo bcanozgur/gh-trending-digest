@@ -1,0 +1,959 @@
+{
+  "date": "2026-07-07",
+  "ranked": [
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/sindresorhus",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83d\ude0e Awesome lists about all kinds of interesting topics",
+        "forks": 35751,
+        "full_name": "sponsors/sindresorhus",
+        "language": null,
+        "name": "sindresorhus",
+        "owner": "sponsors",
+        "rank": 15,
+        "stars_today": 345,
+        "total_stars": 482634,
+        "url": "https://github.com/sponsors/sindresorhus"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.75,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.12,
+        "technical_quality": 3.5,
+        "total": 17.07
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Unknown project with 345 stars today; score 17.1/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-15T20:20:26Z",
+        "default_branch": "main",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "fork": false,
+        "full_name": "addyosmani/agent-skills",
+        "homepage": null,
+        "latest_release": "0.6.3",
+        "license_spdx": "MIT",
+        "open_issues": 143,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-07-07T00:59:41Z",
+        "readme_excerpt": "# Agent Skills **Production-grade engineering skills for AI coding agents.** Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. <a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" wid",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-07-07T10:37:13Z"
+      },
+      "repo": {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "forks": 7737,
+        "full_name": "addyosmani/agent-skills",
+        "language": "JavaScript",
+        "name": "agent-skills",
+        "owner": "addyosmani",
+        "rank": 2,
+        "stars_today": 1112,
+        "total_stars": 71463,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.2,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 74.85
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 1112 stars today; score 74.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-19T04:04:05Z",
+        "default_branch": "main",
+        "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents \u2014 engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+        "fork": false,
+        "full_name": "alirezarezvani/claude-skills",
+        "homepage": "https://alirezarezvani.medium.com/",
+        "latest_release": "v2.9.0",
+        "license_spdx": "MIT",
+        "open_issues": 10,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-07T01:05:13Z",
+        "readme_excerpt": "# Claude Code Skills & Plugins \u2014 Agent Skills for Every Coding Tool **355 production-ready Claude Code skills, plugins, and agent skills for 13 AI coding tools.** The most comprehensive open-source library of Claude Code skills and agent plugins \u2014 also works with OpenAI Codex, Gemini CLI, Cursor, and 9 more coding agents. Reusable expertise packages covering engineering, DevOps, marketing (incl. AEO \u2014 Answer Engine Optimization for LLM citation), security (PreToolUse hooks), compliance, C-level ",
+        "topics": [
+          "agent-plugins",
+          "agent-skills",
+          "agentic-ai",
+          "ai-coding-agent",
+          "anthropic-claude",
+          "claude-ai",
+          "claude-code",
+          "claude-code-plugins",
+          "claude-code-skills",
+          "claude-skills",
+          "codex-skills",
+          "coding-agent-plugins",
+          "cursor-skills",
+          "developer-tools",
+          "gemini-cli-skills",
+          "openai-codex",
+          "openclaw",
+          "openclaw-plugins",
+          "openclaw-skills",
+          "prompt-engineering"
+        ],
+        "updated_at": "2026-07-07T10:34:24Z"
+      },
+      "repo": {
+        "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents \u2014 engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+        "forks": 2859,
+        "full_name": "alirezarezvani/claude-skills",
+        "language": "Python",
+        "name": "claude-skills",
+        "owner": "alirezarezvani",
+        "rank": 6,
+        "stars_today": 610,
+        "total_stars": 21416,
+        "url": "https://github.com/alirezarezvani/claude-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.93,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.63
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 610 stars today; score 73.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-24T04:40:43Z",
+        "default_branch": "main",
+        "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+        "fork": false,
+        "full_name": "bradautomates/claude-video",
+        "homepage": null,
+        "latest_release": "v0.2.0",
+        "license_spdx": "MIT",
+        "open_issues": 34,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-01T01:26:49Z",
+        "readme_excerpt": "# /watch **Give Claude the ability to watch any video.** Claude Code (recommended \u2014 auto-updates via marketplace): ``` /plugin marketplace add bradautomates/claude-video /plugin install watch@claude-video ``` Codex, Cursor, Copilot, Gemini CLI, or any of 50+ [Agent Skills](https://agentskills.io) hosts: ```bash npx skills add bradautomates/claude-video -g ``` (`-g` installs globally for your user, available across all projects. Drop it to scope per-project.) More install options (claude.ai web, ",
+        "topics": [],
+        "updated_at": "2026-07-07T10:38:24Z"
+      },
+      "repo": {
+        "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+        "forks": 631,
+        "full_name": "bradautomates/claude-video",
+        "language": "Python",
+        "name": "claude-video",
+        "owner": "bradautomates",
+        "rank": 10,
+        "stars_today": 427,
+        "total_stars": 4691,
+        "url": "https://github.com/bradautomates/claude-video"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.74,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 71.33
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 427 stars today; score 71.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-04-15T21:02:29Z",
+        "default_branch": "main",
+        "description": "The API to search, scrape, and interact with the web at scale. \ud83d\udd25",
+        "fork": false,
+        "full_name": "firecrawl/firecrawl",
+        "homepage": "https://firecrawl.dev",
+        "latest_release": "v2.11.0",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 387,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-07T09:55:03Z",
+        "readme_excerpt": "<h3 align=\"center\"> <a name=\"readme-top\"></a> <img src=\"https://raw.githubusercontent.com/firecrawl/firecrawl/main/img/firecrawl_logo.png\" height=\"200\" > </h3> <div align=\"center\"> <a href=\"https://github.com/firecrawl/firecrawl/blob/main/LICENSE\"> <img src=\"https://img.shields.io/github/license/firecrawl/firecrawl\" alt=\"License\"> </a> <a href=\"https://pepy.tech/project/firecrawl-py\"> <img src=\"https://static.pepy.tech/badge/firecrawl-py\" alt=\"Downloads\"> </a> <a href=\"https://GitHub.com/firecra",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-crawler",
+          "ai-scraping",
+          "ai-search",
+          "crawler",
+          "data-extraction",
+          "html-to-markdown",
+          "llm",
+          "markdown",
+          "scraper",
+          "scraping",
+          "web-crawler",
+          "web-data",
+          "web-data-extraction",
+          "web-scraper",
+          "web-scraping",
+          "web-search",
+          "webscraping"
+        ],
+        "updated_at": "2026-07-07T10:38:20Z"
+      },
+      "repo": {
+        "description": "The API to search, scrape, and interact with the web at scale. \ud83d\udd25",
+        "forks": 8442,
+        "full_name": "firecrawl/firecrawl",
+        "language": "TypeScript",
+        "name": "firecrawl",
+        "owner": "firecrawl",
+        "rank": 12,
+        "stars_today": 867,
+        "total_stars": 146866,
+        "url": "https://github.com/firecrawl/firecrawl"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.94,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 70.04
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 867 stars today; score 70.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-23T20:37:37Z",
+        "default_branch": "fix/hermes-scan-safe-verdict",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "fork": false,
+        "full_name": "mvanhorn/last30days-skill",
+        "homepage": null,
+        "latest_release": "v3.11.0",
+        "license_spdx": "MIT",
+        "open_issues": 90,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-06T19:36:17Z",
+        "readme_excerpt": "# /last30days <p align=\"center\"> <a href=\"https://github.com/mvanhorn/last30days-skill\"> <img src=\"https://img.shields.io/badge/%231-Repository%20Of%20The%20Day-6f42c1?style=for-the-badge&logo=github&label=GITHUB%20TRENDING\" alt=\"GitHub Trending #1 Repository Of The Day\" /> </a> <br/> <img src=\"https://img.shields.io/badge/coverage-%E2%89%A560%25-brightgreen\" alt=\"Coverage \u226560%\" /> <br/> <a href=\"https://trendshift.io/repositories/21997\" target=\"_blank\"> <img src=\"https://trendshift.io/api/badge",
+        "topics": [
+          "ai-prompts",
+          "ai-skill",
+          "bluesky",
+          "claude",
+          "claude-code",
+          "clawhub",
+          "deep-research",
+          "hackernews",
+          "instagram",
+          "openclaw",
+          "polymarket",
+          "recency",
+          "reddit",
+          "research",
+          "social-media",
+          "tiktok",
+          "trends",
+          "twitter",
+          "web-search",
+          "youtube"
+        ],
+        "updated_at": "2026-07-07T10:38:27Z"
+      },
+      "repo": {
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "forks": 4173,
+        "full_name": "mvanhorn/last30days-skill",
+        "language": "Python",
+        "name": "last30days-skill",
+        "owner": "mvanhorn",
+        "rank": 8,
+        "stars_today": 458,
+        "total_stars": 50115,
+        "url": "https://github.com/mvanhorn/last30days-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.13,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 68.18
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 458 stars today; score 68.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-12-05T07:45:38Z",
+        "default_branch": "main",
+        "description": "A lightweight, lightning-fast, in-process vector database",
+        "fork": false,
+        "full_name": "alibaba/zvec",
+        "homepage": "https://zvec.org",
+        "latest_release": "v0.5.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 56,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-07T09:15:12Z",
+        "readme_excerpt": "<p align=\"right\"> English | <a href=\"./README_CN.md\">\u4e2d\u6587</a> </p> <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://zvec.oss-cn-hongkong.aliyuncs.com/logo/github_log_2.svg\" /> <img src=\"https://zvec.oss-cn-hongkong.aliyuncs.com/logo/github_logo_1.svg\" width=\"400\" alt=\"zvec logo\" /> </picture> </div> <p align=\"center\"> <a href=\"https://codecov.io/github/alibaba/zvec\"><img src=\"https://codecov.io/github/alibaba/zvec/graph/badge.svg?token=O81CT45B66\" alt=\"Co",
+        "topics": [
+          "agent-skills",
+          "db",
+          "embedded",
+          "faiss",
+          "hnsw",
+          "llm-memory",
+          "local",
+          "rag",
+          "search-engine",
+          "semantic-search",
+          "similarity-search",
+          "vector-database",
+          "vector-db"
+        ],
+        "updated_at": "2026-07-07T10:37:21Z"
+      },
+      "repo": {
+        "description": "A lightweight, lightning-fast, in-process vector database",
+        "forks": 835,
+        "full_name": "alibaba/zvec",
+        "language": "C++",
+        "name": "zvec",
+        "owner": "alibaba",
+        "rank": 14,
+        "stars_today": 382,
+        "total_stars": 13783,
+        "url": "https://github.com/alibaba/zvec"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.01,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 68.11
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: C++ project with 382 stars today; score 68.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-12-16T00:33:33Z",
+        "default_branch": "main",
+        "description": "Gas Town - multi-agent workspace manager",
+        "fork": false,
+        "full_name": "gastownhall/gastown",
+        "homepage": null,
+        "latest_release": "v1.2.1",
+        "license_spdx": "MIT",
+        "open_issues": 274,
+        "primary_language": "Go",
+        "pushed_at": "2026-07-07T00:05:17Z",
+        "readme_excerpt": "# Gas Town **Multi-agent orchestration system for Claude Code, GitHub Copilot, and other AI agents with persistent work tracking** ## Overview Gas Town is a workspace manager that lets you coordinate multiple AI coding agents (Claude Code, GitHub Copilot, Codex, Gemini, and others) working on different tasks. Instead of losing context when agents restart, Gas Town persists work state in git-backed hooks, enabling reliable multi-agent workflows. ### What Problem Does This Solve? | Challenge | Gas",
+        "topics": [],
+        "updated_at": "2026-07-07T10:32:49Z"
+      },
+      "repo": {
+        "description": "Gas Town - multi-agent workspace manager",
+        "forks": 1546,
+        "full_name": "gastownhall/gastown",
+        "language": "Go",
+        "name": "gastown",
+        "owner": "gastownhall",
+        "rank": 16,
+        "stars_today": 291,
+        "total_stars": 16829,
+        "url": "https://github.com/gastownhall/gastown"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.42,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 67.22
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 291 stars today; score 67.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-06-07T04:32:30Z",
+        "default_branch": "main",
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "fork": false,
+        "full_name": "ruvnet/RuView",
+        "homepage": "https://Cognitum.One/RuView",
+        "latest_release": "v0.8.3-esp32",
+        "license_spdx": "MIT",
+        "open_issues": 338,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-07T07:18:45Z",
+        "readme_excerpt": "# \u03c0 RuView <p align=\"center\"> <a href=\"https://cognitum.one/seed\"> <img src=\"assets/ruview-seed.png\" alt=\"RuView - WiFi DensePose\" width=\"100%\"> </a> </p> <p align=\"center\"> <a href=\"https://cognitum.one/seed\"> <img src=\"assets/seed.png\" alt=\"Cognitum Seed\" width=\"100%\"> </a> </p> ## **See through walls with WiFi** ## **Turn ordinary WiFi into a spatial intelligence / sensing system.** Detect people, measure breathing and heart rate, track movement, and monitor rooms \u2014 through walls, in the dark",
+        "topics": [
+          "awesome",
+          "claude",
+          "densepose",
+          "esp32",
+          "firmware",
+          "home-assistant",
+          "home-automation",
+          "iot",
+          "monitoring",
+          "networking",
+          "npm",
+          "pose-estimation",
+          "react",
+          "rf",
+          "self-learning",
+          "skills",
+          "spatial-intelligence",
+          "typescript",
+          "wifi",
+          "wifi-security"
+        ],
+        "updated_at": "2026-07-07T10:37:20Z"
+      },
+      "repo": {
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "forks": 10498,
+        "full_name": "ruvnet/RuView",
+        "language": "Rust",
+        "name": "RuView",
+        "owner": "ruvnet",
+        "rank": 4,
+        "stars_today": 470,
+        "total_stars": 78011,
+        "url": "https://github.com/ruvnet/RuView"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.75,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 60.85
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 470 stars today; score 60.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-30T15:29:52Z",
+        "default_branch": "main",
+        "description": "Use Codex from Claude Code to review code or delegate tasks.",
+        "fork": false,
+        "full_name": "openai/codex-plugin-cc",
+        "homepage": null,
+        "latest_release": "v1.0.5",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 283,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-06-23T17:36:38Z",
+        "readme_excerpt": "# Codex plugin for Claude Code Use Codex from inside Claude Code for code reviews or to delegate tasks to Codex. This plugin is for Claude Code users who want an easy way to start using Codex from the workflow they already have. <video src=\"./docs/plugin-demo.webm\" controls muted playsinline autoplay></video> ## What You Get - `/codex:review` for a normal read-only Codex review - `/codex:adversarial-review` for a steerable challenge review - `/codex:rescue`, `/codex:transfer`, `/codex:status`, `",
+        "topics": [],
+        "updated_at": "2026-07-07T10:33:52Z"
+      },
+      "repo": {
+        "description": "Use Codex from Claude Code to review code or delegate tasks.",
+        "forks": 1585,
+        "full_name": "openai/codex-plugin-cc",
+        "language": "JavaScript",
+        "name": "codex-plugin-cc",
+        "owner": "openai",
+        "rank": 7,
+        "stars_today": 906,
+        "total_stars": 26499,
+        "url": "https://github.com/openai/codex-plugin-cc"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.79,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 60.84
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 906 stars today; score 60.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-02-06T12:28:31Z",
+        "default_branch": "main",
+        "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+        "fork": false,
+        "full_name": "karakeep-app/karakeep",
+        "homepage": "https://karakeep.app",
+        "latest_release": "v0.32.0",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 660,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-06T20:04:11Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://github.com/karakeep-app/karakeep/actions/workflows/ci.yml\"> <img alt=\"GitHub Actions Workflow Status\" src=\"https://img.shields.io/github/actions/workflow/status/karakeep-app/karakeep/ci.yml\" /> </a> <a href=\"https://github.com/karakeep-app/karakeep/releases\"> <img alt=\"GitHub Release\" src=\"https://img.shields.io/github/v/release/karakeep-app/karakeep\" /> </a> <a href=\"https://discord.gg/NrgeYywsFh\"> <img alt=\"Discord\" src=\"https://img.shields.io/discord/1223",
+        "topics": [
+          "bookmark-manager",
+          "bookmarks",
+          "bookmarks-manager",
+          "nextjs",
+          "react-native",
+          "read-it-later",
+          "self-hosted"
+        ],
+        "updated_at": "2026-07-07T10:38:21Z"
+      },
+      "repo": {
+        "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+        "forks": 1331,
+        "full_name": "karakeep-app/karakeep",
+        "language": "TypeScript",
+        "name": "karakeep",
+        "owner": "karakeep-app",
+        "rank": 11,
+        "stars_today": 199,
+        "total_stars": 27093,
+        "url": "https://github.com/karakeep-app/karakeep"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.83,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 54.43
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 199 stars today; score 54.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/asgeirtj",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+        "forks": 8521,
+        "full_name": "sponsors/asgeirtj",
+        "language": "JavaScript",
+        "name": "asgeirtj",
+        "owner": "sponsors",
+        "rank": 1,
+        "stars_today": 1378,
+        "total_stars": 52304,
+        "url": "https://github.com/sponsors/asgeirtj"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 8.24,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 7.0,
+        "technical_quality": 3.5,
+        "total": 46.44
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 1378 stars today; score 46.4/100."
+    },
+    {
+      "caution": "Production readiness is unclear.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/steipete",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+        "forks": 1384,
+        "full_name": "sponsors/steipete",
+        "language": "Swift",
+        "name": "steipete",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 598,
+        "total_stars": 16887,
+        "url": "https://github.com/sponsors/steipete"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 4.06,
+        "momentum": 3.89,
+        "novelty": 2.8,
+        "practical_usefulness": 4.93,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 44.13
+      },
+      "tags": [
+        "AI Workflow",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Hype Risk: Swift project with 598 stars today; score 44.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/Zackriya-Solutions",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai ) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+        "forks": 2011,
+        "full_name": "sponsors/Zackriya-Solutions",
+        "language": "Rust",
+        "name": "Zackriya-Solutions",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 2494,
+        "total_stars": 19987,
+        "url": "https://github.com/sponsors/Zackriya-Solutions"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 11.71,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.78,
+        "technical_quality": 3.5,
+        "total": 37.43
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Rust project with 2494 stars today; score 37.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/ogulcancelik",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "agent multiplexer that lives in your terminal.",
+        "forks": 763,
+        "full_name": "sponsors/ogulcancelik",
+        "language": "Rust",
+        "name": "ogulcancelik",
+        "owner": "sponsors",
+        "rank": 9,
+        "stars_today": 779,
+        "total_stars": 13173,
+        "url": "https://github.com/sponsors/ogulcancelik"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.07,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 34.22
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 779 stars today; score 34.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/Leonxlnx",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+        "forks": 4045,
+        "full_name": "sponsors/Leonxlnx",
+        "language": "JavaScript",
+        "name": "Leonxlnx",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 1458,
+        "total_stars": 59687,
+        "url": "https://github.com/sponsors/Leonxlnx"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 7.93,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.24,
+        "technical_quality": 3.5,
+        "total": 32.11
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 1458 stars today; score 32.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/sindresorhus",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83d\ude0e Awesome lists about all kinds of interesting topics",
+        "forks": 35751,
+        "full_name": "sponsors/sindresorhus",
+        "language": null,
+        "name": "sindresorhus",
+        "owner": "sponsors",
+        "rank": 15,
+        "stars_today": 345,
+        "total_stars": 482634,
+        "url": "https://github.com/sponsors/sindresorhus"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.75,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.12,
+        "technical_quality": 3.5,
+        "total": 17.07
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Unknown project with 345 stars today; score 17.1/100."
+    }
+  ],
+  "subject": "GitHub Trending: daily developer signal - 2026-07-07",
+  "summary": "Today leans toward daily developer signal; the strongest pick is sponsors/sindresorhus."
+}

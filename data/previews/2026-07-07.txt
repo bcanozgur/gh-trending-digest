@@ -1,0 +1,14 @@
+GitHub Trending: daily developer signal - 2026-07-07
+
+Today leans toward daily developer signal; the strongest pick is sponsors/sindresorhus.
+
+Top picks
+1. sponsors/sindresorhus - 17.1/100
+   https://github.com/sponsors/sindresorhus
+   Watch, Hype Risk: Unknown project with 345 stars today; score 17.1/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- sponsors/sindresorhus: 17.1/100 [Watch, Hype Risk] Watch, Hype Risk: Unknown project with 345 stars today; score 17.1/100.
+
+Generated for 2026-07-07 from GitHub Trending daily.
