@@ -1,0 +1,1018 @@
+{
+  "date": "2026-07-08",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-15T07:39:12Z",
+        "default_branch": "main",
+        "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+        "fork": false,
+        "full_name": "iOfficeAI/OfficeCLI",
+        "homepage": "https://officecli.ai",
+        "latest_release": "v1.0.131",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 23,
+        "primary_language": "C#",
+        "pushed_at": "2026-07-08T03:47:24Z",
+        "readme_excerpt": "# OfficeCLI > **OfficeCLI is the world's first and the best Office suite designed for AI agents.** **Give any AI agent full control over Word, Excel, and PowerPoint \u2014 in one line of code.** Open-source. Single binary. No Office installation. No dependencies. Works everywhere. **OfficeCLI's built-in HTML rendering engine reproduces documents with high fidelity \u2014 and that's what gives AI eyes.** It renders `.docx` / `.xlsx` / `.pptx` to HTML or PNG, closing the *render \u2192 look \u2192 fix* loop. [![GitHu",
+        "topics": [
+          "agent",
+          "ai",
+          "claude-code",
+          "cli",
+          "codex",
+          "docx",
+          "excel",
+          "office",
+          "openclaw",
+          "pptx",
+          "presentation",
+          "skills",
+          "word",
+          "xlsx"
+        ],
+        "updated_at": "2026-07-08T09:56:26Z"
+      },
+      "repo": {
+        "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+        "forks": 724,
+        "full_name": "iOfficeAI/OfficeCLI",
+        "language": "C#",
+        "name": "OfficeCLI",
+        "owner": "iOfficeAI",
+        "rank": 10,
+        "stars_today": 893,
+        "total_stars": 10810,
+        "url": "https://github.com/iOfficeAI/OfficeCLI"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 5.29,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 79.13
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C# project with 893 stars today; score 79.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-18T14:33:04Z",
+        "default_branch": "master",
+        "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+        "fork": false,
+        "full_name": "MadsLorentzen/ai-job-search",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 11,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-07T17:41:23Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"claude_animation.gif\" alt=\"AI Job Search Assistant\" width=\"200\"> </p> # AI Job Search An AI-powered job application framework built on [Claude Code](https://claude.com/claude-code). Fork it, fill in your profile, and let Claude evaluate job postings, tailor your CV, write cover letters, and prepare you for interviews. > Note: This is an independent open-source project and is not affiliated with, endorsed by, sponsored by, or maintained by Anthropic. Anthropic and Cla",
+        "topics": [],
+        "updated_at": "2026-07-08T09:56:12Z"
+      },
+      "repo": {
+        "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+        "forks": 4093,
+        "full_name": "MadsLorentzen/ai-job-search",
+        "language": "TypeScript",
+        "name": "ai-job-search",
+        "owner": "MadsLorentzen",
+        "rank": 1,
+        "stars_today": 2514,
+        "total_stars": 12940,
+        "url": "https://github.com/MadsLorentzen/ai-job-search"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 77.75
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 2514 stars today; score 77.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-07T17:33:32Z",
+        "default_branch": "main",
+        "description": "A TTS that fits in your CPU (and pocket)",
+        "fork": false,
+        "full_name": "kyutai-labs/pocket-tts",
+        "homepage": null,
+        "latest_release": "v2.1.0",
+        "license_spdx": "MIT",
+        "open_issues": 54,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-23T13:12:05Z",
+        "readme_excerpt": "# Pocket TTS <img width=\"1446\" height=\"622\" alt=\"pocket-tts-logo-v2-transparent\" src=\"https://github.com/user-attachments/assets/637b5ed6-831f-4023-9b4c-741be21ab238\" /> A lightweight text-to-speech (TTS) application designed to run efficiently on CPUs. Forget about the hassle of using GPUs and web APIs serving TTS models. With Kyutai's Pocket TTS, generating audio is just a pip install and a function call away. Supports Python 3.10, 3.11, 3.12, 3.13 and 3.14. Requires PyTorch 2.5+. Does not req",
+        "topics": [],
+        "updated_at": "2026-07-08T09:56:25Z"
+      },
+      "repo": {
+        "description": "A TTS that fits in your CPU (and pocket)",
+        "forks": 664,
+        "full_name": "kyutai-labs/pocket-tts",
+        "language": "Python",
+        "name": "pocket-tts",
+        "owner": "kyutai-labs",
+        "rank": 12,
+        "stars_today": 531,
+        "total_stars": 6456,
+        "url": "https://github.com/kyutai-labs/pocket-tts"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.79,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 71.33
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 531 stars today; score 71.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-10T03:00:31Z",
+        "default_branch": "master",
+        "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+        "fork": false,
+        "full_name": "TencentCloud/CubeSandbox",
+        "homepage": "https://cubesandbox.com",
+        "latest_release": "v0.5.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 102,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-08T09:44:37Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"docs/assets/cube-sandbox-logo.png\" alt=\"Cube Sandbox Logo\" width=\"140\" /> </p> <h1 align=\"center\">CubeSandbox</h1> <p align=\"center\"> <strong>Instant, Concurrent, Secure & Lightweight Sandbox Service for AI Agents</strong> </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/26338?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-26338\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/",
+        "topics": [
+          "agents",
+          "container",
+          "sandbox"
+        ],
+        "updated_at": "2026-07-08T09:56:08Z"
+      },
+      "repo": {
+        "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+        "forks": 727,
+        "full_name": "TencentCloud/CubeSandbox",
+        "language": "Rust",
+        "name": "CubeSandbox",
+        "owner": "TencentCloud",
+        "rank": 6,
+        "stars_today": 664,
+        "total_stars": 8672,
+        "url": "https://github.com/TencentCloud/CubeSandbox"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.1,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 61.15
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 664 stars today; score 61.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/hesreallyhim",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+        "forks": 4300,
+        "full_name": "sponsors/hesreallyhim",
+        "language": "Python",
+        "name": "hesreallyhim",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 144,
+        "total_stars": 49454,
+        "url": "https://github.com/sponsors/hesreallyhim"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.35,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 50.2
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 144 stars today; score 50.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/AhmadIbrahiim",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83d\udca1 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
+        "forks": 1010,
+        "full_name": "sponsors/AhmadIbrahiim",
+        "language": "HTML",
+        "name": "AhmadIbrahiim",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 140,
+        "total_stars": 4369,
+        "url": "https://github.com/sponsors/AhmadIbrahiim"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.2,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.31,
+        "technical_quality": 3.5,
+        "total": 22.91
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: HTML project with 140 stars today; score 22.9/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-15T07:39:12Z",
+        "default_branch": "main",
+        "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+        "fork": false,
+        "full_name": "iOfficeAI/OfficeCLI",
+        "homepage": "https://officecli.ai",
+        "latest_release": "v1.0.131",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 23,
+        "primary_language": "C#",
+        "pushed_at": "2026-07-08T03:47:24Z",
+        "readme_excerpt": "# OfficeCLI > **OfficeCLI is the world's first and the best Office suite designed for AI agents.** **Give any AI agent full control over Word, Excel, and PowerPoint \u2014 in one line of code.** Open-source. Single binary. No Office installation. No dependencies. Works everywhere. **OfficeCLI's built-in HTML rendering engine reproduces documents with high fidelity \u2014 and that's what gives AI eyes.** It renders `.docx` / `.xlsx` / `.pptx` to HTML or PNG, closing the *render \u2192 look \u2192 fix* loop. [![GitHu",
+        "topics": [
+          "agent",
+          "ai",
+          "claude-code",
+          "cli",
+          "codex",
+          "docx",
+          "excel",
+          "office",
+          "openclaw",
+          "pptx",
+          "presentation",
+          "skills",
+          "word",
+          "xlsx"
+        ],
+        "updated_at": "2026-07-08T09:56:26Z"
+      },
+      "repo": {
+        "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+        "forks": 724,
+        "full_name": "iOfficeAI/OfficeCLI",
+        "language": "C#",
+        "name": "OfficeCLI",
+        "owner": "iOfficeAI",
+        "rank": 10,
+        "stars_today": 893,
+        "total_stars": 10810,
+        "url": "https://github.com/iOfficeAI/OfficeCLI"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 5.29,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 79.13
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C# project with 893 stars today; score 79.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-18T14:33:04Z",
+        "default_branch": "master",
+        "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+        "fork": false,
+        "full_name": "MadsLorentzen/ai-job-search",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 11,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-07T17:41:23Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"claude_animation.gif\" alt=\"AI Job Search Assistant\" width=\"200\"> </p> # AI Job Search An AI-powered job application framework built on [Claude Code](https://claude.com/claude-code). Fork it, fill in your profile, and let Claude evaluate job postings, tailor your CV, write cover letters, and prepare you for interviews. > Note: This is an independent open-source project and is not affiliated with, endorsed by, sponsored by, or maintained by Anthropic. Anthropic and Cla",
+        "topics": [],
+        "updated_at": "2026-07-08T09:56:12Z"
+      },
+      "repo": {
+        "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+        "forks": 4093,
+        "full_name": "MadsLorentzen/ai-job-search",
+        "language": "TypeScript",
+        "name": "ai-job-search",
+        "owner": "MadsLorentzen",
+        "rank": 1,
+        "stars_today": 2514,
+        "total_stars": 12940,
+        "url": "https://github.com/MadsLorentzen/ai-job-search"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 77.75
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 2514 stars today; score 77.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-15T20:20:26Z",
+        "default_branch": "main",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "fork": false,
+        "full_name": "addyosmani/agent-skills",
+        "homepage": null,
+        "latest_release": "0.6.3",
+        "license_spdx": "MIT",
+        "open_issues": 146,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-07-07T00:59:41Z",
+        "readme_excerpt": "# Agent Skills **Production-grade engineering skills for AI coding agents.** Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. <a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" wid",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-07-08T09:55:33Z"
+      },
+      "repo": {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "forks": 7866,
+        "full_name": "addyosmani/agent-skills",
+        "language": "JavaScript",
+        "name": "agent-skills",
+        "owner": "addyosmani",
+        "rank": 3,
+        "stars_today": 1317,
+        "total_stars": 72669,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.71,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 75.36
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 1317 stars today; score 75.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-24T04:40:43Z",
+        "default_branch": "main",
+        "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+        "fork": false,
+        "full_name": "bradautomates/claude-video",
+        "homepage": null,
+        "latest_release": "v0.2.0",
+        "license_spdx": "MIT",
+        "open_issues": 37,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-01T01:26:49Z",
+        "readme_excerpt": "# /watch **Give Claude the ability to watch any video.** Claude Code (recommended \u2014 auto-updates via marketplace): ``` /plugin marketplace add bradautomates/claude-video /plugin install watch@claude-video ``` Codex, Cursor, Copilot, Gemini CLI, or any of 50+ [Agent Skills](https://agentskills.io) hosts: ```bash npx skills add bradautomates/claude-video -g ``` (`-g` installs globally for your user, available across all projects. Drop it to scope per-project.) More install options (claude.ai web, ",
+        "topics": [],
+        "updated_at": "2026-07-08T09:55:50Z"
+      },
+      "repo": {
+        "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+        "forks": 689,
+        "full_name": "bradautomates/claude-video",
+        "language": "Python",
+        "name": "claude-video",
+        "owner": "bradautomates",
+        "rank": 11,
+        "stars_today": 965,
+        "total_stars": 5597,
+        "url": "https://github.com/bradautomates/claude-video"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 5.38,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 72.97
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 965 stars today; score 73.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-07T17:33:32Z",
+        "default_branch": "main",
+        "description": "A TTS that fits in your CPU (and pocket)",
+        "fork": false,
+        "full_name": "kyutai-labs/pocket-tts",
+        "homepage": null,
+        "latest_release": "v2.1.0",
+        "license_spdx": "MIT",
+        "open_issues": 54,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-23T13:12:05Z",
+        "readme_excerpt": "# Pocket TTS <img width=\"1446\" height=\"622\" alt=\"pocket-tts-logo-v2-transparent\" src=\"https://github.com/user-attachments/assets/637b5ed6-831f-4023-9b4c-741be21ab238\" /> A lightweight text-to-speech (TTS) application designed to run efficiently on CPUs. Forget about the hassle of using GPUs and web APIs serving TTS models. With Kyutai's Pocket TTS, generating audio is just a pip install and a function call away. Supports Python 3.10, 3.11, 3.12, 3.13 and 3.14. Requires PyTorch 2.5+. Does not req",
+        "topics": [],
+        "updated_at": "2026-07-08T09:56:25Z"
+      },
+      "repo": {
+        "description": "A TTS that fits in your CPU (and pocket)",
+        "forks": 664,
+        "full_name": "kyutai-labs/pocket-tts",
+        "language": "Python",
+        "name": "pocket-tts",
+        "owner": "kyutai-labs",
+        "rank": 12,
+        "stars_today": 531,
+        "total_stars": 6456,
+        "url": "https://github.com/kyutai-labs/pocket-tts"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.79,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 71.33
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 531 stars today; score 71.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-03T22:51:09Z",
+        "default_branch": "main",
+        "description": "Repository for skills to assist AI coding agents with .NET and C#",
+        "fork": false,
+        "full_name": "dotnet/skills",
+        "homepage": null,
+        "latest_release": "v1.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 76,
+        "primary_language": "C#",
+        "pushed_at": "2026-07-08T08:54:19Z",
+        "readme_excerpt": "# .NET Agent Skills [![Dashboard](https://github.com/dotnet/skills/actions/workflows/pages/pages-build-deployment/badge.svg)](https://dotnet.github.io/skills/) This repository contains the .NET team's curated set of core skills and custom agents for coding agents. For information about the Agent Skills standard, see [agentskills.io](https://agentskills.io). [**\ud83d\udcca Dashboard**](https://dotnet.github.io/skills/) - Accuracy and efficiency scoring trends for contained plugins (https://dotnet.github.io",
+        "topics": [
+          "agent-skills"
+        ],
+        "updated_at": "2026-07-08T09:47:26Z"
+      },
+      "repo": {
+        "description": "Repository for skills to assist AI coding agents with .NET and C#",
+        "forks": 325,
+        "full_name": "dotnet/skills",
+        "language": "C#",
+        "name": "skills",
+        "owner": "dotnet",
+        "rank": 9,
+        "stars_today": 64,
+        "total_stars": 4391,
+        "url": "https://github.com/dotnet/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.66,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 65.06
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C# project with 64 stars today; score 65.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-06-07T04:32:30Z",
+        "default_branch": "main",
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "fork": false,
+        "full_name": "ruvnet/RuView",
+        "homepage": "https://Cognitum.One/RuView",
+        "latest_release": "v0.8.3-esp32",
+        "license_spdx": "MIT",
+        "open_issues": 341,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-08T06:56:43Z",
+        "readme_excerpt": "# \u03c0 RuView <p align=\"center\"> <a href=\"https://cognitum.one/seed\"> <img src=\"assets/ruview-seed.png\" alt=\"RuView - WiFi DensePose\" width=\"100%\"> </a> </p> <p align=\"center\"> <a href=\"https://cognitum.one/seed\"> <img src=\"assets/seed.png\" alt=\"Cognitum Seed\" width=\"100%\"> </a> </p> ## **See through walls with WiFi** ## **Turn ordinary WiFi into a spatial intelligence / sensing system.** Detect people, measure breathing and heart rate, track movement, and monitor rooms \u2014 through walls, in the dark",
+        "topics": [
+          "awesome",
+          "claude",
+          "densepose",
+          "esp32",
+          "firmware",
+          "home-assistant",
+          "home-automation",
+          "iot",
+          "monitoring",
+          "networking",
+          "npm",
+          "pose-estimation",
+          "react",
+          "rf",
+          "self-learning",
+          "skills",
+          "spatial-intelligence",
+          "typescript",
+          "wifi",
+          "wifi-security"
+        ],
+        "updated_at": "2026-07-08T09:56:17Z"
+      },
+      "repo": {
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "forks": 10596,
+        "full_name": "ruvnet/RuView",
+        "language": "Rust",
+        "name": "RuView",
+        "owner": "ruvnet",
+        "rank": 4,
+        "stars_today": 1129,
+        "total_stars": 78795,
+        "url": "https://github.com/ruvnet/RuView"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.94,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.04
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 1129 stars today; score 63.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-10T03:00:31Z",
+        "default_branch": "master",
+        "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+        "fork": false,
+        "full_name": "TencentCloud/CubeSandbox",
+        "homepage": "https://cubesandbox.com",
+        "latest_release": "v0.5.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 102,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-08T09:44:37Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"docs/assets/cube-sandbox-logo.png\" alt=\"Cube Sandbox Logo\" width=\"140\" /> </p> <h1 align=\"center\">CubeSandbox</h1> <p align=\"center\"> <strong>Instant, Concurrent, Secure & Lightweight Sandbox Service for AI Agents</strong> </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/26338?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-26338\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/",
+        "topics": [
+          "agents",
+          "container",
+          "sandbox"
+        ],
+        "updated_at": "2026-07-08T09:56:08Z"
+      },
+      "repo": {
+        "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+        "forks": 727,
+        "full_name": "TencentCloud/CubeSandbox",
+        "language": "Rust",
+        "name": "CubeSandbox",
+        "owner": "TencentCloud",
+        "rank": 6,
+        "stars_today": 664,
+        "total_stars": 8672,
+        "url": "https://github.com/TencentCloud/CubeSandbox"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.1,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 61.15
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 664 stars today; score 61.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/hesreallyhim",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+        "forks": 4300,
+        "full_name": "sponsors/hesreallyhim",
+        "language": "Python",
+        "name": "hesreallyhim",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 144,
+        "total_stars": 49454,
+        "url": "https://github.com/sponsors/hesreallyhim"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.35,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 50.2
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 144 stars today; score 50.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/asgeirtj",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+        "forks": 8722,
+        "full_name": "sponsors/asgeirtj",
+        "language": "JavaScript",
+        "name": "asgeirtj",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 1691,
+        "total_stars": 53512,
+        "url": "https://github.com/sponsors/asgeirtj"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 8.67,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 7.0,
+        "technical_quality": 3.5,
+        "total": 46.87
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 1691 stars today; score 46.9/100."
+    },
+    {
+      "caution": "Production readiness is unclear.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/steipete",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+        "forks": 1401,
+        "full_name": "sponsors/steipete",
+        "language": "Swift",
+        "name": "steipete",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 376,
+        "total_stars": 17181,
+        "url": "https://github.com/sponsors/steipete"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 4.06,
+        "momentum": 3.85,
+        "novelty": 2.8,
+        "practical_usefulness": 4.93,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 44.09
+      },
+      "tags": [
+        "AI Workflow",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Hype Risk: Swift project with 376 stars today; score 44.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/Zackriya-Solutions",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai ) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+        "forks": 2118,
+        "full_name": "sponsors/Zackriya-Solutions",
+        "language": "Rust",
+        "name": "Zackriya-Solutions",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 1777,
+        "total_stars": 21281,
+        "url": "https://github.com/sponsors/Zackriya-Solutions"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 9.39,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.84,
+        "technical_quality": 3.5,
+        "total": 34.17
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Rust project with 1777 stars today; score 34.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/AhmadIbrahiim",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83d\udca1 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
+        "forks": 1010,
+        "full_name": "sponsors/AhmadIbrahiim",
+        "language": "HTML",
+        "name": "AhmadIbrahiim",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 140,
+        "total_stars": 4369,
+        "url": "https://github.com/sponsors/AhmadIbrahiim"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.2,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.31,
+        "technical_quality": 3.5,
+        "total": 22.91
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: HTML project with 140 stars today; score 22.9/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-07-08",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is iOfficeAI/OfficeCLI."
+}

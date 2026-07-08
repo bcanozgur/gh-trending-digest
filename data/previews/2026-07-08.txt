@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-07-08
+
+Today leans toward AI workflow signal; the strongest pick is iOfficeAI/OfficeCLI.
+
+Top picks
+1. iOfficeAI/OfficeCLI - 79.1/100
+   https://github.com/iOfficeAI/OfficeCLI
+   AI Workflow, DevTools: C# project with 893 stars today; score 79.1/100.
+2. MadsLorentzen/ai-job-search - 77.8/100
+   https://github.com/MadsLorentzen/ai-job-search
+   AI Workflow, DevTools: TypeScript project with 2514 stars today; score 77.8/100.
+3. kyutai-labs/pocket-tts - 71.3/100
+   https://github.com/kyutai-labs/pocket-tts
+   AI Workflow, DevTools: Python project with 531 stars today; score 71.3/100.
+4. TencentCloud/CubeSandbox - 61.1/100
+   https://github.com/TencentCloud/CubeSandbox
+   AI Workflow, DevTools: Rust project with 664 stars today; score 61.1/100.
+5. sponsors/hesreallyhim - 50.2/100
+   https://github.com/sponsors/hesreallyhim
+   AI Workflow, DevTools: Python project with 144 stars today; score 50.2/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- iOfficeAI/OfficeCLI: 79.1/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: C# project with 893 stars today; score 79.1/100.
+- MadsLorentzen/ai-job-search: 77.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 2514 stars today; score 77.8/100.
+- kyutai-labs/pocket-tts: 71.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 531 stars today; score 71.3/100.
+- TencentCloud/CubeSandbox: 61.1/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Rust project with 664 stars today; score 61.1/100.
+- sponsors/hesreallyhim: 50.2/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Python project with 144 stars today; score 50.2/100.
+- sponsors/AhmadIbrahiim: 22.9/100 [Watch, Hype Risk] Watch, Hype Risk: HTML project with 140 stars today; score 22.9/100.
+
+Generated for 2026-07-08 from GitHub Trending daily.
