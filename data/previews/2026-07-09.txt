@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-07-09
+
+Today leans toward AI workflow signal; the strongest pick is TencentCloud/TencentDB-Agent-Memory.
+
+Top picks
+1. TencentCloud/TencentDB-Agent-Memory - 68.4/100
+   https://github.com/TencentCloud/TencentDB-Agent-Memory
+   AI Workflow, DevTools: TypeScript project with 318 stars today; score 68.4/100.
+2. argoproj/argo-cd - 62.1/100
+   https://github.com/argoproj/argo-cd
+   DevTools, Try Today: Go project with 29 stars today; score 62.1/100.
+3. prisma/prisma - 59.9/100
+   https://github.com/prisma/prisma
+   AI Workflow, DevTools: TypeScript project with 46 stars today; score 59.9/100.
+4. Diolinux/PhotoGIMP - 50.5/100
+   https://github.com/Diolinux/PhotoGIMP
+   Try Today: CSS project with 1125 stars today; score 50.5/100.
+5. sponsors/wonderwhy-er - 36.3/100
+   https://github.com/sponsors/wonderwhy-er
+   AI Workflow, DevTools: TypeScript project with 28 stars today; score 36.3/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- TencentCloud/TencentDB-Agent-Memory: 68.4/100 [AI Workflow, DevTools, Deep Dive] AI Workflow, DevTools: TypeScript project with 318 stars today; score 68.4/100.
+- argoproj/argo-cd: 62.1/100 [DevTools, Try Today, Deep Dive] DevTools, Try Today: Go project with 29 stars today; score 62.1/100.
+- prisma/prisma: 59.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 46 stars today; score 59.9/100.
+- Diolinux/PhotoGIMP: 50.5/100 [Try Today] Try Today: CSS project with 1125 stars today; score 50.5/100.
+- sponsors/wonderwhy-er: 36.3/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: TypeScript project with 28 stars today; score 36.3/100.
+- sponsors/huxingyi: 21.5/100 [Watch, Hype Risk] Watch, Hype Risk: C++ project with 296 stars today; score 21.5/100.
+
+Generated for 2026-07-09 from GitHub Trending daily.
