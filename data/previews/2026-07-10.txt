@@ -1,0 +1,32 @@
+GitHub Trending: AI workflow signal - 2026-07-10
+
+Today leans toward AI workflow signal; the strongest pick is vxcontrol/pentagi.
+
+Top picks
+1. vxcontrol/pentagi - 75.5/100
+   https://github.com/vxcontrol/pentagi
+   AI Workflow, DevTools: Go project with 535 stars today; score 75.5/100.
+2. anthropics/claude-cookbooks - 64.4/100
+   https://github.com/anthropics/claude-cookbooks
+   AI Workflow, DevTools: Jupyter Notebook project with 194 stars today; score 64.4/100.
+3. SmartlyDressedGames/U3-SDK - 55.4/100
+   https://github.com/SmartlyDressedGames/U3-SDK
+   DevTools, Try Today: C# project with 524 stars today; score 55.4/100.
+4. sponsors/VoltAgent - 41.5/100
+   https://github.com/sponsors/VoltAgent
+   AI Workflow, Watch: Unknown project with 1391 stars today; score 41.5/100.
+   Caution: Weak onboarding evidence.
+5. sponsors/unclecode - 37.0/100
+   https://github.com/sponsors/unclecode
+   AI Workflow, Watch: Python project with 215 stars today; score 37.0/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- vxcontrol/pentagi: 75.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Go project with 535 stars today; score 75.5/100.
+- anthropics/claude-cookbooks: 64.4/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Jupyter Notebook project with 194 stars today; score 64.4/100.
+- SmartlyDressedGames/U3-SDK: 55.4/100 [DevTools, Try Today, Deep Dive] DevTools, Try Today: C# project with 524 stars today; score 55.4/100.
+- sponsors/VoltAgent: 41.5/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Unknown project with 1391 stars today; score 41.5/100.
+- sponsors/unclecode: 37.0/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Python project with 215 stars today; score 37.0/100.
+- sponsors/imthenachoman: 23.0/100 [Watch, Hype Risk] Watch, Hype Risk: Unknown project with 243 stars today; score 23.0/100.
+
+Generated for 2026-07-10 from GitHub Trending daily.

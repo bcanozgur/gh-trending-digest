@@ -1,0 +1,1076 @@
+{
+  "date": "2026-07-10",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-01-06T22:22:48Z",
+        "default_branch": "main",
+        "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "fork": false,
+        "full_name": "vxcontrol/pentagi",
+        "homepage": "https://pentagi.com",
+        "latest_release": "v2.1.0",
+        "license_spdx": "MIT",
+        "open_issues": 66,
+        "primary_language": "Go",
+        "pushed_at": "2026-07-03T17:17:18Z",
+        "readme_excerpt": "# PentAGI <div align=\"center\" style=\"font-size: 1.5em; margin: 20px 0;\"> <strong>P</strong>enetration testing <strong>A</strong>rtificial <strong>G</strong>eneral <strong>I</strong>ntelligence </div> <br> <div align=\"center\"> > **Join the Community!** Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support, share insights, and stay updated with the latest PentAGI developments. [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)",
+        "topics": [
+          "ai-agents",
+          "ai-security-tool",
+          "anthropic",
+          "autonomous-agents",
+          "golang",
+          "gpt",
+          "graphql",
+          "multi-agent-system",
+          "offensive-security",
+          "open-source",
+          "openai",
+          "penetration-testing",
+          "penetration-testing-tools",
+          "react",
+          "security-automation",
+          "security-testing",
+          "security-tools",
+          "self-hosted"
+        ],
+        "updated_at": "2026-07-10T10:32:05Z"
+      },
+      "repo": {
+        "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "forks": 2642,
+        "full_name": "vxcontrol/pentagi",
+        "language": "Go",
+        "name": "pentagi",
+        "owner": "vxcontrol",
+        "rank": 7,
+        "stars_today": 535,
+        "total_stars": 19719,
+        "url": "https://github.com/vxcontrol/pentagi"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.5,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 75.55
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 535 stars today; score 75.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-08-15T20:23:51Z",
+        "default_branch": "main",
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "fork": false,
+        "full_name": "anthropics/claude-cookbooks",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 284,
+        "primary_language": "Jupyter Notebook",
+        "pushed_at": "2026-07-10T05:06:34Z",
+        "readme_excerpt": "# Claude Cookbooks The Claude Cookbooks provide code and guides designed to help developers build with Claude, offering copy-able code snippets that you can easily integrate into your own projects. ## Prerequisites To make the most of the examples in this cookbook, you'll need a Claude API key (sign up for free [here](https://www.anthropic.com)). While the code examples are primarily written in Python, the concepts can be adapted to any programming language that supports interaction with the Cla",
+        "topics": [],
+        "updated_at": "2026-07-10T10:34:32Z"
+      },
+      "repo": {
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "forks": 5569,
+        "full_name": "anthropics/claude-cookbooks",
+        "language": "Jupyter Notebook",
+        "name": "claude-cookbooks",
+        "owner": "anthropics",
+        "rank": 6,
+        "stars_today": 194,
+        "total_stars": 47403,
+        "url": "https://github.com/anthropics/claude-cookbooks"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.52,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 64.38
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Jupyter Notebook project with 194 stars today; score 64.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2017-10-16T02:20:16Z",
+        "default_branch": "main",
+        "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
+        "fork": false,
+        "full_name": "SmartlyDressedGames/U3-SDK",
+        "homepage": "https://smartlydressedgames.com/unturned/",
+        "latest_release": "v3.26.3.4",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 178,
+        "primary_language": "C#",
+        "pushed_at": "2026-07-07T16:11:59Z",
+        "readme_excerpt": "# U3 SDK Source code for [Unturned](https://smartlydressedgames.com/unturned/), a free open-world zombie survival sandbox game. ## Getting Started 1. Download/clone this repository 2. Install [Unity Hub](https://unity.com/download) (required to install engine) 3. Install the [Unity 2022.3.62f3](https://unity.com/releases/editor/whats-new/2022.3.62f3) editor 4. *Optional*: if making code changes, select **Game development with Unity** + **.NET desktop development** in the Visual Studio installer ",
+        "topics": [],
+        "updated_at": "2026-07-10T10:31:33Z"
+      },
+      "repo": {
+        "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
+        "forks": 281,
+        "full_name": "SmartlyDressedGames/U3-SDK",
+        "language": "C#",
+        "name": "U3-SDK",
+        "owner": "SmartlyDressedGames",
+        "rank": 1,
+        "stars_today": 524,
+        "total_stars": 2270,
+        "url": "https://github.com/SmartlyDressedGames/U3-SDK"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 10.22,
+        "momentum": 5.32,
+        "novelty": 8.0,
+        "practical_usefulness": 12.41,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 55.41
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: C# project with 524 stars today; score 55.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/VoltAgent",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+        "forks": 11613,
+        "full_name": "sponsors/VoltAgent",
+        "language": null,
+        "name": "VoltAgent",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 1391,
+        "total_stars": 100419,
+        "url": "https://github.com/sponsors/VoltAgent"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 7.89,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 41.54
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Unknown project with 1391 stars today; score 41.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/unclecode",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83d\ude80\ud83e\udd16 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+        "forks": 7393,
+        "full_name": "sponsors/unclecode",
+        "language": "Python",
+        "name": "unclecode",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 215,
+        "total_stars": 72120,
+        "url": "https://github.com/sponsors/unclecode"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.3,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 36.95
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 215 stars today; score 37.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/imthenachoman",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An evolving how-to guide for securing a Linux server.",
+        "forks": 1947,
+        "full_name": "sponsors/imthenachoman",
+        "language": null,
+        "name": "imthenachoman",
+        "owner": "sponsors",
+        "rank": 9,
+        "stars_today": 243,
+        "total_stars": 29325,
+        "url": "https://github.com/sponsors/imthenachoman"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.25,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.33,
+        "technical_quality": 3.5,
+        "total": 22.98
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Unknown project with 243 stars today; score 23.0/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-15T20:20:26Z",
+        "default_branch": "main",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "fork": false,
+        "full_name": "addyosmani/agent-skills",
+        "homepage": null,
+        "latest_release": "0.6.3",
+        "license_spdx": "MIT",
+        "open_issues": 132,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-07-10T02:59:20Z",
+        "readme_excerpt": "# Agent Skills **Production-grade engineering skills for AI coding agents.** Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. <a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" wid",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-07-10T10:32:45Z"
+      },
+      "repo": {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "forks": 8204,
+        "full_name": "addyosmani/agent-skills",
+        "language": "JavaScript",
+        "name": "agent-skills",
+        "owner": "addyosmani",
+        "rank": 2,
+        "stars_today": 2554,
+        "total_stars": 76409,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.86,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 79.51
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 2554 stars today; score 79.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-15T07:39:12Z",
+        "default_branch": "main",
+        "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+        "fork": false,
+        "full_name": "iOfficeAI/OfficeCLI",
+        "homepage": "https://officecli.ai",
+        "latest_release": "v1.0.135",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 24,
+        "primary_language": "C#",
+        "pushed_at": "2026-07-10T03:48:26Z",
+        "readme_excerpt": "# OfficeCLI > **OfficeCLI is the world's first and the best Office suite designed for AI agents.** **Give any AI agent full control over Word, Excel, and PowerPoint \u2014 in one line of code.** Open-source. Single binary. No Office installation. No dependencies. Works everywhere. **OfficeCLI's built-in HTML rendering engine reproduces documents with high fidelity \u2014 and that's what gives AI eyes.** It renders `.docx` / `.xlsx` / `.pptx` to HTML or PNG, closing the *render \u2192 look \u2192 fix* loop. [![GitHu",
+        "topics": [
+          "agent",
+          "ai",
+          "claude-code",
+          "cli",
+          "codex",
+          "docx",
+          "excel",
+          "office",
+          "openclaw",
+          "pptx",
+          "presentation",
+          "skills",
+          "word",
+          "xlsx"
+        ],
+        "updated_at": "2026-07-10T10:33:30Z"
+      },
+      "repo": {
+        "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+        "forks": 952,
+        "full_name": "iOfficeAI/OfficeCLI",
+        "language": "C#",
+        "name": "OfficeCLI",
+        "owner": "iOfficeAI",
+        "rank": 4,
+        "stars_today": 1929,
+        "total_stars": 14010,
+        "url": "https://github.com/iOfficeAI/OfficeCLI"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 9.51,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 78.15
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C# project with 1929 stars today; score 78.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-01-06T22:22:48Z",
+        "default_branch": "main",
+        "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "fork": false,
+        "full_name": "vxcontrol/pentagi",
+        "homepage": "https://pentagi.com",
+        "latest_release": "v2.1.0",
+        "license_spdx": "MIT",
+        "open_issues": 66,
+        "primary_language": "Go",
+        "pushed_at": "2026-07-03T17:17:18Z",
+        "readme_excerpt": "# PentAGI <div align=\"center\" style=\"font-size: 1.5em; margin: 20px 0;\"> <strong>P</strong>enetration testing <strong>A</strong>rtificial <strong>G</strong>eneral <strong>I</strong>ntelligence </div> <br> <div align=\"center\"> > **Join the Community!** Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support, share insights, and stay updated with the latest PentAGI developments. [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)",
+        "topics": [
+          "ai-agents",
+          "ai-security-tool",
+          "anthropic",
+          "autonomous-agents",
+          "golang",
+          "gpt",
+          "graphql",
+          "multi-agent-system",
+          "offensive-security",
+          "open-source",
+          "openai",
+          "penetration-testing",
+          "penetration-testing-tools",
+          "react",
+          "security-automation",
+          "security-testing",
+          "security-tools",
+          "self-hosted"
+        ],
+        "updated_at": "2026-07-10T10:32:05Z"
+      },
+      "repo": {
+        "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "forks": 2642,
+        "full_name": "vxcontrol/pentagi",
+        "language": "Go",
+        "name": "pentagi",
+        "owner": "vxcontrol",
+        "rank": 7,
+        "stars_today": 535,
+        "total_stars": 19719,
+        "url": "https://github.com/vxcontrol/pentagi"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.5,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 75.55
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 535 stars today; score 75.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-24T04:40:43Z",
+        "default_branch": "main",
+        "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+        "fork": false,
+        "full_name": "bradautomates/claude-video",
+        "homepage": null,
+        "latest_release": "v0.2.0",
+        "license_spdx": "MIT",
+        "open_issues": 43,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-01T01:26:49Z",
+        "readme_excerpt": "# /watch **Give Claude the ability to watch any video.** Claude Code (recommended \u2014 auto-updates via marketplace): ``` /plugin marketplace add bradautomates/claude-video /plugin install watch@claude-video ``` Codex, Cursor, Copilot, Gemini CLI, or any of 50+ [Agent Skills](https://agentskills.io) hosts: ```bash npx skills add bradautomates/claude-video -g ``` (`-g` installs globally for your user, available across all projects. Drop it to scope per-project.) More install options (claude.ai web, ",
+        "topics": [],
+        "updated_at": "2026-07-10T10:32:43Z"
+      },
+      "repo": {
+        "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+        "forks": 784,
+        "full_name": "bradautomates/claude-video",
+        "language": "Python",
+        "name": "claude-video",
+        "owner": "bradautomates",
+        "rank": 11,
+        "stars_today": 718,
+        "total_stars": 6967,
+        "url": "https://github.com/bradautomates/claude-video"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 4.52,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 72.11
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 718 stars today; score 72.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-07T17:33:32Z",
+        "default_branch": "main",
+        "description": "A TTS that fits in your CPU (and pocket)",
+        "fork": false,
+        "full_name": "kyutai-labs/pocket-tts",
+        "homepage": null,
+        "latest_release": "v2.1.0",
+        "license_spdx": "MIT",
+        "open_issues": 57,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-23T13:12:05Z",
+        "readme_excerpt": "# Pocket TTS <img width=\"1446\" height=\"622\" alt=\"pocket-tts-logo-v2-transparent\" src=\"https://github.com/user-attachments/assets/637b5ed6-831f-4023-9b4c-741be21ab238\" /> A lightweight text-to-speech (TTS) application designed to run efficiently on CPUs. Forget about the hassle of using GPUs and web APIs serving TTS models. With Kyutai's Pocket TTS, generating audio is just a pip install and a function call away. Supports Python 3.10, 3.11, 3.12, 3.13 and 3.14. Requires PyTorch 2.5+. Does not req",
+        "topics": [],
+        "updated_at": "2026-07-10T10:33:33Z"
+      },
+      "repo": {
+        "description": "A TTS that fits in your CPU (and pocket)",
+        "forks": 718,
+        "full_name": "kyutai-labs/pocket-tts",
+        "language": "Python",
+        "name": "pocket-tts",
+        "owner": "kyutai-labs",
+        "rank": 13,
+        "stars_today": 235,
+        "total_stars": 7183,
+        "url": "https://github.com/kyutai-labs/pocket-tts"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.64,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 64.98
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 235 stars today; score 65.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-08-15T20:23:51Z",
+        "default_branch": "main",
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "fork": false,
+        "full_name": "anthropics/claude-cookbooks",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 284,
+        "primary_language": "Jupyter Notebook",
+        "pushed_at": "2026-07-10T05:06:34Z",
+        "readme_excerpt": "# Claude Cookbooks The Claude Cookbooks provide code and guides designed to help developers build with Claude, offering copy-able code snippets that you can easily integrate into your own projects. ## Prerequisites To make the most of the examples in this cookbook, you'll need a Claude API key (sign up for free [here](https://www.anthropic.com)). While the code examples are primarily written in Python, the concepts can be adapted to any programming language that supports interaction with the Cla",
+        "topics": [],
+        "updated_at": "2026-07-10T10:34:32Z"
+      },
+      "repo": {
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "forks": 5569,
+        "full_name": "anthropics/claude-cookbooks",
+        "language": "Jupyter Notebook",
+        "name": "claude-cookbooks",
+        "owner": "anthropics",
+        "rank": 6,
+        "stars_today": 194,
+        "total_stars": 47403,
+        "url": "https://github.com/anthropics/claude-cookbooks"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.52,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 64.38
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Jupyter Notebook project with 194 stars today; score 64.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2017-10-16T02:20:16Z",
+        "default_branch": "main",
+        "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
+        "fork": false,
+        "full_name": "SmartlyDressedGames/U3-SDK",
+        "homepage": "https://smartlydressedgames.com/unturned/",
+        "latest_release": "v3.26.3.4",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 178,
+        "primary_language": "C#",
+        "pushed_at": "2026-07-07T16:11:59Z",
+        "readme_excerpt": "# U3 SDK Source code for [Unturned](https://smartlydressedgames.com/unturned/), a free open-world zombie survival sandbox game. ## Getting Started 1. Download/clone this repository 2. Install [Unity Hub](https://unity.com/download) (required to install engine) 3. Install the [Unity 2022.3.62f3](https://unity.com/releases/editor/whats-new/2022.3.62f3) editor 4. *Optional*: if making code changes, select **Game development with Unity** + **.NET desktop development** in the Visual Studio installer ",
+        "topics": [],
+        "updated_at": "2026-07-10T10:31:33Z"
+      },
+      "repo": {
+        "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
+        "forks": 281,
+        "full_name": "SmartlyDressedGames/U3-SDK",
+        "language": "C#",
+        "name": "U3-SDK",
+        "owner": "SmartlyDressedGames",
+        "rank": 1,
+        "stars_today": 524,
+        "total_stars": 2270,
+        "url": "https://github.com/SmartlyDressedGames/U3-SDK"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 10.22,
+        "momentum": 5.32,
+        "novelty": 8.0,
+        "practical_usefulness": 12.41,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 55.41
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: C# project with 524 stars today; score 55.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-06-20T13:33:47Z",
+        "default_branch": "main",
+        "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+        "fork": false,
+        "full_name": "prisma/prisma",
+        "homepage": "https://www.prisma.io",
+        "latest_release": "7.8.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 2655,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-09T15:48:19Z",
+        "readme_excerpt": "![Prisma](https://i.imgur.com/h6UIYTu.png) <div align=\"center\"> <h1>Prisma</h1> <a href=\"https://www.npmjs.com/package/prisma\"><img src=\"https://img.shields.io/npm/v/prisma.svg?style=flat\" /></a> <a href=\"https://github.com/prisma/prisma/blob/main/CONTRIBUTING.md\"><img src=\"https://img.shields.io/badge/PRs-welcome-brightgreen.svg\" /></a> <a href=\"https://github.com/prisma/prisma/blob/main/LICENSE\"><img src=\"https://img.shields.io/badge/license-Apache%202-blue\" /></a> <a href=\"https://pris.ly/dis",
+        "topics": [
+          "cockroachdb",
+          "database",
+          "javascript",
+          "mariadb",
+          "mongo",
+          "mongodb",
+          "mongodb-orm",
+          "mssql",
+          "mysql",
+          "nodejs",
+          "orm",
+          "postgres",
+          "postgresql",
+          "prisma",
+          "prisma-client",
+          "query-builder",
+          "sql-server",
+          "sqlite",
+          "sqlserver",
+          "typescript"
+        ],
+        "updated_at": "2026-07-10T10:35:03Z"
+      },
+      "repo": {
+        "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+        "forks": 2456,
+        "full_name": "prisma/prisma",
+        "language": "TypeScript",
+        "name": "prisma",
+        "owner": "prisma",
+        "rank": 12,
+        "stars_today": 376,
+        "total_stars": 47077,
+        "url": "https://github.com/prisma/prisma"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.25,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 54.85
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 376 stars today; score 54.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/asgeirtj",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+        "forks": 9171,
+        "full_name": "sponsors/asgeirtj",
+        "language": "JavaScript",
+        "name": "asgeirtj",
+        "owner": "sponsors",
+        "rank": 14,
+        "stars_today": 1125,
+        "total_stars": 55579,
+        "url": "https://github.com/sponsors/asgeirtj"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.43,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 7.0,
+        "technical_quality": 3.5,
+        "total": 43.63
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 1125 stars today; score 43.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/VoltAgent",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+        "forks": 11613,
+        "full_name": "sponsors/VoltAgent",
+        "language": null,
+        "name": "VoltAgent",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 1391,
+        "total_stars": 100419,
+        "url": "https://github.com/sponsors/VoltAgent"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 7.89,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 41.54
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Unknown project with 1391 stars today; score 41.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/unclecode",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83d\ude80\ud83e\udd16 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+        "forks": 7393,
+        "full_name": "sponsors/unclecode",
+        "language": "Python",
+        "name": "unclecode",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 215,
+        "total_stars": 72120,
+        "url": "https://github.com/sponsors/unclecode"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.3,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 36.95
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 215 stars today; score 37.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/wonderwhy-er",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+        "forks": 881,
+        "full_name": "sponsors/wonderwhy-er",
+        "language": "TypeScript",
+        "name": "wonderwhy-er",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 185,
+        "total_stars": 6733,
+        "url": "https://github.com/sponsors/wonderwhy-er"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.63,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 32.78
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 185 stars today; score 32.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/imthenachoman",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An evolving how-to guide for securing a Linux server.",
+        "forks": 1947,
+        "full_name": "sponsors/imthenachoman",
+        "language": null,
+        "name": "imthenachoman",
+        "owner": "sponsors",
+        "rank": 9,
+        "stars_today": 243,
+        "total_stars": 29325,
+        "url": "https://github.com/sponsors/imthenachoman"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.25,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.33,
+        "technical_quality": 3.5,
+        "total": 22.98
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Unknown project with 243 stars today; score 23.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/huxingyi",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Automatic quad remeshing tool",
+        "forks": 182,
+        "full_name": "sponsors/huxingyi",
+        "language": "C++",
+        "name": "huxingyi",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 403,
+        "total_stars": 2497,
+        "url": "https://github.com/sponsors/huxingyi"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.63,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.48,
+        "technical_quality": 3.5,
+        "total": 18.31
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: C++ project with 403 stars today; score 18.3/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-07-10",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is vxcontrol/pentagi."
+}
