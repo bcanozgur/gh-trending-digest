@@ -1,0 +1,34 @@
+GitHub Trending: AI workflow signal - 2026-07-11
+
+Today leans toward AI workflow signal; the strongest pick is google-labs-code/stitch-skills.
+
+Top picks
+1. google-labs-code/stitch-skills - 76.0/100
+   https://github.com/google-labs-code/stitch-skills
+   AI Workflow, DevTools: TypeScript project with 117 stars today; score 76.0/100.
+2. davila7/claude-code-templates - 68.4/100
+   https://github.com/davila7/claude-code-templates
+   AI Workflow, DevTools: Python project with 118 stars today; score 68.4/100.
+3. microsoft/TypeScript - 67.6/100
+   https://github.com/microsoft/TypeScript
+   AI Workflow, DevTools: TypeScript project with 177 stars today; score 67.6/100.
+4. abseil/abseil-cpp - 63.3/100
+   https://github.com/abseil/abseil-cpp
+   AI Workflow, Try Today: C++ project with 89 stars today; score 63.3/100.
+5. grpc/grpc - 62.4/100
+   https://github.com/grpc/grpc
+   AI Workflow, DevTools: C++ project with 78 stars today; score 62.4/100.
+
+Full reviewed list
+- google-labs-code/stitch-skills: 76.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 117 stars today; score 76.0/100.
+- davila7/claude-code-templates: 68.4/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 118 stars today; score 68.4/100.
+- microsoft/TypeScript: 67.6/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 177 stars today; score 67.6/100.
+- abseil/abseil-cpp: 63.3/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: C++ project with 89 stars today; score 63.3/100.
+- grpc/grpc: 62.4/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: C++ project with 78 stars today; score 62.4/100.
+- catchorg/Catch2: 60.9/100 [DevTools, Try Today, Deep Dive] DevTools, Try Today: C++ project with 76 stars today; score 60.9/100.
+- tailscale/tailscale: 59.2/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Go project with 143 stars today; score 59.2/100.
+- zeux/meshoptimizer: 59.1/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: C++ project with 91 stars today; score 59.1/100.
+- hashicorp/terraform: 58.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Go project with 172 stars today; score 58.5/100.
+- jbeder/yaml-cpp: 54.2/100 [DevTools, Try Today] DevTools, Try Today: C++ project with 69 stars today; score 54.2/100.
+
+Generated for 2026-07-11 from GitHub Trending daily.

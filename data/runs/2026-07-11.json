@@ -1,0 +1,1579 @@
+{
+  "date": "2026-07-11",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-16T17:17:17Z",
+        "default_branch": "main",
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "fork": false,
+        "full_name": "google-labs-code/stitch-skills",
+        "homepage": "https://stitch.withgoogle.com/docs/mcp/setup",
+        "latest_release": "v1.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 21,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-29T23:38:54Z",
+        "readme_excerpt": "# Stitch Design Skills A collection of agent skills and plugins for [Google Stitch](https://stitch.withgoogle.com), following the [Agent Skills](https://agentskills.io) open standard. Compatible with coding agents such as Codex, Antigravity, Gemini CLI, Claude Code, and Cursor. ## Quick Start ### 1. Install Plugins (Recommended) The fastest way to set up the full Stitch plugin suite globally. #### Codex Add the Stitch Skills marketplace, then install the plugins you need. <details open> <summary",
+        "topics": [],
+        "updated_at": "2026-07-11T09:04:56Z"
+      },
+      "repo": {
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "forks": 939,
+        "full_name": "google-labs-code/stitch-skills",
+        "language": "TypeScript",
+        "name": "stitch-skills",
+        "owner": "google-labs-code",
+        "rank": 15,
+        "stars_today": 117,
+        "total_stars": 6865,
+        "url": "https://github.com/google-labs-code/stitch-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.16,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 76.0
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 117 stars today; score 76.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-07-04T01:26:26Z",
+        "default_branch": "main",
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "fork": false,
+        "full_name": "davila7/claude-code-templates",
+        "homepage": "https://aitmpl.com",
+        "latest_release": "v1.28.3",
+        "license_spdx": "MIT",
+        "open_issues": 190,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-11T04:05:33Z",
+        "readme_excerpt": "[![npm version](https://img.shields.io/npm/v/claude-code-templates.svg)](https://www.npmjs.com/package/claude-code-templates) [![npm downloads](https://img.shields.io/npm/dt/claude-code-templates.svg)](https://www.npmjs.com/package/claude-code-templates) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) [![Sponsored by Z.AI](https://img.shields.io/",
+        "topics": [
+          "anthropic",
+          "anthropic-claude",
+          "claude",
+          "claude-code"
+        ],
+        "updated_at": "2026-07-11T09:05:08Z"
+      },
+      "repo": {
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "forks": 3169,
+        "full_name": "davila7/claude-code-templates",
+        "language": "Python",
+        "name": "claude-code-templates",
+        "owner": "davila7",
+        "rank": 12,
+        "stars_today": 118,
+        "total_stars": 28841,
+        "url": "https://github.com/davila7/claude-code-templates"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.59,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 68.39
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 118 stars today; score 68.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-06-17T15:28:39Z",
+        "default_branch": "main",
+        "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+        "fork": false,
+        "full_name": "microsoft/TypeScript",
+        "homepage": "https://www.typescriptlang.org",
+        "latest_release": "v6.0.3",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 5061,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-08T15:45:40Z",
+        "readme_excerpt": "# TypeScript <!-- CODING AGENTS: READ AGENTS.md BEFORE WRITING CODE --> [![CI](https://github.com/microsoft/TypeScript/actions/workflows/ci.yml/badge.svg)](https://github.com/microsoft/TypeScript/actions/workflows/ci.yml) [![npm version](https://badge.fury.io/js/typescript.svg)](https://www.npmjs.com/package/typescript) [![Downloads](https://img.shields.io/npm/dm/typescript.svg)](https://www.npmjs.com/package/typescript) [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.co",
+        "topics": [
+          "javascript",
+          "language",
+          "typechecker",
+          "typescript"
+        ],
+        "updated_at": "2026-07-11T08:57:16Z"
+      },
+      "repo": {
+        "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+        "forks": 13646,
+        "full_name": "microsoft/TypeScript",
+        "language": "TypeScript",
+        "name": "TypeScript",
+        "owner": "microsoft",
+        "rank": 8,
+        "stars_today": 177,
+        "total_stars": 109841,
+        "url": "https://github.com/microsoft/TypeScript"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.46,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 67.61
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 177 stars today; score 67.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2017-09-20T15:10:30Z",
+        "default_branch": "master",
+        "description": "Abseil Common Libraries (C++)",
+        "fork": false,
+        "full_name": "abseil/abseil-cpp",
+        "homepage": "https://abseil.io",
+        "latest_release": "20260526.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 233,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-11T04:56:04Z",
+        "readme_excerpt": "# Abseil - C++ Common Libraries The repository contains the Abseil C++ library code. Abseil is an open-source collection of C++ code (compliant to C++17) designed to augment the C++ standard library. ## Table of Contents - [About Abseil](#about) - [Quickstart](#quickstart) - [Building Abseil](#build) - [Support](#support) - [Codemap](#codemap) - [Releases](#releases) - [License](#license) - [Links](#links) <a name=\"about\"></a> ## About Abseil Abseil is an open-source collection of C++ library co",
+        "topics": [],
+        "updated_at": "2026-07-11T09:03:07Z"
+      },
+      "repo": {
+        "description": "Abseil Common Libraries (C++)",
+        "forks": 3204,
+        "full_name": "abseil/abseil-cpp",
+        "language": "C++",
+        "name": "abseil-cpp",
+        "owner": "abseil",
+        "rank": 3,
+        "stars_today": 89,
+        "total_stars": 17559,
+        "url": "https://github.com/abseil/abseil-cpp"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.75,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 63.34
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: C++ project with 89 stars today; score 63.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-12-08T18:58:53Z",
+        "default_branch": "master",
+        "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+        "fork": false,
+        "full_name": "grpc/grpc",
+        "homepage": "https://grpc.io",
+        "latest_release": "v1.82.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1353,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-11T07:57:05Z",
+        "readme_excerpt": "# gRPC \u2013 An RPC library and framework gRPC is a modern, open source, high-performance remote procedure call (RPC) framework that can run anywhere. gRPC enables client and server applications to communicate transparently, and simplifies the building of connected systems. <table> <tr> <td><b>Homepage:</b></td> <td><a href=\"https://grpc.io/\">grpc.io</a></td> </tr> <tr> <td><b>Mailing List:</b></td> <td><a href=\"https://groups.google.com/forum/#!forum/grpc-io\">grpc-io@googlegroups.com</a></td> </tr>",
+        "topics": [],
+        "updated_at": "2026-07-11T09:07:59Z"
+      },
+      "repo": {
+        "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+        "forks": 11331,
+        "full_name": "grpc/grpc",
+        "language": "C++",
+        "name": "grpc",
+        "owner": "grpc",
+        "rank": 18,
+        "stars_today": 78,
+        "total_stars": 45184,
+        "url": "https://github.com/grpc/grpc"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.53,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 62.44
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 78 stars today; score 62.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2010-11-08T18:22:56Z",
+        "default_branch": "devel",
+        "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+        "fork": false,
+        "full_name": "catchorg/Catch2",
+        "homepage": "https://discord.gg/4CWS9zD",
+        "latest_release": "v3.15.2",
+        "license_spdx": "BSL-1.0",
+        "open_issues": 433,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-10T15:47:36Z",
+        "readme_excerpt": "<a id=\"top\"></a> ![Catch2 logo](data/artwork/catch2-logo-full-with-background.svg) [![Github Releases](https://img.shields.io/github/release/catchorg/catch2.svg)](https://github.com/catchorg/catch2/releases) [![Linux build status](https://github.com/catchorg/Catch2/actions/workflows/linux-simple-builds.yml/badge.svg)](https://github.com/catchorg/Catch2/actions/workflows/linux-simple-builds.yml) [![Linux build status](https://github.com/catchorg/Catch2/actions/workflows/linux-other-builds.yml/bad",
+        "topics": [
+          "bdd",
+          "cpp",
+          "cpp14",
+          "framework",
+          "no-dependencies",
+          "tdd",
+          "test-framework",
+          "testing"
+        ],
+        "updated_at": "2026-07-11T08:32:04Z"
+      },
+      "repo": {
+        "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+        "forks": 3418,
+        "full_name": "catchorg/Catch2",
+        "language": "C++",
+        "name": "Catch2",
+        "owner": "catchorg",
+        "rank": 9,
+        "stars_today": 76,
+        "total_stars": 20647,
+        "url": "https://github.com/catchorg/Catch2"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.82,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 60.85
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: C++ project with 76 stars today; score 60.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2020-01-31T22:00:03Z",
+        "default_branch": "main",
+        "description": "The easiest, most secure way to use WireGuard and 2FA.",
+        "fork": false,
+        "full_name": "tailscale/tailscale",
+        "homepage": "https://tailscale.com",
+        "latest_release": "v1.98.8",
+        "license_spdx": "BSD-3-Clause",
+        "open_issues": 4364,
+        "primary_language": "Go",
+        "pushed_at": "2026-07-11T03:47:30Z",
+        "readme_excerpt": "# Tailscale https://tailscale.com Private WireGuard\u00ae networks made easy ## Overview This repository contains the majority of Tailscale's open source code. Notably, it includes the `tailscaled` daemon and the `tailscale` CLI tool. The `tailscaled` daemon runs on Linux, Windows, [macOS](https://tailscale.com/kb/1065/macos-variants/), and to varying degrees on FreeBSD and OpenBSD. The Tailscale iOS and Android apps use this repo's code, but this repo doesn't contain the mobile GUI code. Other [Tail",
+        "topics": [
+          "2fa",
+          "oauth",
+          "sso",
+          "tailscale",
+          "vpn",
+          "wireguard"
+        ],
+        "updated_at": "2026-07-11T09:08:21Z"
+      },
+      "repo": {
+        "description": "The easiest, most secure way to use WireGuard and 2FA.",
+        "forks": 2921,
+        "full_name": "tailscale/tailscale",
+        "language": "Go",
+        "name": "tailscale",
+        "owner": "tailscale",
+        "rank": 14,
+        "stars_today": 143,
+        "total_stars": 33777,
+        "url": "https://github.com/tailscale/tailscale"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.43,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.23
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 143 stars today; score 59.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-09-09T05:24:56Z",
+        "default_branch": "master",
+        "description": "Mesh optimization library that makes meshes smaller and faster to render",
+        "fork": false,
+        "full_name": "zeux/meshoptimizer",
+        "homepage": "https://meshoptimizer.org/",
+        "latest_release": "v1.2",
+        "license_spdx": "MIT",
+        "open_issues": 8,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-10T20:00:19Z",
+        "readme_excerpt": "# \ud83d\udc07 meshoptimizer [![Actions Status](https://github.com/zeux/meshoptimizer/workflows/build/badge.svg)](https://github.com/zeux/meshoptimizer/actions) [![codecov.io](https://codecov.io/github/zeux/meshoptimizer/coverage.svg?branch=master)](https://codecov.io/github/zeux/meshoptimizer?branch=master) [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md) [![GitHub](https://img.shields.io/badge/repo-github-green.svg)](https://github.com/zeux/meshoptimizer) ## Purpose When a GPU rend",
+        "topics": [
+          "compression",
+          "gltf",
+          "gpu",
+          "mesh-processing",
+          "optimization",
+          "simplification"
+        ],
+        "updated_at": "2026-07-11T08:39:48Z"
+      },
+      "repo": {
+        "description": "Mesh optimization library that makes meshes smaller and faster to render",
+        "forks": 788,
+        "full_name": "zeux/meshoptimizer",
+        "language": "C++",
+        "name": "meshoptimizer",
+        "owner": "zeux",
+        "rank": 13,
+        "stars_today": 91,
+        "total_stars": 8060,
+        "url": "https://github.com/zeux/meshoptimizer"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.32,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.12
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 91 stars today; score 59.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-03-13T22:25:48Z",
+        "default_branch": "main",
+        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+        "fork": false,
+        "full_name": "hashicorp/terraform",
+        "homepage": "http://developer.hashicorp.com/terraform",
+        "latest_release": "v1.15.8",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 1911,
+        "primary_language": "Go",
+        "pushed_at": "2026-07-10T21:14:28Z",
+        "readme_excerpt": "# Terraform - Website: https://developer.hashicorp.com/terraform - Forums: [HashiCorp Discuss](https://discuss.hashicorp.com/c/terraform-core) - Documentation: [https://developer.hashicorp.com/terraform/docs](https://developer.hashicorp.com/terraform/docs) - Tutorials: [HashiCorp's Learn Platform](https://developer.hashicorp.com/terraform/tutorials) - Certification Exam: [HashiCorp Certified: Terraform Associate](https://www.hashicorp.com/certification/#hashicorp-certified-terraform-associate) <",
+        "topics": [
+          "cloud",
+          "cloud-management",
+          "graph",
+          "infrastructure-as-code",
+          "terraform"
+        ],
+        "updated_at": "2026-07-11T09:08:17Z"
+      },
+      "repo": {
+        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+        "forks": 10682,
+        "full_name": "hashicorp/terraform",
+        "language": "Go",
+        "name": "terraform",
+        "owner": "hashicorp",
+        "rank": 17,
+        "stars_today": 172,
+        "total_stars": 49252,
+        "url": "https://github.com/hashicorp/terraform"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.14,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 58.5
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 172 stars today; score 58.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-03-30T02:52:32Z",
+        "default_branch": "master",
+        "description": "A YAML parser and emitter in C++",
+        "fork": false,
+        "full_name": "jbeder/yaml-cpp",
+        "homepage": null,
+        "latest_release": "yaml-cpp-0.9.0",
+        "license_spdx": "MIT",
+        "open_issues": 207,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-11T06:27:17Z",
+        "readme_excerpt": "# yaml-cpp ![Build Status](https://github.com/jbeder/yaml-cpp/actions/workflows/build.yml/badge.svg) [![Documentation](https://codedocs.xyz/jbeder/yaml-cpp.svg)](https://codedocs.xyz/jbeder/yaml-cpp/) `yaml-cpp` is a [YAML](http://www.yaml.org/) parser and emitter in C++ matching the [YAML 1.2 spec](http://www.yaml.org/spec/1.2/spec.html). ## Usage See [Tutorial](https://github.com/jbeder/yaml-cpp/wiki/Tutorial) and [How to Emit YAML](https://github.com/jbeder/yaml-cpp/wiki/How-To-Emit-YAML) for",
+        "topics": [],
+        "updated_at": "2026-07-11T09:03:11Z"
+      },
+      "repo": {
+        "description": "A YAML parser and emitter in C++",
+        "forks": 2262,
+        "full_name": "jbeder/yaml-cpp",
+        "language": "C++",
+        "name": "yaml-cpp",
+        "owner": "jbeder",
+        "rank": 5,
+        "stars_today": 69,
+        "total_stars": 6113,
+        "url": "https://github.com/jbeder/yaml-cpp"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.36,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 54.16
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: C++ project with 69 stars today; score 54.2/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-15T20:20:26Z",
+        "default_branch": "main",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "fork": false,
+        "full_name": "addyosmani/agent-skills",
+        "homepage": null,
+        "latest_release": "0.6.3",
+        "license_spdx": "MIT",
+        "open_issues": 133,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-07-10T23:42:05Z",
+        "readme_excerpt": "# Agent Skills **Production-grade engineering skills for AI coding agents.** Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. <a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" wid",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-07-11T09:08:01Z"
+      },
+      "repo": {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "forks": 8271,
+        "full_name": "addyosmani/agent-skills",
+        "language": "JavaScript",
+        "name": "agent-skills",
+        "owner": "addyosmani",
+        "rank": 4,
+        "stars_today": 1116,
+        "total_stars": 77053,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 8.64,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 76.29
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 1116 stars today; score 76.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-15T07:39:12Z",
+        "default_branch": "main",
+        "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+        "fork": false,
+        "full_name": "iOfficeAI/OfficeCLI",
+        "homepage": "https://officecli.ai",
+        "latest_release": "v1.0.135",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 22,
+        "primary_language": "C#",
+        "pushed_at": "2026-07-11T06:01:11Z",
+        "readme_excerpt": "# OfficeCLI > **OfficeCLI is the world's first and the best Office suite designed for AI agents.** **Give any AI agent full control over Word, Excel, and PowerPoint \u2014 in one line of code.** Open-source. Single binary. No Office installation. No dependencies. Works everywhere. **OfficeCLI's built-in HTML rendering engine reproduces documents with high fidelity \u2014 and that's what gives AI eyes.** It renders `.docx` / `.xlsx` / `.pptx` to HTML or PNG, closing the *render \u2192 look \u2192 fix* loop. [![GitHu",
+        "topics": [
+          "agent",
+          "ai",
+          "claude-code",
+          "cli",
+          "codex",
+          "docx",
+          "excel",
+          "office",
+          "openclaw",
+          "pptx",
+          "presentation",
+          "skills",
+          "word",
+          "xlsx"
+        ],
+        "updated_at": "2026-07-11T09:08:24Z"
+      },
+      "repo": {
+        "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+        "forks": 1005,
+        "full_name": "iOfficeAI/OfficeCLI",
+        "language": "C#",
+        "name": "OfficeCLI",
+        "owner": "iOfficeAI",
+        "rank": 16,
+        "stars_today": 1224,
+        "total_stars": 14742,
+        "url": "https://github.com/iOfficeAI/OfficeCLI"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 7.45,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 76.09
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C# project with 1224 stars today; score 76.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-16T17:17:17Z",
+        "default_branch": "main",
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "fork": false,
+        "full_name": "google-labs-code/stitch-skills",
+        "homepage": "https://stitch.withgoogle.com/docs/mcp/setup",
+        "latest_release": "v1.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 21,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-29T23:38:54Z",
+        "readme_excerpt": "# Stitch Design Skills A collection of agent skills and plugins for [Google Stitch](https://stitch.withgoogle.com), following the [Agent Skills](https://agentskills.io) open standard. Compatible with coding agents such as Codex, Antigravity, Gemini CLI, Claude Code, and Cursor. ## Quick Start ### 1. Install Plugins (Recommended) The fastest way to set up the full Stitch plugin suite globally. #### Codex Add the Stitch Skills marketplace, then install the plugins you need. <details open> <summary",
+        "topics": [],
+        "updated_at": "2026-07-11T09:04:56Z"
+      },
+      "repo": {
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "forks": 939,
+        "full_name": "google-labs-code/stitch-skills",
+        "language": "TypeScript",
+        "name": "stitch-skills",
+        "owner": "google-labs-code",
+        "rank": 15,
+        "stars_today": 117,
+        "total_stars": 6865,
+        "url": "https://github.com/google-labs-code/stitch-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.16,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 76.0
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 117 stars today; score 76.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-07-04T01:26:26Z",
+        "default_branch": "main",
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "fork": false,
+        "full_name": "davila7/claude-code-templates",
+        "homepage": "https://aitmpl.com",
+        "latest_release": "v1.28.3",
+        "license_spdx": "MIT",
+        "open_issues": 190,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-11T04:05:33Z",
+        "readme_excerpt": "[![npm version](https://img.shields.io/npm/v/claude-code-templates.svg)](https://www.npmjs.com/package/claude-code-templates) [![npm downloads](https://img.shields.io/npm/dt/claude-code-templates.svg)](https://www.npmjs.com/package/claude-code-templates) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) [![Sponsored by Z.AI](https://img.shields.io/",
+        "topics": [
+          "anthropic",
+          "anthropic-claude",
+          "claude",
+          "claude-code"
+        ],
+        "updated_at": "2026-07-11T09:05:08Z"
+      },
+      "repo": {
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "forks": 3169,
+        "full_name": "davila7/claude-code-templates",
+        "language": "Python",
+        "name": "claude-code-templates",
+        "owner": "davila7",
+        "rank": 12,
+        "stars_today": 118,
+        "total_stars": 28841,
+        "url": "https://github.com/davila7/claude-code-templates"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.59,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 68.39
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 118 stars today; score 68.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-06-17T15:28:39Z",
+        "default_branch": "main",
+        "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+        "fork": false,
+        "full_name": "microsoft/TypeScript",
+        "homepage": "https://www.typescriptlang.org",
+        "latest_release": "v6.0.3",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 5061,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-08T15:45:40Z",
+        "readme_excerpt": "# TypeScript <!-- CODING AGENTS: READ AGENTS.md BEFORE WRITING CODE --> [![CI](https://github.com/microsoft/TypeScript/actions/workflows/ci.yml/badge.svg)](https://github.com/microsoft/TypeScript/actions/workflows/ci.yml) [![npm version](https://badge.fury.io/js/typescript.svg)](https://www.npmjs.com/package/typescript) [![Downloads](https://img.shields.io/npm/dm/typescript.svg)](https://www.npmjs.com/package/typescript) [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.co",
+        "topics": [
+          "javascript",
+          "language",
+          "typechecker",
+          "typescript"
+        ],
+        "updated_at": "2026-07-11T08:57:16Z"
+      },
+      "repo": {
+        "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+        "forks": 13646,
+        "full_name": "microsoft/TypeScript",
+        "language": "TypeScript",
+        "name": "TypeScript",
+        "owner": "microsoft",
+        "rank": 8,
+        "stars_today": 177,
+        "total_stars": 109841,
+        "url": "https://github.com/microsoft/TypeScript"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.46,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 67.61
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 177 stars today; score 67.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2017-09-20T15:10:30Z",
+        "default_branch": "master",
+        "description": "Abseil Common Libraries (C++)",
+        "fork": false,
+        "full_name": "abseil/abseil-cpp",
+        "homepage": "https://abseil.io",
+        "latest_release": "20260526.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 233,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-11T04:56:04Z",
+        "readme_excerpt": "# Abseil - C++ Common Libraries The repository contains the Abseil C++ library code. Abseil is an open-source collection of C++ code (compliant to C++17) designed to augment the C++ standard library. ## Table of Contents - [About Abseil](#about) - [Quickstart](#quickstart) - [Building Abseil](#build) - [Support](#support) - [Codemap](#codemap) - [Releases](#releases) - [License](#license) - [Links](#links) <a name=\"about\"></a> ## About Abseil Abseil is an open-source collection of C++ library co",
+        "topics": [],
+        "updated_at": "2026-07-11T09:03:07Z"
+      },
+      "repo": {
+        "description": "Abseil Common Libraries (C++)",
+        "forks": 3204,
+        "full_name": "abseil/abseil-cpp",
+        "language": "C++",
+        "name": "abseil-cpp",
+        "owner": "abseil",
+        "rank": 3,
+        "stars_today": 89,
+        "total_stars": 17559,
+        "url": "https://github.com/abseil/abseil-cpp"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.75,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 63.34
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: C++ project with 89 stars today; score 63.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-12-08T18:58:53Z",
+        "default_branch": "master",
+        "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+        "fork": false,
+        "full_name": "grpc/grpc",
+        "homepage": "https://grpc.io",
+        "latest_release": "v1.82.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1353,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-11T07:57:05Z",
+        "readme_excerpt": "# gRPC \u2013 An RPC library and framework gRPC is a modern, open source, high-performance remote procedure call (RPC) framework that can run anywhere. gRPC enables client and server applications to communicate transparently, and simplifies the building of connected systems. <table> <tr> <td><b>Homepage:</b></td> <td><a href=\"https://grpc.io/\">grpc.io</a></td> </tr> <tr> <td><b>Mailing List:</b></td> <td><a href=\"https://groups.google.com/forum/#!forum/grpc-io\">grpc-io@googlegroups.com</a></td> </tr>",
+        "topics": [],
+        "updated_at": "2026-07-11T09:07:59Z"
+      },
+      "repo": {
+        "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+        "forks": 11331,
+        "full_name": "grpc/grpc",
+        "language": "C++",
+        "name": "grpc",
+        "owner": "grpc",
+        "rank": 18,
+        "stars_today": 78,
+        "total_stars": 45184,
+        "url": "https://github.com/grpc/grpc"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.53,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 62.44
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 78 stars today; score 62.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-07T06:34:26Z",
+        "default_branch": "main",
+        "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+        "fork": false,
+        "full_name": "TencentCloud/TencentDB-Agent-Memory",
+        "homepage": null,
+        "latest_release": "v0.3.6",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 257,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-26T03:31:09Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"./assets/images/logo.png\" alt=\"TencentDB Agent Memory\" width=\"880\" /> ### Agents remember,Humans innovate. [![npm](https://img.shields.io/npm/v/@tencentdb-agent-memory/memory-tencentdb?color=blue)](https://www.npmjs.com/package/@tencentdb-agent-memory/memory-tencentdb) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE) [![Node](https://img.shields.io/badge/node-%3E=22.16-brightgreen)](https://nodejs.org/) [![OpenClaw](https://img.shiel",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "embedding",
+          "llm",
+          "local-first",
+          "long-term-memory",
+          "memory",
+          "openclaw-plugin",
+          "vector-search"
+        ],
+        "updated_at": "2026-07-11T09:08:09Z"
+      },
+      "repo": {
+        "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+        "forks": 769,
+        "full_name": "TencentCloud/TencentDB-Agent-Memory",
+        "language": "TypeScript",
+        "name": "TencentDB-Agent-Memory",
+        "owner": "TencentCloud",
+        "rank": 11,
+        "stars_today": 123,
+        "total_stars": 8368,
+        "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.76,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.2,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 62.26
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 123 stars today; score 62.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2010-11-08T18:22:56Z",
+        "default_branch": "devel",
+        "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+        "fork": false,
+        "full_name": "catchorg/Catch2",
+        "homepage": "https://discord.gg/4CWS9zD",
+        "latest_release": "v3.15.2",
+        "license_spdx": "BSL-1.0",
+        "open_issues": 433,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-10T15:47:36Z",
+        "readme_excerpt": "<a id=\"top\"></a> ![Catch2 logo](data/artwork/catch2-logo-full-with-background.svg) [![Github Releases](https://img.shields.io/github/release/catchorg/catch2.svg)](https://github.com/catchorg/catch2/releases) [![Linux build status](https://github.com/catchorg/Catch2/actions/workflows/linux-simple-builds.yml/badge.svg)](https://github.com/catchorg/Catch2/actions/workflows/linux-simple-builds.yml) [![Linux build status](https://github.com/catchorg/Catch2/actions/workflows/linux-other-builds.yml/bad",
+        "topics": [
+          "bdd",
+          "cpp",
+          "cpp14",
+          "framework",
+          "no-dependencies",
+          "tdd",
+          "test-framework",
+          "testing"
+        ],
+        "updated_at": "2026-07-11T08:32:04Z"
+      },
+      "repo": {
+        "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+        "forks": 3418,
+        "full_name": "catchorg/Catch2",
+        "language": "C++",
+        "name": "Catch2",
+        "owner": "catchorg",
+        "rank": 9,
+        "stars_today": 76,
+        "total_stars": 20647,
+        "url": "https://github.com/catchorg/Catch2"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.82,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 60.85
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: C++ project with 76 stars today; score 60.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2020-01-31T22:00:03Z",
+        "default_branch": "main",
+        "description": "The easiest, most secure way to use WireGuard and 2FA.",
+        "fork": false,
+        "full_name": "tailscale/tailscale",
+        "homepage": "https://tailscale.com",
+        "latest_release": "v1.98.8",
+        "license_spdx": "BSD-3-Clause",
+        "open_issues": 4364,
+        "primary_language": "Go",
+        "pushed_at": "2026-07-11T03:47:30Z",
+        "readme_excerpt": "# Tailscale https://tailscale.com Private WireGuard\u00ae networks made easy ## Overview This repository contains the majority of Tailscale's open source code. Notably, it includes the `tailscaled` daemon and the `tailscale` CLI tool. The `tailscaled` daemon runs on Linux, Windows, [macOS](https://tailscale.com/kb/1065/macos-variants/), and to varying degrees on FreeBSD and OpenBSD. The Tailscale iOS and Android apps use this repo's code, but this repo doesn't contain the mobile GUI code. Other [Tail",
+        "topics": [
+          "2fa",
+          "oauth",
+          "sso",
+          "tailscale",
+          "vpn",
+          "wireguard"
+        ],
+        "updated_at": "2026-07-11T09:08:21Z"
+      },
+      "repo": {
+        "description": "The easiest, most secure way to use WireGuard and 2FA.",
+        "forks": 2921,
+        "full_name": "tailscale/tailscale",
+        "language": "Go",
+        "name": "tailscale",
+        "owner": "tailscale",
+        "rank": 14,
+        "stars_today": 143,
+        "total_stars": 33777,
+        "url": "https://github.com/tailscale/tailscale"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.43,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.23
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 143 stars today; score 59.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-09-09T05:24:56Z",
+        "default_branch": "master",
+        "description": "Mesh optimization library that makes meshes smaller and faster to render",
+        "fork": false,
+        "full_name": "zeux/meshoptimizer",
+        "homepage": "https://meshoptimizer.org/",
+        "latest_release": "v1.2",
+        "license_spdx": "MIT",
+        "open_issues": 8,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-10T20:00:19Z",
+        "readme_excerpt": "# \ud83d\udc07 meshoptimizer [![Actions Status](https://github.com/zeux/meshoptimizer/workflows/build/badge.svg)](https://github.com/zeux/meshoptimizer/actions) [![codecov.io](https://codecov.io/github/zeux/meshoptimizer/coverage.svg?branch=master)](https://codecov.io/github/zeux/meshoptimizer?branch=master) [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md) [![GitHub](https://img.shields.io/badge/repo-github-green.svg)](https://github.com/zeux/meshoptimizer) ## Purpose When a GPU rend",
+        "topics": [
+          "compression",
+          "gltf",
+          "gpu",
+          "mesh-processing",
+          "optimization",
+          "simplification"
+        ],
+        "updated_at": "2026-07-11T08:39:48Z"
+      },
+      "repo": {
+        "description": "Mesh optimization library that makes meshes smaller and faster to render",
+        "forks": 788,
+        "full_name": "zeux/meshoptimizer",
+        "language": "C++",
+        "name": "meshoptimizer",
+        "owner": "zeux",
+        "rank": 13,
+        "stars_today": 91,
+        "total_stars": 8060,
+        "url": "https://github.com/zeux/meshoptimizer"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.32,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.12
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 91 stars today; score 59.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-03-13T22:25:48Z",
+        "default_branch": "main",
+        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+        "fork": false,
+        "full_name": "hashicorp/terraform",
+        "homepage": "http://developer.hashicorp.com/terraform",
+        "latest_release": "v1.15.8",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 1911,
+        "primary_language": "Go",
+        "pushed_at": "2026-07-10T21:14:28Z",
+        "readme_excerpt": "# Terraform - Website: https://developer.hashicorp.com/terraform - Forums: [HashiCorp Discuss](https://discuss.hashicorp.com/c/terraform-core) - Documentation: [https://developer.hashicorp.com/terraform/docs](https://developer.hashicorp.com/terraform/docs) - Tutorials: [HashiCorp's Learn Platform](https://developer.hashicorp.com/terraform/tutorials) - Certification Exam: [HashiCorp Certified: Terraform Associate](https://www.hashicorp.com/certification/#hashicorp-certified-terraform-associate) <",
+        "topics": [
+          "cloud",
+          "cloud-management",
+          "graph",
+          "infrastructure-as-code",
+          "terraform"
+        ],
+        "updated_at": "2026-07-11T09:08:17Z"
+      },
+      "repo": {
+        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+        "forks": 10682,
+        "full_name": "hashicorp/terraform",
+        "language": "Go",
+        "name": "terraform",
+        "owner": "hashicorp",
+        "rank": 17,
+        "stars_today": 172,
+        "total_stars": 49252,
+        "url": "https://github.com/hashicorp/terraform"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.14,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 58.5
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 172 stars today; score 58.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-03-30T02:52:32Z",
+        "default_branch": "master",
+        "description": "A YAML parser and emitter in C++",
+        "fork": false,
+        "full_name": "jbeder/yaml-cpp",
+        "homepage": null,
+        "latest_release": "yaml-cpp-0.9.0",
+        "license_spdx": "MIT",
+        "open_issues": 207,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-11T06:27:17Z",
+        "readme_excerpt": "# yaml-cpp ![Build Status](https://github.com/jbeder/yaml-cpp/actions/workflows/build.yml/badge.svg) [![Documentation](https://codedocs.xyz/jbeder/yaml-cpp.svg)](https://codedocs.xyz/jbeder/yaml-cpp/) `yaml-cpp` is a [YAML](http://www.yaml.org/) parser and emitter in C++ matching the [YAML 1.2 spec](http://www.yaml.org/spec/1.2/spec.html). ## Usage See [Tutorial](https://github.com/jbeder/yaml-cpp/wiki/Tutorial) and [How to Emit YAML](https://github.com/jbeder/yaml-cpp/wiki/How-To-Emit-YAML) for",
+        "topics": [],
+        "updated_at": "2026-07-11T09:03:11Z"
+      },
+      "repo": {
+        "description": "A YAML parser and emitter in C++",
+        "forks": 2262,
+        "full_name": "jbeder/yaml-cpp",
+        "language": "C++",
+        "name": "yaml-cpp",
+        "owner": "jbeder",
+        "rank": 5,
+        "stars_today": 69,
+        "total_stars": 6113,
+        "url": "https://github.com/jbeder/yaml-cpp"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.36,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 54.16
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: C++ project with 69 stars today; score 54.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-10-05T23:32:51Z",
+        "default_branch": "canary",
+        "description": "The React Framework",
+        "fork": false,
+        "full_name": "vercel/next.js",
+        "homepage": "https://nextjs.org",
+        "latest_release": "v16.2.10",
+        "license_spdx": "MIT",
+        "open_issues": 4172,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-07-11T08:31:46Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://nextjs.org\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png\"> <img alt=\"Next.js logo\" src=\"https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png\" height=\"128\"> </picture> </a> <h1>Next.js</h1> <a href=\"https://vercel.com\"><img alt=\"Vercel logo\" src=\"https://img.shields.io/badge/MADE%20BY%20Vercel-000000.svg?style=for-the-badge&logo",
+        "topics": [
+          "blog",
+          "browser",
+          "compiler",
+          "components",
+          "hybrid",
+          "nextjs",
+          "node",
+          "react",
+          "server-rendering",
+          "ssg",
+          "static",
+          "static-site-generator",
+          "universal",
+          "vercel"
+        ],
+        "updated_at": "2026-07-11T09:05:17Z"
+      },
+      "repo": {
+        "description": "The React Framework",
+        "forks": 31542,
+        "full_name": "vercel/next.js",
+        "language": "JavaScript",
+        "name": "next.js",
+        "owner": "vercel",
+        "rank": 19,
+        "stars_today": 191,
+        "total_stars": 140812,
+        "url": "https://github.com/vercel/next.js"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.95,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 51.01
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: JavaScript project with 191 stars today; score 51.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2021-04-14T00:48:17Z",
+        "default_branch": "main",
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
+        "fork": false,
+        "full_name": "oven-sh/bun",
+        "homepage": "https://bun.com",
+        "latest_release": "bun-v1.3.14",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 7270,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-11T09:02:07Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://bun.com\"><img src=\"https://github.com/user-attachments/assets/50282090-adfd-4ddb-9e27-c30753c6b161\" alt=\"Logo\" height=170></a> </p> <h1 align=\"center\">Bun</h1> <p align=\"center\"> <a href=\"https://bun.com/discord\" target=\"_blank\"><img height=20 src=\"https://img.shields.io/discord/876711213126520882\" /></a> <img src=\"https://img.shields.io/github/stars/oven-sh/bun\" alt=\"stars\"> <a href=\"https://twitter.com/jarredsumner/status/1542824445810642946\"><img src=\"https",
+        "topics": [
+          "bun",
+          "bundler",
+          "javascript",
+          "javascriptcore",
+          "jsx",
+          "nodejs",
+          "npm",
+          "react",
+          "rust",
+          "rust-lang",
+          "transpiler",
+          "typescript"
+        ],
+        "updated_at": "2026-07-11T09:07:44Z"
+      },
+      "repo": {
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
+        "forks": 4954,
+        "full_name": "oven-sh/bun",
+        "language": "Rust",
+        "name": "bun",
+        "owner": "oven-sh",
+        "rank": 2,
+        "stars_today": 209,
+        "total_stars": 94442,
+        "url": "https://github.com/oven-sh/bun"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.48,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 1.83,
+        "technical_quality": 11.2,
+        "total": 47.81
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Rust project with 209 stars today; score 47.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2011-02-15T05:18:45Z",
+        "default_branch": "master",
+        "description": "Asio C++ Library",
+        "fork": false,
+        "full_name": "chriskohlhoff/asio",
+        "homepage": "http://think-async.com/Asio",
+        "latest_release": null,
+        "license_spdx": "NOASSERTION",
+        "open_issues": 1071,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-08T09:28:48Z",
+        "readme_excerpt": "asio version 1.38.1 Released Thursday, 14 May 2026. Visit https://think-async.com/ or see packaged doc/index.html for API documentation and a tutorial.",
+        "topics": [],
+        "updated_at": "2026-07-11T08:26:50Z"
+      },
+      "repo": {
+        "description": "Asio C++ Library",
+        "forks": 1509,
+        "full_name": "chriskohlhoff/asio",
+        "language": "C++",
+        "name": "asio",
+        "owner": "chriskohlhoff",
+        "rank": 10,
+        "stars_today": 92,
+        "total_stars": 6101,
+        "url": "https://github.com/chriskohlhoff/asio"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.76,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 3.85,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 45.87
+      },
+      "tags": [
+        "DevTools"
+      ],
+      "verdict": "DevTools: C++ project with 92 stars today; score 45.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .claude directory.",
+        "forks": 14203,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 1712,
+        "total_stars": 165075,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 11.28,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.61,
+        "technical_quality": 3.5,
+        "total": 40.07
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 1712 stars today; score 40.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 22501,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 1013,
+        "total_stars": 252048,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 7.71,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.15,
+        "technical_quality": 3.5,
+        "total": 37.0
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 1013 stars today; score 37.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/wonderwhy-er",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+        "forks": 955,
+        "full_name": "sponsors/wonderwhy-er",
+        "language": "TypeScript",
+        "name": "wonderwhy-er",
+        "owner": "sponsors",
+        "rank": 1,
+        "stars_today": 328,
+        "total_stars": 7579,
+        "url": "https://github.com/sponsors/wonderwhy-er"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.21,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 34.36
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 328 stars today; score 34.4/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-07-11",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is google-labs-code/stitch-skills."
+}
