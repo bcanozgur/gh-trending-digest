@@ -1,0 +1,34 @@
+GitHub Trending: AI workflow signal - 2026-07-12
+
+Today leans toward AI workflow signal; the strongest pick is openai/plugins.
+
+Top picks
+1. openai/plugins - 69.8/100
+   https://github.com/openai/plugins
+   AI Workflow, DevTools: JavaScript project with 29 stars today; score 69.8/100.
+2. ansible/ansible - 68.5/100
+   https://github.com/ansible/ansible
+   AI Workflow, DevTools: Python project with 24 stars today; score 68.5/100.
+3. home-assistant/core - 62.4/100
+   https://github.com/home-assistant/core
+   AI Workflow, Try Today: Python project with 80 stars today; score 62.4/100.
+4. malisper/pgrust - 62.2/100
+   https://github.com/malisper/pgrust
+   AI Workflow, Try Today: Rust project with 774 stars today; score 62.2/100.
+5. nasa/fprime - 58.8/100
+   https://github.com/nasa/fprime
+   DevTools, Try Today: C++ project with 22 stars today; score 58.8/100.
+
+Full reviewed list
+- openai/plugins: 69.8/100 [AI Workflow, DevTools, Deep Dive] AI Workflow, DevTools: JavaScript project with 29 stars today; score 69.8/100.
+- ansible/ansible: 68.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 24 stars today; score 68.5/100.
+- home-assistant/core: 62.4/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 80 stars today; score 62.4/100.
+- malisper/pgrust: 62.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Rust project with 774 stars today; score 62.2/100.
+- nasa/fprime: 58.8/100 [DevTools, Try Today, Deep Dive] DevTools, Try Today: C++ project with 22 stars today; score 58.8/100.
+- dotnet/aspnetcore: 58.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: C# project with 4 stars today; score 58.0/100.
+- cypress-io/cypress: 49.9/100 [DevTools, Try Today] DevTools, Try Today: TypeScript project with 19 stars today; score 49.9/100.
+- vercel/next.js: 48.5/100 [DevTools, Try Today] DevTools, Try Today: JavaScript project with 334 stars today; score 48.5/100.
+- oven-sh/bun: 48.1/100 [Try Today] Try Today: Rust project with 658 stars today; score 48.1/100.
+- actions/checkout: 46.1/100 [DevTools, Try Today] DevTools, Try Today: TypeScript project with 8 stars today; score 46.1/100.
+
+Generated for 2026-07-12 from GitHub Trending daily.

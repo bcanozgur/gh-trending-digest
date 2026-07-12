@@ -1,0 +1,1891 @@
+{
+  "date": "2026-07-12",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-04T21:52:32Z",
+        "default_branch": "main",
+        "description": "OpenAI Plugins",
+        "fork": false,
+        "full_name": "openai/plugins",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 41,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-07-10T02:04:32Z",
+        "readme_excerpt": "# Plugins This repository contains a curated collection of Codex plugin examples. Each plugin lives under `plugins/<name>/` with a required `.codex-plugin/plugin.json` manifest and optional companion surfaces such as `skills/`, `.app.json`, `.mcp.json`, plugin-level `agents/`, `commands/`, `hooks.json`, `assets/`, and other supporting files. The default marketplace lives at `.agents/plugins/marketplace.json` and points at the standard `plugins/` directory. API key login users have a separate mar",
+        "topics": [],
+        "updated_at": "2026-07-12T09:18:55Z"
+      },
+      "repo": {
+        "description": "OpenAI Plugins",
+        "forks": 660,
+        "full_name": "openai/plugins",
+        "language": "JavaScript",
+        "name": "plugins",
+        "owner": "openai",
+        "rank": 7,
+        "stars_today": 29,
+        "total_stars": 4478,
+        "url": "https://github.com/openai/plugins"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.0,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 69.84
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 29 stars today; score 69.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2012-03-06T14:58:02Z",
+        "default_branch": "devel",
+        "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+        "fork": false,
+        "full_name": "ansible/ansible",
+        "homepage": "https://www.ansible.com/",
+        "latest_release": "v2.21.1",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 811,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-09T16:55:45Z",
+        "readme_excerpt": "[![PyPI version](https://img.shields.io/pypi/v/ansible-core.svg)](https://pypi.org/project/ansible-core) [![Docs badge](https://img.shields.io/badge/docs-latest-brightgreen.svg)](https://docs.ansible.com/ansible/latest/) [![Chat badge](https://img.shields.io/badge/chat-Matrix-brightgreen.svg)](https://docs.ansible.com/ansible/devel/community/communication.html#real-time-chat) [![Ansible forum](https://img.shields.io/badge/forum-Ansible-orange.svg)](https://docs.ansible.com/ansible/devel/communit",
+        "topics": [
+          "ansible",
+          "python"
+        ],
+        "updated_at": "2026-07-12T09:09:32Z"
+      },
+      "repo": {
+        "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com .",
+        "forks": 24280,
+        "full_name": "ansible/ansible",
+        "language": "Python",
+        "name": "ansible",
+        "owner": "ansible",
+        "rank": 23,
+        "stars_today": 24,
+        "total_stars": 69636,
+        "url": "https://github.com/ansible/ansible"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 0.65,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 68.54
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 24 stars today; score 68.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2013-09-17T07:29:48Z",
+        "default_branch": "dev",
+        "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+        "fork": false,
+        "full_name": "home-assistant/core",
+        "homepage": "https://www.home-assistant.io",
+        "latest_release": "2026.7.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 3337,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-12T07:53:20Z",
+        "readme_excerpt": "Home Assistant |Chat Status| ================================================================================= Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server. Check out `home-assistant.io <https://home-assistant.io>`__ for `a demo <https://demo.home-assistant.io>`__, `installation instructions <https://home-assistant.io/getting-started/>`__, `tutorials <ht",
+        "topics": [
+          "asyncio",
+          "hacktoberfest",
+          "home-automation",
+          "internet-of-things",
+          "iot",
+          "mqtt",
+          "python",
+          "raspberry-pi"
+        ],
+        "updated_at": "2026-07-12T09:24:43Z"
+      },
+      "repo": {
+        "description": "\ud83c\udfe1 Open source home automation that puts local control and privacy first.",
+        "forks": 38055,
+        "full_name": "home-assistant/core",
+        "language": "Python",
+        "name": "core",
+        "owner": "home-assistant",
+        "rank": 12,
+        "stars_today": 80,
+        "total_stars": 88801,
+        "url": "https://github.com/home-assistant/core"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.76,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 62.35
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 80 stars today; score 62.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-20T03:35:59Z",
+        "default_branch": "main",
+        "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+        "fork": false,
+        "full_name": "malisper/pgrust",
+        "homepage": "https://pgrust.com",
+        "latest_release": null,
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 17,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-10T07:04:48Z",
+        "readme_excerpt": "<h1 align=\"center\">pgrust</h1> <p align=\"center\"> <strong>A Postgres rewrite in Rust.</strong> </p> <p align=\"center\"> <img alt=\"Postgres 18.3\" src=\"https://img.shields.io/badge/Postgres-18.3-336791\"> <img alt=\"Regression queries: 46k+\" src=\"https://img.shields.io/badge/regression_queries-46k%2B-brightgreen\"> <a href=\"https://github.com/malisper/pgrust/blob/main/LICENSE\"> <img alt=\"License: AGPL-3.0\" src=\"https://img.shields.io/badge/license-AGPL--3.0-blue\"> </a> </p> <div align=\"center\"> <a hre",
+        "topics": [
+          "ai-assisted-development",
+          "database",
+          "postgres",
+          "postgresql",
+          "rust"
+        ],
+        "updated_at": "2026-07-12T09:25:39Z"
+      },
+      "repo": {
+        "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+        "forks": 56,
+        "full_name": "malisper/pgrust",
+        "language": "Rust",
+        "name": "pgrust",
+        "owner": "malisper",
+        "rank": 17,
+        "stars_today": 774,
+        "total_stars": 2215,
+        "url": "https://github.com/malisper/pgrust"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 8.45,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.45,
+        "technical_quality": 11.9,
+        "total": 62.19
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 774 stars today; score 62.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2017-06-22T12:45:27Z",
+        "default_branch": "devel",
+        "description": "F\u00b4 - A flight software and embedded systems framework",
+        "fork": false,
+        "full_name": "nasa/fprime",
+        "homepage": "https://fprime.jpl.nasa.gov",
+        "latest_release": "v4.2.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 416,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-10T03:28:52Z",
+        "readme_excerpt": "<h2 align=\"center\">A Flight-Proven, Multi-Platform, Open-Source Flight Software Framework</h2> <p align=\"center\"><br/> <img width=\"200em\" src=\"docs/img/fprime-logo.svg\"><br/> </p> # F\u00b4 (F Prime) is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications. Originally developed at the [Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), F\u00b4 has been successfully deployed on [several space applications](https://fprime.jpl.n",
+        "topics": [
+          "components",
+          "cpp",
+          "embedded",
+          "embedded-systems",
+          "flight",
+          "flight-software",
+          "fprime",
+          "framework",
+          "nasa",
+          "object-oriented-programming",
+          "raspberry-pi",
+          "real-time",
+          "spaceflight"
+        ],
+        "updated_at": "2026-07-12T08:56:20Z"
+      },
+      "repo": {
+        "description": "F\u00b4 - A flight software and embedded systems framework",
+        "forks": 1730,
+        "full_name": "nasa/fprime",
+        "language": "C++",
+        "name": "fprime",
+        "owner": "nasa",
+        "rank": 22,
+        "stars_today": 22,
+        "total_stars": 11535,
+        "url": "https://github.com/nasa/fprime"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 0.78,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 58.81
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: C++ project with 22 stars today; score 58.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-03-11T06:09:42Z",
+        "default_branch": "main",
+        "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+        "fork": false,
+        "full_name": "dotnet/aspnetcore",
+        "homepage": "https://asp.net",
+        "latest_release": "v10.0.9",
+        "license_spdx": "MIT",
+        "open_issues": 4019,
+        "primary_language": "C#",
+        "pushed_at": "2026-07-12T08:00:26Z",
+        "readme_excerpt": "ASP.NET Core ============ [![.NET Foundation](https://img.shields.io/badge/.NET%20Foundation-blueviolet.svg)](https://www.dotnetfoundation.org/) [![MIT License](https://img.shields.io/github/license/dotnet/aspnetcore?color=%230b0&style=flat-square)](https://github.com/dotnet/aspnetcore/blob/main/LICENSE.txt) [![Help Wanted](https://img.shields.io/github/issues/dotnet/aspnetcore/help%20wanted?color=%232EA043&label=help%20wanted&style=flat-square)](https://github.com/dotnet/aspnetcore/issues?q=is%",
+        "topics": [
+          "aspnetcore",
+          "dotnet",
+          "hacktoberfest",
+          "help-wanted"
+        ],
+        "updated_at": "2026-07-12T09:22:32Z"
+      },
+      "repo": {
+        "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+        "forks": 10885,
+        "full_name": "dotnet/aspnetcore",
+        "language": "C#",
+        "name": "aspnetcore",
+        "owner": "dotnet",
+        "rank": 18,
+        "stars_today": 4,
+        "total_stars": 38330,
+        "url": "https://github.com/dotnet/aspnetcore"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.19,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 57.99
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C# project with 4 stars today; score 58.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-03-04T00:46:28Z",
+        "default_branch": "develop",
+        "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+        "fork": false,
+        "full_name": "cypress-io/cypress",
+        "homepage": "https://cypress.io",
+        "latest_release": "v15.18.1",
+        "license_spdx": "MIT",
+        "open_issues": 1102,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-12T01:13:46Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://www.cypress.io\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"./assets/cypress-logo-dark.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"./assets/cypress-logo-light.png\"> <img alt=\"Cypress Logo\" src=\"./assets/cypress-logo-light.png\"> </picture> </a> </p> <p align=\"center\"> <a href=\"https://on.cypress.io\">Documentation</a> | <a href=\"https://on.cypress.io/changelog\">Changelog</a> | <a href=\"https://on.cypress.io/roadmap\">Roadmap</a",
+        "topics": [
+          "angular-testing-library",
+          "component-testing",
+          "cypress",
+          "cypress-cloud",
+          "cypress-schematic",
+          "end-to-end-testing",
+          "react-testing-library",
+          "svelte-testing-library",
+          "test-replay",
+          "testing-framework",
+          "testing-library",
+          "testing-tool",
+          "vue-testing-library"
+        ],
+        "updated_at": "2026-07-12T09:25:38Z"
+      },
+      "repo": {
+        "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+        "forks": 3592,
+        "full_name": "cypress-io/cypress",
+        "language": "TypeScript",
+        "name": "cypress",
+        "owner": "cypress-io",
+        "rank": 14,
+        "stars_today": 19,
+        "total_stars": 50666,
+        "url": "https://github.com/cypress-io/cypress"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.9,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 49.87
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 19 stars today; score 49.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-10-05T23:32:51Z",
+        "default_branch": "canary",
+        "description": "The React Framework",
+        "fork": false,
+        "full_name": "vercel/next.js",
+        "homepage": "https://nextjs.org",
+        "latest_release": "v16.2.10",
+        "license_spdx": "MIT",
+        "open_issues": 4175,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-07-12T08:01:28Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://nextjs.org\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png\"> <img alt=\"Next.js logo\" src=\"https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png\" height=\"128\"> </picture> </a> <h1>Next.js</h1> <a href=\"https://vercel.com\"><img alt=\"Vercel logo\" src=\"https://img.shields.io/badge/MADE%20BY%20Vercel-000000.svg?style=for-the-badge&logo",
+        "topics": [
+          "blog",
+          "browser",
+          "compiler",
+          "components",
+          "hybrid",
+          "nextjs",
+          "node",
+          "react",
+          "server-rendering",
+          "ssg",
+          "static",
+          "static-site-generator",
+          "universal",
+          "vercel"
+        ],
+        "updated_at": "2026-07-12T09:14:53Z"
+      },
+      "repo": {
+        "description": "The React Framework",
+        "forks": 31557,
+        "full_name": "vercel/next.js",
+        "language": "JavaScript",
+        "name": "next.js",
+        "owner": "vercel",
+        "rank": 15,
+        "stars_today": 334,
+        "total_stars": 141008,
+        "url": "https://github.com/vercel/next.js"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.67,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 48.53
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: JavaScript project with 334 stars today; score 48.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2021-04-14T00:48:17Z",
+        "default_branch": "main",
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
+        "fork": false,
+        "full_name": "oven-sh/bun",
+        "homepage": "https://bun.com",
+        "latest_release": "bun-v1.3.14",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 7313,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-12T09:18:22Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://bun.com\"><img src=\"https://github.com/user-attachments/assets/50282090-adfd-4ddb-9e27-c30753c6b161\" alt=\"Logo\" height=170></a> </p> <h1 align=\"center\">Bun</h1> <p align=\"center\"> <a href=\"https://bun.com/discord\" target=\"_blank\"><img height=20 src=\"https://img.shields.io/discord/876711213126520882\" /></a> <img src=\"https://img.shields.io/github/stars/oven-sh/bun\" alt=\"stars\"> <a href=\"https://twitter.com/jarredsumner/status/1542824445810642946\"><img src=\"https",
+        "topics": [
+          "bun",
+          "bundler",
+          "javascript",
+          "javascriptcore",
+          "jsx",
+          "nodejs",
+          "npm",
+          "react",
+          "rust",
+          "rust-lang",
+          "transpiler",
+          "typescript"
+        ],
+        "updated_at": "2026-07-12T09:20:09Z"
+      },
+      "repo": {
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
+        "forks": 4964,
+        "full_name": "oven-sh/bun",
+        "language": "Rust",
+        "name": "bun",
+        "owner": "oven-sh",
+        "rank": 10,
+        "stars_today": 658,
+        "total_stars": 94610,
+        "url": "https://github.com/oven-sh/bun"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 8.38,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.42,
+        "technical_quality": 11.2,
+        "total": 48.1
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Rust project with 658 stars today; score 48.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-07-19T17:15:33Z",
+        "default_branch": "main",
+        "description": "Action for checking out a repo",
+        "fork": false,
+        "full_name": "actions/checkout",
+        "homepage": "https://github.com/features/actions",
+        "latest_release": "v7.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 677,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-07T20:35:00Z",
+        "readme_excerpt": "[![Build and Test](https://github.com/actions/checkout/actions/workflows/test.yml/badge.svg)](https://github.com/actions/checkout/actions/workflows/test.yml) # Checkout v7 ## What's new - Safer fork pull request handling: checkout now refuses to check out fork pull request code by default when the workflow is triggered by `pull_request_target` or `workflow_run`. These triggers run with the base repository's `GITHUB_TOKEN`, secrets, and runner access, where executing a fork's code commonly leads ",
+        "topics": [],
+        "updated_at": "2026-07-12T08:56:50Z"
+      },
+      "repo": {
+        "description": "Action for checking out a repo",
+        "forks": 2717,
+        "full_name": "actions/checkout",
+        "language": "TypeScript",
+        "name": "checkout",
+        "owner": "actions",
+        "rank": 11,
+        "stars_today": 8,
+        "total_stars": 8483,
+        "url": "https://github.com/actions/checkout"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.23,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 46.09
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 8 stars today; score 46.1/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-16T17:17:17Z",
+        "default_branch": "main",
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "fork": false,
+        "full_name": "google-labs-code/stitch-skills",
+        "homepage": "https://stitch.withgoogle.com/docs/mcp/setup",
+        "latest_release": "v1.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 21,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-29T23:38:54Z",
+        "readme_excerpt": "# Stitch Design Skills A collection of agent skills and plugins for [Google Stitch](https://stitch.withgoogle.com), following the [Agent Skills](https://agentskills.io) open standard. Compatible with coding agents such as Codex, Antigravity, Gemini CLI, Claude Code, and Cursor. ## Quick Start ### 1. Install Plugins (Recommended) The fastest way to set up the full Stitch plugin suite globally. #### Codex Add the Stitch Skills marketplace, then install the plugins you need. <details open> <summary",
+        "topics": [],
+        "updated_at": "2026-07-12T09:23:17Z"
+      },
+      "repo": {
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "forks": 953,
+        "full_name": "google-labs-code/stitch-skills",
+        "language": "TypeScript",
+        "name": "stitch-skills",
+        "owner": "google-labs-code",
+        "rank": 4,
+        "stars_today": 340,
+        "total_stars": 7182,
+        "url": "https://github.com/google-labs-code/stitch-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 6.31,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 74.95
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 340 stars today; score 75.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-04T21:52:32Z",
+        "default_branch": "main",
+        "description": "OpenAI Plugins",
+        "fork": false,
+        "full_name": "openai/plugins",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 41,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-07-10T02:04:32Z",
+        "readme_excerpt": "# Plugins This repository contains a curated collection of Codex plugin examples. Each plugin lives under `plugins/<name>/` with a required `.codex-plugin/plugin.json` manifest and optional companion surfaces such as `skills/`, `.app.json`, `.mcp.json`, plugin-level `agents/`, `commands/`, `hooks.json`, `assets/`, and other supporting files. The default marketplace lives at `.agents/plugins/marketplace.json` and points at the standard `plugins/` directory. API key login users have a separate mar",
+        "topics": [],
+        "updated_at": "2026-07-12T09:18:55Z"
+      },
+      "repo": {
+        "description": "OpenAI Plugins",
+        "forks": 660,
+        "full_name": "openai/plugins",
+        "language": "JavaScript",
+        "name": "plugins",
+        "owner": "openai",
+        "rank": 7,
+        "stars_today": 29,
+        "total_stars": 4478,
+        "url": "https://github.com/openai/plugins"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.0,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 69.84
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 29 stars today; score 69.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2012-03-06T14:58:02Z",
+        "default_branch": "devel",
+        "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+        "fork": false,
+        "full_name": "ansible/ansible",
+        "homepage": "https://www.ansible.com/",
+        "latest_release": "v2.21.1",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 811,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-09T16:55:45Z",
+        "readme_excerpt": "[![PyPI version](https://img.shields.io/pypi/v/ansible-core.svg)](https://pypi.org/project/ansible-core) [![Docs badge](https://img.shields.io/badge/docs-latest-brightgreen.svg)](https://docs.ansible.com/ansible/latest/) [![Chat badge](https://img.shields.io/badge/chat-Matrix-brightgreen.svg)](https://docs.ansible.com/ansible/devel/community/communication.html#real-time-chat) [![Ansible forum](https://img.shields.io/badge/forum-Ansible-orange.svg)](https://docs.ansible.com/ansible/devel/communit",
+        "topics": [
+          "ansible",
+          "python"
+        ],
+        "updated_at": "2026-07-12T09:09:32Z"
+      },
+      "repo": {
+        "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com .",
+        "forks": 24280,
+        "full_name": "ansible/ansible",
+        "language": "Python",
+        "name": "ansible",
+        "owner": "ansible",
+        "rank": 23,
+        "stars_today": 24,
+        "total_stars": 69636,
+        "url": "https://github.com/ansible/ansible"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 0.65,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 68.54
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 24 stars today; score 68.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-07-04T01:26:26Z",
+        "default_branch": "main",
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "fork": false,
+        "full_name": "davila7/claude-code-templates",
+        "homepage": "https://aitmpl.com",
+        "latest_release": "v1.28.3",
+        "license_spdx": "MIT",
+        "open_issues": 194,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-12T04:17:50Z",
+        "readme_excerpt": "[![npm version](https://img.shields.io/npm/v/claude-code-templates.svg)](https://www.npmjs.com/package/claude-code-templates) [![npm downloads](https://img.shields.io/npm/dt/claude-code-templates.svg)](https://www.npmjs.com/package/claude-code-templates) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) [![Sponsored by Z.AI](https://img.shields.io/",
+        "topics": [
+          "anthropic",
+          "anthropic-claude",
+          "claude",
+          "claude-code"
+        ],
+        "updated_at": "2026-07-12T09:14:37Z"
+      },
+      "repo": {
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "forks": 3193,
+        "full_name": "davila7/claude-code-templates",
+        "language": "Python",
+        "name": "claude-code-templates",
+        "owner": "davila7",
+        "rank": 3,
+        "stars_today": 232,
+        "total_stars": 29118,
+        "url": "https://github.com/davila7/claude-code-templates"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.46,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 66.06
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 232 stars today; score 66.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2013-09-17T07:29:48Z",
+        "default_branch": "dev",
+        "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+        "fork": false,
+        "full_name": "home-assistant/core",
+        "homepage": "https://www.home-assistant.io",
+        "latest_release": "2026.7.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 3337,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-12T07:53:20Z",
+        "readme_excerpt": "Home Assistant |Chat Status| ================================================================================= Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server. Check out `home-assistant.io <https://home-assistant.io>`__ for `a demo <https://demo.home-assistant.io>`__, `installation instructions <https://home-assistant.io/getting-started/>`__, `tutorials <ht",
+        "topics": [
+          "asyncio",
+          "hacktoberfest",
+          "home-automation",
+          "internet-of-things",
+          "iot",
+          "mqtt",
+          "python",
+          "raspberry-pi"
+        ],
+        "updated_at": "2026-07-12T09:24:43Z"
+      },
+      "repo": {
+        "description": "\ud83c\udfe1 Open source home automation that puts local control and privacy first.",
+        "forks": 38055,
+        "full_name": "home-assistant/core",
+        "language": "Python",
+        "name": "core",
+        "owner": "home-assistant",
+        "rank": 12,
+        "stars_today": 80,
+        "total_stars": 88801,
+        "url": "https://github.com/home-assistant/core"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.76,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 62.35
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 80 stars today; score 62.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-20T03:35:59Z",
+        "default_branch": "main",
+        "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+        "fork": false,
+        "full_name": "malisper/pgrust",
+        "homepage": "https://pgrust.com",
+        "latest_release": null,
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 17,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-10T07:04:48Z",
+        "readme_excerpt": "<h1 align=\"center\">pgrust</h1> <p align=\"center\"> <strong>A Postgres rewrite in Rust.</strong> </p> <p align=\"center\"> <img alt=\"Postgres 18.3\" src=\"https://img.shields.io/badge/Postgres-18.3-336791\"> <img alt=\"Regression queries: 46k+\" src=\"https://img.shields.io/badge/regression_queries-46k%2B-brightgreen\"> <a href=\"https://github.com/malisper/pgrust/blob/main/LICENSE\"> <img alt=\"License: AGPL-3.0\" src=\"https://img.shields.io/badge/license-AGPL--3.0-blue\"> </a> </p> <div align=\"center\"> <a hre",
+        "topics": [
+          "ai-assisted-development",
+          "database",
+          "postgres",
+          "postgresql",
+          "rust"
+        ],
+        "updated_at": "2026-07-12T09:25:39Z"
+      },
+      "repo": {
+        "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+        "forks": 56,
+        "full_name": "malisper/pgrust",
+        "language": "Rust",
+        "name": "pgrust",
+        "owner": "malisper",
+        "rank": 17,
+        "stars_today": 774,
+        "total_stars": 2215,
+        "url": "https://github.com/malisper/pgrust"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 8.45,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.45,
+        "technical_quality": 11.9,
+        "total": 62.19
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 774 stars today; score 62.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2017-09-20T15:10:30Z",
+        "default_branch": "master",
+        "description": "Abseil Common Libraries (C++)",
+        "fork": false,
+        "full_name": "abseil/abseil-cpp",
+        "homepage": "https://abseil.io",
+        "latest_release": "20260526.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 231,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-11T19:08:20Z",
+        "readme_excerpt": "# Abseil - C++ Common Libraries The repository contains the Abseil C++ library code. Abseil is an open-source collection of C++ code (compliant to C++17) designed to augment the C++ standard library. ## Table of Contents - [About Abseil](#about) - [Quickstart](#quickstart) - [Building Abseil](#build) - [Support](#support) - [Codemap](#codemap) - [Releases](#releases) - [License](#license) - [Links](#links) <a name=\"about\"></a> ## About Abseil Abseil is an open-source collection of C++ library co",
+        "topics": [],
+        "updated_at": "2026-07-12T09:27:32Z"
+      },
+      "repo": {
+        "description": "Abseil Common Libraries (C++)",
+        "forks": 3216,
+        "full_name": "abseil/abseil-cpp",
+        "language": "C++",
+        "name": "abseil-cpp",
+        "owner": "abseil",
+        "rank": 2,
+        "stars_today": 118,
+        "total_stars": 17903,
+        "url": "https://github.com/abseil/abseil-cpp"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 8.96,
+        "momentum": 4.55,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 58.94
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: C++ project with 118 stars today; score 58.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2017-06-22T12:45:27Z",
+        "default_branch": "devel",
+        "description": "F\u00b4 - A flight software and embedded systems framework",
+        "fork": false,
+        "full_name": "nasa/fprime",
+        "homepage": "https://fprime.jpl.nasa.gov",
+        "latest_release": "v4.2.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 416,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-10T03:28:52Z",
+        "readme_excerpt": "<h2 align=\"center\">A Flight-Proven, Multi-Platform, Open-Source Flight Software Framework</h2> <p align=\"center\"><br/> <img width=\"200em\" src=\"docs/img/fprime-logo.svg\"><br/> </p> # F\u00b4 (F Prime) is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications. Originally developed at the [Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), F\u00b4 has been successfully deployed on [several space applications](https://fprime.jpl.n",
+        "topics": [
+          "components",
+          "cpp",
+          "embedded",
+          "embedded-systems",
+          "flight",
+          "flight-software",
+          "fprime",
+          "framework",
+          "nasa",
+          "object-oriented-programming",
+          "raspberry-pi",
+          "real-time",
+          "spaceflight"
+        ],
+        "updated_at": "2026-07-12T08:56:20Z"
+      },
+      "repo": {
+        "description": "F\u00b4 - A flight software and embedded systems framework",
+        "forks": 1730,
+        "full_name": "nasa/fprime",
+        "language": "C++",
+        "name": "fprime",
+        "owner": "nasa",
+        "rank": 22,
+        "stars_today": 22,
+        "total_stars": 11535,
+        "url": "https://github.com/nasa/fprime"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 0.78,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 58.81
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: C++ project with 22 stars today; score 58.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-08-15T20:23:51Z",
+        "default_branch": "main",
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "fork": false,
+        "full_name": "anthropics/claude-cookbooks",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 285,
+        "primary_language": "Jupyter Notebook",
+        "pushed_at": "2026-07-10T16:10:19Z",
+        "readme_excerpt": "# Claude Cookbooks The Claude Cookbooks provide code and guides designed to help developers build with Claude, offering copy-able code snippets that you can easily integrate into your own projects. ## Prerequisites To make the most of the examples in this cookbook, you'll need a Claude API key (sign up for free [here](https://www.anthropic.com)). While the code examples are primarily written in Python, the concepts can be adapted to any programming language that supports interaction with the Cla",
+        "topics": [],
+        "updated_at": "2026-07-12T09:26:21Z"
+      },
+      "repo": {
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "forks": 5692,
+        "full_name": "anthropics/claude-cookbooks",
+        "language": "Jupyter Notebook",
+        "name": "claude-cookbooks",
+        "owner": "anthropics",
+        "rank": 20,
+        "stars_today": 219,
+        "total_stars": 48091,
+        "url": "https://github.com/anthropics/claude-cookbooks"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.89,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 58.55
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Jupyter Notebook project with 219 stars today; score 58.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-03-11T06:09:42Z",
+        "default_branch": "main",
+        "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+        "fork": false,
+        "full_name": "dotnet/aspnetcore",
+        "homepage": "https://asp.net",
+        "latest_release": "v10.0.9",
+        "license_spdx": "MIT",
+        "open_issues": 4019,
+        "primary_language": "C#",
+        "pushed_at": "2026-07-12T08:00:26Z",
+        "readme_excerpt": "ASP.NET Core ============ [![.NET Foundation](https://img.shields.io/badge/.NET%20Foundation-blueviolet.svg)](https://www.dotnetfoundation.org/) [![MIT License](https://img.shields.io/github/license/dotnet/aspnetcore?color=%230b0&style=flat-square)](https://github.com/dotnet/aspnetcore/blob/main/LICENSE.txt) [![Help Wanted](https://img.shields.io/github/issues/dotnet/aspnetcore/help%20wanted?color=%232EA043&label=help%20wanted&style=flat-square)](https://github.com/dotnet/aspnetcore/issues?q=is%",
+        "topics": [
+          "aspnetcore",
+          "dotnet",
+          "hacktoberfest",
+          "help-wanted"
+        ],
+        "updated_at": "2026-07-12T09:22:32Z"
+      },
+      "repo": {
+        "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+        "forks": 10885,
+        "full_name": "dotnet/aspnetcore",
+        "language": "C#",
+        "name": "aspnetcore",
+        "owner": "dotnet",
+        "rank": 18,
+        "stars_today": 4,
+        "total_stars": 38330,
+        "url": "https://github.com/dotnet/aspnetcore"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.19,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 57.99
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C# project with 4 stars today; score 58.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2010-11-08T18:22:56Z",
+        "default_branch": "devel",
+        "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+        "fork": false,
+        "full_name": "catchorg/Catch2",
+        "homepage": "https://discord.gg/4CWS9zD",
+        "latest_release": "v3.15.2",
+        "license_spdx": "BSL-1.0",
+        "open_issues": 435,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-10T15:47:36Z",
+        "readme_excerpt": "<a id=\"top\"></a> ![Catch2 logo](data/artwork/catch2-logo-full-with-background.svg) [![Github Releases](https://img.shields.io/github/release/catchorg/catch2.svg)](https://github.com/catchorg/catch2/releases) [![Linux build status](https://github.com/catchorg/Catch2/actions/workflows/linux-simple-builds.yml/badge.svg)](https://github.com/catchorg/Catch2/actions/workflows/linux-simple-builds.yml) [![Linux build status](https://github.com/catchorg/Catch2/actions/workflows/linux-other-builds.yml/bad",
+        "topics": [
+          "bdd",
+          "cpp",
+          "cpp14",
+          "framework",
+          "no-dependencies",
+          "tdd",
+          "test-framework",
+          "testing"
+        ],
+        "updated_at": "2026-07-12T09:27:38Z"
+      },
+      "repo": {
+        "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+        "forks": 3440,
+        "full_name": "catchorg/Catch2",
+        "language": "C++",
+        "name": "Catch2",
+        "owner": "catchorg",
+        "rank": 1,
+        "stars_today": 113,
+        "total_stars": 21212,
+        "url": "https://github.com/catchorg/Catch2"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.64,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 57.47
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: C++ project with 113 stars today; score 57.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-03-13T22:25:48Z",
+        "default_branch": "main",
+        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+        "fork": false,
+        "full_name": "hashicorp/terraform",
+        "homepage": "http://developer.hashicorp.com/terraform",
+        "latest_release": "v1.15.8",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 1911,
+        "primary_language": "Go",
+        "pushed_at": "2026-07-11T12:00:23Z",
+        "readme_excerpt": "# Terraform - Website: https://developer.hashicorp.com/terraform - Forums: [HashiCorp Discuss](https://discuss.hashicorp.com/c/terraform-core) - Documentation: [https://developer.hashicorp.com/terraform/docs](https://developer.hashicorp.com/terraform/docs) - Tutorials: [HashiCorp's Learn Platform](https://developer.hashicorp.com/terraform/tutorials) - Certification Exam: [HashiCorp Certified: Terraform Associate](https://www.hashicorp.com/certification/#hashicorp-certified-terraform-associate) <",
+        "topics": [
+          "cloud",
+          "cloud-management",
+          "graph",
+          "infrastructure-as-code",
+          "terraform"
+        ],
+        "updated_at": "2026-07-12T09:09:05Z"
+      },
+      "repo": {
+        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+        "forks": 10686,
+        "full_name": "hashicorp/terraform",
+        "language": "Go",
+        "name": "terraform",
+        "owner": "hashicorp",
+        "rank": 5,
+        "stars_today": 229,
+        "total_stars": 49424,
+        "url": "https://github.com/hashicorp/terraform"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.14,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 56.3
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 229 stars today; score 56.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-09-09T05:24:56Z",
+        "default_branch": "master",
+        "description": "Mesh optimization library that makes meshes smaller and faster to render",
+        "fork": false,
+        "full_name": "zeux/meshoptimizer",
+        "homepage": "https://meshoptimizer.org/",
+        "latest_release": "v1.2",
+        "license_spdx": "MIT",
+        "open_issues": 7,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-11T16:03:15Z",
+        "readme_excerpt": "# \ud83d\udc07 meshoptimizer [![Actions Status](https://github.com/zeux/meshoptimizer/workflows/build/badge.svg)](https://github.com/zeux/meshoptimizer/actions) [![codecov.io](https://codecov.io/github/zeux/meshoptimizer/coverage.svg?branch=master)](https://codecov.io/github/zeux/meshoptimizer?branch=master) [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md) [![GitHub](https://img.shields.io/badge/repo-github-green.svg)](https://github.com/zeux/meshoptimizer) ## Purpose When a GPU rend",
+        "topics": [
+          "compression",
+          "gltf",
+          "gpu",
+          "mesh-processing",
+          "optimization",
+          "simplification"
+        ],
+        "updated_at": "2026-07-12T08:51:58Z"
+      },
+      "repo": {
+        "description": "Mesh optimization library that makes meshes smaller and faster to render",
+        "forks": 788,
+        "full_name": "zeux/meshoptimizer",
+        "language": "C++",
+        "name": "meshoptimizer",
+        "owner": "zeux",
+        "rank": 6,
+        "stars_today": 110,
+        "total_stars": 8169,
+        "url": "https://github.com/zeux/meshoptimizer"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.9,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 55.5
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 110 stars today; score 55.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-06-20T13:33:47Z",
+        "default_branch": "main",
+        "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+        "fork": false,
+        "full_name": "prisma/prisma",
+        "homepage": "https://www.prisma.io",
+        "latest_release": "7.8.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 2658,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-10T15:03:42Z",
+        "readme_excerpt": "![Prisma](https://i.imgur.com/h6UIYTu.png) <div align=\"center\"> <h1>Prisma</h1> <a href=\"https://www.npmjs.com/package/prisma\"><img src=\"https://img.shields.io/npm/v/prisma.svg?style=flat\" /></a> <a href=\"https://github.com/prisma/prisma/blob/main/CONTRIBUTING.md\"><img src=\"https://img.shields.io/badge/PRs-welcome-brightgreen.svg\" /></a> <a href=\"https://github.com/prisma/prisma/blob/main/LICENSE\"><img src=\"https://img.shields.io/badge/license-Apache%202-blue\" /></a> <a href=\"https://pris.ly/dis",
+        "topics": [
+          "cockroachdb",
+          "database",
+          "javascript",
+          "mariadb",
+          "mongo",
+          "mongodb",
+          "mongodb-orm",
+          "mssql",
+          "mysql",
+          "nodejs",
+          "orm",
+          "postgres",
+          "postgresql",
+          "prisma",
+          "prisma-client",
+          "query-builder",
+          "sql-server",
+          "sqlite",
+          "sqlserver",
+          "typescript"
+        ],
+        "updated_at": "2026-07-12T08:56:45Z"
+      },
+      "repo": {
+        "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+        "forks": 2478,
+        "full_name": "prisma/prisma",
+        "language": "TypeScript",
+        "name": "prisma",
+        "owner": "prisma",
+        "rank": 19,
+        "stars_today": 37,
+        "total_stars": 47319,
+        "url": "https://github.com/prisma/prisma"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.35,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 52.95
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 37 stars today; score 53.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-03-04T00:46:28Z",
+        "default_branch": "develop",
+        "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+        "fork": false,
+        "full_name": "cypress-io/cypress",
+        "homepage": "https://cypress.io",
+        "latest_release": "v15.18.1",
+        "license_spdx": "MIT",
+        "open_issues": 1102,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-12T01:13:46Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://www.cypress.io\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"./assets/cypress-logo-dark.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"./assets/cypress-logo-light.png\"> <img alt=\"Cypress Logo\" src=\"./assets/cypress-logo-light.png\"> </picture> </a> </p> <p align=\"center\"> <a href=\"https://on.cypress.io\">Documentation</a> | <a href=\"https://on.cypress.io/changelog\">Changelog</a> | <a href=\"https://on.cypress.io/roadmap\">Roadmap</a",
+        "topics": [
+          "angular-testing-library",
+          "component-testing",
+          "cypress",
+          "cypress-cloud",
+          "cypress-schematic",
+          "end-to-end-testing",
+          "react-testing-library",
+          "svelte-testing-library",
+          "test-replay",
+          "testing-framework",
+          "testing-library",
+          "testing-tool",
+          "vue-testing-library"
+        ],
+        "updated_at": "2026-07-12T09:25:38Z"
+      },
+      "repo": {
+        "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+        "forks": 3592,
+        "full_name": "cypress-io/cypress",
+        "language": "TypeScript",
+        "name": "cypress",
+        "owner": "cypress-io",
+        "rank": 14,
+        "stars_today": 19,
+        "total_stars": 50666,
+        "url": "https://github.com/cypress-io/cypress"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.9,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 49.87
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 19 stars today; score 49.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-10-05T23:32:51Z",
+        "default_branch": "canary",
+        "description": "The React Framework",
+        "fork": false,
+        "full_name": "vercel/next.js",
+        "homepage": "https://nextjs.org",
+        "latest_release": "v16.2.10",
+        "license_spdx": "MIT",
+        "open_issues": 4175,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-07-12T08:01:28Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://nextjs.org\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png\"> <img alt=\"Next.js logo\" src=\"https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png\" height=\"128\"> </picture> </a> <h1>Next.js</h1> <a href=\"https://vercel.com\"><img alt=\"Vercel logo\" src=\"https://img.shields.io/badge/MADE%20BY%20Vercel-000000.svg?style=for-the-badge&logo",
+        "topics": [
+          "blog",
+          "browser",
+          "compiler",
+          "components",
+          "hybrid",
+          "nextjs",
+          "node",
+          "react",
+          "server-rendering",
+          "ssg",
+          "static",
+          "static-site-generator",
+          "universal",
+          "vercel"
+        ],
+        "updated_at": "2026-07-12T09:14:53Z"
+      },
+      "repo": {
+        "description": "The React Framework",
+        "forks": 31557,
+        "full_name": "vercel/next.js",
+        "language": "JavaScript",
+        "name": "next.js",
+        "owner": "vercel",
+        "rank": 15,
+        "stars_today": 334,
+        "total_stars": 141008,
+        "url": "https://github.com/vercel/next.js"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.67,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 48.53
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: JavaScript project with 334 stars today; score 48.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2021-04-14T00:48:17Z",
+        "default_branch": "main",
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
+        "fork": false,
+        "full_name": "oven-sh/bun",
+        "homepage": "https://bun.com",
+        "latest_release": "bun-v1.3.14",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 7313,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-12T09:18:22Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://bun.com\"><img src=\"https://github.com/user-attachments/assets/50282090-adfd-4ddb-9e27-c30753c6b161\" alt=\"Logo\" height=170></a> </p> <h1 align=\"center\">Bun</h1> <p align=\"center\"> <a href=\"https://bun.com/discord\" target=\"_blank\"><img height=20 src=\"https://img.shields.io/discord/876711213126520882\" /></a> <img src=\"https://img.shields.io/github/stars/oven-sh/bun\" alt=\"stars\"> <a href=\"https://twitter.com/jarredsumner/status/1542824445810642946\"><img src=\"https",
+        "topics": [
+          "bun",
+          "bundler",
+          "javascript",
+          "javascriptcore",
+          "jsx",
+          "nodejs",
+          "npm",
+          "react",
+          "rust",
+          "rust-lang",
+          "transpiler",
+          "typescript"
+        ],
+        "updated_at": "2026-07-12T09:20:09Z"
+      },
+      "repo": {
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
+        "forks": 4964,
+        "full_name": "oven-sh/bun",
+        "language": "Rust",
+        "name": "bun",
+        "owner": "oven-sh",
+        "rank": 10,
+        "stars_today": 658,
+        "total_stars": 94610,
+        "url": "https://github.com/oven-sh/bun"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 8.38,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.42,
+        "technical_quality": 11.2,
+        "total": 48.1
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Rust project with 658 stars today; score 48.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-07-19T17:15:33Z",
+        "default_branch": "main",
+        "description": "Action for checking out a repo",
+        "fork": false,
+        "full_name": "actions/checkout",
+        "homepage": "https://github.com/features/actions",
+        "latest_release": "v7.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 677,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-07T20:35:00Z",
+        "readme_excerpt": "[![Build and Test](https://github.com/actions/checkout/actions/workflows/test.yml/badge.svg)](https://github.com/actions/checkout/actions/workflows/test.yml) # Checkout v7 ## What's new - Safer fork pull request handling: checkout now refuses to check out fork pull request code by default when the workflow is triggered by `pull_request_target` or `workflow_run`. These triggers run with the base repository's `GITHUB_TOKEN`, secrets, and runner access, where executing a fork's code commonly leads ",
+        "topics": [],
+        "updated_at": "2026-07-12T08:56:50Z"
+      },
+      "repo": {
+        "description": "Action for checking out a repo",
+        "forks": 2717,
+        "full_name": "actions/checkout",
+        "language": "TypeScript",
+        "name": "checkout",
+        "owner": "actions",
+        "rank": 11,
+        "stars_today": 8,
+        "total_stars": 8483,
+        "url": "https://github.com/actions/checkout"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.23,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 46.09
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 8 stars today; score 46.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-05-01T17:44:02Z",
+        "default_branch": "main",
+        "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+        "fork": false,
+        "full_name": "microsoft/PowerToys",
+        "homepage": null,
+        "latest_release": "v0.100.2",
+        "license_spdx": "MIT",
+        "open_issues": 7354,
+        "primary_language": "C",
+        "pushed_at": "2026-07-11T23:23:10Z",
+        "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"./doc/images/readme/pt-hero.light.png\" /> <img src=\"./doc/images/readme/pt-hero.dark.png\" /> </picture> </p> <h1 align=\"center\"> <span>Microsoft PowerToys</span> </h1> <p align=\"center\"> <span align=\"center\">Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks.</span> </p> <h3 align=\"center\"> <a href=\"#-installation\">Installation</a> <span> \u00b7 </span> <a hre",
+        "topics": [
+          "advanced-paste",
+          "color-picker",
+          "command-palette",
+          "desktop",
+          "fancyzones",
+          "keyboard-manager",
+          "microsoft-powertoys",
+          "powerrename",
+          "powertoys",
+          "windows",
+          "windows-10",
+          "windows-11"
+        ],
+        "updated_at": "2026-07-12T09:16:35Z"
+      },
+      "repo": {
+        "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+        "forks": 8368,
+        "full_name": "microsoft/PowerToys",
+        "language": "C",
+        "name": "PowerToys",
+        "owner": "microsoft",
+        "rank": 13,
+        "stars_today": 39,
+        "total_stars": 136507,
+        "url": "https://github.com/microsoft/PowerToys"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.23,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 0.91,
+        "technical_quality": 14.0,
+        "total": 45.73
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: C project with 39 stars today; score 45.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/wonderwhy-er",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+        "forks": 978,
+        "full_name": "sponsors/wonderwhy-er",
+        "language": "TypeScript",
+        "name": "wonderwhy-er",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 909,
+        "total_stars": 7847,
+        "url": "https://github.com/sponsors/wonderwhy-er"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 10.99,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.49,
+        "technical_quality": 3.5,
+        "total": 41.62
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 909 stars today; score 41.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2011-02-15T05:18:45Z",
+        "default_branch": "master",
+        "description": "Asio C++ Library",
+        "fork": false,
+        "full_name": "chriskohlhoff/asio",
+        "homepage": "http://think-async.com/Asio",
+        "latest_release": null,
+        "license_spdx": "NOASSERTION",
+        "open_issues": 1071,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-08T09:28:48Z",
+        "readme_excerpt": "asio version 1.38.1 Released Thursday, 14 May 2026. Visit https://think-async.com/ or see packaged doc/index.html for API documentation and a tutorial.",
+        "topics": [],
+        "updated_at": "2026-07-12T08:52:06Z"
+      },
+      "repo": {
+        "description": "Asio C++ Library",
+        "forks": 1510,
+        "full_name": "chriskohlhoff/asio",
+        "language": "C++",
+        "name": "asio",
+        "owner": "chriskohlhoff",
+        "rank": 9,
+        "stars_today": 76,
+        "total_stars": 6156,
+        "url": "https://github.com/chriskohlhoff/asio"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.15,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 3.85,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 41.06
+      },
+      "tags": [
+        "DevTools"
+      ],
+      "verdict": "DevTools: C++ project with 76 stars today; score 41.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 22561,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 21,
+        "stars_today": 740,
+        "total_stars": 252688,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 7.56,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.09,
+        "technical_quality": 3.5,
+        "total": 36.79
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 740 stars today; score 36.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/DayuanJiang",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+        "forks": 3613,
+        "full_name": "sponsors/DayuanJiang",
+        "language": "TypeScript",
+        "name": "DayuanJiang",
+        "owner": "sponsors",
+        "rank": 16,
+        "stars_today": 81,
+        "total_stars": 33399,
+        "url": "https://github.com/sponsors/DayuanJiang"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.19,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 31.34
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 81 stars today; score 31.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/nuxt",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "the full-stack Vue framework",
+        "forks": 5842,
+        "full_name": "sponsors/nuxt",
+        "language": "TypeScript",
+        "name": "nuxt",
+        "owner": "sponsors",
+        "rank": 24,
+        "stars_today": 16,
+        "total_stars": 60758,
+        "url": "https://github.com/sponsors/nuxt"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 0.44,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 27.05
+      },
+      "tags": [
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "DevTools, Watch: TypeScript project with 16 stars today; score 27.1/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-07-12",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is openai/plugins."
+}
