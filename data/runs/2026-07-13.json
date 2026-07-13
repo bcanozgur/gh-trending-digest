@@ -1,0 +1,1449 @@
+{
+  "date": "2026-07-13",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-08T23:46:22Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "pingdotgg/t3code",
+        "homepage": "https://t3.codes",
+        "latest_release": "v0.0.28",
+        "license_spdx": "MIT",
+        "open_issues": 685,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-13T05:22:47Z",
+        "readme_excerpt": "# T3 Code T3 Code is a minimal web GUI for coding agents (currently Codex, Claude, Cursor, and OpenCode, more coming soon). ## Installation > [!WARNING] > T3 Code currently supports Codex, Claude, Cursor, and OpenCode. > Install and authenticate at least one provider before use: > > - Codex: install [Codex CLI](https://developers.openai.com/codex/cli) and run `codex login` > - Claude: install [Claude Code](https://claude.com/product/claude-code) and run `claude auth login` > - Cursor: install [C",
+        "topics": [],
+        "updated_at": "2026-07-13T10:37:24Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 2905,
+        "full_name": "pingdotgg/t3code",
+        "language": "TypeScript",
+        "name": "t3code",
+        "owner": "pingdotgg",
+        "rank": 11,
+        "stars_today": 75,
+        "total_stars": 13872,
+        "url": "https://github.com/pingdotgg/t3code"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 6.16,
+        "momentum": 2.98,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 75.34
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 75 stars today; score 75.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-04-29T05:30:25Z",
+        "default_branch": "main",
+        "description": "100+ AI Agent & RAG apps you can actually run \u2014 clone, customize, ship.",
+        "fork": false,
+        "full_name": "Shubhamsaboo/awesome-llm-apps",
+        "homepage": "https://www.theunwindai.com",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 9,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-11T00:14:37Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"http://www.theunwindai.com\"> <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\"> </a> </p> <p align=\"center\"> <a href=\"https://www.linkedin.com/in/shubhamsaboo/\"> <img src=\"https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white\" alt=\"LinkedIn\"> </a> <a href=\"https://twitter.com/Saboo_Shubham_\"> <img src=\"https://img.shields.io/badge/Follow%20on%20\ud835\udd4f-000000?style=for-the-badge&logo=x&logoColor=whit",
+        "topics": [
+          "agents",
+          "llms",
+          "python",
+          "rag"
+        ],
+        "updated_at": "2026-07-13T10:36:59Z"
+      },
+      "repo": {
+        "description": "100+ AI Agent & RAG apps you can actually run \u2014 clone, customize, ship.",
+        "forks": 17700,
+        "full_name": "Shubhamsaboo/awesome-llm-apps",
+        "language": "Python",
+        "name": "awesome-llm-apps",
+        "owner": "Shubhamsaboo",
+        "rank": 5,
+        "stars_today": 408,
+        "total_stars": 119120,
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.49,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.9,
+        "total": 75.04
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 408 stars today; score 75.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-01T09:52:20Z",
+        "default_branch": "main",
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "fork": false,
+        "full_name": "HKUDS/Vibe-Trading",
+        "homepage": "https://vibetrading.wiki/",
+        "latest_release": "v0.1.11",
+        "license_spdx": "MIT",
+        "open_issues": 12,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-13T05:08:00Z",
+        "readme_excerpt": "<p align=\"center\"> <b>English</b> | <a href=\"README_zh.md\">\u4e2d\u6587</a> | <a href=\"README_ja.md\">\u65e5\u672c\u8a9e</a> | <a href=\"README_ko.md\">\ud55c\uad6d\uc5b4</a> | <a href=\"README_ar.md\">\u0627\u0644\u0639\u0631\u0628\u064a\u0629</a> </p> <p align=\"center\"> <img src=\"assets/icon.png\" width=\"120\" alt=\"Vibe-Trading Logo\"/> </p> <h1 align=\"center\">Vibe-Trading: Your Personal Trading Agent</h1> <p align=\"center\"> <b>One Command to Empower Your Agent with Comprehensive Trading Capabilities</b> </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/255",
+        "topics": [
+          "ai-agent",
+          "algorithmic-trading",
+          "backtesting",
+          "fintech",
+          "llm",
+          "mcp",
+          "multi-agent",
+          "python",
+          "quantitative-finance",
+          "trading"
+        ],
+        "updated_at": "2026-07-13T10:39:26Z"
+      },
+      "repo": {
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "forks": 3676,
+        "full_name": "HKUDS/Vibe-Trading",
+        "language": "Python",
+        "name": "Vibe-Trading",
+        "owner": "HKUDS",
+        "rank": 3,
+        "stars_today": 768,
+        "total_stars": 21125,
+        "url": "https://github.com/HKUDS/Vibe-Trading"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.71,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 72.31
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 768 stars today; score 72.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-27T20:47:10Z",
+        "default_branch": "main",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "fork": false,
+        "full_name": "Nutlope/hallmark",
+        "homepage": "https://www.usehallmark.com/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 6,
+        "primary_language": "CSS",
+        "pushed_at": "2026-06-26T10:08:58Z",
+        "readme_excerpt": "# Hallmark **A design skill for Claude Code, Cursor, and Codex that refuses to look AI-generated.** [Live demo \u2192](https://www.usehallmark.com) &nbsp;\u00b7&nbsp; twenty themes &nbsp;\u00b7&nbsp; four verbs &nbsp;\u00b7&nbsp; press `T` to cycle. Made by Together AI. <p align=\"center\"> <img src=\"site/OG-hallmark.png\" alt=\"Hallmark, a design skill that refuses to look AI-generated\" /> </p> Hallmark picks a macrostructure for the brief, dresses it in one of twenty themes, runs fifty-seven slop-test gates plus a pr",
+        "topics": [],
+        "updated_at": "2026-07-13T10:36:35Z"
+      },
+      "repo": {
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "forks": 260,
+        "full_name": "Nutlope/hallmark",
+        "language": "CSS",
+        "name": "hallmark",
+        "owner": "Nutlope",
+        "rank": 17,
+        "stars_today": 155,
+        "total_stars": 4671,
+        "url": "https://github.com/Nutlope/hallmark"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.99,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 69.79
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: CSS project with 155 stars today; score 69.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-11-29T16:30:01Z",
+        "default_branch": "main",
+        "description": "An AI Hedge Fund Team",
+        "fork": false,
+        "full_name": "virattt/ai-hedge-fund",
+        "homepage": null,
+        "latest_release": "v2026.7.10",
+        "license_spdx": "MIT",
+        "open_issues": 151,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-10T19:24:04Z",
+        "readme_excerpt": "# AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment. > **\ud83d\udea7 The project is evolving.** We're rebuilding it into a persistent, always-on AI hedge fund \u2014 a *fund* as a first-class entity you can backtest, paper-trade, and (opt-in) run live, with the investor agents reimagined as pluggable, backtestab",
+        "topics": [],
+        "updated_at": "2026-07-13T10:31:05Z"
+      },
+      "repo": {
+        "description": "An AI Hedge Fund Team",
+        "forks": 10876,
+        "full_name": "virattt/ai-hedge-fund",
+        "language": "Python",
+        "name": "ai-hedge-fund",
+        "owner": "virattt",
+        "rank": 12,
+        "stars_today": 115,
+        "total_stars": 61564,
+        "url": "https://github.com/virattt/ai-hedge-fund"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.27,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 68.02
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 115 stars today; score 68.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-25T18:45:47Z",
+        "default_branch": "main",
+        "description": "An open-source background agents coding system",
+        "fork": false,
+        "full_name": "ColeMurray/background-agents",
+        "homepage": "https://backgroundagents.dev",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 53,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-13T07:32:18Z",
+        "readme_excerpt": "# Background Agents: Open-Inspect An open-source background agents coding system inspired by [Ramp's Inspect](https://builders.ramp.com/post/why-we-built-our-background-agent). ## Overview Open-Inspect provides a hosted background coding agent that can: - Work on tasks in the background while you focus on other things - Access full development environments (Node.js, Python, git, browser automation, VS Code) - Connect from anywhere \u2014 web UI, Slack, GitHub PRs, Linear issues, or webhooks - Enable ",
+        "topics": [],
+        "updated_at": "2026-07-13T10:34:14Z"
+      },
+      "repo": {
+        "description": "An open-source background agents coding system",
+        "forks": 346,
+        "full_name": "ColeMurray/background-agents",
+        "language": "TypeScript",
+        "name": "background-agents",
+        "owner": "ColeMurray",
+        "rank": 9,
+        "stars_today": 16,
+        "total_stars": 2373,
+        "url": "https://github.com/ColeMurray/background-agents"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.62,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 64.92
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 16 stars today; score 64.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-06-29T21:59:26Z",
+        "default_branch": "main",
+        "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+        "fork": false,
+        "full_name": "PrefectHQ/prefect",
+        "homepage": "https://prefect.io",
+        "latest_release": "3.7.8",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 812,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-13T10:07:48Z",
+        "readme_excerpt": "<p align=\"center\"><img src=\"https://github.com/PrefectHQ/prefect/assets/3407835/c654cbc6-63e8-4ada-a92a-efd2f8f24b85\" width=1000></p> <p align=\"center\"> <a href=\"https://pypi.org/project/prefect/\" alt=\"PyPI version\"> <img alt=\"PyPI\" src=\"https://img.shields.io/pypi/v/prefect?color=0052FF&labelColor=090422\" /> </a> <a href=\"https://pypi.org/project/prefect/\" alt=\"PyPI downloads/month\"> <img alt=\"Downloads\" src=\"https://img.shields.io/pypi/dm/prefect?color=0052FF&labelColor=090422\" /> </a> <a href",
+        "topics": [
+          "automation",
+          "data",
+          "data-engineering",
+          "data-ops",
+          "data-science",
+          "infrastructure",
+          "ml-ops",
+          "observability",
+          "orchestration",
+          "pipeline",
+          "prefect",
+          "python",
+          "workflow",
+          "workflow-engine"
+        ],
+        "updated_at": "2026-07-13T10:32:03Z"
+      },
+      "repo": {
+        "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+        "forks": 2403,
+        "full_name": "PrefectHQ/prefect",
+        "language": "Python",
+        "name": "prefect",
+        "owner": "PrefectHQ",
+        "rank": 4,
+        "stars_today": 66,
+        "total_stars": 23298,
+        "url": "https://github.com/PrefectHQ/prefect"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.89,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 64.8
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 66 stars today; score 64.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-06-24T15:35:01Z",
+        "default_branch": "main",
+        "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered\u2014anytime, anywhere.",
+        "fork": false,
+        "full_name": "Crosstalk-Solutions/project-nomad",
+        "homepage": null,
+        "latest_release": "v1.33.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 69,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-12T21:46:42Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"admin/public/project_nomad_logo.webp\" width=\"200\" height=\"200\"/> # Project N.O.M.A.D. ### Node for Offline Media, Archives, and Data **Knowledge That Never Goes Offline** [![Website](https://img.shields.io/badge/Website-projectnomad.us-blue)](https://www.projectnomad.us) [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2)](https://discord.com/invite/crosstalksolutions) [![Benchmark](https://img.shields.io/badge/Benchmark-Leaderboard-green)](ht",
+        "topics": [],
+        "updated_at": "2026-07-13T10:31:28Z"
+      },
+      "repo": {
+        "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered\u2014anytime, anywhere.",
+        "forks": 3406,
+        "full_name": "Crosstalk-Solutions/project-nomad",
+        "language": "TypeScript",
+        "name": "project-nomad",
+        "owner": "Crosstalk-Solutions",
+        "rank": 8,
+        "stars_today": 125,
+        "total_stars": 33991,
+        "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.96,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.71
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 125 stars today; score 59.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-11-17T20:02:10Z",
+        "default_branch": "master",
+        "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+        "fork": false,
+        "full_name": "k1tbyte/Wand-Enhancer",
+        "homepage": "https://gitlab.com/kitbyte/wand-enhancer",
+        "latest_release": "1.0.9.3",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 22,
+        "primary_language": "C#",
+        "pushed_at": "2026-07-04T08:37:38Z",
+        "readme_excerpt": "<div align=\"center\"> ![logo](./assets/icon.svg) # WandEnhancer [![GitLab Mirror](https://img.shields.io/badge/GitLab-mirror-fc6d26?logo=gitlab)](https://gitlab.com/kitbyte/wand-enhancer) </div> <h4>An open-source interoperability tool designed to extend local client-side configurations and improve the UX of the Wand application.</h4> **\ud83d\udea8 IMPORTANT NOTICE: THIS PROJECT HAS NO OFFICIAL YOUTUBE TUTORIALS, GUIDES, OR PREBUILT EXECUTABLE DOWNLOADS. \ud83d\udea8 There are no official videos showing how to instal",
+        "topics": [
+          "csharp",
+          "wand",
+          "wand-enhancer",
+          "wand-pro",
+          "wemod",
+          "wpf"
+        ],
+        "updated_at": "2026-07-13T10:35:59Z"
+      },
+      "repo": {
+        "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+        "forks": 19864,
+        "full_name": "k1tbyte/Wand-Enhancer",
+        "language": "C#",
+        "name": "Wand-Enhancer",
+        "owner": "k1tbyte",
+        "rank": 10,
+        "stars_today": 609,
+        "total_stars": 7123,
+        "url": "https://github.com/k1tbyte/Wand-Enhancer"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 8.96,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.66,
+        "technical_quality": 14.0,
+        "total": 58.67
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: C# project with 609 stars today; score 58.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-11T12:46:36Z",
+        "default_branch": "main",
+        "description": "An experimental PlayStation 5 emulator project.",
+        "fork": false,
+        "full_name": "par274/sharpemu",
+        "homepage": null,
+        "latest_release": "win64-main-3d2c30b",
+        "license_spdx": "GPL-2.0",
+        "open_issues": 21,
+        "primary_language": "C#",
+        "pushed_at": "2026-07-13T09:48:50Z",
+        "readme_excerpt": "\ufeff<!-- Copyright (C) 2026 SharpEmu Emulator Project SPDX-License-Identifier: GPL-2.0-or-later --> # SharpEmu <p align=\"center\"> <img src=\"./assets/images/logo.png\" width=30% height=30% /> </p> <p align=\"center\"> An experimental PlayStation 5 emulator for Windows, Linux and macOS. </p> <p align=\"center\"> <a href=\"https://discord.gg/6GejPEDqpc\"> <img src=\"https://img.shields.io/badge/Discord-Join%20our%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Join our Discord\"> </a>",
+        "topics": [
+          "csharp",
+          "emulation",
+          "emulator",
+          "playstation5",
+          "ps5",
+          "windows"
+        ],
+        "updated_at": "2026-07-13T10:39:15Z"
+      },
+      "repo": {
+        "description": "An experimental PlayStation 5 emulator project.",
+        "forks": 87,
+        "full_name": "par274/sharpemu",
+        "language": "C#",
+        "name": "sharpemu",
+        "owner": "par274",
+        "rank": 15,
+        "stars_today": 314,
+        "total_stars": 1464,
+        "url": "https://github.com/par274/sharpemu"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.02,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 2.05,
+        "technical_quality": 14.0,
+        "total": 52.07
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: C# project with 314 stars today; score 52.1/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-08T23:46:22Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "pingdotgg/t3code",
+        "homepage": "https://t3.codes",
+        "latest_release": "v0.0.28",
+        "license_spdx": "MIT",
+        "open_issues": 685,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-13T05:22:47Z",
+        "readme_excerpt": "# T3 Code T3 Code is a minimal web GUI for coding agents (currently Codex, Claude, Cursor, and OpenCode, more coming soon). ## Installation > [!WARNING] > T3 Code currently supports Codex, Claude, Cursor, and OpenCode. > Install and authenticate at least one provider before use: > > - Codex: install [Codex CLI](https://developers.openai.com/codex/cli) and run `codex login` > - Claude: install [Claude Code](https://claude.com/product/claude-code) and run `claude auth login` > - Cursor: install [C",
+        "topics": [],
+        "updated_at": "2026-07-13T10:37:24Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 2905,
+        "full_name": "pingdotgg/t3code",
+        "language": "TypeScript",
+        "name": "t3code",
+        "owner": "pingdotgg",
+        "rank": 11,
+        "stars_today": 75,
+        "total_stars": 13872,
+        "url": "https://github.com/pingdotgg/t3code"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 6.16,
+        "momentum": 2.98,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 75.34
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 75 stars today; score 75.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-04-29T05:30:25Z",
+        "default_branch": "main",
+        "description": "100+ AI Agent & RAG apps you can actually run \u2014 clone, customize, ship.",
+        "fork": false,
+        "full_name": "Shubhamsaboo/awesome-llm-apps",
+        "homepage": "https://www.theunwindai.com",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 9,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-11T00:14:37Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"http://www.theunwindai.com\"> <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\"> </a> </p> <p align=\"center\"> <a href=\"https://www.linkedin.com/in/shubhamsaboo/\"> <img src=\"https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white\" alt=\"LinkedIn\"> </a> <a href=\"https://twitter.com/Saboo_Shubham_\"> <img src=\"https://img.shields.io/badge/Follow%20on%20\ud835\udd4f-000000?style=for-the-badge&logo=x&logoColor=whit",
+        "topics": [
+          "agents",
+          "llms",
+          "python",
+          "rag"
+        ],
+        "updated_at": "2026-07-13T10:36:59Z"
+      },
+      "repo": {
+        "description": "100+ AI Agent & RAG apps you can actually run \u2014 clone, customize, ship.",
+        "forks": 17700,
+        "full_name": "Shubhamsaboo/awesome-llm-apps",
+        "language": "Python",
+        "name": "awesome-llm-apps",
+        "owner": "Shubhamsaboo",
+        "rank": 5,
+        "stars_today": 408,
+        "total_stars": 119120,
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.49,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.9,
+        "total": 75.04
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 408 stars today; score 75.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-01T09:52:20Z",
+        "default_branch": "main",
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "fork": false,
+        "full_name": "HKUDS/Vibe-Trading",
+        "homepage": "https://vibetrading.wiki/",
+        "latest_release": "v0.1.11",
+        "license_spdx": "MIT",
+        "open_issues": 12,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-13T05:08:00Z",
+        "readme_excerpt": "<p align=\"center\"> <b>English</b> | <a href=\"README_zh.md\">\u4e2d\u6587</a> | <a href=\"README_ja.md\">\u65e5\u672c\u8a9e</a> | <a href=\"README_ko.md\">\ud55c\uad6d\uc5b4</a> | <a href=\"README_ar.md\">\u0627\u0644\u0639\u0631\u0628\u064a\u0629</a> </p> <p align=\"center\"> <img src=\"assets/icon.png\" width=\"120\" alt=\"Vibe-Trading Logo\"/> </p> <h1 align=\"center\">Vibe-Trading: Your Personal Trading Agent</h1> <p align=\"center\"> <b>One Command to Empower Your Agent with Comprehensive Trading Capabilities</b> </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/255",
+        "topics": [
+          "ai-agent",
+          "algorithmic-trading",
+          "backtesting",
+          "fintech",
+          "llm",
+          "mcp",
+          "multi-agent",
+          "python",
+          "quantitative-finance",
+          "trading"
+        ],
+        "updated_at": "2026-07-13T10:39:26Z"
+      },
+      "repo": {
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "forks": 3676,
+        "full_name": "HKUDS/Vibe-Trading",
+        "language": "Python",
+        "name": "Vibe-Trading",
+        "owner": "HKUDS",
+        "rank": 3,
+        "stars_today": 768,
+        "total_stars": 21125,
+        "url": "https://github.com/HKUDS/Vibe-Trading"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.71,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 72.31
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 768 stars today; score 72.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-27T20:47:10Z",
+        "default_branch": "main",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "fork": false,
+        "full_name": "Nutlope/hallmark",
+        "homepage": "https://www.usehallmark.com/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 6,
+        "primary_language": "CSS",
+        "pushed_at": "2026-06-26T10:08:58Z",
+        "readme_excerpt": "# Hallmark **A design skill for Claude Code, Cursor, and Codex that refuses to look AI-generated.** [Live demo \u2192](https://www.usehallmark.com) &nbsp;\u00b7&nbsp; twenty themes &nbsp;\u00b7&nbsp; four verbs &nbsp;\u00b7&nbsp; press `T` to cycle. Made by Together AI. <p align=\"center\"> <img src=\"site/OG-hallmark.png\" alt=\"Hallmark, a design skill that refuses to look AI-generated\" /> </p> Hallmark picks a macrostructure for the brief, dresses it in one of twenty themes, runs fifty-seven slop-test gates plus a pr",
+        "topics": [],
+        "updated_at": "2026-07-13T10:36:35Z"
+      },
+      "repo": {
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "forks": 260,
+        "full_name": "Nutlope/hallmark",
+        "language": "CSS",
+        "name": "hallmark",
+        "owner": "Nutlope",
+        "rank": 17,
+        "stars_today": 155,
+        "total_stars": 4671,
+        "url": "https://github.com/Nutlope/hallmark"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.99,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 69.79
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: CSS project with 155 stars today; score 69.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-11-29T16:30:01Z",
+        "default_branch": "main",
+        "description": "An AI Hedge Fund Team",
+        "fork": false,
+        "full_name": "virattt/ai-hedge-fund",
+        "homepage": null,
+        "latest_release": "v2026.7.10",
+        "license_spdx": "MIT",
+        "open_issues": 151,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-10T19:24:04Z",
+        "readme_excerpt": "# AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment. > **\ud83d\udea7 The project is evolving.** We're rebuilding it into a persistent, always-on AI hedge fund \u2014 a *fund* as a first-class entity you can backtest, paper-trade, and (opt-in) run live, with the investor agents reimagined as pluggable, backtestab",
+        "topics": [],
+        "updated_at": "2026-07-13T10:31:05Z"
+      },
+      "repo": {
+        "description": "An AI Hedge Fund Team",
+        "forks": 10876,
+        "full_name": "virattt/ai-hedge-fund",
+        "language": "Python",
+        "name": "ai-hedge-fund",
+        "owner": "virattt",
+        "rank": 12,
+        "stars_today": 115,
+        "total_stars": 61564,
+        "url": "https://github.com/virattt/ai-hedge-fund"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.27,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 68.02
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 115 stars today; score 68.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-25T18:45:47Z",
+        "default_branch": "main",
+        "description": "An open-source background agents coding system",
+        "fork": false,
+        "full_name": "ColeMurray/background-agents",
+        "homepage": "https://backgroundagents.dev",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 53,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-13T07:32:18Z",
+        "readme_excerpt": "# Background Agents: Open-Inspect An open-source background agents coding system inspired by [Ramp's Inspect](https://builders.ramp.com/post/why-we-built-our-background-agent). ## Overview Open-Inspect provides a hosted background coding agent that can: - Work on tasks in the background while you focus on other things - Access full development environments (Node.js, Python, git, browser automation, VS Code) - Connect from anywhere \u2014 web UI, Slack, GitHub PRs, Linear issues, or webhooks - Enable ",
+        "topics": [],
+        "updated_at": "2026-07-13T10:34:14Z"
+      },
+      "repo": {
+        "description": "An open-source background agents coding system",
+        "forks": 346,
+        "full_name": "ColeMurray/background-agents",
+        "language": "TypeScript",
+        "name": "background-agents",
+        "owner": "ColeMurray",
+        "rank": 9,
+        "stars_today": 16,
+        "total_stars": 2373,
+        "url": "https://github.com/ColeMurray/background-agents"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.62,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 64.92
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 16 stars today; score 64.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-06-29T21:59:26Z",
+        "default_branch": "main",
+        "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+        "fork": false,
+        "full_name": "PrefectHQ/prefect",
+        "homepage": "https://prefect.io",
+        "latest_release": "3.7.8",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 812,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-13T10:07:48Z",
+        "readme_excerpt": "<p align=\"center\"><img src=\"https://github.com/PrefectHQ/prefect/assets/3407835/c654cbc6-63e8-4ada-a92a-efd2f8f24b85\" width=1000></p> <p align=\"center\"> <a href=\"https://pypi.org/project/prefect/\" alt=\"PyPI version\"> <img alt=\"PyPI\" src=\"https://img.shields.io/pypi/v/prefect?color=0052FF&labelColor=090422\" /> </a> <a href=\"https://pypi.org/project/prefect/\" alt=\"PyPI downloads/month\"> <img alt=\"Downloads\" src=\"https://img.shields.io/pypi/dm/prefect?color=0052FF&labelColor=090422\" /> </a> <a href",
+        "topics": [
+          "automation",
+          "data",
+          "data-engineering",
+          "data-ops",
+          "data-science",
+          "infrastructure",
+          "ml-ops",
+          "observability",
+          "orchestration",
+          "pipeline",
+          "prefect",
+          "python",
+          "workflow",
+          "workflow-engine"
+        ],
+        "updated_at": "2026-07-13T10:32:03Z"
+      },
+      "repo": {
+        "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+        "forks": 2403,
+        "full_name": "PrefectHQ/prefect",
+        "language": "Python",
+        "name": "prefect",
+        "owner": "PrefectHQ",
+        "rank": 4,
+        "stars_today": 66,
+        "total_stars": 23298,
+        "url": "https://github.com/PrefectHQ/prefect"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.89,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 64.8
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 66 stars today; score 64.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-08-15T20:23:51Z",
+        "default_branch": "main",
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "fork": false,
+        "full_name": "anthropics/claude-cookbooks",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 286,
+        "primary_language": "Jupyter Notebook",
+        "pushed_at": "2026-07-10T16:10:19Z",
+        "readme_excerpt": "# Claude Cookbooks The Claude Cookbooks provide code and guides designed to help developers build with Claude, offering copy-able code snippets that you can easily integrate into your own projects. ## Prerequisites To make the most of the examples in this cookbook, you'll need a Claude API key (sign up for free [here](https://www.anthropic.com)). While the code examples are primarily written in Python, the concepts can be adapted to any programming language that supports interaction with the Cla",
+        "topics": [],
+        "updated_at": "2026-07-13T10:32:29Z"
+      },
+      "repo": {
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "forks": 5751,
+        "full_name": "anthropics/claude-cookbooks",
+        "language": "Jupyter Notebook",
+        "name": "claude-cookbooks",
+        "owner": "anthropics",
+        "rank": 6,
+        "stars_today": 459,
+        "total_stars": 48691,
+        "url": "https://github.com/anthropics/claude-cookbooks"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 8.96,
+        "momentum": 7.9,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 63.56
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Jupyter Notebook project with 459 stars today; score 63.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2013-09-17T07:29:48Z",
+        "default_branch": "dev",
+        "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+        "fork": false,
+        "full_name": "home-assistant/core",
+        "homepage": "https://www.home-assistant.io",
+        "latest_release": "2026.7.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 3323,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-13T10:38:46Z",
+        "readme_excerpt": "Home Assistant |Chat Status| ================================================================================= Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server. Check out `home-assistant.io <https://home-assistant.io>`__ for `a demo <https://demo.home-assistant.io>`__, `installation instructions <https://home-assistant.io/getting-started/>`__, `tutorials <ht",
+        "topics": [
+          "asyncio",
+          "hacktoberfest",
+          "home-automation",
+          "internet-of-things",
+          "iot",
+          "mqtt",
+          "python",
+          "raspberry-pi"
+        ],
+        "updated_at": "2026-07-13T10:38:56Z"
+      },
+      "repo": {
+        "description": "\ud83c\udfe1 Open source home automation that puts local control and privacy first.",
+        "forks": 38100,
+        "full_name": "home-assistant/core",
+        "language": "Python",
+        "name": "core",
+        "owner": "home-assistant",
+        "rank": 7,
+        "stars_today": 400,
+        "total_stars": 89303,
+        "url": "https://github.com/home-assistant/core"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 8.96,
+        "momentum": 7.11,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 61.5
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 400 stars today; score 61.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-06-24T15:35:01Z",
+        "default_branch": "main",
+        "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered\u2014anytime, anywhere.",
+        "fork": false,
+        "full_name": "Crosstalk-Solutions/project-nomad",
+        "homepage": null,
+        "latest_release": "v1.33.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 69,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-12T21:46:42Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"admin/public/project_nomad_logo.webp\" width=\"200\" height=\"200\"/> # Project N.O.M.A.D. ### Node for Offline Media, Archives, and Data **Knowledge That Never Goes Offline** [![Website](https://img.shields.io/badge/Website-projectnomad.us-blue)](https://www.projectnomad.us) [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2)](https://discord.com/invite/crosstalksolutions) [![Benchmark](https://img.shields.io/badge/Benchmark-Leaderboard-green)](ht",
+        "topics": [],
+        "updated_at": "2026-07-13T10:31:28Z"
+      },
+      "repo": {
+        "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered\u2014anytime, anywhere.",
+        "forks": 3406,
+        "full_name": "Crosstalk-Solutions/project-nomad",
+        "language": "TypeScript",
+        "name": "project-nomad",
+        "owner": "Crosstalk-Solutions",
+        "rank": 8,
+        "stars_today": 125,
+        "total_stars": 33991,
+        "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.96,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.71
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 125 stars today; score 59.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-11-17T20:02:10Z",
+        "default_branch": "master",
+        "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+        "fork": false,
+        "full_name": "k1tbyte/Wand-Enhancer",
+        "homepage": "https://gitlab.com/kitbyte/wand-enhancer",
+        "latest_release": "1.0.9.3",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 22,
+        "primary_language": "C#",
+        "pushed_at": "2026-07-04T08:37:38Z",
+        "readme_excerpt": "<div align=\"center\"> ![logo](./assets/icon.svg) # WandEnhancer [![GitLab Mirror](https://img.shields.io/badge/GitLab-mirror-fc6d26?logo=gitlab)](https://gitlab.com/kitbyte/wand-enhancer) </div> <h4>An open-source interoperability tool designed to extend local client-side configurations and improve the UX of the Wand application.</h4> **\ud83d\udea8 IMPORTANT NOTICE: THIS PROJECT HAS NO OFFICIAL YOUTUBE TUTORIALS, GUIDES, OR PREBUILT EXECUTABLE DOWNLOADS. \ud83d\udea8 There are no official videos showing how to instal",
+        "topics": [
+          "csharp",
+          "wand",
+          "wand-enhancer",
+          "wand-pro",
+          "wemod",
+          "wpf"
+        ],
+        "updated_at": "2026-07-13T10:35:59Z"
+      },
+      "repo": {
+        "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+        "forks": 19864,
+        "full_name": "k1tbyte/Wand-Enhancer",
+        "language": "C#",
+        "name": "Wand-Enhancer",
+        "owner": "k1tbyte",
+        "rank": 10,
+        "stars_today": 609,
+        "total_stars": 7123,
+        "url": "https://github.com/k1tbyte/Wand-Enhancer"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 8.96,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.66,
+        "technical_quality": 14.0,
+        "total": 58.67
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: C# project with 609 stars today; score 58.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-20T03:35:59Z",
+        "default_branch": "main",
+        "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+        "fork": false,
+        "full_name": "malisper/pgrust",
+        "homepage": "https://pgrust.com",
+        "latest_release": null,
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 20,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-10T07:04:48Z",
+        "readme_excerpt": "<h1 align=\"center\">pgrust</h1> <p align=\"center\"> <strong>A Postgres rewrite in Rust.</strong> </p> <p align=\"center\"> <img alt=\"Postgres 18.3\" src=\"https://img.shields.io/badge/Postgres-18.3-336791\"> <img alt=\"Regression queries: 46k+\" src=\"https://img.shields.io/badge/regression_queries-46k%2B-brightgreen\"> <a href=\"https://github.com/malisper/pgrust/blob/main/LICENSE\"> <img alt=\"License: AGPL-3.0\" src=\"https://img.shields.io/badge/license-AGPL--3.0-blue\"> </a> </p> <div align=\"center\"> <a hre",
+        "topics": [
+          "ai-assisted-development",
+          "database",
+          "postgres",
+          "postgresql",
+          "rust"
+        ],
+        "updated_at": "2026-07-13T10:37:11Z"
+      },
+      "repo": {
+        "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+        "forks": 77,
+        "full_name": "malisper/pgrust",
+        "language": "Rust",
+        "name": "pgrust",
+        "owner": "malisper",
+        "rank": 16,
+        "stars_today": 518,
+        "total_stars": 2700,
+        "url": "https://github.com/malisper/pgrust"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.11,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 55.21
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 518 stars today; score 55.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-11T12:46:36Z",
+        "default_branch": "main",
+        "description": "An experimental PlayStation 5 emulator project.",
+        "fork": false,
+        "full_name": "par274/sharpemu",
+        "homepage": null,
+        "latest_release": "win64-main-3d2c30b",
+        "license_spdx": "GPL-2.0",
+        "open_issues": 21,
+        "primary_language": "C#",
+        "pushed_at": "2026-07-13T09:48:50Z",
+        "readme_excerpt": "\ufeff<!-- Copyright (C) 2026 SharpEmu Emulator Project SPDX-License-Identifier: GPL-2.0-or-later --> # SharpEmu <p align=\"center\"> <img src=\"./assets/images/logo.png\" width=30% height=30% /> </p> <p align=\"center\"> An experimental PlayStation 5 emulator for Windows, Linux and macOS. </p> <p align=\"center\"> <a href=\"https://discord.gg/6GejPEDqpc\"> <img src=\"https://img.shields.io/badge/Discord-Join%20our%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Join our Discord\"> </a>",
+        "topics": [
+          "csharp",
+          "emulation",
+          "emulator",
+          "playstation5",
+          "ps5",
+          "windows"
+        ],
+        "updated_at": "2026-07-13T10:39:15Z"
+      },
+      "repo": {
+        "description": "An experimental PlayStation 5 emulator project.",
+        "forks": 87,
+        "full_name": "par274/sharpemu",
+        "language": "C#",
+        "name": "sharpemu",
+        "owner": "par274",
+        "rank": 15,
+        "stars_today": 314,
+        "total_stars": 1464,
+        "url": "https://github.com/par274/sharpemu"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.02,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 2.05,
+        "technical_quality": 14.0,
+        "total": 52.07
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: C# project with 314 stars today; score 52.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-08-15T07:47:22Z",
+        "default_branch": "main",
+        "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+        "fork": false,
+        "full_name": "chen08209/FlClash",
+        "homepage": null,
+        "latest_release": "v0.8.94",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 530,
+        "primary_language": "Dart",
+        "pushed_at": "2026-07-13T09:36:49Z",
+        "readme_excerpt": "<div> [**\u7b80\u4f53\u4e2d\u6587**](README_zh_CN.md) </div> ## FlClash [![Downloads](https://img.shields.io/github/downloads/chen08209/FlClash/total?style=flat-square&logo=github)](https://github.com/chen08209/FlClash/releases/)[![Last Version](https://img.shields.io/github/release/chen08209/FlClash/all.svg?style=flat-square)](https://github.com/chen08209/FlClash/releases/)[![License](https://img.shields.io/github/license/chen08209/FlClash?style=flat-square)](LICENSE) [![Channel](https://img.shields.io/badge/Teleg",
+        "topics": [
+          "clash",
+          "clash-meta",
+          "flutter",
+          "hysteria",
+          "multi-platform",
+          "proxy",
+          "v2ray",
+          "vless",
+          "vpn"
+        ],
+        "updated_at": "2026-07-13T10:30:24Z"
+      },
+      "repo": {
+        "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+        "forks": 2867,
+        "full_name": "chen08209/FlClash",
+        "language": "Dart",
+        "name": "FlClash",
+        "owner": "chen08209",
+        "rank": 13,
+        "stars_today": 154,
+        "total_stars": 45404,
+        "url": "https://github.com/chen08209/FlClash"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.56,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 51.57
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Dart project with 154 stars today; score 51.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/Dicklesworthstone",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+        "forks": 129,
+        "full_name": "sponsors/Dicklesworthstone",
+        "language": "Rust",
+        "name": "Dicklesworthstone",
+        "owner": "sponsors",
+        "rank": 1,
+        "stars_today": 444,
+        "total_stars": 3559,
+        "url": "https://github.com/sponsors/Dicklesworthstone"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 8.46,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 42.11
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Rust project with 444 stars today; score 42.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/davila7",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "forks": 3212,
+        "full_name": "sponsors/davila7",
+        "language": "Python",
+        "name": "davila7",
+        "owner": "sponsors",
+        "rank": 14,
+        "stars_today": 274,
+        "total_stars": 29349,
+        "url": "https://github.com/sponsors/davila7"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.72,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 39.07
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 274 stars today; score 39.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/wonderwhy-er",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+        "forks": 994,
+        "full_name": "sponsors/wonderwhy-er",
+        "language": "TypeScript",
+        "name": "wonderwhy-er",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 210,
+        "total_stars": 8124,
+        "url": "https://github.com/sponsors/wonderwhy-er"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.75,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 34.9
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 210 stars today; score 34.9/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-07-13",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is pingdotgg/t3code."
+}

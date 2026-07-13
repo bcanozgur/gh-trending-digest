@@ -1,0 +1,34 @@
+GitHub Trending: AI workflow signal - 2026-07-13
+
+Today leans toward AI workflow signal; the strongest pick is pingdotgg/t3code.
+
+Top picks
+1. pingdotgg/t3code - 75.3/100
+   https://github.com/pingdotgg/t3code
+   AI Workflow, DevTools: TypeScript project with 75 stars today; score 75.3/100.
+2. Shubhamsaboo/awesome-llm-apps - 75.0/100
+   https://github.com/Shubhamsaboo/awesome-llm-apps
+   AI Workflow, Try Today: Python project with 408 stars today; score 75.0/100.
+3. HKUDS/Vibe-Trading - 72.3/100
+   https://github.com/HKUDS/Vibe-Trading
+   AI Workflow, DevTools: Python project with 768 stars today; score 72.3/100.
+4. Nutlope/hallmark - 69.8/100
+   https://github.com/Nutlope/hallmark
+   AI Workflow, Try Today: CSS project with 155 stars today; score 69.8/100.
+5. virattt/ai-hedge-fund - 68.0/100
+   https://github.com/virattt/ai-hedge-fund
+   AI Workflow, Try Today: Python project with 115 stars today; score 68.0/100.
+
+Full reviewed list
+- pingdotgg/t3code: 75.3/100 [AI Workflow, DevTools, Deep Dive] AI Workflow, DevTools: TypeScript project with 75 stars today; score 75.3/100.
+- Shubhamsaboo/awesome-llm-apps: 75.0/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 408 stars today; score 75.0/100.
+- HKUDS/Vibe-Trading: 72.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 768 stars today; score 72.3/100.
+- Nutlope/hallmark: 69.8/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: CSS project with 155 stars today; score 69.8/100.
+- virattt/ai-hedge-fund: 68.0/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 115 stars today; score 68.0/100.
+- ColeMurray/background-agents: 64.9/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 16 stars today; score 64.9/100.
+- PrefectHQ/prefect: 64.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 66 stars today; score 64.8/100.
+- Crosstalk-Solutions/project-nomad: 59.7/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 125 stars today; score 59.7/100.
+- k1tbyte/Wand-Enhancer: 58.7/100 [DevTools, Try Today, Deep Dive] DevTools, Try Today: C# project with 609 stars today; score 58.7/100.
+- par274/sharpemu: 52.1/100 [Try Today] Try Today: C# project with 314 stars today; score 52.1/100.
+
+Generated for 2026-07-13 from GitHub Trending daily.
