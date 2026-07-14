@@ -1,0 +1,33 @@
+GitHub Trending: AI workflow signal - 2026-07-14
+
+Today leans toward AI workflow signal; the strongest pick is Graphify-Labs/graphify.
+
+Top picks
+1. Graphify-Labs/graphify - 82.8/100
+   https://github.com/Graphify-Labs/graphify
+   AI Workflow, DevTools: Python project with 1095 stars today; score 82.8/100.
+2. github/spec-kit - 67.1/100
+   https://github.com/github/spec-kit
+   AI Workflow, Try Today: Python project with 543 stars today; score 67.1/100.
+3. moeru-ai/airi - 60.5/100
+   https://github.com/moeru-ai/airi
+   AI Workflow, Try Today: TypeScript project with 78 stars today; score 60.5/100.
+4. hasaneyldrm/exercises-dataset - 50.0/100
+   https://github.com/hasaneyldrm/exercises-dataset
+   AI Workflow: HTML project with 451 stars today; score 50.0/100.
+5. sponsors/coreyhaines31 - 46.8/100
+   https://github.com/sponsors/coreyhaines31
+   AI Workflow, Watch: JavaScript project with 299 stars today; score 46.8/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- Graphify-Labs/graphify: 82.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 1095 stars today; score 82.8/100.
+- github/spec-kit: 67.1/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 543 stars today; score 67.1/100.
+- moeru-ai/airi: 60.5/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 78 stars today; score 60.5/100.
+- hasaneyldrm/exercises-dataset: 50.0/100 [AI Workflow] AI Workflow: HTML project with 451 stars today; score 50.0/100.
+- sponsors/coreyhaines31: 46.8/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: JavaScript project with 299 stars today; score 46.8/100.
+- sponsors/Dicklesworthstone: 40.9/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Rust project with 1295 stars today; score 40.9/100.
+- sponsors/OpenCut-app: 34.7/100 [Watch, Hype Risk] Watch, Hype Risk: TypeScript project with 1229 stars today; score 34.7/100.
+- sponsors/Raphire: 20.9/100 [Watch, Hype Risk] Watch, Hype Risk: PowerShell project with 118 stars today; score 20.9/100.
+
+Generated for 2026-07-14 from GitHub Trending daily.
