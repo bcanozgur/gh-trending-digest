@@ -1,0 +1,1004 @@
+{
+  "date": "2026-07-15",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-26T14:31:10Z",
+        "default_branch": "master",
+        "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+        "fork": false,
+        "full_name": "AIEraDev/Clypra",
+        "homepage": "https://clypra.abdulkabirmusa.com",
+        "latest_release": "v1.1.1",
+        "license_spdx": "MIT",
+        "open_issues": 16,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-13T20:52:07Z",
+        "readme_excerpt": "# Clypra <div align=\"center\"> ![Clypra Showcase Banner](public/clypra.jpg) **Professional video editing\u2014free and open source forever.** A modern video editor built on Tauri v2, React 19, and Rust. Hardware-accelerated processing, cross-platform (desktop + mobile), with optional AI-powered features. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) ",
+        "topics": [
+          "clypra",
+          "video-editor"
+        ],
+        "updated_at": "2026-07-15T09:29:57Z"
+      },
+      "repo": {
+        "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+        "forks": 283,
+        "full_name": "AIEraDev/Clypra",
+        "language": "TypeScript",
+        "name": "Clypra",
+        "owner": "AIEraDev",
+        "rank": 10,
+        "stars_today": 85,
+        "total_stars": 2787,
+        "url": "https://github.com/AIEraDev/Clypra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.47,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.27
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 85 stars today; score 59.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-10T09:00:02Z",
+        "default_branch": "main",
+        "description": "\u9762\u5411 Grok Build\u3001Grok Web \u4e0e Grok Console \u7684\u591a\u8d26\u53f7 API \u7f51\u5173",
+        "fork": false,
+        "full_name": "chenyme/grok2api",
+        "homepage": null,
+        "latest_release": "v3.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 10,
+        "primary_language": "Go",
+        "pushed_at": "2026-07-15T05:39:26Z",
+        "readme_excerpt": "<p align=\"center\"> <img alt=\"Grok2API\" src=\"./frontend/public/grok2api.png\" width=\"720\" /> </p> <p align=\"center\"> <strong>\u9762\u5411 Grok Build\u3001Grok Web \u4e0e Grok Console \u7684\u591a\u8d26\u53f7 API \u7f51\u5173</strong> </p> <p align=\"center\"> <a href=\"./backend/go.mod\"><img alt=\"Go\" src=\"https://img.shields.io/badge/Go-1.26-00ADD8?logo=go&logoColor=white\" /></a> <a href=\"./frontend/package.json\"><img alt=\"React\" src=\"https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=111827\" /></a> <a href=\"https://github.com/chenyme",
+        "topics": [
+          "grok",
+          "grok-imagine"
+        ],
+        "updated_at": "2026-07-15T09:29:45Z"
+      },
+      "repo": {
+        "description": "\u9762\u5411 Grok Build\u3001Grok Web \u4e0e Grok Console \u7684\u591a\u8d26\u53f7 API \u7f51\u5173",
+        "forks": 1938,
+        "full_name": "chenyme/grok2api",
+        "language": "Go",
+        "name": "grok2api",
+        "owner": "chenyme",
+        "rank": 12,
+        "stars_today": 186,
+        "total_stars": 5978,
+        "url": "https://github.com/chenyme/grok2api"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.38,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 50.39
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Go project with 186 stars today; score 50.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-12-29T22:09:07Z",
+        "default_branch": "develop",
+        "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+        "fork": false,
+        "full_name": "penpot/penpot",
+        "homepage": "https://penpot.app",
+        "latest_release": "2.16.2",
+        "license_spdx": "MPL-2.0",
+        "open_issues": 720,
+        "primary_language": "Clojure",
+        "pushed_at": "2026-07-15T09:25:56Z",
+        "readme_excerpt": "<img width=\"100%\" src=\"https://github.com/user-attachments/assets/da17b160-f289-436f-b140-972083a08602\" /> [uri_license]: https://www.mozilla.org/en-US/MPL/2.0 [uri_license_image]: https://img.shields.io/badge/MPL-2.0-blue.svg <p align=\"center\"> <a href=\"https://www.digitalpublicgoods.net/r/penpot\" rel=\"nofollow\"> <img alt=\"Verified DPG\" src=\"https://img.shields.io/badge/Verified-DPG-3333AB?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzEiIGhlaWdodD0iMzMiIHZpZXdCb3g9IjAgMCAzMSAzMyIgZmlsbD0ib",
+        "topics": [
+          "clojure",
+          "clojurescript",
+          "design",
+          "prototyping",
+          "ui",
+          "ux-design",
+          "ux-experience"
+        ],
+        "updated_at": "2026-07-15T09:27:05Z"
+      },
+      "repo": {
+        "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+        "forks": 3697,
+        "full_name": "penpot/penpot",
+        "language": "Clojure",
+        "name": "penpot",
+        "owner": "penpot",
+        "rank": 9,
+        "stars_today": 395,
+        "total_stars": 56366,
+        "url": "https://github.com/penpot/penpot"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.22,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 1.32,
+        "technical_quality": 14.0,
+        "total": 45.39
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Clojure project with 395 stars today; score 45.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .claude directory.",
+        "forks": 14719,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 1679,
+        "total_stars": 171255,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.75,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 35.2
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 1679 stars today; score 35.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/HenryNdubuaku",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Become a cracked AI/ML Research Engineer",
+        "forks": 724,
+        "full_name": "sponsors/HenryNdubuaku",
+        "language": "TypeScript",
+        "name": "HenryNdubuaku",
+        "owner": "sponsors",
+        "rank": 14,
+        "stars_today": 112,
+        "total_stars": 5559,
+        "url": "https://github.com/sponsors/HenryNdubuaku"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 1.95,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 31.1
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 112 stars today; score 31.1/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-03T15:49:07Z",
+        "default_branch": "v8",
+        "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+        "fork": false,
+        "full_name": "Graphify-Labs/graphify",
+        "homepage": "https://www.graphify.com",
+        "latest_release": "v0.9.16",
+        "license_spdx": "MIT",
+        "open_issues": 509,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-14T23:45:01Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://graphify.com\"><img src=\"https://raw.githubusercontent.com/Graphify-Labs/graphify/v8/docs/logo.png\" width=\"300\" height=\"140\" alt=\"Graphify\"/></a> </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/25296?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-25296\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/25296\" alt=\"Graphify-Labs%2Fgraphify | Trendshift\" width=\"",
+        "topics": [
+          "antigravity",
+          "claude-code",
+          "codex",
+          "gemini",
+          "graphrag",
+          "knowledge-graph",
+          "leiden",
+          "openclaw",
+          "rag",
+          "skills",
+          "tree-sitter"
+        ],
+        "updated_at": "2026-07-15T09:28:31Z"
+      },
+      "repo": {
+        "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+        "forks": 8557,
+        "full_name": "Graphify-Labs/graphify",
+        "language": "Python",
+        "name": "graphify",
+        "owner": "Graphify-Labs",
+        "rank": 13,
+        "stars_today": 1851,
+        "total_stars": 87053,
+        "url": "https://github.com/Graphify-Labs/graphify"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.51,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 73.46
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1851 stars today; score 73.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-04-29T05:30:25Z",
+        "default_branch": "main",
+        "description": "100+ AI Agent & RAG apps you can actually run \u2014 clone, customize, ship.",
+        "fork": false,
+        "full_name": "Shubhamsaboo/awesome-llm-apps",
+        "homepage": "https://www.theunwindai.com",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 19,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-14T06:23:01Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"http://www.theunwindai.com\"> <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\"> </a> </p> <div align=\"center\"> # Awesome LLM Apps **100+ open-source AI agents, agent skills, and RAG apps. Hand-built, tested end-to-end, Apache-2.0.** Clone it, ship it, sell it - 100% free and open-source Works with Claude, Gemini, GPT, DeepSeek, Llama, Qwen and other open-source models. **[Step-by-step tutorials on Unwind AI](https://www.theunwindai.com)** \u00b7 **[Quic",
+        "topics": [
+          "agents",
+          "llms",
+          "python",
+          "rag"
+        ],
+        "updated_at": "2026-07-15T09:27:09Z"
+      },
+      "repo": {
+        "description": "100+ AI Agent & RAG apps you can actually run \u2014 clone, customize, ship.",
+        "forks": 17935,
+        "full_name": "Shubhamsaboo/awesome-llm-apps",
+        "language": "Python",
+        "name": "awesome-llm-apps",
+        "owner": "Shubhamsaboo",
+        "rank": 1,
+        "stars_today": 1106,
+        "total_stars": 121411,
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.77,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.9,
+        "total": 68.12
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 1106 stars today; score 68.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-27T20:47:10Z",
+        "default_branch": "main",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "fork": false,
+        "full_name": "Nutlope/hallmark",
+        "homepage": "https://www.usehallmark.com/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 10,
+        "primary_language": "CSS",
+        "pushed_at": "2026-06-26T10:08:58Z",
+        "readme_excerpt": "# Hallmark **A design skill for Claude Code, Cursor, and Codex that refuses to look AI-generated.** [Live demo \u2192](https://www.usehallmark.com) &nbsp;\u00b7&nbsp; twenty themes &nbsp;\u00b7&nbsp; four verbs &nbsp;\u00b7&nbsp; press `T` to cycle. Made by Together AI. <p align=\"center\"> <img src=\"site/OG-hallmark.png\" alt=\"Hallmark, a design skill that refuses to look AI-generated\" /> </p> Hallmark picks a macrostructure for the brief, dresses it in one of twenty themes, runs fifty-seven slop-test gates plus a pr",
+        "topics": [],
+        "updated_at": "2026-07-15T09:28:38Z"
+      },
+      "repo": {
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "forks": 362,
+        "full_name": "Nutlope/hallmark",
+        "language": "CSS",
+        "name": "hallmark",
+        "owner": "Nutlope",
+        "rank": 5,
+        "stars_today": 1015,
+        "total_stars": 6519,
+        "url": "https://github.com/Nutlope/hallmark"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.02,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 66.62
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: CSS project with 1015 stars today; score 66.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-01T09:52:20Z",
+        "default_branch": "main",
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "fork": false,
+        "full_name": "HKUDS/Vibe-Trading",
+        "homepage": "https://vibetrading.wiki/",
+        "latest_release": "v0.1.11",
+        "license_spdx": "MIT",
+        "open_issues": 14,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-15T04:09:44Z",
+        "readme_excerpt": "<p align=\"center\"> <b>English</b> | <a href=\"README_zh.md\">\u4e2d\u6587</a> | <a href=\"README_ja.md\">\u65e5\u672c\u8a9e</a> | <a href=\"README_ko.md\">\ud55c\uad6d\uc5b4</a> | <a href=\"README_ar.md\">\u0627\u0644\u0639\u0631\u0628\u064a\u0629</a> </p> <p align=\"center\"> <img src=\"assets/icon.png\" width=\"120\" alt=\"Vibe-Trading Logo\"/> </p> <h1 align=\"center\">Vibe-Trading: Your Personal Trading Agent</h1> <p align=\"center\"> <b>One Command to Empower Your Agent with Comprehensive Trading Capabilities</b> </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/255",
+        "topics": [
+          "ai-agent",
+          "algorithmic-trading",
+          "backtesting",
+          "fintech",
+          "llm",
+          "mcp",
+          "multi-agent",
+          "python",
+          "quantitative-finance",
+          "trading"
+        ],
+        "updated_at": "2026-07-15T09:30:06Z"
+      },
+      "repo": {
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "forks": 3983,
+        "full_name": "HKUDS/Vibe-Trading",
+        "language": "Python",
+        "name": "Vibe-Trading",
+        "owner": "HKUDS",
+        "rank": 6,
+        "stars_today": 1256,
+        "total_stars": 23241,
+        "url": "https://github.com/HKUDS/Vibe-Trading"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.35,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 65.95
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1256 stars today; score 66.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-11-29T16:30:01Z",
+        "default_branch": "main",
+        "description": "An AI Hedge Fund Team",
+        "fork": false,
+        "full_name": "virattt/ai-hedge-fund",
+        "homepage": null,
+        "latest_release": "v2026.7.10",
+        "license_spdx": "MIT",
+        "open_issues": 156,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-10T19:24:04Z",
+        "readme_excerpt": "# AI Hedge Fund This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for **educational** purposes only and is not intended for real trading or investment. > **\ud83d\udea7 The project is evolving.** We're rebuilding it into a persistent, always-on AI hedge fund \u2014 a *fund* as a first-class entity you can backtest, paper-trade, and (opt-in) run live, with the investor agents reimagined as pluggable, backtestab",
+        "topics": [],
+        "updated_at": "2026-07-15T09:28:29Z"
+      },
+      "repo": {
+        "description": "An AI Hedge Fund Team",
+        "forks": 10928,
+        "full_name": "virattt/ai-hedge-fund",
+        "language": "Python",
+        "name": "ai-hedge-fund",
+        "owner": "virattt",
+        "rank": 4,
+        "stars_today": 109,
+        "total_stars": 62054,
+        "url": "https://github.com/virattt/ai-hedge-fund"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.38,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 62.93
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 109 stars today; score 62.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-26T14:31:10Z",
+        "default_branch": "master",
+        "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+        "fork": false,
+        "full_name": "AIEraDev/Clypra",
+        "homepage": "https://clypra.abdulkabirmusa.com",
+        "latest_release": "v1.1.1",
+        "license_spdx": "MIT",
+        "open_issues": 16,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-13T20:52:07Z",
+        "readme_excerpt": "# Clypra <div align=\"center\"> ![Clypra Showcase Banner](public/clypra.jpg) **Professional video editing\u2014free and open source forever.** A modern video editor built on Tauri v2, React 19, and Rust. Hardware-accelerated processing, cross-platform (desktop + mobile), with optional AI-powered features. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) ",
+        "topics": [
+          "clypra",
+          "video-editor"
+        ],
+        "updated_at": "2026-07-15T09:29:57Z"
+      },
+      "repo": {
+        "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+        "forks": 283,
+        "full_name": "AIEraDev/Clypra",
+        "language": "TypeScript",
+        "name": "Clypra",
+        "owner": "AIEraDev",
+        "rank": 10,
+        "stars_today": 85,
+        "total_stars": 2787,
+        "url": "https://github.com/AIEraDev/Clypra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.47,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.27
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 85 stars today; score 59.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-10T09:00:02Z",
+        "default_branch": "main",
+        "description": "\u9762\u5411 Grok Build\u3001Grok Web \u4e0e Grok Console \u7684\u591a\u8d26\u53f7 API \u7f51\u5173",
+        "fork": false,
+        "full_name": "chenyme/grok2api",
+        "homepage": null,
+        "latest_release": "v3.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 10,
+        "primary_language": "Go",
+        "pushed_at": "2026-07-15T05:39:26Z",
+        "readme_excerpt": "<p align=\"center\"> <img alt=\"Grok2API\" src=\"./frontend/public/grok2api.png\" width=\"720\" /> </p> <p align=\"center\"> <strong>\u9762\u5411 Grok Build\u3001Grok Web \u4e0e Grok Console \u7684\u591a\u8d26\u53f7 API \u7f51\u5173</strong> </p> <p align=\"center\"> <a href=\"./backend/go.mod\"><img alt=\"Go\" src=\"https://img.shields.io/badge/Go-1.26-00ADD8?logo=go&logoColor=white\" /></a> <a href=\"./frontend/package.json\"><img alt=\"React\" src=\"https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=111827\" /></a> <a href=\"https://github.com/chenyme",
+        "topics": [
+          "grok",
+          "grok-imagine"
+        ],
+        "updated_at": "2026-07-15T09:29:45Z"
+      },
+      "repo": {
+        "description": "\u9762\u5411 Grok Build\u3001Grok Web \u4e0e Grok Console \u7684\u591a\u8d26\u53f7 API \u7f51\u5173",
+        "forks": 1938,
+        "full_name": "chenyme/grok2api",
+        "language": "Go",
+        "name": "grok2api",
+        "owner": "chenyme",
+        "rank": 12,
+        "stars_today": 186,
+        "total_stars": 5978,
+        "url": "https://github.com/chenyme/grok2api"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.38,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 50.39
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Go project with 186 stars today; score 50.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-18T03:07:18Z",
+        "default_branch": "main",
+        "description": "1,324-exercise fitness dataset \u2014 animation GIFs, 180\u00d7180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+        "fork": false,
+        "full_name": "hasaneyldrm/exercises-dataset",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "NOASSERTION",
+        "open_issues": 24,
+        "primary_language": "HTML",
+        "pushed_at": "2026-07-09T18:10:16Z",
+        "readme_excerpt": "<div align=\"center\"> # \ud83d\udcaa Exercises Dataset <p> <img src=\"videos/0025-EIeI8Vf.gif\" width=\"120\" alt=\"barbell bench press\" /> <img src=\"videos/0043-qXTaZnJ.gif\" width=\"120\" alt=\"barbell full squat\" /> <img src=\"videos/0032-ila4NZS.gif\" width=\"120\" alt=\"barbell deadlift\" /> <img src=\"videos/0652-lBDjFxJ.gif\" width=\"120\" alt=\"pull-up\" /> <img src=\"videos/0294-NbVPDMW.gif\" width=\"120\" alt=\"dumbbell biceps curl\" /> <img src=\"videos/0334-DsgkuIt.gif\" width=\"120\" alt=\"dumbbell lateral raise\" /> </p> **A ",
+        "topics": [
+          "dataset",
+          "exercise-database",
+          "exercises",
+          "fitness",
+          "fitness-app",
+          "gym",
+          "json",
+          "logpress",
+          "react-native",
+          "workout"
+        ],
+        "updated_at": "2026-07-15T09:29:38Z"
+      },
+      "repo": {
+        "description": "1,324-exercise fitness dataset \u2014 animation GIFs, 180\u00d7180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+        "forks": 1664,
+        "full_name": "hasaneyldrm/exercises-dataset",
+        "language": "HTML",
+        "name": "exercises-dataset",
+        "owner": "hasaneyldrm",
+        "rank": 8,
+        "stars_today": 851,
+        "total_stars": 13919,
+        "url": "https://github.com/hasaneyldrm/exercises-dataset"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.26,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 48.86
+      },
+      "tags": [
+        "AI Workflow"
+      ],
+      "verdict": "AI Workflow: HTML project with 851 stars today; score 48.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-12-29T22:09:07Z",
+        "default_branch": "develop",
+        "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+        "fork": false,
+        "full_name": "penpot/penpot",
+        "homepage": "https://penpot.app",
+        "latest_release": "2.16.2",
+        "license_spdx": "MPL-2.0",
+        "open_issues": 720,
+        "primary_language": "Clojure",
+        "pushed_at": "2026-07-15T09:25:56Z",
+        "readme_excerpt": "<img width=\"100%\" src=\"https://github.com/user-attachments/assets/da17b160-f289-436f-b140-972083a08602\" /> [uri_license]: https://www.mozilla.org/en-US/MPL/2.0 [uri_license_image]: https://img.shields.io/badge/MPL-2.0-blue.svg <p align=\"center\"> <a href=\"https://www.digitalpublicgoods.net/r/penpot\" rel=\"nofollow\"> <img alt=\"Verified DPG\" src=\"https://img.shields.io/badge/Verified-DPG-3333AB?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzEiIGhlaWdodD0iMzMiIHZpZXdCb3g9IjAgMCAzMSAzMyIgZmlsbD0ib",
+        "topics": [
+          "clojure",
+          "clojurescript",
+          "design",
+          "prototyping",
+          "ui",
+          "ux-design",
+          "ux-experience"
+        ],
+        "updated_at": "2026-07-15T09:27:05Z"
+      },
+      "repo": {
+        "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+        "forks": 3697,
+        "full_name": "penpot/penpot",
+        "language": "Clojure",
+        "name": "penpot",
+        "owner": "penpot",
+        "rank": 9,
+        "stars_today": 395,
+        "total_stars": 56366,
+        "url": "https://github.com/penpot/penpot"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.22,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 1.32,
+        "technical_quality": 14.0,
+        "total": 45.39
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Clojure project with 395 stars today; score 45.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-11T12:46:36Z",
+        "default_branch": "main",
+        "description": "An experimental PlayStation 5 emulator project.",
+        "fork": false,
+        "full_name": "par274/sharpemu",
+        "homepage": null,
+        "latest_release": "win64-main-9d88542",
+        "license_spdx": "GPL-2.0",
+        "open_issues": 50,
+        "primary_language": "C#",
+        "pushed_at": "2026-07-15T03:53:06Z",
+        "readme_excerpt": "\ufeff<!-- Copyright (C) 2026 SharpEmu Emulator Project SPDX-License-Identifier: GPL-2.0-or-later --> # SharpEmu <p align=\"center\"> <img src=\"./assets/images/logo.png\" width=30% height=30% /> </p> <p align=\"center\"> An experimental PlayStation 5 emulator for Windows, Linux and macOS. </p> <p align=\"center\"> <a href=\"https://discord.gg/6GejPEDqpc\"> <img src=\"https://img.shields.io/badge/Discord-Join%20our%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white\" alt=\"Join our Discord\"> </a>",
+        "topics": [
+          "csharp",
+          "emulation",
+          "emulator",
+          "playstation5",
+          "ps5",
+          "windows"
+        ],
+        "updated_at": "2026-07-15T09:28:20Z"
+      },
+      "repo": {
+        "description": "An experimental PlayStation 5 emulator project.",
+        "forks": 155,
+        "full_name": "par274/sharpemu",
+        "language": "C#",
+        "name": "sharpemu",
+        "owner": "par274",
+        "rank": 11,
+        "stars_today": 332,
+        "total_stars": 2337,
+        "url": "https://github.com/par274/sharpemu"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.81,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 1.15,
+        "technical_quality": 14.0,
+        "total": 43.76
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: C# project with 332 stars today; score 43.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .claude directory.",
+        "forks": 14719,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 1679,
+        "total_stars": 171255,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.75,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 35.2
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 1679 stars today; score 35.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/HenryNdubuaku",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Become a cracked AI/ML Research Engineer",
+        "forks": 724,
+        "full_name": "sponsors/HenryNdubuaku",
+        "language": "TypeScript",
+        "name": "HenryNdubuaku",
+        "owner": "sponsors",
+        "rank": 14,
+        "stars_today": 112,
+        "total_stars": 5559,
+        "url": "https://github.com/sponsors/HenryNdubuaku"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 1.95,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 31.1
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 112 stars today; score 31.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/OpenCut-app",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The open-source CapCut alternative",
+        "forks": 7239,
+        "full_name": "sponsors/OpenCut-app",
+        "language": "TypeScript",
+        "name": "OpenCut-app",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 4276,
+        "total_stars": 69742,
+        "url": "https://github.com/sponsors/OpenCut-app"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 11.71,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.78,
+        "technical_quality": 3.5,
+        "total": 29.69
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: TypeScript project with 4276 stars today; score 29.7/100."
+    },
+    {
+      "caution": "Production readiness is unclear.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/Raphire",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+        "forks": 2146,
+        "full_name": "sponsors/Raphire",
+        "language": "PowerShell",
+        "name": "Raphire",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 783,
+        "total_stars": 52055,
+        "url": "https://github.com/sponsors/Raphire"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 4.06,
+        "momentum": 4.27,
+        "novelty": 2.8,
+        "practical_usefulness": 4.93,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.75,
+        "technical_quality": 3.5,
+        "total": 22.01
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: PowerShell project with 783 stars today; score 22.0/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-07-15",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is AIEraDev/Clypra."
+}

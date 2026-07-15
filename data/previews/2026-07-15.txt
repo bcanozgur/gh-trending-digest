@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-07-15
+
+Today leans toward AI workflow signal; the strongest pick is AIEraDev/Clypra.
+
+Top picks
+1. AIEraDev/Clypra - 59.3/100
+   https://github.com/AIEraDev/Clypra
+   AI Workflow, Try Today: TypeScript project with 85 stars today; score 59.3/100.
+2. chenyme/grok2api - 50.4/100
+   https://github.com/chenyme/grok2api
+   DevTools, Try Today: Go project with 186 stars today; score 50.4/100.
+3. penpot/penpot - 45.4/100
+   https://github.com/penpot/penpot
+   Try Today: Clojure project with 395 stars today; score 45.4/100.
+4. sponsors/mattpocock - 35.2/100
+   https://github.com/sponsors/mattpocock
+   AI Workflow, Watch: Shell project with 1679 stars today; score 35.2/100.
+   Caution: Weak onboarding evidence.
+5. sponsors/HenryNdubuaku - 31.1/100
+   https://github.com/sponsors/HenryNdubuaku
+   AI Workflow, Watch: TypeScript project with 112 stars today; score 31.1/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- AIEraDev/Clypra: 59.3/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 85 stars today; score 59.3/100.
+- chenyme/grok2api: 50.4/100 [DevTools, Try Today] DevTools, Try Today: Go project with 186 stars today; score 50.4/100.
+- penpot/penpot: 45.4/100 [Try Today] Try Today: Clojure project with 395 stars today; score 45.4/100.
+- sponsors/mattpocock: 35.2/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Shell project with 1679 stars today; score 35.2/100.
+- sponsors/HenryNdubuaku: 31.1/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: TypeScript project with 112 stars today; score 31.1/100.
+
+Generated for 2026-07-15 from GitHub Trending daily.
