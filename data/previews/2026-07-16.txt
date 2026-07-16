@@ -1,0 +1,21 @@
+GitHub Trending: daily developer signal - 2026-07-16
+
+Today leans toward daily developer signal; the strongest pick is HKUDS/DeepTutor.
+
+Top picks
+1. HKUDS/DeepTutor - 74.3/100
+   https://github.com/HKUDS/DeepTutor
+   AI Workflow, DevTools: Python project with 172 stars today; score 74.3/100.
+2. openinterpreter/openinterpreter - 74.2/100
+   https://github.com/openinterpreter/openinterpreter
+   AI Workflow, Try Today: Rust project with 299 stars today; score 74.2/100.
+3. YimMenu/YimMenuV2 - 48.0/100
+   https://github.com/YimMenu/YimMenuV2
+   Try Today: C++ project with 38 stars today; score 48.0/100.
+
+Full reviewed list
+- HKUDS/DeepTutor: 74.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 172 stars today; score 74.3/100.
+- openinterpreter/openinterpreter: 74.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Rust project with 299 stars today; score 74.2/100.
+- YimMenu/YimMenuV2: 48.0/100 [Try Today] Try Today: C++ project with 38 stars today; score 48.0/100.
+
+Generated for 2026-07-16 from GitHub Trending daily.

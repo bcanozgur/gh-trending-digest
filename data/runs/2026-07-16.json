@@ -1,0 +1,862 @@
+{
+  "date": "2026-07-16",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-12-28T15:35:54Z",
+        "default_branch": "main",
+        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+        "fork": false,
+        "full_name": "HKUDS/DeepTutor",
+        "homepage": "http://arxiv.org/abs/2604.26962",
+        "latest_release": "v1.5.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 60,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-09T15:24:10Z",
+        "readme_excerpt": "<div align=\"center\"> <p align=\"center\"><img src=\"assets/figs/logo/logo.png\" alt=\"DeepTutor logo\" height=\"56\" style=\"vertical-align: middle;\">&nbsp;<img src=\"assets/figs/logo/banner.png\" alt=\"DeepTutor\" height=\"48\" style=\"vertical-align: middle;\"></p> # DeepTutor: Lifelong Personalized Tutoring <p align=\"center\"> <a href=\"https://deeptutor.info\" target=\"_blank\"><img alt=\"Docs \u2014 deeptutor.info\" src=\"https://img.shields.io/badge/Docs-deeptutor.info%20%E2%86%97-0A0A0A?style=for-the-badge&labelColor=",
+        "topics": [
+          "ai-agents",
+          "ai-tutor",
+          "clawdbot",
+          "cli-tool",
+          "deepresearch",
+          "interactive-learning",
+          "large-language-models",
+          "multi-agent-systems",
+          "rag"
+        ],
+        "updated_at": "2026-07-16T09:35:32Z"
+      },
+      "repo": {
+        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+        "forks": 3591,
+        "full_name": "HKUDS/DeepTutor",
+        "language": "Python",
+        "name": "DeepTutor",
+        "owner": "HKUDS",
+        "rank": 8,
+        "stars_today": 172,
+        "total_stars": 26585,
+        "url": "https://github.com/HKUDS/DeepTutor"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.27,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 74.32
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 172 stars today; score 74.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-07-14T07:10:44Z",
+        "default_branch": "main",
+        "description": "A coding agent for low-cost models",
+        "fork": false,
+        "full_name": "openinterpreter/openinterpreter",
+        "homepage": "http://openinterpreter.com/",
+        "latest_release": "rust-v0.0.25",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 274,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-15T19:19:47Z",
+        "readme_excerpt": "<h1 align=\"center\">Open Interpreter</h1> <p align=\"center\">A coding agent optimized for low-cost models. <a href=\"https://www.openinterpreter.com/blog/open-interpreter?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=readme&amp;utm_content=hero_text\"><strong>Blog post \u2197</strong></a></p> <p align=\"center\"> <a href=\"https://discord.gg/Hvz9Axh84z\"><img alt=\"Discord\" src=\"https://img.shields.io/discord/1146610656779440188?style=flat-square&label=Discord\" /></a> <a href=\"https://www.openint",
+        "topics": [
+          "acp",
+          "coding-agent",
+          "deepseek",
+          "kimi",
+          "qwen",
+          "rust"
+        ],
+        "updated_at": "2026-07-16T09:35:05Z"
+      },
+      "repo": {
+        "description": "A coding agent for low-cost models",
+        "forks": 5664,
+        "full_name": "openinterpreter/openinterpreter",
+        "language": "Rust",
+        "name": "openinterpreter",
+        "owner": "openinterpreter",
+        "rank": 7,
+        "stars_today": 299,
+        "total_stars": 65729,
+        "url": "https://github.com/openinterpreter/openinterpreter"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.92,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 74.22
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 299 stars today; score 74.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-08-11T20:51:21Z",
+        "default_branch": "enhanced",
+        "description": "Experimental menu for GTA 5: Enhanced",
+        "fork": false,
+        "full_name": "YimMenu/YimMenuV2",
+        "homepage": null,
+        "latest_release": "nightly",
+        "license_spdx": "GPL-2.0",
+        "open_issues": 239,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-12T14:51:35Z",
+        "readme_excerpt": "# YimMenuV2 Experimental menu for GTA 5: Enhanced ## How to use 1. Download the latest version of FSL from [here](https://www.unknowncheats.me/forum/grand-theft-auto-v/616977-fsl-local-gtao-saves.html) and place version.dll in your GTA V directory. Using FSL is now optional but highly recommended for account safety 2. Download YimMenuV2 from [GitHub Releases](https://github.com/YimMenu/YimMenuV2/releases/tag/nightly) 3. Download an injector, such as [Xenos](https://www.unknowncheats.me/forum/gen",
+        "topics": [],
+        "updated_at": "2026-07-16T09:16:04Z"
+      },
+      "repo": {
+        "description": "Experimental menu for GTA 5: Enhanced",
+        "forks": 356,
+        "full_name": "YimMenu/YimMenuV2",
+        "language": "C++",
+        "name": "YimMenuV2",
+        "owner": "YimMenu",
+        "rank": 12,
+        "stars_today": 38,
+        "total_stars": 1472,
+        "url": "https://github.com/YimMenu/YimMenuV2"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.17,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 0.88,
+        "technical_quality": 14.0,
+        "total": 48.05
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: C++ project with 38 stars today; score 48.0/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-12-28T15:35:54Z",
+        "default_branch": "main",
+        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+        "fork": false,
+        "full_name": "HKUDS/DeepTutor",
+        "homepage": "http://arxiv.org/abs/2604.26962",
+        "latest_release": "v1.5.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 60,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-09T15:24:10Z",
+        "readme_excerpt": "<div align=\"center\"> <p align=\"center\"><img src=\"assets/figs/logo/logo.png\" alt=\"DeepTutor logo\" height=\"56\" style=\"vertical-align: middle;\">&nbsp;<img src=\"assets/figs/logo/banner.png\" alt=\"DeepTutor\" height=\"48\" style=\"vertical-align: middle;\"></p> # DeepTutor: Lifelong Personalized Tutoring <p align=\"center\"> <a href=\"https://deeptutor.info\" target=\"_blank\"><img alt=\"Docs \u2014 deeptutor.info\" src=\"https://img.shields.io/badge/Docs-deeptutor.info%20%E2%86%97-0A0A0A?style=for-the-badge&labelColor=",
+        "topics": [
+          "ai-agents",
+          "ai-tutor",
+          "clawdbot",
+          "cli-tool",
+          "deepresearch",
+          "interactive-learning",
+          "large-language-models",
+          "multi-agent-systems",
+          "rag"
+        ],
+        "updated_at": "2026-07-16T09:35:32Z"
+      },
+      "repo": {
+        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+        "forks": 3591,
+        "full_name": "HKUDS/DeepTutor",
+        "language": "Python",
+        "name": "DeepTutor",
+        "owner": "HKUDS",
+        "rank": 8,
+        "stars_today": 172,
+        "total_stars": 26585,
+        "url": "https://github.com/HKUDS/DeepTutor"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.27,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 74.32
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 172 stars today; score 74.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-07-14T07:10:44Z",
+        "default_branch": "main",
+        "description": "A coding agent for low-cost models",
+        "fork": false,
+        "full_name": "openinterpreter/openinterpreter",
+        "homepage": "http://openinterpreter.com/",
+        "latest_release": "rust-v0.0.25",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 274,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-15T19:19:47Z",
+        "readme_excerpt": "<h1 align=\"center\">Open Interpreter</h1> <p align=\"center\">A coding agent optimized for low-cost models. <a href=\"https://www.openinterpreter.com/blog/open-interpreter?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=readme&amp;utm_content=hero_text\"><strong>Blog post \u2197</strong></a></p> <p align=\"center\"> <a href=\"https://discord.gg/Hvz9Axh84z\"><img alt=\"Discord\" src=\"https://img.shields.io/discord/1146610656779440188?style=flat-square&label=Discord\" /></a> <a href=\"https://www.openint",
+        "topics": [
+          "acp",
+          "coding-agent",
+          "deepseek",
+          "kimi",
+          "qwen",
+          "rust"
+        ],
+        "updated_at": "2026-07-16T09:35:05Z"
+      },
+      "repo": {
+        "description": "A coding agent for low-cost models",
+        "forks": 5664,
+        "full_name": "openinterpreter/openinterpreter",
+        "language": "Rust",
+        "name": "openinterpreter",
+        "owner": "openinterpreter",
+        "rank": 7,
+        "stars_today": 299,
+        "total_stars": 65729,
+        "url": "https://github.com/openinterpreter/openinterpreter"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.92,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 74.22
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 299 stars today; score 74.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-27T20:47:10Z",
+        "default_branch": "main",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "fork": false,
+        "full_name": "Nutlope/hallmark",
+        "homepage": "https://www.usehallmark.com/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 16,
+        "primary_language": "CSS",
+        "pushed_at": "2026-06-26T10:08:58Z",
+        "readme_excerpt": "# Hallmark **A design skill for Claude Code, Cursor, and Codex that refuses to look AI-generated.** [Live demo \u2192](https://www.usehallmark.com) &nbsp;\u00b7&nbsp; twenty themes &nbsp;\u00b7&nbsp; four verbs &nbsp;\u00b7&nbsp; press `T` to cycle. Made by Together AI. <p align=\"center\"> <img src=\"site/OG-hallmark.png\" alt=\"Hallmark, a design skill that refuses to look AI-generated\" /> </p> Hallmark picks a macrostructure for the brief, dresses it in one of twenty themes, runs fifty-seven slop-test gates plus a pr",
+        "topics": [],
+        "updated_at": "2026-07-16T09:35:27Z"
+      },
+      "repo": {
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "forks": 493,
+        "full_name": "Nutlope/hallmark",
+        "language": "CSS",
+        "name": "hallmark",
+        "owner": "Nutlope",
+        "rank": 2,
+        "stars_today": 1277,
+        "total_stars": 9842,
+        "url": "https://github.com/Nutlope/hallmark"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 8.49,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 70.09
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: CSS project with 1277 stars today; score 70.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-04-29T05:30:25Z",
+        "default_branch": "main",
+        "description": "100+ AI Agent & RAG apps you can actually run \u2014 clone, customize, ship.",
+        "fork": false,
+        "full_name": "Shubhamsaboo/awesome-llm-apps",
+        "homepage": "https://www.theunwindai.com",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 22,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-14T06:23:01Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"http://www.theunwindai.com\"> <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\"> </a> </p> <div align=\"center\"> # Awesome LLM Apps **100+ open-source AI agents, agent skills, and RAG apps. Hand-built, tested end-to-end, Apache-2.0.** Clone it, ship it, sell it - 100% free and open-source Works with Claude, Gemini, GPT, DeepSeek, Llama, Qwen and other open-source models. **[Step-by-step tutorials on Unwind AI](https://www.theunwindai.com)** \u00b7 **[Quic",
+        "topics": [
+          "agents",
+          "llms",
+          "python",
+          "rag"
+        ],
+        "updated_at": "2026-07-16T09:34:21Z"
+      },
+      "repo": {
+        "description": "100+ AI Agent & RAG apps you can actually run \u2014 clone, customize, ship.",
+        "forks": 18039,
+        "full_name": "Shubhamsaboo/awesome-llm-apps",
+        "language": "Python",
+        "name": "awesome-llm-apps",
+        "owner": "Shubhamsaboo",
+        "rank": 10,
+        "stars_today": 1236,
+        "total_stars": 122313,
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.18,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.9,
+        "total": 69.53
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 1236 stars today; score 69.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-01T09:52:20Z",
+        "default_branch": "main",
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "fork": false,
+        "full_name": "HKUDS/Vibe-Trading",
+        "homepage": "https://vibetrading.wiki/",
+        "latest_release": "v0.1.11",
+        "license_spdx": "MIT",
+        "open_issues": 22,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-16T06:42:46Z",
+        "readme_excerpt": "<p align=\"center\"> <b>English</b> | <a href=\"README_zh.md\">\u4e2d\u6587</a> | <a href=\"README_ja.md\">\u65e5\u672c\u8a9e</a> | <a href=\"README_ko.md\">\ud55c\uad6d\uc5b4</a> | <a href=\"README_ar.md\">\u0627\u0644\u0639\u0631\u0628\u064a\u0629</a> </p> <p align=\"center\"> <img src=\"assets/icon.png\" width=\"120\" alt=\"Vibe-Trading Logo\"/> </p> <h1 align=\"center\">Vibe-Trading: Your Personal Trading Agent</h1> <p align=\"center\"> <b>One Command to Empower Your Agent with Comprehensive Trading Capabilities</b> </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/255",
+        "topics": [
+          "ai-agent",
+          "algorithmic-trading",
+          "backtesting",
+          "fintech",
+          "llm",
+          "mcp",
+          "multi-agent",
+          "python",
+          "quantitative-finance",
+          "trading"
+        ],
+        "updated_at": "2026-07-16T09:32:34Z"
+      },
+      "repo": {
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "forks": 4082,
+        "full_name": "HKUDS/Vibe-Trading",
+        "language": "Python",
+        "name": "Vibe-Trading",
+        "owner": "HKUDS",
+        "rank": 6,
+        "stars_today": 915,
+        "total_stars": 24054,
+        "url": "https://github.com/HKUDS/Vibe-Trading"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.49,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 67.09
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 915 stars today; score 67.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-12-01T16:33:36Z",
+        "default_branch": "main",
+        "description": "\ud83d\udc96\ud83e\uddf8 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "fork": false,
+        "full_name": "moeru-ai/airi",
+        "homepage": "https://airi.moeru.ai/docs/",
+        "latest_release": "v0.11.0",
+        "license_spdx": "MIT",
+        "open_issues": 186,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-16T01:40:47Z",
+        "readme_excerpt": "<picture> <source width=\"100%\" srcset=\"./docs/content/public/banner-dark-1280x640.avif\" media=\"(prefers-color-scheme: dark)\" /> <source width=\"100%\" srcset=\"./docs/content/public/banner-light-1280x640.avif\" media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\" /> <img width=\"250\" src=\"./docs/content/public/banner-light-1280x640.avif\" /> </picture> <h1 align=\"center\">Project AIRI</h1> <p align=\"center\">Re-creating Neuro-sama, a soul container of AI waifu / virtual character",
+        "topics": [
+          "ai-companion",
+          "ai-vtuber",
+          "airi",
+          "digital-life",
+          "grok-companion",
+          "live2d",
+          "neuro-sama",
+          "neurosama",
+          "openclaw",
+          "vrm",
+          "vtuber"
+        ],
+        "updated_at": "2026-07-16T09:33:20Z"
+      },
+      "repo": {
+        "description": "\ud83d\udc96\ud83e\uddf8 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "forks": 4267,
+        "full_name": "moeru-ai/airi",
+        "language": "TypeScript",
+        "name": "airi",
+        "owner": "moeru-ai",
+        "rank": 4,
+        "stars_today": 110,
+        "total_stars": 42714,
+        "url": "https://github.com/moeru-ai/airi"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.6,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 55.2
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 110 stars today; score 55.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-18T03:07:18Z",
+        "default_branch": "main",
+        "description": "1,324-exercise fitness dataset \u2014 animation GIFs, 180\u00d7180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+        "fork": false,
+        "full_name": "hasaneyldrm/exercises-dataset",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "NOASSERTION",
+        "open_issues": 22,
+        "primary_language": "HTML",
+        "pushed_at": "2026-07-16T06:50:42Z",
+        "readme_excerpt": "<div align=\"center\"> # \ud83d\udcaa Exercises Dataset <p> <img src=\"videos/0025-EIeI8Vf.gif\" width=\"120\" alt=\"barbell bench press\" /> <img src=\"videos/0043-qXTaZnJ.gif\" width=\"120\" alt=\"barbell full squat\" /> <img src=\"videos/0032-ila4NZS.gif\" width=\"120\" alt=\"barbell deadlift\" /> <img src=\"videos/0652-lBDjFxJ.gif\" width=\"120\" alt=\"pull-up\" /> <img src=\"videos/0294-NbVPDMW.gif\" width=\"120\" alt=\"dumbbell biceps curl\" /> <img src=\"videos/0334-DsgkuIt.gif\" width=\"120\" alt=\"dumbbell lateral raise\" /> </p> **A ",
+        "topics": [
+          "dataset",
+          "exercise-database",
+          "exercises",
+          "fitness",
+          "fitness-app",
+          "gym",
+          "json",
+          "logpress",
+          "react-native",
+          "workout"
+        ],
+        "updated_at": "2026-07-16T09:33:54Z"
+      },
+      "repo": {
+        "description": "1,324-exercise fitness dataset \u2014 animation GIFs, 180\u00d7180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+        "forks": 1756,
+        "full_name": "hasaneyldrm/exercises-dataset",
+        "language": "HTML",
+        "name": "exercises-dataset",
+        "owner": "hasaneyldrm",
+        "rank": 13,
+        "stars_today": 949,
+        "total_stars": 14652,
+        "url": "https://github.com/hasaneyldrm/exercises-dataset"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.61,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 50.21
+      },
+      "tags": [
+        "AI Workflow"
+      ],
+      "verdict": "AI Workflow: HTML project with 949 stars today; score 50.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-08-11T20:51:21Z",
+        "default_branch": "enhanced",
+        "description": "Experimental menu for GTA 5: Enhanced",
+        "fork": false,
+        "full_name": "YimMenu/YimMenuV2",
+        "homepage": null,
+        "latest_release": "nightly",
+        "license_spdx": "GPL-2.0",
+        "open_issues": 239,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-12T14:51:35Z",
+        "readme_excerpt": "# YimMenuV2 Experimental menu for GTA 5: Enhanced ## How to use 1. Download the latest version of FSL from [here](https://www.unknowncheats.me/forum/grand-theft-auto-v/616977-fsl-local-gtao-saves.html) and place version.dll in your GTA V directory. Using FSL is now optional but highly recommended for account safety 2. Download YimMenuV2 from [GitHub Releases](https://github.com/YimMenu/YimMenuV2/releases/tag/nightly) 3. Download an injector, such as [Xenos](https://www.unknowncheats.me/forum/gen",
+        "topics": [],
+        "updated_at": "2026-07-16T09:16:04Z"
+      },
+      "repo": {
+        "description": "Experimental menu for GTA 5: Enhanced",
+        "forks": 356,
+        "full_name": "YimMenu/YimMenuV2",
+        "language": "C++",
+        "name": "YimMenuV2",
+        "owner": "YimMenu",
+        "rank": 12,
+        "stars_today": 38,
+        "total_stars": 1472,
+        "url": "https://github.com/YimMenu/YimMenuV2"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.17,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 0.88,
+        "technical_quality": 14.0,
+        "total": 48.05
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: C++ project with 38 stars today; score 48.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/coreyhaines31",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+        "forks": 6335,
+        "full_name": "sponsors/coreyhaines31",
+        "language": "JavaScript",
+        "name": "coreyhaines31",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 340,
+        "total_stars": 40042,
+        "url": "https://github.com/sponsors/coreyhaines31"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.5,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 40.95
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 340 stars today; score 41.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .claude directory.",
+        "forks": 14865,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 2130,
+        "total_stars": 173245,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 11.71,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.78,
+        "technical_quality": 3.5,
+        "total": 40.67
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 2130 stars today; score 40.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/Dicklesworthstone",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+        "forks": 185,
+        "full_name": "sponsors/Dicklesworthstone",
+        "language": "Rust",
+        "name": "Dicklesworthstone",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 471,
+        "total_stars": 4934,
+        "url": "https://github.com/sponsors/Dicklesworthstone"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.88,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 33.33
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Rust project with 471 stars today; score 33.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/HenryNdubuaku",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Become a cracked AI/ML Research Engineer",
+        "forks": 764,
+        "full_name": "sponsors/HenryNdubuaku",
+        "language": "TypeScript",
+        "name": "HenryNdubuaku",
+        "owner": "sponsors",
+        "rank": 9,
+        "stars_today": 725,
+        "total_stars": 6148,
+        "url": "https://github.com/sponsors/HenryNdubuaku"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.31,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 29.26
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 725 stars today; score 29.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/OpenCut-app",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The open-source CapCut alternative",
+        "forks": 7433,
+        "full_name": "sponsors/OpenCut-app",
+        "language": "TypeScript",
+        "name": "OpenCut-app",
+        "owner": "sponsors",
+        "rank": 1,
+        "stars_today": 1664,
+        "total_stars": 73191,
+        "url": "https://github.com/sponsors/OpenCut-app"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 10.16,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.15,
+        "technical_quality": 3.5,
+        "total": 27.51
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: TypeScript project with 1664 stars today; score 27.5/100."
+    }
+  ],
+  "subject": "GitHub Trending: daily developer signal - 2026-07-16",
+  "summary": "Today leans toward daily developer signal; the strongest pick is HKUDS/DeepTutor."
+}
