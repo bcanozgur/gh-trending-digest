@@ -1,0 +1,32 @@
+GitHub Trending: AI workflow signal - 2026-07-17
+
+Today leans toward AI workflow signal; the strongest pick is PostHog/posthog.
+
+Top picks
+1. PostHog/posthog - 72.3/100
+   https://github.com/PostHog/posthog
+   AI Workflow, DevTools: Python project with 77 stars today; score 72.3/100.
+2. PrismML-Eng/Bonsai-demo - 70.2/100
+   https://github.com/PrismML-Eng/Bonsai-demo
+   AI Workflow, Try Today: Shell project with 196 stars today; score 70.2/100.
+3. github/copilot-sdk - 65.0/100
+   https://github.com/github/copilot-sdk
+   AI Workflow, DevTools: Java project with 13 stars today; score 65.0/100.
+4. codecrafters-io/build-your-own-x - 57.8/100
+   https://github.com/codecrafters-io/build-your-own-x
+   AI Workflow, Deep Dive: Markdown project with 435 stars today; score 57.8/100.
+5. apache/ossie - 57.0/100
+   https://github.com/apache/ossie
+   AI Workflow, Try Today: Python project with 60 stars today; score 57.0/100.
+
+Full reviewed list
+- PostHog/posthog: 72.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 77 stars today; score 72.3/100.
+- PrismML-Eng/Bonsai-demo: 70.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Shell project with 196 stars today; score 70.2/100.
+- github/copilot-sdk: 65.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Java project with 13 stars today; score 65.0/100.
+- codecrafters-io/build-your-own-x: 57.8/100 [AI Workflow, Deep Dive] AI Workflow, Deep Dive: Markdown project with 435 stars today; score 57.8/100.
+- apache/ossie: 57.0/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 60 stars today; score 57.0/100.
+- ossu/computer-science: 44.7/100 [Try Today] Try Today: HTML project with 107 stars today; score 44.7/100.
+- sponsors/lobehub: 40.8/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: TypeScript project with 71 stars today; score 40.8/100.
+- sponsors/ibelick: 21.4/100 [Watch, Hype Risk] Watch, Hype Risk: TypeScript project with 178 stars today; score 21.4/100.
+
+Generated for 2026-07-17 from GitHub Trending daily.
