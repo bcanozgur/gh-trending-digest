@@ -1,0 +1,30 @@
+GitHub Trending: AI workflow signal - 2026-07-18
+
+Today leans toward AI workflow signal; the strongest pick is anthropics/cwc-workshops.
+
+Top picks
+1. anthropics/cwc-workshops - 63.4/100
+   https://github.com/anthropics/cwc-workshops
+   AI Workflow, Deep Dive: TypeScript project with 45 stars today; score 63.4/100.
+2. docusealco/docuseal - 62.4/100
+   https://github.com/docusealco/docuseal
+   AI Workflow, DevTools: Ruby project with 91 stars today; score 62.4/100.
+3. RyanCodrai/turbovec - 61.4/100
+   https://github.com/RyanCodrai/turbovec
+   AI Workflow, Try Today: Python project with 280 stars today; score 61.4/100.
+4. protocolbuffers/protobuf - 47.2/100
+   https://github.com/protocolbuffers/protobuf
+   DevTools, Try Today: C++ project with 11 stars today; score 47.2/100.
+5. sponsors/tirth8205 - 42.1/100
+   https://github.com/sponsors/tirth8205
+   AI Workflow, DevTools: Python project with 74 stars today; score 42.1/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- anthropics/cwc-workshops: 63.4/100 [AI Workflow, Deep Dive] AI Workflow, Deep Dive: TypeScript project with 45 stars today; score 63.4/100.
+- docusealco/docuseal: 62.4/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Ruby project with 91 stars today; score 62.4/100.
+- RyanCodrai/turbovec: 61.4/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 280 stars today; score 61.4/100.
+- protocolbuffers/protobuf: 47.2/100 [DevTools, Try Today] DevTools, Try Today: C++ project with 11 stars today; score 47.2/100.
+- sponsors/tirth8205: 42.1/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Python project with 74 stars today; score 42.1/100.
+
+Generated for 2026-07-18 from GitHub Trending daily.

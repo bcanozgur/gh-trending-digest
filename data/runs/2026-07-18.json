@@ -1,0 +1,1066 @@
+{
+  "date": "2026-07-18",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-06T03:53:01Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "anthropics/cwc-workshops",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 6,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-26T16:32:46Z",
+        "readme_excerpt": "<!-- Copyright 2026 Anthropic PBC --> <!-- SPDX-License-Identifier: Apache-2.0 --> # cwc-workshops Workshop materials. Not maintained and not accepting contributions. Materials from Anthropic-run **Code with Claude** workshops. ## Workshops - [`rightmodel/`](./rightmodel) \u2014 *Picking the Right Model*: use a Claude Code SKILL to audit an LLM eval suite and sweep it across models and inference parameters (extended thinking, effort) to find the best quality-per-dollar and quality-per-second configur",
+        "topics": [],
+        "updated_at": "2026-07-18T08:59:46Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 491,
+        "full_name": "anthropics/cwc-workshops",
+        "language": "TypeScript",
+        "name": "cwc-workshops",
+        "owner": "anthropics",
+        "rank": 6,
+        "stars_today": 45,
+        "total_stars": 1664,
+        "url": "https://github.com/anthropics/cwc-workshops"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 4.9,
+        "momentum": 3.13,
+        "novelty": 8.0,
+        "practical_usefulness": 5.95,
+        "production_readiness": 4.55,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.9,
+        "total": 63.43
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: TypeScript project with 45 stars today; score 63.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-07-03T19:54:54Z",
+        "default_branch": "master",
+        "description": "Open source DocuSign alternative. Create, fill, and sign digital documents \u270d\ufe0f",
+        "fork": false,
+        "full_name": "docusealco/docuseal",
+        "homepage": "https://www.docuseal.com",
+        "latest_release": "3.1.4",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 116,
+        "primary_language": "Ruby",
+        "pushed_at": "2026-07-13T11:15:49Z",
+        "readme_excerpt": "<h1 align=\"center\" style=\"border-bottom: none\"> <div> <a href=\"https://www.docuseal.com\"> <img alt=\"DocuSeal\" src=\"https://github.com/user-attachments/assets/38b45682-ffa4-4919-abde-d2d422325c44\" width=\"80\" /> <br> </a> DocuSeal </div> </h1> <h3 align=\"center\"> Open source document filling and signing </h3> <p align=\"center\"> <a href=\"https://hub.docker.com/r/docuseal/docuseal\"> <img alt=\"Docker releases\" src=\"https://img.shields.io/docker/v/docuseal/docuseal\"> </a> <a href=\"https://discord.gg/q",
+        "topics": [
+          "document-signing",
+          "documents",
+          "e-signature",
+          "hotwired-turbo",
+          "open-source",
+          "pdf",
+          "pdf-sign",
+          "pdf-signature",
+          "ruby-on-rails",
+          "self-hosted",
+          "tailwindcss",
+          "vue",
+          "webpack"
+        ],
+        "updated_at": "2026-07-18T09:08:14Z"
+      },
+      "repo": {
+        "description": "Open source DocuSign alternative. Create, fill, and sign digital documents \u270d\ufe0f",
+        "forks": 1774,
+        "full_name": "docusealco/docuseal",
+        "language": "Ruby",
+        "name": "docuseal",
+        "owner": "docusealco",
+        "rank": 10,
+        "stars_today": 91,
+        "total_stars": 17957,
+        "url": "https://github.com/docusealco/docuseal"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.82,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 62.41
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Ruby project with 91 stars today; score 62.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-26T10:32:44Z",
+        "default_branch": "main",
+        "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+        "fork": false,
+        "full_name": "RyanCodrai/turbovec",
+        "homepage": "https://pypi.org/project/turbovec/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 12,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-10T18:07:32Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"docs/header.png\" alt=\"turbovec \u2014 Google's TurboQuant for vector search\" width=\"100%\"> </p> <p align=\"center\"> <a href=\"https://github.com/RyanCodrai/turbovec/blob/main/LICENSE\"><img src=\"https://img.shields.io/pypi/l/turbovec\" alt=\"License\"></a> <a href=\"https://pypi.org/project/turbovec/\"><img src=\"https://img.shields.io/pypi/v/turbovec?label=pypi&color=blue\" alt=\"PyPI version\"></a> <a href=\"https://crates.io/crates/turbovec\"><img src=\"https://img.shields.io/crates/",
+        "topics": [
+          "ann",
+          "avx512",
+          "embedding",
+          "embeddings",
+          "faiss",
+          "nearest-neighbor",
+          "neon",
+          "python",
+          "quant",
+          "quantization",
+          "rag",
+          "rust",
+          "simd",
+          "turboquant",
+          "vector-search"
+        ],
+        "updated_at": "2026-07-18T09:06:29Z"
+      },
+      "repo": {
+        "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+        "forks": 1182,
+        "full_name": "RyanCodrai/turbovec",
+        "language": "Python",
+        "name": "turbovec",
+        "owner": "RyanCodrai",
+        "rank": 12,
+        "stars_today": 280,
+        "total_stars": 13422,
+        "url": "https://github.com/RyanCodrai/turbovec"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.6,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 61.4
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 280 stars today; score 61.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-08-26T15:52:15Z",
+        "default_branch": "main",
+        "description": "Protocol Buffers - Google's data interchange format",
+        "fork": false,
+        "full_name": "protocolbuffers/protobuf",
+        "homepage": "http://protobuf.dev",
+        "latest_release": "v35.1",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 291,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-18T06:18:10Z",
+        "readme_excerpt": "Protocol Buffers - Google's data interchange format =================================================== [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/protocolbuffers/protobuf/badge)](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC Overview -------- Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. You can learn more abou",
+        "topics": [
+          "marshalling",
+          "protobuf",
+          "protobuf-runtime",
+          "protoc",
+          "protocol-buffers",
+          "protocol-compiler",
+          "rpc",
+          "serialization"
+        ],
+        "updated_at": "2026-07-18T08:52:51Z"
+      },
+      "repo": {
+        "description": "Protocol Buffers - Google's data interchange format",
+        "forks": 16194,
+        "full_name": "protocolbuffers/protobuf",
+        "language": "C++",
+        "name": "protobuf",
+        "owner": "protocolbuffers",
+        "rank": 8,
+        "stars_today": 11,
+        "total_stars": 71569,
+        "url": "https://github.com/protocolbuffers/protobuf"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.65,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 47.16
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: C++ project with 11 stars today; score 47.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/tirth8205",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+        "forks": 2113,
+        "full_name": "sponsors/tirth8205",
+        "language": "Python",
+        "name": "tirth8205",
+        "owner": "sponsors",
+        "rank": 9,
+        "stars_today": 74,
+        "total_stars": 19906,
+        "url": "https://github.com/sponsors/tirth8205"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.87,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 42.08
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 74 stars today; score 42.1/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-27T20:47:10Z",
+        "default_branch": "main",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "fork": false,
+        "full_name": "Nutlope/hallmark",
+        "homepage": "https://www.usehallmark.com/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 20,
+        "primary_language": "CSS",
+        "pushed_at": "2026-06-26T10:08:58Z",
+        "readme_excerpt": "# Hallmark **A design skill for Claude Code, Cursor, and Codex that refuses to look AI-generated.** [Live demo \u2192](https://www.usehallmark.com) &nbsp;\u00b7&nbsp; twenty themes &nbsp;\u00b7&nbsp; four verbs &nbsp;\u00b7&nbsp; press `T` to cycle. Made by Together AI. <p align=\"center\"> <img src=\"site/OG-hallmark.png\" alt=\"Hallmark, a design skill that refuses to look AI-generated\" /> </p> Hallmark picks a macrostructure for the brief, dresses it in one of twenty themes, runs fifty-seven slop-test gates plus a pr",
+        "topics": [],
+        "updated_at": "2026-07-18T09:09:04Z"
+      },
+      "repo": {
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "forks": 618,
+        "full_name": "Nutlope/hallmark",
+        "language": "CSS",
+        "name": "hallmark",
+        "owner": "Nutlope",
+        "rank": 4,
+        "stars_today": 1485,
+        "total_stars": 12404,
+        "url": "https://github.com/Nutlope/hallmark"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.57,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 73.17
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: CSS project with 1485 stars today; score 73.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-12-28T15:35:54Z",
+        "default_branch": "main",
+        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+        "fork": false,
+        "full_name": "HKUDS/DeepTutor",
+        "homepage": "http://arxiv.org/abs/2604.26962",
+        "latest_release": "v1.5.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 68,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-09T15:24:10Z",
+        "readme_excerpt": "<div align=\"center\"> <p align=\"center\"><img src=\"assets/figs/logo/logo.png\" alt=\"DeepTutor logo\" height=\"56\" style=\"vertical-align: middle;\">&nbsp;<img src=\"assets/figs/logo/banner.png\" alt=\"DeepTutor\" height=\"48\" style=\"vertical-align: middle;\"></p> # DeepTutor: Lifelong Personalized Tutoring <p align=\"center\"> <a href=\"https://deeptutor.info\" target=\"_blank\"><img alt=\"Docs \u2014 deeptutor.info\" src=\"https://img.shields.io/badge/Docs-deeptutor.info%20%E2%86%97-0A0A0A?style=for-the-badge&labelColor=",
+        "topics": [
+          "ai-agents",
+          "ai-tutor",
+          "clawdbot",
+          "cli-tool",
+          "deepresearch",
+          "interactive-learning",
+          "large-language-models",
+          "multi-agent-systems",
+          "rag"
+        ],
+        "updated_at": "2026-07-18T09:09:34Z"
+      },
+      "repo": {
+        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+        "forks": 3658,
+        "full_name": "HKUDS/DeepTutor",
+        "language": "Python",
+        "name": "DeepTutor",
+        "owner": "HKUDS",
+        "rank": 13,
+        "stars_today": 531,
+        "total_stars": 27523,
+        "url": "https://github.com/HKUDS/DeepTutor"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.88,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 70.73
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 531 stars today; score 70.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-07-14T07:10:44Z",
+        "default_branch": "main",
+        "description": "A coding agent for open models like Kimi K3",
+        "fork": false,
+        "full_name": "openinterpreter/openinterpreter",
+        "homepage": "http://openinterpreter.com/",
+        "latest_release": "rust-v0.0.34",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 279,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-18T08:30:30Z",
+        "readme_excerpt": "<h1 align=\"center\">Open Interpreter</h1> <p align=\"center\">A coding agent optimized for low-cost models. <a href=\"https://www.openinterpreter.com/blog/open-interpreter?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=readme&amp;utm_content=hero_text\"><strong>Blog post \u2197</strong></a></p> <p align=\"center\"> <b>English</b> \u2022 <a href=\"README_ES.md\">Espa\u00f1ol</a> \u2022 <a href=\"README_ZH.md\">\u7b80\u4f53\u4e2d\u6587</a> </p> <p align=\"center\"> <a href=\"https://discord.gg/Hvz9Axh84z\"><img alt=\"Discord\" src=\"https://i",
+        "topics": [
+          "acp",
+          "coding-agent",
+          "deepseek",
+          "kimi",
+          "qwen",
+          "rust"
+        ],
+        "updated_at": "2026-07-18T09:05:59Z"
+      },
+      "repo": {
+        "description": "A coding agent for open models like Kimi K3",
+        "forks": 5716,
+        "full_name": "openinterpreter/openinterpreter",
+        "language": "Rust",
+        "name": "openinterpreter",
+        "owner": "openinterpreter",
+        "rank": 11,
+        "stars_today": 431,
+        "total_stars": 66554,
+        "url": "https://github.com/openinterpreter/openinterpreter"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.6,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 69.7
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 431 stars today; score 69.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2020-01-23T22:46:58Z",
+        "default_branch": "master",
+        "description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools \u2013 AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more \u2013 capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+        "fork": false,
+        "full_name": "PostHog/posthog",
+        "homepage": "https://posthog.com",
+        "latest_release": "posthog-cli/v0.8.4",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 4868,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-18T09:07:51Z",
+        "readme_excerpt": "<p align=\"center\"> <img alt=\"posthoglogo\" src=\"https://user-images.githubusercontent.com/65415371/205059737-c8a4f836-4889-4654-902e-f302b187b6a0.png\"> </p> <p align=\"center\"> <a href='https://posthog.com/contributors'><img alt=\"GitHub contributors\" src=\"https://img.shields.io/github/contributors/posthog/posthog\"/></a> <a href='http://makeapullrequest.com'><img alt='PRs Welcome' src='https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields'/></a> <img alt=\"Docker Pulls\" src=\"https:/",
+        "topics": [
+          "ab-testing",
+          "ai-analytics",
+          "analytics",
+          "cdp",
+          "data-warehouse",
+          "experiments",
+          "feature-flags",
+          "javascript",
+          "product-analytics",
+          "python",
+          "react",
+          "session-replay",
+          "surveys",
+          "typescript",
+          "web-analytics"
+        ],
+        "updated_at": "2026-07-18T09:08:04Z"
+      },
+      "repo": {
+        "description": "\ud83e\udd94 PostHog is the leading platform for building self-driving products. Our developer tools \u2013 AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more \u2013 capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+        "forks": 3012,
+        "full_name": "PostHog/posthog",
+        "language": "Python",
+        "name": "posthog",
+        "owner": "PostHog",
+        "rank": 2,
+        "stars_today": 438,
+        "total_stars": 36320,
+        "url": "https://github.com/PostHog/posthog"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 5.93,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 5.25,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 69.69
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 438 stars today; score 69.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-25T19:25:09Z",
+        "default_branch": "main",
+        "description": "Bonsai Demo",
+        "fork": false,
+        "full_name": "PrismML-Eng/Bonsai-demo",
+        "homepage": "https://prismml.com/",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 14,
+        "primary_language": "Shell",
+        "pushed_at": "2026-07-18T06:12:49Z",
+        "readme_excerpt": "# Bonsai Demo <p align=\"center\"> <img src=\"./assets/bonsai-logo.svg\" width=\"280\" alt=\"Bonsai\"> </p> <p align=\"center\"> <a href=\"https://prismml.com\"><b>Website</b></a> &nbsp;|&nbsp; <a href=\"https://github.com/PrismML-Eng/Bonsai-demo\"><b>GitHub</b></a> &nbsp;|&nbsp; <a href=\"https://discord.gg/prismml\"><b>Discord</b></a> </p> <p align=\"center\"> <b>HF Collections:</b> <a href=\"https://huggingface.co/collections/prism-ml/bonsai-27b\">Bonsai 27B</a> \u00b7 <a href=\"https://huggingface.co/collections/pris",
+        "topics": [
+          "bonsai",
+          "llamacpp",
+          "llm",
+          "mlx",
+          "prism-ml",
+          "small-models"
+        ],
+        "updated_at": "2026-07-18T09:00:26Z"
+      },
+      "repo": {
+        "description": "Bonsai Demo",
+        "forks": 170,
+        "full_name": "PrismML-Eng/Bonsai-demo",
+        "language": "Shell",
+        "name": "Bonsai-demo",
+        "owner": "PrismML-Eng",
+        "rank": 7,
+        "stars_today": 278,
+        "total_stars": 1768,
+        "url": "https://github.com/PrismML-Eng/Bonsai-demo"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.31,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 65.91
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Shell project with 278 stars today; score 65.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-06T03:53:01Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "anthropics/cwc-workshops",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 6,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-26T16:32:46Z",
+        "readme_excerpt": "<!-- Copyright 2026 Anthropic PBC --> <!-- SPDX-License-Identifier: Apache-2.0 --> # cwc-workshops Workshop materials. Not maintained and not accepting contributions. Materials from Anthropic-run **Code with Claude** workshops. ## Workshops - [`rightmodel/`](./rightmodel) \u2014 *Picking the Right Model*: use a Claude Code SKILL to audit an LLM eval suite and sweep it across models and inference parameters (extended thinking, effort) to find the best quality-per-dollar and quality-per-second configur",
+        "topics": [],
+        "updated_at": "2026-07-18T08:59:46Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 491,
+        "full_name": "anthropics/cwc-workshops",
+        "language": "TypeScript",
+        "name": "cwc-workshops",
+        "owner": "anthropics",
+        "rank": 6,
+        "stars_today": 45,
+        "total_stars": 1664,
+        "url": "https://github.com/anthropics/cwc-workshops"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 4.9,
+        "momentum": 3.13,
+        "novelty": 8.0,
+        "practical_usefulness": 5.95,
+        "production_readiness": 4.55,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.9,
+        "total": 63.43
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: TypeScript project with 45 stars today; score 63.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-07-03T19:54:54Z",
+        "default_branch": "master",
+        "description": "Open source DocuSign alternative. Create, fill, and sign digital documents \u270d\ufe0f",
+        "fork": false,
+        "full_name": "docusealco/docuseal",
+        "homepage": "https://www.docuseal.com",
+        "latest_release": "3.1.4",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 116,
+        "primary_language": "Ruby",
+        "pushed_at": "2026-07-13T11:15:49Z",
+        "readme_excerpt": "<h1 align=\"center\" style=\"border-bottom: none\"> <div> <a href=\"https://www.docuseal.com\"> <img alt=\"DocuSeal\" src=\"https://github.com/user-attachments/assets/38b45682-ffa4-4919-abde-d2d422325c44\" width=\"80\" /> <br> </a> DocuSeal </div> </h1> <h3 align=\"center\"> Open source document filling and signing </h3> <p align=\"center\"> <a href=\"https://hub.docker.com/r/docuseal/docuseal\"> <img alt=\"Docker releases\" src=\"https://img.shields.io/docker/v/docuseal/docuseal\"> </a> <a href=\"https://discord.gg/q",
+        "topics": [
+          "document-signing",
+          "documents",
+          "e-signature",
+          "hotwired-turbo",
+          "open-source",
+          "pdf",
+          "pdf-sign",
+          "pdf-signature",
+          "ruby-on-rails",
+          "self-hosted",
+          "tailwindcss",
+          "vue",
+          "webpack"
+        ],
+        "updated_at": "2026-07-18T09:08:14Z"
+      },
+      "repo": {
+        "description": "Open source DocuSign alternative. Create, fill, and sign digital documents \u270d\ufe0f",
+        "forks": 1774,
+        "full_name": "docusealco/docuseal",
+        "language": "Ruby",
+        "name": "docuseal",
+        "owner": "docusealco",
+        "rank": 10,
+        "stars_today": 91,
+        "total_stars": 17957,
+        "url": "https://github.com/docusealco/docuseal"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.82,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 62.41
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Ruby project with 91 stars today; score 62.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-14T00:23:22Z",
+        "default_branch": "main",
+        "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+        "fork": false,
+        "full_name": "github/copilot-sdk",
+        "homepage": null,
+        "latest_release": "rust/v1.0.7",
+        "license_spdx": "MIT",
+        "open_issues": 242,
+        "primary_language": "Java",
+        "pushed_at": "2026-07-18T03:56:18Z",
+        "readme_excerpt": "# GitHub Copilot CLI SDKs ![GitHub Copilot SDK](./assets/RepoHeader_01.png) [![NPM Downloads](https://img.shields.io/npm/dm/%40github%2Fcopilot-sdk?label=npm)](https://www.npmjs.com/package/@github/copilot-sdk) [![PyPI - Downloads](https://img.shields.io/pypi/dm/github-copilot-sdk?label=PyPI)](https://pypi.org/project/github-copilot-sdk/) [![NuGet Downloads](https://img.shields.io/nuget/dt/GitHub.Copilot.SDK?label=NuGet)](https://www.nuget.org/packages/GitHub.Copilot.SDK) [![Go Reference](https:",
+        "topics": [],
+        "updated_at": "2026-07-18T09:04:30Z"
+      },
+      "repo": {
+        "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+        "forks": 1336,
+        "full_name": "github/copilot-sdk",
+        "language": "Java",
+        "name": "copilot-sdk",
+        "owner": "github",
+        "rank": 5,
+        "stars_today": 233,
+        "total_stars": 9845,
+        "url": "https://github.com/github/copilot-sdk"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.34,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 62.24
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Java project with 233 stars today; score 62.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-26T10:32:44Z",
+        "default_branch": "main",
+        "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+        "fork": false,
+        "full_name": "RyanCodrai/turbovec",
+        "homepage": "https://pypi.org/project/turbovec/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 12,
+        "primary_language": "Python",
+        "pushed_at": "2026-06-10T18:07:32Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"docs/header.png\" alt=\"turbovec \u2014 Google's TurboQuant for vector search\" width=\"100%\"> </p> <p align=\"center\"> <a href=\"https://github.com/RyanCodrai/turbovec/blob/main/LICENSE\"><img src=\"https://img.shields.io/pypi/l/turbovec\" alt=\"License\"></a> <a href=\"https://pypi.org/project/turbovec/\"><img src=\"https://img.shields.io/pypi/v/turbovec?label=pypi&color=blue\" alt=\"PyPI version\"></a> <a href=\"https://crates.io/crates/turbovec\"><img src=\"https://img.shields.io/crates/",
+        "topics": [
+          "ann",
+          "avx512",
+          "embedding",
+          "embeddings",
+          "faiss",
+          "nearest-neighbor",
+          "neon",
+          "python",
+          "quant",
+          "quantization",
+          "rag",
+          "rust",
+          "simd",
+          "turboquant",
+          "vector-search"
+        ],
+        "updated_at": "2026-07-18T09:06:29Z"
+      },
+      "repo": {
+        "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+        "forks": 1182,
+        "full_name": "RyanCodrai/turbovec",
+        "language": "Python",
+        "name": "turbovec",
+        "owner": "RyanCodrai",
+        "rank": 12,
+        "stars_today": 280,
+        "total_stars": 13422,
+        "url": "https://github.com/RyanCodrai/turbovec"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.6,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 61.4
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 280 stars today; score 61.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-05-09T12:03:18Z",
+        "default_branch": "master",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "fork": false,
+        "full_name": "codecrafters-io/build-your-own-x",
+        "homepage": "https://codecrafters.io",
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 524,
+        "primary_language": "Markdown",
+        "pushed_at": "2026-07-14T19:25:58Z",
+        "readme_excerpt": "[![Banner](https://codecrafters.io/images/new-ccgithub-banner.png)](https://codecrafters.io/github-banner) ## Build your own &lt;insert-technology-here&gt; This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. > *What I cannot create, I do not understand \u2014 Richard Feynman.* It's a great way to learn. * [3D Renderer](#build-your-own-3d-renderer) * [AI Model](#build-your-own-ai-model) * [Augmented Reality](#build-your-own-augm",
+        "topics": [
+          "awesome-list",
+          "free",
+          "programming",
+          "tutorial-code",
+          "tutorial-exercises",
+          "tutorials"
+        ],
+        "updated_at": "2026-07-18T09:09:10Z"
+      },
+      "repo": {
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "forks": 49941,
+        "full_name": "codecrafters-io/build-your-own-x",
+        "language": "Markdown",
+        "name": "build-your-own-x",
+        "owner": "codecrafters-io",
+        "rank": 1,
+        "stars_today": 1068,
+        "total_stars": 527774,
+        "url": "https://github.com/codecrafters-io/build-your-own-x"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 9.64,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 3.85,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 59.79
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Markdown project with 1068 stars today; score 59.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-08-26T15:52:15Z",
+        "default_branch": "main",
+        "description": "Protocol Buffers - Google's data interchange format",
+        "fork": false,
+        "full_name": "protocolbuffers/protobuf",
+        "homepage": "http://protobuf.dev",
+        "latest_release": "v35.1",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 291,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-18T06:18:10Z",
+        "readme_excerpt": "Protocol Buffers - Google's data interchange format =================================================== [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/protocolbuffers/protobuf/badge)](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC Overview -------- Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. You can learn more abou",
+        "topics": [
+          "marshalling",
+          "protobuf",
+          "protobuf-runtime",
+          "protoc",
+          "protocol-buffers",
+          "protocol-compiler",
+          "rpc",
+          "serialization"
+        ],
+        "updated_at": "2026-07-18T08:52:51Z"
+      },
+      "repo": {
+        "description": "Protocol Buffers - Google's data interchange format",
+        "forks": 16194,
+        "full_name": "protocolbuffers/protobuf",
+        "language": "C++",
+        "name": "protobuf",
+        "owner": "protocolbuffers",
+        "rank": 8,
+        "stars_today": 11,
+        "total_stars": 71569,
+        "url": "https://github.com/protocolbuffers/protobuf"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.65,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 47.16
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: C++ project with 11 stars today; score 47.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/tirth8205",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+        "forks": 2113,
+        "full_name": "sponsors/tirth8205",
+        "language": "Python",
+        "name": "tirth8205",
+        "owner": "sponsors",
+        "rank": 9,
+        "stars_today": 74,
+        "total_stars": 19906,
+        "url": "https://github.com/sponsors/tirth8205"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.87,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 42.08
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 74 stars today; score 42.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/HenryNdubuaku",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Become a cracked AI/ML Research Engineer",
+        "forks": 820,
+        "full_name": "sponsors/HenryNdubuaku",
+        "language": "TypeScript",
+        "name": "HenryNdubuaku",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 200,
+        "total_stars": 6805,
+        "url": "https://github.com/sponsors/HenryNdubuaku"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.44,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 28.39
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 200 stars today; score 28.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/OpenCut-app",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The open-source CapCut alternative",
+        "forks": 7563,
+        "full_name": "sponsors/OpenCut-app",
+        "language": "TypeScript",
+        "name": "OpenCut-app",
+        "owner": "sponsors",
+        "rank": 14,
+        "stars_today": 1074,
+        "total_stars": 75139,
+        "url": "https://github.com/sponsors/OpenCut-app"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 7.8,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.19,
+        "technical_quality": 3.5,
+        "total": 24.19
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: TypeScript project with 1074 stars today; score 24.2/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-07-18",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is anthropics/cwc-workshops."
+}
