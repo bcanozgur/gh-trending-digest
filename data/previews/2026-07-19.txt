@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-07-19
+
+Today leans toward AI workflow signal; the strongest pick is KnockOutEZ/wigolo.
+
+Top picks
+1. KnockOutEZ/wigolo - 80.5/100
+   https://github.com/KnockOutEZ/wigolo
+   AI Workflow, DevTools: TypeScript project with 203 stars today; score 80.5/100.
+2. MoonshotAI/kimi-cli - 63.9/100
+   https://github.com/MoonshotAI/kimi-cli
+   AI Workflow, DevTools: Python project with 65 stars today; score 63.9/100.
+3. Robbyant/lingbot-map - 63.0/100
+   https://github.com/Robbyant/lingbot-map
+   AI Workflow, Try Today: Python project with 831 stars today; score 63.0/100.
+4. elder-plinius/G0DM0D3 - 60.0/100
+   https://github.com/elder-plinius/G0DM0D3
+   AI Workflow, Try Today: TypeScript project with 69 stars today; score 60.0/100.
+5. sponsors/lyogavin - 36.7/100
+   https://github.com/sponsors/lyogavin
+   AI Workflow, Watch: Jupyter Notebook project with 161 stars today; score 36.7/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- KnockOutEZ/wigolo: 80.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 203 stars today; score 80.5/100.
+- MoonshotAI/kimi-cli: 63.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 65 stars today; score 63.9/100.
+- Robbyant/lingbot-map: 63.0/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 831 stars today; score 63.0/100.
+- elder-plinius/G0DM0D3: 60.0/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 69 stars today; score 60.0/100.
+- sponsors/lyogavin: 36.7/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Jupyter Notebook project with 161 stars today; score 36.7/100.
+- sponsors/rohitg00: 24.7/100 [Watch, Hype Risk] Watch, Hype Risk: Python project with 191 stars today; score 24.7/100.
+
+Generated for 2026-07-19 from GitHub Trending daily.
