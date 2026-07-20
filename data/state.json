@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-07-19",
+  "last_run": "2026-07-20",
   "repos": {
     "0xNyk/council-of-high-intelligence": {
       "first_seen": "2026-06-30",
@@ -9,6 +9,15 @@
       "last_sent": "2026-06-30",
       "last_stars_today": 161,
       "last_total_stars": 2862
+    },
+    "1jehuang/jcode": {
+      "first_seen": "2026-07-20",
+      "last_rank": 11,
+      "last_score": 78.68,
+      "last_seen": "2026-07-20",
+      "last_sent": "2026-07-20",
+      "last_stars_today": 235,
+      "last_total_stars": 9170
     },
     "AIEraDev/Clypra": {
       "first_seen": "2026-07-15",
@@ -27,6 +36,24 @@
       "last_sent": "2026-06-28",
       "last_stars_today": 255,
       "last_total_stars": 21555
+    },
+    "AstrBotDevs/AstrBot": {
+      "first_seen": "2026-07-20",
+      "last_rank": 10,
+      "last_score": 77.64,
+      "last_seen": "2026-07-20",
+      "last_sent": "2026-07-20",
+      "last_stars_today": 83,
+      "last_total_stars": 36869
+    },
+    "Canner/WrenAI": {
+      "first_seen": "2026-07-20",
+      "last_rank": 17,
+      "last_score": 71.99,
+      "last_seen": "2026-07-20",
+      "last_sent": "2026-07-20",
+      "last_stars_today": 121,
+      "last_total_stars": 16392
     },
     "ChromeDevTools/chrome-devtools-mcp": {
       "first_seen": "2026-07-03",
@@ -93,12 +120,12 @@
     },
     "Flowseal/zapret-discord-youtube": {
       "first_seen": "2026-06-25",
-      "last_rank": 11,
-      "last_score": 37.49,
-      "last_seen": "2026-06-25",
-      "last_sent": "2026-06-25",
-      "last_stars_today": 61,
-      "last_total_stars": 30075
+      "last_rank": 14,
+      "last_score": 33.15,
+      "last_seen": "2026-07-20",
+      "last_sent": "2026-07-20",
+      "last_stars_today": 106,
+      "last_total_stars": 31069
     },
     "Free-TV/IPTV": {
       "first_seen": "2026-06-15",
@@ -156,12 +183,12 @@
     },
     "KnockOutEZ/wigolo": {
       "first_seen": "2026-07-19",
-      "last_rank": 9,
-      "last_score": 80.51,
-      "last_seen": "2026-07-19",
+      "last_rank": 5,
+      "last_score": 81.0,
+      "last_seen": "2026-07-20",
       "last_sent": "2026-07-19",
-      "last_stars_today": 203,
-      "last_total_stars": 1446
+      "last_stars_today": 595,
+      "last_total_stars": 2183
     },
     "MadsLorentzen/ai-job-search": {
       "first_seen": "2026-07-08",
@@ -183,12 +210,12 @@
     },
     "MoonshotAI/kimi-cli": {
       "first_seen": "2026-07-19",
-      "last_rank": 11,
-      "last_score": 63.94,
-      "last_seen": "2026-07-19",
+      "last_rank": 13,
+      "last_score": 62.54,
+      "last_seen": "2026-07-20",
       "last_sent": "2026-07-19",
-      "last_stars_today": 65,
-      "last_total_stars": 9636
+      "last_stars_today": 410,
+      "last_total_stars": 10056
     },
     "NousResearch/hermes-agent": {
       "first_seen": "2026-06-24",
@@ -208,6 +235,15 @@
       "last_stars_today": 1485,
       "last_total_stars": 12404
     },
+    "PKUFlyingPig/cs-self-learning": {
+      "first_seen": "2026-07-20",
+      "last_rank": 18,
+      "last_score": 51.7,
+      "last_seen": "2026-07-20",
+      "last_sent": "2026-07-20",
+      "last_stars_today": 134,
+      "last_total_stars": 74359
+    },
     "Panniantong/Agent-Reach": {
       "first_seen": "2026-06-07",
       "last_rank": 17,
@@ -222,12 +258,12 @@
     },
     "PostHog/posthog": {
       "first_seen": "2026-07-17",
-      "last_rank": 3,
-      "last_score": 69.59,
-      "last_seen": "2026-07-19",
+      "last_rank": 8,
+      "last_score": 70.93,
+      "last_seen": "2026-07-20",
       "last_sent": "2026-07-17",
-      "last_stars_today": 338,
-      "last_total_stars": 36736
+      "last_stars_today": 411,
+      "last_total_stars": 37072
     },
     "PrefectHQ/prefect": {
       "first_seen": "2026-07-13",
@@ -418,6 +454,15 @@
       "last_stars_today": 41,
       "last_total_stars": 1496
     },
+    "andrewrabert/jellium-desktop": {
+      "first_seen": "2026-07-20",
+      "last_rank": 6,
+      "last_score": 60.77,
+      "last_seen": "2026-07-20",
+      "last_sent": "2026-07-20",
+      "last_stars_today": 43,
+      "last_total_stars": 1369
+    },
     "ansible/ansible": {
       "first_seen": "2026-07-04",
       "last_rank": 23,
@@ -598,12 +643,12 @@
     },
     "codecrafters-io/build-your-own-x": {
       "first_seen": "2026-07-17",
-      "last_rank": 10,
-      "last_score": 60.95,
-      "last_seen": "2026-07-19",
+      "last_rank": 15,
+      "last_score": 60.13,
+      "last_seen": "2026-07-20",
       "last_sent": "2026-07-17",
-      "last_stars_today": 1126,
-      "last_total_stars": 528528
+      "last_stars_today": 754,
+      "last_total_stars": 529209
     },
     "commaai/openpilot": {
       "first_seen": "2026-06-27",
@@ -751,12 +796,12 @@
     },
     "github/copilot-sdk": {
       "first_seen": "2026-07-17",
-      "last_rank": 5,
-      "last_score": 62.24,
-      "last_seen": "2026-07-18",
+      "last_rank": 7,
+      "last_score": 61.07,
+      "last_seen": "2026-07-20",
       "last_sent": "2026-07-17",
-      "last_stars_today": 233,
-      "last_total_stars": 9845
+      "last_stars_today": 39,
+      "last_total_stars": 10021
     },
     "github/spec-kit": {
       "first_seen": "2026-07-14",
@@ -877,12 +922,12 @@
     },
     "jamiepine/voicebox": {
       "first_seen": "2026-06-22",
-      "last_rank": 11,
-      "last_score": 65.2,
-      "last_seen": "2026-06-24",
-      "last_sent": "2026-06-22",
-      "last_stars_today": 1045,
-      "last_total_stars": 33568
+      "last_rank": 4,
+      "last_score": 70.56,
+      "last_seen": "2026-07-20",
+      "last_sent": "2026-07-20",
+      "last_stars_today": 610,
+      "last_total_stars": 43762
     },
     "jbeder/yaml-cpp": {
       "first_seen": "2026-07-11",
@@ -928,6 +973,15 @@
       "last_sent": "2026-06-25",
       "last_stars_today": 398,
       "last_total_stars": 3624
+    },
+    "kvcache-ai/ktransformers": {
+      "first_seen": "2026-07-20",
+      "last_rank": 2,
+      "last_score": 68.77,
+      "last_seen": "2026-07-20",
+      "last_sent": "2026-07-20",
+      "last_stars_today": 360,
+      "last_total_stars": 18578
     },
     "kyutai-labs/pocket-tts": {
       "first_seen": "2026-07-08",
@@ -992,14 +1046,14 @@
       "last_stars_today": 177,
       "last_total_stars": 109841
     },
-    "mikumifa/biliTickerBuy": {
-      "first_seen": "2026-06-21",
-      "last_rank": 11,
-      "last_score": 51.58,
-      "last_seen": "2026-06-21",
-      "last_sent": "2026-06-21",
-      "last_stars_today": 164,
-      "last_total_stars": 3673
+    "microsoft/terminal": {
+      "first_seen": "2026-07-20",
+      "last_rank": 9,
+      "last_score": 64.23,
+      "last_seen": "2026-07-20",
+      "last_sent": "2026-07-20",
+      "last_stars_today": 59,
+      "last_total_stars": 104291
     },
     "moeru-ai/airi": {
       "first_seen": "2026-07-14",
@@ -1211,15 +1265,6 @@
       "last_stars_today": 287,
       "last_total_stars": 61012
     },
-    "smicallef/spiderfoot": {
-      "first_seen": "2026-06-21",
-      "last_rank": 12,
-      "last_score": 63.56,
-      "last_seen": "2026-06-21",
-      "last_sent": "2026-06-21",
-      "last_stars_today": 288,
-      "last_total_stars": 18546
-    },
     "sponsors/AhmadIbrahiim": {
       "first_seen": "2026-07-08",
       "last_rank": 7,
@@ -1390,15 +1435,6 @@
       "last_stars_today": 1754,
       "last_total_stars": 24266
     },
-    "sponsors/chopratejas": {
-      "first_seen": "2026-06-19",
-      "last_rank": 3,
-      "last_score": 40.67,
-      "last_seen": "2026-06-21",
-      "last_sent": "2026-06-19",
-      "last_stars_today": 3795,
-      "last_total_stars": 42741
-    },
     "sponsors/coreyhaines31": {
       "first_seen": "2026-07-14",
       "last_rank": 11,
@@ -1508,12 +1544,12 @@
     },
     "sponsors/lyogavin": {
       "first_seen": "2026-06-22",
-      "last_rank": 8,
-      "last_score": 36.74,
-      "last_seen": "2026-07-19",
+      "last_rank": 16,
+      "last_score": 38.38,
+      "last_seen": "2026-07-20",
       "last_sent": "2026-07-19",
-      "last_stars_today": 161,
-      "last_total_stars": 23469
+      "last_stars_today": 358,
+      "last_total_stars": 23785
     },
     "sponsors/mattpocock": {
       "first_seen": "2026-06-17",
@@ -1570,12 +1606,12 @@
     },
     "sponsors/rohitg00": {
       "first_seen": "2026-07-19",
-      "last_rank": 5,
-      "last_score": 24.67,
-      "last_seen": "2026-07-19",
+      "last_rank": 3,
+      "last_score": 25.72,
+      "last_seen": "2026-07-20",
       "last_sent": "2026-07-19",
-      "last_stars_today": 191,
-      "last_total_stars": 39289
+      "last_stars_today": 501,
+      "last_total_stars": 40110
     },
     "sponsors/santifer": {
       "first_seen": "2026-06-07",
@@ -1633,12 +1669,12 @@
     },
     "sponsors/tirth8205": {
       "first_seen": "2026-07-18",
-      "last_rank": 6,
-      "last_score": 39.54,
-      "last_seen": "2026-07-19",
+      "last_rank": 1,
+      "last_score": 45.22,
+      "last_seen": "2026-07-20",
       "last_sent": "2026-07-18",
-      "last_stars_today": 355,
-      "last_total_stars": 20378
+      "last_stars_today": 663,
+      "last_total_stars": 22186
     },
     "sponsors/topoteretes": {
       "first_seen": "2026-06-21",
@@ -1648,6 +1684,15 @@
       "last_sent": "2026-06-28",
       "last_stars_today": 780,
       "last_total_stars": 24323
+    },
+    "sponsors/trycua": {
+      "first_seen": "2026-07-20",
+      "last_rank": 12,
+      "last_score": 36.38,
+      "last_seen": "2026-07-20",
+      "last_sent": "2026-07-20",
+      "last_stars_today": 64,
+      "last_total_stars": 20330
     },
     "sponsors/unclecode": {
       "first_seen": "2026-07-10",
