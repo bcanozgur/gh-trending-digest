@@ -1,0 +1,1709 @@
+{
+  "date": "2026-07-21",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-09T02:41:44Z",
+        "default_branch": "main",
+        "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Agent\uff1a\u8bbe\u8ba1\u539f\u7406\u4e0e\u5de5\u7a0b\u5b9e\u8df5\u300b\uff08\u674e\u535a\u6770 \u8457\uff09\u5f00\u6e90\u4e3b\u4ed3\u5e93\uff1a\u5168\u4e66\u6b63\u6587\u3001\u7f16\u8bd1\u7248 PDF \u4e0e\u6309\u7ae0\u914d\u5957\u4ee3\u7801",
+        "fork": false,
+        "full_name": "bojieli/ai-agent-book",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 5,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-21T09:47:36Z",
+        "readme_excerpt": "# \u6df1\u5165\u7406\u89e3 AI Agent\uff1a\u8bbe\u8ba1\u539f\u7406\u4e0e\u5de5\u7a0b\u5b9e\u8df5 [![Stars](https://img.shields.io/github/stars/bojieli/ai-agent-book?style=social)](https://github.com/bojieli/ai-agent-book) [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE) [![PDF](https://img.shields.io/badge/PDF-%E4%B8%8B%E8%BD%BD-success.svg)](#-\u7535\u5b50\u4e66) [![Languages](https://img.shields.io/badge/\u7ffb\u8bd1-5%20\u79cd%20\u8bed\u8a00-informational.svg)](#-\u7535\u5b50\u4e66) **\u4e2d\u6587** \u2190 \u5f53\u524d \u00b7 [\u53f0\u7063\u6b63\u9ad4](README.zhtw.md) \u00b7 [English](README.en.md) \u00b7 [Ti\u1ebfng Vi\u1ec7t](README.vi.md) \u00b7 [\u0ba4\u0bae\u0bbf\u0bb4\u0bcd](R",
+        "topics": [
+          "agent",
+          "agent-memory",
+          "ai-agent",
+          "book",
+          "coding-agent",
+          "context-engineering",
+          "large-language-models",
+          "llm",
+          "mcp",
+          "multi-agent",
+          "multimodal",
+          "rag",
+          "reinforcement-learning"
+        ],
+        "updated_at": "2026-07-21T10:03:56Z"
+      },
+      "repo": {
+        "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Agent\uff1a\u8bbe\u8ba1\u539f\u7406\u4e0e\u5de5\u7a0b\u5b9e\u8df5\u300b\uff08\u674e\u535a\u6770 \u8457\uff09\u5f00\u6e90\u4e3b\u4ed3\u5e93\uff1a\u5168\u4e66\u6b63\u6587\u3001\u7f16\u8bd1\u7248 PDF \u4e0e\u6309\u7ae0\u914d\u5957\u4ee3\u7801",
+        "forks": 1224,
+        "full_name": "bojieli/ai-agent-book",
+        "language": "Python",
+        "name": "ai-agent-book",
+        "owner": "bojieli",
+        "rank": 1,
+        "stars_today": 4434,
+        "total_stars": 12915,
+        "url": "https://github.com/bojieli/ai-agent-book"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.9,
+        "total": 78.5
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 4434 stars today; score 78.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-11-30T01:47:40Z",
+        "default_branch": "main",
+        "description": "\ud83d\ude80 The fast, Pythonic way to build MCP servers and clients.",
+        "fork": false,
+        "full_name": "PrefectHQ/fastmcp",
+        "homepage": "https://gofastmcp.com",
+        "latest_release": "v3.4.4",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 255,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-21T01:43:31Z",
+        "readme_excerpt": "<div align=\"center\"> <!-- omit in toc --> <picture> <source width=\"550\" media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/PrefectHQ/fastmcp/main/docs/assets/brand/f-watercolor-waves-4-dark.png\"> <source width=\"550\" media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/PrefectHQ/fastmcp/main/docs/assets/brand/f-watercolor-waves-4.png\"> <img width=\"550\" alt=\"FastMCP Logo\" src=\"https://raw.githubusercontent.com/PrefectHQ/fastmcp/main/docs/asset",
+        "topics": [
+          "agents",
+          "fastmcp",
+          "llms",
+          "mcp",
+          "mcp-clients",
+          "mcp-servers",
+          "mcp-tools",
+          "model-context-protocol",
+          "python"
+        ],
+        "updated_at": "2026-07-21T10:00:10Z"
+      },
+      "repo": {
+        "description": "\ud83d\ude80 The fast, Pythonic way to build MCP servers and clients.",
+        "forks": 2169,
+        "full_name": "PrefectHQ/fastmcp",
+        "language": "Python",
+        "name": "fastmcp",
+        "owner": "PrefectHQ",
+        "rank": 14,
+        "stars_today": 96,
+        "total_stars": 26679,
+        "url": "https://github.com/PrefectHQ/fastmcp"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.91,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 72.96
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 96 stars today; score 73.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-05T20:16:56Z",
+        "default_branch": "main",
+        "description": "Self-hosted deployment platform",
+        "fork": false,
+        "full_name": "oblien/openship",
+        "homepage": "https://openship.io",
+        "latest_release": "v0.1.11",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 30,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-21T07:18:40Z",
+        "readme_excerpt": "<h1 align=\"center\">Openship</h1> <p align=\"center\"> Open-source, self-hostable deployment platform with built-in CI/CD.<br> Push code, ship containers, manage infrastructure \u2014 from a desktop app, web dashboard, or CLI. </p> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/openship\"><img src=\"https://img.shields.io/npm/v/openship?color=0b7285&label=npm\" alt=\"npm version\" /></a> <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-Apache--2.0-blue\" alt=\"License\" /></a> <a href",
+        "topics": [
+          "agents",
+          "ai",
+          "deployments",
+          "self-hosted"
+        ],
+        "updated_at": "2026-07-21T10:02:48Z"
+      },
+      "repo": {
+        "description": "Self-hosted deployment platform",
+        "forks": 375,
+        "full_name": "oblien/openship",
+        "language": "TypeScript",
+        "name": "openship",
+        "owner": "oblien",
+        "rank": 18,
+        "stars_today": 1641,
+        "total_stars": 5376,
+        "url": "https://github.com/oblien/openship"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.26,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 72.91
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1641 stars today; score 72.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-07T10:23:34Z",
+        "default_branch": "main",
+        "description": " ggml speech-to-text inference for 16+ model families",
+        "fork": false,
+        "full_name": "handy-computer/transcribe.cpp",
+        "homepage": "https://huggingface.co/handy-computer",
+        "latest_release": "v0.1.3",
+        "license_spdx": "MIT",
+        "open_issues": 25,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-21T04:51:24Z",
+        "readme_excerpt": "# transcribe.cpp C/C++ speech-to-text inference library. Runs diverse STT model families via [GGUF](https://github.com/ggerganov/gguf) models on the [ggml](https://github.com/ggml-org/ggml) runtime, with Metal, Vulkan, and CUDA backends for fast GPU inference plus a tinyBLAS-accelerated CPU path. 16 model families and 60+ variants, streaming and batch. Every model we publish under [`handy-computer`](https://huggingface.co/handy-computer) is numerically verified and WER-tested against its referen",
+        "topics": [
+          "asr",
+          "ggml",
+          "gguf",
+          "speech-to-text"
+        ],
+        "updated_at": "2026-07-21T09:59:34Z"
+      },
+      "repo": {
+        "description": "ggml speech-to-text inference for 16+ model families",
+        "forks": 38,
+        "full_name": "handy-computer/transcribe.cpp",
+        "language": "C++",
+        "name": "transcribe.cpp",
+        "owner": "handy-computer",
+        "rank": 20,
+        "stars_today": 395,
+        "total_stars": 1416,
+        "url": "https://github.com/handy-computer/transcribe.cpp"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.61,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 71.91
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: C++ project with 395 stars today; score 71.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-10-04T22:10:28Z",
+        "default_branch": "main",
+        "description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
+        "fork": false,
+        "full_name": "moonshine-ai/moonshine",
+        "homepage": "https://moonshine.ai",
+        "latest_release": "v0.0.69",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 9,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-21T02:39:27Z",
+        "readme_excerpt": "![Moonshine Voice Logo](images/logo.png) # Moonshine Voice **Voice Interfaces for Everyone** - [Quickstart](#quickstart) - [When should you choose Moonshine over Whisper?](#when-should-you-choose-moonshine-over-whisper) - [Using the Library](#using-the-library) - [Speech to Text](#getting-started-with-transcription) - [Text to Speech](#getting-started-with-text-to-speech) - [Conversational Agents](#getting-started-with-a-conversational-agent) - [Models](#models) - [API Reference](#api-reference)",
+        "topics": [
+          "intent-recognition",
+          "stt",
+          "tts",
+          "voice",
+          "voice-recognition"
+        ],
+        "updated_at": "2026-07-21T10:03:20Z"
+      },
+      "repo": {
+        "description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
+        "forks": 533,
+        "full_name": "moonshine-ai/moonshine",
+        "language": "C++",
+        "name": "moonshine",
+        "owner": "moonshine-ai",
+        "rank": 21,
+        "stars_today": 282,
+        "total_stars": 10142,
+        "url": "https://github.com/moonshine-ai/moonshine"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 1.25,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.25,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 69.79
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 282 stars today; score 69.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-27T18:57:41Z",
+        "default_branch": "main",
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "fork": false,
+        "full_name": "every-app/open-seo",
+        "homepage": "https://openseo.so",
+        "latest_release": "v0.1.1",
+        "license_spdx": "MIT",
+        "open_issues": 32,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-21T03:24:13Z",
+        "readme_excerpt": "# OpenSEO > Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for _the people_. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control. > All-in-one SEO tool for you and your AI agent. Connect with any agent like Claude Code, OpenClaw or Hermes. We have pre-built skills, but you can build your own to tailor OpenSEO to your needs. <img width=\"1385\" height=\"794\" alt=\"Image\" src=\"https://github.com/user-attac",
+        "topics": [
+          "backlink-analysis",
+          "google-search-console-mcp",
+          "keyword-research",
+          "mcp",
+          "seo",
+          "seo-tools",
+          "site-audit"
+        ],
+        "updated_at": "2026-07-21T10:02:37Z"
+      },
+      "repo": {
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "forks": 682,
+        "full_name": "every-app/open-seo",
+        "language": "TypeScript",
+        "name": "open-seo",
+        "owner": "every-app",
+        "rank": 11,
+        "stars_today": 939,
+        "total_stars": 6197,
+        "url": "https://github.com/every-app/open-seo"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.94,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 64.54
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 939 stars today; score 64.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-11-14T22:00:57Z",
+        "default_branch": "master",
+        "description": "Collection of publicly available IPTV channels from all over the world",
+        "fork": false,
+        "full_name": "iptv-org/iptv",
+        "homepage": "https://iptv-org.github.io",
+        "latest_release": null,
+        "license_spdx": "Unlicense",
+        "open_issues": 26,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-21T00:27:47Z",
+        "readme_excerpt": "# IPTV [![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml/badge.svg)](https://github.com/iptv-org/iptv/actions/workflows/update.yml) Collection of publicly available IPTV (Internet Protocol television) channels from all over the world. ## Table of contents - \ud83d\ude80 [How to use?](#how-to-use) - \ud83d\udcfa [Playlists](#playlists) - \ud83d\uddd3 [EPG](#epg) - \ud83d\uddc4 [Database](#database) - \ud83d\udc68\u200d\ud83d\udcbb [API](#api) - \ud83d\udcda [Resources](#resources) - \ud83d\udcac [Discussions](#discussions) - \u2753 [FAQ](#faq) - \ud83d\udee0 [Contribution](#contri",
+        "topics": [
+          "iptv",
+          "m3u",
+          "playlist",
+          "streams",
+          "tv"
+        ],
+        "updated_at": "2026-07-21T10:00:18Z"
+      },
+      "repo": {
+        "description": "Collection of publicly available IPTV channels from all over the world",
+        "forks": 7573,
+        "full_name": "iptv-org/iptv",
+        "language": "TypeScript",
+        "name": "iptv",
+        "owner": "iptv-org",
+        "rank": 17,
+        "stars_today": 240,
+        "total_stars": 133937,
+        "url": "https://github.com/iptv-org/iptv"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.75,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 59.16
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 240 stars today; score 59.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-17T12:34:14Z",
+        "default_branch": "main",
+        "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+        "fork": false,
+        "full_name": "microsoft/Ontology-Playground",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 15,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-19T21:14:11Z",
+        "readme_excerpt": "# Ontology Playground (Preview) \u2615 > Note: This project was developed with AI-assisted coding. **[Try it live &#x2192; microsoft.github.io/Ontology-Playground](https://microsoft.github.io/Ontology-Playground/)** [![Ontology Playground screenshot](public/og-image.png)](https://microsoft.github.io/Ontology-Playground/) A free, open-source web application for learning about ontologies and **Microsoft Fabric IQ**. Explore pre-built ontologies, design your own in a visual editor, export as RDF/XML, an",
+        "topics": [],
+        "updated_at": "2026-07-21T10:01:30Z"
+      },
+      "repo": {
+        "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+        "forks": 239,
+        "full_name": "microsoft/Ontology-Playground",
+        "language": "TypeScript",
+        "name": "Ontology-Playground",
+        "owner": "microsoft",
+        "rank": 19,
+        "stars_today": 464,
+        "total_stars": 1863,
+        "url": "https://github.com/microsoft/Ontology-Playground"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.89,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 54.14
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 464 stars today; score 54.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/diegosouzapw",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models \u2014 Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+        "forks": 3036,
+        "full_name": "sponsors/diegosouzapw",
+        "language": "TypeScript",
+        "name": "diegosouzapw",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 1107,
+        "total_stars": 22596,
+        "url": "https://github.com/sponsors/diegosouzapw"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.27,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 7.0,
+        "technical_quality": 3.5,
+        "total": 48.67
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1107 stars today; score 48.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/topoteretes",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+        "forks": 2754,
+        "full_name": "sponsors/topoteretes",
+        "language": "Python",
+        "name": "topoteretes",
+        "owner": "sponsors",
+        "rank": 9,
+        "stars_today": 234,
+        "total_stars": 28938,
+        "url": "https://github.com/sponsors/topoteretes"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.89,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 35.84
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 234 stars today; score 35.8/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-09T02:41:44Z",
+        "default_branch": "main",
+        "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Agent\uff1a\u8bbe\u8ba1\u539f\u7406\u4e0e\u5de5\u7a0b\u5b9e\u8df5\u300b\uff08\u674e\u535a\u6770 \u8457\uff09\u5f00\u6e90\u4e3b\u4ed3\u5e93\uff1a\u5168\u4e66\u6b63\u6587\u3001\u7f16\u8bd1\u7248 PDF \u4e0e\u6309\u7ae0\u914d\u5957\u4ee3\u7801",
+        "fork": false,
+        "full_name": "bojieli/ai-agent-book",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 5,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-21T09:47:36Z",
+        "readme_excerpt": "# \u6df1\u5165\u7406\u89e3 AI Agent\uff1a\u8bbe\u8ba1\u539f\u7406\u4e0e\u5de5\u7a0b\u5b9e\u8df5 [![Stars](https://img.shields.io/github/stars/bojieli/ai-agent-book?style=social)](https://github.com/bojieli/ai-agent-book) [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE) [![PDF](https://img.shields.io/badge/PDF-%E4%B8%8B%E8%BD%BD-success.svg)](#-\u7535\u5b50\u4e66) [![Languages](https://img.shields.io/badge/\u7ffb\u8bd1-5%20\u79cd%20\u8bed\u8a00-informational.svg)](#-\u7535\u5b50\u4e66) **\u4e2d\u6587** \u2190 \u5f53\u524d \u00b7 [\u53f0\u7063\u6b63\u9ad4](README.zhtw.md) \u00b7 [English](README.en.md) \u00b7 [Ti\u1ebfng Vi\u1ec7t](README.vi.md) \u00b7 [\u0ba4\u0bae\u0bbf\u0bb4\u0bcd](R",
+        "topics": [
+          "agent",
+          "agent-memory",
+          "ai-agent",
+          "book",
+          "coding-agent",
+          "context-engineering",
+          "large-language-models",
+          "llm",
+          "mcp",
+          "multi-agent",
+          "multimodal",
+          "rag",
+          "reinforcement-learning"
+        ],
+        "updated_at": "2026-07-21T10:03:56Z"
+      },
+      "repo": {
+        "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Agent\uff1a\u8bbe\u8ba1\u539f\u7406\u4e0e\u5de5\u7a0b\u5b9e\u8df5\u300b\uff08\u674e\u535a\u6770 \u8457\uff09\u5f00\u6e90\u4e3b\u4ed3\u5e93\uff1a\u5168\u4e66\u6b63\u6587\u3001\u7f16\u8bd1\u7248 PDF \u4e0e\u6309\u7ae0\u914d\u5957\u4ee3\u7801",
+        "forks": 1224,
+        "full_name": "bojieli/ai-agent-book",
+        "language": "Python",
+        "name": "ai-agent-book",
+        "owner": "bojieli",
+        "rank": 1,
+        "stars_today": 4434,
+        "total_stars": 12915,
+        "url": "https://github.com/bojieli/ai-agent-book"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.9,
+        "total": 78.5
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 4434 stars today; score 78.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-12T15:04:11Z",
+        "default_branch": "main",
+        "description": "The go-to web for your AI coding agent \u2014 local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+        "fork": false,
+        "full_name": "KnockOutEZ/wigolo",
+        "homepage": "https://knockoutez.github.io/wigolo/",
+        "latest_release": "v0.2.1",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 28,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-21T07:42:13Z",
+        "readme_excerpt": "<div align=\"center\"> <img alt=\"wigolo \u2014 the go-to web for your agent\" src=\"assets/brand/wigolo-banner.png\" width=\"640\"> Local-first web intelligence for AI agents \u2014 **no keys, no cloud, no metered bill.** <sub>works with&nbsp;&nbsp;**Claude Code \u00b7 Cursor \u00b7 Codex \u00b7 Gemini CLI \u00b7 VS Code \u00b7 Windsurf \u00b7 Zed \u00b7 Antigravity**</sub> <br> <sub>and beyond&nbsp;&nbsp;**LangChain \u00b7 CrewAI \u00b7 LlamaIndex \u00b7 Vercel AI SDK \u00b7 n8n & self-hosted agents \u00b7 any MCP client \u00b7 plain REST**</sub> [![npm](https://img.shields.",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agent",
+          "claude",
+          "cli",
+          "developer-tools",
+          "local-first",
+          "mcp",
+          "mcp-server",
+          "metasearch",
+          "model-context-protocol",
+          "nodejs",
+          "privacy",
+          "rag",
+          "search",
+          "search-engine",
+          "typescript",
+          "web-crawler",
+          "web-scraping",
+          "web-search"
+        ],
+        "updated_at": "2026-07-21T10:02:02Z"
+      },
+      "repo": {
+        "description": "The go-to web for your AI coding agent \u2014 local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+        "forks": 175,
+        "full_name": "KnockOutEZ/wigolo",
+        "language": "TypeScript",
+        "name": "wigolo",
+        "owner": "KnockOutEZ",
+        "rank": 15,
+        "stars_today": 689,
+        "total_stars": 2795,
+        "url": "https://github.com/KnockOutEZ/wigolo"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.89,
+        "novelty": 2.8,
+        "practical_usefulness": 19.4,
+        "production_readiness": 5.25,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 74.24
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 689 stars today; score 74.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-05T09:43:36Z",
+        "default_branch": "master",
+        "description": "The most intelligent agent harness for code",
+        "fork": false,
+        "full_name": "1jehuang/jcode",
+        "homepage": "https://jcode.sh",
+        "latest_release": "v0.54.4",
+        "license_spdx": "MIT",
+        "open_issues": 108,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-21T03:14:04Z",
+        "readme_excerpt": "<div align=\"center\"> # jcode [![Latest Release](https://badgen.net/github/release/1jehuang/jcode?icon=github)](https://github.com/1jehuang/jcode/releases) [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE) [![Platforms](https://img.shields.io/badge/platforms-Linux%20%7C%20macOS%20%7C%20Windows-blue?style=flat-square)](https://github.com/1jehuang/jcode/releases) [![Last Commit](https://badgen.net/github/last-commit/1jehuang/jcode/master?icon=github)](https",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "ai-coding-agent",
+          "claude",
+          "cli",
+          "coding-agent",
+          "llm",
+          "mcp",
+          "openai",
+          "rust",
+          "terminal",
+          "tui"
+        ],
+        "updated_at": "2026-07-21T10:00:30Z"
+      },
+      "repo": {
+        "description": "The most intelligent agent harness for code",
+        "forks": 1105,
+        "full_name": "1jehuang/jcode",
+        "language": "Rust",
+        "name": "jcode",
+        "owner": "1jehuang",
+        "rank": 3,
+        "stars_today": 568,
+        "total_stars": 9991,
+        "url": "https://github.com/1jehuang/jcode"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.39,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.09
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 568 stars today; score 73.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-11-30T01:47:40Z",
+        "default_branch": "main",
+        "description": "\ud83d\ude80 The fast, Pythonic way to build MCP servers and clients.",
+        "fork": false,
+        "full_name": "PrefectHQ/fastmcp",
+        "homepage": "https://gofastmcp.com",
+        "latest_release": "v3.4.4",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 255,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-21T01:43:31Z",
+        "readme_excerpt": "<div align=\"center\"> <!-- omit in toc --> <picture> <source width=\"550\" media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/PrefectHQ/fastmcp/main/docs/assets/brand/f-watercolor-waves-4-dark.png\"> <source width=\"550\" media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/PrefectHQ/fastmcp/main/docs/assets/brand/f-watercolor-waves-4.png\"> <img width=\"550\" alt=\"FastMCP Logo\" src=\"https://raw.githubusercontent.com/PrefectHQ/fastmcp/main/docs/asset",
+        "topics": [
+          "agents",
+          "fastmcp",
+          "llms",
+          "mcp",
+          "mcp-clients",
+          "mcp-servers",
+          "mcp-tools",
+          "model-context-protocol",
+          "python"
+        ],
+        "updated_at": "2026-07-21T10:00:10Z"
+      },
+      "repo": {
+        "description": "\ud83d\ude80 The fast, Pythonic way to build MCP servers and clients.",
+        "forks": 2169,
+        "full_name": "PrefectHQ/fastmcp",
+        "language": "Python",
+        "name": "fastmcp",
+        "owner": "PrefectHQ",
+        "rank": 14,
+        "stars_today": 96,
+        "total_stars": 26679,
+        "url": "https://github.com/PrefectHQ/fastmcp"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.91,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 72.96
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 96 stars today; score 73.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-05T20:16:56Z",
+        "default_branch": "main",
+        "description": "Self-hosted deployment platform",
+        "fork": false,
+        "full_name": "oblien/openship",
+        "homepage": "https://openship.io",
+        "latest_release": "v0.1.11",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 30,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-21T07:18:40Z",
+        "readme_excerpt": "<h1 align=\"center\">Openship</h1> <p align=\"center\"> Open-source, self-hostable deployment platform with built-in CI/CD.<br> Push code, ship containers, manage infrastructure \u2014 from a desktop app, web dashboard, or CLI. </p> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/openship\"><img src=\"https://img.shields.io/npm/v/openship?color=0b7285&label=npm\" alt=\"npm version\" /></a> <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-Apache--2.0-blue\" alt=\"License\" /></a> <a href",
+        "topics": [
+          "agents",
+          "ai",
+          "deployments",
+          "self-hosted"
+        ],
+        "updated_at": "2026-07-21T10:02:48Z"
+      },
+      "repo": {
+        "description": "Self-hosted deployment platform",
+        "forks": 375,
+        "full_name": "oblien/openship",
+        "language": "TypeScript",
+        "name": "openship",
+        "owner": "oblien",
+        "rank": 18,
+        "stars_today": 1641,
+        "total_stars": 5376,
+        "url": "https://github.com/oblien/openship"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.26,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 72.91
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1641 stars today; score 72.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-07T10:23:34Z",
+        "default_branch": "main",
+        "description": " ggml speech-to-text inference for 16+ model families",
+        "fork": false,
+        "full_name": "handy-computer/transcribe.cpp",
+        "homepage": "https://huggingface.co/handy-computer",
+        "latest_release": "v0.1.3",
+        "license_spdx": "MIT",
+        "open_issues": 25,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-21T04:51:24Z",
+        "readme_excerpt": "# transcribe.cpp C/C++ speech-to-text inference library. Runs diverse STT model families via [GGUF](https://github.com/ggerganov/gguf) models on the [ggml](https://github.com/ggml-org/ggml) runtime, with Metal, Vulkan, and CUDA backends for fast GPU inference plus a tinyBLAS-accelerated CPU path. 16 model families and 60+ variants, streaming and batch. Every model we publish under [`handy-computer`](https://huggingface.co/handy-computer) is numerically verified and WER-tested against its referen",
+        "topics": [
+          "asr",
+          "ggml",
+          "gguf",
+          "speech-to-text"
+        ],
+        "updated_at": "2026-07-21T09:59:34Z"
+      },
+      "repo": {
+        "description": "ggml speech-to-text inference for 16+ model families",
+        "forks": 38,
+        "full_name": "handy-computer/transcribe.cpp",
+        "language": "C++",
+        "name": "transcribe.cpp",
+        "owner": "handy-computer",
+        "rank": 20,
+        "stars_today": 395,
+        "total_stars": 1416,
+        "url": "https://github.com/handy-computer/transcribe.cpp"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.61,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 71.91
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: C++ project with 395 stars today; score 71.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-12-08T13:27:46Z",
+        "default_branch": "master",
+        "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. \u2728",
+        "fork": false,
+        "full_name": "AstrBotDevs/AstrBot",
+        "homepage": "https://astrbot.app",
+        "latest_release": "v4.26.7",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 1336,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-21T03:24:05Z",
+        "readme_excerpt": "![AstrBot-Logo-Simplified](https://github.com/user-attachments/assets/36fb04e4-cc75-4454-bd8b-049d11aa86f9) <div align=\"center\"> <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_zh.md\">\u7b80\u4f53\u4e2d\u6587</a> \uff5c <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_zh-TW.md\">\u7e41\u9ad4\u4e2d\u6587</a> \uff5c <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_ja.md\">\u65e5\u672c\u8a9e</a> \uff5c <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_fr.md\">Fran\u00e7ais</a> \uff5c <a href=\"https://github.c",
+        "topics": [
+          "agent",
+          "ai",
+          "astrbot",
+          "chatbot",
+          "chatgpt",
+          "discord",
+          "docker",
+          "gemini",
+          "gpt",
+          "llama",
+          "llm",
+          "mcp",
+          "openai",
+          "python",
+          "qq",
+          "qqbot",
+          "telegram"
+        ],
+        "updated_at": "2026-07-21T10:02:25Z"
+      },
+      "repo": {
+        "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. \u2728",
+        "forks": 2596,
+        "full_name": "AstrBotDevs/AstrBot",
+        "language": "Python",
+        "name": "AstrBot",
+        "owner": "AstrBotDevs",
+        "rank": 13,
+        "stars_today": 317,
+        "total_stars": 37279,
+        "url": "https://github.com/AstrBotDevs/AstrBot"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.47,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 71.68
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 317 stars today; score 71.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-10-04T22:10:28Z",
+        "default_branch": "main",
+        "description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
+        "fork": false,
+        "full_name": "moonshine-ai/moonshine",
+        "homepage": "https://moonshine.ai",
+        "latest_release": "v0.0.69",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 9,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-21T02:39:27Z",
+        "readme_excerpt": "![Moonshine Voice Logo](images/logo.png) # Moonshine Voice **Voice Interfaces for Everyone** - [Quickstart](#quickstart) - [When should you choose Moonshine over Whisper?](#when-should-you-choose-moonshine-over-whisper) - [Using the Library](#using-the-library) - [Speech to Text](#getting-started-with-transcription) - [Text to Speech](#getting-started-with-text-to-speech) - [Conversational Agents](#getting-started-with-a-conversational-agent) - [Models](#models) - [API Reference](#api-reference)",
+        "topics": [
+          "intent-recognition",
+          "stt",
+          "tts",
+          "voice",
+          "voice-recognition"
+        ],
+        "updated_at": "2026-07-21T10:03:20Z"
+      },
+      "repo": {
+        "description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
+        "forks": 533,
+        "full_name": "moonshine-ai/moonshine",
+        "language": "C++",
+        "name": "moonshine",
+        "owner": "moonshine-ai",
+        "rank": 21,
+        "stars_today": 282,
+        "total_stars": 10142,
+        "url": "https://github.com/moonshine-ai/moonshine"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 1.25,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.25,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 69.79
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 282 stars today; score 69.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-25T12:27:03Z",
+        "default_branch": "main",
+        "description": "The open-source AI voice studio. Clone, dictate, create.",
+        "fork": false,
+        "full_name": "jamiepine/voicebox",
+        "homepage": "https://voicebox.sh",
+        "latest_release": "v0.5.0",
+        "license_spdx": "MIT",
+        "open_issues": 562,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-21T05:36:46Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\".github/assets/icon-dark.webp\" alt=\"Voicebox\" width=\"120\" height=\"120\" /> </p> <h1 align=\"center\">Voicebox</h1> <p align=\"center\"> <strong>The open-source AI voice studio.</strong><br/> Clone any voice. Generate speech. Dictate into any app. Talk to agents in voices you own.<br/> The full voice I/O stack, running locally on your machine. </p> <p align=\"center\"> <a href=\"https://github.com/jamiepine/voicebox/releases\"> <img src=\"https://img.shields.io/github/downloads",
+        "topics": [
+          "ai",
+          "cuda",
+          "mlx",
+          "qwen3-tts",
+          "qwen3-tts-ui",
+          "voice-ai",
+          "voice-clone",
+          "whisper"
+        ],
+        "updated_at": "2026-07-21T10:03:13Z"
+      },
+      "repo": {
+        "description": "The open-source AI voice studio. Clone, dictate, create.",
+        "forks": 5436,
+        "full_name": "jamiepine/voicebox",
+        "language": "TypeScript",
+        "name": "voicebox",
+        "owner": "jamiepine",
+        "rank": 8,
+        "stars_today": 821,
+        "total_stars": 44766,
+        "url": "https://github.com/jamiepine/voicebox"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.15,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 64.75
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 821 stars today; score 64.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-27T18:57:41Z",
+        "default_branch": "main",
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "fork": false,
+        "full_name": "every-app/open-seo",
+        "homepage": "https://openseo.so",
+        "latest_release": "v0.1.1",
+        "license_spdx": "MIT",
+        "open_issues": 32,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-21T03:24:13Z",
+        "readme_excerpt": "# OpenSEO > Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for _the people_. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control. > All-in-one SEO tool for you and your AI agent. Connect with any agent like Claude Code, OpenClaw or Hermes. We have pre-built skills, but you can build your own to tailor OpenSEO to your needs. <img width=\"1385\" height=\"794\" alt=\"Image\" src=\"https://github.com/user-attac",
+        "topics": [
+          "backlink-analysis",
+          "google-search-console-mcp",
+          "keyword-research",
+          "mcp",
+          "seo",
+          "seo-tools",
+          "site-audit"
+        ],
+        "updated_at": "2026-07-21T10:02:37Z"
+      },
+      "repo": {
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "forks": 682,
+        "full_name": "every-app/open-seo",
+        "language": "TypeScript",
+        "name": "open-seo",
+        "owner": "every-app",
+        "rank": 11,
+        "stars_today": 939,
+        "total_stars": 6197,
+        "url": "https://github.com/every-app/open-seo"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.94,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 64.54
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 939 stars today; score 64.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-07-26T07:18:28Z",
+        "default_branch": "main",
+        "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+        "fork": false,
+        "full_name": "kvcache-ai/ktransformers",
+        "homepage": "https://kvcache-ai.github.io/ktransformers/",
+        "latest_release": "v0.6.3",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 464,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-20T09:14:45Z",
+        "readme_excerpt": "<div align=\"center\"> <p align=\"center\"> <picture> <img alt=\"KTransformers\" src=\"https://github.com/user-attachments/assets/d5a2492f-a415-4456-af99-4ab102f13f8b\" width=50%> </picture> </p> <h3>A Flexible Framework for Experiencing Cutting-edge LLM Inference/Fine-tune Optimizations</h3> <strong><a href=\"#-overview\">\ud83c\udfaf Overview</a> | <a href=\"#-inference---high-performance-kt-kernel-serving\">\ud83d\ude80 Inference</a> | <a href=\"#-sft---fine-tuning-with-llama-factory\">\ud83c\udf93 SFT</a> | <a href=\"#-citation\">\ud83d\udd25 Citatio",
+        "topics": [],
+        "updated_at": "2026-07-21T10:01:04Z"
+      },
+      "repo": {
+        "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+        "forks": 1465,
+        "full_name": "kvcache-ai/ktransformers",
+        "language": "Python",
+        "name": "ktransformers",
+        "owner": "kvcache-ai",
+        "rank": 7,
+        "stars_today": 458,
+        "total_stars": 18818,
+        "url": "https://github.com/kvcache-ai/ktransformers"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.6,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 59.7
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 458 stars today; score 59.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-11-14T22:00:57Z",
+        "default_branch": "master",
+        "description": "Collection of publicly available IPTV channels from all over the world",
+        "fork": false,
+        "full_name": "iptv-org/iptv",
+        "homepage": "https://iptv-org.github.io",
+        "latest_release": null,
+        "license_spdx": "Unlicense",
+        "open_issues": 26,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-21T00:27:47Z",
+        "readme_excerpt": "# IPTV [![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml/badge.svg)](https://github.com/iptv-org/iptv/actions/workflows/update.yml) Collection of publicly available IPTV (Internet Protocol television) channels from all over the world. ## Table of contents - \ud83d\ude80 [How to use?](#how-to-use) - \ud83d\udcfa [Playlists](#playlists) - \ud83d\uddd3 [EPG](#epg) - \ud83d\uddc4 [Database](#database) - \ud83d\udc68\u200d\ud83d\udcbb [API](#api) - \ud83d\udcda [Resources](#resources) - \ud83d\udcac [Discussions](#discussions) - \u2753 [FAQ](#faq) - \ud83d\udee0 [Contribution](#contri",
+        "topics": [
+          "iptv",
+          "m3u",
+          "playlist",
+          "streams",
+          "tv"
+        ],
+        "updated_at": "2026-07-21T10:00:18Z"
+      },
+      "repo": {
+        "description": "Collection of publicly available IPTV channels from all over the world",
+        "forks": 7573,
+        "full_name": "iptv-org/iptv",
+        "language": "TypeScript",
+        "name": "iptv",
+        "owner": "iptv-org",
+        "rank": 17,
+        "stars_today": 240,
+        "total_stars": 133937,
+        "url": "https://github.com/iptv-org/iptv"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.75,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 59.16
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 240 stars today; score 59.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-15T12:58:03Z",
+        "default_branch": "main",
+        "description": "Kimi Code CLI is your next CLI agent.",
+        "fork": false,
+        "full_name": "MoonshotAI/kimi-cli",
+        "homepage": "https://moonshotai.github.io/kimi-cli/",
+        "latest_release": "1.49.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 784,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-16T10:05:51Z",
+        "readme_excerpt": "# Kimi CLI [![Commit Activity](https://img.shields.io/github/commit-activity/w/MoonshotAI/kimi-cli)](https://github.com/MoonshotAI/kimi-cli/graphs/commit-activity) [![Checks](https://img.shields.io/github/check-runs/MoonshotAI/kimi-cli/main)](https://github.com/MoonshotAI/kimi-cli/actions) [![Version](https://img.shields.io/pypi/v/kimi-cli)](https://pypi.org/project/kimi-cli/) [![Downloads](https://img.shields.io/pypi/dw/kimi-cli)](https://pypistats.org/packages/kimi-cli) [![Ask DeepWiki](https:",
+        "topics": [],
+        "updated_at": "2026-07-21T09:46:32Z"
+      },
+      "repo": {
+        "description": "Kimi Code CLI is your next CLI agent.",
+        "forks": 1225,
+        "full_name": "MoonshotAI/kimi-cli",
+        "language": "Python",
+        "name": "kimi-cli",
+        "owner": "MoonshotAI",
+        "rank": 12,
+        "stars_today": 410,
+        "total_stars": 10394,
+        "url": "https://github.com/MoonshotAI/kimi-cli"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.79,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 58.89
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 410 stars today; score 58.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-17T12:34:14Z",
+        "default_branch": "main",
+        "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+        "fork": false,
+        "full_name": "microsoft/Ontology-Playground",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 15,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-19T21:14:11Z",
+        "readme_excerpt": "# Ontology Playground (Preview) \u2615 > Note: This project was developed with AI-assisted coding. **[Try it live &#x2192; microsoft.github.io/Ontology-Playground](https://microsoft.github.io/Ontology-Playground/)** [![Ontology Playground screenshot](public/og-image.png)](https://microsoft.github.io/Ontology-Playground/) A free, open-source web application for learning about ontologies and **Microsoft Fabric IQ**. Explore pre-built ontologies, design your own in a visual editor, export as RDF/XML, an",
+        "topics": [],
+        "updated_at": "2026-07-21T10:01:30Z"
+      },
+      "repo": {
+        "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+        "forks": 239,
+        "full_name": "microsoft/Ontology-Playground",
+        "language": "TypeScript",
+        "name": "Ontology-Playground",
+        "owner": "microsoft",
+        "rank": 19,
+        "stars_today": 464,
+        "total_stars": 1863,
+        "url": "https://github.com/microsoft/Ontology-Playground"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.89,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 54.14
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 464 stars today; score 54.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-15T17:59:48Z",
+        "default_branch": "main",
+        "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+        "fork": false,
+        "full_name": "Robbyant/lingbot-map",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 68,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-20T16:06:29Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"assets/teaser.webp\" width=\"100%\"> <h1>LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction</h1> Robbyant Team </div> <div align=\"center\"> [![Paper](https://img.shields.io/static/v1?label=Paper&message=arXiv&color=red&logo=arxiv)](https://arxiv.org/abs/2604.14141) [![PDF](https://img.shields.io/static/v1?label=Paper&message=PDF&color=red&logo=adobeacrobatreader)](lingbot-map_paper.pdf) [![Project](https://img.shields.io/badge/Project-Website-bl",
+        "topics": [],
+        "updated_at": "2026-07-21T09:59:56Z"
+      },
+      "repo": {
+        "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+        "forks": 1505,
+        "full_name": "Robbyant/lingbot-map",
+        "language": "Python",
+        "name": "lingbot-map",
+        "owner": "Robbyant",
+        "rank": 10,
+        "stars_today": 565,
+        "total_stars": 14522,
+        "url": "https://github.com/Robbyant/lingbot-map"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.37,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 50.42
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 565 stars today; score 50.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/diegosouzapw",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models \u2014 Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+        "forks": 3036,
+        "full_name": "sponsors/diegosouzapw",
+        "language": "TypeScript",
+        "name": "diegosouzapw",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 1107,
+        "total_stars": 22596,
+        "url": "https://github.com/sponsors/diegosouzapw"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.27,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 7.0,
+        "technical_quality": 3.5,
+        "total": 48.67
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1107 stars today; score 48.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/tirth8205",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+        "forks": 2321,
+        "full_name": "sponsors/tirth8205",
+        "language": "Python",
+        "name": "tirth8205",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 1833,
+        "total_stars": 24100,
+        "url": "https://github.com/sponsors/tirth8205"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.93,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 40.94
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1833 stars today; score 40.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/topoteretes",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+        "forks": 2754,
+        "full_name": "sponsors/topoteretes",
+        "language": "Python",
+        "name": "topoteretes",
+        "owner": "sponsors",
+        "rank": 9,
+        "stars_today": 234,
+        "total_stars": 28938,
+        "url": "https://github.com/sponsors/topoteretes"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.89,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 35.84
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 234 stars today; score 35.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/msitarzewski",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "forks": 22015,
+        "full_name": "sponsors/msitarzewski",
+        "language": "Shell",
+        "name": "msitarzewski",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 862,
+        "total_stars": 135139,
+        "url": "https://github.com/sponsors/msitarzewski"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.51,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 32.96
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 862 stars today; score 33.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/tokio-rs",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A batteries-included framework for building web apps",
+        "forks": 50,
+        "full_name": "sponsors/tokio-rs",
+        "language": "Rust",
+        "name": "tokio-rs",
+        "owner": "sponsors",
+        "rank": 16,
+        "stars_today": 371,
+        "total_stars": 1832,
+        "url": "https://github.com/sponsors/tokio-rs"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.14,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 28.75
+      },
+      "tags": [
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "DevTools, Watch: Rust project with 371 stars today; score 28.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/rohitg00",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Learn it. Build it. Ship it for others.",
+        "forks": 6812,
+        "full_name": "sponsors/rohitg00",
+        "language": "Python",
+        "name": "rohitg00",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 823,
+        "total_stars": 41089,
+        "url": "https://github.com/sponsors/rohitg00"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.58,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.87,
+        "technical_quality": 3.5,
+        "total": 19.65
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 823 stars today; score 19.6/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-07-21",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is bojieli/ai-agent-book."
+}

@@ -1,0 +1,34 @@
+GitHub Trending: AI workflow signal - 2026-07-21
+
+Today leans toward AI workflow signal; the strongest pick is bojieli/ai-agent-book.
+
+Top picks
+1. bojieli/ai-agent-book - 78.5/100
+   https://github.com/bojieli/ai-agent-book
+   AI Workflow, Try Today: Python project with 4434 stars today; score 78.5/100.
+2. PrefectHQ/fastmcp - 73.0/100
+   https://github.com/PrefectHQ/fastmcp
+   AI Workflow, DevTools: Python project with 96 stars today; score 73.0/100.
+3. oblien/openship - 72.9/100
+   https://github.com/oblien/openship
+   AI Workflow, DevTools: TypeScript project with 1641 stars today; score 72.9/100.
+4. handy-computer/transcribe.cpp - 71.9/100
+   https://github.com/handy-computer/transcribe.cpp
+   AI Workflow, Try Today: C++ project with 395 stars today; score 71.9/100.
+5. moonshine-ai/moonshine - 69.8/100
+   https://github.com/moonshine-ai/moonshine
+   AI Workflow, DevTools: C++ project with 282 stars today; score 69.8/100.
+
+Full reviewed list
+- bojieli/ai-agent-book: 78.5/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 4434 stars today; score 78.5/100.
+- PrefectHQ/fastmcp: 73.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 96 stars today; score 73.0/100.
+- oblien/openship: 72.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 1641 stars today; score 72.9/100.
+- handy-computer/transcribe.cpp: 71.9/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: C++ project with 395 stars today; score 71.9/100.
+- moonshine-ai/moonshine: 69.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: C++ project with 282 stars today; score 69.8/100.
+- every-app/open-seo: 64.5/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 939 stars today; score 64.5/100.
+- iptv-org/iptv: 59.2/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 240 stars today; score 59.2/100.
+- microsoft/Ontology-Playground: 54.1/100 [AI Workflow, Try Today] AI Workflow, Try Today: TypeScript project with 464 stars today; score 54.1/100.
+- sponsors/diegosouzapw: 48.7/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: TypeScript project with 1107 stars today; score 48.7/100.
+- sponsors/topoteretes: 35.8/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Python project with 234 stars today; score 35.8/100.
+
+Generated for 2026-07-21 from GitHub Trending daily.
