@@ -1,0 +1,34 @@
+GitHub Trending: AI workflow signal - 2026-07-22
+
+Today leans toward AI workflow signal; the strongest pick is ayghri/i-have-adhd.
+
+Top picks
+1. ayghri/i-have-adhd - 70.6/100
+   https://github.com/ayghri/i-have-adhd
+   AI Workflow, DevTools: Python project with 1866 stars today; score 70.6/100.
+2. earthtojake/text-to-cad - 69.3/100
+   https://github.com/earthtojake/text-to-cad
+   AI Workflow, Try Today: JavaScript project with 291 stars today; score 69.3/100.
+3. agegr/pi-web - 66.6/100
+   https://github.com/agegr/pi-web
+   AI Workflow, DevTools: TypeScript project with 298 stars today; score 66.6/100.
+4. tradesdontlie/tradingview-mcp - 64.2/100
+   https://github.com/tradesdontlie/tradingview-mcp
+   AI Workflow, DevTools: JavaScript project with 114 stars today; score 64.2/100.
+5. dottxt-ai/outlines - 62.3/100
+   https://github.com/dottxt-ai/outlines
+   AI Workflow, Try Today: Python project with 65 stars today; score 62.3/100.
+
+Full reviewed list
+- ayghri/i-have-adhd: 70.6/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 1866 stars today; score 70.6/100.
+- earthtojake/text-to-cad: 69.3/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: JavaScript project with 291 stars today; score 69.3/100.
+- agegr/pi-web: 66.6/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 298 stars today; score 66.6/100.
+- tradesdontlie/tradingview-mcp: 64.2/100 [AI Workflow, DevTools, Deep Dive] AI Workflow, DevTools: JavaScript project with 114 stars today; score 64.2/100.
+- dottxt-ai/outlines: 62.3/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 65 stars today; score 62.3/100.
+- hyprwm/Hyprland: 58.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: C++ project with 58 stars today; score 58.9/100.
+- koala73/worldmonitor: 57.5/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 1295 stars today; score 57.5/100.
+- langchain-ai/open_deep_research: 56.7/100 [AI Workflow, Deep Dive] AI Workflow, Deep Dive: Python project with 23 stars today; score 56.7/100.
+- sponsors/AlexsJones: 36.0/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Rust project with 129 stars today; score 36.0/100.
+- sponsors/DioxusLabs: 28.8/100 [DevTools, Watch, Hype Risk] DevTools, Watch: Rust project with 271 stars today; score 28.8/100.
+
+Generated for 2026-07-22 from GitHub Trending daily.

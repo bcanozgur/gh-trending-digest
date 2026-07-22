@@ -1,0 +1,1718 @@
+{
+  "date": "2026-07-22",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-13T20:42:06Z",
+        "default_branch": "main",
+        "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+        "fork": false,
+        "full_name": "ayghri/i-have-adhd",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 5,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-22T06:46:43Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"./logo.png\" alt=\"i-have-adhd\" width=\"140\" /> </p> <p align=\"center\"> <strong align=\"center\">ADHD-friendly outputs. No ADHD diagnosis needed!</strong> </p> <p align=\"center\"> <a href=\"LICENSE\"><img src=\"https://img.shields.io/github/license/ayghri/i-have-adhd?style=flat\" alt=\"License\"></a> </p> ## Install <details> <summary><strong>Claude Code</strong></summary> ```bash claude plugin marketplace add ayghri/i-have-adhd claude plugin install i-have-adhd@i-have-adhd ``` ",
+        "topics": [
+          "adhd",
+          "claude-",
+          "claude-code-plugin",
+          "claude-skills",
+          "developer-tools",
+          "productivity"
+        ],
+        "updated_at": "2026-07-22T10:01:50Z"
+      },
+      "repo": {
+        "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+        "forks": 321,
+        "full_name": "ayghri/i-have-adhd",
+        "language": "Python",
+        "name": "i-have-adhd",
+        "owner": "ayghri",
+        "rank": 4,
+        "stars_today": 1866,
+        "total_stars": 7505,
+        "url": "https://github.com/ayghri/i-have-adhd"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 6.56,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 70.6
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1866 stars today; score 70.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-22T01:09:45Z",
+        "default_branch": "main",
+        "description": "A collection of agent skills for CAD, robotics and hardware design",
+        "fork": false,
+        "full_name": "earthtojake/text-to-cad",
+        "homepage": "https://www.cadskills.xyz",
+        "latest_release": "0.3.9",
+        "license_spdx": "MIT",
+        "open_issues": 20,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-07-11T00:26:42Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"assets/text-to-cad-demo.gif\" alt=\"Demo of the CAD skill generating and previewing CAD geometry\" width=\"100%\"> <br> <pre> \u2588\u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2557 \u2588\u2588\u2557\u2588\u2588\u2557\u2588\u2588\u2557 \u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2554\u2550\u2550\u2550\u2550\u255d\u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2557\u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2557 \u2588\u2588\u2554\u2550\u2550\u2550\u2550\u255d\u2588\u2588\u2551 \u2588\u2588\u2554\u255d\u2588\u2588\u2551\u2588\u2588\u2551 \u2588\u2588\u2551 \u2588\u2588\u2554\u2550\u2550\u2550\u2550\u255d \u2588\u2588\u2551 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2551\u2588\u2588\u2551 \u2588\u2588\u2551 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2588\u2588\u2588\u2554\u255d \u2588\u2588\u2551\u2588\u2588\u2551 \u2588\u2588\u2551 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2551 \u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2551\u2588\u2588\u2551 \u2588\u2588\u2551 \u255a\u2550\u2550\u2550\u2550\u2588\u2588\u2551\u2588\u2588\u2554\u2550\u2588\u2588\u2557 \u2588\u2588\u2551\u2588\u2588\u2551 \u2588\u2588\u2551 \u255a\u2550\u2550\u2550\u2550\u2588\u2588\u2551 \u255a\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2551 \u2588\u2588\u2551\u2588\u2588\u2588\u2588\u2588\u2588\u2554\u255d \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2551\u2588\u2588\u2551 \u2588\u2588\u2557\u2588\u2588\u2551\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2551 \u255a\u2550\u2550\u2550\u2550\u2550\u255d\u255a\u2550\u255d \u255a\u2550\u255d\u255a\u2550\u2550\u2550\u2550\u2550\u255d \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u255d\u255a\u2550\u255d \u255a\u2550\u255d\u255a\u2550\u255d\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u255d\u255a\u2550",
+        "topics": [
+          "3mf",
+          "agents",
+          "ai-agents",
+          "build123d",
+          "cad",
+          "dxf",
+          "glb",
+          "mechanical-engineering",
+          "opencascade",
+          "robotics",
+          "sdf",
+          "srdf",
+          "step",
+          "stl",
+          "stp",
+          "text-to-cad",
+          "urdf"
+        ],
+        "updated_at": "2026-07-22T09:59:05Z"
+      },
+      "repo": {
+        "description": "A collection of agent skills for CAD, robotics and hardware design",
+        "forks": 1045,
+        "full_name": "earthtojake/text-to-cad",
+        "language": "JavaScript",
+        "name": "text-to-cad",
+        "owner": "earthtojake",
+        "rank": 5,
+        "stars_today": 291,
+        "total_stars": 9464,
+        "url": "https://github.com/earthtojake/text-to-cad"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.55,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 69.35
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 291 stars today; score 69.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-22T13:46:04Z",
+        "default_branch": "main",
+        "description": "Web UI for the pi coding agent",
+        "fork": false,
+        "full_name": "agegr/pi-web",
+        "homepage": null,
+        "latest_release": "v0.7.17",
+        "license_spdx": "MIT",
+        "open_issues": 16,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-22T08:15:43Z",
+        "readme_excerpt": "# Pi Web [\u4e2d\u6587\u6587\u6863](./README.zh-CN.md) Local web UI for the [pi coding agent](https://github.com/badlogic/pi-mono). Pi Web reads your local pi session files and gives you a browser workspace for session browsing, real-time chat, model configuration, skill management, and project file preview. ![Pi Web shows the same pi session with structured Markdown, tool calls, and project navigation beside the CLI](https://raw.githubusercontent.com/agegr/pi-web/main/docs/screenshot2.png) The same pi session in C",
+        "topics": [],
+        "updated_at": "2026-07-22T10:00:01Z"
+      },
+      "repo": {
+        "description": "Web UI for the pi coding agent",
+        "forks": 292,
+        "full_name": "agegr/pi-web",
+        "language": "TypeScript",
+        "name": "pi-web",
+        "owner": "agegr",
+        "rank": 17,
+        "stars_today": 298,
+        "total_stars": 1885,
+        "url": "https://github.com/agegr/pi-web"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.84,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 66.59
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 298 stars today; score 66.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-29T14:39:25Z",
+        "default_branch": "main",
+        "description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
+        "fork": false,
+        "full_name": "tradesdontlie/tradingview-mcp",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "NOASSERTION",
+        "open_issues": 135,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-07-21T22:58:33Z",
+        "readme_excerpt": "# TradingView MCP Bridge Personal AI assistant for your TradingView Desktop charts. Connects Claude Code to your locally running TradingView app via Chrome DevTools Protocol for AI-assisted chart analysis, Pine Script development, and workflow automation. > [!WARNING] > **This tool is not affiliated with, endorsed by, or associated with TradingView Inc.** It interacts with your locally running TradingView Desktop application via Chrome DevTools Protocol. Review the [Disclaimer](#disclaimer) befo",
+        "topics": [],
+        "updated_at": "2026-07-22T09:56:07Z"
+      },
+      "repo": {
+        "description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
+        "forks": 2185,
+        "full_name": "tradesdontlie/tradingview-mcp",
+        "language": "JavaScript",
+        "name": "tradingview-mcp",
+        "owner": "tradesdontlie",
+        "rank": 10,
+        "stars_today": 114,
+        "total_stars": 5005,
+        "url": "https://github.com/tradesdontlie/tradingview-mcp"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.51,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 2.8,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 64.16
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 114 stars today; score 64.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-03-17T16:01:18Z",
+        "default_branch": "main",
+        "description": "Structured Outputs",
+        "fork": false,
+        "full_name": "dottxt-ai/outlines",
+        "homepage": "https://dottxt-ai.github.io/outlines/",
+        "latest_release": "1.3.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 115,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-22T09:27:35Z",
+        "readme_excerpt": "<div align=\"center\" style=\"margin-bottom: 1em;\"> <img src=\"./docs/assets/images/logo-light-mode.svg#gh-light-mode-only\" alt=\"Outlines Logo\" width=300></img> <img src=\"./docs/assets/images/logo-dark-mode.svg#gh-dark-mode-only\" alt=\"Outlines Logo\" width=300></img> \ud83d\uddd2\ufe0f *Structured outputs for LLMs* \ud83d\uddd2\ufe0f Made with \u2764\ud83d\udc77\ufe0f by the team at [.txt](https://dottxt.co) <br>Trusted by NVIDIA, Cohere, HuggingFace, vLLM, etc. <!-- Project Badges --> [![PyPI Version][pypi-version-badge]][pypi] [![Downloads][downloads",
+        "topics": [
+          "cfg",
+          "generative-ai",
+          "json",
+          "llms",
+          "prompt-engineering",
+          "regex",
+          "structured-generation",
+          "symbolic-ai"
+        ],
+        "updated_at": "2026-07-22T09:57:50Z"
+      },
+      "repo": {
+        "description": "Structured Outputs",
+        "forks": 801,
+        "full_name": "dottxt-ai/outlines",
+        "language": "Python",
+        "name": "outlines",
+        "owner": "dottxt-ai",
+        "rank": 20,
+        "stars_today": 65,
+        "total_stars": 14959,
+        "url": "https://github.com/dottxt-ai/outlines"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 0.98,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 62.28
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 65 stars today; score 62.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-03-16T19:49:13Z",
+        "default_branch": "main",
+        "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+        "fork": false,
+        "full_name": "hyprwm/Hyprland",
+        "homepage": "https://hypr.land",
+        "latest_release": "v0.56.0",
+        "license_spdx": "BSD-3-Clause",
+        "open_issues": 180,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-21T13:52:10Z",
+        "readme_excerpt": "<div align = center> <img src=\"https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/header.svg\" width=\"750\" height=\"300\" alt=\"banner\"> <br> [![Badge Workflow]][Workflow] [![Badge License]][License] ![Badge Language] [![Badge Pull Requests]][Pull Requests] [![Badge Issues]][Issues] ![Badge Hi Mom]<br> <br> Hyprland is a 100% independent, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. It provides the latest Wayland features, is highly customizable, has all the eyec",
+        "topics": [
+          "compositor",
+          "cpp26",
+          "wayland",
+          "wayland-compositor"
+        ],
+        "updated_at": "2026-07-22T09:51:44Z"
+      },
+      "repo": {
+        "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+        "forks": 1865,
+        "full_name": "hyprwm/Hyprland",
+        "language": "C++",
+        "name": "Hyprland",
+        "owner": "hyprwm",
+        "rank": 12,
+        "stars_today": 58,
+        "total_stars": 37155,
+        "url": "https://github.com/hyprwm/Hyprland"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.12,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 58.92
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 58 stars today; score 58.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-08T17:26:06Z",
+        "default_branch": "main",
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "fork": false,
+        "full_name": "koala73/worldmonitor",
+        "homepage": "https://worldmonitor.app",
+        "latest_release": "v2.5.23",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 237,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-22T07:13:51Z",
+        "readme_excerpt": "# World Monitor [\u7b80\u4f53\u4e2d\u6587](README.zh-CN.md) **Real-time global intelligence dashboard** \u2014 AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface. [![GitHub stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=social)](https://github.com/koala73/worldmonitor/stargazers) [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/re63kWKxaz) [![License:",
+        "topics": [
+          "agent",
+          "ai",
+          "dashboard",
+          "geopolitics",
+          "mcp",
+          "mcp-server",
+          "monitoring",
+          "news",
+          "opensource",
+          "osint",
+          "palantir",
+          "situation"
+        ],
+        "updated_at": "2026-07-22T10:01:41Z"
+      },
+      "repo": {
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "forks": 10362,
+        "full_name": "koala73/worldmonitor",
+        "language": "TypeScript",
+        "name": "worldmonitor",
+        "owner": "koala73",
+        "rank": 1,
+        "stars_today": 1295,
+        "total_stars": 67128,
+        "url": "https://github.com/koala73/worldmonitor"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.95,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 57.5
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 1295 stars today; score 57.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-11-20T17:37:22Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "langchain-ai/open_deep_research",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 71,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-17T07:26:56Z",
+        "readme_excerpt": "# \ud83d\udd2c Open Deep Research <img width=\"1388\" height=\"298\" alt=\"full_diagram\" src=\"https://github.com/user-attachments/assets/12a2371b-8be2-4219-9b48-90503eb43c69\" /> Deep research has broken out as one of the most popular agent applications. This is a simple, configurable, fully open source deep research agent that works across many model providers, search tools, and MCP servers. It's performance is on par with many popular deep research agents ([see Deep Research Bench leaderboard](https://huggingf",
+        "topics": [],
+        "updated_at": "2026-07-22T09:59:20Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 1748,
+        "full_name": "langchain-ai/open_deep_research",
+        "language": "Python",
+        "name": "open_deep_research",
+        "owner": "langchain-ai",
+        "rank": 15,
+        "stars_today": 23,
+        "total_stars": 12366,
+        "url": "https://github.com/langchain-ai/open_deep_research"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 4.9,
+        "momentum": 1.63,
+        "novelty": 8.0,
+        "practical_usefulness": 5.95,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 56.68
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Python project with 23 stars today; score 56.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/AlexsJones",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+        "forks": 1846,
+        "full_name": "sponsors/AlexsJones",
+        "language": "Rust",
+        "name": "AlexsJones",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 129,
+        "total_stars": 30377,
+        "url": "https://github.com/sponsors/AlexsJones"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.39,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 36.04
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Rust project with 129 stars today; score 36.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/DioxusLabs",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Fullstack app framework for web, desktop, and mobile.",
+        "forks": 1779,
+        "full_name": "sponsors/DioxusLabs",
+        "language": "Rust",
+        "name": "DioxusLabs",
+        "owner": "sponsors",
+        "rank": 14,
+        "stars_today": 271,
+        "total_stars": 37828,
+        "url": "https://github.com/sponsors/DioxusLabs"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.22,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 28.83
+      },
+      "tags": [
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "DevTools, Watch: Rust project with 271 stars today; score 28.8/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-12T15:04:11Z",
+        "default_branch": "main",
+        "description": "The go-to web for your AI coding agent \u2014 local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+        "fork": false,
+        "full_name": "KnockOutEZ/wigolo",
+        "homepage": "https://knockoutez.github.io/wigolo/",
+        "latest_release": "v0.2.1",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 40,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-22T07:42:32Z",
+        "readme_excerpt": "<div align=\"center\"> <img alt=\"wigolo \u2014 the go-to web for your agent\" src=\"assets/brand/wigolo-banner.png\" width=\"640\"> Local-first web intelligence for AI agents \u2014 **no keys, no cloud, no metered bill.** <sub>works with&nbsp;&nbsp;**Claude Code \u00b7 Cursor \u00b7 Codex \u00b7 Gemini CLI \u00b7 VS Code \u00b7 Windsurf \u00b7 Zed \u00b7 Antigravity**</sub> <br> <sub>and beyond&nbsp;&nbsp;**LangChain \u00b7 CrewAI \u00b7 LlamaIndex \u00b7 Vercel AI SDK \u00b7 n8n & self-hosted agents \u00b7 any MCP client \u00b7 plain REST**</sub> [![npm](https://img.shields.",
+        "topics": [
+          "agent",
+          "ai",
+          "ai-agent",
+          "claude",
+          "cli",
+          "developer-tools",
+          "local-first",
+          "mcp",
+          "mcp-server",
+          "metasearch",
+          "model-context-protocol",
+          "nodejs",
+          "privacy",
+          "rag",
+          "search",
+          "search-engine",
+          "typescript",
+          "web-crawler",
+          "web-scraping",
+          "web-search"
+        ],
+        "updated_at": "2026-07-22T10:01:28Z"
+      },
+      "repo": {
+        "description": "The go-to web for your AI coding agent \u2014 local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+        "forks": 203,
+        "full_name": "KnockOutEZ/wigolo",
+        "language": "TypeScript",
+        "name": "wigolo",
+        "owner": "KnockOutEZ",
+        "rank": 21,
+        "stars_today": 642,
+        "total_stars": 3357,
+        "url": "https://github.com/KnockOutEZ/wigolo"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.89,
+        "novelty": 2.8,
+        "practical_usefulness": 19.4,
+        "production_readiness": 5.25,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 73.24
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 642 stars today; score 73.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-09T02:41:44Z",
+        "default_branch": "main",
+        "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Agent\uff1a\u8bbe\u8ba1\u539f\u7406\u4e0e\u5de5\u7a0b\u5b9e\u8df5\u300b\uff08\u674e\u535a\u6770 \u8457\uff09\u5f00\u6e90\u4e3b\u4ed3\u5e93\uff1a\u5168\u4e66\u6b63\u6587\u3001\u7f16\u8bd1\u7248 PDF \u4e0e\u6309\u7ae0\u914d\u5957\u4ee3\u7801",
+        "fork": false,
+        "full_name": "bojieli/ai-agent-book",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 8,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-22T09:48:01Z",
+        "readme_excerpt": "# \u6df1\u5165\u7406\u89e3 AI Agent\uff1a\u8bbe\u8ba1\u539f\u7406\u4e0e\u5de5\u7a0b\u5b9e\u8df5 [![Stars](https://img.shields.io/github/stars/bojieli/ai-agent-book?style=social)](https://github.com/bojieli/ai-agent-book) [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE) [![PDF](https://img.shields.io/badge/PDF-%E4%B8%8B%E8%BD%BD-success.svg)](#-\u7535\u5b50\u4e66) [![Languages](https://img.shields.io/badge/\u7ffb\u8bd1-5%20\u79cd%20\u8bed\u8a00-informational.svg)](#-\u7535\u5b50\u4e66) **\u4e2d\u6587** \u2190 \u5f53\u524d \u00b7 [\u4e2d\u6587\u7e41\u4f53](docs/zh-TW/README.md) \u00b7 [English](docs/en/README.md) \u00b7 [Ti\u1ebfng Vi\u1ec7t](docs/vi/README",
+        "topics": [
+          "agent",
+          "agent-memory",
+          "ai-agent",
+          "book",
+          "coding-agent",
+          "context-engineering",
+          "large-language-models",
+          "llm",
+          "mcp",
+          "multi-agent",
+          "multimodal",
+          "rag",
+          "reinforcement-learning"
+        ],
+        "updated_at": "2026-07-22T10:01:44Z"
+      },
+      "repo": {
+        "description": "\u300a\u6df1\u5165\u7406\u89e3 AI Agent\uff1a\u8bbe\u8ba1\u539f\u7406\u4e0e\u5de5\u7a0b\u5b9e\u8df5\u300b\uff08\u674e\u535a\u6770 \u8457\uff09\u5f00\u6e90\u4e3b\u4ed3\u5e93\uff1a\u5168\u4e66\u6b63\u6587\u3001\u7f16\u8bd1\u7248 PDF \u4e0e\u6309\u7ae0\u914d\u5957\u4ee3\u7801",
+        "forks": 1595,
+        "full_name": "bojieli/ai-agent-book",
+        "language": "Python",
+        "name": "ai-agent-book",
+        "owner": "bojieli",
+        "rank": 2,
+        "stars_today": 4624,
+        "total_stars": 16743,
+        "url": "https://github.com/bojieli/ai-agent-book"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.86,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.9,
+        "total": 73.16
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 4624 stars today; score 73.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-05T09:43:36Z",
+        "default_branch": "master",
+        "description": "The most intelligent agent harness for code",
+        "fork": false,
+        "full_name": "1jehuang/jcode",
+        "homepage": "https://jcode.sh",
+        "latest_release": "v0.54.4",
+        "license_spdx": "MIT",
+        "open_issues": 118,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-22T02:01:29Z",
+        "readme_excerpt": "<div align=\"center\"> # jcode [![Latest Release](https://badgen.net/github/release/1jehuang/jcode?icon=github)](https://github.com/1jehuang/jcode/releases) [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE) [![Platforms](https://img.shields.io/badge/platforms-Linux%20%7C%20macOS%20%7C%20Windows-blue?style=flat-square)](https://github.com/1jehuang/jcode/releases) [![Last Commit](https://badgen.net/github/last-commit/1jehuang/jcode/master?icon=github)](https",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "ai-coding-agent",
+          "claude",
+          "cli",
+          "coding-agent",
+          "llm",
+          "mcp",
+          "openai",
+          "rust",
+          "terminal",
+          "tui"
+        ],
+        "updated_at": "2026-07-22T10:01:07Z"
+      },
+      "repo": {
+        "description": "The most intelligent agent harness for code",
+        "forks": 1154,
+        "full_name": "1jehuang/jcode",
+        "language": "Rust",
+        "name": "jcode",
+        "owner": "1jehuang",
+        "rank": 6,
+        "stars_today": 843,
+        "total_stars": 10564,
+        "url": "https://github.com/1jehuang/jcode"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.41,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.11
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 843 stars today; score 73.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-12-08T13:27:46Z",
+        "default_branch": "master",
+        "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. \u2728",
+        "fork": false,
+        "full_name": "AstrBotDevs/AstrBot",
+        "homepage": "https://astrbot.app",
+        "latest_release": "v4.26.7",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 1336,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-22T07:49:55Z",
+        "readme_excerpt": "![AstrBot-Logo-Simplified](https://github.com/user-attachments/assets/36fb04e4-cc75-4454-bd8b-049d11aa86f9) <div align=\"center\"> <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_zh.md\">\u7b80\u4f53\u4e2d\u6587</a> \uff5c <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_zh-TW.md\">\u7e41\u9ad4\u4e2d\u6587</a> \uff5c <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_ja.md\">\u65e5\u672c\u8a9e</a> \uff5c <a href=\"https://github.com/AstrBotDevs/AstrBot/blob/master/README_fr.md\">Fran\u00e7ais</a> \uff5c <a href=\"https://github.c",
+        "topics": [
+          "agent",
+          "ai",
+          "astrbot",
+          "chatbot",
+          "chatgpt",
+          "discord",
+          "docker",
+          "gemini",
+          "gpt",
+          "llama",
+          "llm",
+          "mcp",
+          "openai",
+          "python",
+          "qq",
+          "qqbot",
+          "telegram"
+        ],
+        "updated_at": "2026-07-22T10:00:44Z"
+      },
+      "repo": {
+        "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. \u2728",
+        "forks": 2634,
+        "full_name": "AstrBotDevs/AstrBot",
+        "language": "Python",
+        "name": "AstrBot",
+        "owner": "AstrBotDevs",
+        "rank": 8,
+        "stars_today": 416,
+        "total_stars": 37676,
+        "url": "https://github.com/AstrBotDevs/AstrBot"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.35,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 72.56
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 416 stars today; score 72.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-13T20:42:06Z",
+        "default_branch": "main",
+        "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+        "fork": false,
+        "full_name": "ayghri/i-have-adhd",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 5,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-22T06:46:43Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"./logo.png\" alt=\"i-have-adhd\" width=\"140\" /> </p> <p align=\"center\"> <strong align=\"center\">ADHD-friendly outputs. No ADHD diagnosis needed!</strong> </p> <p align=\"center\"> <a href=\"LICENSE\"><img src=\"https://img.shields.io/github/license/ayghri/i-have-adhd?style=flat\" alt=\"License\"></a> </p> ## Install <details> <summary><strong>Claude Code</strong></summary> ```bash claude plugin marketplace add ayghri/i-have-adhd claude plugin install i-have-adhd@i-have-adhd ``` ",
+        "topics": [
+          "adhd",
+          "claude-",
+          "claude-code-plugin",
+          "claude-skills",
+          "developer-tools",
+          "productivity"
+        ],
+        "updated_at": "2026-07-22T10:01:50Z"
+      },
+      "repo": {
+        "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+        "forks": 321,
+        "full_name": "ayghri/i-have-adhd",
+        "language": "Python",
+        "name": "i-have-adhd",
+        "owner": "ayghri",
+        "rank": 4,
+        "stars_today": 1866,
+        "total_stars": 7505,
+        "url": "https://github.com/ayghri/i-have-adhd"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 6.56,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 70.6
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1866 stars today; score 70.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-22T01:09:45Z",
+        "default_branch": "main",
+        "description": "A collection of agent skills for CAD, robotics and hardware design",
+        "fork": false,
+        "full_name": "earthtojake/text-to-cad",
+        "homepage": "https://www.cadskills.xyz",
+        "latest_release": "0.3.9",
+        "license_spdx": "MIT",
+        "open_issues": 20,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-07-11T00:26:42Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"assets/text-to-cad-demo.gif\" alt=\"Demo of the CAD skill generating and previewing CAD geometry\" width=\"100%\"> <br> <pre> \u2588\u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2557 \u2588\u2588\u2557\u2588\u2588\u2557\u2588\u2588\u2557 \u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2554\u2550\u2550\u2550\u2550\u255d\u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2557\u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2557 \u2588\u2588\u2554\u2550\u2550\u2550\u2550\u255d\u2588\u2588\u2551 \u2588\u2588\u2554\u255d\u2588\u2588\u2551\u2588\u2588\u2551 \u2588\u2588\u2551 \u2588\u2588\u2554\u2550\u2550\u2550\u2550\u255d \u2588\u2588\u2551 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2551\u2588\u2588\u2551 \u2588\u2588\u2551 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2588\u2588\u2588\u2554\u255d \u2588\u2588\u2551\u2588\u2588\u2551 \u2588\u2588\u2551 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2551 \u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2551\u2588\u2588\u2551 \u2588\u2588\u2551 \u255a\u2550\u2550\u2550\u2550\u2588\u2588\u2551\u2588\u2588\u2554\u2550\u2588\u2588\u2557 \u2588\u2588\u2551\u2588\u2588\u2551 \u2588\u2588\u2551 \u255a\u2550\u2550\u2550\u2550\u2588\u2588\u2551 \u255a\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2551 \u2588\u2588\u2551\u2588\u2588\u2588\u2588\u2588\u2588\u2554\u255d \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2551\u2588\u2588\u2551 \u2588\u2588\u2557\u2588\u2588\u2551\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2551 \u255a\u2550\u2550\u2550\u2550\u2550\u255d\u255a\u2550\u255d \u255a\u2550\u255d\u255a\u2550\u2550\u2550\u2550\u2550\u255d \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u255d\u255a\u2550\u255d \u255a\u2550\u255d\u255a\u2550\u255d\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u255d\u255a\u2550",
+        "topics": [
+          "3mf",
+          "agents",
+          "ai-agents",
+          "build123d",
+          "cad",
+          "dxf",
+          "glb",
+          "mechanical-engineering",
+          "opencascade",
+          "robotics",
+          "sdf",
+          "srdf",
+          "step",
+          "stl",
+          "stp",
+          "text-to-cad",
+          "urdf"
+        ],
+        "updated_at": "2026-07-22T09:59:05Z"
+      },
+      "repo": {
+        "description": "A collection of agent skills for CAD, robotics and hardware design",
+        "forks": 1045,
+        "full_name": "earthtojake/text-to-cad",
+        "language": "JavaScript",
+        "name": "text-to-cad",
+        "owner": "earthtojake",
+        "rank": 5,
+        "stars_today": 291,
+        "total_stars": 9464,
+        "url": "https://github.com/earthtojake/text-to-cad"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.55,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 69.35
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 291 stars today; score 69.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-05T20:16:56Z",
+        "default_branch": "main",
+        "description": "Self-hosted deployment platform",
+        "fork": false,
+        "full_name": "oblien/openship",
+        "homepage": "https://openship.io",
+        "latest_release": "v0.2.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 36,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-22T09:42:16Z",
+        "readme_excerpt": "<h1 align=\"center\">Openship</h1> <p align=\"center\"> Open-source, self-hostable deployment platform with built-in CI/CD.<br> Push code, ship containers, manage infrastructure \u2014 from a desktop app, web dashboard, or CLI. </p> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/openship\"><img src=\"https://img.shields.io/npm/v/openship?color=0b7285&label=npm\" alt=\"npm version\" /></a> <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-Apache--2.0-blue\" alt=\"License\" /></a> <a href",
+        "topics": [
+          "agents",
+          "ai",
+          "deployments",
+          "self-hosted"
+        ],
+        "updated_at": "2026-07-22T10:01:54Z"
+      },
+      "repo": {
+        "description": "Self-hosted deployment platform",
+        "forks": 485,
+        "full_name": "oblien/openship",
+        "language": "TypeScript",
+        "name": "openship",
+        "owner": "oblien",
+        "rank": 7,
+        "stars_today": 1562,
+        "total_stars": 6679,
+        "url": "https://github.com/oblien/openship"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.57,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 69.02
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1562 stars today; score 69.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-22T13:46:04Z",
+        "default_branch": "main",
+        "description": "Web UI for the pi coding agent",
+        "fork": false,
+        "full_name": "agegr/pi-web",
+        "homepage": null,
+        "latest_release": "v0.7.17",
+        "license_spdx": "MIT",
+        "open_issues": 16,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-22T08:15:43Z",
+        "readme_excerpt": "# Pi Web [\u4e2d\u6587\u6587\u6863](./README.zh-CN.md) Local web UI for the [pi coding agent](https://github.com/badlogic/pi-mono). Pi Web reads your local pi session files and gives you a browser workspace for session browsing, real-time chat, model configuration, skill management, and project file preview. ![Pi Web shows the same pi session with structured Markdown, tool calls, and project navigation beside the CLI](https://raw.githubusercontent.com/agegr/pi-web/main/docs/screenshot2.png) The same pi session in C",
+        "topics": [],
+        "updated_at": "2026-07-22T10:00:01Z"
+      },
+      "repo": {
+        "description": "Web UI for the pi coding agent",
+        "forks": 292,
+        "full_name": "agegr/pi-web",
+        "language": "TypeScript",
+        "name": "pi-web",
+        "owner": "agegr",
+        "rank": 17,
+        "stars_today": 298,
+        "total_stars": 1885,
+        "url": "https://github.com/agegr/pi-web"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.84,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 66.59
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 298 stars today; score 66.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-27T18:57:41Z",
+        "default_branch": "main",
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "fork": false,
+        "full_name": "every-app/open-seo",
+        "homepage": "https://openseo.so",
+        "latest_release": "v0.1.1",
+        "license_spdx": "MIT",
+        "open_issues": 41,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-21T20:40:07Z",
+        "readme_excerpt": "# OpenSEO > Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for _the people_. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control. > All-in-one SEO tool for you and your AI agent. Connect with any agent like Claude Code, OpenClaw or Hermes. We have pre-built skills, but you can build your own to tailor OpenSEO to your needs. <img width=\"1385\" height=\"794\" alt=\"Image\" src=\"https://github.com/user-attac",
+        "topics": [
+          "backlink-analysis",
+          "google-search-console-mcp",
+          "keyword-research",
+          "mcp",
+          "seo",
+          "seo-tools",
+          "site-audit"
+        ],
+        "updated_at": "2026-07-22T10:01:12Z"
+      },
+      "repo": {
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "forks": 736,
+        "full_name": "every-app/open-seo",
+        "language": "TypeScript",
+        "name": "open-seo",
+        "owner": "every-app",
+        "rank": 9,
+        "stars_today": 849,
+        "total_stars": 6797,
+        "url": "https://github.com/every-app/open-seo"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.99,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 64.59
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 849 stars today; score 64.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-29T14:39:25Z",
+        "default_branch": "main",
+        "description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
+        "fork": false,
+        "full_name": "tradesdontlie/tradingview-mcp",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "NOASSERTION",
+        "open_issues": 135,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-07-21T22:58:33Z",
+        "readme_excerpt": "# TradingView MCP Bridge Personal AI assistant for your TradingView Desktop charts. Connects Claude Code to your locally running TradingView app via Chrome DevTools Protocol for AI-assisted chart analysis, Pine Script development, and workflow automation. > [!WARNING] > **This tool is not affiliated with, endorsed by, or associated with TradingView Inc.** It interacts with your locally running TradingView Desktop application via Chrome DevTools Protocol. Review the [Disclaimer](#disclaimer) befo",
+        "topics": [],
+        "updated_at": "2026-07-22T09:56:07Z"
+      },
+      "repo": {
+        "description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
+        "forks": 2185,
+        "full_name": "tradesdontlie/tradingview-mcp",
+        "language": "JavaScript",
+        "name": "tradingview-mcp",
+        "owner": "tradesdontlie",
+        "rank": 10,
+        "stars_today": 114,
+        "total_stars": 5005,
+        "url": "https://github.com/tradesdontlie/tradingview-mcp"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.51,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 2.8,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 64.16
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 114 stars today; score 64.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-03-17T16:01:18Z",
+        "default_branch": "main",
+        "description": "Structured Outputs",
+        "fork": false,
+        "full_name": "dottxt-ai/outlines",
+        "homepage": "https://dottxt-ai.github.io/outlines/",
+        "latest_release": "1.3.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 115,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-22T09:27:35Z",
+        "readme_excerpt": "<div align=\"center\" style=\"margin-bottom: 1em;\"> <img src=\"./docs/assets/images/logo-light-mode.svg#gh-light-mode-only\" alt=\"Outlines Logo\" width=300></img> <img src=\"./docs/assets/images/logo-dark-mode.svg#gh-dark-mode-only\" alt=\"Outlines Logo\" width=300></img> \ud83d\uddd2\ufe0f *Structured outputs for LLMs* \ud83d\uddd2\ufe0f Made with \u2764\ud83d\udc77\ufe0f by the team at [.txt](https://dottxt.co) <br>Trusted by NVIDIA, Cohere, HuggingFace, vLLM, etc. <!-- Project Badges --> [![PyPI Version][pypi-version-badge]][pypi] [![Downloads][downloads",
+        "topics": [
+          "cfg",
+          "generative-ai",
+          "json",
+          "llms",
+          "prompt-engineering",
+          "regex",
+          "structured-generation",
+          "symbolic-ai"
+        ],
+        "updated_at": "2026-07-22T09:57:50Z"
+      },
+      "repo": {
+        "description": "Structured Outputs",
+        "forks": 801,
+        "full_name": "dottxt-ai/outlines",
+        "language": "Python",
+        "name": "outlines",
+        "owner": "dottxt-ai",
+        "rank": 20,
+        "stars_today": 65,
+        "total_stars": 14959,
+        "url": "https://github.com/dottxt-ai/outlines"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 0.98,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 62.28
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 65 stars today; score 62.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-03-16T19:49:13Z",
+        "default_branch": "main",
+        "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+        "fork": false,
+        "full_name": "hyprwm/Hyprland",
+        "homepage": "https://hypr.land",
+        "latest_release": "v0.56.0",
+        "license_spdx": "BSD-3-Clause",
+        "open_issues": 180,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-21T13:52:10Z",
+        "readme_excerpt": "<div align = center> <img src=\"https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/header.svg\" width=\"750\" height=\"300\" alt=\"banner\"> <br> [![Badge Workflow]][Workflow] [![Badge License]][License] ![Badge Language] [![Badge Pull Requests]][Pull Requests] [![Badge Issues]][Issues] ![Badge Hi Mom]<br> <br> Hyprland is a 100% independent, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. It provides the latest Wayland features, is highly customizable, has all the eyec",
+        "topics": [
+          "compositor",
+          "cpp26",
+          "wayland",
+          "wayland-compositor"
+        ],
+        "updated_at": "2026-07-22T09:51:44Z"
+      },
+      "repo": {
+        "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+        "forks": 1865,
+        "full_name": "hyprwm/Hyprland",
+        "language": "C++",
+        "name": "Hyprland",
+        "owner": "hyprwm",
+        "rank": 12,
+        "stars_today": 58,
+        "total_stars": 37155,
+        "url": "https://github.com/hyprwm/Hyprland"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.12,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 58.92
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 58 stars today; score 58.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-08T17:26:06Z",
+        "default_branch": "main",
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "fork": false,
+        "full_name": "koala73/worldmonitor",
+        "homepage": "https://worldmonitor.app",
+        "latest_release": "v2.5.23",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 237,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-22T07:13:51Z",
+        "readme_excerpt": "# World Monitor [\u7b80\u4f53\u4e2d\u6587](README.zh-CN.md) **Real-time global intelligence dashboard** \u2014 AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface. [![GitHub stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=social)](https://github.com/koala73/worldmonitor/stargazers) [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/re63kWKxaz) [![License:",
+        "topics": [
+          "agent",
+          "ai",
+          "dashboard",
+          "geopolitics",
+          "mcp",
+          "mcp-server",
+          "monitoring",
+          "news",
+          "opensource",
+          "osint",
+          "palantir",
+          "situation"
+        ],
+        "updated_at": "2026-07-22T10:01:41Z"
+      },
+      "repo": {
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "forks": 10362,
+        "full_name": "koala73/worldmonitor",
+        "language": "TypeScript",
+        "name": "worldmonitor",
+        "owner": "koala73",
+        "rank": 1,
+        "stars_today": 1295,
+        "total_stars": 67128,
+        "url": "https://github.com/koala73/worldmonitor"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.95,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 57.5
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 1295 stars today; score 57.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-11-20T17:37:22Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "langchain-ai/open_deep_research",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 71,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-17T07:26:56Z",
+        "readme_excerpt": "# \ud83d\udd2c Open Deep Research <img width=\"1388\" height=\"298\" alt=\"full_diagram\" src=\"https://github.com/user-attachments/assets/12a2371b-8be2-4219-9b48-90503eb43c69\" /> Deep research has broken out as one of the most popular agent applications. This is a simple, configurable, fully open source deep research agent that works across many model providers, search tools, and MCP servers. It's performance is on par with many popular deep research agents ([see Deep Research Bench leaderboard](https://huggingf",
+        "topics": [],
+        "updated_at": "2026-07-22T09:59:20Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 1748,
+        "full_name": "langchain-ai/open_deep_research",
+        "language": "Python",
+        "name": "open_deep_research",
+        "owner": "langchain-ai",
+        "rank": 15,
+        "stars_today": 23,
+        "total_stars": 12366,
+        "url": "https://github.com/langchain-ai/open_deep_research"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 4.9,
+        "momentum": 1.63,
+        "novelty": 8.0,
+        "practical_usefulness": 5.95,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 56.68
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Python project with 23 stars today; score 56.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-17T12:34:14Z",
+        "default_branch": "main",
+        "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+        "fork": false,
+        "full_name": "microsoft/Ontology-Playground",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 16,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-19T21:14:11Z",
+        "readme_excerpt": "# Ontology Playground (Preview) \u2615 > Note: This project was developed with AI-assisted coding. **[Try it live &#x2192; microsoft.github.io/Ontology-Playground](https://microsoft.github.io/Ontology-Playground/)** [![Ontology Playground screenshot](public/og-image.png)](https://microsoft.github.io/Ontology-Playground/) A free, open-source web application for learning about ontologies and **Microsoft Fabric IQ**. Explore pre-built ontologies, design your own in a visual editor, export as RDF/XML, an",
+        "topics": [],
+        "updated_at": "2026-07-22T09:58:09Z"
+      },
+      "repo": {
+        "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+        "forks": 250,
+        "full_name": "microsoft/Ontology-Playground",
+        "language": "TypeScript",
+        "name": "Ontology-Playground",
+        "owner": "microsoft",
+        "rank": 19,
+        "stars_today": 355,
+        "total_stars": 2107,
+        "url": "https://github.com/microsoft/Ontology-Playground"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.65,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 48.7
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 355 stars today; score 48.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/diegosouzapw",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models \u2014 Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+        "forks": 3237,
+        "full_name": "sponsors/diegosouzapw",
+        "language": "TypeScript",
+        "name": "diegosouzapw",
+        "owner": "sponsors",
+        "rank": 16,
+        "stars_today": 2034,
+        "total_stars": 24211,
+        "url": "https://github.com/sponsors/diegosouzapw"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.13,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 7.0,
+        "technical_quality": 3.5,
+        "total": 48.53
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 2034 stars today; score 48.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/tirth8205",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+        "forks": 2373,
+        "full_name": "sponsors/tirth8205",
+        "language": "Python",
+        "name": "tirth8205",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 1925,
+        "total_stars": 24988,
+        "url": "https://github.com/sponsors/tirth8205"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.81,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 40.82
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1925 stars today; score 40.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/AlexsJones",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+        "forks": 1846,
+        "full_name": "sponsors/AlexsJones",
+        "language": "Rust",
+        "name": "AlexsJones",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 129,
+        "total_stars": 30377,
+        "url": "https://github.com/sponsors/AlexsJones"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.39,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 36.04
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Rust project with 129 stars today; score 36.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/DioxusLabs",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Fullstack app framework for web, desktop, and mobile.",
+        "forks": 1779,
+        "full_name": "sponsors/DioxusLabs",
+        "language": "Rust",
+        "name": "DioxusLabs",
+        "owner": "sponsors",
+        "rank": 14,
+        "stars_today": 271,
+        "total_stars": 37828,
+        "url": "https://github.com/sponsors/DioxusLabs"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.22,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 28.83
+      },
+      "tags": [
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "DevTools, Watch: Rust project with 271 stars today; score 28.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/chrislgarry",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+        "forks": 7858,
+        "full_name": "sponsors/chrislgarry",
+        "language": "Assembly",
+        "name": "chrislgarry",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 1235,
+        "total_stars": 70210,
+        "url": "https://github.com/sponsors/chrislgarry"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.12,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.68,
+        "technical_quality": 3.5,
+        "total": 24.2
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Assembly project with 1235 stars today; score 24.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/schollz",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Easily and securely send things from one computer to another \ud83d\udc0a \ud83d\udce6",
+        "forks": 1469,
+        "full_name": "sponsors/schollz",
+        "language": "Go",
+        "name": "schollz",
+        "owner": "sponsors",
+        "rank": 18,
+        "stars_today": 361,
+        "total_stars": 37090,
+        "url": "https://github.com/sponsors/schollz"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 1.81,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 0.74,
+        "technical_quality": 3.5,
+        "total": 20.95
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Go project with 361 stars today; score 20.9/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-07-22",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is ayghri/i-have-adhd."
+}
