@@ -1,0 +1,1464 @@
+{
+  "date": "2026-07-23",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-17T07:15:01Z",
+        "default_branch": "master",
+        "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+        "fork": false,
+        "full_name": "ComposioHQ/awesome-claude-skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 1077,
+        "primary_language": "Python",
+        "pushed_at": "2026-05-22T03:17:49Z",
+        "readme_excerpt": "<h1 align=\"center\">Awesome Claude Skills</h1> <p align=\"center\"> <a href=\"https://dashboard.composio.dev/login?utm_source=Github&utm_medium=Youtube&utm_campaign=2025-11&utm_content=AwesomeSkills\"> <img width=\"1280\" height=\"640\" alt=\"Composio banner\" src=\"https://github.com/user-attachments/assets/e91255af-e4ba-4d71-b1a8-bd081e8a234a\"> </a> </p> <p align=\"center\"> <a href=\"https://awesome.re\"> <img src=\"https://awesome.re/badge.svg\" alt=\"Awesome\" /> </a> <a href=\"https://makeapullrequest.com\"> <i",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "antigravity",
+          "automation",
+          "claude",
+          "claude-code",
+          "codex",
+          "composio",
+          "cursor",
+          "developer-tools",
+          "gemini-cli",
+          "mcp",
+          "openai-codex",
+          "rube",
+          "saas",
+          "skill",
+          "workflow-automation"
+        ],
+        "updated_at": "2026-07-23T09:46:28Z"
+      },
+      "repo": {
+        "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+        "forks": 7825,
+        "full_name": "ComposioHQ/awesome-claude-skills",
+        "language": "Python",
+        "name": "awesome-claude-skills",
+        "owner": "ComposioHQ",
+        "rank": 10,
+        "stars_today": 163,
+        "total_stars": 69067,
+        "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.63,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 9.1,
+        "total": 71.03
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 163 stars today; score 71.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-06-07T04:32:30Z",
+        "default_branch": "main",
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "fork": false,
+        "full_name": "ruvnet/RuView",
+        "homepage": "https://Cognitum.One/RuView",
+        "latest_release": "v1954",
+        "license_spdx": "MIT",
+        "open_issues": 370,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-23T09:49:10Z",
+        "readme_excerpt": "# \u03c0 RuView <p align=\"center\"> <a href=\"https://cognitum.one/seed\"> <img src=\"assets/ruview-seed.png\" alt=\"RuView - WiFi DensePose\" width=\"100%\"> </a> </p> <p align=\"center\"> <a href=\"https://cognitum.one/marketplace/musica\"> <img src=\"assets/musica-promo.png\" alt=\"Cognitum Musica\" width=\"100%\"> </a> </p> ## **See through walls with WiFi** ## **Turn ordinary WiFi into a spatial intelligence / sensing system.** Detect people, measure breathing and heart rate, track movement, and monitor rooms \u2014 th",
+        "topics": [
+          "awesome",
+          "claude",
+          "densepose",
+          "esp32",
+          "firmware",
+          "home-assistant",
+          "home-automation",
+          "iot",
+          "monitoring",
+          "networking",
+          "npm",
+          "pose-estimation",
+          "react",
+          "rf",
+          "self-learning",
+          "skills",
+          "spatial-intelligence",
+          "typescript",
+          "wifi",
+          "wifi-security"
+        ],
+        "updated_at": "2026-07-23T10:01:04Z"
+      },
+      "repo": {
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "forks": 11288,
+        "full_name": "ruvnet/RuView",
+        "language": "Rust",
+        "name": "RuView",
+        "owner": "ruvnet",
+        "rank": 2,
+        "stars_today": 741,
+        "total_stars": 84501,
+        "url": "https://github.com/ruvnet/RuView"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.96,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 61.06
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 741 stars today; score 61.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-08-15T16:35:52Z",
+        "default_branch": "main",
+        "description": "CloudFlare free temp domain email \u514d\u8d39\u6536\u53d1 \u4e34\u65f6\u57df\u540d\u90ae\u7bb1 \u652f\u6301\u9644\u4ef6 IMAP SMTP TelegramBot",
+        "fork": false,
+        "full_name": "dreamhunter2333/cloudflare_temp_email",
+        "homepage": "https://mail.awsl.uk",
+        "latest_release": "v1.9.0",
+        "license_spdx": "MIT",
+        "open_issues": 31,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-23T07:09:50Z",
+        "readme_excerpt": "<!-- markdownlint-disable-file MD033 MD045 --> # Cloudflare \u4e34\u65f6\u90ae\u7bb1 - \u514d\u8d39\u642d\u5efa\u4e34\u65f6\u90ae\u4ef6\u670d\u52a1 <p align=\"center\"> <a href=\"https://temp-mail-docs.awsl.uk\" target=\"_blank\"> <img alt=\"docs\" src=\"https://img.shields.io/badge/docs-grey?logo=vitepress\"> </a> <a href=\"https://github.com/dreamhunter2333/cloudflare_temp_email/releases/latest\" target=\"_blank\"> <img src=\"https://img.shields.io/github/v/release/dreamhunter2333/cloudflare_temp_email\"> </a> <a href=\"https://github.com/dreamhunter2333/cloudflare_temp_email/bl",
+        "topics": [
+          "cloudflare-email",
+          "cloudflare-pages",
+          "cloudflare-workers",
+          "email",
+          "free"
+        ],
+        "updated_at": "2026-07-23T09:55:14Z"
+      },
+      "repo": {
+        "description": "CloudFlare free temp domain email \u514d\u8d39\u6536\u53d1 \u4e34\u65f6\u57df\u540d\u90ae\u7bb1 \u652f\u6301\u9644\u4ef6 IMAP SMTP TelegramBot",
+        "forks": 7323,
+        "full_name": "dreamhunter2333/cloudflare_temp_email",
+        "language": "TypeScript",
+        "name": "cloudflare_temp_email",
+        "owner": "dreamhunter2333",
+        "rank": 15,
+        "stars_today": 68,
+        "total_stars": 10941,
+        "url": "https://github.com/dreamhunter2333/cloudflare_temp_email"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.72,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 58.52
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 68 stars today; score 58.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-07-01T02:54:32Z",
+        "default_branch": "master",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "fork": false,
+        "full_name": "shiyu-coder/Kronos",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 239,
+        "primary_language": "Python",
+        "pushed_at": "2026-04-13T12:38:49Z",
+        "readme_excerpt": "<div align=\"center\"> <h2><b>Kronos: A Foundation Model for the Language of Financial Markets </b></h2> </div> <div align=\"center\"> </a> <a href=\"https://huggingface.co/NeoQuasar\"> <img src=\"https://img.shields.io/badge/\ud83e\udd17-Hugging_Face-yellow\" alt=\"Hugging Face\"> </a> <a href=\"https://shiyu-coder.github.io/Kronos-demo/\"> <img src=\"https://img.shields.io/badge/\ud83d\ude80-Live_Demo-brightgreen\" alt=\"Live Demo\"> </a> <a href=\"https://github.com/shiyu-coder/Kronos/graphs/commit-activity\"> <img src=\"https://img",
+        "topics": [],
+        "updated_at": "2026-07-23T10:00:33Z"
+      },
+      "repo": {
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "forks": 5624,
+        "full_name": "shiyu-coder/Kronos",
+        "language": "Python",
+        "name": "Kronos",
+        "owner": "shiyu-coder",
+        "rank": 9,
+        "stars_today": 137,
+        "total_stars": 32781,
+        "url": "https://github.com/shiyu-coder/Kronos"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.73,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 54.98
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 137 stars today; score 55.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/likec4",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+        "forks": 309,
+        "full_name": "sponsors/likec4",
+        "language": "TypeScript",
+        "name": "likec4",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 80,
+        "total_stars": 4502,
+        "url": "https://github.com/sponsors/likec4"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.19,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.3,
+        "technical_quality": 3.5,
+        "total": 22.89
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: TypeScript project with 80 stars today; score 22.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/Pumpkin-MC",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+        "forks": 601,
+        "full_name": "sponsors/Pumpkin-MC",
+        "language": "Rust",
+        "name": "Pumpkin-MC",
+        "owner": "sponsors",
+        "rank": 18,
+        "stars_today": 108,
+        "total_stars": 8649,
+        "url": "https://github.com/sponsors/Pumpkin-MC"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 1.37,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 0.56,
+        "technical_quality": 3.5,
+        "total": 20.33
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Rust project with 108 stars today; score 20.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/schollz",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Easily and securely send things from one computer to another \ud83d\udc0a \ud83d\udce6",
+        "forks": 1508,
+        "full_name": "sponsors/schollz",
+        "language": "Go",
+        "name": "schollz",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 739,
+        "total_stars": 38007,
+        "url": "https://github.com/sponsors/schollz"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.67,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.91,
+        "technical_quality": 3.5,
+        "total": 19.78
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Go project with 739 stars today; score 19.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/chrislgarry",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+        "forks": 7902,
+        "full_name": "sponsors/chrislgarry",
+        "language": "Assembly",
+        "name": "chrislgarry",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 768,
+        "total_stars": 70827,
+        "url": "https://github.com/sponsors/chrislgarry"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.44,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.81,
+        "technical_quality": 3.5,
+        "total": 19.45
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Assembly project with 768 stars today; score 19.4/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-17T07:15:01Z",
+        "default_branch": "master",
+        "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+        "fork": false,
+        "full_name": "ComposioHQ/awesome-claude-skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 1077,
+        "primary_language": "Python",
+        "pushed_at": "2026-05-22T03:17:49Z",
+        "readme_excerpt": "<h1 align=\"center\">Awesome Claude Skills</h1> <p align=\"center\"> <a href=\"https://dashboard.composio.dev/login?utm_source=Github&utm_medium=Youtube&utm_campaign=2025-11&utm_content=AwesomeSkills\"> <img width=\"1280\" height=\"640\" alt=\"Composio banner\" src=\"https://github.com/user-attachments/assets/e91255af-e4ba-4d71-b1a8-bd081e8a234a\"> </a> </p> <p align=\"center\"> <a href=\"https://awesome.re\"> <img src=\"https://awesome.re/badge.svg\" alt=\"Awesome\" /> </a> <a href=\"https://makeapullrequest.com\"> <i",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "antigravity",
+          "automation",
+          "claude",
+          "claude-code",
+          "codex",
+          "composio",
+          "cursor",
+          "developer-tools",
+          "gemini-cli",
+          "mcp",
+          "openai-codex",
+          "rube",
+          "saas",
+          "skill",
+          "workflow-automation"
+        ],
+        "updated_at": "2026-07-23T09:46:28Z"
+      },
+      "repo": {
+        "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+        "forks": 7825,
+        "full_name": "ComposioHQ/awesome-claude-skills",
+        "language": "Python",
+        "name": "awesome-claude-skills",
+        "owner": "ComposioHQ",
+        "rank": 10,
+        "stars_today": 163,
+        "total_stars": 69067,
+        "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.63,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 9.1,
+        "total": 71.03
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 163 stars today; score 71.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-05T20:16:56Z",
+        "default_branch": "main",
+        "description": "Self-hosted deployment platform",
+        "fork": false,
+        "full_name": "oblien/openship",
+        "homepage": "https://openship.io",
+        "latest_release": "v0.3.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 26,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-23T09:59:50Z",
+        "readme_excerpt": "<h1 align=\"center\">Openship</h1> <p align=\"center\"> Open-source, self-hostable deployment platform with built-in CI/CD.<br> Push code, ship containers, manage infrastructure \u2014 from a desktop app, web dashboard, or CLI. </p> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/openship\"><img src=\"https://img.shields.io/npm/v/openship?color=0b7285&label=npm\" alt=\"npm version\" /></a> <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-Apache--2.0-blue\" alt=\"License\" /></a> <a href",
+        "topics": [
+          "agents",
+          "ai",
+          "deployments",
+          "self-hosted"
+        ],
+        "updated_at": "2026-07-23T10:00:29Z"
+      },
+      "repo": {
+        "description": "Self-hosted deployment platform",
+        "forks": 568,
+        "full_name": "oblien/openship",
+        "language": "TypeScript",
+        "name": "openship",
+        "owner": "oblien",
+        "rank": 11,
+        "stars_today": 1302,
+        "total_stars": 7618,
+        "url": "https://github.com/oblien/openship"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.8,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 68.25
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1302 stars today; score 68.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-13T20:42:06Z",
+        "default_branch": "main",
+        "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+        "fork": false,
+        "full_name": "ayghri/i-have-adhd",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 6,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-22T22:14:47Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"./logo.png\" alt=\"i-have-adhd\" width=\"140\" /> </p> <p align=\"center\"> <strong align=\"center\">ADHD-friendly outputs. No ADHD diagnosis needed!</strong> </p> <p align=\"center\"> <a href=\"LICENSE\"><img src=\"https://img.shields.io/github/license/ayghri/i-have-adhd?style=flat\" alt=\"License\"></a> </p> <p align=\"center\"> <strong>English</strong> \u00b7 <a href=\"README.zh-CN.md\">\u7b80\u4f53\u4e2d\u6587</a> \u00b7 <a href=\"README.ja.md\">\u65e5\u672c\u8a9e</a> </p> ## Install <details> <summary><strong>Claude Code</strong",
+        "topics": [
+          "adhd",
+          "claude-",
+          "claude-code-plugin",
+          "claude-skills",
+          "developer-tools",
+          "productivity"
+        ],
+        "updated_at": "2026-07-23T09:56:41Z"
+      },
+      "repo": {
+        "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+        "forks": 406,
+        "full_name": "ayghri/i-have-adhd",
+        "language": "Python",
+        "name": "i-have-adhd",
+        "owner": "ayghri",
+        "rank": 3,
+        "stars_today": 1699,
+        "total_stars": 8824,
+        "url": "https://github.com/ayghri/i-have-adhd"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 6.76,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 65.6
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1699 stars today; score 65.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-25T12:27:03Z",
+        "default_branch": "main",
+        "description": "The open-source AI voice studio. Clone, dictate, create.",
+        "fork": false,
+        "full_name": "jamiepine/voicebox",
+        "homepage": "https://voicebox.sh",
+        "latest_release": "v0.5.0",
+        "license_spdx": "MIT",
+        "open_issues": 580,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-21T19:35:46Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\".github/assets/icon-dark.webp\" alt=\"Voicebox\" width=\"120\" height=\"120\" /> </p> <h1 align=\"center\">Voicebox</h1> <p align=\"center\"> <strong>The open-source AI voice studio.</strong><br/> Clone any voice. Generate speech. Dictate into any app. Talk to agents in voices you own.<br/> The full voice I/O stack, running locally on your machine. </p> <p align=\"center\"> <a href=\"https://github.com/jamiepine/voicebox/releases\"> <img src=\"https://img.shields.io/github/downloads",
+        "topics": [
+          "ai",
+          "cuda",
+          "mlx",
+          "qwen3-tts",
+          "qwen3-tts-ui",
+          "voice-ai",
+          "voice-clone",
+          "whisper"
+        ],
+        "updated_at": "2026-07-23T10:00:23Z"
+      },
+      "repo": {
+        "description": "The open-source AI voice studio. Clone, dictate, create.",
+        "forks": 5627,
+        "full_name": "jamiepine/voicebox",
+        "language": "TypeScript",
+        "name": "voicebox",
+        "owner": "jamiepine",
+        "rank": 7,
+        "stars_today": 557,
+        "total_stars": 46097,
+        "url": "https://github.com/jamiepine/voicebox"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.87,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 64.47
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 557 stars today; score 64.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-08T17:26:06Z",
+        "default_branch": "main",
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "fork": false,
+        "full_name": "koala73/worldmonitor",
+        "homepage": "https://worldmonitor.app",
+        "latest_release": "v2.5.23",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 257,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-23T09:24:47Z",
+        "readme_excerpt": "# World Monitor [\u7b80\u4f53\u4e2d\u6587](README.zh-CN.md) **Real-time global intelligence dashboard** \u2014 AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface. [![GitHub stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=social)](https://github.com/koala73/worldmonitor/stargazers) [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/re63kWKxaz) [![License:",
+        "topics": [
+          "agent",
+          "ai",
+          "dashboard",
+          "geopolitics",
+          "mcp",
+          "mcp-server",
+          "monitoring",
+          "news",
+          "opensource",
+          "osint",
+          "palantir",
+          "situation"
+        ],
+        "updated_at": "2026-07-23T10:01:07Z"
+      },
+      "repo": {
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "forks": 10672,
+        "full_name": "koala73/worldmonitor",
+        "language": "TypeScript",
+        "name": "worldmonitor",
+        "owner": "koala73",
+        "rank": 1,
+        "stars_today": 4139,
+        "total_stars": 70311,
+        "url": "https://github.com/koala73/worldmonitor"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 4.9,
+        "technical_quality": 11.2,
+        "total": 64.18
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 4139 stars today; score 64.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-22T13:46:04Z",
+        "default_branch": "main",
+        "description": "Web UI for the pi coding agent",
+        "fork": false,
+        "full_name": "agegr/pi-web",
+        "homepage": null,
+        "latest_release": "v0.8.0",
+        "license_spdx": "MIT",
+        "open_issues": 17,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-23T04:30:09Z",
+        "readme_excerpt": "# Pi Web [\u4e2d\u6587\u6587\u6863](./README.zh-CN.md) Local web UI for the [pi coding agent](https://github.com/badlogic/pi-mono). Pi Web reads your local pi session files and gives you a browser workspace for session browsing, real-time chat, model configuration, skill management, and project file preview. ![Pi Web shows the same pi session with structured Markdown, tool calls, and project navigation beside the CLI](https://raw.githubusercontent.com/agegr/pi-web/main/docs/screenshot2.png) The same pi session in C",
+        "topics": [],
+        "updated_at": "2026-07-23T09:58:51Z"
+      },
+      "repo": {
+        "description": "Web UI for the pi coding agent",
+        "forks": 317,
+        "full_name": "agegr/pi-web",
+        "language": "TypeScript",
+        "name": "pi-web",
+        "owner": "agegr",
+        "rank": 12,
+        "stars_today": 314,
+        "total_stars": 2204,
+        "url": "https://github.com/agegr/pi-web"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.65,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 62.2
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 314 stars today; score 62.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-06-07T04:32:30Z",
+        "default_branch": "main",
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "fork": false,
+        "full_name": "ruvnet/RuView",
+        "homepage": "https://Cognitum.One/RuView",
+        "latest_release": "v1954",
+        "license_spdx": "MIT",
+        "open_issues": 370,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-23T09:49:10Z",
+        "readme_excerpt": "# \u03c0 RuView <p align=\"center\"> <a href=\"https://cognitum.one/seed\"> <img src=\"assets/ruview-seed.png\" alt=\"RuView - WiFi DensePose\" width=\"100%\"> </a> </p> <p align=\"center\"> <a href=\"https://cognitum.one/marketplace/musica\"> <img src=\"assets/musica-promo.png\" alt=\"Cognitum Musica\" width=\"100%\"> </a> </p> ## **See through walls with WiFi** ## **Turn ordinary WiFi into a spatial intelligence / sensing system.** Detect people, measure breathing and heart rate, track movement, and monitor rooms \u2014 th",
+        "topics": [
+          "awesome",
+          "claude",
+          "densepose",
+          "esp32",
+          "firmware",
+          "home-assistant",
+          "home-automation",
+          "iot",
+          "monitoring",
+          "networking",
+          "npm",
+          "pose-estimation",
+          "react",
+          "rf",
+          "self-learning",
+          "skills",
+          "spatial-intelligence",
+          "typescript",
+          "wifi",
+          "wifi-security"
+        ],
+        "updated_at": "2026-07-23T10:01:04Z"
+      },
+      "repo": {
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "forks": 11288,
+        "full_name": "ruvnet/RuView",
+        "language": "Rust",
+        "name": "RuView",
+        "owner": "ruvnet",
+        "rank": 2,
+        "stars_today": 741,
+        "total_stars": 84501,
+        "url": "https://github.com/ruvnet/RuView"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.96,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 61.06
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 741 stars today; score 61.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-08-15T16:35:52Z",
+        "default_branch": "main",
+        "description": "CloudFlare free temp domain email \u514d\u8d39\u6536\u53d1 \u4e34\u65f6\u57df\u540d\u90ae\u7bb1 \u652f\u6301\u9644\u4ef6 IMAP SMTP TelegramBot",
+        "fork": false,
+        "full_name": "dreamhunter2333/cloudflare_temp_email",
+        "homepage": "https://mail.awsl.uk",
+        "latest_release": "v1.9.0",
+        "license_spdx": "MIT",
+        "open_issues": 31,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-23T07:09:50Z",
+        "readme_excerpt": "<!-- markdownlint-disable-file MD033 MD045 --> # Cloudflare \u4e34\u65f6\u90ae\u7bb1 - \u514d\u8d39\u642d\u5efa\u4e34\u65f6\u90ae\u4ef6\u670d\u52a1 <p align=\"center\"> <a href=\"https://temp-mail-docs.awsl.uk\" target=\"_blank\"> <img alt=\"docs\" src=\"https://img.shields.io/badge/docs-grey?logo=vitepress\"> </a> <a href=\"https://github.com/dreamhunter2333/cloudflare_temp_email/releases/latest\" target=\"_blank\"> <img src=\"https://img.shields.io/github/v/release/dreamhunter2333/cloudflare_temp_email\"> </a> <a href=\"https://github.com/dreamhunter2333/cloudflare_temp_email/bl",
+        "topics": [
+          "cloudflare-email",
+          "cloudflare-pages",
+          "cloudflare-workers",
+          "email",
+          "free"
+        ],
+        "updated_at": "2026-07-23T09:55:14Z"
+      },
+      "repo": {
+        "description": "CloudFlare free temp domain email \u514d\u8d39\u6536\u53d1 \u4e34\u65f6\u57df\u540d\u90ae\u7bb1 \u652f\u6301\u9644\u4ef6 IMAP SMTP TelegramBot",
+        "forks": 7323,
+        "full_name": "dreamhunter2333/cloudflare_temp_email",
+        "language": "TypeScript",
+        "name": "cloudflare_temp_email",
+        "owner": "dreamhunter2333",
+        "rank": 15,
+        "stars_today": 68,
+        "total_stars": 10941,
+        "url": "https://github.com/dreamhunter2333/cloudflare_temp_email"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.72,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 58.52
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 68 stars today; score 58.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-03-17T16:01:18Z",
+        "default_branch": "main",
+        "description": "Structured Outputs",
+        "fork": false,
+        "full_name": "dottxt-ai/outlines",
+        "homepage": "https://dottxt-ai.github.io/outlines/",
+        "latest_release": "1.3.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 115,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-22T14:01:08Z",
+        "readme_excerpt": "<div align=\"center\" style=\"margin-bottom: 1em;\"> <img src=\"./docs/assets/images/logo-light-mode.svg#gh-light-mode-only\" alt=\"Outlines Logo\" width=300></img> <img src=\"./docs/assets/images/logo-dark-mode.svg#gh-dark-mode-only\" alt=\"Outlines Logo\" width=300></img> \ud83d\uddd2\ufe0f *Structured outputs for LLMs* \ud83d\uddd2\ufe0f Made with \u2764\ud83d\udc77\ufe0f by the team at [.txt](https://dottxt.co) <br>Trusted by NVIDIA, Cohere, HuggingFace, vLLM, etc. <!-- Project Badges --> [![PyPI Version][pypi-version-badge]][pypi] [![Downloads][downloads",
+        "topics": [
+          "cfg",
+          "generative-ai",
+          "json",
+          "llms",
+          "prompt-engineering",
+          "regex",
+          "structured-generation",
+          "symbolic-ai"
+        ],
+        "updated_at": "2026-07-23T09:49:19Z"
+      },
+      "repo": {
+        "description": "Structured Outputs",
+        "forks": 808,
+        "full_name": "dottxt-ai/outlines",
+        "language": "Python",
+        "name": "outlines",
+        "owner": "dottxt-ai",
+        "rank": 19,
+        "stars_today": 364,
+        "total_stars": 15240,
+        "url": "https://github.com/dottxt-ai/outlines"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.75,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 57.85
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 364 stars today; score 57.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-07-01T02:54:32Z",
+        "default_branch": "master",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "fork": false,
+        "full_name": "shiyu-coder/Kronos",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 239,
+        "primary_language": "Python",
+        "pushed_at": "2026-04-13T12:38:49Z",
+        "readme_excerpt": "<div align=\"center\"> <h2><b>Kronos: A Foundation Model for the Language of Financial Markets </b></h2> </div> <div align=\"center\"> </a> <a href=\"https://huggingface.co/NeoQuasar\"> <img src=\"https://img.shields.io/badge/\ud83e\udd17-Hugging_Face-yellow\" alt=\"Hugging Face\"> </a> <a href=\"https://shiyu-coder.github.io/Kronos-demo/\"> <img src=\"https://img.shields.io/badge/\ud83d\ude80-Live_Demo-brightgreen\" alt=\"Live Demo\"> </a> <a href=\"https://github.com/shiyu-coder/Kronos/graphs/commit-activity\"> <img src=\"https://img",
+        "topics": [],
+        "updated_at": "2026-07-23T10:00:33Z"
+      },
+      "repo": {
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "forks": 5624,
+        "full_name": "shiyu-coder/Kronos",
+        "language": "Python",
+        "name": "Kronos",
+        "owner": "shiyu-coder",
+        "rank": 9,
+        "stars_today": 137,
+        "total_stars": 32781,
+        "url": "https://github.com/shiyu-coder/Kronos"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.73,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 54.98
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 137 stars today; score 55.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-03-16T19:49:13Z",
+        "default_branch": "main",
+        "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+        "fork": false,
+        "full_name": "hyprwm/Hyprland",
+        "homepage": "https://hypr.land",
+        "latest_release": "v0.56.0",
+        "license_spdx": "BSD-3-Clause",
+        "open_issues": 179,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-22T16:35:38Z",
+        "readme_excerpt": "<div align = center> <img src=\"https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/header.svg\" width=\"750\" height=\"300\" alt=\"banner\"> <br> [![Badge Workflow]][Workflow] [![Badge License]][License] ![Badge Language] [![Badge Pull Requests]][Pull Requests] [![Badge Issues]][Issues] ![Badge Hi Mom]<br> <br> Hyprland is a 100% independent, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. It provides the latest Wayland features, is highly customizable, has all the eyec",
+        "topics": [
+          "compositor",
+          "cpp26",
+          "wayland",
+          "wayland-compositor"
+        ],
+        "updated_at": "2026-07-23T09:54:50Z"
+      },
+      "repo": {
+        "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+        "forks": 1877,
+        "full_name": "hyprwm/Hyprland",
+        "language": "C++",
+        "name": "Hyprland",
+        "owner": "hyprwm",
+        "rank": 17,
+        "stars_today": 356,
+        "total_stars": 37391,
+        "url": "https://github.com/hyprwm/Hyprland"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.02,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 53.62
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 356 stars today; score 53.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/diegosouzapw",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models \u2014 Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+        "forks": 3431,
+        "full_name": "sponsors/diegosouzapw",
+        "language": "TypeScript",
+        "name": "diegosouzapw",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 1651,
+        "total_stars": 26105,
+        "url": "https://github.com/sponsors/diegosouzapw"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.94,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 7.0,
+        "technical_quality": 3.5,
+        "total": 49.34
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1651 stars today; score 49.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/tirth8205",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+        "forks": 2412,
+        "full_name": "sponsors/tirth8205",
+        "language": "Python",
+        "name": "tirth8205",
+        "owner": "sponsors",
+        "rank": 14,
+        "stars_today": 882,
+        "total_stars": 25625,
+        "url": "https://github.com/sponsors/tirth8205"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.52,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 37.53
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 882 stars today; score 37.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/DioxusLabs",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Fullstack app framework for web, desktop, and mobile.",
+        "forks": 1799,
+        "full_name": "sponsors/DioxusLabs",
+        "language": "Rust",
+        "name": "DioxusLabs",
+        "owner": "sponsors",
+        "rank": 16,
+        "stars_today": 420,
+        "total_stars": 38174,
+        "url": "https://github.com/sponsors/DioxusLabs"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.29,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 23.7
+      },
+      "tags": [
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "DevTools, Watch: Rust project with 420 stars today; score 23.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/likec4",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+        "forks": 309,
+        "full_name": "sponsors/likec4",
+        "language": "TypeScript",
+        "name": "likec4",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 80,
+        "total_stars": 4502,
+        "url": "https://github.com/sponsors/likec4"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.19,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.3,
+        "technical_quality": 3.5,
+        "total": 22.89
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: TypeScript project with 80 stars today; score 22.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/Pumpkin-MC",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+        "forks": 601,
+        "full_name": "sponsors/Pumpkin-MC",
+        "language": "Rust",
+        "name": "Pumpkin-MC",
+        "owner": "sponsors",
+        "rank": 18,
+        "stars_today": 108,
+        "total_stars": 8649,
+        "url": "https://github.com/sponsors/Pumpkin-MC"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 1.37,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 0.56,
+        "technical_quality": 3.5,
+        "total": 20.33
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Rust project with 108 stars today; score 20.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/schollz",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Easily and securely send things from one computer to another \ud83d\udc0a \ud83d\udce6",
+        "forks": 1508,
+        "full_name": "sponsors/schollz",
+        "language": "Go",
+        "name": "schollz",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 739,
+        "total_stars": 38007,
+        "url": "https://github.com/sponsors/schollz"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.67,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.91,
+        "technical_quality": 3.5,
+        "total": 19.78
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Go project with 739 stars today; score 19.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/chrislgarry",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+        "forks": 7902,
+        "full_name": "sponsors/chrislgarry",
+        "language": "Assembly",
+        "name": "chrislgarry",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 768,
+        "total_stars": 70827,
+        "url": "https://github.com/sponsors/chrislgarry"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.44,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.81,
+        "technical_quality": 3.5,
+        "total": 19.45
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Assembly project with 768 stars today; score 19.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/rohitg00",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Learn it. Build it. Ship it for others.",
+        "forks": 7098,
+        "full_name": "sponsors/rohitg00",
+        "language": "Python",
+        "name": "rohitg00",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 652,
+        "total_stars": 42661,
+        "url": "https://github.com/sponsors/rohitg00"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.2,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.3,
+        "technical_quality": 3.5,
+        "total": 17.7
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 652 stars today; score 17.7/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-07-23",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is ComposioHQ/awesome-claude-skills."
+}

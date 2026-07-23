@@ -1,0 +1,33 @@
+GitHub Trending: AI workflow signal - 2026-07-23
+
+Today leans toward AI workflow signal; the strongest pick is ComposioHQ/awesome-claude-skills.
+
+Top picks
+1. ComposioHQ/awesome-claude-skills - 71.0/100
+   https://github.com/ComposioHQ/awesome-claude-skills
+   AI Workflow, DevTools: Python project with 163 stars today; score 71.0/100.
+2. ruvnet/RuView - 61.1/100
+   https://github.com/ruvnet/RuView
+   AI Workflow, Try Today: Rust project with 741 stars today; score 61.1/100.
+3. dreamhunter2333/cloudflare_temp_email - 58.5/100
+   https://github.com/dreamhunter2333/cloudflare_temp_email
+   AI Workflow, Try Today: TypeScript project with 68 stars today; score 58.5/100.
+4. shiyu-coder/Kronos - 55.0/100
+   https://github.com/shiyu-coder/Kronos
+   AI Workflow, Try Today: Python project with 137 stars today; score 55.0/100.
+5. sponsors/likec4 - 22.9/100
+   https://github.com/sponsors/likec4
+   Watch, Hype Risk: TypeScript project with 80 stars today; score 22.9/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- ComposioHQ/awesome-claude-skills: 71.0/100 [AI Workflow, DevTools, Deep Dive] AI Workflow, DevTools: Python project with 163 stars today; score 71.0/100.
+- ruvnet/RuView: 61.1/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Rust project with 741 stars today; score 61.1/100.
+- dreamhunter2333/cloudflare_temp_email: 58.5/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 68 stars today; score 58.5/100.
+- shiyu-coder/Kronos: 55.0/100 [AI Workflow, Try Today] AI Workflow, Try Today: Python project with 137 stars today; score 55.0/100.
+- sponsors/likec4: 22.9/100 [Watch, Hype Risk] Watch, Hype Risk: TypeScript project with 80 stars today; score 22.9/100.
+- sponsors/Pumpkin-MC: 20.3/100 [Watch, Hype Risk] Watch, Hype Risk: Rust project with 108 stars today; score 20.3/100.
+- sponsors/schollz: 19.8/100 [Watch, Hype Risk] Watch, Hype Risk: Go project with 739 stars today; score 19.8/100.
+- sponsors/chrislgarry: 19.4/100 [Watch, Hype Risk] Watch, Hype Risk: Assembly project with 768 stars today; score 19.4/100.
+
+Generated for 2026-07-23 from GitHub Trending daily.
