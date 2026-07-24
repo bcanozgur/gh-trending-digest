@@ -1,0 +1,1115 @@
+{
+  "date": "2026-07-24",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-16T12:51:09Z",
+        "default_branch": "main",
+        "description": "The best browser for both you and your AI agents work in parallel.",
+        "fork": false,
+        "full_name": "citrolabs/ego-lite",
+        "homepage": "https://lite.ego.app",
+        "latest_release": "v1.2.5",
+        "license_spdx": "MIT",
+        "open_issues": 26,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-07-24T09:30:16Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"docs/assets/banner.png\" alt=\"ego lite\" width=\"100%\" /> **The fastest browser for AI agents to run web automation** <a href=\"https://trendshift.io/repositories/42334?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-42334\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/42334\" alt=\"citrolabs%2Fego-lite | Trendshift\" width=\"250\" height=\"55\"/></a> <p> <a href=\"https://cdn.ego.app/channel",
+        "topics": [
+          "agent-skills",
+          "ai-agent",
+          "browser",
+          "skills",
+          "skills-sh"
+        ],
+        "updated_at": "2026-07-24T09:55:32Z"
+      },
+      "repo": {
+        "description": "The best browser for both you and your AI agents work in parallel.",
+        "forks": 105,
+        "full_name": "citrolabs/ego-lite",
+        "language": "JavaScript",
+        "name": "ego-lite",
+        "owner": "citrolabs",
+        "rank": 5,
+        "stars_today": 247,
+        "total_stars": 2048,
+        "url": "https://github.com/citrolabs/ego-lite"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.68,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 73.98
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 247 stars today; score 74.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-18T02:16:36Z",
+        "default_branch": "main",
+        "description": "Open-source & free \u2014 Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "fork": false,
+        "full_name": "alibaba/open-code-review",
+        "homepage": "https://open-codereview.ai",
+        "latest_release": "v1.7.15",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 52,
+        "primary_language": "Go",
+        "pushed_at": "2026-07-24T01:12:42Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://open-codereview.ai\"> <img src=\"imgs/logo-core.svg\" alt=\"OpenCodeReview logo\" width=\"180\" /> </a> <h1>OpenCodeReview</h1> </div> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/41087?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-41087\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://trendshift.io/api/badge/repositories/41087\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; hei",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "code-review",
+          "code-review-assistant",
+          "harness",
+          "repository-level-context"
+        ],
+        "updated_at": "2026-07-24T09:56:30Z"
+      },
+      "repo": {
+        "description": "Open-source & free \u2014 Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "forks": 823,
+        "full_name": "alibaba/open-code-review",
+        "language": "Go",
+        "name": "open-code-review",
+        "owner": "alibaba",
+        "rank": 11,
+        "stars_today": 180,
+        "total_stars": 12055,
+        "url": "https://github.com/alibaba/open-code-review"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.64,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.69
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 180 stars today; score 73.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-06T21:00:56Z",
+        "default_branch": "main",
+        "description": "A hive mind communication platform",
+        "fork": false,
+        "full_name": "block/buzz",
+        "homepage": null,
+        "latest_release": "v0.4.24",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 532,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-24T09:28:13Z",
+        "readme_excerpt": "<h1 align=\"center\">Buzz \ud83d\udc1d</h1> <p align=\"center\"> <strong>A workspace where humans and agents build together, on a relay you own.</strong> </p> <p align=\"center\"> <a href=\"VISION.md\">Vision</a> \u00b7 <a href=\"VISION_SOVEREIGN.md\">Sovereign</a> \u00b7 <a href=\"VISION_PROJECTS.md\">Forge</a> \u00b7 <a href=\"VISION_AGENT.md\">Agents</a> \u00b7 <a href=\"ARCHITECTURE.md\">Architecture</a> \u00b7 <a href=\"LICENSE\">Apache 2.0</a> </p> <p align=\"center\"> <img src=\"docs/assets/screenshots/channel-thread.png\" alt=\"A Buzz project ch",
+        "topics": [],
+        "updated_at": "2026-07-24T09:57:15Z"
+      },
+      "repo": {
+        "description": "A hive mind communication platform",
+        "forks": 631,
+        "full_name": "block/buzz",
+        "language": "Rust",
+        "name": "buzz",
+        "owner": "block",
+        "rank": 1,
+        "stars_today": 2162,
+        "total_stars": 8126,
+        "url": "https://github.com/block/buzz"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 9.32,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 69.57
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 2162 stars today; score 69.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-10-22T02:58:35Z",
+        "default_branch": "master",
+        "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+        "fork": false,
+        "full_name": "Automattic/harper",
+        "homepage": "https://writewithharper.com",
+        "latest_release": "v2.6.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 686,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-24T04:09:59Z",
+        "readme_excerpt": "<div id=\"header\" align=\"center\"> <img src=\"logo.svg\" width=\"400px\" /> <h1>Harper</h1> </div> [![Harper Binaries](https://github.com/automattic/harper/actions/workflows/binaries.yml/badge.svg)](https://github.com/automattic/harper/actions/workflows/binaries.yml) [![Website](https://github.com/automattic/harper/actions/workflows/build_web.yml/badge.svg)](https://github.com/automattic/harper/actions/workflows/build_web.yml) [![Checks](https://github.com/automattic/harper/actions/workflows/just_chec",
+        "topics": [
+          "chrome-extension",
+          "developer-tools",
+          "english-language",
+          "grammar-checker",
+          "nodejs",
+          "react",
+          "rust",
+          "svelte",
+          "webassembly"
+        ],
+        "updated_at": "2026-07-24T09:54:39Z"
+      },
+      "repo": {
+        "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+        "forks": 470,
+        "full_name": "Automattic/harper",
+        "language": "Rust",
+        "name": "harper",
+        "owner": "Automattic",
+        "rank": 14,
+        "stars_today": 624,
+        "total_stars": 12632,
+        "url": "https://github.com/Automattic/harper"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.38,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 56.55
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: Rust project with 624 stars today; score 56.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-12-09T06:36:45Z",
+        "default_branch": "master",
+        "description": "The Free Software Media System - Server Backend & API",
+        "fork": false,
+        "full_name": "jellyfin/jellyfin",
+        "homepage": "https://jellyfin.org",
+        "latest_release": "v10.11.11",
+        "license_spdx": "GPL-2.0",
+        "open_issues": 569,
+        "primary_language": "C#",
+        "pushed_at": "2026-07-22T17:46:57Z",
+        "readme_excerpt": "<h1 align=\"center\">Jellyfin</h1> <h3 align=\"center\">The Free Software Media System</h3> --- <p align=\"center\"> <img alt=\"Logo Banner\" src=\"https://raw.githubusercontent.com/jellyfin/jellyfin-ux/master/branding/SVG/banner-logo-solid.svg?sanitize=true\"/> <br/> <br/> <a href=\"https://github.com/jellyfin/jellyfin\"><img alt=\"GPL 2.0 License\" src=\"https://img.shields.io/github/license/jellyfin/jellyfin.svg\"/></a> <a href=\"https://github.com/jellyfin/jellyfin/releases\"><img alt=\"Current Release\" src=\"h",
+        "topics": [
+          "csharp",
+          "dotnet",
+          "hacktoberfest",
+          "jellyfin"
+        ],
+        "updated_at": "2026-07-24T09:55:59Z"
+      },
+      "repo": {
+        "description": "The Free Software Media System - Server Backend & API",
+        "forks": 5172,
+        "full_name": "jellyfin/jellyfin",
+        "language": "C#",
+        "name": "jellyfin",
+        "owner": "jellyfin",
+        "rank": 15,
+        "stars_today": 66,
+        "total_stars": 54865,
+        "url": "https://github.com/jellyfin/jellyfin"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.76,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 50.82
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: C# project with 66 stars today; score 50.8/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-16T12:51:09Z",
+        "default_branch": "main",
+        "description": "The best browser for both you and your AI agents work in parallel.",
+        "fork": false,
+        "full_name": "citrolabs/ego-lite",
+        "homepage": "https://lite.ego.app",
+        "latest_release": "v1.2.5",
+        "license_spdx": "MIT",
+        "open_issues": 26,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-07-24T09:30:16Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"docs/assets/banner.png\" alt=\"ego lite\" width=\"100%\" /> **The fastest browser for AI agents to run web automation** <a href=\"https://trendshift.io/repositories/42334?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-42334\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/42334\" alt=\"citrolabs%2Fego-lite | Trendshift\" width=\"250\" height=\"55\"/></a> <p> <a href=\"https://cdn.ego.app/channel",
+        "topics": [
+          "agent-skills",
+          "ai-agent",
+          "browser",
+          "skills",
+          "skills-sh"
+        ],
+        "updated_at": "2026-07-24T09:55:32Z"
+      },
+      "repo": {
+        "description": "The best browser for both you and your AI agents work in parallel.",
+        "forks": 105,
+        "full_name": "citrolabs/ego-lite",
+        "language": "JavaScript",
+        "name": "ego-lite",
+        "owner": "citrolabs",
+        "rank": 5,
+        "stars_today": 247,
+        "total_stars": 2048,
+        "url": "https://github.com/citrolabs/ego-lite"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.68,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 73.98
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 247 stars today; score 74.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-18T02:16:36Z",
+        "default_branch": "main",
+        "description": "Open-source & free \u2014 Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "fork": false,
+        "full_name": "alibaba/open-code-review",
+        "homepage": "https://open-codereview.ai",
+        "latest_release": "v1.7.15",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 52,
+        "primary_language": "Go",
+        "pushed_at": "2026-07-24T01:12:42Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://open-codereview.ai\"> <img src=\"imgs/logo-core.svg\" alt=\"OpenCodeReview logo\" width=\"180\" /> </a> <h1>OpenCodeReview</h1> </div> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/41087?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-41087\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://trendshift.io/api/badge/repositories/41087\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; hei",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "code-review",
+          "code-review-assistant",
+          "harness",
+          "repository-level-context"
+        ],
+        "updated_at": "2026-07-24T09:56:30Z"
+      },
+      "repo": {
+        "description": "Open-source & free \u2014 Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "forks": 823,
+        "full_name": "alibaba/open-code-review",
+        "language": "Go",
+        "name": "open-code-review",
+        "owner": "alibaba",
+        "rank": 11,
+        "stars_today": 180,
+        "total_stars": 12055,
+        "url": "https://github.com/alibaba/open-code-review"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.64,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.69
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 180 stars today; score 73.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-06T21:00:56Z",
+        "default_branch": "main",
+        "description": "A hive mind communication platform",
+        "fork": false,
+        "full_name": "block/buzz",
+        "homepage": null,
+        "latest_release": "v0.4.24",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 532,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-24T09:28:13Z",
+        "readme_excerpt": "<h1 align=\"center\">Buzz \ud83d\udc1d</h1> <p align=\"center\"> <strong>A workspace where humans and agents build together, on a relay you own.</strong> </p> <p align=\"center\"> <a href=\"VISION.md\">Vision</a> \u00b7 <a href=\"VISION_SOVEREIGN.md\">Sovereign</a> \u00b7 <a href=\"VISION_PROJECTS.md\">Forge</a> \u00b7 <a href=\"VISION_AGENT.md\">Agents</a> \u00b7 <a href=\"ARCHITECTURE.md\">Architecture</a> \u00b7 <a href=\"LICENSE\">Apache 2.0</a> </p> <p align=\"center\"> <img src=\"docs/assets/screenshots/channel-thread.png\" alt=\"A Buzz project ch",
+        "topics": [],
+        "updated_at": "2026-07-24T09:57:15Z"
+      },
+      "repo": {
+        "description": "A hive mind communication platform",
+        "forks": 631,
+        "full_name": "block/buzz",
+        "language": "Rust",
+        "name": "buzz",
+        "owner": "block",
+        "rank": 1,
+        "stars_today": 2162,
+        "total_stars": 8126,
+        "url": "https://github.com/block/buzz"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 9.32,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 69.57
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 2162 stars today; score 69.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-17T07:15:01Z",
+        "default_branch": "master",
+        "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+        "fork": false,
+        "full_name": "ComposioHQ/awesome-claude-skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 1083,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-24T07:48:01Z",
+        "readme_excerpt": "<h1 align=\"center\">Awesome Claude Skills</h1> <p align=\"center\"> <a href=\"https://dashboard.composio.dev/login?utm_source=Github&utm_medium=Youtube&utm_campaign=2025-11&utm_content=AwesomeSkills\"> <img width=\"1280\" height=\"640\" alt=\"Composio banner\" src=\"https://github.com/user-attachments/assets/e91255af-e4ba-4d71-b1a8-bd081e8a234a\"> </a> </p> <p align=\"center\"> <a href=\"https://awesome.re\"> <img src=\"https://awesome.re/badge.svg\" alt=\"Awesome\" /> </a> <a href=\"https://makeapullrequest.com\"> <i",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "antigravity",
+          "automation",
+          "claude",
+          "claude-code",
+          "codex",
+          "composio",
+          "cursor",
+          "developer-tools",
+          "gemini-cli",
+          "mcp",
+          "openai-codex",
+          "rube",
+          "saas",
+          "skill",
+          "workflow-automation"
+        ],
+        "updated_at": "2026-07-24T09:56:51Z"
+      },
+      "repo": {
+        "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+        "forks": 7866,
+        "full_name": "ComposioHQ/awesome-claude-skills",
+        "language": "Python",
+        "name": "awesome-claude-skills",
+        "owner": "ComposioHQ",
+        "rank": 8,
+        "stars_today": 636,
+        "total_stars": 69706,
+        "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.27,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 69.57
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 636 stars today; score 69.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-08T17:26:06Z",
+        "default_branch": "main",
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "fork": false,
+        "full_name": "koala73/worldmonitor",
+        "homepage": "https://worldmonitor.app",
+        "latest_release": "v2.5.23",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 265,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-24T09:34:13Z",
+        "readme_excerpt": "# World Monitor [\u7b80\u4f53\u4e2d\u6587](README.zh-CN.md) **Real-time global intelligence dashboard** \u2014 AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface. [![GitHub stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=social)](https://github.com/koala73/worldmonitor/stargazers) [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/re63kWKxaz) [![License:",
+        "topics": [
+          "agent",
+          "ai",
+          "dashboard",
+          "geopolitics",
+          "mcp",
+          "mcp-server",
+          "monitoring",
+          "news",
+          "opensource",
+          "osint",
+          "palantir",
+          "situation"
+        ],
+        "updated_at": "2026-07-24T09:57:18Z"
+      },
+      "repo": {
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "forks": 10882,
+        "full_name": "koala73/worldmonitor",
+        "language": "TypeScript",
+        "name": "worldmonitor",
+        "owner": "koala73",
+        "rank": 2,
+        "stars_today": 3175,
+        "total_stars": 72540,
+        "url": "https://github.com/koala73/worldmonitor"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.86,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 4.84,
+        "technical_quality": 11.2,
+        "total": 63.98
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 3175 stars today; score 64.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-22T01:09:45Z",
+        "default_branch": "main",
+        "description": "A collection of agent skills for CAD, robotics and hardware design",
+        "fork": false,
+        "full_name": "earthtojake/text-to-cad",
+        "homepage": "https://www.cadskills.xyz",
+        "latest_release": "0.3.9",
+        "license_spdx": "MIT",
+        "open_issues": 25,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-07-11T00:26:42Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"assets/text-to-cad-demo.gif\" alt=\"Demo of the CAD skill generating and previewing CAD geometry\" width=\"100%\"> <br> <pre> \u2588\u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2557 \u2588\u2588\u2557\u2588\u2588\u2557\u2588\u2588\u2557 \u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2554\u2550\u2550\u2550\u2550\u255d\u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2557\u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2557 \u2588\u2588\u2554\u2550\u2550\u2550\u2550\u255d\u2588\u2588\u2551 \u2588\u2588\u2554\u255d\u2588\u2588\u2551\u2588\u2588\u2551 \u2588\u2588\u2551 \u2588\u2588\u2554\u2550\u2550\u2550\u2550\u255d \u2588\u2588\u2551 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2551\u2588\u2588\u2551 \u2588\u2588\u2551 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2588\u2588\u2588\u2554\u255d \u2588\u2588\u2551\u2588\u2588\u2551 \u2588\u2588\u2551 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2551 \u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2551\u2588\u2588\u2551 \u2588\u2588\u2551 \u255a\u2550\u2550\u2550\u2550\u2588\u2588\u2551\u2588\u2588\u2554\u2550\u2588\u2588\u2557 \u2588\u2588\u2551\u2588\u2588\u2551 \u2588\u2588\u2551 \u255a\u2550\u2550\u2550\u2550\u2588\u2588\u2551 \u255a\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2551 \u2588\u2588\u2551\u2588\u2588\u2588\u2588\u2588\u2588\u2554\u255d \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2551\u2588\u2588\u2551 \u2588\u2588\u2557\u2588\u2588\u2551\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2551 \u255a\u2550\u2550\u2550\u2550\u2550\u255d\u255a\u2550\u255d \u255a\u2550\u255d\u255a\u2550\u2550\u2550\u2550\u2550\u255d \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u255d\u255a\u2550\u255d \u255a\u2550\u255d\u255a\u2550\u255d\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u255d\u255a\u2550",
+        "topics": [
+          "3mf",
+          "agents",
+          "ai-agents",
+          "build123d",
+          "cad",
+          "dxf",
+          "glb",
+          "mechanical-engineering",
+          "opencascade",
+          "robotics",
+          "sdf",
+          "srdf",
+          "step",
+          "stl",
+          "stp",
+          "text-to-cad",
+          "urdf"
+        ],
+        "updated_at": "2026-07-24T09:56:25Z"
+      },
+      "repo": {
+        "description": "A collection of agent skills for CAD, robotics and hardware design",
+        "forks": 1118,
+        "full_name": "earthtojake/text-to-cad",
+        "language": "JavaScript",
+        "name": "text-to-cad",
+        "owner": "earthtojake",
+        "rank": 9,
+        "stars_today": 230,
+        "total_stars": 10255,
+        "url": "https://github.com/earthtojake/text-to-cad"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.06,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 63.66
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 230 stars today; score 63.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-22T13:46:04Z",
+        "default_branch": "main",
+        "description": "Web UI for the pi coding agent",
+        "fork": false,
+        "full_name": "agegr/pi-web",
+        "homepage": null,
+        "latest_release": "v0.8.0",
+        "license_spdx": "MIT",
+        "open_issues": 40,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-23T04:30:09Z",
+        "readme_excerpt": "# Pi Web [\u4e2d\u6587\u6587\u6863](./README.zh-CN.md) Local web UI for the [pi coding agent](https://github.com/badlogic/pi-mono). Pi Web reads your local pi session files and gives you a browser workspace for session browsing, real-time chat, model configuration, skill management, and project file preview. ![Pi Web shows the same pi session with structured Markdown, tool calls, and project navigation beside the CLI](https://raw.githubusercontent.com/agegr/pi-web/main/docs/screenshot2.png) The same pi session in C",
+        "topics": [],
+        "updated_at": "2026-07-24T09:53:10Z"
+      },
+      "repo": {
+        "description": "Web UI for the pi coding agent",
+        "forks": 338,
+        "full_name": "agegr/pi-web",
+        "language": "TypeScript",
+        "name": "pi-web",
+        "owner": "agegr",
+        "rank": 10,
+        "stars_today": 315,
+        "total_stars": 2532,
+        "url": "https://github.com/agegr/pi-web"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.14,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 62.69
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 315 stars today; score 62.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-06-07T04:32:30Z",
+        "default_branch": "main",
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "fork": false,
+        "full_name": "ruvnet/RuView",
+        "homepage": "https://Cognitum.One/RuView",
+        "latest_release": "v1954",
+        "license_spdx": "MIT",
+        "open_issues": 378,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-24T09:47:21Z",
+        "readme_excerpt": "# \u03c0 RuView <p align=\"center\"> <a href=\"https://cognitum.one/seed\"> <img src=\"assets/ruview-seed.png\" alt=\"RuView - WiFi DensePose\" width=\"100%\"> </a> </p> <p align=\"center\"> <a href=\"https://cognitum.one/marketplace/musica\"> <img src=\"assets/musica-promo.png\" alt=\"Cognitum Musica\" width=\"100%\"> </a> </p> ## **See through walls with WiFi** ## **Turn ordinary WiFi into a spatial intelligence / sensing system.** Detect people, measure breathing and heart rate, track movement, and monitor rooms \u2014 th",
+        "topics": [
+          "awesome",
+          "claude",
+          "densepose",
+          "esp32",
+          "firmware",
+          "home-assistant",
+          "home-automation",
+          "iot",
+          "monitoring",
+          "networking",
+          "npm",
+          "pose-estimation",
+          "react",
+          "rf",
+          "self-learning",
+          "skills",
+          "spatial-intelligence",
+          "typescript",
+          "wifi",
+          "wifi-security"
+        ],
+        "updated_at": "2026-07-24T09:57:21Z"
+      },
+      "repo": {
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "forks": 11409,
+        "full_name": "ruvnet/RuView",
+        "language": "Rust",
+        "name": "RuView",
+        "owner": "ruvnet",
+        "rank": 12,
+        "stars_today": 1708,
+        "total_stars": 85526,
+        "url": "https://github.com/ruvnet/RuView"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.53,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 62.63
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 1708 stars today; score 62.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-10-22T02:58:35Z",
+        "default_branch": "master",
+        "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+        "fork": false,
+        "full_name": "Automattic/harper",
+        "homepage": "https://writewithharper.com",
+        "latest_release": "v2.6.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 686,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-24T04:09:59Z",
+        "readme_excerpt": "<div id=\"header\" align=\"center\"> <img src=\"logo.svg\" width=\"400px\" /> <h1>Harper</h1> </div> [![Harper Binaries](https://github.com/automattic/harper/actions/workflows/binaries.yml/badge.svg)](https://github.com/automattic/harper/actions/workflows/binaries.yml) [![Website](https://github.com/automattic/harper/actions/workflows/build_web.yml/badge.svg)](https://github.com/automattic/harper/actions/workflows/build_web.yml) [![Checks](https://github.com/automattic/harper/actions/workflows/just_chec",
+        "topics": [
+          "chrome-extension",
+          "developer-tools",
+          "english-language",
+          "grammar-checker",
+          "nodejs",
+          "react",
+          "rust",
+          "svelte",
+          "webassembly"
+        ],
+        "updated_at": "2026-07-24T09:54:39Z"
+      },
+      "repo": {
+        "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+        "forks": 470,
+        "full_name": "Automattic/harper",
+        "language": "Rust",
+        "name": "harper",
+        "owner": "Automattic",
+        "rank": 14,
+        "stars_today": 624,
+        "total_stars": 12632,
+        "url": "https://github.com/Automattic/harper"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.38,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 56.55
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: Rust project with 624 stars today; score 56.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-07-01T02:54:32Z",
+        "default_branch": "master",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "fork": false,
+        "full_name": "shiyu-coder/Kronos",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 242,
+        "primary_language": "Python",
+        "pushed_at": "2026-04-13T12:38:49Z",
+        "readme_excerpt": "<div align=\"center\"> <h2><b>Kronos: A Foundation Model for the Language of Financial Markets </b></h2> </div> <div align=\"center\"> </a> <a href=\"https://huggingface.co/NeoQuasar\"> <img src=\"https://img.shields.io/badge/\ud83e\udd17-Hugging_Face-yellow\" alt=\"Hugging Face\"> </a> <a href=\"https://shiyu-coder.github.io/Kronos-demo/\"> <img src=\"https://img.shields.io/badge/\ud83d\ude80-Live_Demo-brightgreen\" alt=\"Live Demo\"> </a> <a href=\"https://github.com/shiyu-coder/Kronos/graphs/commit-activity\"> <img src=\"https://img",
+        "topics": [],
+        "updated_at": "2026-07-24T09:56:15Z"
+      },
+      "repo": {
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "forks": 5662,
+        "full_name": "shiyu-coder/Kronos",
+        "language": "Python",
+        "name": "Kronos",
+        "owner": "shiyu-coder",
+        "rank": 3,
+        "stars_today": 401,
+        "total_stars": 33282,
+        "url": "https://github.com/shiyu-coder/Kronos"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.37,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 51.42
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 401 stars today; score 51.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/diegosouzapw",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models \u2014 Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+        "forks": 3668,
+        "full_name": "sponsors/diegosouzapw",
+        "language": "TypeScript",
+        "name": "diegosouzapw",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 1929,
+        "total_stars": 27925,
+        "url": "https://github.com/sponsors/diegosouzapw"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 7.84,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 7.0,
+        "technical_quality": 3.5,
+        "total": 51.24
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1929 stars today; score 51.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-12-09T06:36:45Z",
+        "default_branch": "master",
+        "description": "The Free Software Media System - Server Backend & API",
+        "fork": false,
+        "full_name": "jellyfin/jellyfin",
+        "homepage": "https://jellyfin.org",
+        "latest_release": "v10.11.11",
+        "license_spdx": "GPL-2.0",
+        "open_issues": 569,
+        "primary_language": "C#",
+        "pushed_at": "2026-07-22T17:46:57Z",
+        "readme_excerpt": "<h1 align=\"center\">Jellyfin</h1> <h3 align=\"center\">The Free Software Media System</h3> --- <p align=\"center\"> <img alt=\"Logo Banner\" src=\"https://raw.githubusercontent.com/jellyfin/jellyfin-ux/master/branding/SVG/banner-logo-solid.svg?sanitize=true\"/> <br/> <br/> <a href=\"https://github.com/jellyfin/jellyfin\"><img alt=\"GPL 2.0 License\" src=\"https://img.shields.io/github/license/jellyfin/jellyfin.svg\"/></a> <a href=\"https://github.com/jellyfin/jellyfin/releases\"><img alt=\"Current Release\" src=\"h",
+        "topics": [
+          "csharp",
+          "dotnet",
+          "hacktoberfest",
+          "jellyfin"
+        ],
+        "updated_at": "2026-07-24T09:55:59Z"
+      },
+      "repo": {
+        "description": "The Free Software Media System - Server Backend & API",
+        "forks": 5172,
+        "full_name": "jellyfin/jellyfin",
+        "language": "C#",
+        "name": "jellyfin",
+        "owner": "jellyfin",
+        "rank": 15,
+        "stars_today": 66,
+        "total_stars": 54865,
+        "url": "https://github.com/jellyfin/jellyfin"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.76,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 50.82
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: C# project with 66 stars today; score 50.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/Pumpkin-MC",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+        "forks": 622,
+        "full_name": "sponsors/Pumpkin-MC",
+        "language": "Rust",
+        "name": "Pumpkin-MC",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 565,
+        "total_stars": 9102,
+        "url": "https://github.com/sponsors/Pumpkin-MC"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.66,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.9,
+        "technical_quality": 3.5,
+        "total": 19.76
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Rust project with 565 stars today; score 19.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/chrislgarry",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+        "forks": 7929,
+        "full_name": "sponsors/chrislgarry",
+        "language": "Assembly",
+        "name": "chrislgarry",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 592,
+        "total_stars": 71246,
+        "url": "https://github.com/sponsors/chrislgarry"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.45,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.82,
+        "technical_quality": 3.5,
+        "total": 19.47
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Assembly project with 592 stars today; score 19.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/likec4",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+        "forks": 328,
+        "full_name": "sponsors/likec4",
+        "language": "TypeScript",
+        "name": "likec4",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 472,
+        "total_stars": 4839,
+        "url": "https://github.com/sponsors/likec4"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.12,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.27,
+        "technical_quality": 3.5,
+        "total": 17.59
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: TypeScript project with 472 stars today; score 17.6/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-07-24",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is citrolabs/ego-lite."
+}

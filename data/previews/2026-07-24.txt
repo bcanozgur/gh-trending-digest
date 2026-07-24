@@ -1,0 +1,29 @@
+GitHub Trending: AI workflow signal - 2026-07-24
+
+Today leans toward AI workflow signal; the strongest pick is citrolabs/ego-lite.
+
+Top picks
+1. citrolabs/ego-lite - 74.0/100
+   https://github.com/citrolabs/ego-lite
+   AI Workflow, DevTools: JavaScript project with 247 stars today; score 74.0/100.
+2. alibaba/open-code-review - 73.7/100
+   https://github.com/alibaba/open-code-review
+   AI Workflow, DevTools: Go project with 180 stars today; score 73.7/100.
+3. block/buzz - 69.6/100
+   https://github.com/block/buzz
+   AI Workflow, Try Today: Rust project with 2162 stars today; score 69.6/100.
+4. Automattic/harper - 56.5/100
+   https://github.com/Automattic/harper
+   DevTools, Try Today: Rust project with 624 stars today; score 56.5/100.
+5. jellyfin/jellyfin - 50.8/100
+   https://github.com/jellyfin/jellyfin
+   DevTools, Try Today: C# project with 66 stars today; score 50.8/100.
+
+Full reviewed list
+- citrolabs/ego-lite: 74.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: JavaScript project with 247 stars today; score 74.0/100.
+- alibaba/open-code-review: 73.7/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Go project with 180 stars today; score 73.7/100.
+- block/buzz: 69.6/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Rust project with 2162 stars today; score 69.6/100.
+- Automattic/harper: 56.5/100 [DevTools, Try Today, Deep Dive] DevTools, Try Today: Rust project with 624 stars today; score 56.5/100.
+- jellyfin/jellyfin: 50.8/100 [DevTools, Try Today] DevTools, Try Today: C# project with 66 stars today; score 50.8/100.
+
+Generated for 2026-07-24 from GitHub Trending daily.
