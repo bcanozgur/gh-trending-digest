@@ -1,0 +1,1353 @@
+{
+  "date": "2026-07-26",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-07T04:15:51Z",
+        "default_branch": "main",
+        "description": "macOS video editor built for AI",
+        "fork": false,
+        "full_name": "palmier-io/palmier-pro",
+        "homepage": "https://palmier.io",
+        "latest_release": "v0.6.14",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 79,
+        "primary_language": "Swift",
+        "pushed_at": "2026-07-26T05:35:38Z",
+        "readme_excerpt": "<div align=\"center\"> # Palmier Pro **The video editor built for AI.** <a href=\"https://github.com/palmier-io/palmier-pro/releases/latest/download/PalmierPro.dmg\"> <img src=\"./assets/macos-badge.png\" alt=\"Download Palmier Pro for macOS\" width=\"180\" /> </a> <sub><i>Requires macOS 26 (Tahoe) on Apple Silicon</i></sub> <a href=\"https://x.com/Palmier_io\"><img src=\"https://img.shields.io/badge/Follow-%40Palmier__io-000000?style=flat&logo=x&logoColor=white\" alt=\"Follow on X\" /></a> <a href=\"https://dis",
+        "topics": [
+          "ai-video",
+          "claude",
+          "macos",
+          "mcp",
+          "seedance2",
+          "swift",
+          "video-editor"
+        ],
+        "updated_at": "2026-07-26T09:33:13Z"
+      },
+      "repo": {
+        "description": "macOS video editor built for AI",
+        "forks": 899,
+        "full_name": "palmier-io/palmier-pro",
+        "language": "Swift",
+        "name": "palmier-pro",
+        "owner": "palmier-io",
+        "rank": 12,
+        "stars_today": 412,
+        "total_stars": 12360,
+        "url": "https://github.com/palmier-io/palmier-pro"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.41,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 64.71
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Swift project with 412 stars today; score 64.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-06-30T20:07:46Z",
+        "default_branch": "main",
+        "description": "Simple, unified interface to multiple Generative AI providers ",
+        "fork": false,
+        "full_name": "andrewyng/aisuite",
+        "homepage": null,
+        "latest_release": "v0.1.3",
+        "license_spdx": "MIT",
+        "open_issues": 133,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-25T19:14:07Z",
+        "readme_excerpt": "> ![OpenWorker](https://img.shields.io/badge/%E2%9C%A8-OpenWorker-8250df?style=for-the-badge) > ## OpenWorker > **A desktop AI coworker, built on aisuite \u2014 now in its own repository: [andrewyng/openworker](https://github.com/andrewyng/openworker).** > > OpenWorker chats, does deep research, and carries out real tasks on your computer \u2014 reading files with > permission, connecting to Slack/email, producing PDFs, documents, and spreadsheets, and running scheduled > automations. Bring your own API k",
+        "topics": [],
+        "updated_at": "2026-07-26T09:28:27Z"
+      },
+      "repo": {
+        "description": "Simple, unified interface to multiple Generative AI providers",
+        "forks": 1621,
+        "full_name": "andrewyng/aisuite",
+        "language": "Python",
+        "name": "aisuite",
+        "owner": "andrewyng",
+        "rank": 17,
+        "stars_today": 77,
+        "total_stars": 15297,
+        "url": "https://github.com/andrewyng/aisuite"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.56,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 61.81
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 77 stars today; score 61.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-08-15T20:23:51Z",
+        "default_branch": "main",
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "fork": false,
+        "full_name": "anthropics/claude-cookbooks",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 295,
+        "primary_language": "Jupyter Notebook",
+        "pushed_at": "2026-07-23T17:32:41Z",
+        "readme_excerpt": "# Claude Cookbooks The Claude Cookbooks provide code and guides designed to help developers build with Claude, offering copy-able code snippets that you can easily integrate into your own projects. ## Prerequisites To make the most of the examples in this cookbook, you'll need a Claude API key (sign up for free [here](https://www.anthropic.com)). While the code examples are primarily written in Python, the concepts can be adapted to any programming language that supports interaction with the Cla",
+        "topics": [],
+        "updated_at": "2026-07-26T09:27:39Z"
+      },
+      "repo": {
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "forks": 5905,
+        "full_name": "anthropics/claude-cookbooks",
+        "language": "Jupyter Notebook",
+        "name": "claude-cookbooks",
+        "owner": "anthropics",
+        "rank": 5,
+        "stars_today": 132,
+        "total_stars": 50013,
+        "url": "https://github.com/anthropics/claude-cookbooks"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.47,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 59.13
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Jupyter Notebook project with 132 stars today; score 59.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-07-04T14:34:38Z",
+        "default_branch": "main",
+        "description": "bluetooth mesh chat, IRC vibes",
+        "fork": false,
+        "full_name": "permissionlesstech/bitchat",
+        "homepage": null,
+        "latest_release": "v1.7.0",
+        "license_spdx": "Unlicense",
+        "open_issues": 75,
+        "primary_language": "Swift",
+        "pushed_at": "2026-07-26T09:31:07Z",
+        "readme_excerpt": "<img width=\"256\" height=\"256\" alt=\"icon_128x128@2x\" src=\"https://github.com/user-attachments/assets/90133f83-b4f6-41c6-aab9-25d0859d2a47\" /> ## bitchat A decentralized peer-to-peer messaging app with dual transport architecture: local Bluetooth mesh networks for offline communication and internet-based Nostr protocol for global reach. No accounts, no phone numbers, no central servers. It's the side-groupchat. [bitchat.free](http://bitchat.free) \ud83d\udcf2 [App Store](https://apps.apple.com/us/app/bitchat",
+        "topics": [],
+        "updated_at": "2026-07-26T09:34:08Z"
+      },
+      "repo": {
+        "description": "bluetooth mesh chat, IRC vibes",
+        "forks": 4444,
+        "full_name": "permissionlesstech/bitchat",
+        "language": "Swift",
+        "name": "bitchat",
+        "owner": "permissionlesstech",
+        "rank": 10,
+        "stars_today": 1720,
+        "total_stars": 29030,
+        "url": "https://github.com/permissionlesstech/bitchat"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 8.1,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.31,
+        "technical_quality": 14.0,
+        "total": 56.41
+      },
+      "tags": [
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "Try Today, Deep Dive: Swift project with 1720 stars today; score 56.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-26T10:32:44Z",
+        "default_branch": "main",
+        "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+        "fork": false,
+        "full_name": "RyanCodrai/turbovec",
+        "homepage": "https://pypi.org/project/turbovec/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 16,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-26T09:05:51Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"docs/header.png\" alt=\"turbovec \u2014 Google's TurboQuant for vector search\" width=\"100%\"> </p> <p align=\"center\"> <a href=\"https://github.com/RyanCodrai/turbovec/blob/main/LICENSE\"><img src=\"https://img.shields.io/pypi/l/turbovec\" alt=\"License\"></a> <a href=\"https://pypi.org/project/turbovec/\"><img src=\"https://img.shields.io/pypi/v/turbovec?label=pypi&color=blue\" alt=\"PyPI version\"></a> <a href=\"https://crates.io/crates/turbovec\"><img src=\"https://img.shields.io/crates/",
+        "topics": [
+          "ann",
+          "avx512",
+          "embedding",
+          "embeddings",
+          "faiss",
+          "nearest-neighbor",
+          "neon",
+          "python",
+          "quant",
+          "quantization",
+          "rag",
+          "rust",
+          "simd",
+          "turboquant",
+          "vector-search"
+        ],
+        "updated_at": "2026-07-26T09:30:06Z"
+      },
+      "repo": {
+        "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+        "forks": 1273,
+        "full_name": "RyanCodrai/turbovec",
+        "language": "Python",
+        "name": "turbovec",
+        "owner": "RyanCodrai",
+        "rank": 15,
+        "stars_today": 86,
+        "total_stars": 14363,
+        "url": "https://github.com/RyanCodrai/turbovec"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.87,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 54.47
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 86 stars today; score 54.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 35595,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 18,
+        "stars_today": 377,
+        "total_stars": 233454,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.42,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 35.37
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 377 stars today; score 35.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 23318,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 479,
+        "total_stars": 261308,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.21,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 33.36
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 479 stars today; score 33.4/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-16T12:51:09Z",
+        "default_branch": "main",
+        "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+        "fork": false,
+        "full_name": "citrolabs/ego-lite",
+        "homepage": "https://lite.ego.app",
+        "latest_release": "v1.2.5",
+        "license_spdx": "MIT",
+        "open_issues": 33,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-07-25T15:39:13Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"docs/assets/banner.png\" alt=\"ego lite\" width=\"100%\" /> **The fastest browser for AI agents to run web automation** <a href=\"https://trendshift.io/repositories/42334?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-42334\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/42334\" alt=\"citrolabs%2Fego-lite | Trendshift\" width=\"250\" height=\"55\"/></a> <p> <a href=\"https://cdn.ego.app/channel",
+        "topics": [
+          "agent-skills",
+          "ai-agent",
+          "browser",
+          "skills",
+          "skills-sh"
+        ],
+        "updated_at": "2026-07-26T09:30:03Z"
+      },
+      "repo": {
+        "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+        "forks": 190,
+        "full_name": "citrolabs/ego-lite",
+        "language": "JavaScript",
+        "name": "ego-lite",
+        "owner": "citrolabs",
+        "rank": 3,
+        "stars_today": 986,
+        "total_stars": 3890,
+        "url": "https://github.com/citrolabs/ego-lite"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.64,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 72.49
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 986 stars today; score 72.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-18T02:16:36Z",
+        "default_branch": "main",
+        "description": "Open-source & free \u2014 Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "fork": false,
+        "full_name": "alibaba/open-code-review",
+        "homepage": "https://open-codereview.ai",
+        "latest_release": "v1.7.17",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 58,
+        "primary_language": "Go",
+        "pushed_at": "2026-07-26T08:46:59Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://open-codereview.ai\"> <img src=\"imgs/logo-core.svg\" alt=\"OpenCodeReview logo\" width=\"180\" /> </a> <h1>OpenCodeReview</h1> </div> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/41087?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-41087\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://trendshift.io/api/badge/repositories/41087\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; hei",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "code-review",
+          "code-review-assistant",
+          "harness",
+          "repository-level-context"
+        ],
+        "updated_at": "2026-07-26T09:34:18Z"
+      },
+      "repo": {
+        "description": "Open-source & free \u2014 Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "forks": 906,
+        "full_name": "alibaba/open-code-review",
+        "language": "Go",
+        "name": "open-code-review",
+        "owner": "alibaba",
+        "rank": 2,
+        "stars_today": 431,
+        "total_stars": 13292,
+        "url": "https://github.com/alibaba/open-code-review"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.91,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 70.76
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 431 stars today; score 70.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-17T07:15:01Z",
+        "default_branch": "master",
+        "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+        "fork": false,
+        "full_name": "ComposioHQ/awesome-claude-skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 1100,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-24T07:48:01Z",
+        "readme_excerpt": "<h1 align=\"center\">Awesome Claude Skills</h1> <p align=\"center\"> <a href=\"https://dashboard.composio.dev/login?utm_source=Github&utm_medium=Youtube&utm_campaign=2025-11&utm_content=AwesomeSkills\"> <img width=\"1280\" height=\"640\" alt=\"Composio banner\" src=\"https://github.com/user-attachments/assets/e91255af-e4ba-4d71-b1a8-bd081e8a234a\"> </a> </p> <p align=\"center\"> <a href=\"https://awesome.re\"> <img src=\"https://awesome.re/badge.svg\" alt=\"Awesome\" /> </a> <a href=\"https://makeapullrequest.com\"> <i",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "antigravity",
+          "automation",
+          "claude",
+          "claude-code",
+          "codex",
+          "composio",
+          "cursor",
+          "developer-tools",
+          "gemini-cli",
+          "mcp",
+          "openai-codex",
+          "rube",
+          "saas",
+          "skill",
+          "workflow-automation"
+        ],
+        "updated_at": "2026-07-26T09:33:38Z"
+      },
+      "repo": {
+        "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+        "forks": 7954,
+        "full_name": "ComposioHQ/awesome-claude-skills",
+        "language": "Python",
+        "name": "awesome-claude-skills",
+        "owner": "ComposioHQ",
+        "rank": 4,
+        "stars_today": 577,
+        "total_stars": 70782,
+        "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.11,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 70.41
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 577 stars today; score 70.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-06T21:00:56Z",
+        "default_branch": "main",
+        "description": "A hive mind communication platform",
+        "fork": false,
+        "full_name": "block/buzz",
+        "homepage": null,
+        "latest_release": "v0.4.26",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 640,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-26T09:16:34Z",
+        "readme_excerpt": "<h1 align=\"center\">Buzz \ud83d\udc1d</h1> <p align=\"center\"> <strong>A workspace where humans and agents build together, on a relay you own.</strong> </p> <p align=\"center\"> <a href=\"VISION.md\">Vision</a> \u00b7 <a href=\"VISION_SOVEREIGN.md\">Sovereign</a> \u00b7 <a href=\"VISION_PROJECTS.md\">Forge</a> \u00b7 <a href=\"VISION_AGENT.md\">Agents</a> \u00b7 <a href=\"ARCHITECTURE.md\">Architecture</a> \u00b7 <a href=\"LICENSE\">Apache 2.0</a> </p> <p align=\"center\"> <img src=\"docs/assets/screenshots/channel-thread.png\" alt=\"A Buzz project ch",
+        "topics": [],
+        "updated_at": "2026-07-26T09:34:18Z"
+      },
+      "repo": {
+        "description": "A hive mind communication platform",
+        "forks": 1002,
+        "full_name": "block/buzz",
+        "language": "Rust",
+        "name": "buzz",
+        "owner": "block",
+        "rank": 1,
+        "stars_today": 2491,
+        "total_stars": 12467,
+        "url": "https://github.com/block/buzz"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.9,
+        "technical_quality": 14.0,
+        "total": 67.68
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 2491 stars today; score 67.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-07T04:15:51Z",
+        "default_branch": "main",
+        "description": "macOS video editor built for AI",
+        "fork": false,
+        "full_name": "palmier-io/palmier-pro",
+        "homepage": "https://palmier.io",
+        "latest_release": "v0.6.14",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 79,
+        "primary_language": "Swift",
+        "pushed_at": "2026-07-26T05:35:38Z",
+        "readme_excerpt": "<div align=\"center\"> # Palmier Pro **The video editor built for AI.** <a href=\"https://github.com/palmier-io/palmier-pro/releases/latest/download/PalmierPro.dmg\"> <img src=\"./assets/macos-badge.png\" alt=\"Download Palmier Pro for macOS\" width=\"180\" /> </a> <sub><i>Requires macOS 26 (Tahoe) on Apple Silicon</i></sub> <a href=\"https://x.com/Palmier_io\"><img src=\"https://img.shields.io/badge/Follow-%40Palmier__io-000000?style=flat&logo=x&logoColor=white\" alt=\"Follow on X\" /></a> <a href=\"https://dis",
+        "topics": [
+          "ai-video",
+          "claude",
+          "macos",
+          "mcp",
+          "seedance2",
+          "swift",
+          "video-editor"
+        ],
+        "updated_at": "2026-07-26T09:33:13Z"
+      },
+      "repo": {
+        "description": "macOS video editor built for AI",
+        "forks": 899,
+        "full_name": "palmier-io/palmier-pro",
+        "language": "Swift",
+        "name": "palmier-pro",
+        "owner": "palmier-io",
+        "rank": 12,
+        "stars_today": 412,
+        "total_stars": 12360,
+        "url": "https://github.com/palmier-io/palmier-pro"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.41,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 64.71
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Swift project with 412 stars today; score 64.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-06-30T20:07:46Z",
+        "default_branch": "main",
+        "description": "Simple, unified interface to multiple Generative AI providers ",
+        "fork": false,
+        "full_name": "andrewyng/aisuite",
+        "homepage": null,
+        "latest_release": "v0.1.3",
+        "license_spdx": "MIT",
+        "open_issues": 133,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-25T19:14:07Z",
+        "readme_excerpt": "> ![OpenWorker](https://img.shields.io/badge/%E2%9C%A8-OpenWorker-8250df?style=for-the-badge) > ## OpenWorker > **A desktop AI coworker, built on aisuite \u2014 now in its own repository: [andrewyng/openworker](https://github.com/andrewyng/openworker).** > > OpenWorker chats, does deep research, and carries out real tasks on your computer \u2014 reading files with > permission, connecting to Slack/email, producing PDFs, documents, and spreadsheets, and running scheduled > automations. Bring your own API k",
+        "topics": [],
+        "updated_at": "2026-07-26T09:28:27Z"
+      },
+      "repo": {
+        "description": "Simple, unified interface to multiple Generative AI providers",
+        "forks": 1621,
+        "full_name": "andrewyng/aisuite",
+        "language": "Python",
+        "name": "aisuite",
+        "owner": "andrewyng",
+        "rank": 17,
+        "stars_today": 77,
+        "total_stars": 15297,
+        "url": "https://github.com/andrewyng/aisuite"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.56,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 61.81
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 77 stars today; score 61.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-08-15T20:23:51Z",
+        "default_branch": "main",
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "fork": false,
+        "full_name": "anthropics/claude-cookbooks",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 295,
+        "primary_language": "Jupyter Notebook",
+        "pushed_at": "2026-07-23T17:32:41Z",
+        "readme_excerpt": "# Claude Cookbooks The Claude Cookbooks provide code and guides designed to help developers build with Claude, offering copy-able code snippets that you can easily integrate into your own projects. ## Prerequisites To make the most of the examples in this cookbook, you'll need a Claude API key (sign up for free [here](https://www.anthropic.com)). While the code examples are primarily written in Python, the concepts can be adapted to any programming language that supports interaction with the Cla",
+        "topics": [],
+        "updated_at": "2026-07-26T09:27:39Z"
+      },
+      "repo": {
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "forks": 5905,
+        "full_name": "anthropics/claude-cookbooks",
+        "language": "Jupyter Notebook",
+        "name": "claude-cookbooks",
+        "owner": "anthropics",
+        "rank": 5,
+        "stars_today": 132,
+        "total_stars": 50013,
+        "url": "https://github.com/anthropics/claude-cookbooks"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.47,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 59.13
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Jupyter Notebook project with 132 stars today; score 59.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-07-04T14:34:38Z",
+        "default_branch": "main",
+        "description": "bluetooth mesh chat, IRC vibes",
+        "fork": false,
+        "full_name": "permissionlesstech/bitchat",
+        "homepage": null,
+        "latest_release": "v1.7.0",
+        "license_spdx": "Unlicense",
+        "open_issues": 75,
+        "primary_language": "Swift",
+        "pushed_at": "2026-07-26T09:31:07Z",
+        "readme_excerpt": "<img width=\"256\" height=\"256\" alt=\"icon_128x128@2x\" src=\"https://github.com/user-attachments/assets/90133f83-b4f6-41c6-aab9-25d0859d2a47\" /> ## bitchat A decentralized peer-to-peer messaging app with dual transport architecture: local Bluetooth mesh networks for offline communication and internet-based Nostr protocol for global reach. No accounts, no phone numbers, no central servers. It's the side-groupchat. [bitchat.free](http://bitchat.free) \ud83d\udcf2 [App Store](https://apps.apple.com/us/app/bitchat",
+        "topics": [],
+        "updated_at": "2026-07-26T09:34:08Z"
+      },
+      "repo": {
+        "description": "bluetooth mesh chat, IRC vibes",
+        "forks": 4444,
+        "full_name": "permissionlesstech/bitchat",
+        "language": "Swift",
+        "name": "bitchat",
+        "owner": "permissionlesstech",
+        "rank": 10,
+        "stars_today": 1720,
+        "total_stars": 29030,
+        "url": "https://github.com/permissionlesstech/bitchat"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 8.1,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.31,
+        "technical_quality": 14.0,
+        "total": 56.41
+      },
+      "tags": [
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "Try Today, Deep Dive: Swift project with 1720 stars today; score 56.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-26T10:32:44Z",
+        "default_branch": "main",
+        "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+        "fork": false,
+        "full_name": "RyanCodrai/turbovec",
+        "homepage": "https://pypi.org/project/turbovec/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 16,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-26T09:05:51Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"docs/header.png\" alt=\"turbovec \u2014 Google's TurboQuant for vector search\" width=\"100%\"> </p> <p align=\"center\"> <a href=\"https://github.com/RyanCodrai/turbovec/blob/main/LICENSE\"><img src=\"https://img.shields.io/pypi/l/turbovec\" alt=\"License\"></a> <a href=\"https://pypi.org/project/turbovec/\"><img src=\"https://img.shields.io/pypi/v/turbovec?label=pypi&color=blue\" alt=\"PyPI version\"></a> <a href=\"https://crates.io/crates/turbovec\"><img src=\"https://img.shields.io/crates/",
+        "topics": [
+          "ann",
+          "avx512",
+          "embedding",
+          "embeddings",
+          "faiss",
+          "nearest-neighbor",
+          "neon",
+          "python",
+          "quant",
+          "quantization",
+          "rag",
+          "rust",
+          "simd",
+          "turboquant",
+          "vector-search"
+        ],
+        "updated_at": "2026-07-26T09:30:06Z"
+      },
+      "repo": {
+        "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+        "forks": 1273,
+        "full_name": "RyanCodrai/turbovec",
+        "language": "Python",
+        "name": "turbovec",
+        "owner": "RyanCodrai",
+        "rank": 15,
+        "stars_today": 86,
+        "total_stars": 14363,
+        "url": "https://github.com/RyanCodrai/turbovec"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.87,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 54.47
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 86 stars today; score 54.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-06-20T14:05:26Z",
+        "default_branch": "main",
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+        "fork": false,
+        "full_name": "OtterMind/Chat2DB",
+        "homepage": "https://chat2db.ai",
+        "latest_release": "v5.3.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 94,
+        "primary_language": "Java",
+        "pushed_at": "2026-07-26T08:59:22Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"./icon.png\" alt=\"Chat2DB\" width=\"100\"> <div align=\"center\"> Powered by <a href=\"https://ottermind.ai\">OtterMind</a> </div> <br/> <p><strong>An AI-powered database client and SQL workspace for developers, DBAs, analysts, and data teams.</strong></p> </div> <div align=\"center\"> <a href=\"./README.md\"><img alt=\"README in English\" src=\"https://img.shields.io/badge/English-d9d9d9\"></a> <a href=\"./README_CN.md\"><img alt=\"\u7b80\u4f53\u4e2d\u6587\u7248\u81ea\u8ff0\u6587\u4ef6\" src=\"https://img.shields.io/badge/\u7b80\u4f53\u4e2d\u6587-d",
+        "topics": [
+          "ai",
+          "bi",
+          "chatgpt",
+          "clickhouse",
+          "clickhouse-client",
+          "database",
+          "datagrip",
+          "db2",
+          "dbeaver",
+          "gpt",
+          "hive",
+          "mysql",
+          "navicat",
+          "oracle",
+          "postgresql",
+          "redis",
+          "redis-client",
+          "sqlserver",
+          "text2sql"
+        ],
+        "updated_at": "2026-07-26T09:30:08Z"
+      },
+      "repo": {
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+        "forks": 2923,
+        "full_name": "OtterMind/Chat2DB",
+        "language": "Java",
+        "name": "Chat2DB",
+        "owner": "OtterMind",
+        "rank": 16,
+        "stars_today": 360,
+        "total_stars": 26845,
+        "url": "https://github.com/OtterMind/Chat2DB"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.65,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 53.81
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: Java project with 360 stars today; score 53.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-10-22T02:58:35Z",
+        "default_branch": "master",
+        "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+        "fork": false,
+        "full_name": "Automattic/harper",
+        "homepage": "https://writewithharper.com",
+        "latest_release": "v2.6.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 693,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-26T08:46:03Z",
+        "readme_excerpt": "<div id=\"header\" align=\"center\"> <img src=\"logo.svg\" width=\"400px\" /> <h1>Harper</h1> </div> [![Harper Binaries](https://github.com/automattic/harper/actions/workflows/binaries.yml/badge.svg)](https://github.com/automattic/harper/actions/workflows/binaries.yml) [![Website](https://github.com/automattic/harper/actions/workflows/build_web.yml/badge.svg)](https://github.com/automattic/harper/actions/workflows/build_web.yml) [![Checks](https://github.com/automattic/harper/actions/workflows/just_chec",
+        "topics": [
+          "chrome-extension",
+          "developer-tools",
+          "english-language",
+          "grammar-checker",
+          "nodejs",
+          "react",
+          "rust",
+          "svelte",
+          "webassembly"
+        ],
+        "updated_at": "2026-07-26T09:33:13Z"
+      },
+      "repo": {
+        "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+        "forks": 513,
+        "full_name": "Automattic/harper",
+        "language": "Rust",
+        "name": "harper",
+        "owner": "Automattic",
+        "rank": 6,
+        "stars_today": 503,
+        "total_stars": 13547,
+        "url": "https://github.com/Automattic/harper"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.58,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 52.55
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Rust project with 503 stars today; score 52.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-07-01T02:54:32Z",
+        "default_branch": "master",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "fork": false,
+        "full_name": "shiyu-coder/Kronos",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 244,
+        "primary_language": "Python",
+        "pushed_at": "2026-04-13T12:38:49Z",
+        "readme_excerpt": "<div align=\"center\"> <h2><b>Kronos: A Foundation Model for the Language of Financial Markets </b></h2> </div> <div align=\"center\"> </a> <a href=\"https://huggingface.co/NeoQuasar\"> <img src=\"https://img.shields.io/badge/\ud83e\udd17-Hugging_Face-yellow\" alt=\"Hugging Face\"> </a> <a href=\"https://shiyu-coder.github.io/Kronos-demo/\"> <img src=\"https://img.shields.io/badge/\ud83d\ude80-Live_Demo-brightgreen\" alt=\"Live Demo\"> </a> <a href=\"https://github.com/shiyu-coder/Kronos/graphs/commit-activity\"> <img src=\"https://img",
+        "topics": [],
+        "updated_at": "2026-07-26T09:32:57Z"
+      },
+      "repo": {
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "forks": 5725,
+        "full_name": "shiyu-coder/Kronos",
+        "language": "Python",
+        "name": "Kronos",
+        "owner": "shiyu-coder",
+        "rank": 7,
+        "stars_today": 319,
+        "total_stars": 33919,
+        "url": "https://github.com/shiyu-coder/Kronos"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.81,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 50.86
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 319 stars today; score 50.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-07-28T21:07:38Z",
+        "default_branch": "master",
+        "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+        "fork": false,
+        "full_name": "Pumpkin-MC/Pumpkin",
+        "homepage": "https://pumpkinmc.org/",
+        "latest_release": null,
+        "license_spdx": "GPL-3.0",
+        "open_issues": 258,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-26T09:13:23Z",
+        "readme_excerpt": "<div align=\"center\"> # Pumpkin ![CI](https://github.com/Pumpkin-MC/Pumpkin/actions/workflows/rust.yml/badge.svg) [![Discord](https://img.shields.io/discord/1268592337445978193.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wT8XjrjKkf) [![License: GPL](https://img.shields.io/badge/License-GPLv3-yellow.svg)](https://opensource.org/licenses/gpl-3-0) </div> [Pumpkin](https://pumpkinmc.org/) is a Minecraft server built entirely in Rust, offering a fast, e",
+        "topics": [
+          "docker",
+          "game-server",
+          "gamedev",
+          "minecraft",
+          "minecraft-bedrock-edition",
+          "minecraft-protocol",
+          "minecraft-server",
+          "networking",
+          "rust",
+          "server"
+        ],
+        "updated_at": "2026-07-26T09:34:06Z"
+      },
+      "repo": {
+        "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+        "forks": 662,
+        "full_name": "Pumpkin-MC/Pumpkin",
+        "language": "Rust",
+        "name": "Pumpkin",
+        "owner": "Pumpkin-MC",
+        "rank": 9,
+        "stars_today": 358,
+        "total_stars": 9804,
+        "url": "https://github.com/Pumpkin-MC/Pumpkin"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.66,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 49.39
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Rust project with 358 stars today; score 49.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-04-08T13:11:40Z",
+        "default_branch": "main",
+        "description": "\u300a\u52a8\u624b\u5b66\u5927\u6a21\u578bDive into LLMs\u300b\u7cfb\u5217\u7f16\u7a0b\u5b9e\u8df5\u6559\u7a0b",
+        "fork": false,
+        "full_name": "Lordog/dive-into-llms",
+        "homepage": null,
+        "latest_release": "v1",
+        "license_spdx": null,
+        "open_issues": 14,
+        "primary_language": "Jupyter Notebook",
+        "pushed_at": "2025-10-10T06:25:48Z",
+        "readme_excerpt": "<p align=\"center\"> <h1 align=\"center\">\u300a\u52a8\u624b\u5b66\u5927\u6a21\u578b\u300b\u7cfb\u5217\u7f16\u7a0b\u5b9e\u8df5\u6559\u7a0b</h1> </p> <p align=\"center\"> <a href=\"https://img.shields.io/badge/version-v0.1.0-blue\"> <img alt=\"version\" src=\"https://img.shields.io/badge/version-v0.1.0-blue?color=FF8000?color=009922\" /> </a> <a > <img alt=\"Status-building\" src=\"https://img.shields.io/badge/Status-building-blue\" /> </a> <a > <img alt=\"PRs-Welcome\" src=\"https://img.shields.io/badge/PRs-Welcome-red\" /> </a> <a href=\"https://github.com/Lordog/dive-into-llms/stargazers\"> <i",
+        "topics": [],
+        "updated_at": "2026-07-26T09:31:10Z"
+      },
+      "repo": {
+        "description": "\u300a\u52a8\u624b\u5b66\u5927\u6a21\u578bDive into LLMs\u300b\u7cfb\u5217\u7f16\u7a0b\u5b9e\u8df5\u6559\u7a0b",
+        "forks": 5426,
+        "full_name": "Lordog/dive-into-llms",
+        "language": "Jupyter Notebook",
+        "name": "dive-into-llms",
+        "owner": "Lordog",
+        "rank": 14,
+        "stars_today": 408,
+        "total_stars": 45485,
+        "url": "https://github.com/Lordog/dive-into-llms"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.1,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.2,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 49.1
+      },
+      "tags": [
+        "AI Workflow"
+      ],
+      "verdict": "AI Workflow: Jupyter Notebook project with 408 stars today; score 49.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "forks": 16217,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 1740,
+        "total_stars": 188818,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 8.03,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 40.98
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 1740 stars today; score 41.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 35595,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 18,
+        "stars_today": 377,
+        "total_stars": 233454,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.42,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 35.37
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 377 stars today; score 35.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 23318,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 479,
+        "total_stars": 261308,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.21,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 33.36
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 479 stars today; score 33.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/CoreBunch",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+        "forks": 492,
+        "full_name": "sponsors/CoreBunch",
+        "language": "TypeScript",
+        "name": "CoreBunch",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 426,
+        "total_stars": 5274,
+        "url": "https://github.com/sponsors/CoreBunch"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.31,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 27.26
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 426 stars today; score 27.3/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-07-26",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is palmier-io/palmier-pro."
+}
