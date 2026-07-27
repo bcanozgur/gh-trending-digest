@@ -1,0 +1,34 @@
+GitHub Trending: AI workflow signal - 2026-07-27
+
+Today leans toward AI workflow signal; the strongest pick is pbakaus/impeccable.
+
+Top picks
+1. pbakaus/impeccable - 79.0/100
+   https://github.com/pbakaus/impeccable
+   AI Workflow, Try Today: JavaScript project with 413 stars today; score 79.0/100.
+2. bradautomates/claude-video - 72.9/100
+   https://github.com/bradautomates/claude-video
+   AI Workflow, DevTools: Python project with 412 stars today; score 72.9/100.
+3. jenkinsci/jenkins - 64.8/100
+   https://github.com/jenkinsci/jenkins
+   AI Workflow, DevTools: Java project with 18 stars today; score 64.8/100.
+4. mvanhorn/last30days-skill - 63.0/100
+   https://github.com/mvanhorn/last30days-skill
+   AI Workflow, Try Today: Python project with 221 stars today; score 63.0/100.
+5. amnezia-vpn/amnezia-client - 61.7/100
+   https://github.com/amnezia-vpn/amnezia-client
+   DevTools, Try Today: C++ project with 35 stars today; score 61.7/100.
+
+Full reviewed list
+- pbakaus/impeccable: 79.0/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: JavaScript project with 413 stars today; score 79.0/100.
+- bradautomates/claude-video: 72.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 412 stars today; score 72.9/100.
+- jenkinsci/jenkins: 64.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Java project with 18 stars today; score 64.8/100.
+- mvanhorn/last30days-skill: 63.0/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 221 stars today; score 63.0/100.
+- amnezia-vpn/amnezia-client: 61.7/100 [DevTools, Try Today, Deep Dive] DevTools, Try Today: C++ project with 35 stars today; score 61.7/100.
+- ocornut/imgui: 59.0/100 [DevTools, Try Today, Deep Dive] DevTools, Try Today: C++ project with 48 stars today; score 59.0/100.
+- moeru-ai/airi: 58.9/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 554 stars today; score 58.9/100.
+- apache/cassandra: 50.4/100 [DevTools, Try Today] DevTools, Try Today: Java project with 7 stars today; score 50.4/100.
+- sponsors/NanmiCoder: 21.0/100 [Watch, Hype Risk] Watch, Hype Risk: Python project with 349 stars today; score 21.0/100.
+- sponsors/vudovn: 15.3/100 [Watch, Hype Risk] Watch, Hype Risk: TypeScript project with 5 stars today; score 15.3/100.
+
+Generated for 2026-07-27 from GitHub Trending daily.
