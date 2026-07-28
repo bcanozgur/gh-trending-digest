@@ -1,0 +1,14 @@
+GitHub Trending: daily developer signal - 2026-07-28
+
+Today leans toward daily developer signal; the strongest pick is sponsors/opengeos.
+
+Top picks
+1. sponsors/opengeos - 25.0/100
+   https://github.com/sponsors/opengeos
+   Watch, Hype Risk: TypeScript project with 420 stars today; score 25.0/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- sponsors/opengeos: 25.0/100 [Watch, Hype Risk] Watch, Hype Risk: TypeScript project with 420 stars today; score 25.0/100.
+
+Generated for 2026-07-28 from GitHub Trending daily.
