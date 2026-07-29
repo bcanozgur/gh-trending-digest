@@ -1,0 +1,961 @@
+{
+  "date": "2026-07-29",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-08-07T15:32:09Z",
+        "default_branch": "main",
+        "description": "Build local voice agents with open-source models",
+        "fork": false,
+        "full_name": "huggingface/speech-to-speech",
+        "homepage": null,
+        "latest_release": "v0.2.10",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 115,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-29T09:50:03Z",
+        "readme_excerpt": "<div align=\"center\"> <div>&nbsp;</div> <img src=\"https://raw.githubusercontent.com/huggingface/speech-to-speech/main/logo.png\" width=\"600\"/> # Speech To Speech: Build voice agents with open-source models [![PyPI](https://img.shields.io/pypi/v/speech-to-speech)](https://pypi.org/project/speech-to-speech/) [![Python](https://img.shields.io/pypi/pyversions/speech-to-speech)](https://pypi.org/project/speech-to-speech/) [![License](https://img.shields.io/badge/license-Apache%202.0-blue)](./LICENSE) <",
+        "topics": [
+          "ai",
+          "assistant",
+          "language-model",
+          "machine-learning",
+          "python",
+          "speech",
+          "speech-synthesis",
+          "speech-to-text",
+          "speech-translation"
+        ],
+        "updated_at": "2026-07-29T10:09:47Z"
+      },
+      "repo": {
+        "description": "Build local voice agents with open-source models",
+        "forks": 978,
+        "full_name": "huggingface/speech-to-speech",
+        "language": "Python",
+        "name": "speech-to-speech",
+        "owner": "huggingface",
+        "rank": 6,
+        "stars_today": 227,
+        "total_stars": 7553,
+        "url": "https://github.com/huggingface/speech-to-speech"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.81,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 74.81
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 227 stars today; score 74.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-02T22:11:47Z",
+        "default_branch": "main",
+        "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+        "fork": false,
+        "full_name": "microsoft/agent-governance-toolkit",
+        "homepage": null,
+        "latest_release": "v4.1.0",
+        "license_spdx": "MIT",
+        "open_issues": 161,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-29T00:51:31Z",
+        "readme_excerpt": "\ud83c\udf0d [English](/README.md) | [\u65e5\u672c\u8a9e](./docs/i18n/README.ja.md) | [\u7b80\u4f53\u4e2d\u6587](./docs/i18n/README.zh-CN.md) | [\ud55c\uad6d\uc5b4](./docs/i18n/README.ko.md) ![Agent Governance Toolkit](docs/assets/readme-banner.svg) # Agent Governance Toolkit ### Ship agents to production without losing sleep <p align=\"center\"> <a href=\"https://microsoft.github.io/agent-governance-toolkit\"> <img src=\"https://img.shields.io/badge/%F0%9F%93%96_Full_Documentation-microsoft.github.io%2Fagent--governance--toolkit-0078D4?style=for-the-badge&log",
+        "topics": [
+          "agent-framework",
+          "ai-agents",
+          "ai-safety",
+          "compliance",
+          "governance",
+          "microsoft",
+          "owasp",
+          "policy-engine",
+          "python",
+          "security",
+          "trust",
+          "zero-trust"
+        ],
+        "updated_at": "2026-07-29T10:05:29Z"
+      },
+      "repo": {
+        "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+        "forks": 854,
+        "full_name": "microsoft/agent-governance-toolkit",
+        "language": "Python",
+        "name": "agent-governance-toolkit",
+        "owner": "microsoft",
+        "rank": 10,
+        "stars_today": 46,
+        "total_stars": 5393,
+        "url": "https://github.com/microsoft/agent-governance-toolkit"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.7,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 67.45
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 46 stars today; score 67.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-16T19:35:06Z",
+        "default_branch": "main",
+        "description": "Create and share 3D architectural projects.",
+        "fork": false,
+        "full_name": "pascalorg/editor",
+        "homepage": "https://editor.pascal.app",
+        "latest_release": "v0.9.1",
+        "license_spdx": "MIT",
+        "open_issues": 31,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-28T20:43:07Z",
+        "readme_excerpt": "# Pascal Editor A 3D building editor built with React Three Fiber and WebGPU. [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![npm @pascal-app/core](https://img.shields.io/npm/v/@pascal-app/core?label=%40pascal-app%2Fcore)](https://www.npmjs.com/package/@pascal-app/core) [![npm @pascal-app/viewer](https://img.shields.io/npm/v/@pascal-app/viewer?label=%40pascal-app%2Fviewer)](https://www.npmjs.com/package/@pascal-app/viewer) [![Discord](https://img.shields.io/badge/",
+        "topics": [],
+        "updated_at": "2026-07-29T10:10:30Z"
+      },
+      "repo": {
+        "description": "Create and share 3D architectural projects.",
+        "forks": 2560,
+        "full_name": "pascalorg/editor",
+        "language": "TypeScript",
+        "name": "editor",
+        "owner": "pascalorg",
+        "rank": 1,
+        "stars_today": 341,
+        "total_stars": 19209,
+        "url": "https://github.com/pascalorg/editor"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.5,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 2.65,
+        "technical_quality": 14.0,
+        "total": 55.2
+      },
+      "tags": [
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "Try Today, Deep Dive: TypeScript project with 341 stars today; score 55.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-02-05T20:48:52Z",
+        "default_branch": "main",
+        "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+        "fork": false,
+        "full_name": "paperswithbacktest/awesome-systematic-trading",
+        "homepage": "https://paperswithbacktest.com",
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 45,
+        "primary_language": "Python",
+        "pushed_at": "2025-01-22T07:49:32Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"static/images/awesome-systematic-trading.jpeg\" height=200 alt=\"\"/> <h1>Awesome Systematic Trading</h1> </div> <div align=center><img src=\"https://awesome.re/badge.svg\" /></div> [\u5e0c\u671b\u9605\u8bfb\u4e2d\u6587\u7248\uff1f\u70b9\u6211](./README_zh.md) We are collecting a list of resources papers, softwares, books, articles for finding, developing, and running systematic trading (quantitative trading) strategies. <!-- omit in toc --> ### What will you find here? - [97 libraries and packages](#libraries-and-pack",
+        "topics": [
+          "algorithmic-trading",
+          "algotrading",
+          "alpha",
+          "arbitrage-bot",
+          "awesome",
+          "awesome-list",
+          "book",
+          "finance",
+          "futures",
+          "futures-historical-data",
+          "futures-market",
+          "futuresmarkets",
+          "paper",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading",
+          "trading-algorithms",
+          "trading-bot",
+          "trading-strategies"
+        ],
+        "updated_at": "2026-07-29T10:10:36Z"
+      },
+      "repo": {
+        "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+        "forks": 1324,
+        "full_name": "paperswithbacktest/awesome-systematic-trading",
+        "language": "Python",
+        "name": "awesome-systematic-trading",
+        "owner": "paperswithbacktest",
+        "rank": 9,
+        "stars_today": 309,
+        "total_stars": 10049,
+        "url": "https://github.com/paperswithbacktest/awesome-systematic-trading"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.08,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 3.85,
+        "strategic_relevance": 3.01,
+        "technical_quality": 9.1,
+        "total": 53.83
+      },
+      "tags": [
+        "AI Workflow"
+      ],
+      "verdict": "AI Workflow: Python project with 309 stars today; score 53.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/virgiliojr94",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Turn any technical book PDF into a Claude Code skill \u2014 ready to study, reference, and use while you work.",
+        "forks": 1376,
+        "full_name": "sponsors/virgiliojr94",
+        "language": "Python",
+        "name": "virgiliojr94",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 423,
+        "total_stars": 12063,
+        "url": "https://github.com/sponsors/virgiliojr94"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.33,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 35.48
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 423 stars today; score 35.5/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-24T04:40:43Z",
+        "default_branch": "main",
+        "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+        "fork": false,
+        "full_name": "bradautomates/claude-video",
+        "homepage": null,
+        "latest_release": "v0.2.0",
+        "license_spdx": "MIT",
+        "open_issues": 79,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-01T01:26:49Z",
+        "readme_excerpt": "# /watch **Give Claude the ability to watch any video.** Claude Code (recommended \u2014 auto-updates via marketplace): ``` /plugin marketplace add bradautomates/claude-video /plugin install watch@claude-video ``` Codex, Cursor, Copilot, Gemini CLI, or any of 50+ [Agent Skills](https://agentskills.io) hosts: ```bash npx skills add bradautomates/claude-video -g ``` (`-g` installs globally for your user, available across all projects. Drop it to scope per-project.) More install options (claude.ai web, ",
+        "topics": [],
+        "updated_at": "2026-07-29T10:11:10Z"
+      },
+      "repo": {
+        "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+        "forks": 1237,
+        "full_name": "bradautomates/claude-video",
+        "language": "Python",
+        "name": "claude-video",
+        "owner": "bradautomates",
+        "rank": 12,
+        "stars_today": 988,
+        "total_stars": 12458,
+        "url": "https://github.com/bradautomates/claude-video"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 10.42,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 78.01
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 988 stars today; score 78.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-08-07T15:32:09Z",
+        "default_branch": "main",
+        "description": "Build local voice agents with open-source models",
+        "fork": false,
+        "full_name": "huggingface/speech-to-speech",
+        "homepage": null,
+        "latest_release": "v0.2.10",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 115,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-29T09:50:03Z",
+        "readme_excerpt": "<div align=\"center\"> <div>&nbsp;</div> <img src=\"https://raw.githubusercontent.com/huggingface/speech-to-speech/main/logo.png\" width=\"600\"/> # Speech To Speech: Build voice agents with open-source models [![PyPI](https://img.shields.io/pypi/v/speech-to-speech)](https://pypi.org/project/speech-to-speech/) [![Python](https://img.shields.io/pypi/pyversions/speech-to-speech)](https://pypi.org/project/speech-to-speech/) [![License](https://img.shields.io/badge/license-Apache%202.0-blue)](./LICENSE) <",
+        "topics": [
+          "ai",
+          "assistant",
+          "language-model",
+          "machine-learning",
+          "python",
+          "speech",
+          "speech-synthesis",
+          "speech-to-text",
+          "speech-translation"
+        ],
+        "updated_at": "2026-07-29T10:09:47Z"
+      },
+      "repo": {
+        "description": "Build local voice agents with open-source models",
+        "forks": 978,
+        "full_name": "huggingface/speech-to-speech",
+        "language": "Python",
+        "name": "speech-to-speech",
+        "owner": "huggingface",
+        "rank": 6,
+        "stars_today": 227,
+        "total_stars": 7553,
+        "url": "https://github.com/huggingface/speech-to-speech"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.81,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 74.81
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 227 stars today; score 74.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-02T22:11:47Z",
+        "default_branch": "main",
+        "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+        "fork": false,
+        "full_name": "microsoft/agent-governance-toolkit",
+        "homepage": null,
+        "latest_release": "v4.1.0",
+        "license_spdx": "MIT",
+        "open_issues": 161,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-29T00:51:31Z",
+        "readme_excerpt": "\ud83c\udf0d [English](/README.md) | [\u65e5\u672c\u8a9e](./docs/i18n/README.ja.md) | [\u7b80\u4f53\u4e2d\u6587](./docs/i18n/README.zh-CN.md) | [\ud55c\uad6d\uc5b4](./docs/i18n/README.ko.md) ![Agent Governance Toolkit](docs/assets/readme-banner.svg) # Agent Governance Toolkit ### Ship agents to production without losing sleep <p align=\"center\"> <a href=\"https://microsoft.github.io/agent-governance-toolkit\"> <img src=\"https://img.shields.io/badge/%F0%9F%93%96_Full_Documentation-microsoft.github.io%2Fagent--governance--toolkit-0078D4?style=for-the-badge&log",
+        "topics": [
+          "agent-framework",
+          "ai-agents",
+          "ai-safety",
+          "compliance",
+          "governance",
+          "microsoft",
+          "owasp",
+          "policy-engine",
+          "python",
+          "security",
+          "trust",
+          "zero-trust"
+        ],
+        "updated_at": "2026-07-29T10:05:29Z"
+      },
+      "repo": {
+        "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+        "forks": 854,
+        "full_name": "microsoft/agent-governance-toolkit",
+        "language": "Python",
+        "name": "agent-governance-toolkit",
+        "owner": "microsoft",
+        "rank": 10,
+        "stars_today": 46,
+        "total_stars": 5393,
+        "url": "https://github.com/microsoft/agent-governance-toolkit"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.7,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 67.45
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 46 stars today; score 67.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-12-01T16:33:36Z",
+        "default_branch": "main",
+        "description": "\ud83d\udc96\ud83e\uddf8 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "fork": false,
+        "full_name": "moeru-ai/airi",
+        "homepage": "https://airi.moeru.ai/docs/",
+        "latest_release": "v0.11.3",
+        "license_spdx": "MIT",
+        "open_issues": 185,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-29T10:06:43Z",
+        "readme_excerpt": "<picture> <source width=\"100%\" srcset=\"./docs/content/public/banner-dark-1280x640.avif\" media=\"(prefers-color-scheme: dark)\" /> <source width=\"100%\" srcset=\"./docs/content/public/banner-light-1280x640.avif\" media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\" /> <img width=\"250\" src=\"./docs/content/public/banner-light-1280x640.avif\" /> </picture> <h1 align=\"center\">Project AIRI</h1> <p align=\"center\">Re-creating Neuro-sama, a soul container of AI waifu / virtual character",
+        "topics": [
+          "ai-companion",
+          "ai-vtuber",
+          "airi",
+          "digital-life",
+          "grok-companion",
+          "live2d",
+          "neuro-sama",
+          "neurosama",
+          "openclaw",
+          "vrm",
+          "vtuber"
+        ],
+        "updated_at": "2026-07-29T10:10:26Z"
+      },
+      "repo": {
+        "description": "\ud83d\udc96\ud83e\uddf8 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "forks": 4465,
+        "full_name": "moeru-ai/airi",
+        "language": "TypeScript",
+        "name": "airi",
+        "owner": "moeru-ai",
+        "rank": 3,
+        "stars_today": 797,
+        "total_stars": 45095,
+        "url": "https://github.com/moeru-ai/airi"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 10.09,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.12,
+        "technical_quality": 14.0,
+        "total": 62.8
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 797 stars today; score 62.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2010-11-22T21:21:23Z",
+        "default_branch": "master",
+        "description": "Jenkins automation server",
+        "fork": false,
+        "full_name": "jenkinsci/jenkins",
+        "homepage": "https://www.jenkins.io",
+        "latest_release": "jenkins-2.575",
+        "license_spdx": "MIT",
+        "open_issues": 3598,
+        "primary_language": "Java",
+        "pushed_at": "2026-07-28T08:50:02Z",
+        "readme_excerpt": "<a href=\"https://jenkins.io\"> <img width=\"400\" src=\"https://www.jenkins.io/images/jenkins-logo-title-dark.svg\" alt=\"Jenkins logo\"> </a> [![Jenkins Regular Release](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.jenkins.io%2Fchangelog%2Fbadge.json)](https://www.jenkins.io/changelog) [![Jenkins LTS Release](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.jenkins.io%2Fchangelog-stable%2Fbadge.json)](https://www.jenkins.io/changelog-stable) [![Docker Pulls](https://img.shields.io/docker",
+        "topics": [
+          "cicd",
+          "continuous-delivery",
+          "continuous-deployment",
+          "continuous-integration",
+          "devops",
+          "groovy",
+          "hacktoberfest",
+          "java",
+          "jenkins",
+          "pipelines-as-code"
+        ],
+        "updated_at": "2026-07-29T10:00:12Z"
+      },
+      "repo": {
+        "description": "Jenkins automation server",
+        "forks": 9704,
+        "full_name": "jenkinsci/jenkins",
+        "language": "Java",
+        "name": "jenkins",
+        "owner": "jenkinsci",
+        "rank": 2,
+        "stars_today": 180,
+        "total_stars": 26182,
+        "url": "https://github.com/jenkinsci/jenkins"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 8.96,
+        "momentum": 4.99,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 61.96
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Java project with 180 stars today; score 62.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-06-30T20:07:46Z",
+        "default_branch": "main",
+        "description": "Simple, unified interface to multiple Generative AI providers ",
+        "fork": false,
+        "full_name": "andrewyng/aisuite",
+        "homepage": null,
+        "latest_release": "v0.1.3",
+        "license_spdx": "MIT",
+        "open_issues": 143,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-25T19:14:07Z",
+        "readme_excerpt": "> ![OpenWorker](https://img.shields.io/badge/%E2%9C%A8-OpenWorker-8250df?style=for-the-badge) > ## OpenWorker > **A desktop AI coworker, built on aisuite \u2014 now in its own repository: [andrewyng/openworker](https://github.com/andrewyng/openworker).** > > OpenWorker chats, does deep research, and carries out real tasks on your computer \u2014 reading files with > permission, connecting to Slack/email, producing PDFs, documents, and spreadsheets, and running scheduled > automations. Bring your own API k",
+        "topics": [],
+        "updated_at": "2026-07-29T10:09:14Z"
+      },
+      "repo": {
+        "description": "Simple, unified interface to multiple Generative AI providers",
+        "forks": 1663,
+        "full_name": "andrewyng/aisuite",
+        "language": "Python",
+        "name": "aisuite",
+        "owner": "andrewyng",
+        "rank": 4,
+        "stars_today": 62,
+        "total_stars": 15787,
+        "url": "https://github.com/andrewyng/aisuite"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.7,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 58.75
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 62 stars today; score 58.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-03-19T15:49:52Z",
+        "default_branch": "main",
+        "description": "Pretty fancy and modern terminal file manager",
+        "fork": false,
+        "full_name": "yorukot/superfile",
+        "homepage": "https://superfile.dev",
+        "latest_release": "v1.6.0",
+        "license_spdx": "MIT",
+        "open_issues": 224,
+        "primary_language": "Go",
+        "pushed_at": "2026-07-28T09:59:51Z",
+        "readme_excerpt": "<div align=\"center\"> <h4>superfile is supported by the community.</h4> <a href=\"https://ko-fi.com/yorukot\"> <img alt=\"Donate to superfile on Ko-fi\" src=\"https://ko-fi.com/img/githubbutton_sm.svg\"> </a> <hr> </div> <div align=\"center\"> <br> <picture> <source width=\"300\" media=\"(prefers-color-scheme: dark)\" srcset=\"website/src/assets/superfile-night.svg\" /> <source width=\"300\" media=\"(prefers-color-scheme: light)\" srcset=\"website/src/assets/superfile-day.svg\" /> <img alt=\"superfile LOGO\" src=\"webs",
+        "topics": [
+          "bubbletea",
+          "cli",
+          "file-manager",
+          "filemanager",
+          "filesystem",
+          "golang",
+          "hacktoberfest",
+          "linux-app",
+          "terminal-app",
+          "terminal-based",
+          "tui"
+        ],
+        "updated_at": "2026-07-29T10:10:54Z"
+      },
+      "repo": {
+        "description": "Pretty fancy and modern terminal file manager",
+        "forks": 714,
+        "full_name": "yorukot/superfile",
+        "language": "Go",
+        "name": "superfile",
+        "owner": "yorukot",
+        "rank": 11,
+        "stars_today": 662,
+        "total_stars": 21746,
+        "url": "https://github.com/yorukot/superfile"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.79,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 55.76
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: Go project with 662 stars today; score 55.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-16T19:35:06Z",
+        "default_branch": "main",
+        "description": "Create and share 3D architectural projects.",
+        "fork": false,
+        "full_name": "pascalorg/editor",
+        "homepage": "https://editor.pascal.app",
+        "latest_release": "v0.9.1",
+        "license_spdx": "MIT",
+        "open_issues": 31,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-28T20:43:07Z",
+        "readme_excerpt": "# Pascal Editor A 3D building editor built with React Three Fiber and WebGPU. [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![npm @pascal-app/core](https://img.shields.io/npm/v/@pascal-app/core?label=%40pascal-app%2Fcore)](https://www.npmjs.com/package/@pascal-app/core) [![npm @pascal-app/viewer](https://img.shields.io/npm/v/@pascal-app/viewer?label=%40pascal-app%2Fviewer)](https://www.npmjs.com/package/@pascal-app/viewer) [![Discord](https://img.shields.io/badge/",
+        "topics": [],
+        "updated_at": "2026-07-29T10:10:30Z"
+      },
+      "repo": {
+        "description": "Create and share 3D architectural projects.",
+        "forks": 2560,
+        "full_name": "pascalorg/editor",
+        "language": "TypeScript",
+        "name": "editor",
+        "owner": "pascalorg",
+        "rank": 1,
+        "stars_today": 341,
+        "total_stars": 19209,
+        "url": "https://github.com/pascalorg/editor"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.5,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 2.65,
+        "technical_quality": 14.0,
+        "total": 55.2
+      },
+      "tags": [
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "Try Today, Deep Dive: TypeScript project with 341 stars today; score 55.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-02-05T20:48:52Z",
+        "default_branch": "main",
+        "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+        "fork": false,
+        "full_name": "paperswithbacktest/awesome-systematic-trading",
+        "homepage": "https://paperswithbacktest.com",
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 45,
+        "primary_language": "Python",
+        "pushed_at": "2025-01-22T07:49:32Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"static/images/awesome-systematic-trading.jpeg\" height=200 alt=\"\"/> <h1>Awesome Systematic Trading</h1> </div> <div align=center><img src=\"https://awesome.re/badge.svg\" /></div> [\u5e0c\u671b\u9605\u8bfb\u4e2d\u6587\u7248\uff1f\u70b9\u6211](./README_zh.md) We are collecting a list of resources papers, softwares, books, articles for finding, developing, and running systematic trading (quantitative trading) strategies. <!-- omit in toc --> ### What will you find here? - [97 libraries and packages](#libraries-and-pack",
+        "topics": [
+          "algorithmic-trading",
+          "algotrading",
+          "alpha",
+          "arbitrage-bot",
+          "awesome",
+          "awesome-list",
+          "book",
+          "finance",
+          "futures",
+          "futures-historical-data",
+          "futures-market",
+          "futuresmarkets",
+          "paper",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading",
+          "trading-algorithms",
+          "trading-bot",
+          "trading-strategies"
+        ],
+        "updated_at": "2026-07-29T10:10:36Z"
+      },
+      "repo": {
+        "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+        "forks": 1324,
+        "full_name": "paperswithbacktest/awesome-systematic-trading",
+        "language": "Python",
+        "name": "awesome-systematic-trading",
+        "owner": "paperswithbacktest",
+        "rank": 9,
+        "stars_today": 309,
+        "total_stars": 10049,
+        "url": "https://github.com/paperswithbacktest/awesome-systematic-trading"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.08,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 3.85,
+        "strategic_relevance": 3.01,
+        "technical_quality": 9.1,
+        "total": 53.83
+      },
+      "tags": [
+        "AI Workflow"
+      ],
+      "verdict": "AI Workflow: Python project with 309 stars today; score 53.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 35822,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 636,
+        "total_stars": 235189,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 8.43,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 41.38
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 636 stars today; score 41.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/virgiliojr94",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Turn any technical book PDF into a Claude Code skill \u2014 ready to study, reference, and use while you work.",
+        "forks": 1376,
+        "full_name": "sponsors/virgiliojr94",
+        "language": "Python",
+        "name": "virgiliojr94",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 423,
+        "total_stars": 12063,
+        "url": "https://github.com/sponsors/virgiliojr94"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.33,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 35.48
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 423 stars today; score 35.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/opengeos",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+        "forks": 410,
+        "full_name": "sponsors/opengeos",
+        "language": "TypeScript",
+        "name": "opengeos",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 607,
+        "total_stars": 3660,
+        "url": "https://github.com/sponsors/opengeos"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 7.75,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.17,
+        "technical_quality": 3.5,
+        "total": 24.12
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: TypeScript project with 607 stars today; score 24.1/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-07-29",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is huggingface/speech-to-speech."
+}
