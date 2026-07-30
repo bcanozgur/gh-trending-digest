@@ -1,0 +1,1270 @@
+{
+  "date": "2026-07-30",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-05T09:43:36Z",
+        "default_branch": "master",
+        "description": "The most RAM efficient harness",
+        "fork": false,
+        "full_name": "1jehuang/jcode",
+        "homepage": "https://jcode.sh",
+        "latest_release": "v0.64.2",
+        "license_spdx": "MIT",
+        "open_issues": 169,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-30T09:58:49Z",
+        "readme_excerpt": "<div align=\"center\"> # jcode [![Latest Release](https://badgen.net/github/release/1jehuang/jcode?icon=github)](https://github.com/1jehuang/jcode/releases) [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE) [![Platforms](https://img.shields.io/badge/platforms-Linux%20%7C%20macOS%20%7C%20Windows-blue?style=flat-square)](https://github.com/1jehuang/jcode/releases) [![Last Commit](https://badgen.net/github/last-commit/1jehuang/jcode/master?icon=github)](https",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "ai-coding-agent",
+          "claude",
+          "cli",
+          "coding-agent",
+          "llm",
+          "mcp",
+          "openai",
+          "rust",
+          "terminal",
+          "tui"
+        ],
+        "updated_at": "2026-07-30T09:59:49Z"
+      },
+      "repo": {
+        "description": "The most RAM efficient harness",
+        "forks": 1517,
+        "full_name": "1jehuang/jcode",
+        "language": "Rust",
+        "name": "jcode",
+        "owner": "1jehuang",
+        "rank": 5,
+        "stars_today": 640,
+        "total_stars": 13786,
+        "url": "https://github.com/1jehuang/jcode"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.81,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 75.51
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 640 stars today; score 75.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-14T01:39:31Z",
+        "default_branch": "dev",
+        "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+        "fork": false,
+        "full_name": "different-ai/openwork",
+        "homepage": "https://openworklabs.com",
+        "latest_release": "v0.18.10",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 404,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-30T09:54:44Z",
+        "readme_excerpt": "# OpenWork OpenWork is a free, open-source desktop app made for sharing AI workflows. It is an open-source alternative to Claude Cowork and Codex for macOS, Windows, and Linux. Add one OpenWork MCP to Codex, Claude Code, Cursor, or another compatible agent and reuse the same skills, MCPs, and connected services across your tools, teammates, and machines. Create something once, share it with coworkers or friends, or keep it for yourself. The desktop app is there when you want a dedicated workspac",
+        "topics": [],
+        "updated_at": "2026-07-30T09:57:36Z"
+      },
+      "repo": {
+        "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+        "forks": 1868,
+        "full_name": "different-ai/openwork",
+        "language": "TypeScript",
+        "name": "openwork",
+        "owner": "different-ai",
+        "rank": 9,
+        "stars_today": 97,
+        "total_stars": 18262,
+        "url": "https://github.com/different-ai/openwork"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.02,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 68.77
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 97 stars today; score 68.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2013-11-12T22:25:47Z",
+        "default_branch": "master",
+        "description": "A free open source IT asset/license management system",
+        "fork": false,
+        "full_name": "grokability/snipe-it",
+        "homepage": "https://snipeitapp.com",
+        "latest_release": "v8.6.3",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 954,
+        "primary_language": "PHP",
+        "pushed_at": "2026-07-30T09:37:39Z",
+        "readme_excerpt": "![snipe-it-by-grok](https://github.com/grokability/snipe-it/assets/197404/b515673b-c7c8-4d9a-80f5-9fa58829a602) [![Crowdin](https://d322cqt584bo4o.cloudfront.net/snipe-it/localized.svg)](https://crowdin.com/project/snipe-it) [![Docker Pulls](https://img.shields.io/docker/pulls/snipe/snipe-it.svg)](https://hub.docker.com/r/snipe/snipe-it/) [![Tests in MySQL](https://github.com/grokability/snipe-it/actions/workflows/tests-mysql.yml/badge.svg)](https://github.com/grokability/snipe-it/actions/workfl",
+        "topics": [
+          "asset-management",
+          "asset-manager",
+          "assets-management",
+          "itam",
+          "license-management"
+        ],
+        "updated_at": "2026-07-30T09:38:21Z"
+      },
+      "repo": {
+        "description": "A free open source IT asset/license management system",
+        "forks": 3906,
+        "full_name": "grokability/snipe-it",
+        "language": "PHP",
+        "name": "snipe-it",
+        "owner": "grokability",
+        "rank": 6,
+        "stars_today": 164,
+        "total_stars": 14590,
+        "url": "https://github.com/grokability/snipe-it"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.85,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 58.28
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: PHP project with 164 stars today; score 58.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-08-25T13:24:01Z",
+        "default_branch": "main",
+        "description": "Open-Source Frontier Voice AI",
+        "fork": false,
+        "full_name": "microsoft/VibeVoice",
+        "homepage": "https://microsoft.github.io/VibeVoice/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 181,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-24T09:24:29Z",
+        "readme_excerpt": "<div align=\"center\"> ## \ud83c\udf99\ufe0f VibeVoice: Open-Source Frontier Voice AI [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=githubpages)](https://microsoft.github.io/VibeVoice) [![Hugging Face](https://img.shields.io/badge/HuggingFace-Collection-orange?logo=huggingface)](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) [![TTS Report](https://img.shields.io/badge/TTS-Report-red?logo=arxiv)](https://openreview.net/pdf?id=FihSkzyxdv) [![ASR Report](https",
+        "topics": [],
+        "updated_at": "2026-07-30T09:57:52Z"
+      },
+      "repo": {
+        "description": "Open-Source Frontier Voice AI",
+        "forks": 5723,
+        "full_name": "microsoft/VibeVoice",
+        "language": "Python",
+        "name": "VibeVoice",
+        "owner": "microsoft",
+        "rank": 8,
+        "stars_today": 336,
+        "total_stars": 51548,
+        "url": "https://github.com/microsoft/VibeVoice"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.58,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 57.88
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 336 stars today; score 57.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-20T12:59:46Z",
+        "default_branch": "master",
+        "description": "FlashKDA: high-performance Kimi Delta Attention kernels",
+        "fork": false,
+        "full_name": "MoonshotAI/FlashKDA",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 18,
+        "primary_language": "Cuda",
+        "pushed_at": "2026-07-30T07:14:39Z",
+        "readme_excerpt": "# FlashKDA FlashKDA: Flash Kimi Delta Attention \u2014 high-performance KDA kernels built on CUTLASS ## News - **2026-04-22** \u2014 Deep-Dive Blog: the design decisions behind FlashKDA v1, read it [here](docs/20260420-flashkda-v1-deep-dive.md). ## Requirements - SM90 and above - CUDA 12.9 and above - PyTorch 2.4 and above ## Installation ```bash git clone https://github.com/MoonshotAI/FlashKDA.git flash-kda cd flash-kda git submodule update --init --recursive pip install -v --no-build-isolation . ``` By ",
+        "topics": [],
+        "updated_at": "2026-07-30T09:49:46Z"
+      },
+      "repo": {
+        "description": "FlashKDA: high-performance Kimi Delta Attention kernels",
+        "forks": 102,
+        "full_name": "MoonshotAI/FlashKDA",
+        "language": "Cuda",
+        "name": "FlashKDA",
+        "owner": "MoonshotAI",
+        "rank": 11,
+        "stars_today": 91,
+        "total_stars": 1076,
+        "url": "https://github.com/MoonshotAI/FlashKDA"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.7,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 57.74
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Cuda project with 91 stars today; score 57.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-28T09:27:28Z",
+        "default_branch": "main",
+        "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+        "fork": false,
+        "full_name": "maderix/ANE",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 29,
+        "primary_language": "Objective-C",
+        "pushed_at": "2026-03-10T10:21:05Z",
+        "readme_excerpt": "# ANE Training \u2014 Backpropagation on Apple Neural Engine Training neural networks directly on Apple's Neural Engine (ANE) via reverse-engineered private APIs. No CoreML training APIs, no Metal, no GPU \u2014 pure ANE compute. ## Project Scope & Intent I'm genuinely grateful for all the attention this project has received \u2014 I never expected a weekend research hack to blow up like this. Thank you to everyone who starred, forked, ran benchmarks on their own hardware, and shared the work. It means a lot. ",
+        "topics": [],
+        "updated_at": "2026-07-30T09:50:52Z"
+      },
+      "repo": {
+        "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+        "forks": 963,
+        "full_name": "maderix/ANE",
+        "language": "Objective-C",
+        "name": "ANE",
+        "owner": "maderix",
+        "rank": 15,
+        "stars_today": 22,
+        "total_stars": 7207,
+        "url": "https://github.com/maderix/ANE"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.71,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 53.96
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: Objective-C project with 22 stars today; score 54.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/deepfakes",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Deepfakes Software For All",
+        "forks": 13450,
+        "full_name": "sponsors/deepfakes",
+        "language": "Python",
+        "name": "deepfakes",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 166,
+        "total_stars": 56622,
+        "url": "https://github.com/sponsors/deepfakes"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.72,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.52,
+        "technical_quality": 3.5,
+        "total": 23.64
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 166 stars today; score 23.6/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-05T09:43:36Z",
+        "default_branch": "master",
+        "description": "The most RAM efficient harness",
+        "fork": false,
+        "full_name": "1jehuang/jcode",
+        "homepage": "https://jcode.sh",
+        "latest_release": "v0.64.2",
+        "license_spdx": "MIT",
+        "open_issues": 169,
+        "primary_language": "Rust",
+        "pushed_at": "2026-07-30T09:58:49Z",
+        "readme_excerpt": "<div align=\"center\"> # jcode [![Latest Release](https://badgen.net/github/release/1jehuang/jcode?icon=github)](https://github.com/1jehuang/jcode/releases) [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE) [![Platforms](https://img.shields.io/badge/platforms-Linux%20%7C%20macOS%20%7C%20Windows-blue?style=flat-square)](https://github.com/1jehuang/jcode/releases) [![Last Commit](https://badgen.net/github/last-commit/1jehuang/jcode/master?icon=github)](https",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "ai-coding-agent",
+          "claude",
+          "cli",
+          "coding-agent",
+          "llm",
+          "mcp",
+          "openai",
+          "rust",
+          "terminal",
+          "tui"
+        ],
+        "updated_at": "2026-07-30T09:59:49Z"
+      },
+      "repo": {
+        "description": "The most RAM efficient harness",
+        "forks": 1517,
+        "full_name": "1jehuang/jcode",
+        "language": "Rust",
+        "name": "jcode",
+        "owner": "1jehuang",
+        "rank": 5,
+        "stars_today": 640,
+        "total_stars": 13786,
+        "url": "https://github.com/1jehuang/jcode"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.81,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 75.51
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 640 stars today; score 75.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-08-07T15:32:09Z",
+        "default_branch": "main",
+        "description": "Build local voice agents with open-source models",
+        "fork": false,
+        "full_name": "huggingface/speech-to-speech",
+        "homepage": null,
+        "latest_release": "v0.2.10",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 121,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-29T21:36:19Z",
+        "readme_excerpt": "<div align=\"center\"> <div>&nbsp;</div> <img src=\"https://raw.githubusercontent.com/huggingface/speech-to-speech/main/logo.png\" width=\"600\"/> # Speech To Speech: Build voice agents with open-source models [![PyPI](https://img.shields.io/pypi/v/speech-to-speech)](https://pypi.org/project/speech-to-speech/) [![Python](https://img.shields.io/pypi/pyversions/speech-to-speech)](https://pypi.org/project/speech-to-speech/) [![License](https://img.shields.io/badge/license-Apache%202.0-blue)](./LICENSE) <",
+        "topics": [
+          "ai",
+          "assistant",
+          "language-model",
+          "machine-learning",
+          "python",
+          "speech",
+          "speech-synthesis",
+          "speech-to-text",
+          "speech-translation"
+        ],
+        "updated_at": "2026-07-30T09:51:52Z"
+      },
+      "repo": {
+        "description": "Build local voice agents with open-source models",
+        "forks": 1023,
+        "full_name": "huggingface/speech-to-speech",
+        "language": "Python",
+        "name": "speech-to-speech",
+        "owner": "huggingface",
+        "rank": 4,
+        "stars_today": 827,
+        "total_stars": 8167,
+        "url": "https://github.com/huggingface/speech-to-speech"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 8.06,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 72.86
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 827 stars today; score 72.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-18T02:16:36Z",
+        "default_branch": "main",
+        "description": "Open-source & free \u2014 Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "fork": false,
+        "full_name": "alibaba/open-code-review",
+        "homepage": "https://open-codereview.ai",
+        "latest_release": "v1.8.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 60,
+        "primary_language": "Go",
+        "pushed_at": "2026-07-30T09:27:13Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://open-codereview.ai\"> <img src=\"imgs/logo-core.svg\" alt=\"OpenCodeReview logo\" width=\"180\" /> </a> <h1>OpenCodeReview</h1> </div> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/41087?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-41087\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://trendshift.io/api/badge/repositories/41087\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; hei",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "code-review",
+          "code-review-assistant",
+          "harness",
+          "repository-level-context"
+        ],
+        "updated_at": "2026-07-30T09:59:44Z"
+      },
+      "repo": {
+        "description": "Open-source & free \u2014 Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "forks": 1101,
+        "full_name": "alibaba/open-code-review",
+        "language": "Go",
+        "name": "open-code-review",
+        "owner": "alibaba",
+        "rank": 13,
+        "stars_today": 359,
+        "total_stars": 16336,
+        "url": "https://github.com/alibaba/open-code-review"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.99,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 69.84
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 359 stars today; score 69.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-14T01:39:31Z",
+        "default_branch": "dev",
+        "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+        "fork": false,
+        "full_name": "different-ai/openwork",
+        "homepage": "https://openworklabs.com",
+        "latest_release": "v0.18.10",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 404,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-30T09:54:44Z",
+        "readme_excerpt": "# OpenWork OpenWork is a free, open-source desktop app made for sharing AI workflows. It is an open-source alternative to Claude Cowork and Codex for macOS, Windows, and Linux. Add one OpenWork MCP to Codex, Claude Code, Cursor, or another compatible agent and reuse the same skills, MCPs, and connected services across your tools, teammates, and machines. Create something once, share it with coworkers or friends, or keep it for yourself. The desktop app is there when you want a dedicated workspac",
+        "topics": [],
+        "updated_at": "2026-07-30T09:57:36Z"
+      },
+      "repo": {
+        "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+        "forks": 1868,
+        "full_name": "different-ai/openwork",
+        "language": "TypeScript",
+        "name": "openwork",
+        "owner": "different-ai",
+        "rank": 9,
+        "stars_today": 97,
+        "total_stars": 18262,
+        "url": "https://github.com/different-ai/openwork"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.02,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 68.77
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 97 stars today; score 68.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-12-01T16:33:36Z",
+        "default_branch": "main",
+        "description": "\ud83d\udc96\ud83e\uddf8 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "fork": false,
+        "full_name": "moeru-ai/airi",
+        "homepage": "https://airi.moeru.ai/docs/",
+        "latest_release": "v0.11.3",
+        "license_spdx": "MIT",
+        "open_issues": 194,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-30T09:16:30Z",
+        "readme_excerpt": "<picture> <source width=\"100%\" srcset=\"./docs/content/public/banner-dark-1280x640.avif\" media=\"(prefers-color-scheme: dark)\" /> <source width=\"100%\" srcset=\"./docs/content/public/banner-light-1280x640.avif\" media=\"(prefers-color-scheme: light), (prefers-color-scheme: no-preference)\" /> <img width=\"250\" src=\"./docs/content/public/banner-light-1280x640.avif\" /> </picture> <h1 align=\"center\">Project AIRI</h1> <p align=\"center\">Re-creating Neuro-sama, a soul container of AI waifu / virtual character",
+        "topics": [
+          "ai-companion",
+          "ai-vtuber",
+          "airi",
+          "digital-life",
+          "grok-companion",
+          "live2d",
+          "neuro-sama",
+          "neurosama",
+          "openclaw",
+          "vrm",
+          "vtuber"
+        ],
+        "updated_at": "2026-07-30T09:59:25Z"
+      },
+      "repo": {
+        "description": "\ud83d\udc96\ud83e\uddf8 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "forks": 4511,
+        "full_name": "moeru-ai/airi",
+        "language": "TypeScript",
+        "name": "airi",
+        "owner": "moeru-ai",
+        "rank": 2,
+        "stars_today": 682,
+        "total_stars": 45684,
+        "url": "https://github.com/moeru-ai/airi"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.49,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.06,
+        "technical_quality": 14.0,
+        "total": 59.14
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 682 stars today; score 59.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2013-11-12T22:25:47Z",
+        "default_branch": "master",
+        "description": "A free open source IT asset/license management system",
+        "fork": false,
+        "full_name": "grokability/snipe-it",
+        "homepage": "https://snipeitapp.com",
+        "latest_release": "v8.6.3",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 954,
+        "primary_language": "PHP",
+        "pushed_at": "2026-07-30T09:37:39Z",
+        "readme_excerpt": "![snipe-it-by-grok](https://github.com/grokability/snipe-it/assets/197404/b515673b-c7c8-4d9a-80f5-9fa58829a602) [![Crowdin](https://d322cqt584bo4o.cloudfront.net/snipe-it/localized.svg)](https://crowdin.com/project/snipe-it) [![Docker Pulls](https://img.shields.io/docker/pulls/snipe/snipe-it.svg)](https://hub.docker.com/r/snipe/snipe-it/) [![Tests in MySQL](https://github.com/grokability/snipe-it/actions/workflows/tests-mysql.yml/badge.svg)](https://github.com/grokability/snipe-it/actions/workfl",
+        "topics": [
+          "asset-management",
+          "asset-manager",
+          "assets-management",
+          "itam",
+          "license-management"
+        ],
+        "updated_at": "2026-07-30T09:38:21Z"
+      },
+      "repo": {
+        "description": "A free open source IT asset/license management system",
+        "forks": 3906,
+        "full_name": "grokability/snipe-it",
+        "language": "PHP",
+        "name": "snipe-it",
+        "owner": "grokability",
+        "rank": 6,
+        "stars_today": 164,
+        "total_stars": 14590,
+        "url": "https://github.com/grokability/snipe-it"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.85,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 58.28
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: PHP project with 164 stars today; score 58.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-08-25T13:24:01Z",
+        "default_branch": "main",
+        "description": "Open-Source Frontier Voice AI",
+        "fork": false,
+        "full_name": "microsoft/VibeVoice",
+        "homepage": "https://microsoft.github.io/VibeVoice/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 181,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-24T09:24:29Z",
+        "readme_excerpt": "<div align=\"center\"> ## \ud83c\udf99\ufe0f VibeVoice: Open-Source Frontier Voice AI [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=githubpages)](https://microsoft.github.io/VibeVoice) [![Hugging Face](https://img.shields.io/badge/HuggingFace-Collection-orange?logo=huggingface)](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) [![TTS Report](https://img.shields.io/badge/TTS-Report-red?logo=arxiv)](https://openreview.net/pdf?id=FihSkzyxdv) [![ASR Report](https",
+        "topics": [],
+        "updated_at": "2026-07-30T09:57:52Z"
+      },
+      "repo": {
+        "description": "Open-Source Frontier Voice AI",
+        "forks": 5723,
+        "full_name": "microsoft/VibeVoice",
+        "language": "Python",
+        "name": "VibeVoice",
+        "owner": "microsoft",
+        "rank": 8,
+        "stars_today": 336,
+        "total_stars": 51548,
+        "url": "https://github.com/microsoft/VibeVoice"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.58,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 57.88
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 336 stars today; score 57.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-20T12:59:46Z",
+        "default_branch": "master",
+        "description": "FlashKDA: high-performance Kimi Delta Attention kernels",
+        "fork": false,
+        "full_name": "MoonshotAI/FlashKDA",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 18,
+        "primary_language": "Cuda",
+        "pushed_at": "2026-07-30T07:14:39Z",
+        "readme_excerpt": "# FlashKDA FlashKDA: Flash Kimi Delta Attention \u2014 high-performance KDA kernels built on CUTLASS ## News - **2026-04-22** \u2014 Deep-Dive Blog: the design decisions behind FlashKDA v1, read it [here](docs/20260420-flashkda-v1-deep-dive.md). ## Requirements - SM90 and above - CUDA 12.9 and above - PyTorch 2.4 and above ## Installation ```bash git clone https://github.com/MoonshotAI/FlashKDA.git flash-kda cd flash-kda git submodule update --init --recursive pip install -v --no-build-isolation . ``` By ",
+        "topics": [],
+        "updated_at": "2026-07-30T09:49:46Z"
+      },
+      "repo": {
+        "description": "FlashKDA: high-performance Kimi Delta Attention kernels",
+        "forks": 102,
+        "full_name": "MoonshotAI/FlashKDA",
+        "language": "Cuda",
+        "name": "FlashKDA",
+        "owner": "MoonshotAI",
+        "rank": 11,
+        "stars_today": 91,
+        "total_stars": 1076,
+        "url": "https://github.com/MoonshotAI/FlashKDA"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.7,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 57.74
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Cuda project with 91 stars today; score 57.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-28T09:27:28Z",
+        "default_branch": "main",
+        "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+        "fork": false,
+        "full_name": "maderix/ANE",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 29,
+        "primary_language": "Objective-C",
+        "pushed_at": "2026-03-10T10:21:05Z",
+        "readme_excerpt": "# ANE Training \u2014 Backpropagation on Apple Neural Engine Training neural networks directly on Apple's Neural Engine (ANE) via reverse-engineered private APIs. No CoreML training APIs, no Metal, no GPU \u2014 pure ANE compute. ## Project Scope & Intent I'm genuinely grateful for all the attention this project has received \u2014 I never expected a weekend research hack to blow up like this. Thank you to everyone who starred, forked, ran benchmarks on their own hardware, and shared the work. It means a lot. ",
+        "topics": [],
+        "updated_at": "2026-07-30T09:50:52Z"
+      },
+      "repo": {
+        "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+        "forks": 963,
+        "full_name": "maderix/ANE",
+        "language": "Objective-C",
+        "name": "ANE",
+        "owner": "maderix",
+        "rank": 15,
+        "stars_today": 22,
+        "total_stars": 7207,
+        "url": "https://github.com/maderix/ANE"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.71,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 53.96
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: Objective-C project with 22 stars today; score 54.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-16T19:35:06Z",
+        "default_branch": "main",
+        "description": "Create and share 3D architectural projects.",
+        "fork": false,
+        "full_name": "pascalorg/editor",
+        "homepage": "https://editor.pascal.app",
+        "latest_release": "v0.9.1",
+        "license_spdx": "MIT",
+        "open_issues": 34,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-29T12:29:06Z",
+        "readme_excerpt": "# Pascal Editor A 3D building editor built with React Three Fiber and WebGPU. [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![npm @pascal-app/core](https://img.shields.io/npm/v/@pascal-app/core?label=%40pascal-app%2Fcore)](https://www.npmjs.com/package/@pascal-app/core) [![npm @pascal-app/viewer](https://img.shields.io/npm/v/@pascal-app/viewer?label=%40pascal-app%2Fviewer)](https://www.npmjs.com/package/@pascal-app/viewer) [![Discord](https://img.shields.io/badge/",
+        "topics": [],
+        "updated_at": "2026-07-30T09:57:57Z"
+      },
+      "repo": {
+        "description": "Create and share 3D architectural projects.",
+        "forks": 2608,
+        "full_name": "pascalorg/editor",
+        "language": "TypeScript",
+        "name": "editor",
+        "owner": "pascalorg",
+        "rank": 16,
+        "stars_today": 1022,
+        "total_stars": 19830,
+        "url": "https://github.com/pascalorg/editor"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.48,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.05,
+        "technical_quality": 14.0,
+        "total": 51.38
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: TypeScript project with 1022 stars today; score 51.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-02-05T20:48:52Z",
+        "default_branch": "main",
+        "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+        "fork": false,
+        "full_name": "paperswithbacktest/awesome-systematic-trading",
+        "homepage": "https://paperswithbacktest.com",
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 47,
+        "primary_language": "Python",
+        "pushed_at": "2025-01-22T07:49:32Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"static/images/awesome-systematic-trading.jpeg\" height=200 alt=\"\"/> <h1>Awesome Systematic Trading</h1> </div> <div align=center><img src=\"https://awesome.re/badge.svg\" /></div> [\u5e0c\u671b\u9605\u8bfb\u4e2d\u6587\u7248\uff1f\u70b9\u6211](./README_zh.md) We are collecting a list of resources papers, softwares, books, articles for finding, developing, and running systematic trading (quantitative trading) strategies. <!-- omit in toc --> ### What will you find here? - [97 libraries and packages](#libraries-and-pack",
+        "topics": [
+          "algorithmic-trading",
+          "algotrading",
+          "alpha",
+          "arbitrage-bot",
+          "awesome",
+          "awesome-list",
+          "book",
+          "finance",
+          "futures",
+          "futures-historical-data",
+          "futures-market",
+          "futuresmarkets",
+          "paper",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading",
+          "trading-algorithms",
+          "trading-bot",
+          "trading-strategies"
+        ],
+        "updated_at": "2026-07-30T09:56:55Z"
+      },
+      "repo": {
+        "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+        "forks": 1370,
+        "full_name": "paperswithbacktest/awesome-systematic-trading",
+        "language": "Python",
+        "name": "awesome-systematic-trading",
+        "owner": "paperswithbacktest",
+        "rank": 14,
+        "stars_today": 945,
+        "total_stars": 10657,
+        "url": "https://github.com/paperswithbacktest/awesome-systematic-trading"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.31,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 3.85,
+        "strategic_relevance": 3.01,
+        "technical_quality": 9.1,
+        "total": 50.86
+      },
+      "tags": [
+        "AI Workflow"
+      ],
+      "verdict": "AI Workflow: Python project with 945 stars today; score 50.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 35897,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 857,
+        "total_stars": 235915,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 8.38,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 41.33
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 857 stars today; score 41.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 23540,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 616,
+        "total_stars": 263642,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.95,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 35.1
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 616 stars today; score 35.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/virgiliojr94",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Turn any technical book PDF into a Claude Code skill \u2014 ready to study, reference, and use while you work.",
+        "forks": 1453,
+        "full_name": "sponsors/virgiliojr94",
+        "language": "Python",
+        "name": "virgiliojr94",
+        "owner": "sponsors",
+        "rank": 17,
+        "stars_today": 1421,
+        "total_stars": 13358,
+        "url": "https://github.com/sponsors/virgiliojr94"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 9.7,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.96,
+        "technical_quality": 3.5,
+        "total": 34.6
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 1421 stars today; score 34.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/opengeos",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+        "forks": 449,
+        "full_name": "sponsors/opengeos",
+        "language": "TypeScript",
+        "name": "opengeos",
+        "owner": "sponsors",
+        "rank": 1,
+        "stars_today": 671,
+        "total_stars": 4378,
+        "url": "https://github.com/sponsors/opengeos"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 7.57,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.09,
+        "technical_quality": 3.5,
+        "total": 23.86
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: TypeScript project with 671 stars today; score 23.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/deepfakes",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Deepfakes Software For All",
+        "forks": 13450,
+        "full_name": "sponsors/deepfakes",
+        "language": "Python",
+        "name": "deepfakes",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 166,
+        "total_stars": 56622,
+        "url": "https://github.com/sponsors/deepfakes"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.72,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.52,
+        "technical_quality": 3.5,
+        "total": 23.64
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 166 stars today; score 23.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/NanmiCoder",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\u5c0f\u7ea2\u4e66\u7b14\u8bb0 | \u8bc4\u8bba\u722c\u866b\u3001\u6296\u97f3\u89c6\u9891 | \u8bc4\u8bba\u722c\u866b\u3001\u5feb\u624b\u89c6\u9891 | \u8bc4\u8bba\u722c\u866b\u3001B \u7ad9\u89c6\u9891 \uff5c \u8bc4\u8bba\u722c\u866b\u3001\u5fae\u535a\u5e16\u5b50 \uff5c \u8bc4\u8bba\u722c\u866b\u3001\u767e\u5ea6\u8d34\u5427\u5e16\u5b50 \uff5c \u767e\u5ea6\u8d34\u5427\u8bc4\u8bba\u56de\u590d\u722c\u866b | \u77e5\u4e4e\u95ee\u7b54\u6587\u7ae0\uff5c\u8bc4\u8bba\u722c\u866b",
+        "forks": 11708,
+        "full_name": "sponsors/NanmiCoder",
+        "language": "Python",
+        "name": "NanmiCoder",
+        "owner": "sponsors",
+        "rank": 12,
+        "stars_today": 154,
+        "total_stars": 59382,
+        "url": "https://github.com/sponsors/NanmiCoder"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.93,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.19,
+        "technical_quality": 3.5,
+        "total": 17.32
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 154 stars today; score 17.3/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-07-30",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is 1jehuang/jcode."
+}
