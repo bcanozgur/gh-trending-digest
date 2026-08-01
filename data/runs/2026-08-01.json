@@ -1,0 +1,951 @@
+{
+  "date": "2026-08-01",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-13T14:37:57Z",
+        "default_branch": "main",
+        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients \u9006\u5411/\u6e17\u900f/\u5b89\u5168\u6280\u80fd\u8def\u7531\u5305 - AI \u81ea\u52a8\u8def\u7531 + \u6309\u9700\u81ea\u4e3e\u5de5\u5177\u94fe + \u81ea\u52a8\u8fdb\u5316\u7ecf\u9a8c\u5e93 | \u652f\u6301 Claude Code / Kiro / Cursor / Cline \u7b49\u4ee3\u7801 AI \u5ba2\u6237\u7aef",
+        "fork": false,
+        "full_name": "zhaoxuya520/reverse-skill",
+        "homepage": null,
+        "latest_release": "v1.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 9,
+        "primary_language": "PowerShell",
+        "pushed_at": "2026-08-01T09:22:15Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"reverse-skill.png\" alt=\"reverse-skill\" width=\"140\" /> </p> <h1 align=\"center\">reverse-skill</h1> <h3 align=\"center\">Cybersecurity Skills Router \u00b7 \u9006\u5411\u6280\u80fd\u8def\u7531\u5305</h3> <p align=\"center\"><em style=\"font-family: Georgia, serif; font-size: 1.2em; color: #777;\">Navigate the dark waters, sail against the stream.</em></p> <p align=\"center\"> <a href=\"https://github.com/zhaoxuya520/reverse-skill/releases/tag/v1.0.0\"><img src=\"https://img.shields.io/badge/release-v1.0.0-blue\" alt=\"rel",
+        "topics": [],
+        "updated_at": "2026-08-01T09:31:39Z"
+      },
+      "repo": {
+        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients \u9006\u5411/\u6e17\u900f/\u5b89\u5168\u6280\u80fd\u8def\u7531\u5305 - AI \u81ea\u52a8\u8def\u7531 + \u6309\u9700\u81ea\u4e3e\u5de5\u5177\u94fe + \u81ea\u52a8\u8fdb\u5316\u7ecf\u9a8c\u5e93 | \u652f\u6301 Claude Code / Kiro / Cursor / Cline \u7b49\u4ee3\u7801 AI \u5ba2\u6237\u7aef",
+        "forks": 1721,
+        "full_name": "zhaoxuya520/reverse-skill",
+        "language": "PowerShell",
+        "name": "reverse-skill",
+        "owner": "zhaoxuya520",
+        "rank": 1,
+        "stars_today": 335,
+        "total_stars": 11221,
+        "url": "https://github.com/zhaoxuya520/reverse-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.37,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 68.47
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: PowerShell project with 335 stars today; score 68.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-14T00:23:22Z",
+        "default_branch": "main",
+        "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+        "fork": false,
+        "full_name": "github/copilot-sdk",
+        "homepage": null,
+        "latest_release": "rust/v1.0.8",
+        "license_spdx": "MIT",
+        "open_issues": 238,
+        "primary_language": "Java",
+        "pushed_at": "2026-08-01T06:26:01Z",
+        "readme_excerpt": "# GitHub Copilot CLI SDKs ![GitHub Copilot SDK](./assets/RepoHeader_01.png) [![NPM Downloads](https://img.shields.io/npm/dm/%40github%2Fcopilot-sdk?label=npm)](https://www.npmjs.com/package/@github/copilot-sdk) [![PyPI - Downloads](https://img.shields.io/pypi/dm/github-copilot-sdk?label=PyPI)](https://pypi.org/project/github-copilot-sdk/) [![NuGet Downloads](https://img.shields.io/nuget/dt/GitHub.Copilot.SDK?label=NuGet)](https://www.nuget.org/packages/GitHub.Copilot.SDK) [![Go Reference](https:",
+        "topics": [],
+        "updated_at": "2026-08-01T09:26:41Z"
+      },
+      "repo": {
+        "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+        "forks": 1379,
+        "full_name": "github/copilot-sdk",
+        "language": "Java",
+        "name": "copilot-sdk",
+        "owner": "github",
+        "rank": 6,
+        "stars_today": 7,
+        "total_stars": 10190,
+        "url": "https://github.com/github/copilot-sdk"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.92,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 60.82
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Java project with 7 stars today; score 60.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-07-05T21:59:46Z",
+        "default_branch": "pioarduino",
+        "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol ",
+        "fork": false,
+        "full_name": "geo-tp/ESP32-Bit-Pirate",
+        "homepage": "https://geo-tp.github.io/ESP32-Bit-Pirate/",
+        "latest_release": "v1.6",
+        "license_spdx": "MIT",
+        "open_issues": 29,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-27T17:29:42Z",
+        "readme_excerpt": "# ESP32 Bit Pirate [![Logo banner of the ESP32 Bit Pirate firmware](images/logo_protocols_banner_small.png)](https://geo-tp.github.io/ESP32-Bit-Pirate/) **ESP32 Bit Pirate** is open-source firmware that turns your device into a multi-protocol development and analysis tool, inspired by the legendary Bus Pirate. It supports sniffing, sending, scripting, and interacting with various digital protocols (I2C, UART, 1-Wire, SPI, etc.) via a serial terminal or web-based CLI. It also communicates with ra",
+        "topics": [
+          "arduino",
+          "bluetooth",
+          "can-bus",
+          "debugging",
+          "eeprom",
+          "esp32",
+          "flipperzero",
+          "gpio",
+          "hardware-hacking",
+          "i2c",
+          "jtag",
+          "openocd",
+          "protocols",
+          "pwm",
+          "radio",
+          "rfid",
+          "spi",
+          "subghz",
+          "uart",
+          "wifi"
+        ],
+        "updated_at": "2026-08-01T09:30:32Z"
+      },
+      "repo": {
+        "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
+        "forks": 418,
+        "full_name": "geo-tp/ESP32-Bit-Pirate",
+        "language": "C++",
+        "name": "ESP32-Bit-Pirate",
+        "owner": "geo-tp",
+        "rank": 10,
+        "stars_today": 83,
+        "total_stars": 5186,
+        "url": "https://github.com/geo-tp/ESP32-Bit-Pirate"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.74,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 60.77
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: C++ project with 83 stars today; score 60.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/usekaneo",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83c\udfaf All you need. Nothing you don't. Open source project management that works for you, not against you.",
+        "forks": 463,
+        "full_name": "sponsors/usekaneo",
+        "language": "TypeScript",
+        "name": "usekaneo",
+        "owner": "sponsors",
+        "rank": 9,
+        "stars_today": 194,
+        "total_stars": 5338,
+        "url": "https://github.com/sponsors/usekaneo"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.47,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 32.62
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 194 stars today; score 32.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/chatwoot",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac",
+        "forks": 8446,
+        "full_name": "sponsors/chatwoot",
+        "language": "Ruby",
+        "name": "chatwoot",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 35,
+        "total_stars": 35254,
+        "url": "https://github.com/sponsors/chatwoot"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.92,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 32.07
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Ruby project with 35 stars today; score 32.1/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-05T09:43:36Z",
+        "default_branch": "master",
+        "description": "The most RAM efficient harness",
+        "fork": false,
+        "full_name": "1jehuang/jcode",
+        "homepage": "https://jcode.sh",
+        "latest_release": "v0.64.2",
+        "license_spdx": "MIT",
+        "open_issues": 166,
+        "primary_language": "Rust",
+        "pushed_at": "2026-08-01T09:31:58Z",
+        "readme_excerpt": "<div align=\"center\"> # jcode [![Latest Release](https://badgen.net/github/release/1jehuang/jcode?icon=github)](https://github.com/1jehuang/jcode/releases) [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE) [![Platforms](https://img.shields.io/badge/platforms-Linux%20%7C%20macOS%20%7C%20Windows-blue?style=flat-square)](https://github.com/1jehuang/jcode/releases) [![Last Commit](https://badgen.net/github/last-commit/1jehuang/jcode/master?icon=github)](https",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "ai-coding-agent",
+          "claude",
+          "cli",
+          "coding-agent",
+          "llm",
+          "mcp",
+          "openai",
+          "rust",
+          "terminal",
+          "tui"
+        ],
+        "updated_at": "2026-08-01T09:24:02Z"
+      },
+      "repo": {
+        "description": "The most RAM efficient harness",
+        "forks": 1627,
+        "full_name": "1jehuang/jcode",
+        "language": "Rust",
+        "name": "jcode",
+        "owner": "1jehuang",
+        "rank": 12,
+        "stars_today": 527,
+        "total_stars": 14771,
+        "url": "https://github.com/1jehuang/jcode"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.8,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.5
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 527 stars today; score 73.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-13T14:37:57Z",
+        "default_branch": "main",
+        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients \u9006\u5411/\u6e17\u900f/\u5b89\u5168\u6280\u80fd\u8def\u7531\u5305 - AI \u81ea\u52a8\u8def\u7531 + \u6309\u9700\u81ea\u4e3e\u5de5\u5177\u94fe + \u81ea\u52a8\u8fdb\u5316\u7ecf\u9a8c\u5e93 | \u652f\u6301 Claude Code / Kiro / Cursor / Cline \u7b49\u4ee3\u7801 AI \u5ba2\u6237\u7aef",
+        "fork": false,
+        "full_name": "zhaoxuya520/reverse-skill",
+        "homepage": null,
+        "latest_release": "v1.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 9,
+        "primary_language": "PowerShell",
+        "pushed_at": "2026-08-01T09:22:15Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"reverse-skill.png\" alt=\"reverse-skill\" width=\"140\" /> </p> <h1 align=\"center\">reverse-skill</h1> <h3 align=\"center\">Cybersecurity Skills Router \u00b7 \u9006\u5411\u6280\u80fd\u8def\u7531\u5305</h3> <p align=\"center\"><em style=\"font-family: Georgia, serif; font-size: 1.2em; color: #777;\">Navigate the dark waters, sail against the stream.</em></p> <p align=\"center\"> <a href=\"https://github.com/zhaoxuya520/reverse-skill/releases/tag/v1.0.0\"><img src=\"https://img.shields.io/badge/release-v1.0.0-blue\" alt=\"rel",
+        "topics": [],
+        "updated_at": "2026-08-01T09:31:39Z"
+      },
+      "repo": {
+        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients \u9006\u5411/\u6e17\u900f/\u5b89\u5168\u6280\u80fd\u8def\u7531\u5305 - AI \u81ea\u52a8\u8def\u7531 + \u6309\u9700\u81ea\u4e3e\u5de5\u5177\u94fe + \u81ea\u52a8\u8fdb\u5316\u7ecf\u9a8c\u5e93 | \u652f\u6301 Claude Code / Kiro / Cursor / Cline \u7b49\u4ee3\u7801 AI \u5ba2\u6237\u7aef",
+        "forks": 1721,
+        "full_name": "zhaoxuya520/reverse-skill",
+        "language": "PowerShell",
+        "name": "reverse-skill",
+        "owner": "zhaoxuya520",
+        "rank": 1,
+        "stars_today": 335,
+        "total_stars": 11221,
+        "url": "https://github.com/zhaoxuya520/reverse-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.37,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 68.47
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: PowerShell project with 335 stars today; score 68.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-14T01:39:31Z",
+        "default_branch": "dev",
+        "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+        "fork": false,
+        "full_name": "different-ai/openwork",
+        "homepage": "https://openworklabs.com",
+        "latest_release": "v0.18.12",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 435,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-01T09:26:24Z",
+        "readme_excerpt": "# OpenWork OpenWork is a free, open-source desktop app made for sharing AI workflows. It is an open-source alternative to Claude Cowork and Codex for macOS, Windows, and Linux. Add one OpenWork MCP to Codex, Claude Code, Cursor, or another compatible agent and reuse the same skills, MCPs, and connected services across your tools, teammates, and machines. Create something once, share it with coworkers or friends, or keep it for yourself. The desktop app is there when you want a dedicated workspac",
+        "topics": [],
+        "updated_at": "2026-08-01T09:31:33Z"
+      },
+      "repo": {
+        "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+        "forks": 2048,
+        "full_name": "different-ai/openwork",
+        "language": "TypeScript",
+        "name": "openwork",
+        "owner": "different-ai",
+        "rank": 2,
+        "stars_today": 806,
+        "total_stars": 19748,
+        "url": "https://github.com/different-ai/openwork"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.71,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 68.26
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 806 stars today; score 68.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-23T20:37:37Z",
+        "default_branch": "main",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "fork": false,
+        "full_name": "mvanhorn/last30days-skill",
+        "homepage": null,
+        "latest_release": "v3.18.4",
+        "license_spdx": "MIT",
+        "open_issues": 84,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-01T02:15:31Z",
+        "readme_excerpt": "# /last30days English | [Fran\u00e7ais](README.fr.md) | [Deutsch](README.de.md) | [Espa\u00f1ol](README.es.md) | [Portugu\u00eas (Brasil)](README.pt-BR.md) | [\u65e5\u672c\u8a9e](README.ja.md) | [\u7b80\u4f53\u4e2d\u6587](README.zh-CN.md) <p align=\"center\"> <img src=\"media/pr-assets/last30days-ad.gif\" width=\"720\" alt=\"last30days - an AI agent-led search engine that searches people, not editors\" /> </p> <p align=\"center\"> <a href=\"https://github.com/mvanhorn/last30days-skill\"> <img src=\"https://img.shields.io/badge/%231-Repository%20Of%20The%20D",
+        "topics": [
+          "ai-prompts",
+          "ai-skill",
+          "bluesky",
+          "claude",
+          "claude-code",
+          "clawhub",
+          "deep-research",
+          "hackernews",
+          "instagram",
+          "openclaw",
+          "polymarket",
+          "recency",
+          "reddit",
+          "research",
+          "social-media",
+          "tiktok",
+          "trends",
+          "twitter",
+          "web-search",
+          "youtube"
+        ],
+        "updated_at": "2026-08-01T09:31:45Z"
+      },
+      "repo": {
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "forks": 4930,
+        "full_name": "mvanhorn/last30days-skill",
+        "language": "Python",
+        "name": "last30days-skill",
+        "owner": "mvanhorn",
+        "rank": 3,
+        "stars_today": 658,
+        "total_stars": 56451,
+        "url": "https://github.com/mvanhorn/last30days-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.78,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 66.33
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 658 stars today; score 66.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-14T00:23:22Z",
+        "default_branch": "main",
+        "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+        "fork": false,
+        "full_name": "github/copilot-sdk",
+        "homepage": null,
+        "latest_release": "rust/v1.0.8",
+        "license_spdx": "MIT",
+        "open_issues": 238,
+        "primary_language": "Java",
+        "pushed_at": "2026-08-01T06:26:01Z",
+        "readme_excerpt": "# GitHub Copilot CLI SDKs ![GitHub Copilot SDK](./assets/RepoHeader_01.png) [![NPM Downloads](https://img.shields.io/npm/dm/%40github%2Fcopilot-sdk?label=npm)](https://www.npmjs.com/package/@github/copilot-sdk) [![PyPI - Downloads](https://img.shields.io/pypi/dm/github-copilot-sdk?label=PyPI)](https://pypi.org/project/github-copilot-sdk/) [![NuGet Downloads](https://img.shields.io/nuget/dt/GitHub.Copilot.SDK?label=NuGet)](https://www.nuget.org/packages/GitHub.Copilot.SDK) [![Go Reference](https:",
+        "topics": [],
+        "updated_at": "2026-08-01T09:26:41Z"
+      },
+      "repo": {
+        "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+        "forks": 1379,
+        "full_name": "github/copilot-sdk",
+        "language": "Java",
+        "name": "copilot-sdk",
+        "owner": "github",
+        "rank": 6,
+        "stars_today": 7,
+        "total_stars": 10190,
+        "url": "https://github.com/github/copilot-sdk"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.92,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 60.82
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Java project with 7 stars today; score 60.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-07-05T21:59:46Z",
+        "default_branch": "pioarduino",
+        "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol ",
+        "fork": false,
+        "full_name": "geo-tp/ESP32-Bit-Pirate",
+        "homepage": "https://geo-tp.github.io/ESP32-Bit-Pirate/",
+        "latest_release": "v1.6",
+        "license_spdx": "MIT",
+        "open_issues": 29,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-27T17:29:42Z",
+        "readme_excerpt": "# ESP32 Bit Pirate [![Logo banner of the ESP32 Bit Pirate firmware](images/logo_protocols_banner_small.png)](https://geo-tp.github.io/ESP32-Bit-Pirate/) **ESP32 Bit Pirate** is open-source firmware that turns your device into a multi-protocol development and analysis tool, inspired by the legendary Bus Pirate. It supports sniffing, sending, scripting, and interacting with various digital protocols (I2C, UART, 1-Wire, SPI, etc.) via a serial terminal or web-based CLI. It also communicates with ra",
+        "topics": [
+          "arduino",
+          "bluetooth",
+          "can-bus",
+          "debugging",
+          "eeprom",
+          "esp32",
+          "flipperzero",
+          "gpio",
+          "hardware-hacking",
+          "i2c",
+          "jtag",
+          "openocd",
+          "protocols",
+          "pwm",
+          "radio",
+          "rfid",
+          "spi",
+          "subghz",
+          "uart",
+          "wifi"
+        ],
+        "updated_at": "2026-08-01T09:30:32Z"
+      },
+      "repo": {
+        "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
+        "forks": 418,
+        "full_name": "geo-tp/ESP32-Bit-Pirate",
+        "language": "C++",
+        "name": "ESP32-Bit-Pirate",
+        "owner": "geo-tp",
+        "rank": 10,
+        "stars_today": 83,
+        "total_stars": 5186,
+        "url": "https://github.com/geo-tp/ESP32-Bit-Pirate"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.74,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 60.77
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: C++ project with 83 stars today; score 60.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2021-03-03T16:27:36Z",
+        "default_branch": "main",
+        "description": "12 Weeks, 24 Lessons, AI for All!",
+        "fork": false,
+        "full_name": "microsoft/AI-For-Beginners",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 12,
+        "primary_language": "Jupyter Notebook",
+        "pushed_at": "2026-07-21T11:11:48Z",
+        "readme_excerpt": "[![GitHub license](https://img.shields.io/github/license/microsoft/AI-For-Beginners.svg)](https://github.com/microsoft/AI-For-Beginners/blob/main/LICENSE) [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/AI-For-Beginners.svg)](https://GitHub.com/microsoft/AI-For-Beginners/graphs/contributors/) [![GitHub issues](https://img.shields.io/github/issues/microsoft/AI-For-Beginners.svg)](https://GitHub.com/microsoft/AI-For-Beginners/issues/) [![GitHub pull-requests](https://i",
+        "topics": [
+          "ai",
+          "artificial-intelligence",
+          "cnn",
+          "computer-vision",
+          "deep-learning",
+          "gan",
+          "machine-learning",
+          "microsoft-for-beginners",
+          "nlp",
+          "rnn"
+        ],
+        "updated_at": "2026-08-01T09:31:08Z"
+      },
+      "repo": {
+        "description": "12 Weeks, 24 Lessons, AI for All!",
+        "forks": 11190,
+        "full_name": "microsoft/AI-For-Beginners",
+        "language": "Jupyter Notebook",
+        "name": "AI-For-Beginners",
+        "owner": "microsoft",
+        "rank": 5,
+        "stars_today": 1592,
+        "total_stars": 55635,
+        "url": "https://github.com/microsoft/AI-For-Beginners"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.42,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.66,
+        "technical_quality": 11.9,
+        "total": 60.12
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Jupyter Notebook project with 1592 stars today; score 60.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-02-05T20:48:52Z",
+        "default_branch": "main",
+        "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+        "fork": false,
+        "full_name": "paperswithbacktest/awesome-systematic-trading",
+        "homepage": "https://paperswithbacktest.com",
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 48,
+        "primary_language": "Python",
+        "pushed_at": "2025-01-22T07:49:32Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"static/images/awesome-systematic-trading.jpeg\" height=200 alt=\"\"/> <h1>Awesome Systematic Trading</h1> </div> <div align=center><img src=\"https://awesome.re/badge.svg\" /></div> [\u5e0c\u671b\u9605\u8bfb\u4e2d\u6587\u7248\uff1f\u70b9\u6211](./README_zh.md) We are collecting a list of resources papers, softwares, books, articles for finding, developing, and running systematic trading (quantitative trading) strategies. <!-- omit in toc --> ### What will you find here? - [97 libraries and packages](#libraries-and-pack",
+        "topics": [
+          "algorithmic-trading",
+          "algotrading",
+          "alpha",
+          "arbitrage-bot",
+          "awesome",
+          "awesome-list",
+          "book",
+          "finance",
+          "futures",
+          "futures-historical-data",
+          "futures-market",
+          "futuresmarkets",
+          "paper",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading",
+          "trading-algorithms",
+          "trading-bot",
+          "trading-strategies"
+        ],
+        "updated_at": "2026-08-01T09:11:33Z"
+      },
+      "repo": {
+        "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+        "forks": 1492,
+        "full_name": "paperswithbacktest/awesome-systematic-trading",
+        "language": "Python",
+        "name": "awesome-systematic-trading",
+        "owner": "paperswithbacktest",
+        "rank": 4,
+        "stars_today": 763,
+        "total_stars": 11937,
+        "url": "https://github.com/paperswithbacktest/awesome-systematic-trading"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.19,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 3.85,
+        "strategic_relevance": 3.01,
+        "technical_quality": 9.1,
+        "total": 50.74
+      },
+      "tags": [
+        "AI Workflow"
+      ],
+      "verdict": "AI Workflow: Python project with 763 stars today; score 50.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/usekaneo",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83c\udfaf All you need. Nothing you don't. Open source project management that works for you, not against you.",
+        "forks": 463,
+        "full_name": "sponsors/usekaneo",
+        "language": "TypeScript",
+        "name": "usekaneo",
+        "owner": "sponsors",
+        "rank": 9,
+        "stars_today": 194,
+        "total_stars": 5338,
+        "url": "https://github.com/sponsors/usekaneo"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.47,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 32.62
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 194 stars today; score 32.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/chatwoot",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac",
+        "forks": 8446,
+        "full_name": "sponsors/chatwoot",
+        "language": "Ruby",
+        "name": "chatwoot",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 35,
+        "total_stars": 35254,
+        "url": "https://github.com/sponsors/chatwoot"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.92,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 32.07
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Ruby project with 35 stars today; score 32.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/agavra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "a code review TUI with vim keybindings",
+        "forks": 177,
+        "full_name": "sponsors/agavra",
+        "language": "Rust",
+        "name": "agavra",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 335,
+        "total_stars": 2219,
+        "url": "https://github.com/sponsors/agavra"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.36,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.78,
+        "technical_quality": 3.5,
+        "total": 19.34
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Rust project with 335 stars today; score 19.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/deepfakes",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Deepfakes Software For All",
+        "forks": 13484,
+        "full_name": "sponsors/deepfakes",
+        "language": "Python",
+        "name": "deepfakes",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 93,
+        "total_stars": 57139,
+        "url": "https://github.com/sponsors/deepfakes"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.65,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.08,
+        "technical_quality": 3.5,
+        "total": 16.93
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 93 stars today; score 16.9/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-08-01",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is zhaoxuya520/reverse-skill."
+}
