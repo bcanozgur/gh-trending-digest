@@ -1,0 +1,1592 @@
+{
+  "date": "2026-08-05",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-19T18:01:42Z",
+        "default_branch": "main",
+        "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+        "fork": false,
+        "full_name": "uber/ADR",
+        "homepage": "https://arxiv.org/abs/2605.17380",
+        "latest_release": "sensor-v1.0.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 11,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-03T18:11:16Z",
+        "readme_excerpt": "# ADR: Agentic AI Detection and Response ADR (Agentic AI Detection and Response) is an enterprise security system for AI agents. It helps organizations secure employee-facing agents such as Cursor, Claude Code, and Codex, as well as customer-facing agents such as AI support agents. ADR is **deployed in production at Uber**, and the accompanying paper was accepted to **MLSys 2026**: [Paper PDF](docs/adr-paper.pdf) \u00b7 [Slides PDF](docs/adr-mlsys-2026-slides.pdf) ## How ADR secures enterprise AI age",
+        "topics": [
+          "agent-security",
+          "ai-agents",
+          "ai-security",
+          "benchmark",
+          "claude",
+          "claude-code",
+          "codex",
+          "cursor",
+          "llm-security",
+          "mcp",
+          "model-context-protocol",
+          "prompt-injection",
+          "threat-detection"
+        ],
+        "updated_at": "2026-08-05T10:04:36Z"
+      },
+      "repo": {
+        "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+        "forks": 75,
+        "full_name": "uber/ADR",
+        "language": "Python",
+        "name": "ADR",
+        "owner": "uber",
+        "rank": 4,
+        "stars_today": 148,
+        "total_stars": 837,
+        "url": "https://github.com/uber/ADR"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.66,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 74.71
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 148 stars today; score 74.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-09T19:43:46Z",
+        "default_branch": "main",
+        "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+        "fork": false,
+        "full_name": "EveryInc/compound-engineering-plugin",
+        "homepage": "https://every.to/guides/compound-engineering",
+        "latest_release": "compound-engineering-v3.21.2",
+        "license_spdx": "MIT",
+        "open_issues": 91,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-05T09:04:13Z",
+        "readme_excerpt": "# Compound Engineering [![Build Status](https://github.com/EveryInc/compound-engineering-plugin/actions/workflows/ci.yml/badge.svg)](https://github.com/EveryInc/compound-engineering-plugin/actions/workflows/ci.yml) AI skills that make each unit of engineering work easier than the last. ## Install ### Claude Code ```text /plugin marketplace add EveryInc/compound-engineering-plugin /plugin install compound-engineering ``` > **Already have Compound Engineering installed?** Compound Engineering move",
+        "topics": [
+          "compound",
+          "engineering"
+        ],
+        "updated_at": "2026-08-05T09:59:01Z"
+      },
+      "repo": {
+        "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+        "forks": 1960,
+        "full_name": "EveryInc/compound-engineering-plugin",
+        "language": "TypeScript",
+        "name": "compound-engineering-plugin",
+        "owner": "EveryInc",
+        "rank": 18,
+        "stars_today": 40,
+        "total_stars": 23975,
+        "url": "https://github.com/EveryInc/compound-engineering-plugin"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 1.28,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 69.87
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 40 stars today; score 69.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-12T01:34:42Z",
+        "default_branch": "main",
+        "description": "Edit videos with coding agents",
+        "fork": false,
+        "full_name": "browser-use/video-use",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 61,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-01T00:33:52Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"static/video-use-banner.png\" alt=\"video-use\" width=\"100%\"> </p> # video-use Introducing **video-use** \u2014 edit videos with Claude Code. 100% open source. Drop raw footage in a folder, chat with Claude Code, get `final.mp4` back. Works for any content \u2014 talking heads, montages, tutorials, travel, interviews \u2014 without presets or menus. Try video-use in [Browser Use Cloud](https://cloud.browser-use.com/v4?utm_campaign=video-use-use-in-cloud&utm_source=github). ## What it ",
+        "topics": [],
+        "updated_at": "2026-08-05T10:09:25Z"
+      },
+      "repo": {
+        "description": "Edit videos with coding agents",
+        "forks": 2424,
+        "full_name": "browser-use/video-use",
+        "language": "Python",
+        "name": "video-use",
+        "owner": "browser-use",
+        "rank": 16,
+        "stars_today": 320,
+        "total_stars": 19602,
+        "url": "https://github.com/browser-use/video-use"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.5,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 68.25
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 320 stars today; score 68.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2017-10-06T14:59:14Z",
+        "default_branch": "main",
+        "description": "A utility-first CSS framework for rapid UI development.",
+        "fork": false,
+        "full_name": "tailwindlabs/tailwindcss",
+        "homepage": "https://tailwindcss.com/",
+        "latest_release": "v4.3.3",
+        "license_spdx": "MIT",
+        "open_issues": 51,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-04T22:36:27Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://tailwindcss.com\" target=\"_blank\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg\"> <img alt=\"Tailwind CSS\" src=\"https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg\" width=\"350\" height=",
+        "topics": [
+          "css",
+          "css-framework",
+          "functional-css",
+          "postcss",
+          "responsive",
+          "tailwindcss",
+          "utility-classes"
+        ],
+        "updated_at": "2026-08-05T10:09:05Z"
+      },
+      "repo": {
+        "description": "A utility-first CSS framework for rapid UI development.",
+        "forks": 5539,
+        "full_name": "tailwindlabs/tailwindcss",
+        "language": "TypeScript",
+        "name": "tailwindcss",
+        "owner": "tailwindlabs",
+        "rank": 15,
+        "stars_today": 52,
+        "total_stars": 96627,
+        "url": "https://github.com/tailwindlabs/tailwindcss"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.76,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 62.67
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 52 stars today; score 62.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2012-03-10T10:08:14Z",
+        "default_branch": "main",
+        "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+        "fork": false,
+        "full_name": "webpack/webpack",
+        "homepage": "https://webpack.js.org",
+        "latest_release": "v5.109.2",
+        "license_spdx": "MIT",
+        "open_issues": 143,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-08-05T05:14:56Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://github.com/webpack/webpack\"> <img width=\"200\" height=\"200\" src=\"https://webpack.js.org/assets/icon-square-big.svg\"> </a> <br> <br> [![npm][npm]][npm-url] [![node][node]][node-url] [![builds1][builds1]][builds1-url] [![dependency-review][dependency-review]][dependency-review-url] [![coverage][cover]][cover-url] [![pkg.pr.new](https://pkg.pr.new/badge/webpack/webpack)](https://pkg.pr.new/~/webpack/webpack) [![PR's welcome][prs]][prs-url] [![compatibility-score",
+        "topics": [
+          "amd",
+          "build-tool",
+          "commonjs",
+          "compiler",
+          "es2015",
+          "es6",
+          "esm",
+          "javascript",
+          "javascript-compiler",
+          "javascript-modules",
+          "loaders",
+          "module-bundler",
+          "plugins",
+          "web",
+          "web-performance",
+          "webpack"
+        ],
+        "updated_at": "2026-08-05T10:05:05Z"
+      },
+      "repo": {
+        "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+        "forks": 9530,
+        "full_name": "webpack/webpack",
+        "language": "JavaScript",
+        "name": "webpack",
+        "owner": "webpack",
+        "rank": 9,
+        "stars_today": 10,
+        "total_stars": 65983,
+        "url": "https://github.com/webpack/webpack"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.48,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.28
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 10 stars today; score 59.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-05-15T01:34:26Z",
+        "default_branch": "main",
+        "description": "A modern runtime for JavaScript and TypeScript.",
+        "fork": false,
+        "full_name": "denoland/deno",
+        "homepage": "https://deno.com",
+        "latest_release": "v2.9.4",
+        "license_spdx": "MIT",
+        "open_issues": 1429,
+        "primary_language": "Rust",
+        "pushed_at": "2026-08-05T09:25:56Z",
+        "readme_excerpt": "# Deno [![](https://img.shields.io/crates/v/deno.svg)](https://crates.io/crates/deno) [![Twitter badge][]][Twitter link] [![Bluesky badge][]][Bluesky link] [![Discord badge][]][Discord link] [![YouTube badge][]][YouTube link] <img align=\"right\" src=\"https://deno.land/logo.svg\" height=\"150px\" alt=\"the deno mascot dinosaur standing in the rain\"> [Deno](https://deno.com) ([/\u02c8di\u02d0no\u028a/](https://ipa-reader.com/?text=%CB%88di%CB%90no%CA%8A), pronounced `dee-no`) is a JavaScript, TypeScript, and WebAssem",
+        "topics": [
+          "deno",
+          "javascript",
+          "rust",
+          "typescript"
+        ],
+        "updated_at": "2026-08-05T10:10:02Z"
+      },
+      "repo": {
+        "description": "A modern runtime for JavaScript and TypeScript.",
+        "forks": 6309,
+        "full_name": "denoland/deno",
+        "language": "Rust",
+        "name": "deno",
+        "owner": "denoland",
+        "rank": 11,
+        "stars_today": 31,
+        "total_stars": 108120,
+        "url": "https://github.com/denoland/deno"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.26,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.06
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 31 stars today; score 59.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-09-18T16:12:01Z",
+        "default_branch": "main",
+        "description": "Deliver web apps with confidence \ud83d\ude80",
+        "fork": false,
+        "full_name": "angular/angular",
+        "homepage": "https://angular.dev",
+        "latest_release": "v22.1.0",
+        "license_spdx": "MIT",
+        "open_issues": 1154,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-04T18:51:28Z",
+        "readme_excerpt": "<h1 align=\"center\">Angular - The modern web developer's platform</h1> <p align=\"center\"> <img src=\"adev/src/assets/images/press-kit/angular_icon_gradient.gif\" alt=\"angular-logo\" width=\"120px\" height=\"120px\"/> <br> <em>Angular is a development platform for building mobile and desktop web applications <br> using TypeScript/JavaScript and other languages.</em> <br> </p> <p align=\"center\"> <a href=\"https://angular.dev/\"><strong>angular.dev</strong></a> <br> </p> <p align=\"center\"> <a href=\"CONTRIBUT",
+        "topics": [
+          "angular",
+          "javascript",
+          "pwa",
+          "typescript",
+          "web",
+          "web-framework",
+          "web-performance"
+        ],
+        "updated_at": "2026-08-05T10:09:05Z"
+      },
+      "repo": {
+        "description": "Deliver web apps with confidence \ud83d\ude80",
+        "forks": 27403,
+        "full_name": "angular/angular",
+        "language": "TypeScript",
+        "name": "angular",
+        "owner": "angular",
+        "rank": 14,
+        "stars_today": 13,
+        "total_stars": 100921,
+        "url": "https://github.com/angular/angular"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.77,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 54.94
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 13 stars today; score 54.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-03-04T00:46:28Z",
+        "default_branch": "develop",
+        "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+        "fork": false,
+        "full_name": "cypress-io/cypress",
+        "homepage": "https://cypress.io",
+        "latest_release": "v15.20.0",
+        "license_spdx": "MIT",
+        "open_issues": 1094,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-05T09:01:43Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://www.cypress.io\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"./assets/cypress-logo-dark.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"./assets/cypress-logo-light.png\"> <img alt=\"Cypress Logo\" src=\"./assets/cypress-logo-light.png\"> </picture> </a> </p> <p align=\"center\"> <a href=\"https://on.cypress.io\">Documentation</a> | <a href=\"https://on.cypress.io/changelog\">Changelog</a> | <a href=\"https://on.cypress.io/roadmap\">Roadmap</a",
+        "topics": [
+          "angular-testing-library",
+          "component-testing",
+          "cypress",
+          "cypress-cloud",
+          "cypress-schematic",
+          "end-to-end-testing",
+          "react-testing-library",
+          "svelte-testing-library",
+          "test-replay",
+          "testing-framework",
+          "testing-library",
+          "testing-tool",
+          "vue-testing-library"
+        ],
+        "updated_at": "2026-08-05T09:59:33Z"
+      },
+      "repo": {
+        "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+        "forks": 3634,
+        "full_name": "cypress-io/cypress",
+        "language": "TypeScript",
+        "name": "cypress",
+        "owner": "cypress-io",
+        "rank": 7,
+        "stars_today": 11,
+        "total_stars": 50897,
+        "url": "https://github.com/cypress-io/cypress"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.77,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 50.74
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 11 stars today; score 50.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-11-01T01:28:53Z",
+        "default_branch": "v1.x",
+        "description": "Fast C++ logging library.",
+        "fork": false,
+        "full_name": "gabime/spdlog",
+        "homepage": null,
+        "latest_release": "v1.17.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 46,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-24T13:24:39Z",
+        "readme_excerpt": "# spdlog [![ci](https://github.com/gabime/spdlog/actions/workflows/linux.yml/badge.svg)](https://github.com/gabime/spdlog/actions/workflows/linux.yml)&nbsp; [![ci](https://github.com/gabime/spdlog/actions/workflows/windows.yml/badge.svg)](https://github.com/gabime/spdlog/actions/workflows/windows.yml)&nbsp; [![ci](https://github.com/gabime/spdlog/actions/workflows/macos.yml/badge.svg)](https://github.com/gabime/spdlog/actions/workflows/macos.yml)&nbsp; [![Build status](https://ci.appveyor.com/ap",
+        "topics": [
+          "cpp",
+          "cpp11",
+          "header-only",
+          "logging",
+          "spdlog"
+        ],
+        "updated_at": "2026-08-05T10:05:09Z"
+      },
+      "repo": {
+        "description": "Fast C++ logging library.",
+        "forks": 5373,
+        "full_name": "gabime/spdlog",
+        "language": "C++",
+        "name": "spdlog",
+        "owner": "gabime",
+        "rank": 10,
+        "stars_today": 10,
+        "total_stars": 29424,
+        "url": "https://github.com/gabime/spdlog"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.34,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.2,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 45.8
+      },
+      "tags": [
+        "DevTools"
+      ],
+      "verdict": "DevTools: C++ project with 10 stars today; score 45.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 23856,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 653,
+        "total_stars": 266876,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.18,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 34.33
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 653 stars today; score 34.3/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-21T08:27:02Z",
+        "default_branch": "main-v2",
+        "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+        "fork": false,
+        "full_name": "esengine/DeepSeek-Reasonix",
+        "homepage": "http://reasonix.io/",
+        "latest_release": "desktop-v1.19.7",
+        "license_spdx": "MIT",
+        "open_issues": 786,
+        "primary_language": "Go",
+        "pushed_at": "2026-08-05T09:43:08Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"docs/logo.svg\" alt=\"Reasonix\" width=\"640\"/> </p> <p align=\"center\"> <strong>English</strong> &nbsp;\u00b7&nbsp; <a href=\"./README.zh-CN.md\">\u7b80\u4f53\u4e2d\u6587</a> &nbsp;\u00b7&nbsp; <a href=\"./docs/GUIDE.md\">Guide</a> &nbsp;\u00b7&nbsp; <a href=\"./docs/ACP.md\">ACP</a> &nbsp;\u00b7&nbsp; <a href=\"./docs/SPEC.md\">Spec</a> &nbsp;\u00b7&nbsp; <a href=\"https://esengine.github.io/DeepSeek-Reasonix/\">Website</a> &nbsp;\u00b7&nbsp; <strong><a href=\"https://discord.gg/XF78rEME2D\">Discord</a></strong> </p> <p align=\"cen",
+        "topics": [
+          "agent",
+          "agent-framework",
+          "ai-agent",
+          "ai-coding",
+          "cli",
+          "coding-agent",
+          "deepseek",
+          "developer-tools",
+          "ink",
+          "llm",
+          "prompt-caching",
+          "r1",
+          "terminal",
+          "tool-use",
+          "tui",
+          "typescript"
+        ],
+        "updated_at": "2026-08-05T10:08:36Z"
+      },
+      "repo": {
+        "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+        "forks": 2001,
+        "full_name": "esengine/DeepSeek-Reasonix",
+        "language": "Go",
+        "name": "DeepSeek-Reasonix",
+        "owner": "esengine",
+        "rank": 17,
+        "stars_today": 922,
+        "total_stars": 31144,
+        "url": "https://github.com/esengine/DeepSeek-Reasonix"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.35,
+        "novelty": 2.8,
+        "practical_usefulness": 19.4,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 76.26
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 922 stars today; score 76.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-19T18:01:42Z",
+        "default_branch": "main",
+        "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+        "fork": false,
+        "full_name": "uber/ADR",
+        "homepage": "https://arxiv.org/abs/2605.17380",
+        "latest_release": "sensor-v1.0.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 11,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-03T18:11:16Z",
+        "readme_excerpt": "# ADR: Agentic AI Detection and Response ADR (Agentic AI Detection and Response) is an enterprise security system for AI agents. It helps organizations secure employee-facing agents such as Cursor, Claude Code, and Codex, as well as customer-facing agents such as AI support agents. ADR is **deployed in production at Uber**, and the accompanying paper was accepted to **MLSys 2026**: [Paper PDF](docs/adr-paper.pdf) \u00b7 [Slides PDF](docs/adr-mlsys-2026-slides.pdf) ## How ADR secures enterprise AI age",
+        "topics": [
+          "agent-security",
+          "ai-agents",
+          "ai-security",
+          "benchmark",
+          "claude",
+          "claude-code",
+          "codex",
+          "cursor",
+          "llm-security",
+          "mcp",
+          "model-context-protocol",
+          "prompt-injection",
+          "threat-detection"
+        ],
+        "updated_at": "2026-08-05T10:04:36Z"
+      },
+      "repo": {
+        "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+        "forks": 75,
+        "full_name": "uber/ADR",
+        "language": "Python",
+        "name": "ADR",
+        "owner": "uber",
+        "rank": 4,
+        "stars_today": 148,
+        "total_stars": 837,
+        "url": "https://github.com/uber/ADR"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.66,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 74.71
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 148 stars today; score 74.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-09T19:43:46Z",
+        "default_branch": "main",
+        "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+        "fork": false,
+        "full_name": "EveryInc/compound-engineering-plugin",
+        "homepage": "https://every.to/guides/compound-engineering",
+        "latest_release": "compound-engineering-v3.21.2",
+        "license_spdx": "MIT",
+        "open_issues": 91,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-05T09:04:13Z",
+        "readme_excerpt": "# Compound Engineering [![Build Status](https://github.com/EveryInc/compound-engineering-plugin/actions/workflows/ci.yml/badge.svg)](https://github.com/EveryInc/compound-engineering-plugin/actions/workflows/ci.yml) AI skills that make each unit of engineering work easier than the last. ## Install ### Claude Code ```text /plugin marketplace add EveryInc/compound-engineering-plugin /plugin install compound-engineering ``` > **Already have Compound Engineering installed?** Compound Engineering move",
+        "topics": [
+          "compound",
+          "engineering"
+        ],
+        "updated_at": "2026-08-05T09:59:01Z"
+      },
+      "repo": {
+        "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+        "forks": 1960,
+        "full_name": "EveryInc/compound-engineering-plugin",
+        "language": "TypeScript",
+        "name": "compound-engineering-plugin",
+        "owner": "EveryInc",
+        "rank": 18,
+        "stars_today": 40,
+        "total_stars": 23975,
+        "url": "https://github.com/EveryInc/compound-engineering-plugin"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 1.28,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 69.87
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 40 stars today; score 69.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-07T06:34:26Z",
+        "default_branch": "feat/server_team",
+        "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents \u2014 turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+        "fork": false,
+        "full_name": "TencentCloud/TencentDB-Agent-Memory",
+        "homepage": null,
+        "latest_release": "v2.0.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 511,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-05T08:04:09Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"./assets/images/logo.png\" alt=\"TencentDB Agent Memory\" width=\"880\" /> ### Agents remember. Humans innovate. <a href=\"https://trendshift.io/repositories/29310?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-29310\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/29310\" alt=\"TencentCloud%2FTencentDB-Agent-Memory | Trendshift\" width=\"250\" height=\"55\"/></a> [![npm](https://img.shields.io",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "embedding",
+          "llm",
+          "local-first",
+          "long-term-memory",
+          "memory",
+          "openclaw-plugin",
+          "vector-search"
+        ],
+        "updated_at": "2026-08-05T10:09:38Z"
+      },
+      "repo": {
+        "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents \u2014 turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+        "forks": 1321,
+        "full_name": "TencentCloud/TencentDB-Agent-Memory",
+        "language": "TypeScript",
+        "name": "TencentDB-Agent-Memory",
+        "owner": "TencentCloud",
+        "rank": 1,
+        "stars_today": 1111,
+        "total_stars": 14541,
+        "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.27,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 4.2,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 69.62
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1111 stars today; score 69.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-13T14:37:57Z",
+        "default_branch": "main",
+        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients \u9006\u5411/\u6e17\u900f/\u5b89\u5168\u6280\u80fd\u8def\u7531\u5305 - AI \u81ea\u52a8\u8def\u7531 + \u6309\u9700\u81ea\u4e3e\u5de5\u5177\u94fe + \u81ea\u52a8\u8fdb\u5316\u7ecf\u9a8c\u5e93 | \u652f\u6301 Claude Code / Kiro / Cursor / Cline \u7b49\u4ee3\u7801 AI \u5ba2\u6237\u7aef",
+        "fork": false,
+        "full_name": "zhaoxuya520/reverse-skill",
+        "homepage": null,
+        "latest_release": "v1.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 12,
+        "primary_language": "PowerShell",
+        "pushed_at": "2026-08-05T10:05:07Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"reverse-skill.png\" alt=\"reverse-skill\" width=\"140\" /> </p> <h1 align=\"center\">reverse-skill</h1> <h3 align=\"center\">Cybersecurity Skills Router \u00b7 \u9006\u5411\u6280\u80fd\u8def\u7531\u5305</h3> <p align=\"center\"><em style=\"font-family: Georgia, serif; font-size: 1.2em; color: #777;\">Navigate the dark waters, sail against the stream.</em></p> <p align=\"center\"> <a href=\"https://github.com/zhaoxuya520/reverse-skill/releases/tag/v1.0.0\"><img src=\"https://img.shields.io/badge/release-v1.0.0-blue\" alt=\"rel",
+        "topics": [],
+        "updated_at": "2026-08-05T10:08:02Z"
+      },
+      "repo": {
+        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients \u9006\u5411/\u6e17\u900f/\u5b89\u5168\u6280\u80fd\u8def\u7531\u5305 - AI \u81ea\u52a8\u8def\u7531 + \u6309\u9700\u81ea\u4e3e\u5de5\u5177\u94fe + \u81ea\u52a8\u8fdb\u5316\u7ecf\u9a8c\u5e93 | \u652f\u6301 Claude Code / Kiro / Cursor / Cline \u7b49\u4ee3\u7801 AI \u5ba2\u6237\u7aef",
+        "forks": 2550,
+        "full_name": "zhaoxuya520/reverse-skill",
+        "language": "PowerShell",
+        "name": "reverse-skill",
+        "owner": "zhaoxuya520",
+        "rank": 2,
+        "stars_today": 2297,
+        "total_stars": 18688,
+        "url": "https://github.com/zhaoxuya520/reverse-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.05,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.51,
+        "technical_quality": 14.0,
+        "total": 69.19
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: PowerShell project with 2297 stars today; score 69.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-10-19T23:00:55Z",
+        "default_branch": "main",
+        "description": "A framework for building realtime voice AI agents \ud83e\udd16\ud83c\udf99\ufe0f\ud83d\udcf9 ",
+        "fork": false,
+        "full_name": "livekit/agents",
+        "homepage": "https://docs.livekit.io/agents",
+        "latest_release": "livekit-agents@1.6.8",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 731,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-05T09:32:08Z",
+        "readme_excerpt": "<!--BEGIN_BANNER_IMAGE--> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"/.github/banner_dark.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"/.github/banner_light.png\"> <img style=\"width:100%;\" alt=\"The LiveKit icon, the name of the repository and some sample code in the background.\" src=\"https://raw.githubusercontent.com/livekit/agents/main/.github/banner_light.png\"> </picture> <!--END_BANNER_IMAGE--> <br /> ![PyPI - Version](https://img.shields.io/pypi/v/livekit-ag",
+        "topics": [
+          "agents",
+          "ai",
+          "openai",
+          "real-time",
+          "video",
+          "voice"
+        ],
+        "updated_at": "2026-08-05T10:09:09Z"
+      },
+      "repo": {
+        "description": "A framework for building realtime voice AI agents \ud83e\udd16\ud83c\udf99\ufe0f\ud83d\udcf9",
+        "forks": 3495,
+        "full_name": "livekit/agents",
+        "language": "Python",
+        "name": "agents",
+        "owner": "livekit",
+        "rank": 13,
+        "stars_today": 432,
+        "total_stars": 12607,
+        "url": "https://github.com/livekit/agents"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.3,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 68.4
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 432 stars today; score 68.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-12T01:34:42Z",
+        "default_branch": "main",
+        "description": "Edit videos with coding agents",
+        "fork": false,
+        "full_name": "browser-use/video-use",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 61,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-01T00:33:52Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"static/video-use-banner.png\" alt=\"video-use\" width=\"100%\"> </p> # video-use Introducing **video-use** \u2014 edit videos with Claude Code. 100% open source. Drop raw footage in a folder, chat with Claude Code, get `final.mp4` back. Works for any content \u2014 talking heads, montages, tutorials, travel, interviews \u2014 without presets or menus. Try video-use in [Browser Use Cloud](https://cloud.browser-use.com/v4?utm_campaign=video-use-use-in-cloud&utm_source=github). ## What it ",
+        "topics": [],
+        "updated_at": "2026-08-05T10:09:25Z"
+      },
+      "repo": {
+        "description": "Edit videos with coding agents",
+        "forks": 2424,
+        "full_name": "browser-use/video-use",
+        "language": "Python",
+        "name": "video-use",
+        "owner": "browser-use",
+        "rank": 16,
+        "stars_today": 320,
+        "total_stars": 19602,
+        "url": "https://github.com/browser-use/video-use"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.5,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 68.25
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 320 stars today; score 68.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-06-19T16:28:59Z",
+        "default_branch": "main",
+        "description": "21 Lessons, Get Started Building with Generative AI ",
+        "fork": false,
+        "full_name": "microsoft/generative-ai-for-beginners",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 19,
+        "primary_language": "Jupyter Notebook",
+        "pushed_at": "2026-08-04T18:21:38Z",
+        "readme_excerpt": "![Generative AI For Beginners](./images/repo-thumbnailv4-fixed.png?WT.mc_id=academic-105485-koreyst) ### 21 Lessons teaching everything you need to know to start building Generative AI applications [![GitHub license](https://img.shields.io/github/license/microsoft/Generative-AI-For-Beginners.svg)](https://github.com/microsoft/Generative-AI-For-Beginners/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst) [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Generative-AI",
+        "topics": [
+          "ai",
+          "azure",
+          "chatgpt",
+          "dall-e",
+          "generative-ai",
+          "generativeai",
+          "gpt",
+          "language-model",
+          "llms",
+          "microsoft-for-beginners",
+          "openai",
+          "prompt-engineering",
+          "semantic-search",
+          "transformers"
+        ],
+        "updated_at": "2026-08-05T10:08:05Z"
+      },
+      "repo": {
+        "description": "21 Lessons, Get Started Building with Generative AI",
+        "forks": 61626,
+        "full_name": "microsoft/generative-ai-for-beginners",
+        "language": "Jupyter Notebook",
+        "name": "generative-ai-for-beginners",
+        "owner": "microsoft",
+        "rank": 6,
+        "stars_today": 783,
+        "total_stars": 116552,
+        "url": "https://github.com/microsoft/generative-ai-for-beginners"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.47,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 66.02
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Jupyter Notebook project with 783 stars today; score 66.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2017-10-06T14:59:14Z",
+        "default_branch": "main",
+        "description": "A utility-first CSS framework for rapid UI development.",
+        "fork": false,
+        "full_name": "tailwindlabs/tailwindcss",
+        "homepage": "https://tailwindcss.com/",
+        "latest_release": "v4.3.3",
+        "license_spdx": "MIT",
+        "open_issues": 51,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-04T22:36:27Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://tailwindcss.com\" target=\"_blank\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg\"> <img alt=\"Tailwind CSS\" src=\"https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg\" width=\"350\" height=",
+        "topics": [
+          "css",
+          "css-framework",
+          "functional-css",
+          "postcss",
+          "responsive",
+          "tailwindcss",
+          "utility-classes"
+        ],
+        "updated_at": "2026-08-05T10:09:05Z"
+      },
+      "repo": {
+        "description": "A utility-first CSS framework for rapid UI development.",
+        "forks": 5539,
+        "full_name": "tailwindlabs/tailwindcss",
+        "language": "TypeScript",
+        "name": "tailwindcss",
+        "owner": "tailwindlabs",
+        "rank": 15,
+        "stars_today": 52,
+        "total_stars": 96627,
+        "url": "https://github.com/tailwindlabs/tailwindcss"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.76,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 62.67
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 52 stars today; score 62.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2012-03-10T10:08:14Z",
+        "default_branch": "main",
+        "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+        "fork": false,
+        "full_name": "webpack/webpack",
+        "homepage": "https://webpack.js.org",
+        "latest_release": "v5.109.2",
+        "license_spdx": "MIT",
+        "open_issues": 143,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-08-05T05:14:56Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://github.com/webpack/webpack\"> <img width=\"200\" height=\"200\" src=\"https://webpack.js.org/assets/icon-square-big.svg\"> </a> <br> <br> [![npm][npm]][npm-url] [![node][node]][node-url] [![builds1][builds1]][builds1-url] [![dependency-review][dependency-review]][dependency-review-url] [![coverage][cover]][cover-url] [![pkg.pr.new](https://pkg.pr.new/badge/webpack/webpack)](https://pkg.pr.new/~/webpack/webpack) [![PR's welcome][prs]][prs-url] [![compatibility-score",
+        "topics": [
+          "amd",
+          "build-tool",
+          "commonjs",
+          "compiler",
+          "es2015",
+          "es6",
+          "esm",
+          "javascript",
+          "javascript-compiler",
+          "javascript-modules",
+          "loaders",
+          "module-bundler",
+          "plugins",
+          "web",
+          "web-performance",
+          "webpack"
+        ],
+        "updated_at": "2026-08-05T10:05:05Z"
+      },
+      "repo": {
+        "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+        "forks": 9530,
+        "full_name": "webpack/webpack",
+        "language": "JavaScript",
+        "name": "webpack",
+        "owner": "webpack",
+        "rank": 9,
+        "stars_today": 10,
+        "total_stars": 65983,
+        "url": "https://github.com/webpack/webpack"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.48,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.28
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 10 stars today; score 59.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-05-15T01:34:26Z",
+        "default_branch": "main",
+        "description": "A modern runtime for JavaScript and TypeScript.",
+        "fork": false,
+        "full_name": "denoland/deno",
+        "homepage": "https://deno.com",
+        "latest_release": "v2.9.4",
+        "license_spdx": "MIT",
+        "open_issues": 1429,
+        "primary_language": "Rust",
+        "pushed_at": "2026-08-05T09:25:56Z",
+        "readme_excerpt": "# Deno [![](https://img.shields.io/crates/v/deno.svg)](https://crates.io/crates/deno) [![Twitter badge][]][Twitter link] [![Bluesky badge][]][Bluesky link] [![Discord badge][]][Discord link] [![YouTube badge][]][YouTube link] <img align=\"right\" src=\"https://deno.land/logo.svg\" height=\"150px\" alt=\"the deno mascot dinosaur standing in the rain\"> [Deno](https://deno.com) ([/\u02c8di\u02d0no\u028a/](https://ipa-reader.com/?text=%CB%88di%CB%90no%CA%8A), pronounced `dee-no`) is a JavaScript, TypeScript, and WebAssem",
+        "topics": [
+          "deno",
+          "javascript",
+          "rust",
+          "typescript"
+        ],
+        "updated_at": "2026-08-05T10:10:02Z"
+      },
+      "repo": {
+        "description": "A modern runtime for JavaScript and TypeScript.",
+        "forks": 6309,
+        "full_name": "denoland/deno",
+        "language": "Rust",
+        "name": "deno",
+        "owner": "denoland",
+        "rank": 11,
+        "stars_today": 31,
+        "total_stars": 108120,
+        "url": "https://github.com/denoland/deno"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.26,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.06
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 31 stars today; score 59.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-09-18T16:12:01Z",
+        "default_branch": "main",
+        "description": "Deliver web apps with confidence \ud83d\ude80",
+        "fork": false,
+        "full_name": "angular/angular",
+        "homepage": "https://angular.dev",
+        "latest_release": "v22.1.0",
+        "license_spdx": "MIT",
+        "open_issues": 1154,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-04T18:51:28Z",
+        "readme_excerpt": "<h1 align=\"center\">Angular - The modern web developer's platform</h1> <p align=\"center\"> <img src=\"adev/src/assets/images/press-kit/angular_icon_gradient.gif\" alt=\"angular-logo\" width=\"120px\" height=\"120px\"/> <br> <em>Angular is a development platform for building mobile and desktop web applications <br> using TypeScript/JavaScript and other languages.</em> <br> </p> <p align=\"center\"> <a href=\"https://angular.dev/\"><strong>angular.dev</strong></a> <br> </p> <p align=\"center\"> <a href=\"CONTRIBUT",
+        "topics": [
+          "angular",
+          "javascript",
+          "pwa",
+          "typescript",
+          "web",
+          "web-framework",
+          "web-performance"
+        ],
+        "updated_at": "2026-08-05T10:09:05Z"
+      },
+      "repo": {
+        "description": "Deliver web apps with confidence \ud83d\ude80",
+        "forks": 27403,
+        "full_name": "angular/angular",
+        "language": "TypeScript",
+        "name": "angular",
+        "owner": "angular",
+        "rank": 14,
+        "stars_today": 13,
+        "total_stars": 100921,
+        "url": "https://github.com/angular/angular"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.77,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 54.94
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 13 stars today; score 54.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-06T19:44:47Z",
+        "default_branch": "main",
+        "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+        "fork": false,
+        "full_name": "firecrawl/pdf-inspector",
+        "homepage": "https://firecrawl.github.io/pdf-inspector/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 75,
+        "primary_language": "Rust",
+        "pushed_at": "2026-08-05T04:16:33Z",
+        "readme_excerpt": "# pdf-inspector [![Crates.io](https://img.shields.io/crates/v/pdf-inspector.svg)](https://crates.io/crates/pdf-inspector) [![npm](https://img.shields.io/npm/v/@firecrawl/pdf-inspector.svg)](https://www.npmjs.com/package/@firecrawl/pdf-inspector) [![PyPI](https://img.shields.io/pypi/v/pdf-inspector.svg)](https://pypi.org/project/pdf-inspector/) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) Fast Rust library for PDF classification and text extraction. Detects whethe",
+        "topics": [
+          "markdown",
+          "nodejs",
+          "ocr-routing",
+          "pdf",
+          "pdf-classification",
+          "pdf-extraction",
+          "pdf-parser",
+          "python",
+          "rust",
+          "text-extraction"
+        ],
+        "updated_at": "2026-08-05T10:08:58Z"
+      },
+      "repo": {
+        "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+        "forks": 698,
+        "full_name": "firecrawl/pdf-inspector",
+        "language": "Rust",
+        "name": "pdf-inspector",
+        "owner": "firecrawl",
+        "rank": 3,
+        "stars_today": 2540,
+        "total_stars": 10724,
+        "url": "https://github.com/firecrawl/pdf-inspector"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.71,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.78,
+        "technical_quality": 11.9,
+        "total": 53.84
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Rust project with 2540 stars today; score 53.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-03-04T00:46:28Z",
+        "default_branch": "develop",
+        "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+        "fork": false,
+        "full_name": "cypress-io/cypress",
+        "homepage": "https://cypress.io",
+        "latest_release": "v15.20.0",
+        "license_spdx": "MIT",
+        "open_issues": 1094,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-05T09:01:43Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://www.cypress.io\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"./assets/cypress-logo-dark.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"./assets/cypress-logo-light.png\"> <img alt=\"Cypress Logo\" src=\"./assets/cypress-logo-light.png\"> </picture> </a> </p> <p align=\"center\"> <a href=\"https://on.cypress.io\">Documentation</a> | <a href=\"https://on.cypress.io/changelog\">Changelog</a> | <a href=\"https://on.cypress.io/roadmap\">Roadmap</a",
+        "topics": [
+          "angular-testing-library",
+          "component-testing",
+          "cypress",
+          "cypress-cloud",
+          "cypress-schematic",
+          "end-to-end-testing",
+          "react-testing-library",
+          "svelte-testing-library",
+          "test-replay",
+          "testing-framework",
+          "testing-library",
+          "testing-tool",
+          "vue-testing-library"
+        ],
+        "updated_at": "2026-08-05T09:59:33Z"
+      },
+      "repo": {
+        "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+        "forks": 3634,
+        "full_name": "cypress-io/cypress",
+        "language": "TypeScript",
+        "name": "cypress",
+        "owner": "cypress-io",
+        "rank": 7,
+        "stars_today": 11,
+        "total_stars": 50897,
+        "url": "https://github.com/cypress-io/cypress"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.77,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 50.74
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 11 stars today; score 50.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-11-01T01:28:53Z",
+        "default_branch": "v1.x",
+        "description": "Fast C++ logging library.",
+        "fork": false,
+        "full_name": "gabime/spdlog",
+        "homepage": null,
+        "latest_release": "v1.17.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 46,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-24T13:24:39Z",
+        "readme_excerpt": "# spdlog [![ci](https://github.com/gabime/spdlog/actions/workflows/linux.yml/badge.svg)](https://github.com/gabime/spdlog/actions/workflows/linux.yml)&nbsp; [![ci](https://github.com/gabime/spdlog/actions/workflows/windows.yml/badge.svg)](https://github.com/gabime/spdlog/actions/workflows/windows.yml)&nbsp; [![ci](https://github.com/gabime/spdlog/actions/workflows/macos.yml/badge.svg)](https://github.com/gabime/spdlog/actions/workflows/macos.yml)&nbsp; [![Build status](https://ci.appveyor.com/ap",
+        "topics": [
+          "cpp",
+          "cpp11",
+          "header-only",
+          "logging",
+          "spdlog"
+        ],
+        "updated_at": "2026-08-05T10:05:09Z"
+      },
+      "repo": {
+        "description": "Fast C++ logging library.",
+        "forks": 5373,
+        "full_name": "gabime/spdlog",
+        "language": "C++",
+        "name": "spdlog",
+        "owner": "gabime",
+        "rank": 10,
+        "stars_today": 10,
+        "total_stars": 29424,
+        "url": "https://github.com/gabime/spdlog"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.34,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.2,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 45.8
+      },
+      "tags": [
+        "DevTools"
+      ],
+      "verdict": "DevTools: C++ project with 10 stars today; score 45.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/lyogavin",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "AirLLM 70B inference with single 4GB GPU",
+        "forks": 3085,
+        "full_name": "sponsors/lyogavin",
+        "language": "Jupyter Notebook",
+        "name": "lyogavin",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 1711,
+        "total_stars": 28723,
+        "url": "https://github.com/sponsors/lyogavin"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 8.25,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 41.2
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Jupyter Notebook project with 1711 stars today; score 41.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 23856,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 653,
+        "total_stars": 266876,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.18,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 34.33
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 653 stars today; score 34.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/usekaneo",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83c\udfaf All you need. Nothing you don't. Open source project management that works for you, not against you.",
+        "forks": 586,
+        "full_name": "sponsors/usekaneo",
+        "language": "TypeScript",
+        "name": "usekaneo",
+        "owner": "sponsors",
+        "rank": 12,
+        "stars_today": 559,
+        "total_stars": 7432,
+        "url": "https://github.com/sponsors/usekaneo"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.86,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 27.81
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 559 stars today; score 27.8/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-08-05",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is uber/ADR."
+}

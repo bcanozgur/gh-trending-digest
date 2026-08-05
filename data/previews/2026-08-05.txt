@@ -1,0 +1,34 @@
+GitHub Trending: AI workflow signal - 2026-08-05
+
+Today leans toward AI workflow signal; the strongest pick is uber/ADR.
+
+Top picks
+1. uber/ADR - 74.7/100
+   https://github.com/uber/ADR
+   AI Workflow, DevTools: Python project with 148 stars today; score 74.7/100.
+2. EveryInc/compound-engineering-plugin - 69.9/100
+   https://github.com/EveryInc/compound-engineering-plugin
+   AI Workflow, DevTools: TypeScript project with 40 stars today; score 69.9/100.
+3. browser-use/video-use - 68.2/100
+   https://github.com/browser-use/video-use
+   AI Workflow, Try Today: Python project with 320 stars today; score 68.2/100.
+4. tailwindlabs/tailwindcss - 62.7/100
+   https://github.com/tailwindlabs/tailwindcss
+   AI Workflow, DevTools: TypeScript project with 52 stars today; score 62.7/100.
+5. webpack/webpack - 59.3/100
+   https://github.com/webpack/webpack
+   AI Workflow, Try Today: JavaScript project with 10 stars today; score 59.3/100.
+
+Full reviewed list
+- uber/ADR: 74.7/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 148 stars today; score 74.7/100.
+- EveryInc/compound-engineering-plugin: 69.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 40 stars today; score 69.9/100.
+- browser-use/video-use: 68.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 320 stars today; score 68.2/100.
+- tailwindlabs/tailwindcss: 62.7/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 52 stars today; score 62.7/100.
+- webpack/webpack: 59.3/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: JavaScript project with 10 stars today; score 59.3/100.
+- denoland/deno: 59.1/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Rust project with 31 stars today; score 59.1/100.
+- angular/angular: 54.9/100 [DevTools, Try Today] DevTools, Try Today: TypeScript project with 13 stars today; score 54.9/100.
+- cypress-io/cypress: 50.7/100 [DevTools, Try Today] DevTools, Try Today: TypeScript project with 11 stars today; score 50.7/100.
+- gabime/spdlog: 45.8/100 [DevTools] DevTools: C++ project with 10 stars today; score 45.8/100.
+- sponsors/obra: 34.3/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Shell project with 653 stars today; score 34.3/100.
+
+Generated for 2026-08-05 from GitHub Trending daily.
