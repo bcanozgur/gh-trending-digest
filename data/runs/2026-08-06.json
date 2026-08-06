@@ -1,0 +1,1069 @@
+{
+  "date": "2026-08-06",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-31T14:58:56Z",
+        "default_branch": "main",
+        "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+        "fork": false,
+        "full_name": "huangruiteng/loopx",
+        "homepage": "https://my.feishu.cn/wiki/CaL5wMk9ui17ngkWzeUcMlAYnZg",
+        "latest_release": "v0.4.1",
+        "license_spdx": "MIT",
+        "open_issues": 24,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-06T09:14:31Z",
+        "readme_excerpt": "<div align=\"center\"> <h1 align=\"center\">LoopX</h1> <img src=\"docs/assets/loopx-social-preview.png\" alt=\"LoopX loop engineering social preview banner\" width=\"560\"> **The local control plane for long-running AI agent work.** <sub>Keep objectives, gates, todos, evidence, quota, and handoffs stable while Codex, Claude Code, Cursor, or your own runtime executes bounded turns.</sub> [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Release](https://img.shields.io/github/v/rel",
+        "topics": [
+          "agent-control-plane",
+          "agent-ops",
+          "ai-agents",
+          "codex",
+          "long-running-agents",
+          "loop-engineering",
+          "loopx",
+          "workflow-automation"
+        ],
+        "updated_at": "2026-08-06T10:10:56Z"
+      },
+      "repo": {
+        "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+        "forks": 183,
+        "full_name": "huangruiteng/loopx",
+        "language": "Python",
+        "name": "loopx",
+        "owner": "huangruiteng",
+        "rank": 2,
+        "stars_today": 326,
+        "total_stars": 2542,
+        "url": "https://github.com/huangruiteng/loopx"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.9,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 75.95
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 326 stars today; score 76.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-15T20:20:26Z",
+        "default_branch": "main",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "fork": false,
+        "full_name": "addyosmani/agent-skills",
+        "homepage": "https://skills.addy.ie",
+        "latest_release": "0.6.6",
+        "license_spdx": "MIT",
+        "open_issues": 148,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-08-05T19:09:28Z",
+        "readme_excerpt": "# Agent Skills **Production-grade engineering skills for AI coding agents.** Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. <a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" wid",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-08-06T10:10:39Z"
+      },
+      "repo": {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "forks": 8843,
+        "full_name": "addyosmani/agent-skills",
+        "language": "JavaScript",
+        "name": "agent-skills",
+        "owner": "addyosmani",
+        "rank": 7,
+        "stars_today": 226,
+        "total_stars": 82260,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.74,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 72.44
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 226 stars today; score 72.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-05T10:38:15Z",
+        "default_branch": "main",
+        "description": "Give your agent a computer \ud83d\udc7e",
+        "fork": false,
+        "full_name": "cloudflare/computer",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 24,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-05T15:40:06Z",
+        "readme_excerpt": "# Cloudflare Computer Cloudflare Computer is a virtual filesystem that lives inside a Durable Object. The Durable Object holds the authoritative state in SQLite and exposes one pluggable execution surface through `workspace.runtime`. Three backends ship today: - **Container** projects the SQLite state into a sandbox container as a real FUSE mount. A sandbox-side daemon (`computerd`) mounts the state as a filesystem and syncs changes back over a capnweb RPC channel. Full Linux userland, real bina",
+        "topics": [],
+        "updated_at": "2026-08-06T10:10:28Z"
+      },
+      "repo": {
+        "description": "Give your agent a computer \ud83d\udc7e",
+        "forks": 202,
+        "full_name": "cloudflare/computer",
+        "language": "TypeScript",
+        "name": "computer",
+        "owner": "cloudflare",
+        "rank": 1,
+        "stars_today": 891,
+        "total_stars": 4196,
+        "url": "https://github.com/cloudflare/computer"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.56,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 64.31
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 891 stars today; score 64.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-11-28T14:08:44Z",
+        "default_branch": "develop",
+        "description": "We write your reusable computer vision tools. \ud83d\udc9c",
+        "fork": false,
+        "full_name": "roboflow/supervision",
+        "homepage": "https://supervision.roboflow.com",
+        "latest_release": "0.30.0",
+        "license_spdx": "MIT",
+        "open_issues": 71,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-05T17:59:46Z",
+        "readme_excerpt": "<div align=\"center\"> <p> <a align=\"center\" href=\"https://supervision.roboflow.com\" target=\"_blank\"> <img width=\"100%\" src=\"https://media.roboflow.com/open-source/supervision/rf-supervision-banner.png?updatedAt=1678995927529\" > </a> </p> <br> [notebooks](https://github.com/roboflow/notebooks) | [inference](https://github.com/roboflow/inference) | [autodistill](https://github.com/autodistill/autodistill) | [maestro](https://github.com/roboflow/multimodal-maestro) <br> [![version](https://badge.fur",
+        "topics": [
+          "classification",
+          "coco",
+          "computer-vision",
+          "deep-learning",
+          "hacktoberfest",
+          "image-processing",
+          "instance-segmentation",
+          "low-code",
+          "machine-learning",
+          "metrics",
+          "object-detection",
+          "oriented-bounding-box",
+          "pascal-voc",
+          "python",
+          "pytorch",
+          "tensorflow",
+          "tracking",
+          "video-processing",
+          "yolo"
+        ],
+        "updated_at": "2026-08-06T10:09:39Z"
+      },
+      "repo": {
+        "description": "We write your reusable computer vision tools. \ud83d\udc9c",
+        "forks": 4624,
+        "full_name": "roboflow/supervision",
+        "language": "Python",
+        "name": "supervision",
+        "owner": "roboflow",
+        "rank": 9,
+        "stars_today": 146,
+        "total_stars": 49102,
+        "url": "https://github.com/roboflow/supervision"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.1,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.9
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 146 stars today; score 59.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-10-05T23:32:51Z",
+        "default_branch": "canary",
+        "description": "The React Framework",
+        "fork": false,
+        "full_name": "vercel/next.js",
+        "homepage": "https://nextjs.org",
+        "latest_release": "v16.3.0",
+        "license_spdx": "MIT",
+        "open_issues": 4363,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-08-06T09:53:12Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://nextjs.org\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png\"> <img alt=\"Next.js logo\" src=\"https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png\" height=\"128\"> </picture> </a> <h1>Next.js</h1> <a href=\"https://vercel.com\"><img alt=\"Vercel logo\" src=\"https://img.shields.io/badge/MADE%20BY%20Vercel-000000.svg?style=for-the-badge&logo",
+        "topics": [
+          "blog",
+          "browser",
+          "compiler",
+          "components",
+          "hybrid",
+          "nextjs",
+          "node",
+          "react",
+          "server-rendering",
+          "ssg",
+          "static",
+          "static-site-generator",
+          "universal",
+          "vercel"
+        ],
+        "updated_at": "2026-08-06T10:04:59Z"
+      },
+      "repo": {
+        "description": "The React Framework",
+        "forks": 31682,
+        "full_name": "vercel/next.js",
+        "language": "JavaScript",
+        "name": "next.js",
+        "owner": "vercel",
+        "rank": 10,
+        "stars_today": 68,
+        "total_stars": 141635,
+        "url": "https://github.com/vercel/next.js"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.61,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 46.47
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: JavaScript project with 68 stars today; score 46.5/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-21T08:27:02Z",
+        "default_branch": "main-v2",
+        "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+        "fork": false,
+        "full_name": "esengine/DeepSeek-Reasonix",
+        "homepage": "http://reasonix.io/",
+        "latest_release": "desktop-v1.20.0",
+        "license_spdx": "MIT",
+        "open_issues": 872,
+        "primary_language": "Go",
+        "pushed_at": "2026-08-06T10:00:31Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"docs/logo.svg\" alt=\"Reasonix\" width=\"640\"/> </p> <p align=\"center\"> <strong>English</strong> &nbsp;\u00b7&nbsp; <a href=\"./README.zh-CN.md\">\u7b80\u4f53\u4e2d\u6587</a> &nbsp;\u00b7&nbsp; <a href=\"./docs/GUIDE.md\">Guide</a> &nbsp;\u00b7&nbsp; <a href=\"./docs/ACP.md\">ACP</a> &nbsp;\u00b7&nbsp; <a href=\"./docs/EXTENSIONS.md\">Extensions</a> &nbsp;\u00b7&nbsp; <a href=\"./docs/SPEC.md\">Spec</a> &nbsp;\u00b7&nbsp; <a href=\"https://esengine.github.io/DeepSeek-Reasonix/\">Website</a> &nbsp;\u00b7&nbsp; <strong><a href=\"https://di",
+        "topics": [
+          "agent",
+          "agent-framework",
+          "ai-agent",
+          "ai-coding",
+          "cli",
+          "coding-agent",
+          "deepseek",
+          "developer-tools",
+          "ink",
+          "llm",
+          "prompt-caching",
+          "r1",
+          "terminal",
+          "tool-use",
+          "tui",
+          "typescript"
+        ],
+        "updated_at": "2026-08-06T10:08:05Z"
+      },
+      "repo": {
+        "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+        "forks": 2066,
+        "full_name": "esengine/DeepSeek-Reasonix",
+        "language": "Go",
+        "name": "DeepSeek-Reasonix",
+        "owner": "esengine",
+        "rank": 6,
+        "stars_today": 747,
+        "total_stars": 32018,
+        "url": "https://github.com/esengine/DeepSeek-Reasonix"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.2,
+        "novelty": 2.8,
+        "practical_usefulness": 19.4,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 78.11
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 747 stars today; score 78.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-31T14:58:56Z",
+        "default_branch": "main",
+        "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+        "fork": false,
+        "full_name": "huangruiteng/loopx",
+        "homepage": "https://my.feishu.cn/wiki/CaL5wMk9ui17ngkWzeUcMlAYnZg",
+        "latest_release": "v0.4.1",
+        "license_spdx": "MIT",
+        "open_issues": 24,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-06T09:14:31Z",
+        "readme_excerpt": "<div align=\"center\"> <h1 align=\"center\">LoopX</h1> <img src=\"docs/assets/loopx-social-preview.png\" alt=\"LoopX loop engineering social preview banner\" width=\"560\"> **The local control plane for long-running AI agent work.** <sub>Keep objectives, gates, todos, evidence, quota, and handoffs stable while Codex, Claude Code, Cursor, or your own runtime executes bounded turns.</sub> [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Release](https://img.shields.io/github/v/rel",
+        "topics": [
+          "agent-control-plane",
+          "agent-ops",
+          "ai-agents",
+          "codex",
+          "long-running-agents",
+          "loop-engineering",
+          "loopx",
+          "workflow-automation"
+        ],
+        "updated_at": "2026-08-06T10:10:56Z"
+      },
+      "repo": {
+        "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+        "forks": 183,
+        "full_name": "huangruiteng/loopx",
+        "language": "Python",
+        "name": "loopx",
+        "owner": "huangruiteng",
+        "rank": 2,
+        "stars_today": 326,
+        "total_stars": 2542,
+        "url": "https://github.com/huangruiteng/loopx"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.9,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 75.95
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 326 stars today; score 76.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-07T06:34:26Z",
+        "default_branch": "feat/server_team",
+        "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents \u2014 turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+        "fork": false,
+        "full_name": "TencentCloud/TencentDB-Agent-Memory",
+        "homepage": null,
+        "latest_release": "v2.0.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 520,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-05T08:04:09Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"./assets/images/logo.png\" alt=\"TencentDB Agent Memory\" width=\"880\" /> ### Agents remember. Humans innovate. <a href=\"https://trendshift.io/repositories/29310?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-29310\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/29310\" alt=\"TencentCloud%2FTencentDB-Agent-Memory | Trendshift\" width=\"250\" height=\"55\"/></a> [![npm](https://img.shields.io",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "embedding",
+          "llm",
+          "local-first",
+          "long-term-memory",
+          "memory",
+          "openclaw-plugin",
+          "vector-search"
+        ],
+        "updated_at": "2026-08-06T10:10:45Z"
+      },
+      "repo": {
+        "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents \u2014 turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+        "forks": 1405,
+        "full_name": "TencentCloud/TencentDB-Agent-Memory",
+        "language": "TypeScript",
+        "name": "TencentDB-Agent-Memory",
+        "owner": "TencentCloud",
+        "rank": 3,
+        "stars_today": 1892,
+        "total_stars": 15579,
+        "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.71,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 4.2,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 74.06
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1892 stars today; score 74.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-15T20:20:26Z",
+        "default_branch": "main",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "fork": false,
+        "full_name": "addyosmani/agent-skills",
+        "homepage": "https://skills.addy.ie",
+        "latest_release": "0.6.6",
+        "license_spdx": "MIT",
+        "open_issues": 148,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-08-05T19:09:28Z",
+        "readme_excerpt": "# Agent Skills **Production-grade engineering skills for AI coding agents.** Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. <a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" wid",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-08-06T10:10:39Z"
+      },
+      "repo": {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "forks": 8843,
+        "full_name": "addyosmani/agent-skills",
+        "language": "JavaScript",
+        "name": "agent-skills",
+        "owner": "addyosmani",
+        "rank": 7,
+        "stars_today": 226,
+        "total_stars": 82260,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.74,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 72.44
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 226 stars today; score 72.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-19T18:01:42Z",
+        "default_branch": "main",
+        "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+        "fork": false,
+        "full_name": "uber/ADR",
+        "homepage": "https://arxiv.org/abs/2605.17380",
+        "latest_release": "sensor-v1.0.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 9,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-06T05:25:15Z",
+        "readme_excerpt": "# ADR: Agentic AI Detection and Response ADR (Agentic AI Detection and Response) is an enterprise security system for AI agents. It helps organizations secure employee-facing agents such as Cursor, Claude Code, and Codex, as well as customer-facing agents such as AI support agents. ADR is **deployed in production at Uber**, and the accompanying paper was accepted to **MLSys 2026**: [Paper PDF](docs/adr-paper.pdf) \u00b7 [Slides PDF](docs/adr-mlsys-2026-slides.pdf) ## How ADR secures enterprise AI age",
+        "topics": [
+          "agent-security",
+          "ai-agents",
+          "ai-security",
+          "benchmark",
+          "claude",
+          "claude-code",
+          "codex",
+          "cursor",
+          "llm-security",
+          "mcp",
+          "model-context-protocol",
+          "prompt-injection",
+          "threat-detection"
+        ],
+        "updated_at": "2026-08-06T10:11:03Z"
+      },
+      "repo": {
+        "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+        "forks": 92,
+        "full_name": "uber/ADR",
+        "language": "Python",
+        "name": "ADR",
+        "owner": "uber",
+        "rank": 12,
+        "stars_today": 354,
+        "total_stars": 1173,
+        "url": "https://github.com/uber/ADR"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.59,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 69.44
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 354 stars today; score 69.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-05T10:38:15Z",
+        "default_branch": "main",
+        "description": "Give your agent a computer \ud83d\udc7e",
+        "fork": false,
+        "full_name": "cloudflare/computer",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 24,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-05T15:40:06Z",
+        "readme_excerpt": "# Cloudflare Computer Cloudflare Computer is a virtual filesystem that lives inside a Durable Object. The Durable Object holds the authoritative state in SQLite and exposes one pluggable execution surface through `workspace.runtime`. Three backends ship today: - **Container** projects the SQLite state into a sandbox container as a real FUSE mount. A sandbox-side daemon (`computerd`) mounts the state as a filesystem and syncs changes back over a capnweb RPC channel. Full Linux userland, real bina",
+        "topics": [],
+        "updated_at": "2026-08-06T10:10:28Z"
+      },
+      "repo": {
+        "description": "Give your agent a computer \ud83d\udc7e",
+        "forks": 202,
+        "full_name": "cloudflare/computer",
+        "language": "TypeScript",
+        "name": "computer",
+        "owner": "cloudflare",
+        "rank": 1,
+        "stars_today": 891,
+        "total_stars": 4196,
+        "url": "https://github.com/cloudflare/computer"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.56,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 64.31
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 891 stars today; score 64.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-11-28T14:08:44Z",
+        "default_branch": "develop",
+        "description": "We write your reusable computer vision tools. \ud83d\udc9c",
+        "fork": false,
+        "full_name": "roboflow/supervision",
+        "homepage": "https://supervision.roboflow.com",
+        "latest_release": "0.30.0",
+        "license_spdx": "MIT",
+        "open_issues": 71,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-05T17:59:46Z",
+        "readme_excerpt": "<div align=\"center\"> <p> <a align=\"center\" href=\"https://supervision.roboflow.com\" target=\"_blank\"> <img width=\"100%\" src=\"https://media.roboflow.com/open-source/supervision/rf-supervision-banner.png?updatedAt=1678995927529\" > </a> </p> <br> [notebooks](https://github.com/roboflow/notebooks) | [inference](https://github.com/roboflow/inference) | [autodistill](https://github.com/autodistill/autodistill) | [maestro](https://github.com/roboflow/multimodal-maestro) <br> [![version](https://badge.fur",
+        "topics": [
+          "classification",
+          "coco",
+          "computer-vision",
+          "deep-learning",
+          "hacktoberfest",
+          "image-processing",
+          "instance-segmentation",
+          "low-code",
+          "machine-learning",
+          "metrics",
+          "object-detection",
+          "oriented-bounding-box",
+          "pascal-voc",
+          "python",
+          "pytorch",
+          "tensorflow",
+          "tracking",
+          "video-processing",
+          "yolo"
+        ],
+        "updated_at": "2026-08-06T10:09:39Z"
+      },
+      "repo": {
+        "description": "We write your reusable computer vision tools. \ud83d\udc9c",
+        "forks": 4624,
+        "full_name": "roboflow/supervision",
+        "language": "Python",
+        "name": "supervision",
+        "owner": "roboflow",
+        "rank": 9,
+        "stars_today": 146,
+        "total_stars": 49102,
+        "url": "https://github.com/roboflow/supervision"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.1,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.9
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 146 stars today; score 59.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2017-10-06T14:59:14Z",
+        "default_branch": "main",
+        "description": "A utility-first CSS framework for rapid UI development.",
+        "fork": false,
+        "full_name": "tailwindlabs/tailwindcss",
+        "homepage": "https://tailwindcss.com/",
+        "latest_release": "v4.3.3",
+        "license_spdx": "MIT",
+        "open_issues": 55,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-05T10:39:28Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://tailwindcss.com\" target=\"_blank\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg\"> <img alt=\"Tailwind CSS\" src=\"https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg\" width=\"350\" height=",
+        "topics": [
+          "css",
+          "css-framework",
+          "functional-css",
+          "postcss",
+          "responsive",
+          "tailwindcss",
+          "utility-classes"
+        ],
+        "updated_at": "2026-08-06T10:11:06Z"
+      },
+      "repo": {
+        "description": "A utility-first CSS framework for rapid UI development.",
+        "forks": 5555,
+        "full_name": "tailwindlabs/tailwindcss",
+        "language": "TypeScript",
+        "name": "tailwindcss",
+        "owner": "tailwindlabs",
+        "rank": 11,
+        "stars_today": 408,
+        "total_stars": 97012,
+        "url": "https://github.com/tailwindlabs/tailwindcss"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.97,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 59.68
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 408 stars today; score 59.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-06T19:44:47Z",
+        "default_branch": "main",
+        "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+        "fork": false,
+        "full_name": "firecrawl/pdf-inspector",
+        "homepage": "https://firecrawl.github.io/pdf-inspector/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 80,
+        "primary_language": "Rust",
+        "pushed_at": "2026-08-05T23:43:11Z",
+        "readme_excerpt": "# pdf-inspector [![Crates.io](https://img.shields.io/crates/v/pdf-inspector.svg)](https://crates.io/crates/pdf-inspector) [![npm](https://img.shields.io/npm/v/@firecrawl/pdf-inspector.svg)](https://www.npmjs.com/package/@firecrawl/pdf-inspector) [![PyPI](https://img.shields.io/pypi/v/pdf-inspector.svg)](https://pypi.org/project/pdf-inspector/) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) Fast Rust library for PDF classification and text extraction. Detects whethe",
+        "topics": [
+          "markdown",
+          "nodejs",
+          "ocr-routing",
+          "pdf",
+          "pdf-classification",
+          "pdf-extraction",
+          "pdf-parser",
+          "python",
+          "rust",
+          "text-extraction"
+        ],
+        "updated_at": "2026-08-06T10:10:42Z"
+      },
+      "repo": {
+        "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+        "forks": 801,
+        "full_name": "firecrawl/pdf-inspector",
+        "language": "Rust",
+        "name": "pdf-inspector",
+        "owner": "firecrawl",
+        "rank": 5,
+        "stars_today": 1582,
+        "total_stars": 11918,
+        "url": "https://github.com/firecrawl/pdf-inspector"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 10.05,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.1,
+        "technical_quality": 11.9,
+        "total": 51.5
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Rust project with 1582 stars today; score 51.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-10-05T23:32:51Z",
+        "default_branch": "canary",
+        "description": "The React Framework",
+        "fork": false,
+        "full_name": "vercel/next.js",
+        "homepage": "https://nextjs.org",
+        "latest_release": "v16.3.0",
+        "license_spdx": "MIT",
+        "open_issues": 4363,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-08-06T09:53:12Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://nextjs.org\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png\"> <img alt=\"Next.js logo\" src=\"https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png\" height=\"128\"> </picture> </a> <h1>Next.js</h1> <a href=\"https://vercel.com\"><img alt=\"Vercel logo\" src=\"https://img.shields.io/badge/MADE%20BY%20Vercel-000000.svg?style=for-the-badge&logo",
+        "topics": [
+          "blog",
+          "browser",
+          "compiler",
+          "components",
+          "hybrid",
+          "nextjs",
+          "node",
+          "react",
+          "server-rendering",
+          "ssg",
+          "static",
+          "static-site-generator",
+          "universal",
+          "vercel"
+        ],
+        "updated_at": "2026-08-06T10:04:59Z"
+      },
+      "repo": {
+        "description": "The React Framework",
+        "forks": 31682,
+        "full_name": "vercel/next.js",
+        "language": "JavaScript",
+        "name": "next.js",
+        "owner": "vercel",
+        "rank": 10,
+        "stars_today": 68,
+        "total_stars": 141635,
+        "url": "https://github.com/vercel/next.js"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.61,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 46.47
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: JavaScript project with 68 stars today; score 46.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/lyogavin",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "AirLLM 70B inference with single 4GB GPU",
+        "forks": 3142,
+        "full_name": "sponsors/lyogavin",
+        "language": "Jupyter Notebook",
+        "name": "lyogavin",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 833,
+        "total_stars": 29380,
+        "url": "https://github.com/sponsors/lyogavin"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.57,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 38.52
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Jupyter Notebook project with 833 stars today; score 38.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2017-02-26T16:15:28Z",
+        "default_branch": "master",
+        "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+        "fork": false,
+        "full_name": "donnemartin/system-design-primer",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "NOASSERTION",
+        "open_issues": 591,
+        "primary_language": "Python",
+        "pushed_at": "2026-03-20T01:52:19Z",
+        "readme_excerpt": "*[English](README.md) \u2219 [\u65e5\u672c\u8a9e](README-ja.md) \u2219 [\u7b80\u4f53\u4e2d\u6587](README-zh-Hans.md) \u2219 [\u7e41\u9ad4\u4e2d\u6587](README-zh-TW.md) | [\u0627\u0644\u0639\u064e\u0631\u064e\u0628\u0650\u064a\u064e\u0651\u0629\u200e](https://github.com/donnemartin/system-design-primer/issues/170) \u2219 [\u09ac\u09be\u0982\u09b2\u09be](https://github.com/donnemartin/system-design-primer/issues/220) \u2219 [Portugu\u00eas do Brasil](https://github.com/donnemartin/system-design-primer/issues/40) \u2219 [Deutsch](https://github.com/donnemartin/system-design-primer/issues/186) \u2219 [\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac](https://github.com/donnemartin/system-design-primer/issues/130) \u2219 [\u05e2\u05d1\u05e8",
+        "topics": [
+          "design",
+          "design-patterns",
+          "design-system",
+          "development",
+          "interview",
+          "interview-practice",
+          "interview-questions",
+          "programming",
+          "python",
+          "system",
+          "web",
+          "web-application",
+          "webapp"
+        ],
+        "updated_at": "2026-08-06T10:07:20Z"
+      },
+      "repo": {
+        "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "forks": 57671,
+        "full_name": "donnemartin/system-design-primer",
+        "language": "Python",
+        "name": "system-design-primer",
+        "owner": "donnemartin",
+        "rank": 4,
+        "stars_today": 303,
+        "total_stars": 361855,
+        "url": "https://github.com/donnemartin/system-design-primer"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.51,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 1.84,
+        "technical_quality": 9.1,
+        "total": 38.1
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: Python project with 303 stars today; score 38.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 23917,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 931,
+        "total_stars": 267679,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.73,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 35.88
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 931 stars today; score 35.9/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-08-06",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is huangruiteng/loopx."
+}

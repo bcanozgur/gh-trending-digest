@@ -1,0 +1,29 @@
+GitHub Trending: AI workflow signal - 2026-08-06
+
+Today leans toward AI workflow signal; the strongest pick is huangruiteng/loopx.
+
+Top picks
+1. huangruiteng/loopx - 76.0/100
+   https://github.com/huangruiteng/loopx
+   AI Workflow, DevTools: Python project with 326 stars today; score 76.0/100.
+2. addyosmani/agent-skills - 72.4/100
+   https://github.com/addyosmani/agent-skills
+   AI Workflow, DevTools: JavaScript project with 226 stars today; score 72.4/100.
+3. cloudflare/computer - 64.3/100
+   https://github.com/cloudflare/computer
+   AI Workflow, Try Today: TypeScript project with 891 stars today; score 64.3/100.
+4. roboflow/supervision - 59.9/100
+   https://github.com/roboflow/supervision
+   AI Workflow, Try Today: Python project with 146 stars today; score 59.9/100.
+5. vercel/next.js - 46.5/100
+   https://github.com/vercel/next.js
+   DevTools, Try Today: JavaScript project with 68 stars today; score 46.5/100.
+
+Full reviewed list
+- huangruiteng/loopx: 76.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 326 stars today; score 76.0/100.
+- addyosmani/agent-skills: 72.4/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: JavaScript project with 226 stars today; score 72.4/100.
+- cloudflare/computer: 64.3/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 891 stars today; score 64.3/100.
+- roboflow/supervision: 59.9/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 146 stars today; score 59.9/100.
+- vercel/next.js: 46.5/100 [DevTools, Try Today] DevTools, Try Today: JavaScript project with 68 stars today; score 46.5/100.
+
+Generated for 2026-08-06 from GitHub Trending daily.
