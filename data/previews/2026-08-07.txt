@@ -1,0 +1,32 @@
+GitHub Trending: AI workflow signal - 2026-08-07
+
+Today leans toward AI workflow signal; the strongest pick is Significant-Gravitas/AutoGPT.
+
+Top picks
+1. Significant-Gravitas/AutoGPT - 69.1/100
+   https://github.com/Significant-Gravitas/AutoGPT
+   AI Workflow, DevTools: Python project with 37 stars today; score 69.1/100.
+2. google/guava - 51.8/100
+   https://github.com/google/guava
+   DevTools, Try Today: Java project with 13 stars today; score 51.8/100.
+3. sponsors/mattpocock - 41.7/100
+   https://github.com/sponsors/mattpocock
+   AI Workflow, Watch: Shell project with 1873 stars today; score 41.7/100.
+   Caution: Weak onboarding evidence.
+4. TapXWorld/ChinaTextbook - 41.2/100
+   https://github.com/TapXWorld/ChinaTextbook
+   Watch: Roff project with 134 stars today; score 41.2/100.
+5. sponsors/tirth8205 - 37.0/100
+   https://github.com/sponsors/tirth8205
+   AI Workflow, DevTools: Python project with 237 stars today; score 37.0/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- Significant-Gravitas/AutoGPT: 69.1/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 37 stars today; score 69.1/100.
+- google/guava: 51.8/100 [DevTools, Try Today] DevTools, Try Today: Java project with 13 stars today; score 51.8/100.
+- sponsors/mattpocock: 41.7/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Shell project with 1873 stars today; score 41.7/100.
+- TapXWorld/ChinaTextbook: 41.2/100 [Watch] Watch: Roff project with 134 stars today; score 41.2/100.
+- sponsors/tirth8205: 37.0/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Python project with 237 stars today; score 37.0/100.
+- sponsors/goauthentik: 23.2/100 [Watch, Hype Risk] Watch, Hype Risk: Python project with 138 stars today; score 23.2/100.
+
+Generated for 2026-08-07 from GitHub Trending daily.
