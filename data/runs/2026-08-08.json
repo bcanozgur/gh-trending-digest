@@ -1,0 +1,1409 @@
+{
+  "date": "2026-08-08",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-08T01:42:41Z",
+        "default_branch": "main",
+        "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+        "fork": false,
+        "full_name": "PrimeIntellect-ai/prime-agent",
+        "homepage": null,
+        "latest_release": "v0.7.1",
+        "license_spdx": "MIT",
+        "open_issues": 268,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-08T04:54:12Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://primeintellect.ai\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/40c36e38-c5bd-4c5a-9cb3-f7b902cd155d\"> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/6414bc9b-126b-41ca-9307-9e982430cde8\"> <img alt=\"Prime Intellect\" src=\"https://github.com/user-attachments/assets/6414bc9b-126b-41ca-9307-9e982430cde8\" width=\"312\" style=\"max-width: 100%;\"> </picture> <",
+        "topics": [],
+        "updated_at": "2026-08-08T08:05:13Z"
+      },
+      "repo": {
+        "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+        "forks": 591,
+        "full_name": "PrimeIntellect-ai/prime-agent",
+        "language": "TypeScript",
+        "name": "prime-agent",
+        "owner": "PrimeIntellect-ai",
+        "rank": 1,
+        "stars_today": 2293,
+        "total_stars": 7175,
+        "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.9,
+        "technical_quality": 14.0,
+        "total": 72.88
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 2293 stars today; score 72.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-31T19:02:20Z",
+        "default_branch": "main",
+        "description": "Agent Skills for Google products and technologies",
+        "fork": false,
+        "full_name": "google/skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 32,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-07T22:50:54Z",
+        "readme_excerpt": "# Agent Skills [![Install via skills.sh](https://img.shields.io/badge/skills.sh-install-green)](https://skills.sh/google/skills) This repository contains [Agent Skills](https://agentskills.io/home) for Google products and technologies, including [Google Cloud](https://cloud.google.com). > [!NOTE] > This repository is under active development. ## Installation ```bash npx skills add google/skills ``` From the `npx install` command, you can select the specific skills from this repo to install. ## A",
+        "topics": [
+          "google",
+          "googlecloud",
+          "skills"
+        ],
+        "updated_at": "2026-08-08T08:04:55Z"
+      },
+      "repo": {
+        "description": "Agent Skills for Google products and technologies",
+        "forks": 1297,
+        "full_name": "google/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "google",
+        "rank": 17,
+        "stars_today": 327,
+        "total_stars": 16394,
+        "url": "https://github.com/google/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.49,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 66.53
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 327 stars today; score 66.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-11-26T04:23:02Z",
+        "default_branch": "main",
+        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. \u7b80\u6d01\u901a\u7528\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce\uff0c\u9884\u6d4b\u4e07\u7269",
+        "fork": false,
+        "full_name": "666ghj/MiroFish",
+        "homepage": "https://mirofish.ai",
+        "latest_release": "v0.1.2",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 113,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-03T10:19:15Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"./static/image/MiroFish_logo_compressed.jpeg\" alt=\"MiroFish Logo\" width=\"75%\"/> <a href=\"https://trendshift.io/repositories/16144\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/16144\" alt=\"666ghj%2FMiroFish | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> \u7b80\u6d01\u901a\u7528\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce\uff0c\u9884\u6d4b\u4e07\u7269 </br> <em>A Simple and Universal Swarm Intelligence Engine, Predicting Anything</em> <a href=\"https://www.shanda.com/\" target=\"_blank\"><img ",
+        "topics": [
+          "agent-memory",
+          "financial-forecasting",
+          "future-prediction",
+          "knowledge-graph",
+          "llms",
+          "multi-agent-simulation",
+          "public-opinion-analysis",
+          "python3",
+          "social-prediction",
+          "swarm-intelligence"
+        ],
+        "updated_at": "2026-08-08T08:02:03Z"
+      },
+      "repo": {
+        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. \u7b80\u6d01\u901a\u7528\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce\uff0c\u9884\u6d4b\u4e07\u7269",
+        "forks": 10999,
+        "full_name": "666ghj/MiroFish",
+        "language": "Python",
+        "name": "MiroFish",
+        "owner": "666ghj",
+        "rank": 8,
+        "stars_today": 141,
+        "total_stars": 70651,
+        "url": "https://github.com/666ghj/MiroFish"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.11,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 64.41
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 141 stars today; score 64.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-17T15:18:26Z",
+        "default_branch": "main",
+        "description": "A simple tool for coordinating several AI agents.",
+        "fork": false,
+        "full_name": "unclebob/swarm-forge",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 18,
+        "primary_language": "Clojure",
+        "pushed_at": "2026-08-07T20:22:31Z",
+        "readme_excerpt": "<p align=\"center\" style=\"color: red; font-weight: bold; font-size: 2em; font-style: italic; text-decoration: underline;\"> Do not spend any money on a bankrbot SWARM token. </p> # SwarmForge **A disciplined tmux-based agent orchestration platform that turns swarms of AI agents into reliable, professional software engineers.** ## Intent This `main` branch is documentary: it explains the system and carries the shared operational scripts and default constitution articles. The runnable workflow branc",
+        "topics": [],
+        "updated_at": "2026-08-08T07:53:12Z"
+      },
+      "repo": {
+        "description": "A simple tool for coordinating several AI agents.",
+        "forks": 203,
+        "full_name": "unclebob/swarm-forge",
+        "language": "Clojure",
+        "name": "swarm-forge",
+        "owner": "unclebob",
+        "rank": 13,
+        "stars_today": 81,
+        "total_stars": 1901,
+        "url": "https://github.com/unclebob/swarm-forge"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.17,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 60.97
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Clojure project with 81 stars today; score 61.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-04-25T12:27:48Z",
+        "default_branch": "main",
+        "description": "self-hosted, distributed Durable Objects",
+        "fork": false,
+        "full_name": "denoland/celld",
+        "homepage": "https://celld.dev",
+        "latest_release": "v0.1.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 13,
+        "primary_language": "Rust",
+        "pushed_at": "2026-08-05T13:43:16Z",
+        "readme_excerpt": "# celld Self-hosted, distributed **Durable Objects**. celld is an open-source daemon that runs Cloudflare Workers and Durable Objects on your own machines. Each object is its own SQLite database, addressed by name and replicated to an S3-compatible bucket you own; nodes coordinate through that bucket alone, with no control plane or consensus. Because every object is its own small database, applications shard by construction \u2014 the contention and blast-radius failures of one shared database are de",
+        "topics": [],
+        "updated_at": "2026-08-08T08:05:48Z"
+      },
+      "repo": {
+        "description": "self-hosted, distributed Durable Objects",
+        "forks": 65,
+        "full_name": "denoland/celld",
+        "language": "Rust",
+        "name": "celld",
+        "owner": "denoland",
+        "rank": 14,
+        "stars_today": 516,
+        "total_stars": 2318,
+        "url": "https://github.com/denoland/celld"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.62,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 60.42
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 516 stars today; score 60.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-10T09:00:02Z",
+        "default_branch": "main",
+        "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+        "fork": false,
+        "full_name": "chenyme/grok2api",
+        "homepage": null,
+        "latest_release": "v3.1.1",
+        "license_spdx": "MIT",
+        "open_issues": 16,
+        "primary_language": "Go",
+        "pushed_at": "2026-08-07T09:42:51Z",
+        "readme_excerpt": "<p align=\"center\"> <img alt=\"Grok2API\" src=\"./frontend/public/grok2api.png\" width=\"720\" /> </p> <p align=\"center\"> <strong>A multi-account API gateway for Grok Build, Grok Web, and Grok Console</strong> </p> <p align=\"center\"> English | <a href=\"./README.zh-CN.md\">\u7b80\u4f53\u4e2d\u6587</a> </p> <p align=\"center\"> <a href=\"./backend/go.mod\"><img alt=\"Go\" src=\"https://img.shields.io/badge/Go-1.26-00ADD8?logo=go&logoColor=white\" /></a> <a href=\"./frontend/package.json\"><img alt=\"React\" src=\"https://img.shields.io/b",
+        "topics": [
+          "grok",
+          "grok-build",
+          "grok-console",
+          "grok-imagine",
+          "grok-video",
+          "grok-web"
+        ],
+        "updated_at": "2026-08-08T07:53:23Z"
+      },
+      "repo": {
+        "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+        "forks": 2171,
+        "full_name": "chenyme/grok2api",
+        "language": "Go",
+        "name": "grok2api",
+        "owner": "chenyme",
+        "rank": 9,
+        "stars_today": 55,
+        "total_stars": 7172,
+        "url": "https://github.com/chenyme/grok2api"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.65,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 45.46
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Go project with 55 stars today; score 45.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-12T14:33:21Z",
+        "default_branch": "main",
+        "description": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more. ",
+        "fork": false,
+        "full_name": "K2SOsint/Legendary_OSINT",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "CC0-1.0",
+        "open_issues": 8,
+        "primary_language": null,
+        "pushed_at": "2026-04-17T07:38:50Z",
+        "readme_excerpt": "# \ud83d\udef0 Legendary OSINT A curated list of **OSINT** tools & resources. The sources where I got this from include newsletters, Telegram groups, curated startpages, GitHub repos, and other public collections. \u26a0\ufe0f Most tools are **third-party**, always vet and use responsibly. \u2b50 If you use this repository, don't forget to star it and incluse me as a source. --- ## \ud83d\udcd6 Table of Contents - [\ud83d\udc64 People Search & Social Media](./docs/people-social.md) - [\u2708\ufe0f Aviation Movements & Flight Tracking](./docs/aviation.m",
+        "topics": [
+          "cti",
+          "cyberthreatintelligence",
+          "osint",
+          "osint-tools-list",
+          "socmint"
+        ],
+        "updated_at": "2026-08-08T08:03:57Z"
+      },
+      "repo": {
+        "description": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+        "forks": 200,
+        "full_name": "K2SOsint/Legendary_OSINT",
+        "language": null,
+        "name": "Legendary_OSINT",
+        "owner": "K2SOsint",
+        "rank": 15,
+        "stars_today": 109,
+        "total_stars": 1569,
+        "url": "https://github.com/K2SOsint/Legendary_OSINT"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.98,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 0.81,
+        "technical_quality": 11.9,
+        "total": 44.29
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Unknown project with 109 stars today; score 44.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/pranshuparmar",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+        "forks": 648,
+        "full_name": "sponsors/pranshuparmar",
+        "language": "Go",
+        "name": "pranshuparmar",
+        "owner": "sponsors",
+        "rank": 16,
+        "stars_today": 234,
+        "total_stars": 19931,
+        "url": "https://github.com/sponsors/pranshuparmar"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.3,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 36.65
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 234 stars today; score 36.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/semantica-agi",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+        "forks": 313,
+        "full_name": "sponsors/semantica-agi",
+        "language": "Python",
+        "name": "semantica-agi",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 122,
+        "total_stars": 2433,
+        "url": "https://github.com/sponsors/semantica-agi"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.18,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 32.33
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 122 stars today; score 32.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/jdx",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "dev tools, env vars, task runner",
+        "forks": 1337,
+        "full_name": "sponsors/jdx",
+        "language": "Rust",
+        "name": "jdx",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 135,
+        "total_stars": 32120,
+        "url": "https://github.com/sponsors/jdx"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.8,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.14,
+        "technical_quality": 3.5,
+        "total": 22.34
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Rust project with 135 stars today; score 22.3/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-15T20:20:26Z",
+        "default_branch": "main",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "fork": false,
+        "full_name": "addyosmani/agent-skills",
+        "homepage": "https://skills.addy.ie",
+        "latest_release": "0.6.6",
+        "license_spdx": "MIT",
+        "open_issues": 104,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-08-06T22:45:51Z",
+        "readme_excerpt": "# Agent Skills **Production-grade engineering skills for AI coding agents.** Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. <a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" wid",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-08-08T08:07:13Z"
+      },
+      "repo": {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "forks": 8980,
+        "full_name": "addyosmani/agent-skills",
+        "language": "JavaScript",
+        "name": "agent-skills",
+        "owner": "addyosmani",
+        "rank": 2,
+        "stars_today": 1131,
+        "total_stars": 84096,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.6,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 76.3
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 1131 stars today; score 76.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-08T01:42:41Z",
+        "default_branch": "main",
+        "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+        "fork": false,
+        "full_name": "PrimeIntellect-ai/prime-agent",
+        "homepage": null,
+        "latest_release": "v0.7.1",
+        "license_spdx": "MIT",
+        "open_issues": 268,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-08T04:54:12Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://primeintellect.ai\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/40c36e38-c5bd-4c5a-9cb3-f7b902cd155d\"> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/6414bc9b-126b-41ca-9307-9e982430cde8\"> <img alt=\"Prime Intellect\" src=\"https://github.com/user-attachments/assets/6414bc9b-126b-41ca-9307-9e982430cde8\" width=\"312\" style=\"max-width: 100%;\"> </picture> <",
+        "topics": [],
+        "updated_at": "2026-08-08T08:05:13Z"
+      },
+      "repo": {
+        "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+        "forks": 591,
+        "full_name": "PrimeIntellect-ai/prime-agent",
+        "language": "TypeScript",
+        "name": "prime-agent",
+        "owner": "PrimeIntellect-ai",
+        "rank": 1,
+        "stars_today": 2293,
+        "total_stars": 7175,
+        "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.9,
+        "technical_quality": 14.0,
+        "total": 72.88
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 2293 stars today; score 72.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-31T19:02:20Z",
+        "default_branch": "main",
+        "description": "Agent Skills for Google products and technologies",
+        "fork": false,
+        "full_name": "google/skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 32,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-07T22:50:54Z",
+        "readme_excerpt": "# Agent Skills [![Install via skills.sh](https://img.shields.io/badge/skills.sh-install-green)](https://skills.sh/google/skills) This repository contains [Agent Skills](https://agentskills.io/home) for Google products and technologies, including [Google Cloud](https://cloud.google.com). > [!NOTE] > This repository is under active development. ## Installation ```bash npx skills add google/skills ``` From the `npx install` command, you can select the specific skills from this repo to install. ## A",
+        "topics": [
+          "google",
+          "googlecloud",
+          "skills"
+        ],
+        "updated_at": "2026-08-08T08:04:55Z"
+      },
+      "repo": {
+        "description": "Agent Skills for Google products and technologies",
+        "forks": 1297,
+        "full_name": "google/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "google",
+        "rank": 17,
+        "stars_today": 327,
+        "total_stars": 16394,
+        "url": "https://github.com/google/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.49,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 66.53
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 327 stars today; score 66.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-03-16T09:21:07Z",
+        "default_branch": "master",
+        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+        "fork": false,
+        "full_name": "Significant-Gravitas/AutoGPT",
+        "homepage": "https://agpt.co",
+        "latest_release": "autogpt-platform-beta-v0.7.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 502,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-08T03:51:58Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://platform.agpt.co/signup?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=autogpt_readme&amp;utm_content=hero_banner\"> <img src=\"docs/home/.gitbook/assets/Banner_image.png\" alt=\"AutoGPT\" width=\"100%\" /> </a> </p> <h1 align=\"center\">AutoGPT \u2014 AI agents that finish the work</h1> <p align=\"center\"> <strong>Get 10 hours back every week.</strong><br /> Describe what you want done. AutoGPT builds the agent, runs it, and reports back. </p> <p align=\"center\">",
+        "topics": [
+          "agentic-ai",
+          "agents",
+          "ai",
+          "artificial-intelligence",
+          "autonomous-agents",
+          "claude",
+          "gpt",
+          "llama-api",
+          "llm",
+          "openai",
+          "python"
+        ],
+        "updated_at": "2026-08-08T08:02:55Z"
+      },
+      "repo": {
+        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+        "forks": 46063,
+        "full_name": "Significant-Gravitas/AutoGPT",
+        "language": "Python",
+        "name": "AutoGPT",
+        "owner": "Significant-Gravitas",
+        "rank": 11,
+        "stars_today": 355,
+        "total_stars": 186393,
+        "url": "https://github.com/Significant-Gravitas/AutoGPT"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.46,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 64.76
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 355 stars today; score 64.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-11-26T04:23:02Z",
+        "default_branch": "main",
+        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. \u7b80\u6d01\u901a\u7528\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce\uff0c\u9884\u6d4b\u4e07\u7269",
+        "fork": false,
+        "full_name": "666ghj/MiroFish",
+        "homepage": "https://mirofish.ai",
+        "latest_release": "v0.1.2",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 113,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-03T10:19:15Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"./static/image/MiroFish_logo_compressed.jpeg\" alt=\"MiroFish Logo\" width=\"75%\"/> <a href=\"https://trendshift.io/repositories/16144\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/16144\" alt=\"666ghj%2FMiroFish | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> \u7b80\u6d01\u901a\u7528\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce\uff0c\u9884\u6d4b\u4e07\u7269 </br> <em>A Simple and Universal Swarm Intelligence Engine, Predicting Anything</em> <a href=\"https://www.shanda.com/\" target=\"_blank\"><img ",
+        "topics": [
+          "agent-memory",
+          "financial-forecasting",
+          "future-prediction",
+          "knowledge-graph",
+          "llms",
+          "multi-agent-simulation",
+          "public-opinion-analysis",
+          "python3",
+          "social-prediction",
+          "swarm-intelligence"
+        ],
+        "updated_at": "2026-08-08T08:02:03Z"
+      },
+      "repo": {
+        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. \u7b80\u6d01\u901a\u7528\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce\uff0c\u9884\u6d4b\u4e07\u7269",
+        "forks": 10999,
+        "full_name": "666ghj/MiroFish",
+        "language": "Python",
+        "name": "MiroFish",
+        "owner": "666ghj",
+        "rank": 8,
+        "stars_today": 141,
+        "total_stars": 70651,
+        "url": "https://github.com/666ghj/MiroFish"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.11,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 64.41
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 141 stars today; score 64.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-17T15:18:26Z",
+        "default_branch": "main",
+        "description": "A simple tool for coordinating several AI agents.",
+        "fork": false,
+        "full_name": "unclebob/swarm-forge",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 18,
+        "primary_language": "Clojure",
+        "pushed_at": "2026-08-07T20:22:31Z",
+        "readme_excerpt": "<p align=\"center\" style=\"color: red; font-weight: bold; font-size: 2em; font-style: italic; text-decoration: underline;\"> Do not spend any money on a bankrbot SWARM token. </p> # SwarmForge **A disciplined tmux-based agent orchestration platform that turns swarms of AI agents into reliable, professional software engineers.** ## Intent This `main` branch is documentary: it explains the system and carries the shared operational scripts and default constitution articles. The runnable workflow branc",
+        "topics": [],
+        "updated_at": "2026-08-08T07:53:12Z"
+      },
+      "repo": {
+        "description": "A simple tool for coordinating several AI agents.",
+        "forks": 203,
+        "full_name": "unclebob/swarm-forge",
+        "language": "Clojure",
+        "name": "swarm-forge",
+        "owner": "unclebob",
+        "rank": 13,
+        "stars_today": 81,
+        "total_stars": 1901,
+        "url": "https://github.com/unclebob/swarm-forge"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.17,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 60.97
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Clojure project with 81 stars today; score 61.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-04-25T12:27:48Z",
+        "default_branch": "main",
+        "description": "self-hosted, distributed Durable Objects",
+        "fork": false,
+        "full_name": "denoland/celld",
+        "homepage": "https://celld.dev",
+        "latest_release": "v0.1.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 13,
+        "primary_language": "Rust",
+        "pushed_at": "2026-08-05T13:43:16Z",
+        "readme_excerpt": "# celld Self-hosted, distributed **Durable Objects**. celld is an open-source daemon that runs Cloudflare Workers and Durable Objects on your own machines. Each object is its own SQLite database, addressed by name and replicated to an S3-compatible bucket you own; nodes coordinate through that bucket alone, with no control plane or consensus. Because every object is its own small database, applications shard by construction \u2014 the contention and blast-radius failures of one shared database are de",
+        "topics": [],
+        "updated_at": "2026-08-08T08:05:48Z"
+      },
+      "repo": {
+        "description": "self-hosted, distributed Durable Objects",
+        "forks": 65,
+        "full_name": "denoland/celld",
+        "language": "Rust",
+        "name": "celld",
+        "owner": "denoland",
+        "rank": 14,
+        "stars_today": 516,
+        "total_stars": 2318,
+        "url": "https://github.com/denoland/celld"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.62,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 60.42
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 516 stars today; score 60.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-05T10:38:15Z",
+        "default_branch": "main",
+        "description": "Give your agent a computer \ud83d\udc7e",
+        "fork": false,
+        "full_name": "cloudflare/computer",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 22,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-07T15:35:38Z",
+        "readme_excerpt": "# Cloudflare Computer Cloudflare Computer is a virtual filesystem that lives inside a Durable Object. The Durable Object holds the authoritative state in SQLite and exposes one pluggable execution surface through `workspace.runtime`. Three backends ship today: - **Container** projects the SQLite state into a sandbox container as a real FUSE mount. A sandbox-side daemon (`computerd`) mounts the state as a filesystem and syncs changes back over a capnweb RPC channel. Full Linux userland, real bina",
+        "topics": [],
+        "updated_at": "2026-08-08T08:06:10Z"
+      },
+      "repo": {
+        "description": "Give your agent a computer \ud83d\udc7e",
+        "forks": 301,
+        "full_name": "cloudflare/computer",
+        "language": "TypeScript",
+        "name": "computer",
+        "owner": "cloudflare",
+        "rank": 3,
+        "stars_today": 872,
+        "total_stars": 6048,
+        "url": "https://github.com/cloudflare/computer"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.51,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 58.06
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 872 stars today; score 58.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-05-29T16:23:17Z",
+        "default_branch": "master",
+        "description": "Google core libraries for Java",
+        "fork": false,
+        "full_name": "google/guava",
+        "homepage": "https://guava.dev/",
+        "latest_release": "v33.6.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 746,
+        "primary_language": "Java",
+        "pushed_at": "2026-08-07T21:42:55Z",
+        "readme_excerpt": "# Guava: Google Core Libraries for Java [![GitHub Release](https://img.shields.io/github/v/release/google/guava)](https://github.com/google/guava/releases/latest) [![CI](https://github.com/google/guava/actions/workflows/ci.yml/badge.svg)](https://github.com/google/guava/actions/workflows/ci.yml) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/7197/badge)](https://www.bestpractices.dev/projects/7197) Guava is a set of core Java libraries from Google that includes new collection ",
+        "topics": [
+          "guava",
+          "java"
+        ],
+        "updated_at": "2026-08-08T07:58:59Z"
+      },
+      "repo": {
+        "description": "Google core libraries for Java",
+        "forks": 11176,
+        "full_name": "google/guava",
+        "language": "Java",
+        "name": "guava",
+        "owner": "google",
+        "rank": 12,
+        "stars_today": 152,
+        "total_stars": 51788,
+        "url": "https://github.com/google/guava"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.57,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 46.43
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Java project with 152 stars today; score 46.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-10T09:00:02Z",
+        "default_branch": "main",
+        "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+        "fork": false,
+        "full_name": "chenyme/grok2api",
+        "homepage": null,
+        "latest_release": "v3.1.1",
+        "license_spdx": "MIT",
+        "open_issues": 16,
+        "primary_language": "Go",
+        "pushed_at": "2026-08-07T09:42:51Z",
+        "readme_excerpt": "<p align=\"center\"> <img alt=\"Grok2API\" src=\"./frontend/public/grok2api.png\" width=\"720\" /> </p> <p align=\"center\"> <strong>A multi-account API gateway for Grok Build, Grok Web, and Grok Console</strong> </p> <p align=\"center\"> English | <a href=\"./README.zh-CN.md\">\u7b80\u4f53\u4e2d\u6587</a> </p> <p align=\"center\"> <a href=\"./backend/go.mod\"><img alt=\"Go\" src=\"https://img.shields.io/badge/Go-1.26-00ADD8?logo=go&logoColor=white\" /></a> <a href=\"./frontend/package.json\"><img alt=\"React\" src=\"https://img.shields.io/b",
+        "topics": [
+          "grok",
+          "grok-build",
+          "grok-console",
+          "grok-imagine",
+          "grok-video",
+          "grok-web"
+        ],
+        "updated_at": "2026-08-08T07:53:23Z"
+      },
+      "repo": {
+        "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+        "forks": 2171,
+        "full_name": "chenyme/grok2api",
+        "language": "Go",
+        "name": "grok2api",
+        "owner": "chenyme",
+        "rank": 9,
+        "stars_today": 55,
+        "total_stars": 7172,
+        "url": "https://github.com/chenyme/grok2api"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.65,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 45.46
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Go project with 55 stars today; score 45.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-12T14:33:21Z",
+        "default_branch": "main",
+        "description": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more. ",
+        "fork": false,
+        "full_name": "K2SOsint/Legendary_OSINT",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "CC0-1.0",
+        "open_issues": 8,
+        "primary_language": null,
+        "pushed_at": "2026-04-17T07:38:50Z",
+        "readme_excerpt": "# \ud83d\udef0 Legendary OSINT A curated list of **OSINT** tools & resources. The sources where I got this from include newsletters, Telegram groups, curated startpages, GitHub repos, and other public collections. \u26a0\ufe0f Most tools are **third-party**, always vet and use responsibly. \u2b50 If you use this repository, don't forget to star it and incluse me as a source. --- ## \ud83d\udcd6 Table of Contents - [\ud83d\udc64 People Search & Social Media](./docs/people-social.md) - [\u2708\ufe0f Aviation Movements & Flight Tracking](./docs/aviation.m",
+        "topics": [
+          "cti",
+          "cyberthreatintelligence",
+          "osint",
+          "osint-tools-list",
+          "socmint"
+        ],
+        "updated_at": "2026-08-08T08:03:57Z"
+      },
+      "repo": {
+        "description": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+        "forks": 200,
+        "full_name": "K2SOsint/Legendary_OSINT",
+        "language": null,
+        "name": "Legendary_OSINT",
+        "owner": "K2SOsint",
+        "rank": 15,
+        "stars_today": 109,
+        "total_stars": 1569,
+        "url": "https://github.com/K2SOsint/Legendary_OSINT"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.98,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 0.81,
+        "technical_quality": 11.9,
+        "total": 44.29
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Unknown project with 109 stars today; score 44.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "forks": 18074,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 2152,
+        "total_stars": 209211,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 11.05,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 44.0
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 2152 stars today; score 44.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/pranshuparmar",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+        "forks": 648,
+        "full_name": "sponsors/pranshuparmar",
+        "language": "Go",
+        "name": "pranshuparmar",
+        "owner": "sponsors",
+        "rank": 16,
+        "stars_today": 234,
+        "total_stars": 19931,
+        "url": "https://github.com/sponsors/pranshuparmar"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.3,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 36.65
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 234 stars today; score 36.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 24017,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 782,
+        "total_stars": 268924,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.89,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 35.04
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 782 stars today; score 35.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/semantica-agi",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+        "forks": 313,
+        "full_name": "sponsors/semantica-agi",
+        "language": "Python",
+        "name": "semantica-agi",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 122,
+        "total_stars": 2433,
+        "url": "https://github.com/sponsors/semantica-agi"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.18,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 32.33
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 122 stars today; score 32.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/jdx",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "dev tools, env vars, task runner",
+        "forks": 1337,
+        "full_name": "sponsors/jdx",
+        "language": "Rust",
+        "name": "jdx",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 135,
+        "total_stars": 32120,
+        "url": "https://github.com/sponsors/jdx"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.8,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.14,
+        "technical_quality": 3.5,
+        "total": 22.34
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Rust project with 135 stars today; score 22.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/goauthentik",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The authentication glue you need.",
+        "forks": 1818,
+        "full_name": "sponsors/goauthentik",
+        "language": "Python",
+        "name": "goauthentik",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 530,
+        "total_stars": 23727,
+        "url": "https://github.com/sponsors/goauthentik"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.82,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.97,
+        "technical_quality": 3.5,
+        "total": 19.99
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 530 stars today; score 20.0/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-08-08",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is PrimeIntellect-ai/prime-agent."
+}
