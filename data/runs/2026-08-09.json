@@ -1,0 +1,843 @@
+{
+  "date": "2026-08-09",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-12-28T03:31:08Z",
+        "default_branch": "main",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "fork": false,
+        "full_name": "TauricResearch/TradingAgents",
+        "homepage": "https://arxiv.org/pdf/2412.20138",
+        "latest_release": "v0.3.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 348,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-18T15:55:05Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"assets/TauricResearch.png\" style=\"width: 60%; height: auto;\"> </p> <div align=\"center\" style=\"line-height: 1;\"> <a href=\"https://arxiv.org/abs/2412.20138\" target=\"_blank\"><img alt=\"arXiv\" src=\"https://img.shields.io/badge/arXiv-2412.20138-B31B1B?logo=arxiv\"/></a> <a href=\"https://discord.com/invite/hk9PGKShPK\" target=\"_blank\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/Discord-TradingResearch-7289da?logo=discord&logoColor=white&color=7289da\"/></a> <a href=\"h",
+        "topics": [
+          "agent",
+          "finance",
+          "llm",
+          "multiagent",
+          "trading"
+        ],
+        "updated_at": "2026-08-09T08:08:57Z"
+      },
+      "repo": {
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "forks": 18676,
+        "full_name": "TauricResearch/TradingAgents",
+        "language": "Python",
+        "name": "TradingAgents",
+        "owner": "TauricResearch",
+        "rank": 7,
+        "stars_today": 153,
+        "total_stars": 96699,
+        "url": "https://github.com/TauricResearch/TradingAgents"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.25,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 69.05
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 153 stars today; score 69.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-05-30T09:18:10Z",
+        "default_branch": "master",
+        "description": "Truly independent web browser",
+        "fork": false,
+        "full_name": "LadybirdBrowser/ladybird",
+        "homepage": "https://ladybird.org",
+        "latest_release": null,
+        "license_spdx": "BSD-2-Clause",
+        "open_issues": 537,
+        "primary_language": "C++",
+        "pushed_at": "2026-08-08T08:53:43Z",
+        "readme_excerpt": "# Ladybird [Ladybird](https://ladybird.org) is a truly independent web browser, using a novel engine based on web standards. > [!IMPORTANT] > Ladybird is in a pre-alpha state, and only suitable for use by developers > ## Features We aim to build a complete, usable browser for the modern web. Ladybird uses a multi-process architecture with a main UI process, several WebContent renderer processes, an ImageDecoder process, and a RequestServer process. Image decoding and network connections are done",
+        "topics": [
+          "browser",
+          "browser-engine"
+        ],
+        "updated_at": "2026-08-09T08:04:29Z"
+      },
+      "repo": {
+        "description": "Truly independent web browser",
+        "forks": 3107,
+        "full_name": "LadybirdBrowser/ladybird",
+        "language": "C++",
+        "name": "ladybird",
+        "owner": "LadybirdBrowser",
+        "rank": 9,
+        "stars_today": 48,
+        "total_stars": 65072,
+        "url": "https://github.com/LadybirdBrowser/ladybird"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.61,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 55.91
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 48 stars today; score 55.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-01-14T00:34:25Z",
+        "default_branch": "master",
+        "description": "\u7ffb\u5899-\u79d1\u5b66\u4e0a\u7f51",
+        "fork": false,
+        "full_name": "bannedbook/fanqiang",
+        "homepage": null,
+        "latest_release": "FQNews-v1.3.8",
+        "license_spdx": null,
+        "open_issues": 333,
+        "primary_language": "Kotlin",
+        "pushed_at": "2026-08-08T10:49:50Z",
+        "readme_excerpt": "# \u7ffb\u5899-\u79d1\u5b66\u4e0a\u7f51\u3001\u7ffb\u5899\u5de5\u5177\u3001\u7ffb\u5899\u6559\u7a0b\u9879\u76ee\u5e93 * [\u7ffb\u5899\u65b0\u95fb-FQNews-\u5b89\u5353APP](https://github.com/bannedbook/fanqiang/tree/master/fqnews2) * [\u5b89\u5353\u7ffb\u5899\u8f6f\u4ef6](https://github.com/bannedbook/fanqiang/wiki/%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) * [\u5b89\u5353\u7ffb\u5899APP\u6559\u7a0b](https://github.com/bannedbook/fanqiang/tree/master/android) * [Chrome\u4e00\u952e\u7ffb\u5899\u5305](https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85) * [Chrome\u4e00\u952e\u7ffb\u5899\u5305 Mac\u7248](https://github.com/bannedbook/fanqiang/tree/master/ChromeGoMac#chromegomacch",
+        "topics": [
+          "brook",
+          "daze",
+          "fanqiang",
+          "goflyway",
+          "lightsocks",
+          "proxy",
+          "psiphon",
+          "shadowsocks",
+          "ssr",
+          "trojan",
+          "v2ray"
+        ],
+        "updated_at": "2026-08-09T08:08:53Z"
+      },
+      "repo": {
+        "description": "\u7ffb\u5899-\u79d1\u5b66\u4e0a\u7f51",
+        "forks": 8266,
+        "full_name": "bannedbook/fanqiang",
+        "language": "Kotlin",
+        "name": "fanqiang",
+        "owner": "bannedbook",
+        "rank": 12,
+        "stars_today": 101,
+        "total_stars": 50067,
+        "url": "https://github.com/bannedbook/fanqiang"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.36,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.2,
+        "strategic_relevance": 0.96,
+        "technical_quality": 11.2,
+        "total": 43.77
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: Kotlin project with 101 stars today; score 43.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-04-06T16:47:44Z",
+        "default_branch": "main",
+        "description": " DevOps Interview Guide",
+        "fork": false,
+        "full_name": "litu54/DevOps-Interview-Guide",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 5,
+        "primary_language": null,
+        "pushed_at": "2026-08-05T08:19:47Z",
+        "readme_excerpt": "# DevOps & SRE Interview Questions Real interview questions collected from people who actually sat through DevOps, SRE, and Cloud engineering interviews in 2025 and 2026. No paraphrasing, no \"top 50 questions\" filler \u2014 these are the exact questions candidates were asked, organized so you can look up a specific company or just browse broadly to prep. ## What's here - **151 interview write-ups** - **85 companies**, plus an `Others/` folder for interviews where the company wasn't named - Topics spa",
+        "topics": [],
+        "updated_at": "2026-08-09T07:52:43Z"
+      },
+      "repo": {
+        "description": "DevOps Interview Guide",
+        "forks": 909,
+        "full_name": "litu54/DevOps-Interview-Guide",
+        "language": null,
+        "name": "DevOps-Interview-Guide",
+        "owner": "litu54",
+        "rank": 11,
+        "stars_today": 68,
+        "total_stars": 767,
+        "url": "https://github.com/litu54/DevOps-Interview-Guide"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.39,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 0.98,
+        "technical_quality": 11.2,
+        "total": 42.42
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: Unknown project with 68 stars today; score 42.4/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-15T20:20:26Z",
+        "default_branch": "main",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "fork": false,
+        "full_name": "addyosmani/agent-skills",
+        "homepage": "https://skills.addy.ie",
+        "latest_release": "0.6.6",
+        "license_spdx": "MIT",
+        "open_issues": 101,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-08-08T21:05:57Z",
+        "readme_excerpt": "# Agent Skills **Production-grade engineering skills for AI coding agents.** Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. <a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" wid",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-08-09T08:08:46Z"
+      },
+      "repo": {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "forks": 9124,
+        "full_name": "addyosmani/agent-skills",
+        "language": "JavaScript",
+        "name": "agent-skills",
+        "owner": "addyosmani",
+        "rank": 2,
+        "stars_today": 779,
+        "total_stars": 84760,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.09,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 74.79
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 779 stars today; score 74.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-12-28T03:31:08Z",
+        "default_branch": "main",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "fork": false,
+        "full_name": "TauricResearch/TradingAgents",
+        "homepage": "https://arxiv.org/pdf/2412.20138",
+        "latest_release": "v0.3.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 348,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-18T15:55:05Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"assets/TauricResearch.png\" style=\"width: 60%; height: auto;\"> </p> <div align=\"center\" style=\"line-height: 1;\"> <a href=\"https://arxiv.org/abs/2412.20138\" target=\"_blank\"><img alt=\"arXiv\" src=\"https://img.shields.io/badge/arXiv-2412.20138-B31B1B?logo=arxiv\"/></a> <a href=\"https://discord.com/invite/hk9PGKShPK\" target=\"_blank\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/Discord-TradingResearch-7289da?logo=discord&logoColor=white&color=7289da\"/></a> <a href=\"h",
+        "topics": [
+          "agent",
+          "finance",
+          "llm",
+          "multiagent",
+          "trading"
+        ],
+        "updated_at": "2026-08-09T08:08:57Z"
+      },
+      "repo": {
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "forks": 18676,
+        "full_name": "TauricResearch/TradingAgents",
+        "language": "Python",
+        "name": "TradingAgents",
+        "owner": "TauricResearch",
+        "rank": 7,
+        "stars_today": 153,
+        "total_stars": 96699,
+        "url": "https://github.com/TauricResearch/TradingAgents"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.25,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 69.05
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 153 stars today; score 69.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-08T01:42:41Z",
+        "default_branch": "main",
+        "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+        "fork": false,
+        "full_name": "PrimeIntellect-ai/prime-agent",
+        "homepage": null,
+        "latest_release": "v0.7.1",
+        "license_spdx": "MIT",
+        "open_issues": 409,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-09T01:55:56Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://primeintellect.ai\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/40c36e38-c5bd-4c5a-9cb3-f7b902cd155d\"> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/6414bc9b-126b-41ca-9307-9e982430cde8\"> <img alt=\"Prime Intellect\" src=\"https://github.com/user-attachments/assets/6414bc9b-126b-41ca-9307-9e982430cde8\" width=\"312\" style=\"max-width: 100%;\"> </picture> <",
+        "topics": [],
+        "updated_at": "2026-08-09T08:08:23Z"
+      },
+      "repo": {
+        "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+        "forks": 918,
+        "full_name": "PrimeIntellect-ai/prime-agent",
+        "language": "TypeScript",
+        "name": "prime-agent",
+        "owner": "PrimeIntellect-ai",
+        "rank": 1,
+        "stars_today": 2483,
+        "total_stars": 9529,
+        "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.9,
+        "technical_quality": 14.0,
+        "total": 67.68
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 2483 stars today; score 67.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-31T19:02:20Z",
+        "default_branch": "main",
+        "description": "Agent Skills for Google products and technologies",
+        "fork": false,
+        "full_name": "google/skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 32,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-07T22:50:54Z",
+        "readme_excerpt": "# Agent Skills [![Install via skills.sh](https://img.shields.io/badge/skills.sh-install-green)](https://skills.sh/google/skills) This repository contains [Agent Skills](https://agentskills.io/home) for Google products and technologies, including [Google Cloud](https://cloud.google.com). > [!NOTE] > This repository is under active development. ## Installation ```bash npx skills add google/skills ``` From the `npx install` command, you can select the specific skills from this repo to install. ## A",
+        "topics": [
+          "google",
+          "googlecloud",
+          "skills"
+        ],
+        "updated_at": "2026-08-09T08:08:09Z"
+      },
+      "repo": {
+        "description": "Agent Skills for Google products and technologies",
+        "forks": 1376,
+        "full_name": "google/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "google",
+        "rank": 4,
+        "stars_today": 481,
+        "total_stars": 16898,
+        "url": "https://github.com/google/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 4.8,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 63.64
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 481 stars today; score 63.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-05-30T09:18:10Z",
+        "default_branch": "master",
+        "description": "Truly independent web browser",
+        "fork": false,
+        "full_name": "LadybirdBrowser/ladybird",
+        "homepage": "https://ladybird.org",
+        "latest_release": null,
+        "license_spdx": "BSD-2-Clause",
+        "open_issues": 537,
+        "primary_language": "C++",
+        "pushed_at": "2026-08-08T08:53:43Z",
+        "readme_excerpt": "# Ladybird [Ladybird](https://ladybird.org) is a truly independent web browser, using a novel engine based on web standards. > [!IMPORTANT] > Ladybird is in a pre-alpha state, and only suitable for use by developers > ## Features We aim to build a complete, usable browser for the modern web. Ladybird uses a multi-process architecture with a main UI process, several WebContent renderer processes, an ImageDecoder process, and a RequestServer process. Image decoding and network connections are done",
+        "topics": [
+          "browser",
+          "browser-engine"
+        ],
+        "updated_at": "2026-08-09T08:04:29Z"
+      },
+      "repo": {
+        "description": "Truly independent web browser",
+        "forks": 3107,
+        "full_name": "LadybirdBrowser/ladybird",
+        "language": "C++",
+        "name": "ladybird",
+        "owner": "LadybirdBrowser",
+        "rank": 9,
+        "stars_today": 48,
+        "total_stars": 65072,
+        "url": "https://github.com/LadybirdBrowser/ladybird"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.61,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 55.91
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 48 stars today; score 55.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-04-25T12:27:48Z",
+        "default_branch": "main",
+        "description": "self-hosted, distributed Durable Objects",
+        "fork": false,
+        "full_name": "denoland/celld",
+        "homepage": "https://celld.dev",
+        "latest_release": "v0.1.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 14,
+        "primary_language": "Rust",
+        "pushed_at": "2026-08-05T13:43:16Z",
+        "readme_excerpt": "# celld Self-hosted, distributed **Durable Objects**. celld is an open-source daemon that runs Cloudflare Workers and Durable Objects on your own machines. Each object is its own SQLite database, addressed by name and replicated to an S3-compatible bucket you own; nodes coordinate through that bucket alone, with no control plane or consensus. Because every object is its own small database, applications shard by construction \u2014 the contention and blast-radius failures of one shared database are de",
+        "topics": [],
+        "updated_at": "2026-08-09T08:05:35Z"
+      },
+      "repo": {
+        "description": "self-hosted, distributed Durable Objects",
+        "forks": 78,
+        "full_name": "denoland/celld",
+        "language": "Rust",
+        "name": "celld",
+        "owner": "denoland",
+        "rank": 10,
+        "stars_today": 432,
+        "total_stars": 2711,
+        "url": "https://github.com/denoland/celld"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.77,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 55.37
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 432 stars today; score 55.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-05-29T16:23:17Z",
+        "default_branch": "master",
+        "description": "Google core libraries for Java",
+        "fork": false,
+        "full_name": "google/guava",
+        "homepage": "https://guava.dev/",
+        "latest_release": "v33.6.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 748,
+        "primary_language": "Java",
+        "pushed_at": "2026-08-07T21:42:55Z",
+        "readme_excerpt": "# Guava: Google Core Libraries for Java [![GitHub Release](https://img.shields.io/github/v/release/google/guava)](https://github.com/google/guava/releases/latest) [![CI](https://github.com/google/guava/actions/workflows/ci.yml/badge.svg)](https://github.com/google/guava/actions/workflows/ci.yml) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/7197/badge)](https://www.bestpractices.dev/projects/7197) Guava is a set of core Java libraries from Google that includes new collection ",
+        "topics": [
+          "guava",
+          "java"
+        ],
+        "updated_at": "2026-08-09T08:04:30Z"
+      },
+      "repo": {
+        "description": "Google core libraries for Java",
+        "forks": 11182,
+        "full_name": "google/guava",
+        "language": "Java",
+        "name": "guava",
+        "owner": "google",
+        "rank": 8,
+        "stars_today": 93,
+        "total_stars": 51877,
+        "url": "https://github.com/google/guava"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.91,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 46.77
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Java project with 93 stars today; score 46.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-01-14T00:34:25Z",
+        "default_branch": "master",
+        "description": "\u7ffb\u5899-\u79d1\u5b66\u4e0a\u7f51",
+        "fork": false,
+        "full_name": "bannedbook/fanqiang",
+        "homepage": null,
+        "latest_release": "FQNews-v1.3.8",
+        "license_spdx": null,
+        "open_issues": 333,
+        "primary_language": "Kotlin",
+        "pushed_at": "2026-08-08T10:49:50Z",
+        "readme_excerpt": "# \u7ffb\u5899-\u79d1\u5b66\u4e0a\u7f51\u3001\u7ffb\u5899\u5de5\u5177\u3001\u7ffb\u5899\u6559\u7a0b\u9879\u76ee\u5e93 * [\u7ffb\u5899\u65b0\u95fb-FQNews-\u5b89\u5353APP](https://github.com/bannedbook/fanqiang/tree/master/fqnews2) * [\u5b89\u5353\u7ffb\u5899\u8f6f\u4ef6](https://github.com/bannedbook/fanqiang/wiki/%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) * [\u5b89\u5353\u7ffb\u5899APP\u6559\u7a0b](https://github.com/bannedbook/fanqiang/tree/master/android) * [Chrome\u4e00\u952e\u7ffb\u5899\u5305](https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85) * [Chrome\u4e00\u952e\u7ffb\u5899\u5305 Mac\u7248](https://github.com/bannedbook/fanqiang/tree/master/ChromeGoMac#chromegomacch",
+        "topics": [
+          "brook",
+          "daze",
+          "fanqiang",
+          "goflyway",
+          "lightsocks",
+          "proxy",
+          "psiphon",
+          "shadowsocks",
+          "ssr",
+          "trojan",
+          "v2ray"
+        ],
+        "updated_at": "2026-08-09T08:08:53Z"
+      },
+      "repo": {
+        "description": "\u7ffb\u5899-\u79d1\u5b66\u4e0a\u7f51",
+        "forks": 8266,
+        "full_name": "bannedbook/fanqiang",
+        "language": "Kotlin",
+        "name": "fanqiang",
+        "owner": "bannedbook",
+        "rank": 12,
+        "stars_today": 101,
+        "total_stars": 50067,
+        "url": "https://github.com/bannedbook/fanqiang"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.36,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.2,
+        "strategic_relevance": 0.96,
+        "technical_quality": 11.2,
+        "total": 43.77
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: Kotlin project with 101 stars today; score 43.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-04-06T16:47:44Z",
+        "default_branch": "main",
+        "description": " DevOps Interview Guide",
+        "fork": false,
+        "full_name": "litu54/DevOps-Interview-Guide",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 5,
+        "primary_language": null,
+        "pushed_at": "2026-08-05T08:19:47Z",
+        "readme_excerpt": "# DevOps & SRE Interview Questions Real interview questions collected from people who actually sat through DevOps, SRE, and Cloud engineering interviews in 2025 and 2026. No paraphrasing, no \"top 50 questions\" filler \u2014 these are the exact questions candidates were asked, organized so you can look up a specific company or just browse broadly to prep. ## What's here - **151 interview write-ups** - **85 companies**, plus an `Others/` folder for interviews where the company wasn't named - Topics spa",
+        "topics": [],
+        "updated_at": "2026-08-09T07:52:43Z"
+      },
+      "repo": {
+        "description": "DevOps Interview Guide",
+        "forks": 909,
+        "full_name": "litu54/DevOps-Interview-Guide",
+        "language": null,
+        "name": "DevOps-Interview-Guide",
+        "owner": "litu54",
+        "rank": 11,
+        "stars_today": 68,
+        "total_stars": 767,
+        "url": "https://github.com/litu54/DevOps-Interview-Guide"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.39,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 0.98,
+        "technical_quality": 11.2,
+        "total": 42.42
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: Unknown project with 68 stars today; score 42.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "forks": 18171,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 1359,
+        "total_stars": 210390,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 7.62,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 40.57
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 1359 stars today; score 40.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2020-01-05T04:11:06Z",
+        "default_branch": "master",
+        "description": "\u6240\u6709\u5c0f\u521d\u9ad8\u3001\u5927\u5b66PDF\u6559\u6750\u3002",
+        "fork": false,
+        "full_name": "TapXWorld/ChinaTextbook",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 119,
+        "primary_language": "Roff",
+        "pushed_at": "2025-10-18T13:39:24Z",
+        "readme_excerpt": "## \u9879\u76ee\u7684\u7531\u6765 \u867d\u7136\u56fd\u5185\u6559\u80b2\u7f51\u7ad9\u5df2\u63d0\u4f9b\u514d\u8d39\u8d44\u6e90\uff0c\u4f46\u5927\u591a\u6570\u666e\u901a\u4eba\u83b7\u53d6\u4fe1\u606f\u7684\u9014\u5f84\u4f9d\u7136\u53d7\u9650\u3002\u6709\u4e9b\u4eba\u5229\u7528\u8fd9\u4e00\u70b9\uff0c\u5728\u67d0\u7ad9\u4e0a\u9500\u552e\u8fd9\u4e9b\u5e26\u6709\u79c1\u4eba\u6c34\u5370\u7684\u8d44\u6e90\u3002\u4e3a\u4e86\u5e94\u5bf9\u8fd9\u79cd\u60c5\u51b5\uff0c\u6211\u8ba1\u5212\u5c06\u8fd9\u4e9b\u8d44\u6e90\u96c6\u4e2d\u5e76\u5f00\u6e90\uff0c\u4ee5\u4fc3\u8fdb\u4e49\u52a1\u6559\u80b2\u7684\u666e\u53ca\u548c\u6d88\u9664\u5730\u533a\u95f4\u7684\u6559\u80b2\u8d2b\u56f0\u3002 \u8fd8\u6709\u4e00\u4e2a\u6700\u91cd\u8981\u7684\u539f\u56e0\u662f\uff0c\u5e0c\u671b\u6d77\u5916\u534e\u4eba\u80fd\u591f\u8ba9\u81ea\u5df1\u7684\u5b69\u5b50\u7ee7\u7eed\u4e86\u89e3\u56fd\u5185\u6559\u80b2\u3002 ## \u5b66\u4e60\u6570\u5b66 \u5e0c\u671b\u672a\u6765\u51fa\u73b0\u66f4\u591a\u4e0d\u662f\u4e3a\u4e86\u8003\u5b66\u800c\u8bfb\u4e66\u7684\u4eba\u3002 ### \u5c0f\u5b66\u6570\u5b66 - [\u4e00\u5e74\u7ea7\u4e0a\u518c](https://github.com/TapXWorld/ChinaTextbook/blob/master/%E5%B0%8F%E5%AD%A6/%E6%95%B0%E5%AD%A6/%E4%BA%BA%E6%95%99%E7%89%88/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%20%C2%B7%20%E6%95%B0%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8A%E5%86%8C.pdf) - [\u4e00\u5e74\u7ea7\u4e0b\u518c](https://github.com/TapXW",
+        "topics": [],
+        "updated_at": "2026-08-09T08:07:33Z"
+      },
+      "repo": {
+        "description": "\u6240\u6709\u5c0f\u521d\u9ad8\u3001\u5927\u5b66PDF\u6559\u6750\u3002",
+        "forks": 17685,
+        "full_name": "TapXWorld/ChinaTextbook",
+        "language": "Roff",
+        "name": "ChinaTextbook",
+        "owner": "TapXWorld",
+        "rank": 3,
+        "stars_today": 118,
+        "total_stars": 78079,
+        "url": "https://github.com/TapXWorld/ChinaTextbook"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.71,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 1.52,
+        "technical_quality": 9.1,
+        "total": 36.98
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: Roff project with 118 stars today; score 37.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/goauthentik",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The authentication glue you need.",
+        "forks": 1843,
+        "full_name": "sponsors/goauthentik",
+        "language": "Python",
+        "name": "goauthentik",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 467,
+        "total_stars": 24072,
+        "url": "https://github.com/sponsors/goauthentik"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.46,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.82,
+        "technical_quality": 3.5,
+        "total": 19.48
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 467 stars today; score 19.5/100."
+    }
+  ],
+  "subject": "GitHub Trending: daily developer signal - 2026-08-09",
+  "summary": "Today leans toward daily developer signal; the strongest pick is TauricResearch/TradingAgents."
+}
