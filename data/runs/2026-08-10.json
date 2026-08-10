@@ -1,0 +1,989 @@
+{
+  "date": "2026-08-10",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-10T06:43:20Z",
+        "default_branch": "main",
+        "description": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "fork": false,
+        "full_name": "ZhuLinsen/daily_stock_analysis",
+        "homepage": "https://dsa.zhulinsen.tech",
+        "latest_release": "v3.30.0",
+        "license_spdx": "MIT",
+        "open_issues": 43,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-10T06:44:33Z",
+        "readme_excerpt": "<div align=\"center\"> # \ud83d\udcc8 \u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf [![GitHub stars](https://img.shields.io/github/stars/ZhuLinsen/daily_stock_analysis?style=social)](https://github.com/ZhuLinsen/daily_stock_analysis/stargazers) [![CI](https://github.com/ZhuLinsen/daily_stock_analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/ZhuLinsen/daily_stock_analysis/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Python 3.10+](https://im",
+        "topics": [
+          "a-stock",
+          "ai-agent",
+          "aigc",
+          "llm",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading"
+        ],
+        "updated_at": "2026-08-10T08:57:54Z"
+      },
+      "repo": {
+        "description": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "forks": 52131,
+        "full_name": "ZhuLinsen/daily_stock_analysis",
+        "language": "Python",
+        "name": "daily_stock_analysis",
+        "owner": "ZhuLinsen",
+        "rank": 7,
+        "stars_today": 306,
+        "total_stars": 61571,
+        "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.83,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 69.63
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 306 stars today; score 69.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-30T18:20:43Z",
+        "default_branch": "main",
+        "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+        "fork": false,
+        "full_name": "harveyai/harvey-labs",
+        "homepage": "https://www.harvey.ai/blog/introducing-harveys-legal-agent-benchmark",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 47,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-07T17:00:18Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"docs/assets/lab-hero.png\" alt=\"Harvey LAB\" width=\"100%\"> </p> <p align=\"center\"> <strong>Legal Agent Benchmark (LAB): An open-source benchmark for evaluating agents on real legal work.</strong> </p> <p align=\"center\"> <a href=\"https://github.com/harveyai/harvey-labs/tags\"><img alt=\"Latest version\" src=\"https://img.shields.io/github/v/tag/harveyai/harvey-labs?display_name=tag&sort=semver&style=flat-square&label=version\"></a> <img alt=\"License: MIT\" src=\"https://img.sh",
+        "topics": [],
+        "updated_at": "2026-08-10T08:54:54Z"
+      },
+      "repo": {
+        "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+        "forks": 183,
+        "full_name": "harveyai/harvey-labs",
+        "language": "Python",
+        "name": "harvey-labs",
+        "owner": "harveyai",
+        "rank": 11,
+        "stars_today": 47,
+        "total_stars": 930,
+        "url": "https://github.com/harveyai/harvey-labs"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.33,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 69.13
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 47 stars today; score 69.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-01-17T03:15:56Z",
+        "default_branch": "master",
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+        "fork": false,
+        "full_name": "Comfy-Org/ComfyUI",
+        "homepage": "https://www.comfy.org/",
+        "latest_release": "v0.31.0",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 4507,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-10T07:13:59Z",
+        "readme_excerpt": "<div align=\"center\"> # ComfyUI **The most powerful and modular AI engine for content creation.** [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shield]][matrix-url] <br> [![][github-release-shield]][github-release-link] [![][github-release-date-shield]][github-release-link] [![][github-downloads-shield]][github-downloads-link] [![][github-downloads-latest-shield]][github-downloads-link] [m",
+        "topics": [
+          "ai",
+          "comfy",
+          "comfyui",
+          "python",
+          "pytorch",
+          "stable-diffusion"
+        ],
+        "updated_at": "2026-08-10T08:58:07Z"
+      },
+      "repo": {
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+        "forks": 14873,
+        "full_name": "Comfy-Org/ComfyUI",
+        "language": "Python",
+        "name": "ComfyUI",
+        "owner": "Comfy-Org",
+        "rank": 10,
+        "stars_today": 365,
+        "total_stars": 125900,
+        "url": "https://github.com/Comfy-Org/ComfyUI"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.61,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 64.91
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 365 stars today; score 64.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-08T23:46:22Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "pingdotgg/t3code",
+        "homepage": "https://t3.codes",
+        "latest_release": "v0.0.32",
+        "license_spdx": "MIT",
+        "open_issues": 1447,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-10T06:53:07Z",
+        "readme_excerpt": "# T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app ([iOS](https://apps.apple.com/us/app/t3-code-remote-claude-more/id6787819824), [Android](https://play.google.com/store/apps/details?id=com.t3tools.t3code)), [web app](https://app.t3.codes) and [Electron-based desktop app](https://t3.codes). Works with your subscriptions on Claude Code, Codex, Cursor, Grok Build, and OpenCode. If they're set up on your computer",
+        "topics": [],
+        "updated_at": "2026-08-10T08:58:01Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 4026,
+        "full_name": "pingdotgg/t3code",
+        "language": "TypeScript",
+        "name": "t3code",
+        "owner": "pingdotgg",
+        "rank": 12,
+        "stars_today": 163,
+        "total_stars": 17800,
+        "url": "https://github.com/pingdotgg/t3code"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 4.9,
+        "momentum": 2.6,
+        "novelty": 2.8,
+        "practical_usefulness": 5.95,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 62.25
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: TypeScript project with 163 stars today; score 62.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-07-14T11:07:57Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "google-deepmind/weathernext",
+        "homepage": null,
+        "latest_release": "v0.3.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 76,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-07T10:10:42Z",
+        "readme_excerpt": "# WeatherNext ## WeatherNext 2 This repo contains the code for WeatherNext 2 (WN2), the global, medium-range atmospheric and cyclone forecasting model developed by Google DeepMind and Google Research. It also contains code for prior generation models [GraphCast](https://deepmind.google/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/) and [GenCast](https://deepmind.google/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/). ### A",
+        "topics": [
+          "weather",
+          "weather-forecast"
+        ],
+        "updated_at": "2026-08-10T08:58:21Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 944,
+        "full_name": "google-deepmind/weathernext",
+        "language": "Python",
+        "name": "weathernext",
+        "owner": "google-deepmind",
+        "rank": 5,
+        "stars_today": 86,
+        "total_stars": 7202,
+        "url": "https://github.com/google-deepmind/weathernext"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 4.9,
+        "momentum": 3.33,
+        "novelty": 8.0,
+        "practical_usefulness": 5.95,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 61.88
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Python project with 86 stars today; score 61.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/vitali87",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+        "forks": 536,
+        "full_name": "sponsors/vitali87",
+        "language": "Python",
+        "name": "vitali87",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 96,
+        "total_stars": 3278,
+        "url": "https://github.com/sponsors/vitali87"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.8,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 37.45
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 96 stars today; score 37.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/msitarzewski",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "forks": 23041,
+        "full_name": "sponsors/msitarzewski",
+        "language": "Shell",
+        "name": "msitarzewski",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 858,
+        "total_stars": 141232,
+        "url": "https://github.com/sponsors/msitarzewski"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.37,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 34.82
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 858 stars today; score 34.8/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-15T20:20:26Z",
+        "default_branch": "main",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "fork": false,
+        "full_name": "addyosmani/agent-skills",
+        "homepage": "https://skills.addy.ie",
+        "latest_release": "0.6.6",
+        "license_spdx": "MIT",
+        "open_issues": 107,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-08-08T21:05:57Z",
+        "readme_excerpt": "# Agent Skills **Production-grade engineering skills for AI coding agents.** Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. <a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" wid",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-08-10T08:57:04Z"
+      },
+      "repo": {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "forks": 9186,
+        "full_name": "addyosmani/agent-skills",
+        "language": "JavaScript",
+        "name": "agent-skills",
+        "owner": "addyosmani",
+        "rank": 6,
+        "stars_today": 680,
+        "total_stars": 85394,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.3,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 74.0
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 680 stars today; score 74.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-10T06:43:20Z",
+        "default_branch": "main",
+        "description": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "fork": false,
+        "full_name": "ZhuLinsen/daily_stock_analysis",
+        "homepage": "https://dsa.zhulinsen.tech",
+        "latest_release": "v3.30.0",
+        "license_spdx": "MIT",
+        "open_issues": 43,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-10T06:44:33Z",
+        "readme_excerpt": "<div align=\"center\"> # \ud83d\udcc8 \u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf [![GitHub stars](https://img.shields.io/github/stars/ZhuLinsen/daily_stock_analysis?style=social)](https://github.com/ZhuLinsen/daily_stock_analysis/stargazers) [![CI](https://github.com/ZhuLinsen/daily_stock_analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/ZhuLinsen/daily_stock_analysis/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Python 3.10+](https://im",
+        "topics": [
+          "a-stock",
+          "ai-agent",
+          "aigc",
+          "llm",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading"
+        ],
+        "updated_at": "2026-08-10T08:57:54Z"
+      },
+      "repo": {
+        "description": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "forks": 52131,
+        "full_name": "ZhuLinsen/daily_stock_analysis",
+        "language": "Python",
+        "name": "daily_stock_analysis",
+        "owner": "ZhuLinsen",
+        "rank": 7,
+        "stars_today": 306,
+        "total_stars": 61571,
+        "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.83,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 69.63
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 306 stars today; score 69.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-30T18:20:43Z",
+        "default_branch": "main",
+        "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+        "fork": false,
+        "full_name": "harveyai/harvey-labs",
+        "homepage": "https://www.harvey.ai/blog/introducing-harveys-legal-agent-benchmark",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 47,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-07T17:00:18Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"docs/assets/lab-hero.png\" alt=\"Harvey LAB\" width=\"100%\"> </p> <p align=\"center\"> <strong>Legal Agent Benchmark (LAB): An open-source benchmark for evaluating agents on real legal work.</strong> </p> <p align=\"center\"> <a href=\"https://github.com/harveyai/harvey-labs/tags\"><img alt=\"Latest version\" src=\"https://img.shields.io/github/v/tag/harveyai/harvey-labs?display_name=tag&sort=semver&style=flat-square&label=version\"></a> <img alt=\"License: MIT\" src=\"https://img.sh",
+        "topics": [],
+        "updated_at": "2026-08-10T08:54:54Z"
+      },
+      "repo": {
+        "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+        "forks": 183,
+        "full_name": "harveyai/harvey-labs",
+        "language": "Python",
+        "name": "harvey-labs",
+        "owner": "harveyai",
+        "rank": 11,
+        "stars_today": 47,
+        "total_stars": 930,
+        "url": "https://github.com/harveyai/harvey-labs"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.33,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 69.13
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 47 stars today; score 69.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-08T01:42:41Z",
+        "default_branch": "main",
+        "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+        "fork": false,
+        "full_name": "PrimeIntellect-ai/prime-agent",
+        "homepage": null,
+        "latest_release": "v0.7.1",
+        "license_spdx": "MIT",
+        "open_issues": 465,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-10T08:43:38Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://primeintellect.ai\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/40c36e38-c5bd-4c5a-9cb3-f7b902cd155d\"> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/6414bc9b-126b-41ca-9307-9e982430cde8\"> <img alt=\"Prime Intellect\" src=\"https://github.com/user-attachments/assets/6414bc9b-126b-41ca-9307-9e982430cde8\" width=\"312\" style=\"max-width: 100%;\"> </picture> <",
+        "topics": [],
+        "updated_at": "2026-08-10T08:58:27Z"
+      },
+      "repo": {
+        "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+        "forks": 1228,
+        "full_name": "PrimeIntellect-ai/prime-agent",
+        "language": "TypeScript",
+        "name": "prime-agent",
+        "owner": "PrimeIntellect-ai",
+        "rank": 1,
+        "stars_today": 2356,
+        "total_stars": 12200,
+        "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.9,
+        "technical_quality": 14.0,
+        "total": 67.68
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 2356 stars today; score 67.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-01-17T03:15:56Z",
+        "default_branch": "master",
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+        "fork": false,
+        "full_name": "Comfy-Org/ComfyUI",
+        "homepage": "https://www.comfy.org/",
+        "latest_release": "v0.31.0",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 4507,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-10T07:13:59Z",
+        "readme_excerpt": "<div align=\"center\"> # ComfyUI **The most powerful and modular AI engine for content creation.** [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shield]][matrix-url] <br> [![][github-release-shield]][github-release-link] [![][github-release-date-shield]][github-release-link] [![][github-downloads-shield]][github-downloads-link] [![][github-downloads-latest-shield]][github-downloads-link] [m",
+        "topics": [
+          "ai",
+          "comfy",
+          "comfyui",
+          "python",
+          "pytorch",
+          "stable-diffusion"
+        ],
+        "updated_at": "2026-08-10T08:58:07Z"
+      },
+      "repo": {
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+        "forks": 14873,
+        "full_name": "Comfy-Org/ComfyUI",
+        "language": "Python",
+        "name": "ComfyUI",
+        "owner": "Comfy-Org",
+        "rank": 10,
+        "stars_today": 365,
+        "total_stars": 125900,
+        "url": "https://github.com/Comfy-Org/ComfyUI"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.61,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 64.91
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 365 stars today; score 64.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-31T19:02:20Z",
+        "default_branch": "main",
+        "description": "Agent Skills for Google products and technologies",
+        "fork": false,
+        "full_name": "google/skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 34,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-07T22:50:54Z",
+        "readme_excerpt": "# Agent Skills [![Install via skills.sh](https://img.shields.io/badge/skills.sh-install-green)](https://skills.sh/google/skills) This repository contains [Agent Skills](https://agentskills.io/home) for Google products and technologies, including [Google Cloud](https://cloud.google.com). > [!NOTE] > This repository is under active development. ## Installation ```bash npx skills add google/skills ``` From the `npx install` command, you can select the specific skills from this repo to install. ## A",
+        "topics": [
+          "google",
+          "googlecloud",
+          "skills"
+        ],
+        "updated_at": "2026-08-10T08:56:10Z"
+      },
+      "repo": {
+        "description": "Agent Skills for Google products and technologies",
+        "forks": 1402,
+        "full_name": "google/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "google",
+        "rank": 9,
+        "stars_today": 528,
+        "total_stars": 17447,
+        "url": "https://github.com/google/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 4.33,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 63.17
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 528 stars today; score 63.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-08T23:46:22Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "pingdotgg/t3code",
+        "homepage": "https://t3.codes",
+        "latest_release": "v0.0.32",
+        "license_spdx": "MIT",
+        "open_issues": 1447,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-10T06:53:07Z",
+        "readme_excerpt": "# T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app ([iOS](https://apps.apple.com/us/app/t3-code-remote-claude-more/id6787819824), [Android](https://play.google.com/store/apps/details?id=com.t3tools.t3code)), [web app](https://app.t3.codes) and [Electron-based desktop app](https://t3.codes). Works with your subscriptions on Claude Code, Codex, Cursor, Grok Build, and OpenCode. If they're set up on your computer",
+        "topics": [],
+        "updated_at": "2026-08-10T08:58:01Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 4026,
+        "full_name": "pingdotgg/t3code",
+        "language": "TypeScript",
+        "name": "t3code",
+        "owner": "pingdotgg",
+        "rank": 12,
+        "stars_today": 163,
+        "total_stars": 17800,
+        "url": "https://github.com/pingdotgg/t3code"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 4.9,
+        "momentum": 2.6,
+        "novelty": 2.8,
+        "practical_usefulness": 5.95,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 62.25
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: TypeScript project with 163 stars today; score 62.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-07-14T11:07:57Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "google-deepmind/weathernext",
+        "homepage": null,
+        "latest_release": "v0.3.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 76,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-07T10:10:42Z",
+        "readme_excerpt": "# WeatherNext ## WeatherNext 2 This repo contains the code for WeatherNext 2 (WN2), the global, medium-range atmospheric and cyclone forecasting model developed by Google DeepMind and Google Research. It also contains code for prior generation models [GraphCast](https://deepmind.google/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/) and [GenCast](https://deepmind.google/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/). ### A",
+        "topics": [
+          "weather",
+          "weather-forecast"
+        ],
+        "updated_at": "2026-08-10T08:58:21Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 944,
+        "full_name": "google-deepmind/weathernext",
+        "language": "Python",
+        "name": "weathernext",
+        "owner": "google-deepmind",
+        "rank": 5,
+        "stars_today": 86,
+        "total_stars": 7202,
+        "url": "https://github.com/google-deepmind/weathernext"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 4.9,
+        "momentum": 3.33,
+        "novelty": 8.0,
+        "practical_usefulness": 5.95,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 61.88
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Python project with 86 stars today; score 61.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/vitali87",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+        "forks": 536,
+        "full_name": "sponsors/vitali87",
+        "language": "Python",
+        "name": "vitali87",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 96,
+        "total_stars": 3278,
+        "url": "https://github.com/sponsors/vitali87"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.8,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 37.45
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 96 stars today; score 37.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/msitarzewski",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "forks": 23041,
+        "full_name": "sponsors/msitarzewski",
+        "language": "Shell",
+        "name": "msitarzewski",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 858,
+        "total_stars": 141232,
+        "url": "https://github.com/sponsors/msitarzewski"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.37,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 34.82
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 858 stars today; score 34.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/pranshuparmar",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+        "forks": 738,
+        "full_name": "sponsors/pranshuparmar",
+        "language": "Go",
+        "name": "pranshuparmar",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 210,
+        "total_stars": 21073,
+        "url": "https://github.com/sponsors/pranshuparmar"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.92,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 33.07
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 210 stars today; score 33.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/goauthentik",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The authentication glue you need.",
+        "forks": 1867,
+        "full_name": "sponsors/goauthentik",
+        "language": "Python",
+        "name": "goauthentik",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 310,
+        "total_stars": 24415,
+        "url": "https://github.com/sponsors/goauthentik"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.7,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.51,
+        "technical_quality": 3.5,
+        "total": 18.41
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 310 stars today; score 18.4/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-08-10",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is ZhuLinsen/daily_stock_analysis."
+}

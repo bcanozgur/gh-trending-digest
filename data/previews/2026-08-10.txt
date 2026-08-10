@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-08-10
+
+Today leans toward AI workflow signal; the strongest pick is ZhuLinsen/daily_stock_analysis.
+
+Top picks
+1. ZhuLinsen/daily_stock_analysis - 69.6/100
+   https://github.com/ZhuLinsen/daily_stock_analysis
+   AI Workflow, DevTools: Python project with 306 stars today; score 69.6/100.
+2. harveyai/harvey-labs - 69.1/100
+   https://github.com/harveyai/harvey-labs
+   AI Workflow, Try Today: Python project with 47 stars today; score 69.1/100.
+3. Comfy-Org/ComfyUI - 64.9/100
+   https://github.com/Comfy-Org/ComfyUI
+   AI Workflow, DevTools: Python project with 365 stars today; score 64.9/100.
+4. pingdotgg/t3code - 62.2/100
+   https://github.com/pingdotgg/t3code
+   AI Workflow, Deep Dive: TypeScript project with 163 stars today; score 62.2/100.
+5. google-deepmind/weathernext - 61.9/100
+   https://github.com/google-deepmind/weathernext
+   AI Workflow, Deep Dive: Python project with 86 stars today; score 61.9/100.
+
+Full reviewed list
+- ZhuLinsen/daily_stock_analysis: 69.6/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 306 stars today; score 69.6/100.
+- harveyai/harvey-labs: 69.1/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 47 stars today; score 69.1/100.
+- Comfy-Org/ComfyUI: 64.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 365 stars today; score 64.9/100.
+- pingdotgg/t3code: 62.2/100 [AI Workflow, Deep Dive] AI Workflow, Deep Dive: TypeScript project with 163 stars today; score 62.2/100.
+- google-deepmind/weathernext: 61.9/100 [AI Workflow, Deep Dive] AI Workflow, Deep Dive: Python project with 86 stars today; score 61.9/100.
+- sponsors/vitali87: 37.5/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Python project with 96 stars today; score 37.5/100.
+- sponsors/msitarzewski: 34.8/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Shell project with 858 stars today; score 34.8/100.
+
+Generated for 2026-08-10 from GitHub Trending daily.
