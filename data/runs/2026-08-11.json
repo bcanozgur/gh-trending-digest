@@ -1,0 +1,1201 @@
+{
+  "date": "2026-08-11",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-04-15T21:02:29Z",
+        "default_branch": "main",
+        "description": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
+        "fork": false,
+        "full_name": "firecrawl/firecrawl",
+        "homepage": "https://firecrawl.dev",
+        "latest_release": "v2.11.0",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 497,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-11T06:23:22Z",
+        "readme_excerpt": "<h3 align=\"center\"> <a name=\"readme-top\"></a> <img src=\"https://raw.githubusercontent.com/firecrawl/firecrawl/main/img/firecrawl_logo.png\" height=\"200\" > </h3> <div align=\"center\"> <a href=\"https://github.com/firecrawl/firecrawl/blob/main/LICENSE\"> <img src=\"https://img.shields.io/github/license/firecrawl/firecrawl\" alt=\"License\"> </a> <a href=\"https://pepy.tech/project/firecrawl-py\"> <img src=\"https://static.pepy.tech/badge/firecrawl-py\" alt=\"Downloads\"> </a> <a href=\"https://GitHub.com/firecra",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-crawler",
+          "ai-scraping",
+          "ai-search",
+          "crawler",
+          "data-extraction",
+          "html-to-markdown",
+          "llm",
+          "markdown",
+          "scraper",
+          "scraping",
+          "web-crawler",
+          "web-data",
+          "web-data-extraction",
+          "web-scraper",
+          "web-scraping",
+          "web-search",
+          "webscraping"
+        ],
+        "updated_at": "2026-08-11T08:31:01Z"
+      },
+      "repo": {
+        "description": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
+        "forks": 9307,
+        "full_name": "firecrawl/firecrawl",
+        "language": "TypeScript",
+        "name": "firecrawl",
+        "owner": "firecrawl",
+        "rank": 10,
+        "stars_today": 835,
+        "total_stars": 165416,
+        "url": "https://github.com/firecrawl/firecrawl"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.96,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 75.26
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 835 stars today; score 75.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-02T15:01:51Z",
+        "default_branch": "master",
+        "description": "The open-source app everyone uses to manage agents at work",
+        "fork": false,
+        "full_name": "paperclipai/paperclip",
+        "homepage": "https://paperclip.ing",
+        "latest_release": "v2026.722.0",
+        "license_spdx": "MIT",
+        "open_issues": 5093,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-11T07:40:41Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"doc/assets/banner.jpg\" alt=\"Paperclip is the app people use to manage AI agents for work.\" width=\"720\" /> </p> <p align=\"center\"> <a href=\"#quickstart\"><strong>Quickstart</strong></a> &middot; <a href=\"https://docs.paperclip.ing\"><strong>Docs</strong></a> &middot; <a href=\"https://github.com/paperclipai/paperclip\"><strong>GitHub</strong></a> &middot; <a href=\"https://discord.gg/m4HZY7xNG3\"><strong>Discord</strong></a> &middot; <a href=\"https://x.com/papercliping\"><st",
+        "topics": [],
+        "updated_at": "2026-08-11T08:30:39Z"
+      },
+      "repo": {
+        "description": "The open-source app everyone uses to manage agents at work",
+        "forks": 14222,
+        "full_name": "paperclipai/paperclip",
+        "language": "TypeScript",
+        "name": "paperclip",
+        "owner": "paperclipai",
+        "rank": 5,
+        "stars_today": 198,
+        "total_stars": 76801,
+        "url": "https://github.com/paperclipai/paperclip"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.65,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 72.24
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 198 stars today; score 72.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-06-07T04:32:30Z",
+        "default_branch": "main",
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "fork": false,
+        "full_name": "ruvnet/RuView",
+        "homepage": "https://Cognitum.One/RuView",
+        "latest_release": "v2146",
+        "license_spdx": "MIT",
+        "open_issues": 490,
+        "primary_language": "Rust",
+        "pushed_at": "2026-08-11T06:24:29Z",
+        "readme_excerpt": "# \u03c0 RuView <p align=\"center\"> <a href=\"https://cognitum.one/seed\"> <img src=\"assets/ruview-seed.png\" alt=\"RuView - WiFi DensePose\" width=\"100%\"> </a> </p> <p align=\"center\"> <a href=\"https://cognitum.one/marketplace\"> <img src=\"assets/musica-promo.png\" alt=\"Cognitum Musica\" width=\"100%\"> </a> </p> <p align=\"center\"> <a href=\"https://github.com/ruvnet/RuCelium\"> <img src=\"assets/rucelium-hero.png\" alt=\"RuCelium \u2014 environmental intelligence\" width=\"100%\"> </a> </p> ## **See through walls with WiFi",
+        "topics": [
+          "awesome",
+          "claude",
+          "densepose",
+          "esp32",
+          "firmware",
+          "home-assistant",
+          "home-automation",
+          "iot",
+          "monitoring",
+          "networking",
+          "npm",
+          "pose-estimation",
+          "react",
+          "rf",
+          "self-learning",
+          "skills",
+          "spatial-intelligence",
+          "typescript",
+          "wifi",
+          "wifi-security"
+        ],
+        "updated_at": "2026-08-11T08:27:22Z"
+      },
+      "repo": {
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "forks": 11898,
+        "full_name": "ruvnet/RuView",
+        "language": "Rust",
+        "name": "RuView",
+        "owner": "ruvnet",
+        "rank": 8,
+        "stars_today": 154,
+        "total_stars": 89499,
+        "url": "https://github.com/ruvnet/RuView"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.08,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 59.18
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 154 stars today; score 59.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-01-31T21:28:44Z",
+        "default_branch": "3.x",
+        "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+        "fork": false,
+        "full_name": "opa334/Dopamine",
+        "homepage": null,
+        "latest_release": "3.0.4",
+        "license_spdx": "MIT",
+        "open_issues": 84,
+        "primary_language": "C",
+        "pushed_at": "2026-08-09T18:05:26Z",
+        "readme_excerpt": "<img src=\"https://github.com/opa334/Dopamine/assets/52459150/ed04dd3e-d879-456d-9aa3-d4ed44819c7e\" width=\"64\" /> # Dopamine A rootless semi-untethered jailbreak for iOS 15.0 - 17.3.1 (arm64e), iOS 15.0 - 18.7.1, 26.0 - 26.0.1 (A12/A13) and iOS 15.0 - 18.7.1 (arm64). More details will follow here soon. Please note that all issues related to version support will be deleted without response. Official website / download: https://ellekit.space/dopamine/",
+        "topics": [],
+        "updated_at": "2026-08-11T08:23:10Z"
+      },
+      "repo": {
+        "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+        "forks": 6202,
+        "full_name": "opa334/Dopamine",
+        "language": "C",
+        "name": "Dopamine",
+        "owner": "opa334",
+        "rank": 16,
+        "stars_today": 111,
+        "total_stars": 6129,
+        "url": "https://github.com/opa334/Dopamine"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.79,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 57.54
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: C project with 111 stars today; score 57.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/danielmiessler",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\u26f0\ufe0fA General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+        "forks": 2377,
+        "full_name": "sponsors/danielmiessler",
+        "language": "TypeScript",
+        "name": "danielmiessler",
+        "owner": "sponsors",
+        "rank": 9,
+        "stars_today": 315,
+        "total_stars": 18148,
+        "url": "https://github.com/sponsors/danielmiessler"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.45,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 37.8
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 315 stars today; score 37.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/NanmiCoder",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\u5c0f\u7ea2\u4e66\u7b14\u8bb0 | \u8bc4\u8bba\u722c\u866b\u3001\u6296\u97f3\u89c6\u9891 | \u8bc4\u8bba\u722c\u866b\u3001\u5feb\u624b\u89c6\u9891 | \u8bc4\u8bba\u722c\u866b\u3001B \u7ad9\u89c6\u9891 \uff5c \u8bc4\u8bba\u722c\u866b\u3001\u5fae\u535a\u5e16\u5b50 \uff5c \u8bc4\u8bba\u722c\u866b\u3001\u767e\u5ea6\u8d34\u5427\u5e16\u5b50 \uff5c \u767e\u5ea6\u8d34\u5427\u8bc4\u8bba\u56de\u590d\u722c\u866b | \u77e5\u4e4e\u95ee\u7b54\u6587\u7ae0\uff5c\u8bc4\u8bba\u722c\u866b",
+        "forks": 12064,
+        "full_name": "sponsors/NanmiCoder",
+        "language": "Python",
+        "name": "NanmiCoder",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 259,
+        "total_stars": 61501,
+        "url": "https://github.com/sponsors/NanmiCoder"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.14,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.69,
+        "technical_quality": 3.5,
+        "total": 19.03
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 259 stars today; score 19.0/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-04-15T21:02:29Z",
+        "default_branch": "main",
+        "description": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
+        "fork": false,
+        "full_name": "firecrawl/firecrawl",
+        "homepage": "https://firecrawl.dev",
+        "latest_release": "v2.11.0",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 497,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-11T06:23:22Z",
+        "readme_excerpt": "<h3 align=\"center\"> <a name=\"readme-top\"></a> <img src=\"https://raw.githubusercontent.com/firecrawl/firecrawl/main/img/firecrawl_logo.png\" height=\"200\" > </h3> <div align=\"center\"> <a href=\"https://github.com/firecrawl/firecrawl/blob/main/LICENSE\"> <img src=\"https://img.shields.io/github/license/firecrawl/firecrawl\" alt=\"License\"> </a> <a href=\"https://pepy.tech/project/firecrawl-py\"> <img src=\"https://static.pepy.tech/badge/firecrawl-py\" alt=\"Downloads\"> </a> <a href=\"https://GitHub.com/firecra",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-crawler",
+          "ai-scraping",
+          "ai-search",
+          "crawler",
+          "data-extraction",
+          "html-to-markdown",
+          "llm",
+          "markdown",
+          "scraper",
+          "scraping",
+          "web-crawler",
+          "web-data",
+          "web-data-extraction",
+          "web-scraper",
+          "web-scraping",
+          "web-search",
+          "webscraping"
+        ],
+        "updated_at": "2026-08-11T08:31:01Z"
+      },
+      "repo": {
+        "description": "The context API to search, scrape, and interact with the web at scale. \ud83d\udd25",
+        "forks": 9307,
+        "full_name": "firecrawl/firecrawl",
+        "language": "TypeScript",
+        "name": "firecrawl",
+        "owner": "firecrawl",
+        "rank": 10,
+        "stars_today": 835,
+        "total_stars": 165416,
+        "url": "https://github.com/firecrawl/firecrawl"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.96,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 75.26
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 835 stars today; score 75.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-15T20:20:26Z",
+        "default_branch": "main",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "fork": false,
+        "full_name": "addyosmani/agent-skills",
+        "homepage": "https://skills.addy.ie",
+        "latest_release": "0.6.6",
+        "license_spdx": "MIT",
+        "open_issues": 107,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-08-08T21:05:57Z",
+        "readme_excerpt": "# Agent Skills **Production-grade engineering skills for AI coding agents.** Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. <a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" wid",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-08-11T08:28:51Z"
+      },
+      "repo": {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "forks": 9249,
+        "full_name": "addyosmani/agent-skills",
+        "language": "JavaScript",
+        "name": "agent-skills",
+        "owner": "addyosmani",
+        "rank": 4,
+        "stars_today": 659,
+        "total_stars": 85952,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.26,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.96
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 659 stars today; score 74.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-02T15:01:51Z",
+        "default_branch": "master",
+        "description": "The open-source app everyone uses to manage agents at work",
+        "fork": false,
+        "full_name": "paperclipai/paperclip",
+        "homepage": "https://paperclip.ing",
+        "latest_release": "v2026.722.0",
+        "license_spdx": "MIT",
+        "open_issues": 5093,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-11T07:40:41Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"doc/assets/banner.jpg\" alt=\"Paperclip is the app people use to manage AI agents for work.\" width=\"720\" /> </p> <p align=\"center\"> <a href=\"#quickstart\"><strong>Quickstart</strong></a> &middot; <a href=\"https://docs.paperclip.ing\"><strong>Docs</strong></a> &middot; <a href=\"https://github.com/paperclipai/paperclip\"><strong>GitHub</strong></a> &middot; <a href=\"https://discord.gg/m4HZY7xNG3\"><strong>Discord</strong></a> &middot; <a href=\"https://x.com/papercliping\"><st",
+        "topics": [],
+        "updated_at": "2026-08-11T08:30:39Z"
+      },
+      "repo": {
+        "description": "The open-source app everyone uses to manage agents at work",
+        "forks": 14222,
+        "full_name": "paperclipai/paperclip",
+        "language": "TypeScript",
+        "name": "paperclip",
+        "owner": "paperclipai",
+        "rank": 5,
+        "stars_today": 198,
+        "total_stars": 76801,
+        "url": "https://github.com/paperclipai/paperclip"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.65,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 72.24
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 198 stars today; score 72.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-08T01:42:41Z",
+        "default_branch": "main",
+        "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+        "fork": false,
+        "full_name": "PrimeIntellect-ai/prime-agent",
+        "homepage": null,
+        "latest_release": "v0.7.1",
+        "license_spdx": "MIT",
+        "open_issues": 503,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-11T08:27:53Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://primeintellect.ai\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/40c36e38-c5bd-4c5a-9cb3-f7b902cd155d\"> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/6414bc9b-126b-41ca-9307-9e982430cde8\"> <img alt=\"Prime Intellect\" src=\"https://github.com/user-attachments/assets/6414bc9b-126b-41ca-9307-9e982430cde8\" width=\"312\" style=\"max-width: 100%;\"> </picture> <",
+        "topics": [],
+        "updated_at": "2026-08-11T08:29:44Z"
+      },
+      "repo": {
+        "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+        "forks": 1378,
+        "full_name": "PrimeIntellect-ai/prime-agent",
+        "language": "TypeScript",
+        "name": "prime-agent",
+        "owner": "PrimeIntellect-ai",
+        "rank": 6,
+        "stars_today": 2642,
+        "total_stars": 13457,
+        "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.28,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.61,
+        "technical_quality": 14.0,
+        "total": 66.67
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 2642 stars today; score 66.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-12-28T03:31:08Z",
+        "default_branch": "main",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "fork": false,
+        "full_name": "TauricResearch/TradingAgents",
+        "homepage": "https://arxiv.org/pdf/2412.20138",
+        "latest_release": "v0.3.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 354,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-18T15:55:05Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"assets/TauricResearch.png\" style=\"width: 60%; height: auto;\"> </p> <div align=\"center\" style=\"line-height: 1;\"> <a href=\"https://arxiv.org/abs/2412.20138\" target=\"_blank\"><img alt=\"arXiv\" src=\"https://img.shields.io/badge/arXiv-2412.20138-B31B1B?logo=arxiv\"/></a> <a href=\"https://discord.com/invite/hk9PGKShPK\" target=\"_blank\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/Discord-TradingResearch-7289da?logo=discord&logoColor=white&color=7289da\"/></a> <a href=\"h",
+        "topics": [
+          "agent",
+          "finance",
+          "llm",
+          "multiagent",
+          "trading"
+        ],
+        "updated_at": "2026-08-11T08:27:32Z"
+      },
+      "repo": {
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "forks": 18752,
+        "full_name": "TauricResearch/TradingAgents",
+        "language": "Python",
+        "name": "TradingAgents",
+        "owner": "TauricResearch",
+        "rank": 11,
+        "stars_today": 177,
+        "total_stars": 97443,
+        "url": "https://github.com/TauricResearch/TradingAgents"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.72,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 63.32
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 177 stars today; score 63.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-08T23:46:22Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "pingdotgg/t3code",
+        "homepage": "https://t3.codes",
+        "latest_release": "v0.0.33",
+        "license_spdx": "MIT",
+        "open_issues": 1524,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-11T03:54:12Z",
+        "readme_excerpt": "# T3 Code T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app ([iOS](https://apps.apple.com/us/app/t3-code-remote-claude-more/id6787819824), [Android](https://play.google.com/store/apps/details?id=com.t3tools.t3code)), [web app](https://app.t3.codes) and [Electron-based desktop app](https://t3.codes). Works with your subscriptions on Claude Code, Codex, Cursor, Grok Build, and OpenCode. If they're set up on your computer",
+        "topics": [],
+        "updated_at": "2026-08-11T08:26:13Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 4090,
+        "full_name": "pingdotgg/t3code",
+        "language": "TypeScript",
+        "name": "t3code",
+        "owner": "pingdotgg",
+        "rank": 14,
+        "stars_today": 389,
+        "total_stars": 18125,
+        "url": "https://github.com/pingdotgg/t3code"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 4.9,
+        "momentum": 2.96,
+        "novelty": 2.8,
+        "practical_usefulness": 5.95,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 62.61
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: TypeScript project with 389 stars today; score 62.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-01-17T03:15:56Z",
+        "default_branch": "master",
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+        "fork": false,
+        "full_name": "Comfy-Org/ComfyUI",
+        "homepage": "https://www.comfy.org/",
+        "latest_release": "v0.31.0",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 4511,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-11T05:03:12Z",
+        "readme_excerpt": "<div align=\"center\"> # ComfyUI **The most powerful and modular AI engine for content creation.** [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shield]][matrix-url] <br> [![][github-release-shield]][github-release-link] [![][github-release-date-shield]][github-release-link] [![][github-downloads-shield]][github-downloads-link] [![][github-downloads-latest-shield]][github-downloads-link] [m",
+        "topics": [
+          "ai",
+          "comfy",
+          "comfyui",
+          "python",
+          "pytorch",
+          "stable-diffusion"
+        ],
+        "updated_at": "2026-08-11T08:30:34Z"
+      },
+      "repo": {
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+        "forks": 14914,
+        "full_name": "Comfy-Org/ComfyUI",
+        "language": "Python",
+        "name": "ComfyUI",
+        "owner": "Comfy-Org",
+        "rank": 15,
+        "stars_today": 922,
+        "total_stars": 126585,
+        "url": "https://github.com/Comfy-Org/ComfyUI"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.52,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 60.62
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 922 stars today; score 60.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-06-07T04:32:30Z",
+        "default_branch": "main",
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "fork": false,
+        "full_name": "ruvnet/RuView",
+        "homepage": "https://Cognitum.One/RuView",
+        "latest_release": "v2146",
+        "license_spdx": "MIT",
+        "open_issues": 490,
+        "primary_language": "Rust",
+        "pushed_at": "2026-08-11T06:24:29Z",
+        "readme_excerpt": "# \u03c0 RuView <p align=\"center\"> <a href=\"https://cognitum.one/seed\"> <img src=\"assets/ruview-seed.png\" alt=\"RuView - WiFi DensePose\" width=\"100%\"> </a> </p> <p align=\"center\"> <a href=\"https://cognitum.one/marketplace\"> <img src=\"assets/musica-promo.png\" alt=\"Cognitum Musica\" width=\"100%\"> </a> </p> <p align=\"center\"> <a href=\"https://github.com/ruvnet/RuCelium\"> <img src=\"assets/rucelium-hero.png\" alt=\"RuCelium \u2014 environmental intelligence\" width=\"100%\"> </a> </p> ## **See through walls with WiFi",
+        "topics": [
+          "awesome",
+          "claude",
+          "densepose",
+          "esp32",
+          "firmware",
+          "home-assistant",
+          "home-automation",
+          "iot",
+          "monitoring",
+          "networking",
+          "npm",
+          "pose-estimation",
+          "react",
+          "rf",
+          "self-learning",
+          "skills",
+          "spatial-intelligence",
+          "typescript",
+          "wifi",
+          "wifi-security"
+        ],
+        "updated_at": "2026-08-11T08:27:22Z"
+      },
+      "repo": {
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "forks": 11898,
+        "full_name": "ruvnet/RuView",
+        "language": "Rust",
+        "name": "RuView",
+        "owner": "ruvnet",
+        "rank": 8,
+        "stars_today": 154,
+        "total_stars": 89499,
+        "url": "https://github.com/ruvnet/RuView"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.08,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 59.18
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 154 stars today; score 59.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-01-31T21:28:44Z",
+        "default_branch": "3.x",
+        "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+        "fork": false,
+        "full_name": "opa334/Dopamine",
+        "homepage": null,
+        "latest_release": "3.0.4",
+        "license_spdx": "MIT",
+        "open_issues": 84,
+        "primary_language": "C",
+        "pushed_at": "2026-08-09T18:05:26Z",
+        "readme_excerpt": "<img src=\"https://github.com/opa334/Dopamine/assets/52459150/ed04dd3e-d879-456d-9aa3-d4ed44819c7e\" width=\"64\" /> # Dopamine A rootless semi-untethered jailbreak for iOS 15.0 - 17.3.1 (arm64e), iOS 15.0 - 18.7.1, 26.0 - 26.0.1 (A12/A13) and iOS 15.0 - 18.7.1 (arm64). More details will follow here soon. Please note that all issues related to version support will be deleted without response. Official website / download: https://ellekit.space/dopamine/",
+        "topics": [],
+        "updated_at": "2026-08-11T08:23:10Z"
+      },
+      "repo": {
+        "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+        "forks": 6202,
+        "full_name": "opa334/Dopamine",
+        "language": "C",
+        "name": "Dopamine",
+        "owner": "opa334",
+        "rank": 16,
+        "stars_today": 111,
+        "total_stars": 6129,
+        "url": "https://github.com/opa334/Dopamine"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.79,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 57.54
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: C project with 111 stars today; score 57.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-07-14T11:07:57Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "google-deepmind/weathernext",
+        "homepage": null,
+        "latest_release": "v0.3.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 77,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-07T10:10:42Z",
+        "readme_excerpt": "# WeatherNext ## WeatherNext 2 This repo contains the code for WeatherNext 2 (WN2), the global, medium-range atmospheric and cyclone forecasting model developed by Google DeepMind and Google Research. It also contains code for prior generation models [GraphCast](https://deepmind.google/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/) and [GenCast](https://deepmind.google/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/). ### A",
+        "topics": [
+          "weather",
+          "weather-forecast"
+        ],
+        "updated_at": "2026-08-11T08:23:21Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 959,
+        "full_name": "google-deepmind/weathernext",
+        "language": "Python",
+        "name": "weathernext",
+        "owner": "google-deepmind",
+        "rank": 12,
+        "stars_today": 325,
+        "total_stars": 7425,
+        "url": "https://github.com/google-deepmind/weathernext"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 4.9,
+        "momentum": 3.05,
+        "novelty": 2.8,
+        "practical_usefulness": 5.95,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 56.4
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Python project with 325 stars today; score 56.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-05-30T09:18:10Z",
+        "default_branch": "master",
+        "description": "Truly independent web browser",
+        "fork": false,
+        "full_name": "LadybirdBrowser/ladybird",
+        "homepage": "https://ladybird.org",
+        "latest_release": null,
+        "license_spdx": "BSD-2-Clause",
+        "open_issues": 537,
+        "primary_language": "C++",
+        "pushed_at": "2026-08-11T08:15:36Z",
+        "readme_excerpt": "# Ladybird [Ladybird](https://ladybird.org) is a truly independent web browser, using a novel engine based on web standards. > [!IMPORTANT] > Ladybird is in a pre-alpha state, and only suitable for use by developers > ## Features We aim to build a complete, usable browser for the modern web. Ladybird uses a multi-process architecture with a main UI process, several WebContent renderer processes, an ImageDecoder process, and a RequestServer process. Image decoding and network connections are done",
+        "topics": [
+          "browser",
+          "browser-engine"
+        ],
+        "updated_at": "2026-08-11T08:23:01Z"
+      },
+      "repo": {
+        "description": "Truly independent web browser",
+        "forks": 3124,
+        "full_name": "LadybirdBrowser/ladybird",
+        "language": "C++",
+        "name": "ladybird",
+        "owner": "LadybirdBrowser",
+        "rank": 7,
+        "stars_today": 56,
+        "total_stars": 65335,
+        "url": "https://github.com/LadybirdBrowser/ladybird"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.91,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 51.01
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 56 stars today; score 51.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/danielmiessler",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\u26f0\ufe0fA General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+        "forks": 2377,
+        "full_name": "sponsors/danielmiessler",
+        "language": "TypeScript",
+        "name": "danielmiessler",
+        "owner": "sponsors",
+        "rank": 9,
+        "stars_today": 315,
+        "total_stars": 18148,
+        "url": "https://github.com/sponsors/danielmiessler"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.45,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 37.8
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 315 stars today; score 37.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/msitarzewski",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "forks": 23166,
+        "full_name": "sponsors/msitarzewski",
+        "language": "Shell",
+        "name": "msitarzewski",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 1349,
+        "total_stars": 142125,
+        "url": "https://github.com/sponsors/msitarzewski"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 7.75,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 36.2
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 1349 stars today; score 36.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/vitali87",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+        "forks": 553,
+        "full_name": "sponsors/vitali87",
+        "language": "Python",
+        "name": "vitali87",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 682,
+        "total_stars": 3646,
+        "url": "https://github.com/sponsors/vitali87"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.04,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 32.49
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 682 stars today; score 32.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/semantica-agi",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+        "forks": 498,
+        "full_name": "sponsors/semantica-agi",
+        "language": "Python",
+        "name": "semantica-agi",
+        "owner": "sponsors",
+        "rank": 1,
+        "stars_today": 970,
+        "total_stars": 4454,
+        "url": "https://github.com/sponsors/semantica-agi"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.68,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 30.63
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 970 stars today; score 30.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/NanmiCoder",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\u5c0f\u7ea2\u4e66\u7b14\u8bb0 | \u8bc4\u8bba\u722c\u866b\u3001\u6296\u97f3\u89c6\u9891 | \u8bc4\u8bba\u722c\u866b\u3001\u5feb\u624b\u89c6\u9891 | \u8bc4\u8bba\u722c\u866b\u3001B \u7ad9\u89c6\u9891 \uff5c \u8bc4\u8bba\u722c\u866b\u3001\u5fae\u535a\u5e16\u5b50 \uff5c \u8bc4\u8bba\u722c\u866b\u3001\u767e\u5ea6\u8d34\u5427\u5e16\u5b50 \uff5c \u767e\u5ea6\u8d34\u5427\u8bc4\u8bba\u56de\u590d\u722c\u866b | \u77e5\u4e4e\u95ee\u7b54\u6587\u7ae0\uff5c\u8bc4\u8bba\u722c\u866b",
+        "forks": 12064,
+        "full_name": "sponsors/NanmiCoder",
+        "language": "Python",
+        "name": "NanmiCoder",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 259,
+        "total_stars": 61501,
+        "url": "https://github.com/sponsors/NanmiCoder"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.14,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.69,
+        "technical_quality": 3.5,
+        "total": 19.03
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 259 stars today; score 19.0/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-08-11",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is firecrawl/firecrawl."
+}

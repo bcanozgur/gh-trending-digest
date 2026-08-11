@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-08-11
+
+Today leans toward AI workflow signal; the strongest pick is firecrawl/firecrawl.
+
+Top picks
+1. firecrawl/firecrawl - 75.3/100
+   https://github.com/firecrawl/firecrawl
+   AI Workflow, DevTools: TypeScript project with 835 stars today; score 75.3/100.
+2. paperclipai/paperclip - 72.2/100
+   https://github.com/paperclipai/paperclip
+   AI Workflow, DevTools: TypeScript project with 198 stars today; score 72.2/100.
+3. ruvnet/RuView - 59.2/100
+   https://github.com/ruvnet/RuView
+   AI Workflow, Try Today: Rust project with 154 stars today; score 59.2/100.
+4. opa334/Dopamine - 57.5/100
+   https://github.com/opa334/Dopamine
+   AI Workflow, Try Today: C project with 111 stars today; score 57.5/100.
+5. sponsors/danielmiessler - 37.8/100
+   https://github.com/sponsors/danielmiessler
+   AI Workflow, DevTools: TypeScript project with 315 stars today; score 37.8/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- firecrawl/firecrawl: 75.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 835 stars today; score 75.3/100.
+- paperclipai/paperclip: 72.2/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 198 stars today; score 72.2/100.
+- ruvnet/RuView: 59.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Rust project with 154 stars today; score 59.2/100.
+- opa334/Dopamine: 57.5/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: C project with 111 stars today; score 57.5/100.
+- sponsors/danielmiessler: 37.8/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: TypeScript project with 315 stars today; score 37.8/100.
+- sponsors/NanmiCoder: 19.0/100 [Watch, Hype Risk] Watch, Hype Risk: Python project with 259 stars today; score 19.0/100.
+
+Generated for 2026-08-11 from GitHub Trending daily.
