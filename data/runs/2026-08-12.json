@@ -1,0 +1,1556 @@
+{
+  "date": "2026-08-12",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-17T03:28:57Z",
+        "default_branch": "main",
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+        "fork": false,
+        "full_name": "stablyai/orca",
+        "homepage": "https://onOrca.dev",
+        "latest_release": "v1.4.180",
+        "license_spdx": "MIT",
+        "open_issues": 3595,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-12T08:42:15Z",
+        "readme_excerpt": "<h1 align=\"center\"> <a href=\"https://onOrca.dev\"><img src=\"resources/build/icon.png\" alt=\"Orca\" width=\"64\" valign=\"middle\" /></a> Orca </h1> <p align=\"center\"> <a href=\"https://github.com/stablyai/orca\"><img src=\"https://img.shields.io/github/stars/stablyai/orca?style=flat&amp;label=%E2%98%85&amp;color=08C\" alt=\"GitHub stars\" /></a> <a href=\"https://github.com/stablyai/orca/releases\"><img src=\"docs/assets/readme-downloads.svg\" alt=\"Total downloads across all releases\" /></a> <img src=\"https://im",
+        "topics": [
+          "ade",
+          "agent-ide",
+          "ai-agents",
+          "claude-code",
+          "cli",
+          "codex",
+          "cursor-agent",
+          "devtools",
+          "ghostty",
+          "ide",
+          "mobile-app",
+          "opencode",
+          "orchestration",
+          "parallel-agents",
+          "pi",
+          "terminal",
+          "worktrees",
+          "yc-backed"
+        ],
+        "updated_at": "2026-08-12T08:47:55Z"
+      },
+      "repo": {
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+        "forks": 3014,
+        "full_name": "stablyai/orca",
+        "language": "TypeScript",
+        "name": "orca",
+        "owner": "stablyai",
+        "rank": 11,
+        "stars_today": 875,
+        "total_stars": 43210,
+        "url": "https://github.com/stablyai/orca"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.71,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 84.21
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 875 stars today; score 84.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-16T18:01:16Z",
+        "default_branch": "main",
+        "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+        "fork": false,
+        "full_name": "cathrynlavery/diagram-design",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 6,
+        "primary_language": "HTML",
+        "pushed_at": "2026-08-12T04:39:12Z",
+        "readme_excerpt": "# Diagram Design **Editorial diagrams your designer won't hate.** ![Content site architecture](docs/screenshots/architecture.png) ![The self-improving loop](docs/screenshots/loop.png) *New in 2.0 \u2014 the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs.* 27 types. One agent skill for Claude Code, Codex, and Pi. Your brand in 60 seconds \u2014 the skill reads your website and maps colors + fonts to every diagram. Already have diagrams in draw.io or Mermaid? Point it at the ",
+        "topics": [],
+        "updated_at": "2026-08-12T08:48:14Z"
+      },
+      "repo": {
+        "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+        "forks": 512,
+        "full_name": "cathrynlavery/diagram-design",
+        "language": "HTML",
+        "name": "diagram-design",
+        "owner": "cathrynlavery",
+        "rank": 1,
+        "stars_today": 1616,
+        "total_stars": 7728,
+        "url": "https://github.com/cathrynlavery/diagram-design"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 77.75
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: HTML project with 1616 stars today; score 77.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-10-29T13:56:00Z",
+        "default_branch": "main",
+        "description": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+        "fork": false,
+        "full_name": "huggingface/transformers",
+        "homepage": "https://huggingface.co/transformers",
+        "latest_release": "v5.15.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 2378,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-12T08:06:30Z",
+        "readme_excerpt": "<!--- Copyright 2020 The HuggingFace Team. All rights reserved. Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License f",
+        "topics": [
+          "audio",
+          "deep-learning",
+          "deepseek",
+          "gemma",
+          "glm",
+          "hacktoberfest",
+          "llm",
+          "machine-learning",
+          "model-hub",
+          "natural-language-processing",
+          "nlp",
+          "pretrained-models",
+          "python",
+          "pytorch",
+          "pytorch-transformers",
+          "qwen",
+          "speech-recognition",
+          "transformer",
+          "vlm"
+        ],
+        "updated_at": "2026-08-12T08:45:36Z"
+      },
+      "repo": {
+        "description": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+        "forks": 34219,
+        "full_name": "huggingface/transformers",
+        "language": "Python",
+        "name": "transformers",
+        "owner": "huggingface",
+        "rank": 13,
+        "stars_today": 80,
+        "total_stars": 163941,
+        "url": "https://github.com/huggingface/transformers"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.29,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.34
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 80 stars today; score 73.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-12-28T15:35:54Z",
+        "default_branch": "main",
+        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+        "fork": false,
+        "full_name": "HKUDS/DeepTutor",
+        "homepage": "http://arxiv.org/abs/2604.26962",
+        "latest_release": "v1.5.11",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 101,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-12T08:11:51Z",
+        "readme_excerpt": "<div align=\"center\"> <p align=\"center\"><img src=\"assets/figs/logo/logo.png\" alt=\"DeepTutor logo\" height=\"56\" style=\"vertical-align: middle;\">&nbsp;<img src=\"assets/figs/logo/banner.png\" alt=\"DeepTutor\" height=\"48\" style=\"vertical-align: middle;\"></p> # DeepTutor: Lifelong Personalized Tutoring <p align=\"center\"> <a href=\"https://deeptutor.info\" target=\"_blank\"><img alt=\"Docs \u2014 deeptutor.info\" src=\"https://img.shields.io/badge/Docs-deeptutor.info%20%E2%86%97-0A0A0A?style=for-the-badge&labelColor=",
+        "topics": [
+          "ai-agents",
+          "ai-tutor",
+          "clawdbot",
+          "cli-tool",
+          "deepresearch",
+          "interactive-learning",
+          "large-language-models",
+          "multi-agent-systems",
+          "rag"
+        ],
+        "updated_at": "2026-08-12T08:48:01Z"
+      },
+      "repo": {
+        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+        "forks": 4440,
+        "full_name": "HKUDS/DeepTutor",
+        "language": "Python",
+        "name": "DeepTutor",
+        "owner": "HKUDS",
+        "rank": 10,
+        "stars_today": 812,
+        "total_stars": 35010,
+        "url": "https://github.com/HKUDS/DeepTutor"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.52,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 72.37
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 812 stars today; score 72.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-22T15:53:31Z",
+        "default_branch": "main",
+        "description": "Public repository for Agent Skills",
+        "fork": false,
+        "full_name": "anthropics/skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 1079,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-07T17:14:15Z",
+        "readme_excerpt": "> **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io). [![skills.sh](https://skills.sh/b/anthropics/skills)](https://skills.sh/anthropics/skills) # Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's",
+        "topics": [
+          "agent-skills"
+        ],
+        "updated_at": "2026-08-12T08:48:38Z"
+      },
+      "repo": {
+        "description": "Public repository for Agent Skills",
+        "forks": 20054,
+        "full_name": "anthropics/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "anthropics",
+        "rank": 8,
+        "stars_today": 485,
+        "total_stars": 168379,
+        "url": "https://github.com/anthropics/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.11,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 69.16
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Python project with 485 stars today; score 69.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2017-04-12T05:07:46Z",
+        "default_branch": "master",
+        "description": "Curated list of project-based tutorials",
+        "fork": false,
+        "full_name": "practical-tutorials/project-based-learning",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 267,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-10T07:04:22Z",
+        "readme_excerpt": "# Project Based Learning [![Gitter](https://badges.gitter.im/practical-tutorials/community.svg)](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Link rot sweep](https://github.com/practical-tutorials/project-based-learning/actions/workflows/link-rot.yml/badge.svg)](https://github.com/practical-tutorials/project-based-learning/actions/workflows/link-rot.yml) A list of programming tutorials in which aspiring software developers learn how ",
+        "topics": [
+          "beginner-project",
+          "cpp",
+          "golang",
+          "javascript",
+          "project",
+          "python",
+          "tutorial",
+          "webdevelopment"
+        ],
+        "updated_at": "2026-08-12T08:45:40Z"
+      },
+      "repo": {
+        "description": "Curated list of project-based tutorials",
+        "forks": 35797,
+        "full_name": "practical-tutorials/project-based-learning",
+        "language": "Python",
+        "name": "project-based-learning",
+        "owner": "practical-tutorials",
+        "rank": 17,
+        "stars_today": 401,
+        "total_stars": 278676,
+        "url": "https://github.com/practical-tutorials/project-based-learning"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.38,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 59.74
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 401 stars today; score 59.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2010-04-15T17:47:47Z",
+        "default_branch": "master",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "fork": false,
+        "full_name": "nvm-sh/nvm",
+        "homepage": null,
+        "latest_release": "v0.40.6",
+        "license_spdx": "MIT",
+        "open_issues": 394,
+        "primary_language": "Shell",
+        "pushed_at": "2026-07-24T19:11:41Z",
+        "readme_excerpt": "<a href=\"https://github.com/nvm-sh/logos\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-white.svg\" /> <img src=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-color.svg\" height=\"50\" alt=\"nvm project logo\" /> </picture> </a> # Node Version Manager [![Tests](https://github.com/nvm-sh/nvm/actions/workflows/tests-fast.yml/badge.svg?branch=master)][3] [![nvm version](https://img.shields.io/badge/version-v0.40",
+        "topics": [
+          "bash",
+          "install",
+          "lts",
+          "node",
+          "node-js",
+          "nodejs",
+          "nvm",
+          "nvmrc",
+          "posix",
+          "posix-compliant",
+          "shell",
+          "version-manager",
+          "zsh"
+        ],
+        "updated_at": "2026-08-12T08:45:19Z"
+      },
+      "repo": {
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "forks": 10357,
+        "full_name": "nvm-sh/nvm",
+        "language": "Shell",
+        "name": "nvm",
+        "owner": "nvm-sh",
+        "rank": 4,
+        "stars_today": 22,
+        "total_stars": 94539,
+        "url": "https://github.com/nvm-sh/nvm"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.28,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 54.08
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Shell project with 22 stars today; score 54.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-03-22T18:50:58Z",
+        "default_branch": "master",
+        "description": "Animation engine for explanatory math videos",
+        "fork": false,
+        "full_name": "3b1b/manim",
+        "homepage": null,
+        "latest_release": "v1.7.2",
+        "license_spdx": "MIT",
+        "open_issues": 487,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-11T14:41:19Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://github.com/3b1b/manim\"> <img src=\"https://raw.githubusercontent.com/3b1b/manim/master/logo/cropped.png\"> </a> </p> [![pypi version](https://img.shields.io/pypi/v/manimgl?logo=pypi)](https://pypi.org/project/manimgl/) [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/) [![Manim Subreddit](https://img.shields.io/reddit/subreddit-subscribers/manim.svg?color=ff4301&label=reddit&logo=reddit)](https",
+        "topics": [
+          "3b1b-videos",
+          "animation",
+          "explanatory-math-videos",
+          "python"
+        ],
+        "updated_at": "2026-08-12T08:47:59Z"
+      },
+      "repo": {
+        "description": "Animation engine for explanatory math videos",
+        "forks": 7498,
+        "full_name": "3b1b/manim",
+        "language": "Python",
+        "name": "manim",
+        "owner": "3b1b",
+        "rank": 9,
+        "stars_today": 197,
+        "total_stars": 90415,
+        "url": "https://github.com/3b1b/manim"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.47,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 1.42,
+        "technical_quality": 14.0,
+        "total": 49.89
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Python project with 197 stars today; score 49.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/calesthio",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+        "forks": 5927,
+        "full_name": "sponsors/calesthio",
+        "language": "Python",
+        "name": "calesthio",
+        "owner": "sponsors",
+        "rank": 16,
+        "stars_today": 458,
+        "total_stars": 47616,
+        "url": "https://github.com/sponsors/calesthio"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.82,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 37.47
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 458 stars today; score 37.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/jaywcjlove",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\uf8ff This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+        "forks": 8428,
+        "full_name": "sponsors/jaywcjlove",
+        "language": "Swift",
+        "name": "jaywcjlove",
+        "owner": "sponsors",
+        "rank": 15,
+        "stars_today": 298,
+        "total_stars": 110684,
+        "url": "https://github.com/sponsors/jaywcjlove"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.13,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.28,
+        "technical_quality": 3.5,
+        "total": 22.81
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Swift project with 298 stars today; score 22.8/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-17T03:28:57Z",
+        "default_branch": "main",
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+        "fork": false,
+        "full_name": "stablyai/orca",
+        "homepage": "https://onOrca.dev",
+        "latest_release": "v1.4.180",
+        "license_spdx": "MIT",
+        "open_issues": 3595,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-12T08:42:15Z",
+        "readme_excerpt": "<h1 align=\"center\"> <a href=\"https://onOrca.dev\"><img src=\"resources/build/icon.png\" alt=\"Orca\" width=\"64\" valign=\"middle\" /></a> Orca </h1> <p align=\"center\"> <a href=\"https://github.com/stablyai/orca\"><img src=\"https://img.shields.io/github/stars/stablyai/orca?style=flat&amp;label=%E2%98%85&amp;color=08C\" alt=\"GitHub stars\" /></a> <a href=\"https://github.com/stablyai/orca/releases\"><img src=\"docs/assets/readme-downloads.svg\" alt=\"Total downloads across all releases\" /></a> <img src=\"https://im",
+        "topics": [
+          "ade",
+          "agent-ide",
+          "ai-agents",
+          "claude-code",
+          "cli",
+          "codex",
+          "cursor-agent",
+          "devtools",
+          "ghostty",
+          "ide",
+          "mobile-app",
+          "opencode",
+          "orchestration",
+          "parallel-agents",
+          "pi",
+          "terminal",
+          "worktrees",
+          "yc-backed"
+        ],
+        "updated_at": "2026-08-12T08:47:55Z"
+      },
+      "repo": {
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+        "forks": 3014,
+        "full_name": "stablyai/orca",
+        "language": "TypeScript",
+        "name": "orca",
+        "owner": "stablyai",
+        "rank": 11,
+        "stars_today": 875,
+        "total_stars": 43210,
+        "url": "https://github.com/stablyai/orca"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.71,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 84.21
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 875 stars today; score 84.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-16T18:01:16Z",
+        "default_branch": "main",
+        "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+        "fork": false,
+        "full_name": "cathrynlavery/diagram-design",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 6,
+        "primary_language": "HTML",
+        "pushed_at": "2026-08-12T04:39:12Z",
+        "readme_excerpt": "# Diagram Design **Editorial diagrams your designer won't hate.** ![Content site architecture](docs/screenshots/architecture.png) ![The self-improving loop](docs/screenshots/loop.png) *New in 2.0 \u2014 the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs.* 27 types. One agent skill for Claude Code, Codex, and Pi. Your brand in 60 seconds \u2014 the skill reads your website and maps colors + fonts to every diagram. Already have diagrams in draw.io or Mermaid? Point it at the ",
+        "topics": [],
+        "updated_at": "2026-08-12T08:48:14Z"
+      },
+      "repo": {
+        "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+        "forks": 512,
+        "full_name": "cathrynlavery/diagram-design",
+        "language": "HTML",
+        "name": "diagram-design",
+        "owner": "cathrynlavery",
+        "rank": 1,
+        "stars_today": 1616,
+        "total_stars": 7728,
+        "url": "https://github.com/cathrynlavery/diagram-design"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 77.75
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: HTML project with 1616 stars today; score 77.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-15T20:20:26Z",
+        "default_branch": "main",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "fork": false,
+        "full_name": "addyosmani/agent-skills",
+        "homepage": "https://skills.addy.ie",
+        "latest_release": "0.6.6",
+        "license_spdx": "MIT",
+        "open_issues": 107,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-08-11T19:48:56Z",
+        "readme_excerpt": "# Agent Skills **Production-grade engineering skills for AI coding agents.** Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. <a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" wid",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-08-12T08:43:50Z"
+      },
+      "repo": {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "forks": 9276,
+        "full_name": "addyosmani/agent-skills",
+        "language": "JavaScript",
+        "name": "agent-skills",
+        "owner": "addyosmani",
+        "rank": 5,
+        "stars_today": 578,
+        "total_stars": 86400,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.03,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 74.73
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 578 stars today; score 74.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-10-29T13:56:00Z",
+        "default_branch": "main",
+        "description": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+        "fork": false,
+        "full_name": "huggingface/transformers",
+        "homepage": "https://huggingface.co/transformers",
+        "latest_release": "v5.15.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 2378,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-12T08:06:30Z",
+        "readme_excerpt": "<!--- Copyright 2020 The HuggingFace Team. All rights reserved. Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License f",
+        "topics": [
+          "audio",
+          "deep-learning",
+          "deepseek",
+          "gemma",
+          "glm",
+          "hacktoberfest",
+          "llm",
+          "machine-learning",
+          "model-hub",
+          "natural-language-processing",
+          "nlp",
+          "pretrained-models",
+          "python",
+          "pytorch",
+          "pytorch-transformers",
+          "qwen",
+          "speech-recognition",
+          "transformer",
+          "vlm"
+        ],
+        "updated_at": "2026-08-12T08:45:36Z"
+      },
+      "repo": {
+        "description": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+        "forks": 34219,
+        "full_name": "huggingface/transformers",
+        "language": "Python",
+        "name": "transformers",
+        "owner": "huggingface",
+        "rank": 13,
+        "stars_today": 80,
+        "total_stars": 163941,
+        "url": "https://github.com/huggingface/transformers"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.29,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.34
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 80 stars today; score 73.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-12-28T15:35:54Z",
+        "default_branch": "main",
+        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+        "fork": false,
+        "full_name": "HKUDS/DeepTutor",
+        "homepage": "http://arxiv.org/abs/2604.26962",
+        "latest_release": "v1.5.11",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 101,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-12T08:11:51Z",
+        "readme_excerpt": "<div align=\"center\"> <p align=\"center\"><img src=\"assets/figs/logo/logo.png\" alt=\"DeepTutor logo\" height=\"56\" style=\"vertical-align: middle;\">&nbsp;<img src=\"assets/figs/logo/banner.png\" alt=\"DeepTutor\" height=\"48\" style=\"vertical-align: middle;\"></p> # DeepTutor: Lifelong Personalized Tutoring <p align=\"center\"> <a href=\"https://deeptutor.info\" target=\"_blank\"><img alt=\"Docs \u2014 deeptutor.info\" src=\"https://img.shields.io/badge/Docs-deeptutor.info%20%E2%86%97-0A0A0A?style=for-the-badge&labelColor=",
+        "topics": [
+          "ai-agents",
+          "ai-tutor",
+          "clawdbot",
+          "cli-tool",
+          "deepresearch",
+          "interactive-learning",
+          "large-language-models",
+          "multi-agent-systems",
+          "rag"
+        ],
+        "updated_at": "2026-08-12T08:48:01Z"
+      },
+      "repo": {
+        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+        "forks": 4440,
+        "full_name": "HKUDS/DeepTutor",
+        "language": "Python",
+        "name": "DeepTutor",
+        "owner": "HKUDS",
+        "rank": 10,
+        "stars_today": 812,
+        "total_stars": 35010,
+        "url": "https://github.com/HKUDS/DeepTutor"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.52,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 72.37
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 812 stars today; score 72.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-02T15:01:51Z",
+        "default_branch": "master",
+        "description": "The open-source app everyone uses to manage agents at work",
+        "fork": false,
+        "full_name": "paperclipai/paperclip",
+        "homepage": "https://paperclip.ing",
+        "latest_release": "v2026.722.0",
+        "license_spdx": "MIT",
+        "open_issues": 5070,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-12T07:12:28Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"doc/assets/banner.jpg\" alt=\"Paperclip is the app people use to manage AI agents for work.\" width=\"720\" /> </p> <p align=\"center\"> <a href=\"#quickstart\"><strong>Quickstart</strong></a> &middot; <a href=\"https://docs.paperclip.ing\"><strong>Docs</strong></a> &middot; <a href=\"https://github.com/paperclipai/paperclip\"><strong>GitHub</strong></a> &middot; <a href=\"https://discord.gg/m4HZY7xNG3\"><strong>Discord</strong></a> &middot; <a href=\"https://x.com/papercliping\"><st",
+        "topics": [],
+        "updated_at": "2026-08-12T08:48:21Z"
+      },
+      "repo": {
+        "description": "The open-source app everyone uses to manage agents at work",
+        "forks": 14278,
+        "full_name": "paperclipai/paperclip",
+        "language": "TypeScript",
+        "name": "paperclip",
+        "owner": "paperclipai",
+        "rank": 12,
+        "stars_today": 748,
+        "total_stars": 77375,
+        "url": "https://github.com/paperclipai/paperclip"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 5.9,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 69.29
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 748 stars today; score 69.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-22T15:53:31Z",
+        "default_branch": "main",
+        "description": "Public repository for Agent Skills",
+        "fork": false,
+        "full_name": "anthropics/skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 1079,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-07T17:14:15Z",
+        "readme_excerpt": "> **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io). [![skills.sh](https://skills.sh/b/anthropics/skills)](https://skills.sh/anthropics/skills) # Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's",
+        "topics": [
+          "agent-skills"
+        ],
+        "updated_at": "2026-08-12T08:48:38Z"
+      },
+      "repo": {
+        "description": "Public repository for Agent Skills",
+        "forks": 20054,
+        "full_name": "anthropics/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "anthropics",
+        "rank": 8,
+        "stars_today": 485,
+        "total_stars": 168379,
+        "url": "https://github.com/anthropics/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.11,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 69.16
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Python project with 485 stars today; score 69.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-10T06:43:20Z",
+        "default_branch": "main",
+        "description": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "fork": false,
+        "full_name": "ZhuLinsen/daily_stock_analysis",
+        "homepage": "https://dsa.zhulinsen.tech",
+        "latest_release": "v3.30.0",
+        "license_spdx": "MIT",
+        "open_issues": 47,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-10T13:18:04Z",
+        "readme_excerpt": "<div align=\"center\"> # \ud83d\udcc8 \u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf [![GitHub stars](https://img.shields.io/github/stars/ZhuLinsen/daily_stock_analysis?style=social)](https://github.com/ZhuLinsen/daily_stock_analysis/stargazers) [![CI](https://github.com/ZhuLinsen/daily_stock_analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/ZhuLinsen/daily_stock_analysis/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Python 3.10+](https://im",
+        "topics": [
+          "a-stock",
+          "ai-agent",
+          "aigc",
+          "llm",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading"
+        ],
+        "updated_at": "2026-08-12T08:47:22Z"
+      },
+      "repo": {
+        "description": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "forks": 52545,
+        "full_name": "ZhuLinsen/daily_stock_analysis",
+        "language": "Python",
+        "name": "daily_stock_analysis",
+        "owner": "ZhuLinsen",
+        "rank": 6,
+        "stars_today": 243,
+        "total_stars": 62428,
+        "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.14,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 64.74
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 243 stars today; score 64.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-30T18:20:43Z",
+        "default_branch": "main",
+        "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+        "fork": false,
+        "full_name": "harveyai/harvey-labs",
+        "homepage": "https://www.harvey.ai/blog/introducing-harveys-legal-agent-benchmark",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 50,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-12T01:03:28Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"docs/assets/lab-hero.png\" alt=\"Harvey LAB\" width=\"100%\"> </p> <p align=\"center\"> <strong>Legal Agent Benchmark (LAB): An open-source benchmark for evaluating agents on real legal work.</strong> </p> <p align=\"center\"> <a href=\"https://github.com/harveyai/harvey-labs/tags\"><img alt=\"Latest version\" src=\"https://img.shields.io/github/v/tag/harveyai/harvey-labs?display_name=tag&sort=semver&style=flat-square&label=version\"></a> <img alt=\"License: MIT\" src=\"https://img.sh",
+        "topics": [],
+        "updated_at": "2026-08-12T08:39:29Z"
+      },
+      "repo": {
+        "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+        "forks": 198,
+        "full_name": "harveyai/harvey-labs",
+        "language": "Python",
+        "name": "harvey-labs",
+        "owner": "harveyai",
+        "rank": 14,
+        "stars_today": 28,
+        "total_stars": 1140,
+        "url": "https://github.com/harveyai/harvey-labs"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.87,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 63.47
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 28 stars today; score 63.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-08T01:42:41Z",
+        "default_branch": "main",
+        "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+        "fork": false,
+        "full_name": "PrimeIntellect-ai/prime-agent",
+        "homepage": null,
+        "latest_release": "v0.7.2",
+        "license_spdx": "MIT",
+        "open_issues": 542,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-12T08:39:10Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://primeintellect.ai\"> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/40c36e38-c5bd-4c5a-9cb3-f7b902cd155d\"> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/6414bc9b-126b-41ca-9307-9e982430cde8\"> <img alt=\"Prime Intellect\" src=\"https://github.com/user-attachments/assets/6414bc9b-126b-41ca-9307-9e982430cde8\" width=\"312\" style=\"max-width: 100%;\"> </picture> <",
+        "topics": [],
+        "updated_at": "2026-08-12T08:48:39Z"
+      },
+      "repo": {
+        "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+        "forks": 1510,
+        "full_name": "PrimeIntellect-ai/prime-agent",
+        "language": "TypeScript",
+        "name": "prime-agent",
+        "owner": "PrimeIntellect-ai",
+        "rank": 18,
+        "stars_today": 1138,
+        "total_stars": 14505,
+        "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.07,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 62.12
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1138 stars today; score 62.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2017-04-12T05:07:46Z",
+        "default_branch": "master",
+        "description": "Curated list of project-based tutorials",
+        "fork": false,
+        "full_name": "practical-tutorials/project-based-learning",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 267,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-10T07:04:22Z",
+        "readme_excerpt": "# Project Based Learning [![Gitter](https://badges.gitter.im/practical-tutorials/community.svg)](https://gitter.im/practical-tutorials/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Link rot sweep](https://github.com/practical-tutorials/project-based-learning/actions/workflows/link-rot.yml/badge.svg)](https://github.com/practical-tutorials/project-based-learning/actions/workflows/link-rot.yml) A list of programming tutorials in which aspiring software developers learn how ",
+        "topics": [
+          "beginner-project",
+          "cpp",
+          "golang",
+          "javascript",
+          "project",
+          "python",
+          "tutorial",
+          "webdevelopment"
+        ],
+        "updated_at": "2026-08-12T08:45:40Z"
+      },
+      "repo": {
+        "description": "Curated list of project-based tutorials",
+        "forks": 35797,
+        "full_name": "practical-tutorials/project-based-learning",
+        "language": "Python",
+        "name": "project-based-learning",
+        "owner": "practical-tutorials",
+        "rank": 17,
+        "stars_today": 401,
+        "total_stars": 278676,
+        "url": "https://github.com/practical-tutorials/project-based-learning"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.38,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 59.74
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 401 stars today; score 59.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2010-04-15T17:47:47Z",
+        "default_branch": "master",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "fork": false,
+        "full_name": "nvm-sh/nvm",
+        "homepage": null,
+        "latest_release": "v0.40.6",
+        "license_spdx": "MIT",
+        "open_issues": 394,
+        "primary_language": "Shell",
+        "pushed_at": "2026-07-24T19:11:41Z",
+        "readme_excerpt": "<a href=\"https://github.com/nvm-sh/logos\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-white.svg\" /> <img src=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-color.svg\" height=\"50\" alt=\"nvm project logo\" /> </picture> </a> # Node Version Manager [![Tests](https://github.com/nvm-sh/nvm/actions/workflows/tests-fast.yml/badge.svg?branch=master)][3] [![nvm version](https://img.shields.io/badge/version-v0.40",
+        "topics": [
+          "bash",
+          "install",
+          "lts",
+          "node",
+          "node-js",
+          "nodejs",
+          "nvm",
+          "nvmrc",
+          "posix",
+          "posix-compliant",
+          "shell",
+          "version-manager",
+          "zsh"
+        ],
+        "updated_at": "2026-08-12T08:45:19Z"
+      },
+      "repo": {
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "forks": 10357,
+        "full_name": "nvm-sh/nvm",
+        "language": "Shell",
+        "name": "nvm",
+        "owner": "nvm-sh",
+        "rank": 4,
+        "stars_today": 22,
+        "total_stars": 94539,
+        "url": "https://github.com/nvm-sh/nvm"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.28,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 54.08
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Shell project with 22 stars today; score 54.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-03-22T18:50:58Z",
+        "default_branch": "master",
+        "description": "Animation engine for explanatory math videos",
+        "fork": false,
+        "full_name": "3b1b/manim",
+        "homepage": null,
+        "latest_release": "v1.7.2",
+        "license_spdx": "MIT",
+        "open_issues": 487,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-11T14:41:19Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://github.com/3b1b/manim\"> <img src=\"https://raw.githubusercontent.com/3b1b/manim/master/logo/cropped.png\"> </a> </p> [![pypi version](https://img.shields.io/pypi/v/manimgl?logo=pypi)](https://pypi.org/project/manimgl/) [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/) [![Manim Subreddit](https://img.shields.io/reddit/subreddit-subscribers/manim.svg?color=ff4301&label=reddit&logo=reddit)](https",
+        "topics": [
+          "3b1b-videos",
+          "animation",
+          "explanatory-math-videos",
+          "python"
+        ],
+        "updated_at": "2026-08-12T08:47:59Z"
+      },
+      "repo": {
+        "description": "Animation engine for explanatory math videos",
+        "forks": 7498,
+        "full_name": "3b1b/manim",
+        "language": "Python",
+        "name": "manim",
+        "owner": "3b1b",
+        "rank": 9,
+        "stars_today": 197,
+        "total_stars": 90415,
+        "url": "https://github.com/3b1b/manim"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.47,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 1.42,
+        "technical_quality": 14.0,
+        "total": 49.89
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Python project with 197 stars today; score 49.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/calesthio",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+        "forks": 5927,
+        "full_name": "sponsors/calesthio",
+        "language": "Python",
+        "name": "calesthio",
+        "owner": "sponsors",
+        "rank": 16,
+        "stars_today": 458,
+        "total_stars": 47616,
+        "url": "https://github.com/sponsors/calesthio"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.82,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 37.47
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 458 stars today; score 37.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/msitarzewski",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "forks": 23368,
+        "full_name": "sponsors/msitarzewski",
+        "language": "Shell",
+        "name": "msitarzewski",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 958,
+        "total_stars": 144008,
+        "url": "https://github.com/sponsors/msitarzewski"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 8.44,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 36.89
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 958 stars today; score 36.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/vitali87",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+        "forks": 569,
+        "full_name": "sponsors/vitali87",
+        "language": "Python",
+        "name": "vitali87",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 341,
+        "total_stars": 3957,
+        "url": "https://github.com/sponsors/vitali87"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.51,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 32.96
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 341 stars today; score 33.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/semantica-agi",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+        "forks": 567,
+        "full_name": "sponsors/semantica-agi",
+        "language": "Python",
+        "name": "semantica-agi",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 893,
+        "total_stars": 5250,
+        "url": "https://github.com/sponsors/semantica-agi"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 7.95,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.25,
+        "technical_quality": 3.5,
+        "total": 32.14
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 893 stars today; score 32.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/jaywcjlove",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\uf8ff This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+        "forks": 8428,
+        "full_name": "sponsors/jaywcjlove",
+        "language": "Swift",
+        "name": "jaywcjlove",
+        "owner": "sponsors",
+        "rank": 15,
+        "stars_today": 298,
+        "total_stars": 110684,
+        "url": "https://github.com/sponsors/jaywcjlove"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.13,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.28,
+        "technical_quality": 3.5,
+        "total": 22.81
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Swift project with 298 stars today; score 22.8/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-08-12",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is stablyai/orca."
+}
