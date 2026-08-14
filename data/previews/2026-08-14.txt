@@ -1,0 +1,33 @@
+GitHub Trending: AI workflow signal - 2026-08-14
+
+Today leans toward AI workflow signal; the strongest pick is holaboss-ai/holaOS.
+
+Top picks
+1. holaboss-ai/holaOS - 69.1/100
+   https://github.com/holaboss-ai/holaOS
+   AI Workflow, DevTools: TypeScript project with 241 stars today; score 69.1/100.
+2. megadose/holehe - 55.2/100
+   https://github.com/megadose/holehe
+   AI Workflow, Try Today: Python project with 195 stars today; score 55.2/100.
+3. sponsors/unslothai - 46.1/100
+   https://github.com/sponsors/unslothai
+   AI Workflow, Watch: Python project with 328 stars today; score 46.1/100.
+   Caution: Weak onboarding evidence.
+4. sponsors/lightningpixel - 39.8/100
+   https://github.com/sponsors/lightningpixel
+   AI Workflow, Watch: TypeScript project with 118 stars today; score 39.8/100.
+   Caution: Weak onboarding evidence.
+5. sponsors/kepano - 36.9/100
+   https://github.com/sponsors/kepano
+   AI Workflow, DevTools: Unknown project with 292 stars today; score 36.9/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- holaboss-ai/holaOS: 69.1/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 241 stars today; score 69.1/100.
+- megadose/holehe: 55.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 195 stars today; score 55.2/100.
+- sponsors/unslothai: 46.1/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Python project with 328 stars today; score 46.1/100.
+- sponsors/lightningpixel: 39.8/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: TypeScript project with 118 stars today; score 39.8/100.
+- sponsors/kepano: 36.9/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Unknown project with 292 stars today; score 36.9/100.
+- sponsors/altic-dev: 36.8/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Swift project with 76 stars today; score 36.8/100.
+
+Generated for 2026-08-14 from GitHub Trending daily.
