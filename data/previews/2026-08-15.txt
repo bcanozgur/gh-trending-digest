@@ -1,0 +1,33 @@
+GitHub Trending: AI workflow signal - 2026-08-15
+
+Today leans toward AI workflow signal; the strongest pick is github/spec-kit.
+
+Top picks
+1. github/spec-kit - 71.1/100
+   https://github.com/github/spec-kit
+   AI Workflow, Try Today: Python project with 1160 stars today; score 71.1/100.
+2. citrolabs/ego-lite - 69.1/100
+   https://github.com/citrolabs/ego-lite
+   AI Workflow, DevTools: JavaScript project with 165 stars today; score 69.1/100.
+3. deepseek-ai/awesome-deepseek-agent - 60.3/100
+   https://github.com/deepseek-ai/awesome-deepseek-agent
+   AI Workflow, Deep Dive: Unknown project with 222 stars today; score 60.3/100.
+4. cursor/plugins - 48.4/100
+   https://github.com/cursor/plugins
+   DevTools: TypeScript project with 41 stars today; score 48.4/100.
+5. sponsors/ToolJet - 45.0/100
+   https://github.com/sponsors/ToolJet
+   AI Workflow, DevTools: JavaScript project with 132 stars today; score 45.0/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- github/spec-kit: 71.1/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 1160 stars today; score 71.1/100.
+- citrolabs/ego-lite: 69.1/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: JavaScript project with 165 stars today; score 69.1/100.
+- deepseek-ai/awesome-deepseek-agent: 60.3/100 [AI Workflow, Deep Dive] AI Workflow, Deep Dive: Unknown project with 222 stars today; score 60.3/100.
+- cursor/plugins: 48.4/100 [DevTools] DevTools: TypeScript project with 41 stars today; score 48.4/100.
+- sponsors/ToolJet: 45.0/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: JavaScript project with 132 stars today; score 45.0/100.
+- sponsors/semantica-agi: 28.5/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Python project with 1181 stars today; score 28.5/100.
+- sponsors/rustdesk: 21.3/100 [Watch, Hype Risk] Watch, Hype Risk: Rust project with 143 stars today; score 21.3/100.
+- sponsors/OpenCut-app: 16.3/100 [Watch, Hype Risk] Watch, Hype Risk: TypeScript project with 255 stars today; score 16.3/100.
+
+Generated for 2026-08-15 from GitHub Trending daily.
