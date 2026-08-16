@@ -1,0 +1,969 @@
+{
+  "date": "2026-08-16",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-20T11:05:01Z",
+        "default_branch": "main",
+        "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+        "fork": false,
+        "full_name": "MakazhanAlpamys/Soup",
+        "homepage": "https://trysoup.dev",
+        "latest_release": "v0.73.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 88,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-16T07:54:50Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"soup.png\" alt=\"Soup\" width=\"280\"> </p> <h1 align=\"center\">Soup</h1> <p align=\"center\"> <strong>Fine-tune and post-train LLMs in one command. No SSH, no config hell.</strong> </p> <p align=\"center\"> <a href=\"https://trysoup.dev\">Website</a> &middot; <a href=\"#quick-start\">Quick Start</a> &middot; <a href=\"#configuration\">Config</a> &middot; <a href=\"#documentation\">Docs</a> &middot; <a href=\"docs/commands.md\">Commands</a> &middot; <a href=\"docs/models.md\">Models</a> &",
+        "topics": [
+          "cli",
+          "consumer-gpu",
+          "dpo",
+          "fine-tuning",
+          "gguf",
+          "huggingface",
+          "llm",
+          "llmops",
+          "local-ai",
+          "local-llm",
+          "lora",
+          "low-vram",
+          "machine-learning",
+          "ollama",
+          "peft",
+          "python",
+          "pytorch",
+          "qlora",
+          "sft",
+          "transformers"
+        ],
+        "updated_at": "2026-08-16T07:52:36Z"
+      },
+      "repo": {
+        "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+        "forks": 273,
+        "full_name": "MakazhanAlpamys/Soup",
+        "language": "Python",
+        "name": "Soup",
+        "owner": "MakazhanAlpamys",
+        "rank": 7,
+        "stars_today": 297,
+        "total_stars": 1809,
+        "url": "https://github.com/MakazhanAlpamys/Soup"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.84,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 74.14
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 297 stars today; score 74.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-03-20T23:49:42Z",
+        "default_branch": "master",
+        "description": "A collective list of free APIs",
+        "fork": false,
+        "full_name": "public-apis/public-apis",
+        "homepage": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 1660,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-13T21:07:34Z",
+        "readme_excerpt": "# APILayer Unified Suite in now Live! \ud83c\udf89 \ud83e\udd73 [APILayer unified suite](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) allows you to integrate production-grade REST APIs using **One Account, One Dashboard, and One API key.** Whether you need to geocode an address, validate an email, fetch a flight, pull stock market data, or scrape a search result. [Sign up](https://app.apilayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) and st",
+        "topics": [
+          "api",
+          "apis",
+          "dataset",
+          "development",
+          "free",
+          "list",
+          "lists",
+          "open-source",
+          "public",
+          "public-api",
+          "public-apis",
+          "resources",
+          "software"
+        ],
+        "updated_at": "2026-08-16T07:53:58Z"
+      },
+      "repo": {
+        "description": "A collective list of free APIs",
+        "forks": 50885,
+        "full_name": "public-apis/public-apis",
+        "language": "Python",
+        "name": "public-apis",
+        "owner": "public-apis",
+        "rank": 6,
+        "stars_today": 2260,
+        "total_stars": 460575,
+        "url": "https://github.com/public-apis/public-apis"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.28,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.61,
+        "technical_quality": 11.9,
+        "total": 66.18
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 2260 stars today; score 66.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-08T13:52:57Z",
+        "default_branch": "main",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "fork": false,
+        "full_name": "HKUDS/CLI-Anything",
+        "homepage": "https://clianything.cc/",
+        "latest_release": "v0.4.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 90,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-13T04:30:15Z",
+        "readme_excerpt": "<h1 align=\"center\"><img src=\"assets/icon.png\" alt=\"\" width=\"64\" style=\"vertical-align: middle;\">&nbsp; CLI-Anything: Making ALL Software Agent-Native</h1> <div align=\"center\"> <a href=\"https://trendshift.io/repositories/22991\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/22991\" alt=\"HKUDS%2FCLI-Anything | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </div> <p align=\"center\"> <strong>Today's Software Serves Humans\ud83d\udc68\u200d\ud83d\udcbb. Tomorrow's Users wil",
+        "topics": [],
+        "updated_at": "2026-08-16T07:45:43Z"
+      },
+      "repo": {
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "forks": 4398,
+        "full_name": "HKUDS/CLI-Anything",
+        "language": "Python",
+        "name": "CLI-Anything",
+        "owner": "HKUDS",
+        "rank": 12,
+        "stars_today": 118,
+        "total_stars": 47499,
+        "url": "https://github.com/HKUDS/CLI-Anything"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.45,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.36
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 118 stars today; score 63.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-05-17T18:52:57Z",
+        "default_branch": "main",
+        "description": "Meta-Framework of Spatiotemporal Composability",
+        "fork": false,
+        "full_name": "cordiverse/cordis",
+        "homepage": "https://deepseek-harness.github.io/deepseek-harness/reference/cordis-primer",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 38,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-13T13:48:22Z",
+        "readme_excerpt": "<div align=\"center\"> <h1 id=\"satori\">Cordis</h1> </div> A Meta-Framework of Spatiotemporal Composability. **Cordis is under active development. The API is not yet stable and may change without notice.** - Paper: [_A Programming Paradigm for Spatiotemporal Composability_](https://github.com/cordiverse/paper) - Documentation: [cordis-primer](https://deepseek-harness.github.io/deepseek-harness/reference/cordis-primer)",
+        "topics": [
+          "effect",
+          "framework",
+          "nodejs",
+          "plugin"
+        ],
+        "updated_at": "2026-08-16T07:54:10Z"
+      },
+      "repo": {
+        "description": "Meta-Framework of Spatiotemporal Composability",
+        "forks": 212,
+        "full_name": "cordiverse/cordis",
+        "language": "TypeScript",
+        "name": "cordis",
+        "owner": "cordiverse",
+        "rank": 1,
+        "stars_today": 599,
+        "total_stars": 4302,
+        "url": "https://github.com/cordiverse/cordis"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.83,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 55.5
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 599 stars today; score 55.5/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-20T11:05:01Z",
+        "default_branch": "main",
+        "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+        "fork": false,
+        "full_name": "MakazhanAlpamys/Soup",
+        "homepage": "https://trysoup.dev",
+        "latest_release": "v0.73.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 88,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-16T07:54:50Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"soup.png\" alt=\"Soup\" width=\"280\"> </p> <h1 align=\"center\">Soup</h1> <p align=\"center\"> <strong>Fine-tune and post-train LLMs in one command. No SSH, no config hell.</strong> </p> <p align=\"center\"> <a href=\"https://trysoup.dev\">Website</a> &middot; <a href=\"#quick-start\">Quick Start</a> &middot; <a href=\"#configuration\">Config</a> &middot; <a href=\"#documentation\">Docs</a> &middot; <a href=\"docs/commands.md\">Commands</a> &middot; <a href=\"docs/models.md\">Models</a> &",
+        "topics": [
+          "cli",
+          "consumer-gpu",
+          "dpo",
+          "fine-tuning",
+          "gguf",
+          "huggingface",
+          "llm",
+          "llmops",
+          "local-ai",
+          "local-llm",
+          "lora",
+          "low-vram",
+          "machine-learning",
+          "ollama",
+          "peft",
+          "python",
+          "pytorch",
+          "qlora",
+          "sft",
+          "transformers"
+        ],
+        "updated_at": "2026-08-16T07:52:36Z"
+      },
+      "repo": {
+        "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+        "forks": 273,
+        "full_name": "MakazhanAlpamys/Soup",
+        "language": "Python",
+        "name": "Soup",
+        "owner": "MakazhanAlpamys",
+        "rank": 7,
+        "stars_today": 297,
+        "total_stars": 1809,
+        "url": "https://github.com/MakazhanAlpamys/Soup"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.84,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 74.14
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 297 stars today; score 74.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-16T12:51:09Z",
+        "default_branch": "main",
+        "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+        "fork": false,
+        "full_name": "citrolabs/ego-lite",
+        "homepage": "https://lite.ego.app",
+        "latest_release": "v1.2.3",
+        "license_spdx": "MIT",
+        "open_issues": 110,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-08-16T03:28:51Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"docs/assets/banner.png\" alt=\"ego lite\" width=\"100%\" /> **The fastest browser for AI agents to run browser automation** <a href=\"https://trendshift.io/repositories/42334?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-42334\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/42334\" alt=\"citrolabs%2Fego-lite | Trendshift\" width=\"250\" height=\"55\"/></a> <p> <a href=\"https://cdn.ego.app/set",
+        "topics": [
+          "agent-skills",
+          "ai-agent",
+          "automation",
+          "browser",
+          "browser-automation",
+          "claude-code",
+          "codex",
+          "hermes-agent",
+          "skills",
+          "skills-sh"
+        ],
+        "updated_at": "2026-08-16T07:53:59Z"
+      },
+      "repo": {
+        "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+        "forks": 570,
+        "full_name": "citrolabs/ego-lite",
+        "language": "JavaScript",
+        "name": "ego-lite",
+        "owner": "citrolabs",
+        "rank": 13,
+        "stars_today": 545,
+        "total_stars": 11172,
+        "url": "https://github.com/citrolabs/ego-lite"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.9,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 69.75
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 545 stars today; score 69.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-24T04:50:47Z",
+        "default_branch": "main",
+        "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+        "fork": false,
+        "full_name": "cactus-compute/needle",
+        "homepage": "https://cactuscompute.com",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 25,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-15T16:03:14Z",
+        "readme_excerpt": "![Needle](assets/banner.png) # Needle 2 Needle 2 is an open 45M-parameter model for tool calling, device use and structured extraction. The whole model is a single 14MB binary that runs a full session in about 28MB of RAM. It is built on our Simple Attention Network findings, compressed to CQ2-bit with Cactus Quants, and baked into its own engine. On the benchmarks below, Needle 2 trades wins with other small models like FunctionGemma 270M, LFM2.5 230M and Apple FM, at 5x to 70x smaller, and 2 b",
+        "topics": [
+          "cactus",
+          "gemini",
+          "gemma",
+          "llm",
+          "on-device-ai"
+        ],
+        "updated_at": "2026-08-16T07:46:03Z"
+      },
+      "repo": {
+        "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+        "forks": 411,
+        "full_name": "cactus-compute/needle",
+        "language": "Python",
+        "name": "needle",
+        "owner": "cactus-compute",
+        "rank": 4,
+        "stars_today": 547,
+        "total_stars": 6187,
+        "url": "https://github.com/cactus-compute/needle"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.2,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 66.8
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 547 stars today; score 66.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-08-21T22:54:31Z",
+        "default_branch": "main",
+        "description": "\ud83d\udcab Toolkit to help you get started with Spec-Driven Development",
+        "fork": false,
+        "full_name": "github/spec-kit",
+        "homepage": "https://github.github.com/spec-kit/",
+        "latest_release": "v0.16.4",
+        "license_spdx": "MIT",
+        "open_issues": 335,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-14T16:44:52Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/github/spec-kit/main/media/logo_large.webp\" alt=\"Spec Kit Logo\" width=\"200\" height=\"200\"/> <h1>\ud83c\udf31 Spec Kit</h1> <h3><em>Define what to build before building it \u2014 with any AI coding agent.</em></h3> </div> <p align=\"center\"> <strong>An open source toolkit for building high-quality software with any AI coding agent \u2014 a ready-to-use spec-driven process (or bring your own), endlessly extensible, community-driven, and built for your whol",
+        "topics": [
+          "ai",
+          "copilot",
+          "development",
+          "engineering",
+          "prd",
+          "spec",
+          "spec-driven"
+        ],
+        "updated_at": "2026-08-16T07:47:30Z"
+      },
+      "repo": {
+        "description": "\ud83d\udcab Toolkit to help you get started with Spec-Driven Development",
+        "forks": 11564,
+        "full_name": "github/spec-kit",
+        "language": "Python",
+        "name": "spec-kit",
+        "owner": "github",
+        "rank": 8,
+        "stars_today": 892,
+        "total_stars": 129316,
+        "url": "https://github.com/github/spec-kit"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.91,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 66.51
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 892 stars today; score 66.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-03-20T23:49:42Z",
+        "default_branch": "master",
+        "description": "A collective list of free APIs",
+        "fork": false,
+        "full_name": "public-apis/public-apis",
+        "homepage": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 1660,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-13T21:07:34Z",
+        "readme_excerpt": "# APILayer Unified Suite in now Live! \ud83c\udf89 \ud83e\udd73 [APILayer unified suite](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) allows you to integrate production-grade REST APIs using **One Account, One Dashboard, and One API key.** Whether you need to geocode an address, validate an email, fetch a flight, pull stock market data, or scrape a search result. [Sign up](https://app.apilayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) and st",
+        "topics": [
+          "api",
+          "apis",
+          "dataset",
+          "development",
+          "free",
+          "list",
+          "lists",
+          "open-source",
+          "public",
+          "public-api",
+          "public-apis",
+          "resources",
+          "software"
+        ],
+        "updated_at": "2026-08-16T07:53:58Z"
+      },
+      "repo": {
+        "description": "A collective list of free APIs",
+        "forks": 50885,
+        "full_name": "public-apis/public-apis",
+        "language": "Python",
+        "name": "public-apis",
+        "owner": "public-apis",
+        "rank": 6,
+        "stars_today": 2260,
+        "total_stars": 460575,
+        "url": "https://github.com/public-apis/public-apis"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.28,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.61,
+        "technical_quality": 11.9,
+        "total": 66.18
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 2260 stars today; score 66.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-08T13:52:57Z",
+        "default_branch": "main",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "fork": false,
+        "full_name": "HKUDS/CLI-Anything",
+        "homepage": "https://clianything.cc/",
+        "latest_release": "v0.4.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 90,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-13T04:30:15Z",
+        "readme_excerpt": "<h1 align=\"center\"><img src=\"assets/icon.png\" alt=\"\" width=\"64\" style=\"vertical-align: middle;\">&nbsp; CLI-Anything: Making ALL Software Agent-Native</h1> <div align=\"center\"> <a href=\"https://trendshift.io/repositories/22991\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/22991\" alt=\"HKUDS%2FCLI-Anything | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </div> <p align=\"center\"> <strong>Today's Software Serves Humans\ud83d\udc68\u200d\ud83d\udcbb. Tomorrow's Users wil",
+        "topics": [],
+        "updated_at": "2026-08-16T07:45:43Z"
+      },
+      "repo": {
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "forks": 4398,
+        "full_name": "HKUDS/CLI-Anything",
+        "language": "Python",
+        "name": "CLI-Anything",
+        "owner": "HKUDS",
+        "rank": 12,
+        "stars_today": 118,
+        "total_stars": 47499,
+        "url": "https://github.com/HKUDS/CLI-Anything"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.45,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.36
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 118 stars today; score 63.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-16T18:01:16Z",
+        "default_branch": "main",
+        "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+        "fork": false,
+        "full_name": "cathrynlavery/diagram-design",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 21,
+        "primary_language": "HTML",
+        "pushed_at": "2026-08-14T21:28:44Z",
+        "readme_excerpt": "# Diagram Design **Editorial diagrams your designer won't hate.** <a href=\"https://trendshift.io/repositories/26141?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-26141\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/26141\" alt=\"cathrynlavery%2Fdiagram-design | Trendshift\" width=\"250\" height=\"55\"/></a> ![Content site architecture](docs/screenshots/architecture.png) ![The self-improving loop](docs/screenshots/lo",
+        "topics": [],
+        "updated_at": "2026-08-16T07:54:12Z"
+      },
+      "repo": {
+        "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+        "forks": 1150,
+        "full_name": "cathrynlavery/diagram-design",
+        "language": "HTML",
+        "name": "diagram-design",
+        "owner": "cathrynlavery",
+        "rank": 2,
+        "stars_today": 1607,
+        "total_stars": 18951,
+        "url": "https://github.com/cathrynlavery/diagram-design"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 9.43,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 60.98
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: HTML project with 1607 stars today; score 61.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-05-17T18:52:57Z",
+        "default_branch": "main",
+        "description": "Meta-Framework of Spatiotemporal Composability",
+        "fork": false,
+        "full_name": "cordiverse/cordis",
+        "homepage": "https://deepseek-harness.github.io/deepseek-harness/reference/cordis-primer",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 38,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-13T13:48:22Z",
+        "readme_excerpt": "<div align=\"center\"> <h1 id=\"satori\">Cordis</h1> </div> A Meta-Framework of Spatiotemporal Composability. **Cordis is under active development. The API is not yet stable and may change without notice.** - Paper: [_A Programming Paradigm for Spatiotemporal Composability_](https://github.com/cordiverse/paper) - Documentation: [cordis-primer](https://deepseek-harness.github.io/deepseek-harness/reference/cordis-primer)",
+        "topics": [
+          "effect",
+          "framework",
+          "nodejs",
+          "plugin"
+        ],
+        "updated_at": "2026-08-16T07:54:10Z"
+      },
+      "repo": {
+        "description": "Meta-Framework of Spatiotemporal Composability",
+        "forks": 212,
+        "full_name": "cordiverse/cordis",
+        "language": "TypeScript",
+        "name": "cordis",
+        "owner": "cordiverse",
+        "rank": 1,
+        "stars_today": 599,
+        "total_stars": 4302,
+        "url": "https://github.com/cordiverse/cordis"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.83,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 55.5
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 599 stars today; score 55.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2020-06-25T23:03:02Z",
+        "default_branch": "master",
+        "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+        "fork": false,
+        "full_name": "megadose/holehe",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "GPL-3.0",
+        "open_issues": 103,
+        "primary_language": "Python",
+        "pushed_at": "2024-09-10T20:24:32Z",
+        "readme_excerpt": "# **Holehe OSINT - Email to Registered Accounts** \ud83d\udc4b Hi there! For any professional inquiries or collaborations, please reach out to me at: megadose@protonmail.com \ud83d\udce7 Preferably, use your professional email for correspondence. Let's keep it short and sweet, and all in English! ![](https://files.catbox.moe/5we2ya.png) ![PyPI](https://img.shields.io/pypi/v/holehe) ![PyPI - Week](https://img.shields.io/pypi/dw/holehe) ![PyPI - Downloads](https://static.pepy.tech/badge/holehe) ![PyPI - License](https:",
+        "topics": [
+          "ebay",
+          "email",
+          "emails",
+          "information-gathering",
+          "instagram",
+          "open-source-intelligence",
+          "osint",
+          "osint-python",
+          "osint-tools",
+          "pypi",
+          "python",
+          "social-network",
+          "tellonym",
+          "trio",
+          "twitter"
+        ],
+        "updated_at": "2026-08-16T07:54:49Z"
+      },
+      "repo": {
+        "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+        "forks": 1748,
+        "full_name": "megadose/holehe",
+        "language": "Python",
+        "name": "holehe",
+        "owner": "megadose",
+        "rank": 9,
+        "stars_today": 382,
+        "total_stars": 13191,
+        "url": "https://github.com/megadose/holehe"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.87,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 50.92
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 382 stars today; score 50.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-23T01:57:42Z",
+        "default_branch": "main",
+        "description": "Cursor plugin specification and official plugins",
+        "fork": false,
+        "full_name": "cursor/plugins",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 33,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-13T22:02:02Z",
+        "readme_excerpt": "# Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own `.cursor-plugin/plugin.json` manifest. ## Plugins | `name` | Plugin | Author | Category | `description` (from marketplace) | |:-------|:-------|:-------|:---------|:-------------------------------------| | `continual-learning` | [Continual Learning](continual-learning/) | Cursor | Developer Tools | Incremental transcript-dr",
+        "topics": [],
+        "updated_at": "2026-08-16T07:53:51Z"
+      },
+      "repo": {
+        "description": "Cursor plugin specification and official plugins",
+        "forks": 241,
+        "full_name": "cursor/plugins",
+        "language": "TypeScript",
+        "name": "plugins",
+        "owner": "cursor",
+        "rank": 3,
+        "stars_today": 149,
+        "total_stars": 3003,
+        "url": "https://github.com/cursor/plugins"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.87,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 2.8,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 44.84
+      },
+      "tags": [
+        "DevTools"
+      ],
+      "verdict": "DevTools: TypeScript project with 149 stars today; score 44.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/ToolJet",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents \ud83d\ude80",
+        "forks": 5307,
+        "full_name": "sponsors/ToolJet",
+        "language": "JavaScript",
+        "name": "ToolJet",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 544,
+        "total_stars": 39669,
+        "url": "https://github.com/sponsors/ToolJet"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.18,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 42.33
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 544 stars today; score 42.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/unslothai",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+        "forks": 6504,
+        "full_name": "sponsors/unslothai",
+        "language": "Python",
+        "name": "unslothai",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 434,
+        "total_stars": 72189,
+        "url": "https://github.com/sponsors/unslothai"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.64,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 42.09
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 434 stars today; score 42.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/altic-dev",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg \ud83d\ude09 - https://x.com/fluidvoiceapp",
+        "forks": 703,
+        "full_name": "sponsors/altic-dev",
+        "language": "Swift",
+        "name": "altic-dev",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 104,
+        "total_stars": 10406,
+        "url": "https://github.com/sponsors/altic-dev"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.69,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 31.14
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Swift project with 104 stars today; score 31.1/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-08-16",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is MakazhanAlpamys/Soup."
+}
