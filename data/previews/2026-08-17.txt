@@ -1,0 +1,13 @@
+GitHub Trending: daily developer signal - 2026-08-17
+
+Today leans toward daily developer signal; the strongest pick is basecamp/omarchy.
+
+Top picks
+1. basecamp/omarchy - 55.7/100
+   https://github.com/basecamp/omarchy
+   Try Today, Deep Dive: Shell project with 270 stars today; score 55.7/100.
+
+Full reviewed list
+- basecamp/omarchy: 55.7/100 [Try Today, Deep Dive] Try Today, Deep Dive: Shell project with 270 stars today; score 55.7/100.
+
+Generated for 2026-08-17 from GitHub Trending daily.

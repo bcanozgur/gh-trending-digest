@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-16",
+  "last_run": "2026-08-17",
   "repos": {
     "1jehuang/jcode": {
       "first_seen": "2026-07-20",
@@ -469,15 +469,6 @@
       "last_stars_today": 11,
       "last_total_stars": 10022
     },
-    "apache/ossie": {
-      "first_seen": "2026-07-17",
-      "last_rank": 2,
-      "last_score": 51.91,
-      "last_seen": "2026-07-19",
-      "last_sent": "2026-07-17",
-      "last_stars_today": 47,
-      "last_total_stars": 1344
-    },
     "ayghri/i-have-adhd": {
       "first_seen": "2026-07-22",
       "last_rank": 3,
@@ -495,6 +486,15 @@
       "last_sent": "2026-08-09",
       "last_stars_today": 101,
       "last_total_stars": 50067
+    },
+    "basecamp/omarchy": {
+      "first_seen": "2026-08-17",
+      "last_rank": 2,
+      "last_score": 55.71,
+      "last_seen": "2026-08-17",
+      "last_sent": "2026-08-17",
+      "last_stars_today": 270,
+      "last_total_stars": 25670
     },
     "block/buzz": {
       "first_seen": "2026-07-24",
@@ -543,12 +543,12 @@
     },
     "cactus-compute/needle": {
       "first_seen": "2026-08-13",
-      "last_rank": 4,
-      "last_score": 66.8,
-      "last_seen": "2026-08-16",
+      "last_rank": 7,
+      "last_score": 66.68,
+      "last_seen": "2026-08-17",
       "last_sent": "2026-08-13",
-      "last_stars_today": 547,
-      "last_total_stars": 6187
+      "last_stars_today": 443,
+      "last_total_stars": 6863
     },
     "cathrynlavery/diagram-design": {
       "first_seen": "2026-08-12",
@@ -598,11 +598,11 @@
     "cordiverse/cordis": {
       "first_seen": "2026-08-16",
       "last_rank": 1,
-      "last_score": 55.5,
-      "last_seen": "2026-08-16",
+      "last_score": 51.88,
+      "last_seen": "2026-08-17",
       "last_sent": "2026-08-16",
-      "last_stars_today": 599,
-      "last_total_stars": 4302
+      "last_stars_today": 720,
+      "last_total_stars": 5213
     },
     "cursor/plugins": {
       "first_seen": "2026-08-15",
@@ -702,15 +702,6 @@
       "last_sent": "2026-07-22",
       "last_stars_today": 230,
       "last_total_stars": 10255
-    },
-    "elder-plinius/G0DM0D3": {
-      "first_seen": "2026-07-19",
-      "last_rank": 7,
-      "last_score": 60.0,
-      "last_seen": "2026-07-19",
-      "last_sent": "2026-07-19",
-      "last_stars_today": 69,
-      "last_total_stars": 9609
     },
     "embabel/embabel-agent": {
       "first_seen": "2026-08-13",
@@ -1257,12 +1248,12 @@
     },
     "public-apis/public-apis": {
       "first_seen": "2026-08-16",
-      "last_rank": 6,
-      "last_score": 66.18,
-      "last_seen": "2026-08-16",
+      "last_rank": 5,
+      "last_score": 61.17,
+      "last_seen": "2026-08-17",
       "last_sent": "2026-08-16",
-      "last_stars_today": 2260,
-      "last_total_stars": 460575
+      "last_stars_today": 1588,
+      "last_total_stars": 462435
     },
     "roboflow/supervision": {
       "first_seen": "2026-08-06",
@@ -1338,12 +1329,12 @@
     },
     "sponsors/OpenCut-app": {
       "first_seen": "2026-07-14",
-      "last_rank": 15,
-      "last_score": 16.26,
-      "last_seen": "2026-08-15",
+      "last_rank": 4,
+      "last_score": 18.78,
+      "last_seen": "2026-08-17",
       "last_sent": "2026-08-15",
-      "last_stars_today": 255,
-      "last_total_stars": 83311
+      "last_stars_today": 150,
+      "last_total_stars": 84196
     },
     "sponsors/Pumpkin-MC": {
       "first_seen": "2026-07-23",
@@ -1356,12 +1347,12 @@
     },
     "sponsors/ToolJet": {
       "first_seen": "2026-08-15",
-      "last_rank": 11,
-      "last_score": 42.33,
-      "last_seen": "2026-08-16",
+      "last_rank": 6,
+      "last_score": 43.42,
+      "last_seen": "2026-08-17",
       "last_sent": "2026-08-15",
-      "last_stars_today": 544,
-      "last_total_stars": 39669
+      "last_stars_today": 452,
+      "last_total_stars": 40276
     },
     "sponsors/affaan-m": {
       "first_seen": "2026-06-24",
@@ -1461,15 +1452,6 @@
       "last_sent": "2026-08-07",
       "last_stars_today": 310,
       "last_total_stars": 24415
-    },
-    "sponsors/ibelick": {
-      "first_seen": "2026-07-17",
-      "last_rank": 4,
-      "last_score": 18.96,
-      "last_seen": "2026-07-19",
-      "last_sent": "2026-07-17",
-      "last_stars_today": 123,
-      "last_total_stars": 5245
     },
     "sponsors/jaywcjlove": {
       "first_seen": "2026-08-12",
@@ -1643,12 +1625,12 @@
     },
     "sponsors/unslothai": {
       "first_seen": "2026-08-14",
-      "last_rank": 5,
-      "last_score": 42.09,
-      "last_seen": "2026-08-16",
+      "last_rank": 3,
+      "last_score": 43.79,
+      "last_seen": "2026-08-17",
       "last_sent": "2026-08-14",
-      "last_stars_today": 434,
-      "last_total_stars": 72189
+      "last_stars_today": 572,
+      "last_total_stars": 72891
     },
     "sponsors/usekaneo": {
       "first_seen": "2026-08-01",

@@ -1,0 +1,424 @@
+{
+  "date": "2026-08-17",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-06-01T07:26:22Z",
+        "default_branch": "quattro",
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "fork": false,
+        "full_name": "basecamp/omarchy",
+        "homepage": "https://omarchy.org",
+        "latest_release": "v4.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 773,
+        "primary_language": "Shell",
+        "pushed_at": "2026-08-17T07:37:32Z",
+        "readme_excerpt": "# Omarchy Omarchy is a beautiful, modern & opinionated Linux distribution by DHH. Read more at [omarchy.org](https://omarchy.org). ## The Omarchy Manual The manual lives in [`manual/`](manual/), which is its authoritative source. It's mirrored to [learn.omacom.io](https://learn.omacom.io/2/the-omarchy-manual), where its screenshots are also hosted. - [Welcome to Omarchy!](manual/01-welcome-to-omarchy.md) **The Basics** - [Getting Started](manual/02-getting-started.md) - [Coming From Mac or Windo",
+        "topics": [],
+        "updated_at": "2026-08-17T08:04:05Z"
+      },
+      "repo": {
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "forks": 2613,
+        "full_name": "basecamp/omarchy",
+        "language": "Shell",
+        "name": "omarchy",
+        "owner": "basecamp",
+        "rank": 2,
+        "stars_today": 270,
+        "total_stars": 25670,
+        "url": "https://github.com/basecamp/omarchy"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 4.88,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 1.99,
+        "technical_quality": 14.0,
+        "total": 55.71
+      },
+      "tags": [
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "Try Today, Deep Dive: Shell project with 270 stars today; score 55.7/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-24T04:50:47Z",
+        "default_branch": "main",
+        "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+        "fork": false,
+        "full_name": "cactus-compute/needle",
+        "homepage": "https://cactuscompute.com",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 27,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-15T16:03:14Z",
+        "readme_excerpt": "![Needle](assets/banner.png) # Needle 2 Needle 2 is an open 45M-parameter model for tool calling, device use and structured extraction. The whole model is a single 14MB binary that runs a full session in about 28MB of RAM. It is built on our Simple Attention Network findings, compressed to CQ2-bit with Cactus Quants, and baked into its own engine. On the benchmarks below, Needle 2 trades wins with other small models like FunctionGemma 270M, LFM2.5 230M and Apple FM, at 5x to 70x smaller, and 2 b",
+        "topics": [
+          "cactus",
+          "gemini",
+          "gemma",
+          "llm",
+          "on-device-ai"
+        ],
+        "updated_at": "2026-08-17T08:07:05Z"
+      },
+      "repo": {
+        "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+        "forks": 442,
+        "full_name": "cactus-compute/needle",
+        "language": "Python",
+        "name": "needle",
+        "owner": "cactus-compute",
+        "rank": 7,
+        "stars_today": 443,
+        "total_stars": 6863,
+        "url": "https://github.com/cactus-compute/needle"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.08,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 66.68
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 443 stars today; score 66.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-03-20T23:49:42Z",
+        "default_branch": "master",
+        "description": "A collective list of free APIs",
+        "fork": false,
+        "full_name": "public-apis/public-apis",
+        "homepage": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 1680,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-17T03:47:56Z",
+        "readme_excerpt": "# APILayer Unified Suite in now Live! \ud83c\udf89 \ud83e\udd73 [APILayer unified suite](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) allows you to integrate production-grade REST APIs using **One Account, One Dashboard, and One API key.** Whether you need to geocode an address, validate an email, fetch a flight, pull stock market data, or scrape a search result. [Sign up](https://app.apilayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) and st",
+        "topics": [
+          "api",
+          "apis",
+          "dataset",
+          "development",
+          "free",
+          "list",
+          "lists",
+          "open-source",
+          "public",
+          "public-api",
+          "public-apis",
+          "resources",
+          "software"
+        ],
+        "updated_at": "2026-08-17T08:08:01Z"
+      },
+      "repo": {
+        "description": "A collective list of free APIs",
+        "forks": 51074,
+        "full_name": "public-apis/public-apis",
+        "language": "Python",
+        "name": "public-apis",
+        "owner": "public-apis",
+        "rank": 5,
+        "stars_today": 1588,
+        "total_stars": 462435,
+        "url": "https://github.com/public-apis/public-apis"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.42,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.66,
+        "technical_quality": 11.9,
+        "total": 61.17
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1588 stars today; score 61.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-06-01T07:26:22Z",
+        "default_branch": "quattro",
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "fork": false,
+        "full_name": "basecamp/omarchy",
+        "homepage": "https://omarchy.org",
+        "latest_release": "v4.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 773,
+        "primary_language": "Shell",
+        "pushed_at": "2026-08-17T07:37:32Z",
+        "readme_excerpt": "# Omarchy Omarchy is a beautiful, modern & opinionated Linux distribution by DHH. Read more at [omarchy.org](https://omarchy.org). ## The Omarchy Manual The manual lives in [`manual/`](manual/), which is its authoritative source. It's mirrored to [learn.omacom.io](https://learn.omacom.io/2/the-omarchy-manual), where its screenshots are also hosted. - [Welcome to Omarchy!](manual/01-welcome-to-omarchy.md) **The Basics** - [Getting Started](manual/02-getting-started.md) - [Coming From Mac or Windo",
+        "topics": [],
+        "updated_at": "2026-08-17T08:04:05Z"
+      },
+      "repo": {
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "forks": 2613,
+        "full_name": "basecamp/omarchy",
+        "language": "Shell",
+        "name": "omarchy",
+        "owner": "basecamp",
+        "rank": 2,
+        "stars_today": 270,
+        "total_stars": 25670,
+        "url": "https://github.com/basecamp/omarchy"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 4.88,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 1.99,
+        "technical_quality": 14.0,
+        "total": 55.71
+      },
+      "tags": [
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "Try Today, Deep Dive: Shell project with 270 stars today; score 55.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-05-17T18:52:57Z",
+        "default_branch": "main",
+        "description": "Meta-Framework of Spatiotemporal Composability",
+        "fork": false,
+        "full_name": "cordiverse/cordis",
+        "homepage": "https://deepseek-harness.github.io/deepseek-harness/reference/cordis-primer",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 42,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-13T13:48:22Z",
+        "readme_excerpt": "<div align=\"center\"> <h1 id=\"satori\">Cordis</h1> </div> A Meta-Framework of Spatiotemporal Composability. **Cordis is under active development. The API is not yet stable and may change without notice.** - Paper: [_A Programming Paradigm for Spatiotemporal Composability_](https://github.com/cordiverse/paper) - Documentation: [cordis-primer](https://deepseek-harness.github.io/deepseek-harness/reference/cordis-primer)",
+        "topics": [
+          "effect",
+          "framework",
+          "nodejs",
+          "plugin"
+        ],
+        "updated_at": "2026-08-17T08:07:52Z"
+      },
+      "repo": {
+        "description": "Meta-Framework of Spatiotemporal Composability",
+        "forks": 281,
+        "full_name": "cordiverse/cordis",
+        "language": "TypeScript",
+        "name": "cordis",
+        "owner": "cordiverse",
+        "rank": 1,
+        "stars_today": 720,
+        "total_stars": 5213,
+        "url": "https://github.com/cordiverse/cordis"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.41,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 51.88
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 720 stars today; score 51.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/unslothai",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+        "forks": 6568,
+        "full_name": "sponsors/unslothai",
+        "language": "Python",
+        "name": "unslothai",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 572,
+        "total_stars": 72891,
+        "url": "https://github.com/sponsors/unslothai"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.34,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 43.79
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 572 stars today; score 43.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/ToolJet",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents \ud83d\ude80",
+        "forks": 5345,
+        "full_name": "sponsors/ToolJet",
+        "language": "JavaScript",
+        "name": "ToolJet",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 452,
+        "total_stars": 40276,
+        "url": "https://github.com/sponsors/ToolJet"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.27,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 43.42
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 452 stars today; score 43.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/OpenCut-app",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The open-source CapCut alternative",
+        "forks": 8309,
+        "full_name": "sponsors/OpenCut-app",
+        "language": "TypeScript",
+        "name": "OpenCut-app",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 150,
+        "total_stars": 84196,
+        "url": "https://github.com/sponsors/OpenCut-app"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.96,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.62,
+        "technical_quality": 3.5,
+        "total": 18.78
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: TypeScript project with 150 stars today; score 18.8/100."
+    }
+  ],
+  "subject": "GitHub Trending: daily developer signal - 2026-08-17",
+  "summary": "Today leans toward daily developer signal; the strongest pick is basecamp/omarchy."
+}
