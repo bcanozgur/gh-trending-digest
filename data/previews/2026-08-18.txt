@@ -1,0 +1,35 @@
+GitHub Trending: AI workflow signal - 2026-08-18
+
+Today leans toward AI workflow signal; the strongest pick is usestrix/strix.
+
+Top picks
+1. usestrix/strix - 78.7/100
+   https://github.com/usestrix/strix
+   AI Workflow, DevTools: Python project with 598 stars today; score 78.7/100.
+2. harry0703/MoneyPrinterTurbo - 76.8/100
+   https://github.com/harry0703/MoneyPrinterTurbo
+   AI Workflow, DevTools: Python project with 1189 stars today; score 76.8/100.
+3. akitaonrails/ai-memory - 74.6/100
+   https://github.com/akitaonrails/ai-memory
+   AI Workflow, DevTools: Rust project with 207 stars today; score 74.6/100.
+4. jundot/omlx - 73.4/100
+   https://github.com/jundot/omlx
+   AI Workflow, DevTools: Python project with 78 stars today; score 73.4/100.
+5. sponsors/mukul975 - 56.6/100
+   https://github.com/sponsors/mukul975
+   AI Workflow, DevTools: Python project with 198 stars today; score 56.6/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- usestrix/strix: 78.7/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 598 stars today; score 78.7/100.
+- harry0703/MoneyPrinterTurbo: 76.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 1189 stars today; score 76.8/100.
+- akitaonrails/ai-memory: 74.6/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Rust project with 207 stars today; score 74.6/100.
+- jundot/omlx: 73.4/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 78 stars today; score 73.4/100.
+- sponsors/mukul975: 56.6/100 [AI Workflow, DevTools, Deep Dive, Watch, Hype Risk] AI Workflow, DevTools: Python project with 198 stars today; score 56.6/100.
+- sponsors/santifer: 52.1/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: JavaScript project with 218 stars today; score 52.1/100.
+- nautechsystems/nautilus_trader: 51.9/100 [Try Today] Try Today: Rust project with 120 stars today; score 51.9/100.
+- immich-app/immich: 51.2/100 [Try Today] Try Today: TypeScript project with 175 stars today; score 51.2/100.
+- agalwood/Motrix: 49.1/100 [DevTools, Try Today] DevTools, Try Today: TypeScript project with 344 stars today; score 49.1/100.
+- sponsors/AlexsJones: 32.7/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Rust project with 198 stars today; score 32.7/100.
+
+Generated for 2026-08-18 from GitHub Trending daily.

@@ -1,0 +1,1222 @@
+{
+  "date": "2026-08-18",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-08-05T21:28:30Z",
+        "default_branch": "main",
+        "description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
+        "fork": false,
+        "full_name": "usestrix/strix",
+        "homepage": "https://strix.ai",
+        "latest_release": "v1.5.3",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 305,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-17T20:55:28Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://strix.ai/\"> <img src=\"https://github.com/usestrix/.github/raw/main/imgs/cover.png\" alt=\"Strix Banner\" width=\"100%\"> </a> </p> <div align=\"center\"> # Strix ### The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app\u2019s vulnerabilities. <br/> <a href=\"https://docs.strix.ai\"><img src=\"https://img.shields.io/badge/Docs-docs.strix.ai-2b9246?style=for-the-badge&logo=gitbook&logoColor=white\" alt=\"Docs\"></a> <a href=\"https://strix.ai\"><img ",
+        "topics": [
+          "agents",
+          "ai-hacking",
+          "ai-penetration-testing",
+          "ai-pentesting",
+          "ai-security",
+          "artificial-intelligence",
+          "bug-bounty",
+          "code-quality",
+          "ctf-tools",
+          "cybersecurity",
+          "cybersecurity-tools",
+          "ethical-hacking",
+          "hacking",
+          "llm-security",
+          "offensive-security",
+          "penetration-testing",
+          "pentesting-tools",
+          "red-teaming",
+          "security",
+          "security-automation"
+        ],
+        "updated_at": "2026-08-18T08:03:40Z"
+      },
+      "repo": {
+        "description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
+        "forks": 5832,
+        "full_name": "usestrix/strix",
+        "language": "Python",
+        "name": "strix",
+        "owner": "usestrix",
+        "rank": 2,
+        "stars_today": 598,
+        "total_stars": 54624,
+        "url": "https://github.com/usestrix/strix"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.68,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 78.73
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 598 stars today; score 78.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-03-11T02:57:34Z",
+        "default_branch": "main",
+        "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "fork": false,
+        "full_name": "harry0703/MoneyPrinterTurbo",
+        "homepage": null,
+        "latest_release": "v1.3.4",
+        "license_spdx": "MIT",
+        "open_issues": 25,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-18T03:46:29Z",
+        "readme_excerpt": "<div align=\"center\"> # MoneyPrinterTurbo \ud83d\udcb8 ### \u4e00\u7ad9\u5f0f AI \u77ed\u89c6\u9891\u751f\u6210\u5de5\u5177 \u53ea\u9700\u63d0\u4f9b\u89c6\u9891<b>\u4e3b\u9898</b>\u6216<b>\u5173\u952e\u8bcd</b>\uff0c\u5373\u53ef\u81ea\u52a8\u751f\u6210\u89c6\u9891\u811a\u672c\u3001\u5339\u914d\u7d20\u6750\u3001\u751f\u6210\u5b57\u5e55\u548c\u80cc\u666f\u97f3\u4e50\uff0c\u5e76\u5408\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002 [![Version](https://img.shields.io/github/v/release/harry0703/MoneyPrinterTurbo?color=blue&label=version)](https://github.com/harry0703/MoneyPrinterTurbo/releases) [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/harry0703/MoneyPrinterTurbo/releases/latest) [![Python](https://img.shields.io/badge/pyth",
+        "topics": [
+          "ai-video-generator",
+          "content-creation",
+          "ffmpeg",
+          "instagram-reels",
+          "llm",
+          "python",
+          "short-video",
+          "subtitles",
+          "text-to-speech",
+          "tiktok",
+          "video-automation",
+          "video-workflow",
+          "workflow-automation",
+          "youtube-shorts"
+        ],
+        "updated_at": "2026-08-18T08:03:12Z"
+      },
+      "repo": {
+        "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "forks": 16224,
+        "full_name": "harry0703/MoneyPrinterTurbo",
+        "language": "Python",
+        "name": "MoneyPrinterTurbo",
+        "owner": "harry0703",
+        "rank": 1,
+        "stars_today": 1189,
+        "total_stars": 106984,
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 76.75
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1189 stars today; score 76.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-21T23:23:51Z",
+        "default_branch": "main",
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "fork": false,
+        "full_name": "akitaonrails/ai-memory",
+        "homepage": null,
+        "latest_release": "v1.28.0",
+        "license_spdx": "MIT",
+        "open_issues": 7,
+        "primary_language": "Rust",
+        "pushed_at": "2026-08-18T01:24:51Z",
+        "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/logo-dark.png\"> <img alt=\"ai-memory\" src=\"docs/logo-light.png\" width=\"480\"> </picture> </p> > Long-term memory for AI coding agents. Quit Claude Code mid-task, > start OpenAI Codex in the same directory, continue without > re-explaining the architecture, the failed approaches, or the open > questions. [![Release](https://img.shields.io/github/v/release/akitaonrails/ai-memory)](https://github.com/akitaonrails/a",
+        "topics": [],
+        "updated_at": "2026-08-18T08:01:37Z"
+      },
+      "repo": {
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "forks": 210,
+        "full_name": "akitaonrails/ai-memory",
+        "language": "Rust",
+        "name": "ai-memory",
+        "owner": "akitaonrails",
+        "rank": 4,
+        "stars_today": 207,
+        "total_stars": 2338,
+        "url": "https://github.com/akitaonrails/ai-memory"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.63,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 74.63
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 207 stars today; score 74.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-13T14:13:27Z",
+        "default_branch": "main",
+        "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon \u2014 managed from the macOS menu bar",
+        "fork": false,
+        "full_name": "jundot/omlx",
+        "homepage": "https://omlx.ai",
+        "latest_release": "v0.6.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 920,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-18T04:58:58Z",
+        "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/images/icon-rounded-dark.svg\" width=\"140\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/images/icon-rounded-light.svg\" width=\"140\"> <img alt=\"oMLX\" src=\"docs/images/icon-rounded-light.svg\" width=\"140\"> </picture> </p> <h1 align=\"center\">oMLX</h1> <p align=\"center\"><b>LLM inference, optimized for your Mac</b><br>Continuous batching and tiered KV caching, managed directly from your menu bar.</p> <p",
+        "topics": [
+          "apple-silicon",
+          "inference-server",
+          "llm",
+          "macos",
+          "mlx",
+          "openai-api"
+        ],
+        "updated_at": "2026-08-18T08:01:36Z"
+      },
+      "repo": {
+        "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon \u2014 managed from the macOS menu bar",
+        "forks": 1647,
+        "full_name": "jundot/omlx",
+        "language": "Python",
+        "name": "omlx",
+        "owner": "jundot",
+        "rank": 8,
+        "stars_today": 78,
+        "total_stars": 19120,
+        "url": "https://github.com/jundot/omlx"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.14,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 73.44
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 78 stars today; score 73.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mukul975",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "817 structured cybersecurity skills for AI agents \u00b7 Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) \u00b7 agentskills.io standard \u00b7 Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms \u00b7 29 security domains \u00b7 Apache 2.0",
+        "forks": 3461,
+        "full_name": "sponsors/mukul975",
+        "language": "Python",
+        "name": "mukul975",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 198,
+        "total_stars": 28675,
+        "url": "https://github.com/sponsors/mukul975"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.42,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 0.7,
+        "strategic_relevance": 7.0,
+        "technical_quality": 3.5,
+        "total": 56.62
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 198 stars today; score 56.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/santifer",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications \u2014 runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity\u2026)",
+        "forks": 12672,
+        "full_name": "sponsors/santifer",
+        "language": "JavaScript",
+        "name": "santifer",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 218,
+        "total_stars": 65093,
+        "url": "https://github.com/sponsors/santifer"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.28,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 52.13
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 218 stars today; score 52.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-06-25T06:26:16Z",
+        "default_branch": "develop",
+        "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+        "fork": false,
+        "full_name": "nautechsystems/nautilus_trader",
+        "homepage": "https://nautilustrader.io",
+        "latest_release": "v1.231.0",
+        "license_spdx": "LGPL-3.0",
+        "open_issues": 104,
+        "primary_language": "Rust",
+        "pushed_at": "2026-08-18T07:55:56Z",
+        "readme_excerpt": "# <img src=\"https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/nautilus-trader-logo.png\" alt=\"NautilusTrader\" width=\"500\"> [![rustc](https://img.shields.io/crates/msrv/nautilus-core?color=ea7233&logo=rust&label=rustc)](https://crates.io/crates/nautilus-core) [![crates.io](https://img.shields.io/crates/v/nautilus-core?logo=rust)](https://crates.io/crates/nautilus-core) [![codspeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/nautechsy",
+        "topics": [
+          "algorithmic-trading-engine",
+          "artificial-intelligence",
+          "crypto-trading",
+          "equity-trading",
+          "forex",
+          "futures-trading",
+          "machine-learning",
+          "options-trading",
+          "python",
+          "rust",
+          "sports-betting",
+          "trading",
+          "trading-platform"
+        ],
+        "updated_at": "2026-08-18T07:59:24Z"
+      },
+      "repo": {
+        "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+        "forks": 3389,
+        "full_name": "nautechsystems/nautilus_trader",
+        "language": "Rust",
+        "name": "nautilus_trader",
+        "owner": "nautechsystems",
+        "rank": 3,
+        "stars_today": 120,
+        "total_stars": 26122,
+        "url": "https://github.com/nautechsystems/nautilus_trader"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.16,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 1.7,
+        "technical_quality": 14.0,
+        "total": 51.91
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Rust project with 120 stars today; score 51.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-02-03T15:56:27Z",
+        "default_branch": "main",
+        "description": "High performance self-hosted photo and video management solution.",
+        "fork": false,
+        "full_name": "immich-app/immich",
+        "homepage": "https://immich.app",
+        "latest_release": "v3.1.0",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 749,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-18T07:52:42Z",
+        "readme_excerpt": "<p align=\"center\"> <br/> <a href=\"https://opensource.org/license/agpl-v3\"><img src=\"https://img.shields.io/badge/License-AGPL_v3-blue.svg?color=3F51B5&style=for-the-badge&label=License&logoColor=000000&labelColor=ececec\" alt=\"License: AGPLv3\"></a> <a href=\"https://discord.immich.app\"> <img src=\"https://img.shields.io/discord/979116623879368755.svg?label=Discord&logo=Discord&style=for-the-badge&logoColor=000000&labelColor=ececec\" alt=\"Discord\"/> </a> <br/> <br/> </p> <p align=\"center\"> <img src=\"",
+        "topics": [
+          "backup-tool",
+          "flutter",
+          "google-photos",
+          "google-photos-alternative",
+          "javascript",
+          "mobile-app",
+          "nestjs",
+          "nodejs",
+          "photo-gallery",
+          "photos",
+          "photos-management",
+          "self-hosted",
+          "svelte",
+          "sveltekit",
+          "typescript",
+          "videos"
+        ],
+        "updated_at": "2026-08-18T08:02:45Z"
+      },
+      "repo": {
+        "description": "High performance self-hosted photo and video management solution.",
+        "forks": 6588,
+        "full_name": "immich-app/immich",
+        "language": "TypeScript",
+        "name": "immich",
+        "owner": "immich-app",
+        "rank": 9,
+        "stars_today": 175,
+        "total_stars": 111389,
+        "url": "https://github.com/immich-app/immich"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.68,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 1.5,
+        "technical_quality": 14.0,
+        "total": 51.23
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: TypeScript project with 175 stars today; score 51.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-12-18T11:45:05Z",
+        "default_branch": "main",
+        "description": "A full-featured download manager.",
+        "fork": false,
+        "full_name": "agalwood/Motrix",
+        "homepage": "https://motrix.app",
+        "latest_release": "v1.8.19",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 775,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-18T03:06:56Z",
+        "readme_excerpt": "<div> <img src=\"./public/app-icon.png\" alt=\"Motrix\" width=\"256\" /> <h1>Motrix</h1> <p>A modern, full-featured download manager that stays simple to use</p> </div> [![GitHub release](https://img.shields.io/github/v/release/agalwood/Motrix.svg)](https://github.com/agalwood/Motrix/releases) ![Build/release](https://github.com/agalwood/Motrix/workflows/Build/release/badge.svg) ![Total Downloads](https://img.shields.io/github/downloads/agalwood/Motrix/total.svg) English | [\u7b80\u4f53\u4e2d\u6587](./README.zh-CN.md) ##",
+        "topics": [
+          "aria2",
+          "bittorrent",
+          "bt",
+          "download",
+          "download-manager",
+          "electron",
+          "linux",
+          "mac",
+          "macos",
+          "magnet",
+          "motrix",
+          "torrent",
+          "windows"
+        ],
+        "updated_at": "2026-08-18T08:02:35Z"
+      },
+      "repo": {
+        "description": "A full-featured download manager.",
+        "forks": 4933,
+        "full_name": "agalwood/Motrix",
+        "language": "TypeScript",
+        "name": "Motrix",
+        "owner": "agalwood",
+        "rank": 11,
+        "stars_today": 344,
+        "total_stars": 53309,
+        "url": "https://github.com/agalwood/Motrix"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.59,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 49.1
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 344 stars today; score 49.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/AlexsJones",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+        "forks": 2010,
+        "full_name": "sponsors/AlexsJones",
+        "language": "Rust",
+        "name": "AlexsJones",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 198,
+        "total_stars": 32513,
+        "url": "https://github.com/sponsors/AlexsJones"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.28,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 32.73
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Rust project with 198 stars today; score 32.7/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-08-05T21:28:30Z",
+        "default_branch": "main",
+        "description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
+        "fork": false,
+        "full_name": "usestrix/strix",
+        "homepage": "https://strix.ai",
+        "latest_release": "v1.5.3",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 305,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-17T20:55:28Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://strix.ai/\"> <img src=\"https://github.com/usestrix/.github/raw/main/imgs/cover.png\" alt=\"Strix Banner\" width=\"100%\"> </a> </p> <div align=\"center\"> # Strix ### The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app\u2019s vulnerabilities. <br/> <a href=\"https://docs.strix.ai\"><img src=\"https://img.shields.io/badge/Docs-docs.strix.ai-2b9246?style=for-the-badge&logo=gitbook&logoColor=white\" alt=\"Docs\"></a> <a href=\"https://strix.ai\"><img ",
+        "topics": [
+          "agents",
+          "ai-hacking",
+          "ai-penetration-testing",
+          "ai-pentesting",
+          "ai-security",
+          "artificial-intelligence",
+          "bug-bounty",
+          "code-quality",
+          "ctf-tools",
+          "cybersecurity",
+          "cybersecurity-tools",
+          "ethical-hacking",
+          "hacking",
+          "llm-security",
+          "offensive-security",
+          "penetration-testing",
+          "pentesting-tools",
+          "red-teaming",
+          "security",
+          "security-automation"
+        ],
+        "updated_at": "2026-08-18T08:03:40Z"
+      },
+      "repo": {
+        "description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
+        "forks": 5832,
+        "full_name": "usestrix/strix",
+        "language": "Python",
+        "name": "strix",
+        "owner": "usestrix",
+        "rank": 2,
+        "stars_today": 598,
+        "total_stars": 54624,
+        "url": "https://github.com/usestrix/strix"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.68,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 78.73
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 598 stars today; score 78.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-03-11T02:57:34Z",
+        "default_branch": "main",
+        "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "fork": false,
+        "full_name": "harry0703/MoneyPrinterTurbo",
+        "homepage": null,
+        "latest_release": "v1.3.4",
+        "license_spdx": "MIT",
+        "open_issues": 25,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-18T03:46:29Z",
+        "readme_excerpt": "<div align=\"center\"> # MoneyPrinterTurbo \ud83d\udcb8 ### \u4e00\u7ad9\u5f0f AI \u77ed\u89c6\u9891\u751f\u6210\u5de5\u5177 \u53ea\u9700\u63d0\u4f9b\u89c6\u9891<b>\u4e3b\u9898</b>\u6216<b>\u5173\u952e\u8bcd</b>\uff0c\u5373\u53ef\u81ea\u52a8\u751f\u6210\u89c6\u9891\u811a\u672c\u3001\u5339\u914d\u7d20\u6750\u3001\u751f\u6210\u5b57\u5e55\u548c\u80cc\u666f\u97f3\u4e50\uff0c\u5e76\u5408\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002 [![Version](https://img.shields.io/github/v/release/harry0703/MoneyPrinterTurbo?color=blue&label=version)](https://github.com/harry0703/MoneyPrinterTurbo/releases) [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/harry0703/MoneyPrinterTurbo/releases/latest) [![Python](https://img.shields.io/badge/pyth",
+        "topics": [
+          "ai-video-generator",
+          "content-creation",
+          "ffmpeg",
+          "instagram-reels",
+          "llm",
+          "python",
+          "short-video",
+          "subtitles",
+          "text-to-speech",
+          "tiktok",
+          "video-automation",
+          "video-workflow",
+          "workflow-automation",
+          "youtube-shorts"
+        ],
+        "updated_at": "2026-08-18T08:03:12Z"
+      },
+      "repo": {
+        "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "forks": 16224,
+        "full_name": "harry0703/MoneyPrinterTurbo",
+        "language": "Python",
+        "name": "MoneyPrinterTurbo",
+        "owner": "harry0703",
+        "rank": 1,
+        "stars_today": 1189,
+        "total_stars": 106984,
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 76.75
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1189 stars today; score 76.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-21T23:23:51Z",
+        "default_branch": "main",
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "fork": false,
+        "full_name": "akitaonrails/ai-memory",
+        "homepage": null,
+        "latest_release": "v1.28.0",
+        "license_spdx": "MIT",
+        "open_issues": 7,
+        "primary_language": "Rust",
+        "pushed_at": "2026-08-18T01:24:51Z",
+        "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/logo-dark.png\"> <img alt=\"ai-memory\" src=\"docs/logo-light.png\" width=\"480\"> </picture> </p> > Long-term memory for AI coding agents. Quit Claude Code mid-task, > start OpenAI Codex in the same directory, continue without > re-explaining the architecture, the failed approaches, or the open > questions. [![Release](https://img.shields.io/github/v/release/akitaonrails/ai-memory)](https://github.com/akitaonrails/a",
+        "topics": [],
+        "updated_at": "2026-08-18T08:01:37Z"
+      },
+      "repo": {
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "forks": 210,
+        "full_name": "akitaonrails/ai-memory",
+        "language": "Rust",
+        "name": "ai-memory",
+        "owner": "akitaonrails",
+        "rank": 4,
+        "stars_today": 207,
+        "total_stars": 2338,
+        "url": "https://github.com/akitaonrails/ai-memory"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.63,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 74.63
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 207 stars today; score 74.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-13T14:13:27Z",
+        "default_branch": "main",
+        "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon \u2014 managed from the macOS menu bar",
+        "fork": false,
+        "full_name": "jundot/omlx",
+        "homepage": "https://omlx.ai",
+        "latest_release": "v0.6.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 920,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-18T04:58:58Z",
+        "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/images/icon-rounded-dark.svg\" width=\"140\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/images/icon-rounded-light.svg\" width=\"140\"> <img alt=\"oMLX\" src=\"docs/images/icon-rounded-light.svg\" width=\"140\"> </picture> </p> <h1 align=\"center\">oMLX</h1> <p align=\"center\"><b>LLM inference, optimized for your Mac</b><br>Continuous batching and tiered KV caching, managed directly from your menu bar.</p> <p",
+        "topics": [
+          "apple-silicon",
+          "inference-server",
+          "llm",
+          "macos",
+          "mlx",
+          "openai-api"
+        ],
+        "updated_at": "2026-08-18T08:01:36Z"
+      },
+      "repo": {
+        "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon \u2014 managed from the macOS menu bar",
+        "forks": 1647,
+        "full_name": "jundot/omlx",
+        "language": "Python",
+        "name": "omlx",
+        "owner": "jundot",
+        "rank": 8,
+        "stars_today": 78,
+        "total_stars": 19120,
+        "url": "https://github.com/jundot/omlx"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.14,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 73.44
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 78 stars today; score 73.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mukul975",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "817 structured cybersecurity skills for AI agents \u00b7 Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) \u00b7 agentskills.io standard \u00b7 Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms \u00b7 29 security domains \u00b7 Apache 2.0",
+        "forks": 3461,
+        "full_name": "sponsors/mukul975",
+        "language": "Python",
+        "name": "mukul975",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 198,
+        "total_stars": 28675,
+        "url": "https://github.com/sponsors/mukul975"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.42,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 0.7,
+        "strategic_relevance": 7.0,
+        "technical_quality": 3.5,
+        "total": 56.62
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 198 stars today; score 56.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-05-17T18:52:57Z",
+        "default_branch": "main",
+        "description": "Meta-Framework of Spatiotemporal Composability",
+        "fork": false,
+        "full_name": "cordiverse/cordis",
+        "homepage": "https://deepseek-harness.github.io/deepseek-harness/reference/cordis-primer",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 46,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-13T13:48:22Z",
+        "readme_excerpt": "<div align=\"center\"> <h1 id=\"satori\">Cordis</h1> </div> A Meta-Framework of Spatiotemporal Composability. **Cordis is under active development. The API is not yet stable and may change without notice.** - Paper: [_A Programming Paradigm for Spatiotemporal Composability_](https://github.com/cordiverse/paper) - Documentation: [cordis-primer](https://deepseek-harness.github.io/deepseek-harness/reference/cordis-primer)",
+        "topics": [
+          "effect",
+          "framework",
+          "nodejs",
+          "plugin"
+        ],
+        "updated_at": "2026-08-18T07:57:27Z"
+      },
+      "repo": {
+        "description": "Meta-Framework of Spatiotemporal Composability",
+        "forks": 316,
+        "full_name": "cordiverse/cordis",
+        "language": "TypeScript",
+        "name": "cordis",
+        "owner": "cordiverse",
+        "rank": 10,
+        "stars_today": 957,
+        "total_stars": 5865,
+        "url": "https://github.com/cordiverse/cordis"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 9.06,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 53.53
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 957 stars today; score 53.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/santifer",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications \u2014 runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity\u2026)",
+        "forks": 12672,
+        "full_name": "sponsors/santifer",
+        "language": "JavaScript",
+        "name": "santifer",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 218,
+        "total_stars": 65093,
+        "url": "https://github.com/sponsors/santifer"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.28,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 52.13
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 218 stars today; score 52.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-06-25T06:26:16Z",
+        "default_branch": "develop",
+        "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+        "fork": false,
+        "full_name": "nautechsystems/nautilus_trader",
+        "homepage": "https://nautilustrader.io",
+        "latest_release": "v1.231.0",
+        "license_spdx": "LGPL-3.0",
+        "open_issues": 104,
+        "primary_language": "Rust",
+        "pushed_at": "2026-08-18T07:55:56Z",
+        "readme_excerpt": "# <img src=\"https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/nautilus-trader-logo.png\" alt=\"NautilusTrader\" width=\"500\"> [![rustc](https://img.shields.io/crates/msrv/nautilus-core?color=ea7233&logo=rust&label=rustc)](https://crates.io/crates/nautilus-core) [![crates.io](https://img.shields.io/crates/v/nautilus-core?logo=rust)](https://crates.io/crates/nautilus-core) [![codspeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/nautechsy",
+        "topics": [
+          "algorithmic-trading-engine",
+          "artificial-intelligence",
+          "crypto-trading",
+          "equity-trading",
+          "forex",
+          "futures-trading",
+          "machine-learning",
+          "options-trading",
+          "python",
+          "rust",
+          "sports-betting",
+          "trading",
+          "trading-platform"
+        ],
+        "updated_at": "2026-08-18T07:59:24Z"
+      },
+      "repo": {
+        "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+        "forks": 3389,
+        "full_name": "nautechsystems/nautilus_trader",
+        "language": "Rust",
+        "name": "nautilus_trader",
+        "owner": "nautechsystems",
+        "rank": 3,
+        "stars_today": 120,
+        "total_stars": 26122,
+        "url": "https://github.com/nautechsystems/nautilus_trader"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.16,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 1.7,
+        "technical_quality": 14.0,
+        "total": 51.91
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Rust project with 120 stars today; score 51.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-02-03T15:56:27Z",
+        "default_branch": "main",
+        "description": "High performance self-hosted photo and video management solution.",
+        "fork": false,
+        "full_name": "immich-app/immich",
+        "homepage": "https://immich.app",
+        "latest_release": "v3.1.0",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 749,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-18T07:52:42Z",
+        "readme_excerpt": "<p align=\"center\"> <br/> <a href=\"https://opensource.org/license/agpl-v3\"><img src=\"https://img.shields.io/badge/License-AGPL_v3-blue.svg?color=3F51B5&style=for-the-badge&label=License&logoColor=000000&labelColor=ececec\" alt=\"License: AGPLv3\"></a> <a href=\"https://discord.immich.app\"> <img src=\"https://img.shields.io/discord/979116623879368755.svg?label=Discord&logo=Discord&style=for-the-badge&logoColor=000000&labelColor=ececec\" alt=\"Discord\"/> </a> <br/> <br/> </p> <p align=\"center\"> <img src=\"",
+        "topics": [
+          "backup-tool",
+          "flutter",
+          "google-photos",
+          "google-photos-alternative",
+          "javascript",
+          "mobile-app",
+          "nestjs",
+          "nodejs",
+          "photo-gallery",
+          "photos",
+          "photos-management",
+          "self-hosted",
+          "svelte",
+          "sveltekit",
+          "typescript",
+          "videos"
+        ],
+        "updated_at": "2026-08-18T08:02:45Z"
+      },
+      "repo": {
+        "description": "High performance self-hosted photo and video management solution.",
+        "forks": 6588,
+        "full_name": "immich-app/immich",
+        "language": "TypeScript",
+        "name": "immich",
+        "owner": "immich-app",
+        "rank": 9,
+        "stars_today": 175,
+        "total_stars": 111389,
+        "url": "https://github.com/immich-app/immich"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.68,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 1.5,
+        "technical_quality": 14.0,
+        "total": 51.23
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: TypeScript project with 175 stars today; score 51.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-12-18T11:45:05Z",
+        "default_branch": "main",
+        "description": "A full-featured download manager.",
+        "fork": false,
+        "full_name": "agalwood/Motrix",
+        "homepage": "https://motrix.app",
+        "latest_release": "v1.8.19",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 775,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-18T03:06:56Z",
+        "readme_excerpt": "<div> <img src=\"./public/app-icon.png\" alt=\"Motrix\" width=\"256\" /> <h1>Motrix</h1> <p>A modern, full-featured download manager that stays simple to use</p> </div> [![GitHub release](https://img.shields.io/github/v/release/agalwood/Motrix.svg)](https://github.com/agalwood/Motrix/releases) ![Build/release](https://github.com/agalwood/Motrix/workflows/Build/release/badge.svg) ![Total Downloads](https://img.shields.io/github/downloads/agalwood/Motrix/total.svg) English | [\u7b80\u4f53\u4e2d\u6587](./README.zh-CN.md) ##",
+        "topics": [
+          "aria2",
+          "bittorrent",
+          "bt",
+          "download",
+          "download-manager",
+          "electron",
+          "linux",
+          "mac",
+          "macos",
+          "magnet",
+          "motrix",
+          "torrent",
+          "windows"
+        ],
+        "updated_at": "2026-08-18T08:02:35Z"
+      },
+      "repo": {
+        "description": "A full-featured download manager.",
+        "forks": 4933,
+        "full_name": "agalwood/Motrix",
+        "language": "TypeScript",
+        "name": "Motrix",
+        "owner": "agalwood",
+        "rank": 11,
+        "stars_today": 344,
+        "total_stars": 53309,
+        "url": "https://github.com/agalwood/Motrix"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.59,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 49.1
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 344 stars today; score 49.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/AlexsJones",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+        "forks": 2010,
+        "full_name": "sponsors/AlexsJones",
+        "language": "Rust",
+        "name": "AlexsJones",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 198,
+        "total_stars": 32513,
+        "url": "https://github.com/sponsors/AlexsJones"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.28,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 32.73
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Rust project with 198 stars today; score 32.7/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-08-18",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is usestrix/strix."
+}
