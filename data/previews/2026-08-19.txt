@@ -1,0 +1,25 @@
+GitHub Trending: AI workflow signal - 2026-08-19
+
+Today leans toward AI workflow signal; the strongest pick is volcengine/OpenViking.
+
+Top picks
+1. volcengine/OpenViking - 74.2/100
+   https://github.com/volcengine/OpenViking
+   AI Workflow, Try Today: Python project with 213 stars today; score 74.2/100.
+2. chaitanyagiri/munder-difflin - 68.7/100
+   https://github.com/chaitanyagiri/munder-difflin
+   AI Workflow, DevTools: TypeScript project with 306 stars today; score 68.7/100.
+3. genlayerlabs/genlayer-project-boilerplate - 53.7/100
+   https://github.com/genlayerlabs/genlayer-project-boilerplate
+   AI Workflow: TypeScript project with 535 stars today; score 53.7/100.
+4. NawfalMotii79/PLFM_RADAR - 44.9/100
+   https://github.com/NawfalMotii79/PLFM_RADAR
+   Watch: PLSQL project with 192 stars today; score 44.9/100.
+
+Full reviewed list
+- volcengine/OpenViking: 74.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 213 stars today; score 74.2/100.
+- chaitanyagiri/munder-difflin: 68.7/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 306 stars today; score 68.7/100.
+- genlayerlabs/genlayer-project-boilerplate: 53.7/100 [AI Workflow] AI Workflow: TypeScript project with 535 stars today; score 53.7/100.
+- NawfalMotii79/PLFM_RADAR: 44.9/100 [Watch] Watch: PLSQL project with 192 stars today; score 44.9/100.
+
+Generated for 2026-08-19 from GitHub Trending daily.
