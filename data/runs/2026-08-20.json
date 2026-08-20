@@ -1,0 +1,956 @@
+{
+  "date": "2026-08-20",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-03-07T13:31:57Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "amadeusprotocol/node",
+        "homepage": null,
+        "latest_release": "v1.6.0",
+        "license_spdx": null,
+        "open_issues": 10,
+        "primary_language": "Rust",
+        "pushed_at": "2026-08-18T12:34:39Z",
+        "readme_excerpt": "# node ### Tested Distro/Env Linux Kernel 6.8 Ubuntu 24.04 ### Building Using podman or docker ``` podman build --tag erlang_builder -f build.Dockerfile ./build.sh ``` ### Testnet ``` #run local testnet with RPC api #point RPC endpoint to localhost vim /etc/hosts 127.0.0.1 nodes.amadeus.bot #run google chrome with cert verification disabled and CORS disabled mkdir -p /tmp/chrome_debug google-chrome --user-data-dir=\"/tmp/chrome_debug\" --no-first-run --no-default-browser-check \\ --ignore-certifica",
+        "topics": [],
+        "updated_at": "2026-08-20T08:05:57Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 89,
+        "full_name": "amadeusprotocol/node",
+        "language": "Rust",
+        "name": "node",
+        "owner": "amadeusprotocol",
+        "rank": 12,
+        "stars_today": 1397,
+        "total_stars": 4844,
+        "url": "https://github.com/amadeusprotocol/node"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 6.16,
+        "momentum": 7.3,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 4.2,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 58.19
+      },
+      "tags": [
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Deep Dive: Rust project with 1397 stars today; score 58.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "forks": 19285,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 1894,
+        "total_stars": 224406,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 9.9,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 42.85
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 1894 stars today; score 42.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 24574,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 557,
+        "total_stars": 274514,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.7,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 33.85
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 557 stars today; score 33.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/marceloprates",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
+        "forks": 664,
+        "full_name": "sponsors/marceloprates",
+        "language": "Python",
+        "name": "marceloprates",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 63,
+        "total_stars": 13361,
+        "url": "https://github.com/sponsors/marceloprates"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.11,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 0.86,
+        "technical_quality": 3.5,
+        "total": 21.37
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 63 stars today; score 21.4/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-05T07:11:17Z",
+        "default_branch": "main",
+        "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+        "fork": false,
+        "full_name": "volcengine/OpenViking",
+        "homepage": "https://openviking.ai/",
+        "latest_release": "v0.4.15",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 474,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-20T07:53:09Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://openviking.ai/\" target=\"_blank\"> <picture> <img alt=\"OpenViking\" src=\"docs/images/ov-logo.png\" width=\"200px\" height=\"auto\"> </picture> </a> ### OpenViking: The Context Database for AI Agents English / [\u4e2d\u6587](README_CN.md) / [\u65e5\u672c\u8a9e](README_JA.md) <a href=\"https://www.openviking.ai\">Website</a> \u00b7 <a href=\"https://openviking.ai/studio\">Live Demo</a> \u00b7 <a href=\"https://github.com/volcengine/OpenViking\">GitHub</a> \u00b7 <a href=\"https://github.com/volcengine/OpenViking/i",
+        "topics": [
+          "agent-memory",
+          "agent-plugins",
+          "agentic-rag",
+          "context-database",
+          "dsh-plugin",
+          "self-evolving"
+        ],
+        "updated_at": "2026-08-20T08:04:19Z"
+      },
+      "repo": {
+        "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+        "forks": 2366,
+        "full_name": "volcengine/OpenViking",
+        "language": "Python",
+        "name": "OpenViking",
+        "owner": "volcengine",
+        "rank": 2,
+        "stars_today": 804,
+        "total_stars": 30589,
+        "url": "https://github.com/volcengine/OpenViking"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.5,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 71.6
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 804 stars today; score 71.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-03-11T02:57:34Z",
+        "default_branch": "main",
+        "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "fork": false,
+        "full_name": "harry0703/MoneyPrinterTurbo",
+        "homepage": null,
+        "latest_release": "v1.3.4",
+        "license_spdx": "MIT",
+        "open_issues": 32,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-20T02:36:40Z",
+        "readme_excerpt": "<div align=\"center\"> # MoneyPrinterTurbo \ud83d\udcb8 ### \u4e00\u7ad9\u5f0f AI \u77ed\u89c6\u9891\u751f\u6210\u5de5\u5177 \u53ea\u9700\u63d0\u4f9b\u89c6\u9891<b>\u4e3b\u9898</b>\u6216<b>\u5173\u952e\u8bcd</b>\uff0c\u5373\u53ef\u81ea\u52a8\u751f\u6210\u89c6\u9891\u811a\u672c\u3001\u5339\u914d\u7d20\u6750\u3001\u751f\u6210\u5b57\u5e55\u548c\u80cc\u666f\u97f3\u4e50\uff0c\u5e76\u5408\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002 [![Version](https://img.shields.io/github/v/release/harry0703/MoneyPrinterTurbo?color=blue&label=version)](https://github.com/harry0703/MoneyPrinterTurbo/releases) [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/harry0703/MoneyPrinterTurbo/releases/latest) [![Python](https://img.shields.io/badge/pyth",
+        "topics": [
+          "ai-video-generator",
+          "content-creation",
+          "ffmpeg",
+          "instagram-reels",
+          "llm",
+          "python",
+          "short-video",
+          "subtitles",
+          "text-to-speech",
+          "tiktok",
+          "video-automation",
+          "video-workflow",
+          "workflow-automation",
+          "youtube-shorts"
+        ],
+        "updated_at": "2026-08-20T08:05:55Z"
+      },
+      "repo": {
+        "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "forks": 16950,
+        "full_name": "harry0703/MoneyPrinterTurbo",
+        "language": "Python",
+        "name": "MoneyPrinterTurbo",
+        "owner": "harry0703",
+        "rank": 1,
+        "stars_today": 2221,
+        "total_stars": 111876,
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 71.55
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 2221 stars today; score 71.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-21T23:23:51Z",
+        "default_branch": "main",
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "fork": false,
+        "full_name": "akitaonrails/ai-memory",
+        "homepage": null,
+        "latest_release": "v1.29.0",
+        "license_spdx": "MIT",
+        "open_issues": 5,
+        "primary_language": "Rust",
+        "pushed_at": "2026-08-20T00:46:22Z",
+        "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/logo-dark.png\"> <img alt=\"ai-memory\" src=\"docs/logo-light.png\" width=\"480\"> </picture> </p> > Long-term memory for AI coding agents. Quit Claude Code mid-task, > start OpenAI Codex in the same directory, continue without > re-explaining the architecture, the failed approaches, or the open > questions. [![Release](https://img.shields.io/github/v/release/akitaonrails/ai-memory)](https://github.com/akitaonrails/a",
+        "topics": [],
+        "updated_at": "2026-08-20T08:04:59Z"
+      },
+      "repo": {
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "forks": 271,
+        "full_name": "akitaonrails/ai-memory",
+        "language": "Rust",
+        "name": "ai-memory",
+        "owner": "akitaonrails",
+        "rank": 5,
+        "stars_today": 606,
+        "total_stars": 3301,
+        "url": "https://github.com/akitaonrails/ai-memory"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.32,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 70.12
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 606 stars today; score 70.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-13T14:13:27Z",
+        "default_branch": "main",
+        "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon \u2014 managed from the macOS menu bar",
+        "fork": false,
+        "full_name": "jundot/omlx",
+        "homepage": "https://omlx.ai",
+        "latest_release": "v0.6.3rc1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 976,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-19T17:51:32Z",
+        "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/images/icon-rounded-dark.svg\" width=\"140\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/images/icon-rounded-light.svg\" width=\"140\"> <img alt=\"oMLX\" src=\"docs/images/icon-rounded-light.svg\" width=\"140\"> </picture> </p> <h1 align=\"center\">oMLX</h1> <p align=\"center\"><b>LLM inference, optimized for your Mac</b><br>Continuous batching and tiered KV caching, managed directly from your menu bar.</p> <p",
+        "topics": [
+          "apple-silicon",
+          "inference-server",
+          "llm",
+          "macos",
+          "mlx",
+          "openai-api"
+        ],
+        "updated_at": "2026-08-20T08:00:15Z"
+      },
+      "repo": {
+        "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon \u2014 managed from the macOS menu bar",
+        "forks": 1700,
+        "full_name": "jundot/omlx",
+        "language": "Python",
+        "name": "omlx",
+        "owner": "jundot",
+        "rank": 9,
+        "stars_today": 472,
+        "total_stars": 19942,
+        "url": "https://github.com/jundot/omlx"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.23,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 69.33
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 472 stars today; score 69.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-31T15:25:05Z",
+        "default_branch": "main",
+        "description": "local multi-agent harness",
+        "fork": false,
+        "full_name": "chaitanyagiri/munder-difflin",
+        "homepage": "https://munderdiffl.in",
+        "latest_release": "v0.4.4",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 62,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-20T06:12:31Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"./docs/logo.png\" alt=\"Munder Difflin \u2014 agent harness to run an office of your clones\" width=\"340\"> # Munder Difflin ### Agent harness to run an office of your clones **Free, open source and performant** \u2014 a multi-agent harness that works with the subscriptions you already pay for, on their hourly limits. It turns the terminal coding CLI you already run into a clone of you, one that keeps working while you're away and coordinates a whole office of agents on your own",
+        "topics": [
+          "agents",
+          "claude-code",
+          "free",
+          "harness",
+          "harness-engineering",
+          "memory"
+        ],
+        "updated_at": "2026-08-20T07:58:17Z"
+      },
+      "repo": {
+        "description": "local multi-agent harness",
+        "forks": 333,
+        "full_name": "chaitanyagiri/munder-difflin",
+        "language": "TypeScript",
+        "name": "munder-difflin",
+        "owner": "chaitanyagiri",
+        "rank": 3,
+        "stars_today": 795,
+        "total_stars": 2855,
+        "url": "https://github.com/chaitanyagiri/munder-difflin"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.32,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 65.22
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 795 stars today; score 65.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-03-07T13:31:57Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "amadeusprotocol/node",
+        "homepage": null,
+        "latest_release": "v1.6.0",
+        "license_spdx": null,
+        "open_issues": 10,
+        "primary_language": "Rust",
+        "pushed_at": "2026-08-18T12:34:39Z",
+        "readme_excerpt": "# node ### Tested Distro/Env Linux Kernel 6.8 Ubuntu 24.04 ### Building Using podman or docker ``` podman build --tag erlang_builder -f build.Dockerfile ./build.sh ``` ### Testnet ``` #run local testnet with RPC api #point RPC endpoint to localhost vim /etc/hosts 127.0.0.1 nodes.amadeus.bot #run google chrome with cert verification disabled and CORS disabled mkdir -p /tmp/chrome_debug google-chrome --user-data-dir=\"/tmp/chrome_debug\" --no-first-run --no-default-browser-check \\ --ignore-certifica",
+        "topics": [],
+        "updated_at": "2026-08-20T08:05:57Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 89,
+        "full_name": "amadeusprotocol/node",
+        "language": "Rust",
+        "name": "node",
+        "owner": "amadeusprotocol",
+        "rank": 12,
+        "stars_today": 1397,
+        "total_stars": 4844,
+        "url": "https://github.com/amadeusprotocol/node"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 6.16,
+        "momentum": 7.3,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 4.2,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 58.19
+      },
+      "tags": [
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Deep Dive: Rust project with 1397 stars today; score 58.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mukul975",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "817 structured cybersecurity skills for AI agents \u00b7 Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) \u00b7 agentskills.io standard \u00b7 Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms \u00b7 29 security domains \u00b7 Apache 2.0",
+        "forks": 3570,
+        "full_name": "sponsors/mukul975",
+        "language": "Python",
+        "name": "mukul975",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 766,
+        "total_stars": 30089,
+        "url": "https://github.com/sponsors/mukul975"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.07,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 0.7,
+        "strategic_relevance": 7.0,
+        "technical_quality": 3.5,
+        "total": 53.07
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 766 stars today; score 53.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-06-28T06:59:47Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "genlayerlabs/genlayer-project-boilerplate",
+        "homepage": null,
+        "latest_release": "v0.2.0",
+        "license_spdx": "MIT",
+        "open_issues": 25,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-26T17:56:20Z",
+        "readme_excerpt": "# Sample GenLayer project [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/license/mit/) [![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?logo=discord&logoColor=white)](https://discord.gg/8Jm4v89VAu) [![Telegram](https://img.shields.io/badge/Telegram--T.svg?style=social&logo=telegram)](https://t.me/genlayer) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/yeagerai.svg?style=social&label=Follow%20%40GenLayer)](https://x",
+        "topics": [],
+        "updated_at": "2026-08-20T07:43:47Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 811,
+        "full_name": "genlayerlabs/genlayer-project-boilerplate",
+        "language": "TypeScript",
+        "name": "genlayer-project-boilerplate",
+        "owner": "genlayerlabs",
+        "rank": 14,
+        "stars_today": 430,
+        "total_stars": 16265,
+        "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 4.9,
+        "momentum": 3.35,
+        "novelty": 2.8,
+        "practical_usefulness": 5.95,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 47.7
+      },
+      "tags": [
+        "AI Workflow"
+      ],
+      "verdict": "AI Workflow: TypeScript project with 430 stars today; score 47.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/santifer",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications \u2014 runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity\u2026)",
+        "forks": 12770,
+        "full_name": "sponsors/santifer",
+        "language": "JavaScript",
+        "name": "santifer",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 198,
+        "total_stars": 66062,
+        "url": "https://github.com/sponsors/santifer"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.05,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 45.7
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 198 stars today; score 45.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-06-25T06:26:16Z",
+        "default_branch": "develop",
+        "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+        "fork": false,
+        "full_name": "nautechsystems/nautilus_trader",
+        "homepage": "https://nautilustrader.io",
+        "latest_release": "v1.231.0",
+        "license_spdx": "LGPL-3.0",
+        "open_issues": 105,
+        "primary_language": "Rust",
+        "pushed_at": "2026-08-20T07:03:03Z",
+        "readme_excerpt": "# <img src=\"https://github.com/nautechsystems/nautilus_trader/raw/develop/assets/nautilus-trader-logo.png\" alt=\"NautilusTrader\" width=\"500\"> [![rustc](https://img.shields.io/crates/msrv/nautilus-core?color=ea7233&logo=rust&label=rustc)](https://crates.io/crates/nautilus-core) [![crates.io](https://img.shields.io/crates/v/nautilus-core?logo=rust)](https://crates.io/crates/nautilus-core) [![codspeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/nautechsy",
+        "topics": [
+          "algorithmic-trading-engine",
+          "artificial-intelligence",
+          "crypto-trading",
+          "equity-trading",
+          "forex",
+          "futures-trading",
+          "machine-learning",
+          "options-trading",
+          "python",
+          "rust",
+          "sports-betting",
+          "trading",
+          "trading-platform"
+        ],
+        "updated_at": "2026-08-20T08:02:20Z"
+      },
+      "repo": {
+        "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+        "forks": 3429,
+        "full_name": "nautechsystems/nautilus_trader",
+        "language": "Rust",
+        "name": "nautilus_trader",
+        "owner": "nautechsystems",
+        "rank": 6,
+        "stars_today": 80,
+        "total_stars": 26576,
+        "url": "https://github.com/nautechsystems/nautilus_trader"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.18,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 1.3,
+        "technical_quality": 14.0,
+        "total": 45.33
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Rust project with 80 stars today; score 45.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-02-03T15:56:27Z",
+        "default_branch": "main",
+        "description": "High performance self-hosted photo and video management solution.",
+        "fork": false,
+        "full_name": "immich-app/immich",
+        "homepage": "https://immich.app",
+        "latest_release": "v3.1.0",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 719,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-20T07:52:36Z",
+        "readme_excerpt": "<p align=\"center\"> <br/> <a href=\"https://opensource.org/license/agpl-v3\"><img src=\"https://img.shields.io/badge/License-AGPL_v3-blue.svg?color=3F51B5&style=for-the-badge&label=License&logoColor=000000&labelColor=ececec\" alt=\"License: AGPLv3\"></a> <a href=\"https://discord.immich.app\"> <img src=\"https://img.shields.io/discord/979116623879368755.svg?label=Discord&logo=Discord&style=for-the-badge&logoColor=000000&labelColor=ececec\" alt=\"Discord\"/> </a> <br/> <br/> </p> <p align=\"center\"> <img src=\"",
+        "topics": [
+          "backup-tool",
+          "flutter",
+          "google-photos",
+          "google-photos-alternative",
+          "javascript",
+          "mobile-app",
+          "nestjs",
+          "nodejs",
+          "photo-gallery",
+          "photos",
+          "photos-management",
+          "self-hosted",
+          "svelte",
+          "sveltekit",
+          "typescript",
+          "videos"
+        ],
+        "updated_at": "2026-08-20T08:03:04Z"
+      },
+      "repo": {
+        "description": "High performance self-hosted photo and video management solution.",
+        "forks": 6642,
+        "full_name": "immich-app/immich",
+        "language": "TypeScript",
+        "name": "immich",
+        "owner": "immich-app",
+        "rank": 11,
+        "stars_today": 128,
+        "total_stars": 112043,
+        "url": "https://github.com/immich-app/immich"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.64,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 1.08,
+        "technical_quality": 14.0,
+        "total": 44.57
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: TypeScript project with 128 stars today; score 44.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "forks": 19285,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 1894,
+        "total_stars": 224406,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 9.9,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 42.85
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 1894 stars today; score 42.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 24574,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 557,
+        "total_stars": 274514,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.7,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 33.85
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 557 stars today; score 33.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/marceloprates",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
+        "forks": 664,
+        "full_name": "sponsors/marceloprates",
+        "language": "Python",
+        "name": "marceloprates",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 63,
+        "total_stars": 13361,
+        "url": "https://github.com/sponsors/marceloprates"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.11,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 0.86,
+        "technical_quality": 3.5,
+        "total": 21.37
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 63 stars today; score 21.4/100."
+    }
+  ],
+  "subject": "GitHub Trending: daily developer signal - 2026-08-20",
+  "summary": "Today leans toward daily developer signal; the strongest pick is amadeusprotocol/node."
+}

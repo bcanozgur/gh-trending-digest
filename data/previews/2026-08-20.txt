@@ -1,0 +1,28 @@
+GitHub Trending: daily developer signal - 2026-08-20
+
+Today leans toward daily developer signal; the strongest pick is amadeusprotocol/node.
+
+Top picks
+1. amadeusprotocol/node - 58.2/100
+   https://github.com/amadeusprotocol/node
+   DevTools, Deep Dive: Rust project with 1397 stars today; score 58.2/100.
+2. sponsors/mattpocock - 42.9/100
+   https://github.com/sponsors/mattpocock
+   AI Workflow, Watch: Shell project with 1894 stars today; score 42.9/100.
+   Caution: Weak onboarding evidence.
+3. sponsors/obra - 33.9/100
+   https://github.com/sponsors/obra
+   AI Workflow, DevTools: Shell project with 557 stars today; score 33.9/100.
+   Caution: Weak onboarding evidence.
+4. sponsors/marceloprates - 21.4/100
+   https://github.com/sponsors/marceloprates
+   Watch, Hype Risk: Python project with 63 stars today; score 21.4/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- amadeusprotocol/node: 58.2/100 [DevTools, Deep Dive] DevTools, Deep Dive: Rust project with 1397 stars today; score 58.2/100.
+- sponsors/mattpocock: 42.9/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Shell project with 1894 stars today; score 42.9/100.
+- sponsors/obra: 33.9/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Shell project with 557 stars today; score 33.9/100.
+- sponsors/marceloprates: 21.4/100 [Watch, Hype Risk] Watch, Hype Risk: Python project with 63 stars today; score 21.4/100.
+
+Generated for 2026-08-20 from GitHub Trending daily.
