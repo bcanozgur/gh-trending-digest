@@ -1,0 +1,33 @@
+GitHub Trending: AI workflow signal - 2026-08-21
+
+Today leans toward AI workflow signal; the strongest pick is Tencent/AI-Infra-Guard.
+
+Top picks
+1. Tencent/AI-Infra-Guard - 71.9/100
+   https://github.com/Tencent/AI-Infra-Guard
+   AI Workflow, Try Today: Python project with 50 stars today; score 71.9/100.
+2. PostHog/posthog - 71.3/100
+   https://github.com/PostHog/posthog
+   AI Workflow, DevTools: Python project with 60 stars today; score 71.3/100.
+3. modular/modular - 60.8/100
+   https://github.com/modular/modular
+   AI Workflow, DevTools: Mojo project with 268 stars today; score 60.8/100.
+4. agent-substrate/substrate - 58.3/100
+   https://github.com/agent-substrate/substrate
+   AI Workflow, DevTools: Go project with 22 stars today; score 58.3/100.
+5. makeplane/plane - 56.3/100
+   https://github.com/makeplane/plane
+   DevTools, Try Today: TypeScript project with 98 stars today; score 56.3/100.
+
+Full reviewed list
+- Tencent/AI-Infra-Guard: 71.9/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 50 stars today; score 71.9/100.
+- PostHog/posthog: 71.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 60 stars today; score 71.3/100.
+- modular/modular: 60.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Mojo project with 268 stars today; score 60.8/100.
+- agent-substrate/substrate: 58.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Go project with 22 stars today; score 58.3/100.
+- makeplane/plane: 56.3/100 [DevTools, Try Today, Deep Dive] DevTools, Try Today: TypeScript project with 98 stars today; score 56.3/100.
+- RyanCodrai/turbovec: 54.6/100 [AI Workflow, Try Today] AI Workflow, Try Today: Rust project with 230 stars today; score 54.6/100.
+- mahlernim/google-timeline-visualizer: 50.6/100 [Try Today] Try Today: Kotlin project with 657 stars today; score 50.6/100.
+- sponsors/JuliusBrussee: 31.7/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Go project with 258 stars today; score 31.7/100.
+- sponsors/AprilNEA: 29.7/100 [Watch, Hype Risk] Watch, Hype Risk: Rust project with 1545 stars today; score 29.7/100.
+
+Generated for 2026-08-21 from GitHub Trending daily.
