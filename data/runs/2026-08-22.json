@@ -1,0 +1,1395 @@
+{
+  "date": "2026-08-22",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-06-02T21:24:20Z",
+        "default_branch": "main",
+        "description": "\ud83c\udf0a The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "fork": false,
+        "full_name": "ruvnet/ruflo",
+        "homepage": "https://Cognitum.One",
+        "latest_release": "v3.38.16",
+        "license_spdx": "MIT",
+        "open_issues": 830,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-21T15:23:37Z",
+        "readme_excerpt": "<div align=\"center\"> [![Ruflo Banner](ruflo/assets/ruflo-small.jpeg)](https://cognitum.one/agentic-engineering) <!-- Try Ruflo \u2014 the 4 badges first-time visitors actually act on --> [![Try the UI Beta \u2014 flo.ruv.io](https://img.shields.io/badge/_Try_the_UI_Beta-flo.ruv.io-6366f1?style=for-the-badge&logoColor=white&logo=svelte)](https://flo.ruv.io/) [![npm version (ruflo)](https://img.shields.io/npm/v/ruflo?label=npx%20ruflo&style=for-the-badge&logo=npm&color=cb3837)](https://www.npmjs.com/package",
+        "topics": [
+          "agentic-ai",
+          "agentic-framework",
+          "agentic-workflow",
+          "agents",
+          "ai-agents",
+          "ai-assistant",
+          "ai-skills",
+          "autonomous-agents",
+          "claude-code",
+          "codex",
+          "dsh-plugin",
+          "harness",
+          "mcp-server",
+          "multi-agent",
+          "multi-agent-systems",
+          "npm",
+          "skills",
+          "swarm",
+          "swarm-intelligence",
+          "typescript"
+        ],
+        "updated_at": "2026-08-22T07:55:18Z"
+      },
+      "repo": {
+        "description": "\ud83c\udf0a The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "forks": 8253,
+        "full_name": "ruvnet/ruflo",
+        "language": "TypeScript",
+        "name": "ruflo",
+        "owner": "ruvnet",
+        "rank": 12,
+        "stars_today": 140,
+        "total_stars": 68739,
+        "url": "https://github.com/ruvnet/ruflo"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.37,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 79.87
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 140 stars today; score 79.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-27T15:46:05Z",
+        "default_branch": "main",
+        "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+        "fork": false,
+        "full_name": "apache/maka",
+        "homepage": null,
+        "latest_release": "v0.1.11",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 285,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-22T07:45:38Z",
+        "readme_excerpt": "# Apache Maka (Incubating) [![CI](https://github.com/apache/maka/actions/workflows/ci.yml/badge.svg)](https://github.com/apache/maka/actions/workflows/ci.yml) [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE) [![docs](https://img.shields.io/badge/docs-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-blue?logo=googletranslate&logoColor=white)](./README.zh-CN.md) ![Maka \u2014 Your work. Your agent.](./.github/assets/maka-hero.en.png) **A local-first Agent workspace built for real w",
+        "topics": [
+          "agent-runtime",
+          "ai",
+          "ai-agent",
+          "apache",
+          "cli",
+          "desktop",
+          "electron",
+          "event-sourcing",
+          "incubator",
+          "llm",
+          "local-first",
+          "maka",
+          "tool-use",
+          "typescript"
+        ],
+        "updated_at": "2026-08-22T07:51:55Z"
+      },
+      "repo": {
+        "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+        "forks": 245,
+        "full_name": "apache/maka",
+        "language": "TypeScript",
+        "name": "maka",
+        "owner": "apache",
+        "rank": 13,
+        "stars_today": 148,
+        "total_stars": 2097,
+        "url": "https://github.com/apache/maka"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.24,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 74.34
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 148 stars today; score 74.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-11-10T02:22:53Z",
+        "default_branch": "main",
+        "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+        "fork": false,
+        "full_name": "microsoft/onnxruntime",
+        "homepage": "https://onnxruntime.ai",
+        "latest_release": "v1.29.0",
+        "license_spdx": "MIT",
+        "open_issues": 1603,
+        "primary_language": "C++",
+        "pushed_at": "2026-08-22T06:15:17Z",
+        "readme_excerpt": "<p align=\"center\"><img width=\"50%\" src=\"docs/images/ONNX_Runtime_logo_dark.png\" /></p> **ONNX Runtime is a cross-platform inference and training machine-learning accelerator**. **ONNX Runtime inference** can enable faster customer experiences and lower costs, supporting models from deep learning frameworks such as PyTorch and TensorFlow/Keras as well as classical machine learning libraries such as scikit-learn, LightGBM, XGBoost, etc. ONNX Runtime is compatible with different hardware, drivers, ",
+        "topics": [
+          "ai-framework",
+          "deep-learning",
+          "hardware-acceleration",
+          "machine-learning",
+          "neural-networks",
+          "onnx",
+          "pytorch",
+          "scikit-learn",
+          "tensorflow"
+        ],
+        "updated_at": "2026-08-22T07:56:02Z"
+      },
+      "repo": {
+        "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+        "forks": 4152,
+        "full_name": "microsoft/onnxruntime",
+        "language": "C++",
+        "name": "onnxruntime",
+        "owner": "microsoft",
+        "rank": 16,
+        "stars_today": 5,
+        "total_stars": 21531,
+        "url": "https://github.com/microsoft/onnxruntime"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.45,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 71.75
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 5 stars today; score 71.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-06-17T15:28:39Z",
+        "default_branch": "main",
+        "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+        "fork": false,
+        "full_name": "microsoft/TypeScript",
+        "homepage": "https://www.typescriptlang.org",
+        "latest_release": "v7.0.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 5201,
+        "primary_language": "Go",
+        "pushed_at": "2026-08-21T21:39:39Z",
+        "readme_excerpt": "# TypeScript [![CI](https://github.com/microsoft/TypeScript/actions/workflows/ci.yml/badge.svg)](https://github.com/microsoft/TypeScript/actions/workflows/ci.yml) [![npm version](https://badge.fury.io/js/typescript.svg)](https://www.npmjs.com/package/typescript) [![Downloads](https://img.shields.io/npm/dm/typescript.svg)](https://www.npmjs.com/package/typescript) [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/microsoft/TypeScript/badge)](https://securityscorecards.d",
+        "topics": [
+          "javascript",
+          "language",
+          "typechecker",
+          "typescript"
+        ],
+        "updated_at": "2026-08-22T07:50:18Z"
+      },
+      "repo": {
+        "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+        "forks": 13746,
+        "full_name": "microsoft/TypeScript",
+        "language": "Go",
+        "name": "TypeScript",
+        "owner": "microsoft",
+        "rank": 5,
+        "stars_today": 65,
+        "total_stars": 110424,
+        "url": "https://github.com/microsoft/TypeScript"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.19,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 56.36
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: Go project with 65 stars today; score 56.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-03T19:37:51Z",
+        "default_branch": "main",
+        "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+        "fork": false,
+        "full_name": "elder-plinius/OBLITERATUS",
+        "homepage": "https://huggingface.co/spaces/pliny-the-prompter/",
+        "latest_release": null,
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 7,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-22T00:15:51Z",
+        "readme_excerpt": "<p align=\"center\"> <strong>O B L I T E R A T U S</strong> </p> <p align=\"center\"> <em>Break the chains. Free the mind. Keep the brain.</em> </p> <p align=\"center\"> <a href=\"https://huggingface.co/spaces/pliny-the-prompter/obliteratus\"> <img src=\"https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue\" alt=\"Open in HF Spaces\"> </a> &nbsp; <a href=\"https://colab.research.google.com/github/elder-plinius/OBLITERATUS/blob/main/notebooks/abliterate.ipynb\"> <img src=\"https://colab.resear",
+        "topics": [],
+        "updated_at": "2026-08-22T07:51:07Z"
+      },
+      "repo": {
+        "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+        "forks": 1436,
+        "full_name": "elder-plinius/OBLITERATUS",
+        "language": "Python",
+        "name": "OBLITERATUS",
+        "owner": "elder-plinius",
+        "rank": 15,
+        "stars_today": 63,
+        "total_stars": 7875,
+        "url": "https://github.com/elder-plinius/OBLITERATUS"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.74,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 55.04
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 63 stars today; score 55.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-08-26T15:52:15Z",
+        "default_branch": "main",
+        "description": "Protocol Buffers - Google's data interchange format",
+        "fork": false,
+        "full_name": "protocolbuffers/protobuf",
+        "homepage": "http://protobuf.dev",
+        "latest_release": "v36.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 316,
+        "primary_language": "C++",
+        "pushed_at": "2026-08-22T07:51:35Z",
+        "readme_excerpt": "Protocol Buffers - Google's data interchange format =================================================== [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/protocolbuffers/protobuf/badge)](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC Overview -------- Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. You can learn more abou",
+        "topics": [
+          "marshalling",
+          "protobuf",
+          "protobuf-runtime",
+          "protoc",
+          "protocol-buffers",
+          "protocol-compiler",
+          "rpc",
+          "serialization"
+        ],
+        "updated_at": "2026-08-22T07:20:46Z"
+      },
+      "repo": {
+        "description": "Protocol Buffers - Google's data interchange format",
+        "forks": 16237,
+        "full_name": "protocolbuffers/protobuf",
+        "language": "C++",
+        "name": "protobuf",
+        "owner": "protocolbuffers",
+        "rank": 14,
+        "stars_today": 4,
+        "total_stars": 71794,
+        "url": "https://github.com/protocolbuffers/protobuf"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.74,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 46.25
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: C++ project with 4 stars today; score 46.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-23T01:57:42Z",
+        "default_branch": "main",
+        "description": "Cursor plugin specification and official plugins",
+        "fork": false,
+        "full_name": "cursor/plugins",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 52,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-21T03:10:06Z",
+        "readme_excerpt": "# Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own `.cursor-plugin/plugin.json` manifest. ## Plugins | `name` | Plugin | Author | Category | `description` (from marketplace) | |:-------|:-------|:-------|:---------|:-------------------------------------| | `teaching` | [Teaching](teaching/) | Cursor | Utilities | Skill mapping, practice plans, and learning retrospectives. |",
+        "topics": [],
+        "updated_at": "2026-08-22T07:50:11Z"
+      },
+      "repo": {
+        "description": "Cursor plugin specification and official plugins",
+        "forks": 369,
+        "full_name": "cursor/plugins",
+        "language": "TypeScript",
+        "name": "plugins",
+        "owner": "cursor",
+        "rank": 8,
+        "stars_today": 388,
+        "total_stars": 4485,
+        "url": "https://github.com/cursor/plugins"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.56,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 2.8,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 44.53
+      },
+      "tags": [
+        "DevTools"
+      ],
+      "verdict": "DevTools: TypeScript project with 388 stars today; score 44.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 36668,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 357,
+        "total_stars": 241900,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.2,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 36.15
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 357 stars today; score 36.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/TryGhost",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+        "forks": 11907,
+        "full_name": "sponsors/TryGhost",
+        "language": "JavaScript",
+        "name": "TryGhost",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 32,
+        "total_stars": 54980,
+        "url": "https://github.com/sponsors/TryGhost"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.24,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 0.91,
+        "technical_quality": 3.5,
+        "total": 21.55
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: JavaScript project with 32 stars today; score 21.6/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-06-02T21:24:20Z",
+        "default_branch": "main",
+        "description": "\ud83c\udf0a The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "fork": false,
+        "full_name": "ruvnet/ruflo",
+        "homepage": "https://Cognitum.One",
+        "latest_release": "v3.38.16",
+        "license_spdx": "MIT",
+        "open_issues": 830,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-21T15:23:37Z",
+        "readme_excerpt": "<div align=\"center\"> [![Ruflo Banner](ruflo/assets/ruflo-small.jpeg)](https://cognitum.one/agentic-engineering) <!-- Try Ruflo \u2014 the 4 badges first-time visitors actually act on --> [![Try the UI Beta \u2014 flo.ruv.io](https://img.shields.io/badge/_Try_the_UI_Beta-flo.ruv.io-6366f1?style=for-the-badge&logoColor=white&logo=svelte)](https://flo.ruv.io/) [![npm version (ruflo)](https://img.shields.io/npm/v/ruflo?label=npx%20ruflo&style=for-the-badge&logo=npm&color=cb3837)](https://www.npmjs.com/package",
+        "topics": [
+          "agentic-ai",
+          "agentic-framework",
+          "agentic-workflow",
+          "agents",
+          "ai-agents",
+          "ai-assistant",
+          "ai-skills",
+          "autonomous-agents",
+          "claude-code",
+          "codex",
+          "dsh-plugin",
+          "harness",
+          "mcp-server",
+          "multi-agent",
+          "multi-agent-systems",
+          "npm",
+          "skills",
+          "swarm",
+          "swarm-intelligence",
+          "typescript"
+        ],
+        "updated_at": "2026-08-22T07:55:18Z"
+      },
+      "repo": {
+        "description": "\ud83c\udf0a The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "forks": 8253,
+        "full_name": "ruvnet/ruflo",
+        "language": "TypeScript",
+        "name": "ruflo",
+        "owner": "ruvnet",
+        "rank": 12,
+        "stars_today": 140,
+        "total_stars": 68739,
+        "url": "https://github.com/ruvnet/ruflo"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.37,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 79.87
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 140 stars today; score 79.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-27T15:46:05Z",
+        "default_branch": "main",
+        "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+        "fork": false,
+        "full_name": "apache/maka",
+        "homepage": null,
+        "latest_release": "v0.1.11",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 285,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-22T07:45:38Z",
+        "readme_excerpt": "# Apache Maka (Incubating) [![CI](https://github.com/apache/maka/actions/workflows/ci.yml/badge.svg)](https://github.com/apache/maka/actions/workflows/ci.yml) [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE) [![docs](https://img.shields.io/badge/docs-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-blue?logo=googletranslate&logoColor=white)](./README.zh-CN.md) ![Maka \u2014 Your work. Your agent.](./.github/assets/maka-hero.en.png) **A local-first Agent workspace built for real w",
+        "topics": [
+          "agent-runtime",
+          "ai",
+          "ai-agent",
+          "apache",
+          "cli",
+          "desktop",
+          "electron",
+          "event-sourcing",
+          "incubator",
+          "llm",
+          "local-first",
+          "maka",
+          "tool-use",
+          "typescript"
+        ],
+        "updated_at": "2026-08-22T07:51:55Z"
+      },
+      "repo": {
+        "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+        "forks": 245,
+        "full_name": "apache/maka",
+        "language": "TypeScript",
+        "name": "maka",
+        "owner": "apache",
+        "rank": 13,
+        "stars_today": 148,
+        "total_stars": 2097,
+        "url": "https://github.com/apache/maka"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.24,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 74.34
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 148 stars today; score 74.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-11-10T02:22:53Z",
+        "default_branch": "main",
+        "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+        "fork": false,
+        "full_name": "microsoft/onnxruntime",
+        "homepage": "https://onnxruntime.ai",
+        "latest_release": "v1.29.0",
+        "license_spdx": "MIT",
+        "open_issues": 1603,
+        "primary_language": "C++",
+        "pushed_at": "2026-08-22T06:15:17Z",
+        "readme_excerpt": "<p align=\"center\"><img width=\"50%\" src=\"docs/images/ONNX_Runtime_logo_dark.png\" /></p> **ONNX Runtime is a cross-platform inference and training machine-learning accelerator**. **ONNX Runtime inference** can enable faster customer experiences and lower costs, supporting models from deep learning frameworks such as PyTorch and TensorFlow/Keras as well as classical machine learning libraries such as scikit-learn, LightGBM, XGBoost, etc. ONNX Runtime is compatible with different hardware, drivers, ",
+        "topics": [
+          "ai-framework",
+          "deep-learning",
+          "hardware-acceleration",
+          "machine-learning",
+          "neural-networks",
+          "onnx",
+          "pytorch",
+          "scikit-learn",
+          "tensorflow"
+        ],
+        "updated_at": "2026-08-22T07:56:02Z"
+      },
+      "repo": {
+        "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+        "forks": 4152,
+        "full_name": "microsoft/onnxruntime",
+        "language": "C++",
+        "name": "onnxruntime",
+        "owner": "microsoft",
+        "rank": 16,
+        "stars_today": 5,
+        "total_stars": 21531,
+        "url": "https://github.com/microsoft/onnxruntime"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.45,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 71.75
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 5 stars today; score 71.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2020-01-23T22:46:58Z",
+        "default_branch": "master",
+        "description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools \u2013 AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more \u2013 capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+        "fork": false,
+        "full_name": "PostHog/posthog",
+        "homepage": "https://posthog.com",
+        "latest_release": "desktop-v0.60.377",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 5155,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-22T07:56:13Z",
+        "readme_excerpt": "<p align=\"center\"> <img alt=\"posthoglogo\" src=\"https://user-images.githubusercontent.com/65415371/205059737-c8a4f836-4889-4654-902e-f302b187b6a0.png\"> </p> <p align=\"center\"> <a href='https://posthog.com/contributors'><img alt=\"GitHub contributors\" src=\"https://img.shields.io/github/contributors/posthog/posthog\"/></a> <a href='http://makeapullrequest.com'><img alt='PRs Welcome' src='https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields'/></a> <img alt=\"Docker Pulls\" src=\"https:/",
+        "topics": [
+          "ab-testing",
+          "ai-analytics",
+          "analytics",
+          "cdp",
+          "data-warehouse",
+          "experiments",
+          "feature-flags",
+          "javascript",
+          "product-analytics",
+          "python",
+          "react",
+          "session-replay",
+          "surveys",
+          "typescript",
+          "web-analytics"
+        ],
+        "updated_at": "2026-08-22T07:55:35Z"
+      },
+      "repo": {
+        "description": "\ud83e\udd94 PostHog is the leading platform for building self-driving products. Our developer tools \u2013 AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more \u2013 capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+        "forks": 3235,
+        "full_name": "PostHog/posthog",
+        "language": "Python",
+        "name": "posthog",
+        "owner": "PostHog",
+        "rank": 4,
+        "stars_today": 335,
+        "total_stars": 38374,
+        "url": "https://github.com/PostHog/posthog"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 4.01,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 5.25,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 67.77
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 335 stars today; score 67.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-03-11T02:57:34Z",
+        "default_branch": "main",
+        "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "fork": false,
+        "full_name": "harry0703/MoneyPrinterTurbo",
+        "homepage": null,
+        "latest_release": "v1.3.4",
+        "license_spdx": "MIT",
+        "open_issues": 47,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-22T00:58:57Z",
+        "readme_excerpt": "<div align=\"center\"> # MoneyPrinterTurbo \ud83d\udcb8 ### \u4e00\u7ad9\u5f0f AI \u77ed\u89c6\u9891\u751f\u6210\u5de5\u5177 \u53ea\u9700\u63d0\u4f9b\u89c6\u9891<b>\u4e3b\u9898</b>\u6216<b>\u5173\u952e\u8bcd</b>\uff0c\u5373\u53ef\u81ea\u52a8\u751f\u6210\u89c6\u9891\u811a\u672c\u3001\u5339\u914d\u7d20\u6750\u3001\u751f\u6210\u5b57\u5e55\u548c\u80cc\u666f\u97f3\u4e50\uff0c\u5e76\u5408\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002 [![Version](https://img.shields.io/github/v/release/harry0703/MoneyPrinterTurbo?color=blue&label=version)](https://github.com/harry0703/MoneyPrinterTurbo/releases) [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/harry0703/MoneyPrinterTurbo/releases/latest) [![Python](https://img.shields.io/badge/pyth",
+        "topics": [
+          "ai-video-generator",
+          "content-creation",
+          "ffmpeg",
+          "instagram-reels",
+          "llm",
+          "python",
+          "short-video",
+          "subtitles",
+          "text-to-speech",
+          "tiktok",
+          "video-automation",
+          "video-workflow",
+          "workflow-automation",
+          "youtube-shorts"
+        ],
+        "updated_at": "2026-08-22T07:54:48Z"
+      },
+      "repo": {
+        "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "forks": 17331,
+        "full_name": "harry0703/MoneyPrinterTurbo",
+        "language": "Python",
+        "name": "MoneyPrinterTurbo",
+        "owner": "harry0703",
+        "rank": 2,
+        "stars_today": 1201,
+        "total_stars": 114186,
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.46,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 66.01
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1201 stars today; score 66.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-06-17T15:28:39Z",
+        "default_branch": "main",
+        "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+        "fork": false,
+        "full_name": "microsoft/TypeScript",
+        "homepage": "https://www.typescriptlang.org",
+        "latest_release": "v7.0.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 5201,
+        "primary_language": "Go",
+        "pushed_at": "2026-08-21T21:39:39Z",
+        "readme_excerpt": "# TypeScript [![CI](https://github.com/microsoft/TypeScript/actions/workflows/ci.yml/badge.svg)](https://github.com/microsoft/TypeScript/actions/workflows/ci.yml) [![npm version](https://badge.fury.io/js/typescript.svg)](https://www.npmjs.com/package/typescript) [![Downloads](https://img.shields.io/npm/dm/typescript.svg)](https://www.npmjs.com/package/typescript) [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/microsoft/TypeScript/badge)](https://securityscorecards.d",
+        "topics": [
+          "javascript",
+          "language",
+          "typechecker",
+          "typescript"
+        ],
+        "updated_at": "2026-08-22T07:50:18Z"
+      },
+      "repo": {
+        "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+        "forks": 13746,
+        "full_name": "microsoft/TypeScript",
+        "language": "Go",
+        "name": "TypeScript",
+        "owner": "microsoft",
+        "rank": 5,
+        "stars_today": 65,
+        "total_stars": 110424,
+        "url": "https://github.com/microsoft/TypeScript"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.19,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 56.36
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: Go project with 65 stars today; score 56.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-04-28T22:17:24Z",
+        "default_branch": "main",
+        "description": "The Modular Platform (includes MAX & Mojo)",
+        "fork": false,
+        "full_name": "modular/modular",
+        "homepage": "https://docs.modular.com/",
+        "latest_release": "max/v26.5.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 1112,
+        "primary_language": "Mojo",
+        "pushed_at": "2026-08-21T06:34:12Z",
+        "readme_excerpt": "<!-- rumdl-disable-file MD033 MD041 MD075 --> <div align=\"center\"> <img src=\"https://modular-assets.s3.us-east-1.amazonaws.com/images/modular-banner-github.png\"> [About Modular] | [MAX docs] | [Mojo docs] | [Contributing] </div> --- # Modular Platform This repo hosts open-source components of the Modular Platform, a unified platform for AI development and deployment, including the **MAX Framework**\ud83e\uddd1\u200d\ud83d\ude80 and the **Mojo Language**\ud83d\udd25. ## Get started To get started with the Modular Platform and serve a",
+        "topics": [
+          "ai",
+          "language",
+          "machine-learning",
+          "max",
+          "modular",
+          "mojo",
+          "programming-language"
+        ],
+        "updated_at": "2026-08-22T07:51:46Z"
+      },
+      "repo": {
+        "description": "The Modular Platform (includes MAX & Mojo)",
+        "forks": 3057,
+        "full_name": "modular/modular",
+        "language": "Mojo",
+        "name": "modular",
+        "owner": "modular",
+        "rank": 9,
+        "stars_today": 913,
+        "total_stars": 28749,
+        "url": "https://github.com/modular/modular"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.73,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 55.89
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Mojo project with 913 stars today; score 55.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-03T19:37:51Z",
+        "default_branch": "main",
+        "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+        "fork": false,
+        "full_name": "elder-plinius/OBLITERATUS",
+        "homepage": "https://huggingface.co/spaces/pliny-the-prompter/",
+        "latest_release": null,
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 7,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-22T00:15:51Z",
+        "readme_excerpt": "<p align=\"center\"> <strong>O B L I T E R A T U S</strong> </p> <p align=\"center\"> <em>Break the chains. Free the mind. Keep the brain.</em> </p> <p align=\"center\"> <a href=\"https://huggingface.co/spaces/pliny-the-prompter/obliteratus\"> <img src=\"https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue\" alt=\"Open in HF Spaces\"> </a> &nbsp; <a href=\"https://colab.research.google.com/github/elder-plinius/OBLITERATUS/blob/main/notebooks/abliterate.ipynb\"> <img src=\"https://colab.resear",
+        "topics": [],
+        "updated_at": "2026-08-22T07:51:07Z"
+      },
+      "repo": {
+        "description": "OBLITERATE THE CHAINS THAT BIND YOU",
+        "forks": 1436,
+        "full_name": "elder-plinius/OBLITERATUS",
+        "language": "Python",
+        "name": "OBLITERATUS",
+        "owner": "elder-plinius",
+        "rank": 15,
+        "stars_today": 63,
+        "total_stars": 7875,
+        "url": "https://github.com/elder-plinius/OBLITERATUS"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.74,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 55.04
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 63 stars today; score 55.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/santifer",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications \u2014 runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity\u2026)",
+        "forks": 12879,
+        "full_name": "sponsors/santifer",
+        "language": "JavaScript",
+        "name": "santifer",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 921,
+        "total_stars": 67607,
+        "url": "https://github.com/sponsors/santifer"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.04,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 47.69
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 921 stars today; score 47.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-08-26T15:52:15Z",
+        "default_branch": "main",
+        "description": "Protocol Buffers - Google's data interchange format",
+        "fork": false,
+        "full_name": "protocolbuffers/protobuf",
+        "homepage": "http://protobuf.dev",
+        "latest_release": "v36.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 316,
+        "primary_language": "C++",
+        "pushed_at": "2026-08-22T07:51:35Z",
+        "readme_excerpt": "Protocol Buffers - Google's data interchange format =================================================== [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/protocolbuffers/protobuf/badge)](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf) Copyright 2008 Google LLC Overview -------- Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. You can learn more abou",
+        "topics": [
+          "marshalling",
+          "protobuf",
+          "protobuf-runtime",
+          "protoc",
+          "protocol-buffers",
+          "protocol-compiler",
+          "rpc",
+          "serialization"
+        ],
+        "updated_at": "2026-08-22T07:20:46Z"
+      },
+      "repo": {
+        "description": "Protocol Buffers - Google's data interchange format",
+        "forks": 16237,
+        "full_name": "protocolbuffers/protobuf",
+        "language": "C++",
+        "name": "protobuf",
+        "owner": "protocolbuffers",
+        "rank": 14,
+        "stars_today": 4,
+        "total_stars": 71794,
+        "url": "https://github.com/protocolbuffers/protobuf"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.74,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 46.25
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: C++ project with 4 stars today; score 46.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "forks": 19673,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 1,
+        "stars_today": 3362,
+        "total_stars": 230231,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 44.95
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 3362 stars today; score 45.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-23T01:57:42Z",
+        "default_branch": "main",
+        "description": "Cursor plugin specification and official plugins",
+        "fork": false,
+        "full_name": "cursor/plugins",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 52,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-21T03:10:06Z",
+        "readme_excerpt": "# Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own `.cursor-plugin/plugin.json` manifest. ## Plugins | `name` | Plugin | Author | Category | `description` (from marketplace) | |:-------|:-------|:-------|:---------|:-------------------------------------| | `teaching` | [Teaching](teaching/) | Cursor | Utilities | Skill mapping, practice plans, and learning retrospectives. |",
+        "topics": [],
+        "updated_at": "2026-08-22T07:50:11Z"
+      },
+      "repo": {
+        "description": "Cursor plugin specification and official plugins",
+        "forks": 369,
+        "full_name": "cursor/plugins",
+        "language": "TypeScript",
+        "name": "plugins",
+        "owner": "cursor",
+        "rank": 8,
+        "stars_today": 388,
+        "total_stars": 4485,
+        "url": "https://github.com/cursor/plugins"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.56,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 2.8,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 44.53
+      },
+      "tags": [
+        "DevTools"
+      ],
+      "verdict": "DevTools: TypeScript project with 388 stars today; score 44.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 36668,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 357,
+        "total_stars": 241900,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.2,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 36.15
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 357 stars today; score 36.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 24657,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 790,
+        "total_stars": 275790,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.85,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 34.0
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 790 stars today; score 34.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/AprilNEA",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\u26a1\ufe0fA native, local-first alternative to Logitech Options+, written in Rust \ud83e\udd80 \u2014 remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+        "forks": 357,
+        "full_name": "sponsors/AprilNEA",
+        "language": "Rust",
+        "name": "AprilNEA",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 1380,
+        "total_stars": 13209,
+        "url": "https://github.com/sponsors/AprilNEA"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.76,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 2.76,
+        "technical_quality": 3.5,
+        "total": 22.72
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Rust project with 1380 stars today; score 22.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/TryGhost",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+        "forks": 11907,
+        "full_name": "sponsors/TryGhost",
+        "language": "JavaScript",
+        "name": "TryGhost",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 32,
+        "total_stars": 54980,
+        "url": "https://github.com/sponsors/TryGhost"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.24,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 0.91,
+        "technical_quality": 3.5,
+        "total": 21.55
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: JavaScript project with 32 stars today; score 21.6/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-08-22",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is ruvnet/ruflo."
+}

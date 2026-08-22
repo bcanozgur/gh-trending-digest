@@ -1,0 +1,33 @@
+GitHub Trending: AI workflow signal - 2026-08-22
+
+Today leans toward AI workflow signal; the strongest pick is ruvnet/ruflo.
+
+Top picks
+1. ruvnet/ruflo - 79.9/100
+   https://github.com/ruvnet/ruflo
+   AI Workflow, DevTools: TypeScript project with 140 stars today; score 79.9/100.
+2. apache/maka - 74.3/100
+   https://github.com/apache/maka
+   AI Workflow, DevTools: TypeScript project with 148 stars today; score 74.3/100.
+3. microsoft/onnxruntime - 71.8/100
+   https://github.com/microsoft/onnxruntime
+   AI Workflow, DevTools: C++ project with 5 stars today; score 71.8/100.
+4. microsoft/TypeScript - 56.4/100
+   https://github.com/microsoft/TypeScript
+   DevTools, Try Today: Go project with 65 stars today; score 56.4/100.
+5. elder-plinius/OBLITERATUS - 55.0/100
+   https://github.com/elder-plinius/OBLITERATUS
+   AI Workflow, Try Today: Python project with 63 stars today; score 55.0/100.
+
+Full reviewed list
+- ruvnet/ruflo: 79.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 140 stars today; score 79.9/100.
+- apache/maka: 74.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 148 stars today; score 74.3/100.
+- microsoft/onnxruntime: 71.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: C++ project with 5 stars today; score 71.8/100.
+- microsoft/TypeScript: 56.4/100 [DevTools, Try Today, Deep Dive] DevTools, Try Today: Go project with 65 stars today; score 56.4/100.
+- elder-plinius/OBLITERATUS: 55.0/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 63 stars today; score 55.0/100.
+- protocolbuffers/protobuf: 46.2/100 [DevTools, Try Today] DevTools, Try Today: C++ project with 4 stars today; score 46.2/100.
+- cursor/plugins: 44.5/100 [DevTools] DevTools: TypeScript project with 388 stars today; score 44.5/100.
+- sponsors/affaan-m: 36.1/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: JavaScript project with 357 stars today; score 36.1/100.
+- sponsors/TryGhost: 21.6/100 [Watch, Hype Risk] Watch, Hype Risk: JavaScript project with 32 stars today; score 21.6/100.
+
+Generated for 2026-08-22 from GitHub Trending daily.
