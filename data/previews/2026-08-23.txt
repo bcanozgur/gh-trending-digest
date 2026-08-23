@@ -1,0 +1,30 @@
+GitHub Trending: AI workflow signal - 2026-08-23
+
+Today leans toward AI workflow signal; the strongest pick is openai/codex.
+
+Top picks
+1. openai/codex - 85.4/100
+   https://github.com/openai/codex
+   AI Workflow, DevTools: Rust project with 1544 stars today; score 85.4/100.
+2. n8n-io/n8n - 79.8/100
+   https://github.com/n8n-io/n8n
+   AI Workflow, DevTools: TypeScript project with 149 stars today; score 79.8/100.
+3. Wei-Shaw/sub2api - 77.2/100
+   https://github.com/Wei-Shaw/sub2api
+   AI Workflow, DevTools: Go project with 278 stars today; score 77.2/100.
+4. anthropics/claude-code - 71.6/100
+   https://github.com/anthropics/claude-code
+   AI Workflow, DevTools: Python project with 127 stars today; score 71.6/100.
+5. multica-ai/andrej-karpathy-skills - 65.1/100
+   https://github.com/multica-ai/andrej-karpathy-skills
+   AI Workflow, Deep Dive: Unknown project with 315 stars today; score 65.1/100.
+
+Full reviewed list
+- openai/codex: 85.4/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Rust project with 1544 stars today; score 85.4/100.
+- n8n-io/n8n: 79.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 149 stars today; score 79.8/100.
+- Wei-Shaw/sub2api: 77.2/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Go project with 278 stars today; score 77.2/100.
+- anthropics/claude-code: 71.6/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 127 stars today; score 71.6/100.
+- multica-ai/andrej-karpathy-skills: 65.1/100 [AI Workflow, Deep Dive] AI Workflow, Deep Dive: Unknown project with 315 stars today; score 65.1/100.
+- ripienaar/free-for-dev: 47.6/100 [DevTools] DevTools: HTML project with 829 stars today; score 47.6/100.
+
+Generated for 2026-08-23 from GitHub Trending daily.
