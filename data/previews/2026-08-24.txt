@@ -1,0 +1,34 @@
+GitHub Trending: AI workflow signal - 2026-08-24
+
+Today leans toward AI workflow signal; the strongest pick is NousResearch/hermes-agent.
+
+Top picks
+1. NousResearch/hermes-agent - 73.6/100
+   https://github.com/NousResearch/hermes-agent
+   AI Workflow, Try Today: Python project with 454 stars today; score 73.6/100.
+2. freestylefly/awesome-gpt-image-2 - 71.5/100
+   https://github.com/freestylefly/awesome-gpt-image-2
+   AI Workflow, DevTools: JavaScript project with 401 stars today; score 71.5/100.
+3. tinyhumansai/openhuman - 66.7/100
+   https://github.com/tinyhumansai/openhuman
+   AI Workflow, DevTools: Rust project with 39 stars today; score 66.7/100.
+4. anthropics/claude-plugins-community - 66.3/100
+   https://github.com/anthropics/claude-plugins-community
+   AI Workflow, Try Today: Python project with 225 stars today; score 66.3/100.
+5. block/buzz - 59.2/100
+   https://github.com/block/buzz
+   AI Workflow, Try Today: Rust project with 410 stars today; score 59.2/100.
+
+Full reviewed list
+- NousResearch/hermes-agent: 73.6/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 454 stars today; score 73.6/100.
+- freestylefly/awesome-gpt-image-2: 71.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: JavaScript project with 401 stars today; score 71.5/100.
+- tinyhumansai/openhuman: 66.7/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Rust project with 39 stars today; score 66.7/100.
+- anthropics/claude-plugins-community: 66.3/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 225 stars today; score 66.3/100.
+- block/buzz: 59.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Rust project with 410 stars today; score 59.2/100.
+- Comfy-Org/ComfyUI: 58.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 201 stars today; score 58.0/100.
+- Alishahryar1/free-claude-code: 57.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 1081 stars today; score 57.5/100.
+- basecamp/omarchy: 51.4/100 [Try Today] Try Today: Shell project with 750 stars today; score 51.4/100.
+- sponsors/VoltAgent: 45.9/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Unknown project with 156 stars today; score 45.9/100.
+- sponsors/virgiliojr94: 27.1/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Python project with 417 stars today; score 27.1/100.
+
+Generated for 2026-08-24 from GitHub Trending daily.
