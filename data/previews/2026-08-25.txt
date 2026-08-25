@@ -1,0 +1,33 @@
+GitHub Trending: AI workflow signal - 2026-08-25
+
+Today leans toward AI workflow signal; the strongest pick is tashfeenahmed/freellmapi.
+
+Top picks
+1. tashfeenahmed/freellmapi - 75.3/100
+   https://github.com/tashfeenahmed/freellmapi
+   AI Workflow, DevTools: TypeScript project with 174 stars today; score 75.3/100.
+2. AgriciDaniel/claude-obsidian - 73.4/100
+   https://github.com/AgriciDaniel/claude-obsidian
+   AI Workflow, Try Today: Python project with 310 stars today; score 73.4/100.
+3. sponsors/MadsLorentzen - 48.1/100
+   https://github.com/sponsors/MadsLorentzen
+   AI Workflow, DevTools: Python project with 434 stars today; score 48.1/100.
+   Caution: Weak onboarding evidence.
+4. sponsors/openclaw - 31.9/100
+   https://github.com/sponsors/openclaw
+   AI Workflow, Watch: TypeScript project with 173 stars today; score 31.9/100.
+   Caution: Weak onboarding evidence.
+5. sponsors/rohitg00 - 22.7/100
+   https://github.com/sponsors/rohitg00
+   Watch, Hype Risk: Python project with 349 stars today; score 22.7/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- tashfeenahmed/freellmapi: 75.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 174 stars today; score 75.3/100.
+- AgriciDaniel/claude-obsidian: 73.4/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 310 stars today; score 73.4/100.
+- sponsors/MadsLorentzen: 48.1/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Python project with 434 stars today; score 48.1/100.
+- sponsors/openclaw: 31.9/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: TypeScript project with 173 stars today; score 31.9/100.
+- sponsors/rohitg00: 22.7/100 [Watch, Hype Risk] Watch, Hype Risk: Python project with 349 stars today; score 22.7/100.
+- sponsors/dani-garcia: 16.1/100 [Watch, Hype Risk] Watch, Hype Risk: Rust project with 175 stars today; score 16.1/100.
+
+Generated for 2026-08-25 from GitHub Trending daily.
