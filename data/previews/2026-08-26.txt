@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-08-26
+
+Today leans toward AI workflow signal; the strongest pick is Shubhamsaboo/awesome-llm-apps.
+
+Top picks
+1. Shubhamsaboo/awesome-llm-apps - 70.7/100
+   https://github.com/Shubhamsaboo/awesome-llm-apps
+   AI Workflow, Try Today: Python project with 161 stars today; score 70.7/100.
+2. anthropics/claude-plugins-official - 67.0/100
+   https://github.com/anthropics/claude-plugins-official
+   AI Workflow, Try Today: Python project with 55 stars today; score 67.0/100.
+3. marin-community/marin - 65.3/100
+   https://github.com/marin-community/marin
+   AI Workflow, DevTools: Python project with 231 stars today; score 65.3/100.
+4. TauricResearch/TradingAgents - 64.7/100
+   https://github.com/TauricResearch/TradingAgents
+   AI Workflow, DevTools: Python project with 218 stars today; score 64.7/100.
+5. sponsors/DietrichGebert - 40.2/100
+   https://github.com/sponsors/DietrichGebert
+   AI Workflow, Watch: JavaScript project with 982 stars today; score 40.2/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- Shubhamsaboo/awesome-llm-apps: 70.7/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 161 stars today; score 70.7/100.
+- anthropics/claude-plugins-official: 67.0/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 55 stars today; score 67.0/100.
+- marin-community/marin: 65.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 231 stars today; score 65.3/100.
+- TauricResearch/TradingAgents: 64.7/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 218 stars today; score 64.7/100.
+- sponsors/DietrichGebert: 40.2/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: JavaScript project with 982 stars today; score 40.2/100.
+- sponsors/asciimoo: 21.1/100 [Watch, Hype Risk] Watch, Hype Risk: Go project with 98 stars today; score 21.1/100.
+
+Generated for 2026-08-26 from GitHub Trending daily.

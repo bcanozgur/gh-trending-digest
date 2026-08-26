@@ -1,0 +1,1167 @@
+{
+  "date": "2026-08-26",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-04-29T05:30:25Z",
+        "default_branch": "main",
+        "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+        "fork": false,
+        "full_name": "Shubhamsaboo/awesome-llm-apps",
+        "homepage": "https://www.theunwindai.com",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 17,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-22T04:01:54Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"http://www.theunwindai.com\"> <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\"> </a> </p> <div align=\"center\"> # Awesome LLM Apps **100+ open-source AI agents, agent skills, and RAG apps. Hand-built, tested end-to-end, Apache-2.0.** Clone it, ship it, sell it - 100% free and open-source Works with Claude, Gemini, GPT, DeepSeek, Llama, Qwen and other open-source models. **[Step-by-step tutorials on Unwind AI](https://www.theunwindai.com)** \u00b7 **[Quic",
+        "topics": [
+          "agents",
+          "llms",
+          "python",
+          "rag"
+        ],
+        "updated_at": "2026-08-26T08:08:33Z"
+      },
+      "repo": {
+        "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+        "forks": 19760,
+        "full_name": "Shubhamsaboo/awesome-llm-apps",
+        "language": "Python",
+        "name": "awesome-llm-apps",
+        "owner": "Shubhamsaboo",
+        "rank": 10,
+        "stars_today": 161,
+        "total_stars": 134410,
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.1,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.9,
+        "total": 70.65
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 161 stars today; score 70.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-11-20T18:36:20Z",
+        "default_branch": "main",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "fork": false,
+        "full_name": "anthropics/claude-plugins-official",
+        "homepage": "https://code.claude.com/docs/en/plugins",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1016,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-26T07:40:55Z",
+        "readme_excerpt": "# Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. > **\u26a0\ufe0f Important:** Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or other software are included in plugins and cannot verify that they will work as intended or that they won't change. See each plugin's homepage for more information. ## Structure - **`/plugins`** - Internal plugins developed and maintained by Anthropic - **`/ext",
+        "topics": [
+          "claude-code",
+          "mcp",
+          "skills"
+        ],
+        "updated_at": "2026-08-26T08:01:00Z"
+      },
+      "repo": {
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "forks": 3876,
+        "full_name": "anthropics/claude-plugins-official",
+        "language": "Python",
+        "name": "claude-plugins-official",
+        "owner": "anthropics",
+        "rank": 15,
+        "stars_today": 55,
+        "total_stars": 34183,
+        "url": "https://github.com/anthropics/claude-plugins-official"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 1.86,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 66.95
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 55 stars today; score 67.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-03-22T06:29:42Z",
+        "default_branch": "main",
+        "description": "Open-source framework for the research and development of foundation models.",
+        "fork": false,
+        "full_name": "marin-community/marin",
+        "homepage": "https://marin.community",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 579,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-26T07:38:39Z",
+        "readme_excerpt": "# <img alt=\"Marin\" src=\"docs/design/marin-logo.svg\" height=\"36\" align=\"top\"> Marin <a href=\"https://marin.readthedocs.io/en/latest/?badge=latest\"> <img alt=\"Documentation\" src=\"https://readthedocs.org/projects/marin/badge/?version=latest\"> </a> <a href=\"\"> <img alt=\"License\" src=\"https://img.shields.io/github/license/marin-community/marin?color=blue\" /> </a> <!--marin-intro-start--> > \"*I am not afraid of storms, for I am learning how to sail my ship.*\"<br/> > \u2013 Louisa May Alcott [Marin](https:/",
+        "topics": [],
+        "updated_at": "2026-08-26T08:03:09Z"
+      },
+      "repo": {
+        "description": "Open-source framework for the research and development of foundation models.",
+        "forks": 203,
+        "full_name": "marin-community/marin",
+        "language": "Python",
+        "name": "marin",
+        "owner": "marin-community",
+        "rank": 13,
+        "stars_today": 231,
+        "total_stars": 2283,
+        "url": "https://github.com/marin-community/marin"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.01,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 65.31
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 231 stars today; score 65.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-12-28T03:31:08Z",
+        "default_branch": "main",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "fork": false,
+        "full_name": "TauricResearch/TradingAgents",
+        "homepage": "https://arxiv.org/pdf/2412.20138",
+        "latest_release": "v0.3.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 378,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-18T15:55:05Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"assets/TauricResearch.png\" style=\"width: 60%; height: auto;\"> </p> <div align=\"center\" style=\"line-height: 1;\"> <a href=\"https://arxiv.org/abs/2412.20138\" target=\"_blank\"><img alt=\"arXiv\" src=\"https://img.shields.io/badge/arXiv-2412.20138-B31B1B?logo=arxiv\"/></a> <a href=\"https://discord.com/invite/hk9PGKShPK\" target=\"_blank\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/Discord-TradingResearch-7289da?logo=discord&logoColor=white&color=7289da\"/></a> <a href=\"h",
+        "topics": [
+          "agent",
+          "finance",
+          "llm",
+          "multiagent",
+          "trading"
+        ],
+        "updated_at": "2026-08-26T08:09:08Z"
+      },
+      "repo": {
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "forks": 19389,
+        "full_name": "TauricResearch/TradingAgents",
+        "language": "Python",
+        "name": "TradingAgents",
+        "owner": "TauricResearch",
+        "rank": 5,
+        "stars_today": 218,
+        "total_stars": 100526,
+        "url": "https://github.com/TauricResearch/TradingAgents"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.1,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 64.7
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 218 stars today; score 64.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/DietrichGebert",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "forks": 6130,
+        "full_name": "sponsors/DietrichGebert",
+        "language": "JavaScript",
+        "name": "DietrichGebert",
+        "owner": "sponsors",
+        "rank": 14,
+        "stars_today": 982,
+        "total_stars": 111573,
+        "url": "https://github.com/sponsors/DietrichGebert"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.59,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 40.24
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 982 stars today; score 40.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/asciimoo",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Your own search engine",
+        "forks": 132,
+        "full_name": "sponsors/asciimoo",
+        "language": "Go",
+        "name": "asciimoo",
+        "owner": "sponsors",
+        "rank": 16,
+        "stars_today": 98,
+        "total_stars": 2949,
+        "url": "https://github.com/sponsors/asciimoo"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 1.92,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 0.79,
+        "technical_quality": 3.5,
+        "total": 21.11
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Go project with 98 stars today; score 21.1/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-04-13T05:37:54Z",
+        "default_branch": "main",
+        "description": "Lightweight coding agent that runs in your terminal",
+        "fork": false,
+        "full_name": "openai/codex",
+        "homepage": null,
+        "latest_release": "rust-v0.149.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 13866,
+        "primary_language": "Rust",
+        "pushed_at": "2026-08-26T06:53:47Z",
+        "readme_excerpt": "<p align=\"center\"><strong>Codex CLI</strong> is a coding agent from OpenAI that runs locally on your computer. <p align=\"center\"> <img src=\"https://github.com/openai/codex/blob/main/.github/codex-cli-splash.png\" alt=\"Codex CLI splash\" width=\"80%\" /> </p> </br> If you want Codex in your code editor (VS Code, Cursor, Windsurf), <a href=\"https://developers.openai.com/codex/ide\">install in your IDE.</a> </br>If you want the desktop app experience, run <code>codex app</code> or visit <a href=\"https:/",
+        "topics": [],
+        "updated_at": "2026-08-26T08:08:56Z"
+      },
+      "repo": {
+        "description": "Lightweight coding agent that runs in your terminal",
+        "forks": 18055,
+        "full_name": "openai/codex",
+        "language": "Rust",
+        "name": "codex",
+        "owner": "openai",
+        "rank": 12,
+        "stars_today": 1181,
+        "total_stars": 118472,
+        "url": "https://github.com/openai/codex"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 7.86,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 79.62
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 1181 stars today; score 79.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-25T09:19:13Z",
+        "default_branch": "main",
+        "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
+        "fork": false,
+        "full_name": "freestylefly/awesome-gpt-image-2",
+        "homepage": "https://gpt-image2.canghe.ai",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 10,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-08-25T07:16:50Z",
+        "readme_excerpt": "<p align=\"center\"><img src=\"./data/images/banner.svg\" alt=\"GPT-Image2 Prompt System\" width=\"800\" /></p> <h3 align=\"center\">Prompt as Code | GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases, 20+ Industrial Templates</h3> <p align=\"center\"> <a href=\"https://github.com/freestylefly/awesome-gpt-image-2\"><img src=\"https://img.shields.io/github/stars/freestylefly/awesome-gpt-image-2?style=flat-square&color=rgb(25%2C%20121%2C%20255)\" alt=\"Stars\"></a> <a href=\"https:",
+        "topics": [
+          "agents",
+          "ai-image-generation",
+          "chatgpt",
+          "dsh-plugin",
+          "gpt-image-2",
+          "image-prompts",
+          "prompt-as-code",
+          "prompt-engineering",
+          "skills",
+          "workflow-automation"
+        ],
+        "updated_at": "2026-08-26T08:08:44Z"
+      },
+      "repo": {
+        "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
+        "forks": 2001,
+        "full_name": "freestylefly/awesome-gpt-image-2",
+        "language": "JavaScript",
+        "name": "awesome-gpt-image-2",
+        "owner": "freestylefly",
+        "rank": 1,
+        "stars_today": 1698,
+        "total_stars": 19684,
+        "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 73.6
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 1698 stars today; score 73.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-07T08:59:37Z",
+        "default_branch": "main",
+        "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+        "fork": false,
+        "full_name": "AgriciDaniel/claude-obsidian",
+        "homepage": "https://agricidaniel.com/blog/claude-obsidian-ai-second-brain",
+        "latest_release": "v2.1.1",
+        "license_spdx": "MIT",
+        "open_issues": 136,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-25T23:32:08Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"assets/cover.png\" alt=\"claude-obsidian cover featuring an astronaut, the Obsidian crystal, and a connected knowledge graph\" width=\"100%\"> </p> <h1 align=\"center\">claude-obsidian</h1> <p align=\"center\"> <strong>Build an Obsidian knowledge base that becomes more useful every time you use it.</strong><br> Capture sources, create connected notes, retrieve grounded answers, and keep the vault healthy\u2014without giving up ownership of your files. </p> <p align=\"center\"> <a hr",
+        "topics": [
+          "agent-skills",
+          "ai-note-taking",
+          "ai-second-brain",
+          "claude-code",
+          "claude-code-skill",
+          "claude-memory",
+          "claude-plugin",
+          "karpathy-llm-wiki",
+          "knowledge-graph",
+          "knowledge-management",
+          "note-taking",
+          "notion-alternative",
+          "obsidian",
+          "obsidian-ai",
+          "obsidian-plugin",
+          "obsidian-second-brain",
+          "open-source",
+          "personal-knowledge-management",
+          "pkm",
+          "second-brain"
+        ],
+        "updated_at": "2026-08-26T08:07:11Z"
+      },
+      "repo": {
+        "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+        "forks": 1389,
+        "full_name": "AgriciDaniel/claude-obsidian",
+        "language": "Python",
+        "name": "claude-obsidian",
+        "owner": "AgriciDaniel",
+        "rank": 6,
+        "stars_today": 813,
+        "total_stars": 12985,
+        "url": "https://github.com/AgriciDaniel/claude-obsidian"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.9,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 72.0
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 813 stars today; score 72.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-04-29T05:30:25Z",
+        "default_branch": "main",
+        "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+        "fork": false,
+        "full_name": "Shubhamsaboo/awesome-llm-apps",
+        "homepage": "https://www.theunwindai.com",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 17,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-22T04:01:54Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"http://www.theunwindai.com\"> <img src=\"docs/banner/unwind_black.png\" width=\"900px\" alt=\"Unwind AI\"> </a> </p> <div align=\"center\"> # Awesome LLM Apps **100+ open-source AI agents, agent skills, and RAG apps. Hand-built, tested end-to-end, Apache-2.0.** Clone it, ship it, sell it - 100% free and open-source Works with Claude, Gemini, GPT, DeepSeek, Llama, Qwen and other open-source models. **[Step-by-step tutorials on Unwind AI](https://www.theunwindai.com)** \u00b7 **[Quic",
+        "topics": [
+          "agents",
+          "llms",
+          "python",
+          "rag"
+        ],
+        "updated_at": "2026-08-26T08:08:33Z"
+      },
+      "repo": {
+        "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+        "forks": 19760,
+        "full_name": "Shubhamsaboo/awesome-llm-apps",
+        "language": "Python",
+        "name": "awesome-llm-apps",
+        "owner": "Shubhamsaboo",
+        "rank": 10,
+        "stars_today": 161,
+        "total_stars": 134410,
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.1,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.9,
+        "total": 70.65
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 161 stars today; score 70.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-27T15:46:05Z",
+        "default_branch": "main",
+        "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+        "fork": false,
+        "full_name": "apache/maka",
+        "homepage": null,
+        "latest_release": "v0.1.11",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 310,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-26T07:16:19Z",
+        "readme_excerpt": "<!-- Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writ",
+        "topics": [
+          "agent-runtime",
+          "ai",
+          "ai-agent",
+          "apache",
+          "cli",
+          "desktop",
+          "electron",
+          "event-sourcing",
+          "incubator",
+          "llm",
+          "local-first",
+          "maka",
+          "tool-use",
+          "typescript"
+        ],
+        "updated_at": "2026-08-26T08:02:21Z"
+      },
+      "repo": {
+        "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+        "forks": 343,
+        "full_name": "apache/maka",
+        "language": "TypeScript",
+        "name": "maka",
+        "owner": "apache",
+        "rank": 4,
+        "stars_today": 543,
+        "total_stars": 3492,
+        "url": "https://github.com/apache/maka"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.85,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 69.9
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 543 stars today; score 69.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-11-20T18:36:20Z",
+        "default_branch": "main",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "fork": false,
+        "full_name": "anthropics/claude-plugins-official",
+        "homepage": "https://code.claude.com/docs/en/plugins",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1016,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-26T07:40:55Z",
+        "readme_excerpt": "# Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. > **\u26a0\ufe0f Important:** Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or other software are included in plugins and cannot verify that they will work as intended or that they won't change. See each plugin's homepage for more information. ## Structure - **`/plugins`** - Internal plugins developed and maintained by Anthropic - **`/ext",
+        "topics": [
+          "claude-code",
+          "mcp",
+          "skills"
+        ],
+        "updated_at": "2026-08-26T08:01:00Z"
+      },
+      "repo": {
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "forks": 3876,
+        "full_name": "anthropics/claude-plugins-official",
+        "language": "Python",
+        "name": "claude-plugins-official",
+        "owner": "anthropics",
+        "rank": 15,
+        "stars_today": 55,
+        "total_stars": 34183,
+        "url": "https://github.com/anthropics/claude-plugins-official"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 1.86,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 66.95
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 55 stars today; score 67.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-03-22T06:29:42Z",
+        "default_branch": "main",
+        "description": "Open-source framework for the research and development of foundation models.",
+        "fork": false,
+        "full_name": "marin-community/marin",
+        "homepage": "https://marin.community",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 579,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-26T07:38:39Z",
+        "readme_excerpt": "# <img alt=\"Marin\" src=\"docs/design/marin-logo.svg\" height=\"36\" align=\"top\"> Marin <a href=\"https://marin.readthedocs.io/en/latest/?badge=latest\"> <img alt=\"Documentation\" src=\"https://readthedocs.org/projects/marin/badge/?version=latest\"> </a> <a href=\"\"> <img alt=\"License\" src=\"https://img.shields.io/github/license/marin-community/marin?color=blue\" /> </a> <!--marin-intro-start--> > \"*I am not afraid of storms, for I am learning how to sail my ship.*\"<br/> > \u2013 Louisa May Alcott [Marin](https:/",
+        "topics": [],
+        "updated_at": "2026-08-26T08:03:09Z"
+      },
+      "repo": {
+        "description": "Open-source framework for the research and development of foundation models.",
+        "forks": 203,
+        "full_name": "marin-community/marin",
+        "language": "Python",
+        "name": "marin",
+        "owner": "marin-community",
+        "rank": 13,
+        "stars_today": 231,
+        "total_stars": 2283,
+        "url": "https://github.com/marin-community/marin"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.01,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 65.31
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 231 stars today; score 65.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-12-28T03:31:08Z",
+        "default_branch": "main",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "fork": false,
+        "full_name": "TauricResearch/TradingAgents",
+        "homepage": "https://arxiv.org/pdf/2412.20138",
+        "latest_release": "v0.3.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 378,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-18T15:55:05Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"assets/TauricResearch.png\" style=\"width: 60%; height: auto;\"> </p> <div align=\"center\" style=\"line-height: 1;\"> <a href=\"https://arxiv.org/abs/2412.20138\" target=\"_blank\"><img alt=\"arXiv\" src=\"https://img.shields.io/badge/arXiv-2412.20138-B31B1B?logo=arxiv\"/></a> <a href=\"https://discord.com/invite/hk9PGKShPK\" target=\"_blank\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/Discord-TradingResearch-7289da?logo=discord&logoColor=white&color=7289da\"/></a> <a href=\"h",
+        "topics": [
+          "agent",
+          "finance",
+          "llm",
+          "multiagent",
+          "trading"
+        ],
+        "updated_at": "2026-08-26T08:09:08Z"
+      },
+      "repo": {
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "forks": 19389,
+        "full_name": "TauricResearch/TradingAgents",
+        "language": "Python",
+        "name": "TradingAgents",
+        "owner": "TauricResearch",
+        "rank": 5,
+        "stars_today": 218,
+        "total_stars": 100526,
+        "url": "https://github.com/TauricResearch/TradingAgents"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.1,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 64.7
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 218 stars today; score 64.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-18T20:01:27Z",
+        "default_branch": "main",
+        "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+        "fork": false,
+        "full_name": "tinyhumansai/openhuman",
+        "homepage": "https://tinyhumans.ai/openhuman",
+        "latest_release": "v0.63.12",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 302,
+        "primary_language": "Rust",
+        "pushed_at": "2026-08-25T14:19:31Z",
+        "readme_excerpt": "<h1 align=\"center\">OpenHuman</h1> <p align=\"center\"> <img src=\"./gitbooks/.gitbook/assets/demo.png\" alt=\"The Tet\" /> </p> <p align=\"center\" style=\"display: inline-block\"> <a href=\"https://trendshift.io/repositories/23680\" target=\"_blank\" style=\"display: inline-block\"> <img src=\"https://trendshift.io/api/badge/repositories/23680\" alt=\"tinyhumansai%2Fopenhuman | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/> </a> <a href=\"https://www.producthunt.com/products/openhuman?em",
+        "topics": [],
+        "updated_at": "2026-08-26T08:08:27Z"
+      },
+      "repo": {
+        "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+        "forks": 3740,
+        "full_name": "tinyhumansai/openhuman",
+        "language": "Rust",
+        "name": "openhuman",
+        "owner": "tinyhumansai",
+        "rank": 8,
+        "stars_today": 542,
+        "total_stars": 37941,
+        "url": "https://github.com/tinyhumansai/openhuman"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.27,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 64.22
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 542 stars today; score 64.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-20T02:20:30Z",
+        "default_branch": "main",
+        "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror \u2014 submit plugins at clau.de/plugin-directory-submission.",
+        "fork": false,
+        "full_name": "anthropics/claude-plugins-community",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 42,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-25T20:01:46Z",
+        "readme_excerpt": "# Claude Plugins \u2014 Community Community-contributed plugins for [Claude Cowork](https://claude.com/product/cowork) and [Claude Code](https://claude.com/product/claude-code). ## What this repo is A **read-only mirror** of the community plugin marketplace. The `.claude-plugin/marketplace.json` file here is the list of community plugins available to install. It is synced nightly from Anthropic's internal review pipeline. Every plugin listed here has been submitted via [claude.ai](https://clau.de/plu",
+        "topics": [],
+        "updated_at": "2026-08-26T08:08:35Z"
+      },
+      "repo": {
+        "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror \u2014 submit plugins at clau.de/plugin-directory-submission.",
+        "forks": 182,
+        "full_name": "anthropics/claude-plugins-community",
+        "language": "Python",
+        "name": "claude-plugins-community",
+        "owner": "anthropics",
+        "rank": 2,
+        "stars_today": 351,
+        "total_stars": 1927,
+        "url": "https://github.com/anthropics/claude-plugins-community"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 5.19,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 64.03
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 351 stars today; score 64.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-27T03:53:13Z",
+        "default_branch": "main",
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "fork": false,
+        "full_name": "multica-ai/andrej-karpathy-skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 129,
+        "primary_language": null,
+        "pushed_at": "2026-04-20T10:05:04Z",
+        "readme_excerpt": "# Karpathy-Inspired Claude Code Guidelines > Check out my new project [Multica](https://github.com/multica-ai/multica) \u2014 an open-source platform for running and managing coding agents with reusable skills. > > Follow me on X: [https://x.com/jiayuan_jy](https://x.com/jiayuan_jy) A single `CLAUDE.md` file to improve Claude Code behavior, derived from [Andrej Karpathy's observations](https://x.com/karpathy/status/2015883857489522876) on LLM coding pitfalls. English | [\u7b80\u4f53\u4e2d\u6587](./README.zh.md) ## The P",
+        "topics": [],
+        "updated_at": "2026-08-26T08:08:42Z"
+      },
+      "repo": {
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "forks": 21152,
+        "full_name": "multica-ai/andrej-karpathy-skills",
+        "language": null,
+        "name": "andrej-karpathy-skills",
+        "owner": "multica-ai",
+        "rank": 11,
+        "stars_today": 830,
+        "total_stars": 207415,
+        "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.27,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 9.1,
+        "total": 63.02
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Unknown project with 830 stars today; score 63.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-06-01T07:26:22Z",
+        "default_branch": "quattro",
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "fork": false,
+        "full_name": "basecamp/omarchy",
+        "homepage": "https://omarchy.org",
+        "latest_release": "v4.0.1",
+        "license_spdx": "MIT",
+        "open_issues": 1615,
+        "primary_language": "Shell",
+        "pushed_at": "2026-08-25T20:52:35Z",
+        "readme_excerpt": "# Omarchy Omarchy is a beautiful, modern & opinionated Linux distribution by DHH. Read more at [omarchy.org](https://omarchy.org). ## The Omarchy Manual The manual lives in [`manual/`](manual/), which is its authoritative source. It's mirrored to [learn.omacom.io](https://learn.omacom.io/2/the-omarchy-manual), where its screenshots are also hosted. - [Welcome to Omarchy!](manual/01-welcome-to-omarchy.md) **The Basics** - [Getting Started](manual/02-getting-started.md) - [Coming From Mac or Windo",
+        "topics": [],
+        "updated_at": "2026-08-26T08:08:37Z"
+      },
+      "repo": {
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "forks": 3206,
+        "full_name": "basecamp/omarchy",
+        "language": "Shell",
+        "name": "omarchy",
+        "owner": "basecamp",
+        "rank": 9,
+        "stars_today": 1083,
+        "total_stars": 31557,
+        "url": "https://github.com/basecamp/omarchy"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 7.81,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.19,
+        "technical_quality": 14.0,
+        "total": 54.64
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Shell project with 1083 stars today; score 54.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/MadsLorentzen",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+        "forks": 12214,
+        "full_name": "sponsors/MadsLorentzen",
+        "language": "Python",
+        "name": "MadsLorentzen",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 1265,
+        "total_stars": 35718,
+        "url": "https://github.com/sponsors/MadsLorentzen"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 9.57,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 47.72
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1265 stars today; score 47.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/DietrichGebert",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "forks": 6130,
+        "full_name": "sponsors/DietrichGebert",
+        "language": "JavaScript",
+        "name": "DietrichGebert",
+        "owner": "sponsors",
+        "rank": 14,
+        "stars_today": 982,
+        "total_stars": 111573,
+        "url": "https://github.com/sponsors/DietrichGebert"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.59,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 40.24
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 982 stars today; score 40.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/asciimoo",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Your own search engine",
+        "forks": 132,
+        "full_name": "sponsors/asciimoo",
+        "language": "Go",
+        "name": "asciimoo",
+        "owner": "sponsors",
+        "rank": 16,
+        "stars_today": 98,
+        "total_stars": 2949,
+        "url": "https://github.com/sponsors/asciimoo"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 1.92,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 0.79,
+        "technical_quality": 3.5,
+        "total": 21.11
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Go project with 98 stars today; score 21.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/rohitg00",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Learn it. Build it. Ship it for others.",
+        "forks": 8598,
+        "full_name": "sponsors/rohitg00",
+        "language": "Python",
+        "name": "rohitg00",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 569,
+        "total_stars": 49291,
+        "url": "https://github.com/sponsors/rohitg00"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.55,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 2.27,
+        "technical_quality": 3.5,
+        "total": 21.02
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 569 stars today; score 21.0/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-08-26",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is Shubhamsaboo/awesome-llm-apps."
+}
