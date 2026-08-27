@@ -1,0 +1,34 @@
+GitHub Trending: AI workflow signal - 2026-08-27
+
+Today leans toward AI workflow signal; the strongest pick is tt-a1i/archify.
+
+Top picks
+1. tt-a1i/archify - 89.2/100
+   https://github.com/tt-a1i/archify
+   AI Workflow, DevTools: JavaScript project with 4260 stars today; score 89.2/100.
+2. K-Dense-AI/scientific-agent-skills - 74.9/100
+   https://github.com/K-Dense-AI/scientific-agent-skills
+   AI Workflow, DevTools: Python project with 494 stars today; score 74.9/100.
+3. ConardLi/garden-skills - 74.2/100
+   https://github.com/ConardLi/garden-skills
+   AI Workflow, Try Today: CSS project with 413 stars today; score 74.2/100.
+4. ComposioHQ/awesome-claude-skills - 70.2/100
+   https://github.com/ComposioHQ/awesome-claude-skills
+   AI Workflow, DevTools: Python project with 125 stars today; score 70.2/100.
+5. JetBrains/go-modern-guidelines - 67.8/100
+   https://github.com/JetBrains/go-modern-guidelines
+   AI Workflow, DevTools: Go project with 314 stars today; score 67.8/100.
+
+Full reviewed list
+- tt-a1i/archify: 89.2/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: JavaScript project with 4260 stars today; score 89.2/100.
+- K-Dense-AI/scientific-agent-skills: 74.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 494 stars today; score 74.9/100.
+- ConardLi/garden-skills: 74.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: CSS project with 413 stars today; score 74.2/100.
+- ComposioHQ/awesome-claude-skills: 70.2/100 [AI Workflow, DevTools, Deep Dive] AI Workflow, DevTools: Python project with 125 stars today; score 70.2/100.
+- JetBrains/go-modern-guidelines: 67.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Go project with 314 stars today; score 67.8/100.
+- google/googletest: 62.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: C++ project with 4 stars today; score 62.9/100.
+- actions/checkout: 50.5/100 [DevTools, Try Today] DevTools, Try Today: TypeScript project with 4 stars today; score 50.5/100.
+- sponsors/thedotmack: 46.1/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: JavaScript project with 260 stars today; score 46.1/100.
+- sponsors/calesthio: 33.6/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Python project with 1284 stars today; score 33.6/100.
+- sponsors/zedeus: 23.6/100 [Watch, Hype Risk] Watch, Hype Risk: Nim project with 63 stars today; score 23.6/100.
+
+Generated for 2026-08-27 from GitHub Trending daily.
