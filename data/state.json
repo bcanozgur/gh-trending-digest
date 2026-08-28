@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-08-27",
+  "last_run": "2026-08-28",
   "repos": {
     "1jehuang/jcode": {
       "first_seen": "2026-07-20",
@@ -48,12 +48,12 @@
     },
     "ChromeDevTools/chrome-devtools-mcp": {
       "first_seen": "2026-07-03",
-      "last_rank": 11,
-      "last_score": 71.59,
-      "last_seen": "2026-07-31",
-      "last_sent": "2026-07-31",
-      "last_stars_today": 80,
-      "last_total_stars": 48233
+      "last_rank": 16,
+      "last_score": 70.25,
+      "last_seen": "2026-08-28",
+      "last_sent": "2026-08-28",
+      "last_stars_today": 61,
+      "last_total_stars": 49936
     },
     "Comfy-Org/ComfyUI": {
       "first_seen": "2026-08-10",
@@ -111,21 +111,21 @@
     },
     "JetBrains/go-modern-guidelines": {
       "first_seen": "2026-08-27",
-      "last_rank": 4,
-      "last_score": 67.83,
-      "last_seen": "2026-08-27",
+      "last_rank": 6,
+      "last_score": 62.78,
+      "last_seen": "2026-08-28",
       "last_sent": "2026-08-27",
-      "last_stars_today": 314,
-      "last_total_stars": 1997
+      "last_stars_today": 574,
+      "last_total_stars": 2544
     },
     "K-Dense-AI/scientific-agent-skills": {
       "first_seen": "2026-08-27",
-      "last_rank": 6,
-      "last_score": 74.9,
-      "last_seen": "2026-08-27",
+      "last_rank": 2,
+      "last_score": 70.63,
+      "last_seen": "2026-08-28",
       "last_sent": "2026-08-27",
-      "last_stars_today": 494,
-      "last_total_stars": 35196
+      "last_stars_today": 720,
+      "last_total_stars": 36347
     },
     "K2SOsint/Legendary_OSINT": {
       "first_seen": "2026-08-08",
@@ -163,15 +163,6 @@
       "last_stars_today": 297,
       "last_total_stars": 1809
     },
-    "MoonshotAI/FlashKDA": {
-      "first_seen": "2026-07-30",
-      "last_rank": 11,
-      "last_score": 57.74,
-      "last_seen": "2026-07-30",
-      "last_sent": "2026-07-30",
-      "last_stars_today": 91,
-      "last_total_stars": 1076
-    },
     "NVIDIA-NeMo/Switchyard": {
       "first_seen": "2026-08-13",
       "last_rank": 10,
@@ -180,6 +171,15 @@
       "last_sent": "2026-08-13",
       "last_stars_today": 408,
       "last_total_stars": 1349
+    },
+    "NationalSecurityAgency/ghidra": {
+      "first_seen": "2026-08-28",
+      "last_rank": 12,
+      "last_score": 59.19,
+      "last_seen": "2026-08-28",
+      "last_sent": "2026-08-28",
+      "last_stars_today": 205,
+      "last_total_stars": 73275
     },
     "NawfalMotii79/PLFM_RADAR": {
       "first_seen": "2026-08-19",
@@ -388,15 +388,6 @@
       "last_stars_today": 332,
       "last_total_stars": 3769
     },
-    "alibaba/open-code-review": {
-      "first_seen": "2026-07-24",
-      "last_rank": 13,
-      "last_score": 69.84,
-      "last_seen": "2026-07-30",
-      "last_sent": "2026-07-24",
-      "last_stars_today": 359,
-      "last_total_stars": 16336
-    },
     "amadeusprotocol/node": {
       "first_seen": "2026-08-20",
       "last_rank": 12,
@@ -444,12 +435,12 @@
     },
     "anthropics/claude-plugins-official": {
       "first_seen": "2026-08-26",
-      "last_rank": 5,
-      "last_score": 63.49,
-      "last_seen": "2026-08-27",
+      "last_rank": 3,
+      "last_score": 64.04,
+      "last_seen": "2026-08-28",
       "last_sent": "2026-08-26",
-      "last_stars_today": 290,
-      "last_total_stars": 34606
+      "last_stars_today": 457,
+      "last_total_stars": 34967
     },
     "anthropics/skills": {
       "first_seen": "2026-08-12",
@@ -486,6 +477,15 @@
       "last_sent": "2026-08-24",
       "last_stars_today": 1083,
       "last_total_stars": 31557
+    },
+    "bilawalsidhu/gods-eye-view": {
+      "first_seen": "2026-08-28",
+      "last_rank": 4,
+      "last_score": 66.67,
+      "last_seen": "2026-08-28",
+      "last_sent": "2026-08-28",
+      "last_stars_today": 1984,
+      "last_total_stars": 10734
     },
     "block/buzz": {
       "first_seen": "2026-07-24",
@@ -579,12 +579,12 @@
     },
     "cursor/plugins": {
       "first_seen": "2026-08-15",
-      "last_rank": 15,
-      "last_score": 43.45,
-      "last_seen": "2026-08-23",
+      "last_rank": 9,
+      "last_score": 43.89,
+      "last_seen": "2026-08-28",
       "last_sent": "2026-08-22",
-      "last_stars_today": 286,
-      "last_total_stars": 4722
+      "last_stars_today": 257,
+      "last_total_stars": 5907
     },
     "cypress-io/cypress": {
       "first_seen": "2026-06-16",
@@ -696,12 +696,12 @@
     },
     "freestylefly/awesome-gpt-image-2": {
       "first_seen": "2026-08-24",
-      "last_rank": 2,
-      "last_score": 69.18,
-      "last_seen": "2026-08-27",
+      "last_rank": 10,
+      "last_score": 67.01,
+      "last_seen": "2026-08-28",
       "last_sent": "2026-08-24",
-      "last_stars_today": 2093,
-      "last_total_stars": 22879
+      "last_stars_today": 1687,
+      "last_total_stars": 24158
     },
     "gabime/spdlog": {
       "first_seen": "2026-08-05",
@@ -768,12 +768,12 @@
     },
     "google/googletest": {
       "first_seen": "2026-08-27",
-      "last_rank": 12,
-      "last_score": 62.93,
-      "last_seen": "2026-08-27",
+      "last_rank": 19,
+      "last_score": 57.01,
+      "last_seen": "2026-08-28",
       "last_sent": "2026-08-27",
-      "last_stars_today": 4,
-      "last_total_stars": 39010
+      "last_stars_today": 156,
+      "last_total_stars": 39156
     },
     "google/guava": {
       "first_seen": "2026-08-07",
@@ -792,15 +792,6 @@
       "last_sent": "2026-08-08",
       "last_stars_today": 528,
       "last_total_stars": 17447
-    },
-    "grokability/snipe-it": {
-      "first_seen": "2026-07-30",
-      "last_rank": 6,
-      "last_score": 58.28,
-      "last_seen": "2026-07-30",
-      "last_sent": "2026-07-30",
-      "last_stars_today": 164,
-      "last_total_stars": 14590
     },
     "harry0703/MoneyPrinterTurbo": {
       "first_seen": "2026-08-18",
@@ -930,12 +921,12 @@
     },
     "livekit/agents": {
       "first_seen": "2026-08-03",
-      "last_rank": 13,
-      "last_score": 68.4,
-      "last_seen": "2026-08-05",
-      "last_sent": "2026-08-03",
-      "last_stars_today": 432,
-      "last_total_stars": 12607
+      "last_rank": 20,
+      "last_score": 65.99,
+      "last_seen": "2026-08-28",
+      "last_sent": "2026-08-28",
+      "last_stars_today": 14,
+      "last_total_stars": 13288
     },
     "localsend/localsend": {
       "first_seen": "2026-08-13",
@@ -954,15 +945,6 @@
       "last_sent": "2026-08-13",
       "last_stars_today": 436,
       "last_total_stars": 3123
-    },
-    "maderix/ANE": {
-      "first_seen": "2026-07-30",
-      "last_rank": 15,
-      "last_score": 53.96,
-      "last_seen": "2026-07-30",
-      "last_sent": "2026-07-30",
-      "last_stars_today": 22,
-      "last_total_stars": 7207
     },
     "mahlernim/google-timeline-visualizer": {
       "first_seen": "2026-08-21",
@@ -985,11 +967,11 @@
     "marin-community/marin": {
       "first_seen": "2026-08-26",
       "last_rank": 14,
-      "last_score": 59.33,
-      "last_seen": "2026-08-27",
+      "last_score": 59.26,
+      "last_seen": "2026-08-28",
       "last_sent": "2026-08-26",
-      "last_stars_today": 255,
-      "last_total_stars": 2655
+      "last_stars_today": 236,
+      "last_total_stars": 2868
     },
     "megadose/holehe": {
       "first_seen": "2026-08-14",
@@ -1036,15 +1018,6 @@
       "last_stars_today": 104,
       "last_total_stars": 110588
     },
-    "microsoft/VibeVoice": {
-      "first_seen": "2026-07-30",
-      "last_rank": 8,
-      "last_score": 57.88,
-      "last_seen": "2026-07-30",
-      "last_sent": "2026-07-30",
-      "last_stars_today": 336,
-      "last_total_stars": 51548
-    },
     "microsoft/generative-ai-for-beginners": {
       "first_seen": "2026-08-02",
       "last_rank": 6,
@@ -1071,15 +1044,6 @@
       "last_sent": "2026-08-21",
       "last_stars_today": 395,
       "last_total_stars": 28894
-    },
-    "moeru-ai/airi": {
-      "first_seen": "2026-07-14",
-      "last_rank": 2,
-      "last_score": 59.14,
-      "last_seen": "2026-07-30",
-      "last_sent": "2026-07-27",
-      "last_stars_today": 682,
-      "last_total_stars": 45684
     },
     "multica-ai/andrej-karpathy-skills": {
       "first_seen": "2026-08-23",
@@ -1284,12 +1248,12 @@
     },
     "sponsors/DietrichGebert": {
       "first_seen": "2026-08-26",
-      "last_rank": 7,
-      "last_score": 34.36,
-      "last_seen": "2026-08-27",
+      "last_rank": 18,
+      "last_score": 32.17,
+      "last_seen": "2026-08-28",
       "last_sent": "2026-08-26",
-      "last_stars_today": 1610,
-      "last_total_stars": 113814
+      "last_stars_today": 1396,
+      "last_total_stars": 115179
     },
     "sponsors/JuliusBrussee": {
       "first_seen": "2026-08-21",
@@ -1354,6 +1318,24 @@
       "last_stars_today": 602,
       "last_total_stars": 32082
     },
+    "sponsors/abhigyanpatwari": {
+      "first_seen": "2026-08-28",
+      "last_rank": 5,
+      "last_score": 42.22,
+      "last_seen": "2026-08-28",
+      "last_sent": "2026-08-28",
+      "last_stars_today": 189,
+      "last_total_stars": 46114
+    },
+    "sponsors/abi": {
+      "first_seen": "2026-08-28",
+      "last_rank": 8,
+      "last_score": 32.31,
+      "last_seen": "2026-08-28",
+      "last_sent": "2026-08-28",
+      "last_stars_today": 309,
+      "last_total_stars": 75471
+    },
     "sponsors/affaan-m": {
       "first_seen": "2026-06-24",
       "last_rank": 10,
@@ -1401,12 +1383,12 @@
     },
     "sponsors/calesthio": {
       "first_seen": "2026-08-12",
-      "last_rank": 8,
-      "last_score": 33.57,
-      "last_seen": "2026-08-27",
+      "last_rank": 7,
+      "last_score": 33.29,
+      "last_seen": "2026-08-28",
       "last_sent": "2026-08-27",
-      "last_stars_today": 1284,
-      "last_total_stars": 52166
+      "last_stars_today": 1144,
+      "last_total_stars": 53174
     },
     "sponsors/chatwoot": {
       "first_seen": "2026-08-01",
@@ -1552,15 +1534,6 @@
       "last_stars_today": 173,
       "last_total_stars": 387515
     },
-    "sponsors/opengeos": {
-      "first_seen": "2026-07-28",
-      "last_rank": 1,
-      "last_score": 23.86,
-      "last_seen": "2026-07-30",
-      "last_sent": "2026-07-28",
-      "last_stars_today": 671,
-      "last_total_stars": 4378
-    },
     "sponsors/pranshuparmar": {
       "first_seen": "2026-08-08",
       "last_rank": 4,
@@ -1572,12 +1545,12 @@
     },
     "sponsors/rohitg00": {
       "first_seen": "2026-08-25",
-      "last_rank": 9,
-      "last_score": 18.17,
-      "last_seen": "2026-08-27",
+      "last_rank": 17,
+      "last_score": 16.85,
+      "last_seen": "2026-08-28",
       "last_sent": "2026-08-25",
-      "last_stars_today": 547,
-      "last_total_stars": 50052
+      "last_stars_today": 703,
+      "last_total_stars": 50566
     },
     "sponsors/rustdesk": {
       "first_seen": "2026-08-15",
@@ -1605,6 +1578,15 @@
       "last_sent": "2026-08-15",
       "last_stars_today": 1181,
       "last_total_stars": 7653
+    },
+    "sponsors/swoole": {
+      "first_seen": "2026-08-28",
+      "last_rank": 13,
+      "last_score": 21.53,
+      "last_seen": "2026-08-28",
+      "last_sent": "2026-08-28",
+      "last_stars_today": 188,
+      "last_total_stars": 779
     },
     "sponsors/thedotmack": {
       "first_seen": "2026-08-27",
@@ -1678,6 +1660,15 @@
       "last_stars_today": 1235,
       "last_total_stars": 44400
     },
+    "tailscale/tailcat": {
+      "first_seen": "2026-08-28",
+      "last_rank": 11,
+      "last_score": 57.28,
+      "last_seen": "2026-08-28",
+      "last_sent": "2026-08-28",
+      "last_stars_today": 986,
+      "last_total_stars": 2543
+    },
     "tailwindlabs/tailwindcss": {
       "first_seen": "2026-08-05",
       "last_rank": 11,
@@ -1690,11 +1681,11 @@
     "tashfeenahmed/freellmapi": {
       "first_seen": "2026-08-25",
       "last_rank": 15,
-      "last_score": 75.27,
-      "last_seen": "2026-08-25",
+      "last_score": 70.35,
+      "last_seen": "2026-08-28",
       "last_sent": "2026-08-25",
-      "last_stars_today": 174,
-      "last_total_stars": 19986
+      "last_stars_today": 477,
+      "last_total_stars": 21519
     },
     "tinyhumansai/openhuman": {
       "first_seen": "2026-08-24",
@@ -1707,12 +1698,12 @@
     },
     "tt-a1i/archify": {
       "first_seen": "2026-08-27",
-      "last_rank": 3,
-      "last_score": 89.21,
-      "last_seen": "2026-08-27",
+      "last_rank": 1,
+      "last_score": 84.3,
+      "last_seen": "2026-08-28",
       "last_sent": "2026-08-27",
-      "last_stars_today": 4260,
-      "last_total_stars": 22524
+      "last_stars_today": 4561,
+      "last_total_stars": 26838
     },
     "uber/ADR": {
       "first_seen": "2026-08-05",

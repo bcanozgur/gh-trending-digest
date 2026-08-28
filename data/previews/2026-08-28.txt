@@ -1,0 +1,32 @@
+GitHub Trending: AI workflow signal - 2026-08-28
+
+Today leans toward AI workflow signal; the strongest pick is ChromeDevTools/chrome-devtools-mcp.
+
+Top picks
+1. ChromeDevTools/chrome-devtools-mcp - 70.2/100
+   https://github.com/ChromeDevTools/chrome-devtools-mcp
+   AI Workflow, DevTools: TypeScript project with 61 stars today; score 70.2/100.
+2. bilawalsidhu/gods-eye-view - 66.7/100
+   https://github.com/bilawalsidhu/gods-eye-view
+   AI Workflow, Deep Dive: JavaScript project with 1984 stars today; score 66.7/100.
+3. livekit/agents - 66.0/100
+   https://github.com/livekit/agents
+   AI Workflow, DevTools: Python project with 14 stars today; score 66.0/100.
+4. NationalSecurityAgency/ghidra - 59.2/100
+   https://github.com/NationalSecurityAgency/ghidra
+   AI Workflow, DevTools: Java project with 205 stars today; score 59.2/100.
+5. tailscale/tailcat - 57.3/100
+   https://github.com/tailscale/tailcat
+   AI Workflow, Try Today: Go project with 986 stars today; score 57.3/100.
+
+Full reviewed list
+- ChromeDevTools/chrome-devtools-mcp: 70.2/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 61 stars today; score 70.2/100.
+- bilawalsidhu/gods-eye-view: 66.7/100 [AI Workflow, Deep Dive] AI Workflow, Deep Dive: JavaScript project with 1984 stars today; score 66.7/100.
+- livekit/agents: 66.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 14 stars today; score 66.0/100.
+- NationalSecurityAgency/ghidra: 59.2/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Java project with 205 stars today; score 59.2/100.
+- tailscale/tailcat: 57.3/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Go project with 986 stars today; score 57.3/100.
+- sponsors/abhigyanpatwari: 42.2/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: TypeScript project with 189 stars today; score 42.2/100.
+- sponsors/abi: 32.3/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Python project with 309 stars today; score 32.3/100.
+- sponsors/swoole: 21.5/100 [Watch, Hype Risk] Watch, Hype Risk: PHP project with 188 stars today; score 21.5/100.
+
+Generated for 2026-08-28 from GitHub Trending daily.

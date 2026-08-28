@@ -1,0 +1,1516 @@
+{
+  "date": "2026-08-28",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-11T10:39:55Z",
+        "default_branch": "main",
+        "description": "Chrome DevTools for coding agents",
+        "fork": false,
+        "full_name": "ChromeDevTools/chrome-devtools-mcp",
+        "homepage": "https://npmjs.org/package/chrome-devtools-mcp",
+        "latest_release": "chrome-devtools-mcp-v1.8.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 94,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-28T12:24:25Z",
+        "readme_excerpt": "# Chrome DevTools for agents [![npm chrome-devtools-mcp package](https://img.shields.io/npm/v/chrome-devtools-mcp.svg)](https://npmjs.org/package/chrome-devtools-mcp) Chrome DevTools for agents (`chrome-devtools-mcp`) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debuggi",
+        "topics": [
+          "browser",
+          "chrome",
+          "chrome-devtools",
+          "debugging",
+          "devtools",
+          "mcp",
+          "mcp-server",
+          "puppeteer"
+        ],
+        "updated_at": "2026-08-28T19:31:21Z"
+      },
+      "repo": {
+        "description": "Chrome DevTools for coding agents",
+        "forks": 3502,
+        "full_name": "ChromeDevTools/chrome-devtools-mcp",
+        "language": "TypeScript",
+        "name": "chrome-devtools-mcp",
+        "owner": "ChromeDevTools",
+        "rank": 16,
+        "stars_today": 61,
+        "total_stars": 49936,
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.55,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 70.25
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 61 stars today; score 70.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-22T23:37:22Z",
+        "default_branch": "main",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "fork": false,
+        "full_name": "bilawalsidhu/gods-eye-view",
+        "homepage": "https://maptheworld.ai/",
+        "latest_release": null,
+        "license_spdx": "NOASSERTION",
+        "open_issues": 88,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-08-28T00:46:30Z",
+        "readme_excerpt": "<div align=\"center\"> # \ud83c\udf10 God's Eye View ### A spy-satellite simulator in your browser \u2014 then you realize the sources are public and the data is real. Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras, with clearly labeled modeled views where a live feed is unavailable. Hands-free voice control powered by a realtime AI agent. *No place left behind.* ![Orbital HUD, a tracked live globe, FLIR terrain \u2014 then OPEN SOURCED](docs/media/hero-open-source-",
+        "topics": [
+          "3d-globe",
+          "cesium",
+          "flight-tracking",
+          "geospatial",
+          "geospatial-intelligence",
+          "gis",
+          "osint",
+          "photogrammetry",
+          "satellite-tracking",
+          "spatial-intelligence",
+          "webgl",
+          "worldview"
+        ],
+        "updated_at": "2026-08-28T19:33:27Z"
+      },
+      "repo": {
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "forks": 2186,
+        "full_name": "bilawalsidhu/gods-eye-view",
+        "language": "JavaScript",
+        "name": "gods-eye-view",
+        "owner": "bilawalsidhu",
+        "rank": 4,
+        "stars_today": 1984,
+        "total_stars": 10734,
+        "url": "https://github.com/bilawalsidhu/gods-eye-view"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.82,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 3.85,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 66.67
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: JavaScript project with 1984 stars today; score 66.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-10-19T23:00:55Z",
+        "default_branch": "main",
+        "description": "A framework for building realtime voice AI agents \ud83e\udd16\ud83c\udf99\ufe0f\ud83d\udcf9 ",
+        "fork": false,
+        "full_name": "livekit/agents",
+        "homepage": "https://docs.livekit.io/agents",
+        "latest_release": "livekit-agents@1.7.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 797,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-28T16:25:04Z",
+        "readme_excerpt": "<!--BEGIN_BANNER_IMAGE--> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"/.github/banner_dark.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"/.github/banner_light.png\"> <img style=\"width:100%;\" alt=\"The LiveKit icon, the name of the repository and some sample code in the background.\" src=\"https://raw.githubusercontent.com/livekit/agents/main/.github/banner_light.png\"> </picture> <!--END_BANNER_IMAGE--> <br /> ![PyPI - Version](https://img.shields.io/pypi/v/livekit-ag",
+        "topics": [
+          "agents",
+          "ai",
+          "openai",
+          "real-time",
+          "video",
+          "voice"
+        ],
+        "updated_at": "2026-08-28T19:30:28Z"
+      },
+      "repo": {
+        "description": "A framework for building realtime voice AI agents \ud83e\udd16\ud83c\udf99\ufe0f\ud83d\udcf9",
+        "forks": 3628,
+        "full_name": "livekit/agents",
+        "language": "Python",
+        "name": "agents",
+        "owner": "livekit",
+        "rank": 20,
+        "stars_today": 14,
+        "total_stars": 13288,
+        "url": "https://github.com/livekit/agents"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 0.89,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 65.99
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 14 stars today; score 66.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-03-01T03:27:48Z",
+        "default_branch": "master",
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "fork": false,
+        "full_name": "NationalSecurityAgency/ghidra",
+        "homepage": "https://www.nsa.gov/ghidra",
+        "latest_release": "Ghidra_12.1.3_build",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1921,
+        "primary_language": "Java",
+        "pushed_at": "2026-08-28T13:31:09Z",
+        "readme_excerpt": "<img src=\"Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png\" width=\"400\"> # Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, asse",
+        "topics": [
+          "disassembler",
+          "reverse-engineering",
+          "software-analysis"
+        ],
+        "updated_at": "2026-08-28T19:31:52Z"
+      },
+      "repo": {
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "forks": 8009,
+        "full_name": "NationalSecurityAgency/ghidra",
+        "language": "Java",
+        "name": "ghidra",
+        "owner": "NationalSecurityAgency",
+        "rank": 12,
+        "stars_today": 205,
+        "total_stars": 73275,
+        "url": "https://github.com/NationalSecurityAgency/ghidra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.39,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.19
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Java project with 205 stars today; score 59.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-10-29T17:21:12Z",
+        "default_branch": "main",
+        "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+        "fork": false,
+        "full_name": "tailscale/tailcat",
+        "homepage": "https://tailscale.com/tailcat",
+        "latest_release": null,
+        "license_spdx": "BSD-3-Clause",
+        "open_issues": 11,
+        "primary_language": "Go",
+        "pushed_at": "2026-08-27T01:41:43Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"tailcat.png\" alt=\"Tailcat\" width=\"149\" height=\"176\"> </p> <p align=\"center\"><em>\"Tailscale without Tailscale, by Tailscale\"</em></p> # Tailcat Tailcat is a remix of Tailscale open source pieces to act like [netcat](https://en.wikipedia.org/wiki/Netcat), but over Tailscale's data plane, without Tailscale's control plane. Tailscale's data plane (`magicsock`, internally) gives you point-to-point WireGuard\u00ae-encrypted tunnels between two machines with DERP as the NAT-hole",
+        "topics": [],
+        "updated_at": "2026-08-28T19:31:37Z"
+      },
+      "repo": {
+        "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+        "forks": 67,
+        "full_name": "tailscale/tailcat",
+        "language": "Go",
+        "name": "tailcat",
+        "owner": "tailscale",
+        "rank": 11,
+        "stars_today": 986,
+        "total_stars": 2543,
+        "url": "https://github.com/tailscale/tailcat"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.98,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 57.28
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Go project with 986 stars today; score 57.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/abhigyanpatwari",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+        "forks": 5095,
+        "full_name": "sponsors/abhigyanpatwari",
+        "language": "TypeScript",
+        "name": "abhigyanpatwari",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 189,
+        "total_stars": 46114,
+        "url": "https://github.com/sponsors/abhigyanpatwari"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.37,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 42.22
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 189 stars today; score 42.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/abi",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+        "forks": 9215,
+        "full_name": "sponsors/abi",
+        "language": "Python",
+        "name": "abi",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 309,
+        "total_stars": 75471,
+        "url": "https://github.com/sponsors/abi"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.16,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 32.31
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 309 stars today; score 32.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/swoole",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Compile PHP to Native Binaries",
+        "forks": 38,
+        "full_name": "sponsors/swoole",
+        "language": "PHP",
+        "name": "swoole",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 188,
+        "total_stars": 779,
+        "url": "https://github.com/sponsors/swoole"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.22,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 0.91,
+        "technical_quality": 3.5,
+        "total": 21.53
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: PHP project with 188 stars today; score 21.5/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-15T05:27:37Z",
+        "default_branch": "main",
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams\u2014self-contained HTML with motion and crisp export.",
+        "fork": false,
+        "full_name": "tt-a1i/archify",
+        "homepage": "https://tt-a1i.github.io/archify/",
+        "latest_release": "v2.15.0",
+        "license_spdx": "MIT",
+        "open_issues": 58,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-08-28T18:45:36Z",
+        "readme_excerpt": "<p align=\"center\"> <strong>English</strong> \u00b7 <a href=\"./README_ZH.md\">\u7b80\u4f53\u4e2d\u6587</a> </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/31352?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-31352\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/31352\" alt=\"Archify on Trendshift\" width=\"250\" height=\"55\"/></a> </p> ![Archify product preview](docs/assets/archify-readme-hero.png) # Archify **Turn a codeba",
+        "topics": [
+          "agent-skills",
+          "architecture-as-code",
+          "architecture-diagram",
+          "claude-skill",
+          "code-visualization",
+          "codex",
+          "coding-agents",
+          "data-flow-diagram",
+          "deepseek-harness",
+          "developer-tools",
+          "diagram-as-code",
+          "diagrams",
+          "diagrams-as-code",
+          "dsh-plugin",
+          "mermaid-alternative",
+          "opencode",
+          "sequence-diagram",
+          "software-architecture",
+          "system-design",
+          "text-to-diagram"
+        ],
+        "updated_at": "2026-08-28T19:33:21Z"
+      },
+      "repo": {
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams\u2014self-contained HTML with motion and crisp export.",
+        "forks": 1698,
+        "full_name": "tt-a1i/archify",
+        "language": "JavaScript",
+        "name": "archify",
+        "owner": "tt-a1i",
+        "rank": 1,
+        "stars_today": 4561,
+        "total_stars": 26838,
+        "url": "https://github.com/tt-a1i/archify"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 84.3
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 4561 stars today; score 84.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-19T20:54:15Z",
+        "default_branch": "main",
+        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+        "fork": false,
+        "full_name": "K-Dense-AI/scientific-agent-skills",
+        "homepage": "https://k-dense.ai",
+        "latest_release": "v2.64.0",
+        "license_spdx": "MIT",
+        "open_issues": 13,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-24T09:22:55Z",
+        "readme_excerpt": "# Scientific Agent Skills [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md) [![Version](https://img.shields.io/badge/Version-2.64.0-blue.svg)](pyproject.toml) [![Skills](https://img.shields.io/badge/Skills-163-brightgreen.svg)](#-whats-included) [![Databases](https://img.shields.io/badge/Databases-100%2B-orange.svg)](#-whats-included) [![Agent Skills](https://img.shields.io/badge/Standard-Agent_Skills-blueviolet.svg)](https://agentskills.io/) [![Agent Plugins](ht",
+        "topics": [
+          "agent-skills",
+          "ai-scientist",
+          "bioinformatics",
+          "chemoinformatics",
+          "claude",
+          "claude-skills",
+          "claudecode",
+          "clinical-research",
+          "computational-biology",
+          "data-analysis",
+          "drug-discovery",
+          "genomics",
+          "materials-science",
+          "metabolomics",
+          "proteomics",
+          "scientific-computing",
+          "scientific-visualization"
+        ],
+        "updated_at": "2026-08-28T19:33:18Z"
+      },
+      "repo": {
+        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+        "forks": 3470,
+        "full_name": "K-Dense-AI/scientific-agent-skills",
+        "language": "Python",
+        "name": "scientific-agent-skills",
+        "owner": "K-Dense-AI",
+        "rank": 2,
+        "stars_today": 720,
+        "total_stars": 36347,
+        "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.78,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 70.63
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 720 stars today; score 70.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-21T13:38:59Z",
+        "default_branch": "main",
+        "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+        "fork": false,
+        "full_name": "tashfeenahmed/freellmapi",
+        "homepage": "https://freellmapi.co",
+        "latest_release": "v0.9.0",
+        "license_spdx": "MIT",
+        "open_issues": 66,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-28T00:05:52Z",
+        "readme_excerpt": "<div align=\"center\"> # FreeLLMAPI **7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. One OpenAI-compatible endpoint.** Aggregate free tiers from dozens of providers, plus custom OpenAI-compatible chat, embedding, image, and audio endpoints, behind a single `/v1` API. Keys are stored encrypted. A router picks the best available model for each request, falls over to the next provider when one is rate-limited, and tracks per-key usage so you stay under every free-tier ",
+        "topics": [],
+        "updated_at": "2026-08-28T19:31:09Z"
+      },
+      "repo": {
+        "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+        "forks": 3048,
+        "full_name": "tashfeenahmed/freellmapi",
+        "language": "TypeScript",
+        "name": "freellmapi",
+        "owner": "tashfeenahmed",
+        "rank": 15,
+        "stars_today": 477,
+        "total_stars": 21519,
+        "url": "https://github.com/tashfeenahmed/freellmapi"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.46,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 70.35
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 477 stars today; score 70.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-11T10:39:55Z",
+        "default_branch": "main",
+        "description": "Chrome DevTools for coding agents",
+        "fork": false,
+        "full_name": "ChromeDevTools/chrome-devtools-mcp",
+        "homepage": "https://npmjs.org/package/chrome-devtools-mcp",
+        "latest_release": "chrome-devtools-mcp-v1.8.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 94,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-28T12:24:25Z",
+        "readme_excerpt": "# Chrome DevTools for agents [![npm chrome-devtools-mcp package](https://img.shields.io/npm/v/chrome-devtools-mcp.svg)](https://npmjs.org/package/chrome-devtools-mcp) Chrome DevTools for agents (`chrome-devtools-mcp`) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debuggi",
+        "topics": [
+          "browser",
+          "chrome",
+          "chrome-devtools",
+          "debugging",
+          "devtools",
+          "mcp",
+          "mcp-server",
+          "puppeteer"
+        ],
+        "updated_at": "2026-08-28T19:31:21Z"
+      },
+      "repo": {
+        "description": "Chrome DevTools for coding agents",
+        "forks": 3502,
+        "full_name": "ChromeDevTools/chrome-devtools-mcp",
+        "language": "TypeScript",
+        "name": "chrome-devtools-mcp",
+        "owner": "ChromeDevTools",
+        "rank": 16,
+        "stars_today": 61,
+        "total_stars": 49936,
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.55,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 70.25
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 61 stars today; score 70.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-25T09:19:13Z",
+        "default_branch": "main",
+        "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
+        "fork": false,
+        "full_name": "freestylefly/awesome-gpt-image-2",
+        "homepage": "https://gpt-image2.canghe.ai",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 17,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-08-28T10:25:04Z",
+        "readme_excerpt": "<p align=\"center\"><img src=\"./data/images/banner.svg\" alt=\"GPT-Image2 Prompt System\" width=\"800\" /></p> <h3 align=\"center\">Prompt as Code | GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases, 20+ Industrial Templates</h3> <p align=\"center\"> <a href=\"https://github.com/freestylefly/awesome-gpt-image-2\"><img src=\"https://img.shields.io/github/stars/freestylefly/awesome-gpt-image-2?style=flat-square&color=rgb(25%2C%20121%2C%20255)\" alt=\"Stars\"></a> <a href=\"https:",
+        "topics": [
+          "agents",
+          "ai-image-generation",
+          "chatgpt",
+          "dsh-plugin",
+          "gpt-image-2",
+          "image-prompts",
+          "prompt-as-code",
+          "prompt-engineering",
+          "skills",
+          "workflow-automation"
+        ],
+        "updated_at": "2026-08-28T19:25:33Z"
+      },
+      "repo": {
+        "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
+        "forks": 2389,
+        "full_name": "freestylefly/awesome-gpt-image-2",
+        "language": "JavaScript",
+        "name": "awesome-gpt-image-2",
+        "owner": "freestylefly",
+        "rank": 10,
+        "stars_today": 1687,
+        "total_stars": 24158,
+        "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.41,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 67.01
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 1687 stars today; score 67.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-22T23:37:22Z",
+        "default_branch": "main",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "fork": false,
+        "full_name": "bilawalsidhu/gods-eye-view",
+        "homepage": "https://maptheworld.ai/",
+        "latest_release": null,
+        "license_spdx": "NOASSERTION",
+        "open_issues": 88,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-08-28T00:46:30Z",
+        "readme_excerpt": "<div align=\"center\"> # \ud83c\udf10 God's Eye View ### A spy-satellite simulator in your browser \u2014 then you realize the sources are public and the data is real. Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras, with clearly labeled modeled views where a live feed is unavailable. Hands-free voice control powered by a realtime AI agent. *No place left behind.* ![Orbital HUD, a tracked live globe, FLIR terrain \u2014 then OPEN SOURCED](docs/media/hero-open-source-",
+        "topics": [
+          "3d-globe",
+          "cesium",
+          "flight-tracking",
+          "geospatial",
+          "geospatial-intelligence",
+          "gis",
+          "osint",
+          "photogrammetry",
+          "satellite-tracking",
+          "spatial-intelligence",
+          "webgl",
+          "worldview"
+        ],
+        "updated_at": "2026-08-28T19:33:27Z"
+      },
+      "repo": {
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "forks": 2186,
+        "full_name": "bilawalsidhu/gods-eye-view",
+        "language": "JavaScript",
+        "name": "gods-eye-view",
+        "owner": "bilawalsidhu",
+        "rank": 4,
+        "stars_today": 1984,
+        "total_stars": 10734,
+        "url": "https://github.com/bilawalsidhu/gods-eye-view"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.82,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 3.85,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 66.67
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: JavaScript project with 1984 stars today; score 66.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-10-19T23:00:55Z",
+        "default_branch": "main",
+        "description": "A framework for building realtime voice AI agents \ud83e\udd16\ud83c\udf99\ufe0f\ud83d\udcf9 ",
+        "fork": false,
+        "full_name": "livekit/agents",
+        "homepage": "https://docs.livekit.io/agents",
+        "latest_release": "livekit-agents@1.7.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 797,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-28T16:25:04Z",
+        "readme_excerpt": "<!--BEGIN_BANNER_IMAGE--> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"/.github/banner_dark.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"/.github/banner_light.png\"> <img style=\"width:100%;\" alt=\"The LiveKit icon, the name of the repository and some sample code in the background.\" src=\"https://raw.githubusercontent.com/livekit/agents/main/.github/banner_light.png\"> </picture> <!--END_BANNER_IMAGE--> <br /> ![PyPI - Version](https://img.shields.io/pypi/v/livekit-ag",
+        "topics": [
+          "agents",
+          "ai",
+          "openai",
+          "real-time",
+          "video",
+          "voice"
+        ],
+        "updated_at": "2026-08-28T19:30:28Z"
+      },
+      "repo": {
+        "description": "A framework for building realtime voice AI agents \ud83e\udd16\ud83c\udf99\ufe0f\ud83d\udcf9",
+        "forks": 3628,
+        "full_name": "livekit/agents",
+        "language": "Python",
+        "name": "agents",
+        "owner": "livekit",
+        "rank": 20,
+        "stars_today": 14,
+        "total_stars": 13288,
+        "url": "https://github.com/livekit/agents"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 0.89,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 65.99
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 14 stars today; score 66.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-11-20T18:36:20Z",
+        "default_branch": "main",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "fork": false,
+        "full_name": "anthropics/claude-plugins-official",
+        "homepage": "https://code.claude.com/docs/en/plugins",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1049,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-28T18:40:54Z",
+        "readme_excerpt": "# Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. > **\u26a0\ufe0f Important:** Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or other software are included in plugins and cannot verify that they will work as intended or that they won't change. See each plugin's homepage for more information. ## Structure - **`/plugins`** - Internal plugins developed and maintained by Anthropic - **`/ext",
+        "topics": [
+          "claude-code",
+          "mcp",
+          "skills"
+        ],
+        "updated_at": "2026-08-28T19:33:25Z"
+      },
+      "repo": {
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "forks": 3933,
+        "full_name": "anthropics/claude-plugins-official",
+        "language": "Python",
+        "name": "claude-plugins-official",
+        "owner": "anthropics",
+        "rank": 3,
+        "stars_today": 457,
+        "total_stars": 34967,
+        "url": "https://github.com/anthropics/claude-plugins-official"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 4.15,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 64.04
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 457 stars today; score 64.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-11-24T12:46:31Z",
+        "default_branch": "main",
+        "description": "Help AI coding agents write modern Go",
+        "fork": false,
+        "full_name": "JetBrains/go-modern-guidelines",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 8,
+        "primary_language": "Go",
+        "pushed_at": "2026-08-19T17:39:58Z",
+        "readme_excerpt": "[![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub) # Modern Go Guidelines This repository contains [guidelines](https://github.com/JetBrains/go-modern-guidelines/blob/main/plugin/skills/use-modern-go/SKILL.md) for code agents that help them write modern Go code. For example, an agent with these guidelines uses `max(a, b)` instead of an if-else block, `slices.Contains` instead of a manual loop, `cmp.Or(a, b, c)` inst",
+        "topics": [
+          "ai-agents",
+          "coding-agent",
+          "developer-tools",
+          "go",
+          "golang",
+          "guidelines"
+        ],
+        "updated_at": "2026-08-28T19:31:32Z"
+      },
+      "repo": {
+        "description": "Help AI coding agents write modern Go",
+        "forks": 76,
+        "full_name": "JetBrains/go-modern-guidelines",
+        "language": "Go",
+        "name": "go-modern-guidelines",
+        "owner": "JetBrains",
+        "rank": 6,
+        "stars_today": 574,
+        "total_stars": 2544,
+        "url": "https://github.com/JetBrains/go-modern-guidelines"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.94,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 62.78
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 574 stars today; score 62.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-03-22T06:29:42Z",
+        "default_branch": "main",
+        "description": "Open-source framework for the research and development of foundation models.",
+        "fork": false,
+        "full_name": "marin-community/marin",
+        "homepage": "https://marin.community",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 573,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-28T19:03:31Z",
+        "readme_excerpt": "# <img alt=\"Marin\" src=\"docs/design/marin-logo.svg\" height=\"36\" align=\"top\"> Marin <a href=\"https://marin.readthedocs.io/en/latest/?badge=latest\"> <img alt=\"Documentation\" src=\"https://readthedocs.org/projects/marin/badge/?version=latest\"> </a> <a href=\"\"> <img alt=\"License\" src=\"https://img.shields.io/github/license/marin-community/marin?color=blue\" /> </a> <!--marin-intro-start--> > \"*I am not afraid of storms, for I am learning how to sail my ship.*\"<br/> > \u2013 Louisa May Alcott [Marin](https:/",
+        "topics": [],
+        "updated_at": "2026-08-28T19:31:10Z"
+      },
+      "repo": {
+        "description": "Open-source framework for the research and development of foundation models.",
+        "forks": 237,
+        "full_name": "marin-community/marin",
+        "language": "Python",
+        "name": "marin",
+        "owner": "marin-community",
+        "rank": 14,
+        "stars_today": 236,
+        "total_stars": 2868,
+        "url": "https://github.com/marin-community/marin"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.16,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 59.26
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 236 stars today; score 59.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-03-01T03:27:48Z",
+        "default_branch": "master",
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "fork": false,
+        "full_name": "NationalSecurityAgency/ghidra",
+        "homepage": "https://www.nsa.gov/ghidra",
+        "latest_release": "Ghidra_12.1.3_build",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1921,
+        "primary_language": "Java",
+        "pushed_at": "2026-08-28T13:31:09Z",
+        "readme_excerpt": "<img src=\"Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png\" width=\"400\"> # Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, asse",
+        "topics": [
+          "disassembler",
+          "reverse-engineering",
+          "software-analysis"
+        ],
+        "updated_at": "2026-08-28T19:31:52Z"
+      },
+      "repo": {
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "forks": 8009,
+        "full_name": "NationalSecurityAgency/ghidra",
+        "language": "Java",
+        "name": "ghidra",
+        "owner": "NationalSecurityAgency",
+        "rank": 12,
+        "stars_today": 205,
+        "total_stars": 73275,
+        "url": "https://github.com/NationalSecurityAgency/ghidra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.39,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.19
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Java project with 205 stars today; score 59.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-10-29T17:21:12Z",
+        "default_branch": "main",
+        "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+        "fork": false,
+        "full_name": "tailscale/tailcat",
+        "homepage": "https://tailscale.com/tailcat",
+        "latest_release": null,
+        "license_spdx": "BSD-3-Clause",
+        "open_issues": 11,
+        "primary_language": "Go",
+        "pushed_at": "2026-08-27T01:41:43Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"tailcat.png\" alt=\"Tailcat\" width=\"149\" height=\"176\"> </p> <p align=\"center\"><em>\"Tailscale without Tailscale, by Tailscale\"</em></p> # Tailcat Tailcat is a remix of Tailscale open source pieces to act like [netcat](https://en.wikipedia.org/wiki/Netcat), but over Tailscale's data plane, without Tailscale's control plane. Tailscale's data plane (`magicsock`, internally) gives you point-to-point WireGuard\u00ae-encrypted tunnels between two machines with DERP as the NAT-hole",
+        "topics": [],
+        "updated_at": "2026-08-28T19:31:37Z"
+      },
+      "repo": {
+        "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+        "forks": 67,
+        "full_name": "tailscale/tailcat",
+        "language": "Go",
+        "name": "tailcat",
+        "owner": "tailscale",
+        "rank": 11,
+        "stars_today": 986,
+        "total_stars": 2543,
+        "url": "https://github.com/tailscale/tailcat"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.98,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 57.28
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Go project with 986 stars today; score 57.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-07-28T15:07:53Z",
+        "default_branch": "main",
+        "description": "GoogleTest - Google Testing and Mocking Framework",
+        "fork": false,
+        "full_name": "google/googletest",
+        "homepage": "https://google.github.io/googletest/",
+        "latest_release": "v1.18.0",
+        "license_spdx": "BSD-3-Clause",
+        "open_issues": 493,
+        "primary_language": "C++",
+        "pushed_at": "2026-08-27T11:15:21Z",
+        "readme_excerpt": "# GoogleTest ### Announcements #### Documentation Updates Our documentation is now live on GitHub Pages at https://google.github.io/googletest/. We recommend browsing the documentation on GitHub Pages rather than directly in the repository. #### Release 1.18.0 [Release 1.18.0](https://github.com/google/googletest/releases/tag/v1.18.0) is now available. The 1.18.x branch [requires at least C++17](https://opensource.google/documentation/policies/cplusplus-support#c_language_standard). #### Continu",
+        "topics": [],
+        "updated_at": "2026-08-28T19:29:22Z"
+      },
+      "repo": {
+        "description": "GoogleTest - Google Testing and Mocking Framework",
+        "forks": 10871,
+        "full_name": "google/googletest",
+        "language": "C++",
+        "name": "googletest",
+        "owner": "google",
+        "rank": 19,
+        "stars_today": 156,
+        "total_stars": 39156,
+        "url": "https://github.com/google/googletest"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.3,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 57.01
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 156 stars today; score 57.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-23T01:57:42Z",
+        "default_branch": "main",
+        "description": "Cursor plugin specification and official plugins",
+        "fork": false,
+        "full_name": "cursor/plugins",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 81,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-28T17:12:06Z",
+        "readme_excerpt": "# Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own `.cursor-plugin/plugin.json` manifest. ## Plugins | `name` | Plugin | Author | Category | `description` (from marketplace) | |:-------|:-------|:-------|:---------|:-------------------------------------| | `teaching` | [Teaching](teaching/) | Cursor | Utilities | Skill mapping, practice plans, and learning retrospectives. |",
+        "topics": [],
+        "updated_at": "2026-08-28T19:32:44Z"
+      },
+      "repo": {
+        "description": "Cursor plugin specification and official plugins",
+        "forks": 477,
+        "full_name": "cursor/plugins",
+        "language": "TypeScript",
+        "name": "plugins",
+        "owner": "cursor",
+        "rank": 9,
+        "stars_today": 257,
+        "total_stars": 5907,
+        "url": "https://github.com/cursor/plugins"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.92,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 2.8,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 43.89
+      },
+      "tags": [
+        "DevTools"
+      ],
+      "verdict": "DevTools: TypeScript project with 257 stars today; score 43.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/abhigyanpatwari",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+        "forks": 5095,
+        "full_name": "sponsors/abhigyanpatwari",
+        "language": "TypeScript",
+        "name": "abhigyanpatwari",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 189,
+        "total_stars": 46114,
+        "url": "https://github.com/sponsors/abhigyanpatwari"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.37,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 42.22
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 189 stars today; score 42.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/calesthio",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+        "forks": 6634,
+        "full_name": "sponsors/calesthio",
+        "language": "Python",
+        "name": "calesthio",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 1144,
+        "total_stars": 53174,
+        "url": "https://github.com/sponsors/calesthio"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.84,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 33.29
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 1144 stars today; score 33.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/abi",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+        "forks": 9215,
+        "full_name": "sponsors/abi",
+        "language": "Python",
+        "name": "abi",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 309,
+        "total_stars": 75471,
+        "url": "https://github.com/sponsors/abi"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.16,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 32.31
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 309 stars today; score 32.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/DietrichGebert",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "forks": 6297,
+        "full_name": "sponsors/DietrichGebert",
+        "language": "JavaScript",
+        "name": "DietrichGebert",
+        "owner": "sponsors",
+        "rank": 18,
+        "stars_today": 1396,
+        "total_stars": 115179,
+        "url": "https://github.com/sponsors/DietrichGebert"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.72,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 32.17
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 1396 stars today; score 32.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/swoole",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Compile PHP to Native Binaries",
+        "forks": 38,
+        "full_name": "sponsors/swoole",
+        "language": "PHP",
+        "name": "swoole",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 188,
+        "total_stars": 779,
+        "url": "https://github.com/sponsors/swoole"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.22,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 0.91,
+        "technical_quality": 3.5,
+        "total": 21.53
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: PHP project with 188 stars today; score 21.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/rohitg00",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Learn it. Build it. Ship it for others.",
+        "forks": 8777,
+        "full_name": "sponsors/rohitg00",
+        "language": "Python",
+        "name": "rohitg00",
+        "owner": "sponsors",
+        "rank": 17,
+        "stars_today": 703,
+        "total_stars": 50566,
+        "url": "https://github.com/sponsors/rohitg00"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.59,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.06,
+        "technical_quality": 3.5,
+        "total": 16.85
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 703 stars today; score 16.9/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-08-28",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is ChromeDevTools/chrome-devtools-mcp."
+}
