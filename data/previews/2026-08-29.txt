@@ -1,0 +1,13 @@
+GitHub Trending: daily developer signal - 2026-08-29
+
+Today leans toward daily developer signal; the strongest pick is cursor/plugins.
+
+Top picks
+1. cursor/plugins - 44.0/100
+   https://github.com/cursor/plugins
+   DevTools: TypeScript project with 257 stars today; score 44.0/100.
+
+Full reviewed list
+- cursor/plugins: 44.0/100 [DevTools] DevTools: TypeScript project with 257 stars today; score 44.0/100.
+
+Generated for 2026-08-29 from GitHub Trending daily.
