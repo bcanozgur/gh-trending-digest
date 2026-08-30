@@ -1,0 +1,34 @@
+GitHub Trending: AI workflow signal - 2026-08-30
+
+Today leans toward AI workflow signal; the strongest pick is p-e-w/heretic.
+
+Top picks
+1. p-e-w/heretic - 69.2/100
+   https://github.com/p-e-w/heretic
+   AI Workflow, Try Today: Python project with 150 stars today; score 69.2/100.
+2. every-app/open-seo - 68.5/100
+   https://github.com/every-app/open-seo
+   AI Workflow, Try Today: TypeScript project with 517 stars today; score 68.5/100.
+3. THU-MAIC/OpenMAIC - 65.9/100
+   https://github.com/THU-MAIC/OpenMAIC
+   AI Workflow, DevTools: TypeScript project with 907 stars today; score 65.9/100.
+4. handsomestWei/patent-disclosure-skill - 64.3/100
+   https://github.com/handsomestWei/patent-disclosure-skill
+   AI Workflow, Try Today: Python project with 38 stars today; score 64.3/100.
+5. mvanhorn/last30days-skill - 62.9/100
+   https://github.com/mvanhorn/last30days-skill
+   AI Workflow, Try Today: Python project with 272 stars today; score 62.9/100.
+
+Full reviewed list
+- p-e-w/heretic: 69.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 150 stars today; score 69.2/100.
+- every-app/open-seo: 68.5/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 517 stars today; score 68.5/100.
+- THU-MAIC/OpenMAIC: 65.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 907 stars today; score 65.9/100.
+- handsomestWei/patent-disclosure-skill: 64.3/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 38 stars today; score 64.3/100.
+- mvanhorn/last30days-skill: 62.9/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 272 stars today; score 62.9/100.
+- checkstyle/checkstyle: 59.3/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Java project with 78 stars today; score 59.3/100.
+- majd/ipatool: 58.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Go project with 56 stars today; score 58.5/100.
+- pollen-robotics/microduck_rl: 55.6/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 147 stars today; score 55.6/100.
+- corsairdev/corsair: 52.8/100 [AI Workflow] AI Workflow: TypeScript project with 99 stars today; score 52.8/100.
+- punkpeye/awesome-mcp-servers: 45.0/100 [AI Workflow, Watch] AI Workflow, Watch: Unknown project with 65 stars today; score 45.0/100.
+
+Generated for 2026-08-30 from GitHub Trending daily.
