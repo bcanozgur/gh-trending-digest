@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-08-31
+
+Today leans toward AI workflow signal; the strongest pick is Osmantic/ODS.
+
+Top picks
+1. Osmantic/ODS - 85.8/100
+   https://github.com/Osmantic/ODS
+   AI Workflow, DevTools: Python project with 331 stars today; score 85.8/100.
+2. jingyaogong/minimind - 69.7/100
+   https://github.com/jingyaogong/minimind
+   AI Workflow, Try Today: Python project with 472 stars today; score 69.7/100.
+3. zhaoxuya520/reverse-skill - 63.4/100
+   https://github.com/zhaoxuya520/reverse-skill
+   AI Workflow, DevTools: PowerShell project with 1439 stars today; score 63.4/100.
+4. k1tbyte/Wand-Enhancer - 53.7/100
+   https://github.com/k1tbyte/Wand-Enhancer
+   DevTools, Try Today: C# project with 718 stars today; score 53.7/100.
+5. firecrawl/pdf-inspector - 43.7/100
+   https://github.com/firecrawl/pdf-inspector
+   Try Today: Rust project with 199 stars today; score 43.7/100.
+
+Full reviewed list
+- Osmantic/ODS: 85.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 331 stars today; score 85.8/100.
+- jingyaogong/minimind: 69.7/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 472 stars today; score 69.7/100.
+- zhaoxuya520/reverse-skill: 63.4/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: PowerShell project with 1439 stars today; score 63.4/100.
+- k1tbyte/Wand-Enhancer: 53.7/100 [DevTools, Try Today] DevTools, Try Today: C# project with 718 stars today; score 53.7/100.
+- firecrawl/pdf-inspector: 43.7/100 [Try Today] Try Today: Rust project with 199 stars today; score 43.7/100.
+- sponsors/affaan-m: 36.3/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: JavaScript project with 490 stars today; score 36.3/100.
+- sponsors/kaifcodec: 32.3/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Python project with 462 stars today; score 32.3/100.
+
+Generated for 2026-08-31 from GitHub Trending daily.

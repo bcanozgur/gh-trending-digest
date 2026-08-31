@@ -1,0 +1,1294 @@
+{
+  "date": "2026-08-31",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-09T13:14:58Z",
+        "default_branch": "main",
+        "description": "Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+        "fork": false,
+        "full_name": "Osmantic/ODS",
+        "homepage": "https://discord.gg/qGVygYada3",
+        "latest_release": "v2.6.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1489,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-31T14:25:38Z",
+        "readme_excerpt": "<div align=\"center\"> # ODS **Osmantic Deployment System** <p align=\"center\"> <a href=\"https://osmantic.com\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"ods/docs/images/osmantic-lockup.png\" alt=\"Osmantic\" width=\"800\"> </a> </p> **Turn your PC, Mac, or Linux box into a private AI server.** AI server and homelab setup is rapidly becoming a solved problem. It should feel that way for everyone. [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE) [![G",
+        "topics": [
+          "ai-agents",
+          "amd",
+          "comfyui",
+          "docker",
+          "llama-cpp",
+          "llm",
+          "local-ai",
+          "n8n",
+          "nvidia",
+          "open-webui",
+          "rag",
+          "self-hosted",
+          "speech-to-text",
+          "strix-halo",
+          "text-to-speech",
+          "workflow-automation"
+        ],
+        "updated_at": "2026-08-31T15:18:50Z"
+      },
+      "repo": {
+        "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+        "forks": 766,
+        "full_name": "Osmantic/ODS",
+        "language": "Python",
+        "name": "ODS",
+        "owner": "Osmantic",
+        "rank": 7,
+        "stars_today": 331,
+        "total_stars": 5287,
+        "url": "https://github.com/Osmantic/ODS"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.43,
+        "novelty": 8.0,
+        "practical_usefulness": 19.4,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 85.79
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 331 stars today; score 85.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-07-27T04:34:12Z",
+        "default_branch": "master",
+        "description": "\ud83e\udde0 Train a 64M-parameter LLM from scratch in just 2h!",
+        "fork": false,
+        "full_name": "jingyaogong/minimind",
+        "homepage": "https://jingyaogong.github.io/minimind",
+        "latest_release": "v2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 56,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-31T10:08:14Z",
+        "readme_excerpt": "<div align=\"center\"> ![logo](./images/logo.png) </div> <div align=\"center\"> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jingyaogong/minimind) [![GitHub Repo stars](https://img.shields.io/github/stars/jingyaogong/minimind?style=social)](https://github.com/jingyaogong/minimind/stargazers) [![GitHub Code License](https://img.shields.io/github/license/jingyaogong/minimind)](LICENSE) [![GitHub last commit](https://img.shields.io/github/last-commit/jingyaogong/minimind)](https://github.c",
+        "topics": [
+          "artificial-intelligence",
+          "large-language-model"
+        ],
+        "updated_at": "2026-08-31T15:18:04Z"
+      },
+      "repo": {
+        "description": "\ud83e\udde0 Train a 64M-parameter LLM from scratch in just 2h!",
+        "forks": 7299,
+        "full_name": "jingyaogong/minimind",
+        "language": "Python",
+        "name": "minimind",
+        "owner": "jingyaogong",
+        "rank": 6,
+        "stars_today": 472,
+        "total_stars": 55863,
+        "url": "https://github.com/jingyaogong/minimind"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.87,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 69.67
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 472 stars today; score 69.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-13T14:37:57Z",
+        "default_branch": "main",
+        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients \u9006\u5411/\u6e17\u900f/\u5b89\u5168\u6280\u80fd\u8def\u7531\u5305 - AI \u81ea\u52a8\u8def\u7531 + \u6309\u9700\u81ea\u4e3e\u5de5\u5177\u94fe + \u81ea\u52a8\u8fdb\u5316\u7ecf\u9a8c\u5e93 | \u652f\u6301 Claude Code / Kiro / Cursor / Cline \u7b49\u4ee3\u7801 AI \u5ba2\u6237\u7aef",
+        "fork": false,
+        "full_name": "zhaoxuya520/reverse-skill",
+        "homepage": null,
+        "latest_release": "v1.0.1",
+        "license_spdx": "MIT",
+        "open_issues": 18,
+        "primary_language": "PowerShell",
+        "pushed_at": "2026-08-31T07:23:08Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"reverse-skill.png\" alt=\"reverse-skill\" width=\"140\" /> </p> <h1 align=\"center\">reverse-skill</h1> <h3 align=\"center\">Cybersecurity Skills Router \u00b7 \u9006\u5411\u6280\u80fd\u8def\u7531\u5305</h3> <p align=\"center\"><em style=\"font-family: Georgia, serif; font-size: 1.2em; color: #777;\">Navigate the dark waters, sail against the stream.</em></p> <p align=\"center\"> <a href=\"https://github.com/zhaoxuya520/reverse-skill/releases\"><img src=\"https://img.shields.io/badge/release-v1.0.1-blue\" alt=\"release v1.0.1",
+        "topics": [],
+        "updated_at": "2026-08-31T15:18:25Z"
+      },
+      "repo": {
+        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients \u9006\u5411/\u6e17\u900f/\u5b89\u5168\u6280\u80fd\u8def\u7531\u5305 - AI \u81ea\u52a8\u8def\u7531 + \u6309\u9700\u81ea\u4e3e\u5de5\u5177\u94fe + \u81ea\u52a8\u8fdb\u5316\u7ecf\u9a8c\u5e93 | \u652f\u6301 Claude Code / Kiro / Cursor / Cline \u7b49\u4ee3\u7801 AI \u5ba2\u6237\u7aef",
+        "forks": 4443,
+        "full_name": "zhaoxuya520/reverse-skill",
+        "language": "PowerShell",
+        "name": "reverse-skill",
+        "owner": "zhaoxuya520",
+        "rank": 9,
+        "stars_today": 1439,
+        "total_stars": 32850,
+        "url": "https://github.com/zhaoxuya520/reverse-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.48,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.38
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: PowerShell project with 1439 stars today; score 63.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-11-17T20:02:10Z",
+        "default_branch": "master",
+        "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+        "fork": false,
+        "full_name": "k1tbyte/Wand-Enhancer",
+        "homepage": "https://gitlab.com/kitbyte/wand-enhancer",
+        "latest_release": "1.0.9.4",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 54,
+        "primary_language": "C#",
+        "pushed_at": "2026-08-30T17:49:30Z",
+        "readme_excerpt": "<div align=\"center\"> ![logo](./assets/icon.svg) # WandEnhancer [![GitLab Mirror](https://img.shields.io/badge/GitLab-mirror-fc6d26?logo=gitlab)](https://gitlab.com/kitbyte/wand-enhancer) </div> <h4>An open-source interoperability tool designed to extend local client-side configurations and improve the UX of the Wand application.</h4> **\ud83d\udea8 IMPORTANT NOTICE: THIS PROJECT HAS NO OFFICIAL YOUTUBE TUTORIALS, GUIDES, OR PREBUILT EXECUTABLE DOWNLOADS. \ud83d\udea8 There are no official videos showing how to instal",
+        "topics": [
+          "csharp",
+          "wand",
+          "wand-enhancer",
+          "wand-pro",
+          "wemod",
+          "wpf"
+        ],
+        "updated_at": "2026-08-31T15:16:03Z"
+      },
+      "repo": {
+        "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+        "forks": 59250,
+        "full_name": "k1tbyte/Wand-Enhancer",
+        "language": "C#",
+        "name": "Wand-Enhancer",
+        "owner": "k1tbyte",
+        "rank": 4,
+        "stars_today": 718,
+        "total_stars": 23197,
+        "url": "https://github.com/k1tbyte/Wand-Enhancer"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.68,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 53.74
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: C# project with 718 stars today; score 53.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-06T19:44:47Z",
+        "default_branch": "main",
+        "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+        "fork": false,
+        "full_name": "firecrawl/pdf-inspector",
+        "homepage": "https://firecrawl.github.io/pdf-inspector/",
+        "latest_release": "v1.15.0",
+        "license_spdx": "MIT",
+        "open_issues": 193,
+        "primary_language": "Rust",
+        "pushed_at": "2026-08-21T23:46:04Z",
+        "readme_excerpt": "# pdf-inspector [![Crates.io](https://img.shields.io/crates/v/pdf-inspector.svg)](https://crates.io/crates/pdf-inspector) [![npm](https://img.shields.io/npm/v/@firecrawl/pdf-inspector.svg)](https://www.npmjs.com/package/@firecrawl/pdf-inspector) [![PyPI](https://img.shields.io/pypi/v/pdf-inspector.svg)](https://pypi.org/project/pdf-inspector/) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) Fast Rust library for PDF classification and text extraction. By default it ",
+        "topics": [
+          "markdown",
+          "nodejs",
+          "ocr-routing",
+          "pdf",
+          "pdf-classification",
+          "pdf-extraction",
+          "pdf-parser",
+          "python",
+          "rust",
+          "text-extraction"
+        ],
+        "updated_at": "2026-08-31T15:16:31Z"
+      },
+      "repo": {
+        "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+        "forks": 1191,
+        "full_name": "firecrawl/pdf-inspector",
+        "language": "Rust",
+        "name": "pdf-inspector",
+        "owner": "firecrawl",
+        "rank": 15,
+        "stars_today": 199,
+        "total_stars": 17227,
+        "url": "https://github.com/firecrawl/pdf-inspector"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.0,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 0.82,
+        "technical_quality": 14.0,
+        "total": 43.67
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Rust project with 199 stars today; score 43.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 37019,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 490,
+        "total_stars": 245031,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.33,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 36.28
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 490 stars today; score 36.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/kaifcodec",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.",
+        "forks": 439,
+        "full_name": "sponsors/kaifcodec",
+        "language": "Python",
+        "name": "kaifcodec",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 462,
+        "total_stars": 4031,
+        "url": "https://github.com/sponsors/kaifcodec"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.13,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 32.28
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 462 stars today; score 32.3/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-09T13:14:58Z",
+        "default_branch": "main",
+        "description": "Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+        "fork": false,
+        "full_name": "Osmantic/ODS",
+        "homepage": "https://discord.gg/qGVygYada3",
+        "latest_release": "v2.6.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1489,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-31T14:25:38Z",
+        "readme_excerpt": "<div align=\"center\"> # ODS **Osmantic Deployment System** <p align=\"center\"> <a href=\"https://osmantic.com\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"ods/docs/images/osmantic-lockup.png\" alt=\"Osmantic\" width=\"800\"> </a> </p> **Turn your PC, Mac, or Linux box into a private AI server.** AI server and homelab setup is rapidly becoming a solved problem. It should feel that way for everyone. [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE) [![G",
+        "topics": [
+          "ai-agents",
+          "amd",
+          "comfyui",
+          "docker",
+          "llama-cpp",
+          "llm",
+          "local-ai",
+          "n8n",
+          "nvidia",
+          "open-webui",
+          "rag",
+          "self-hosted",
+          "speech-to-text",
+          "strix-halo",
+          "text-to-speech",
+          "workflow-automation"
+        ],
+        "updated_at": "2026-08-31T15:18:50Z"
+      },
+      "repo": {
+        "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+        "forks": 766,
+        "full_name": "Osmantic/ODS",
+        "language": "Python",
+        "name": "ODS",
+        "owner": "Osmantic",
+        "rank": 7,
+        "stars_today": 331,
+        "total_stars": 5287,
+        "url": "https://github.com/Osmantic/ODS"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.43,
+        "novelty": 8.0,
+        "practical_usefulness": 19.4,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 85.79
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 331 stars today; score 85.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-15T05:27:37Z",
+        "default_branch": "main",
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams\u2014self-contained HTML with motion and crisp export.",
+        "fork": false,
+        "full_name": "tt-a1i/archify",
+        "homepage": "https://tt-a1i.github.io/archify/",
+        "latest_release": "v2.16.0",
+        "license_spdx": "MIT",
+        "open_issues": 85,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-08-31T14:16:46Z",
+        "readme_excerpt": "<p align=\"center\"> <strong>English</strong> \u00b7 <a href=\"./README_ZH.md\">\u7b80\u4f53\u4e2d\u6587</a> </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/31352?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-31352\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/31352\" alt=\"Archify on Trendshift\" width=\"250\" height=\"55\"/></a> </p> ![Archify product preview](docs/assets/archify-readme-hero.png) # Archify **Turn a codeba",
+        "topics": [
+          "agent-skills",
+          "architecture-as-code",
+          "architecture-diagram",
+          "claude-skill",
+          "code-visualization",
+          "codex",
+          "coding-agents",
+          "data-flow-diagram",
+          "deepseek-harness",
+          "developer-tools",
+          "diagram-as-code",
+          "diagrams",
+          "diagrams-as-code",
+          "dsh-plugin",
+          "mermaid-alternative",
+          "opencode",
+          "sequence-diagram",
+          "software-architecture",
+          "system-design",
+          "text-to-diagram"
+        ],
+        "updated_at": "2026-08-31T15:18:48Z"
+      },
+      "repo": {
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams\u2014self-contained HTML with motion and crisp export.",
+        "forks": 2416,
+        "full_name": "tt-a1i/archify",
+        "language": "JavaScript",
+        "name": "archify",
+        "owner": "tt-a1i",
+        "rank": 2,
+        "stars_today": 3993,
+        "total_stars": 37465,
+        "url": "https://github.com/tt-a1i/archify"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.86,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 84.16
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 3993 stars today; score 84.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-19T20:54:15Z",
+        "default_branch": "main",
+        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+        "fork": false,
+        "full_name": "K-Dense-AI/scientific-agent-skills",
+        "homepage": "https://k-dense.ai",
+        "latest_release": "v2.65.0",
+        "license_spdx": "MIT",
+        "open_issues": 23,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-31T09:27:47Z",
+        "readme_excerpt": "# Scientific Agent Skills [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md) [![Version](https://img.shields.io/badge/Version-2.65.0-blue.svg)](pyproject.toml) [![Skills](https://img.shields.io/badge/Skills-163-brightgreen.svg)](#-whats-included) [![Databases](https://img.shields.io/badge/Databases-100%2B-orange.svg)](#-whats-included) [![Agent Skills](https://img.shields.io/badge/Standard-Agent_Skills-blueviolet.svg)](https://agentskills.io/) [![Agent Plugins](ht",
+        "topics": [
+          "agent-skills",
+          "ai-scientist",
+          "bioinformatics",
+          "chemoinformatics",
+          "claude",
+          "claude-skills",
+          "claudecode",
+          "clinical-research",
+          "computational-biology",
+          "data-analysis",
+          "drug-discovery",
+          "genomics",
+          "materials-science",
+          "metabolomics",
+          "proteomics",
+          "scientific-computing",
+          "scientific-visualization"
+        ],
+        "updated_at": "2026-08-31T15:18:24Z"
+      },
+      "repo": {
+        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+        "forks": 3747,
+        "full_name": "K-Dense-AI/scientific-agent-skills",
+        "language": "Python",
+        "name": "scientific-agent-skills",
+        "owner": "K-Dense-AI",
+        "rank": 3,
+        "stars_today": 1968,
+        "total_stars": 40455,
+        "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.45,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.3
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1968 stars today; score 73.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-07-27T04:34:12Z",
+        "default_branch": "master",
+        "description": "\ud83e\udde0 Train a 64M-parameter LLM from scratch in just 2h!",
+        "fork": false,
+        "full_name": "jingyaogong/minimind",
+        "homepage": "https://jingyaogong.github.io/minimind",
+        "latest_release": "v2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 56,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-31T10:08:14Z",
+        "readme_excerpt": "<div align=\"center\"> ![logo](./images/logo.png) </div> <div align=\"center\"> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jingyaogong/minimind) [![GitHub Repo stars](https://img.shields.io/github/stars/jingyaogong/minimind?style=social)](https://github.com/jingyaogong/minimind/stargazers) [![GitHub Code License](https://img.shields.io/github/license/jingyaogong/minimind)](LICENSE) [![GitHub last commit](https://img.shields.io/github/last-commit/jingyaogong/minimind)](https://github.c",
+        "topics": [
+          "artificial-intelligence",
+          "large-language-model"
+        ],
+        "updated_at": "2026-08-31T15:18:04Z"
+      },
+      "repo": {
+        "description": "\ud83e\udde0 Train a 64M-parameter LLM from scratch in just 2h!",
+        "forks": 7299,
+        "full_name": "jingyaogong/minimind",
+        "language": "Python",
+        "name": "minimind",
+        "owner": "jingyaogong",
+        "rank": 6,
+        "stars_today": 472,
+        "total_stars": 55863,
+        "url": "https://github.com/jingyaogong/minimind"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.87,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 69.67
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 472 stars today; score 69.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-11T10:13:16Z",
+        "default_branch": "main",
+        "description": "Open Multi-Agent Interactive Classroom \u2014 Get an immersive, multi-agent learning experience in just one click",
+        "fork": false,
+        "full_name": "THU-MAIC/OpenMAIC",
+        "homepage": null,
+        "latest_release": "v1.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 233,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-31T11:22:27Z",
+        "readme_excerpt": "<!-- <p align=\"center\"> <img src=\"assets/logo-horizontal.png\" alt=\"OpenMAIC\" width=\"420\"/> </p> --> <p align=\"center\"> <img src=\"assets/banner.png\" alt=\"OpenMAIC Banner\" width=\"680\"/> </p> <p align=\"center\"> Get an immersive, multi-agent learning experience in just one click </p> <p align=\"center\"> <a href=\"https://my.feishu.cn/wiki/UIfKw9Knti0LcKkTxDNcqlUrnzh\"><img src=\"https://img.shields.io/badge/%F0%9F%93%98%20User%20Guide-v1.0.0%20%C2%B7%20English-4F8EF7?style=for-the-badge\" alt=\"v1.0.0 Use",
+        "topics": [],
+        "updated_at": "2026-08-31T15:18:38Z"
+      },
+      "repo": {
+        "description": "Open Multi-Agent Interactive Classroom \u2014 Get an immersive, multi-agent learning experience in just one click",
+        "forks": 4684,
+        "full_name": "THU-MAIC/OpenMAIC",
+        "language": "TypeScript",
+        "name": "OpenMAIC",
+        "owner": "THU-MAIC",
+        "rank": 1,
+        "stars_today": 2819,
+        "total_stars": 26188,
+        "url": "https://github.com/THU-MAIC/OpenMAIC"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 9.53,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 64.58
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 2819 stars today; score 64.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-27T18:57:41Z",
+        "default_branch": "main",
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "fork": false,
+        "full_name": "every-app/open-seo",
+        "homepage": "https://openseo.so",
+        "latest_release": "v0.1.6",
+        "license_spdx": "MIT",
+        "open_issues": 119,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-24T00:19:23Z",
+        "readme_excerpt": "# OpenSEO > Open source alternative to Semrush and Ahrefs OpenSEO is an SEO tool for _the people_. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control. > All-in-one SEO tool for you and your AI agent. Connect with any agent like Claude Code, OpenClaw or Hermes. We have pre-built skills, but you can build your own to tailor OpenSEO to your needs. <img width=\"1385\" height=\"794\" alt=\"Image\" src=\"https://github.com/user-attac",
+        "topics": [
+          "backlink-analysis",
+          "google-search-console-mcp",
+          "keyword-research",
+          "mcp",
+          "seo",
+          "seo-tools",
+          "site-audit"
+        ],
+        "updated_at": "2026-08-31T15:16:24Z"
+      },
+      "repo": {
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "forks": 1873,
+        "full_name": "every-app/open-seo",
+        "language": "TypeScript",
+        "name": "open-seo",
+        "owner": "every-app",
+        "rank": 12,
+        "stars_today": 608,
+        "total_stars": 15566,
+        "url": "https://github.com/every-app/open-seo"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.3,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 63.9
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 608 stars today; score 63.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-21T05:46:16Z",
+        "default_branch": "master",
+        "description": "Fully automatic censorship removal for language models",
+        "fork": false,
+        "full_name": "p-e-w/heretic",
+        "homepage": "https://heretic-project.org",
+        "latest_release": "v1.4.0",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 81,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-17T16:57:44Z",
+        "readme_excerpt": "<img width=\"128\" align=\"right\" alt=\"Logo\" src=\"https://github.com/user-attachments/assets/df5f2840-2f92-4991-aa57-252747d7182e\" /> # Heretic: Fully automatic censorship removal for language models<br><br>[![Discord](https://img.shields.io/discord/1447831134212984903?color=5865F2&label=discord&labelColor=black&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/gdXc48gSyT) [![Matrix](https://img.shields.io/badge/Matrix-black?logo=matrix&style=for-the-badge)](https://matrix.to/#/",
+        "topics": [
+          "abliteration",
+          "llm",
+          "transformer"
+        ],
+        "updated_at": "2026-08-31T15:18:10Z"
+      },
+      "repo": {
+        "description": "Fully automatic censorship removal for language models",
+        "forks": 3233,
+        "full_name": "p-e-w/heretic",
+        "language": "Python",
+        "name": "heretic",
+        "owner": "p-e-w",
+        "rank": 13,
+        "stars_today": 536,
+        "total_stars": 29491,
+        "url": "https://github.com/p-e-w/heretic"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.0,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 63.6
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 536 stars today; score 63.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-13T14:37:57Z",
+        "default_branch": "main",
+        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients \u9006\u5411/\u6e17\u900f/\u5b89\u5168\u6280\u80fd\u8def\u7531\u5305 - AI \u81ea\u52a8\u8def\u7531 + \u6309\u9700\u81ea\u4e3e\u5de5\u5177\u94fe + \u81ea\u52a8\u8fdb\u5316\u7ecf\u9a8c\u5e93 | \u652f\u6301 Claude Code / Kiro / Cursor / Cline \u7b49\u4ee3\u7801 AI \u5ba2\u6237\u7aef",
+        "fork": false,
+        "full_name": "zhaoxuya520/reverse-skill",
+        "homepage": null,
+        "latest_release": "v1.0.1",
+        "license_spdx": "MIT",
+        "open_issues": 18,
+        "primary_language": "PowerShell",
+        "pushed_at": "2026-08-31T07:23:08Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"reverse-skill.png\" alt=\"reverse-skill\" width=\"140\" /> </p> <h1 align=\"center\">reverse-skill</h1> <h3 align=\"center\">Cybersecurity Skills Router \u00b7 \u9006\u5411\u6280\u80fd\u8def\u7531\u5305</h3> <p align=\"center\"><em style=\"font-family: Georgia, serif; font-size: 1.2em; color: #777;\">Navigate the dark waters, sail against the stream.</em></p> <p align=\"center\"> <a href=\"https://github.com/zhaoxuya520/reverse-skill/releases\"><img src=\"https://img.shields.io/badge/release-v1.0.1-blue\" alt=\"release v1.0.1",
+        "topics": [],
+        "updated_at": "2026-08-31T15:18:25Z"
+      },
+      "repo": {
+        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients \u9006\u5411/\u6e17\u900f/\u5b89\u5168\u6280\u80fd\u8def\u7531\u5305 - AI \u81ea\u52a8\u8def\u7531 + \u6309\u9700\u81ea\u4e3e\u5de5\u5177\u94fe + \u81ea\u52a8\u8fdb\u5316\u7ecf\u9a8c\u5e93 | \u652f\u6301 Claude Code / Kiro / Cursor / Cline \u7b49\u4ee3\u7801 AI \u5ba2\u6237\u7aef",
+        "forks": 4443,
+        "full_name": "zhaoxuya520/reverse-skill",
+        "language": "PowerShell",
+        "name": "reverse-skill",
+        "owner": "zhaoxuya520",
+        "rank": 9,
+        "stars_today": 1439,
+        "total_stars": 32850,
+        "url": "https://github.com/zhaoxuya520/reverse-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.48,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.38
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: PowerShell project with 1439 stars today; score 63.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-07T15:44:15Z",
+        "default_branch": "main",
+        "description": "\u4e2d\u56fd\u4e13\u5229.skill\uff1a\u4e13\u5229\u70b9\u6316\u6398\u4e0e\u4ea4\u5e95\u4e66\uff08\u53d1\u660e/\u5b9e\u7528/\u5916\u89c2\uff09\u7f16\u5199\uff0c\u901a\u4fd7\u89e3\u8bfb\u4e13\u5229\uff0c\u55c5\u63a2\u653f\u7b56\u52a8\u5411\uff0c\u8f85\u52a9\u5ba1\u67e5\u7b54\u590d\u3002",
+        "fork": false,
+        "full_name": "handsomestWei/patent-disclosure-skill",
+        "homepage": "https://skillhub.cn/skills/patent-disclosure-skill",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 8,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-31T10:12:00Z",
+        "readme_excerpt": "<div align=\"center\"> # \u4e2d\u56fd\u4e13\u5229.skill > \u4e13\u5229\u70b9\u6316\u6398\u4e0e\u4ea4\u5e95\u4e66\uff08\u53d1\u660e/\u5b9e\u7528/\u5916\u89c2\uff09\u7f16\u5199\uff0c\u901a\u4fd7\u89e3\u8bfb\u4e13\u5229\uff0c\u55c5\u63a2\u653f\u7b56\u52a8\u5411\uff0c\u8f85\u52a9\u5ba1\u67e5\u7b54\u590d\u3002 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/) [![Playwright](https://img.shields.io/badge/Playwright-mermaid%20%2B%20CNIPA-2EAD33.svg)](https://playwright.dev/) [![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io) <br> \u6709\u8bbe\u8ba1\u6587\u6863\u548c\u4ee3\u7801\uff0c\u4f46**\u4e13\u5229\u70b9\u8fd8\u6ca1\u68b3**\uff1f\u4ea4\u5e95\u4e66\u8981**",
+        "topics": [
+          "chinese",
+          "disclosure",
+          "obsidian",
+          "patent",
+          "skill"
+        ],
+        "updated_at": "2026-08-31T15:17:20Z"
+      },
+      "repo": {
+        "description": "\u4e2d\u56fd\u4e13\u5229.skill\uff1a\u4e13\u5229\u70b9\u6316\u6398\u4e0e\u4ea4\u5e95\u4e66\uff08\u53d1\u660e/\u5b9e\u7528/\u5916\u89c2\uff09\u7f16\u5199\uff0c\u901a\u4fd7\u89e3\u8bfb\u4e13\u5229\uff0c\u55c5\u63a2\u653f\u7b56\u52a8\u5411\uff0c\u8f85\u52a9\u5ba1\u67e5\u7b54\u590d\u3002",
+        "forks": 725,
+        "full_name": "handsomestWei/patent-disclosure-skill",
+        "language": "Python",
+        "name": "patent-disclosure-skill",
+        "owner": "handsomestWei",
+        "rank": 14,
+        "stars_today": 571,
+        "total_stars": 6139,
+        "url": "https://github.com/handsomestWei/patent-disclosure-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.93,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 60.03
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 571 stars today; score 60.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2013-08-31T02:05:05Z",
+        "default_branch": "master",
+        "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+        "fork": false,
+        "full_name": "checkstyle/checkstyle",
+        "homepage": "https://checkstyle.org",
+        "latest_release": "checkstyle-14.1.0",
+        "license_spdx": "LGPL-2.1",
+        "open_issues": 754,
+        "primary_language": "Java",
+        "pushed_at": "2026-08-31T15:08:00Z",
+        "readme_excerpt": "# Checkstyle - Java Code Quality Tool ![](https://raw.githubusercontent.com/checkstyle/resources/master/img/checkstyle-logos/checkstyle-logo-260x99.png) -------------------------- *Checkstyle is a tool that ensures adherence to a code standard or a set of best practices.* [![][appveyor img]][appveyor] [![][circleci img]][circleci] [![][cirrusci img]][cirrusci] [![][coverage img]][coverage] [![][snyk img]][snyk] [![][semaphoreci img]][semaphoreci] [![][azure img]][azure] [![][error prone img]][er",
+        "topics": [
+          "code-quality",
+          "command-line-tool",
+          "hacktoberfest",
+          "java",
+          "static-analysis",
+          "static-code-analysis"
+        ],
+        "updated_at": "2026-08-31T15:16:15Z"
+      },
+      "repo": {
+        "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+        "forks": 4201,
+        "full_name": "checkstyle/checkstyle",
+        "language": "Java",
+        "name": "checkstyle",
+        "owner": "checkstyle",
+        "rank": 8,
+        "stars_today": 199,
+        "total_stars": 9336,
+        "url": "https://github.com/checkstyle/checkstyle"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.01,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 54.61
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: Java project with 199 stars today; score 54.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2021-05-22T08:27:21Z",
+        "default_branch": "main",
+        "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+        "fork": false,
+        "full_name": "majd/ipatool",
+        "homepage": null,
+        "latest_release": "v2.4.0",
+        "license_spdx": "MIT",
+        "open_issues": 23,
+        "primary_language": "Go",
+        "pushed_at": "2026-08-30T09:11:21Z",
+        "readme_excerpt": "# IPATool [![Release](https://img.shields.io/github/release/majd/ipatool.svg?label=Release)](https://GitHub.com/majd/ipatool/releases/) [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/majd/ipatool/blob/main/LICENSE) `ipatool` is a command line tool that allows you to search for iOS, iPadOS, tvOS, and visionOS apps on the [App Store](https://apps.apple.com) and download a copy of the app package, known as an _ipa_ file. ![Demo](./resources/demo.gif) - [Require",
+        "topics": [
+          "apple",
+          "appstore",
+          "cli",
+          "command-line",
+          "command-line-tool",
+          "go",
+          "golang",
+          "golang-library",
+          "ios",
+          "ipa",
+          "itunes",
+          "macos",
+          "research",
+          "reverse-engineering",
+          "security",
+          "swift",
+          "tool"
+        ],
+        "updated_at": "2026-08-31T15:18:16Z"
+      },
+      "repo": {
+        "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+        "forks": 891,
+        "full_name": "majd/ipatool",
+        "language": "Go",
+        "name": "ipatool",
+        "owner": "majd",
+        "rank": 5,
+        "stars_today": 376,
+        "total_stars": 10437,
+        "url": "https://github.com/majd/ipatool"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.81,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 54.36
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 376 stars today; score 54.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-11-17T20:02:10Z",
+        "default_branch": "master",
+        "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+        "fork": false,
+        "full_name": "k1tbyte/Wand-Enhancer",
+        "homepage": "https://gitlab.com/kitbyte/wand-enhancer",
+        "latest_release": "1.0.9.4",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 54,
+        "primary_language": "C#",
+        "pushed_at": "2026-08-30T17:49:30Z",
+        "readme_excerpt": "<div align=\"center\"> ![logo](./assets/icon.svg) # WandEnhancer [![GitLab Mirror](https://img.shields.io/badge/GitLab-mirror-fc6d26?logo=gitlab)](https://gitlab.com/kitbyte/wand-enhancer) </div> <h4>An open-source interoperability tool designed to extend local client-side configurations and improve the UX of the Wand application.</h4> **\ud83d\udea8 IMPORTANT NOTICE: THIS PROJECT HAS NO OFFICIAL YOUTUBE TUTORIALS, GUIDES, OR PREBUILT EXECUTABLE DOWNLOADS. \ud83d\udea8 There are no official videos showing how to instal",
+        "topics": [
+          "csharp",
+          "wand",
+          "wand-enhancer",
+          "wand-pro",
+          "wemod",
+          "wpf"
+        ],
+        "updated_at": "2026-08-31T15:16:03Z"
+      },
+      "repo": {
+        "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+        "forks": 59250,
+        "full_name": "k1tbyte/Wand-Enhancer",
+        "language": "C#",
+        "name": "Wand-Enhancer",
+        "owner": "k1tbyte",
+        "rank": 4,
+        "stars_today": 718,
+        "total_stars": 23197,
+        "url": "https://github.com/k1tbyte/Wand-Enhancer"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.68,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 53.74
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: C# project with 718 stars today; score 53.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-12-06T13:00:59Z",
+        "default_branch": "develop",
+        "description": "RL training environments for Microduck (mjlab)",
+        "fork": false,
+        "full_name": "pollen-robotics/microduck_rl",
+        "homepage": "https://pollen-robotics.com/microduck",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 11,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-31T12:27:28Z",
+        "readme_excerpt": "# Microduck RL <img width=\"2215\" height=\"884\" alt=\"image\" src=\"https://github.com/user-attachments/assets/5db7cc83-b3ce-4f7c-83f0-0572a63baed7\" /> RL training environments for [Microduck](https://github.com/pollen-robotics/microduck) \u2014 a ~800 g, ~25 cm tall bipedal robot \u2014 built on [mjlab](https://github.com/mujocolab/mjlab) (MuJoCo Warp) with PPO. Policies are trained here at 50 Hz, exported to ONNX, and deployed on the real robot by the runtime in [pollen-robotics/microduck](https://github.com",
+        "topics": [],
+        "updated_at": "2026-08-31T15:16:15Z"
+      },
+      "repo": {
+        "description": "RL training environments for Microduck (mjlab)",
+        "forks": 185,
+        "full_name": "pollen-robotics/microduck_rl",
+        "language": "Python",
+        "name": "microduck_rl",
+        "owner": "pollen-robotics",
+        "rank": 16,
+        "stars_today": 384,
+        "total_stars": 1070,
+        "url": "https://github.com/pollen-robotics/microduck_rl"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.25,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 50.35
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 384 stars today; score 50.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-06T19:44:47Z",
+        "default_branch": "main",
+        "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+        "fork": false,
+        "full_name": "firecrawl/pdf-inspector",
+        "homepage": "https://firecrawl.github.io/pdf-inspector/",
+        "latest_release": "v1.15.0",
+        "license_spdx": "MIT",
+        "open_issues": 193,
+        "primary_language": "Rust",
+        "pushed_at": "2026-08-21T23:46:04Z",
+        "readme_excerpt": "# pdf-inspector [![Crates.io](https://img.shields.io/crates/v/pdf-inspector.svg)](https://crates.io/crates/pdf-inspector) [![npm](https://img.shields.io/npm/v/@firecrawl/pdf-inspector.svg)](https://www.npmjs.com/package/@firecrawl/pdf-inspector) [![PyPI](https://img.shields.io/pypi/v/pdf-inspector.svg)](https://pypi.org/project/pdf-inspector/) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) Fast Rust library for PDF classification and text extraction. By default it ",
+        "topics": [
+          "markdown",
+          "nodejs",
+          "ocr-routing",
+          "pdf",
+          "pdf-classification",
+          "pdf-extraction",
+          "pdf-parser",
+          "python",
+          "rust",
+          "text-extraction"
+        ],
+        "updated_at": "2026-08-31T15:16:31Z"
+      },
+      "repo": {
+        "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+        "forks": 1191,
+        "full_name": "firecrawl/pdf-inspector",
+        "language": "Rust",
+        "name": "pdf-inspector",
+        "owner": "firecrawl",
+        "rank": 15,
+        "stars_today": 199,
+        "total_stars": 17227,
+        "url": "https://github.com/firecrawl/pdf-inspector"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.0,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 0.82,
+        "technical_quality": 14.0,
+        "total": 43.67
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Rust project with 199 stars today; score 43.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 37019,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 490,
+        "total_stars": 245031,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.33,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 36.28
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 490 stars today; score 36.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/kaifcodec",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.",
+        "forks": 439,
+        "full_name": "sponsors/kaifcodec",
+        "language": "Python",
+        "name": "kaifcodec",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 462,
+        "total_stars": 4031,
+        "url": "https://github.com/sponsors/kaifcodec"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.13,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 32.28
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 462 stars today; score 32.3/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-08-31",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is Osmantic/ODS."
+}
