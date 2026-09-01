@@ -1,0 +1,1319 @@
+{
+  "date": "2026-09-01",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-01T03:15:49Z",
+        "default_branch": "main",
+        "description": "runs anywhere. uses anything",
+        "fork": false,
+        "full_name": "Gitlawb/openclaude",
+        "homepage": "https://openclaude.gitlawb.com",
+        "latest_release": "v0.30.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 71,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-31T02:25:05Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"docs/assets/openclaude-wordmark.png\" alt=\"OpenClaude \u2014 Open terminal for any LLM\" width=\"830\"> <p> <a href=\"https://trendshift.io/repositories/25807?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-25807\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/trendshift/repositories/25807/daily?language=TypeScript\" alt=\"Gitlawb%2Fopenclaude | Trendshift\" width=\"250\" height=\"55\"/></a> <a href=\"https://tr",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "ai-tools",
+          "cli",
+          "coding"
+        ],
+        "updated_at": "2026-09-01T12:37:55Z"
+      },
+      "repo": {
+        "description": "runs anywhere. uses anything",
+        "forks": 8927,
+        "full_name": "Gitlawb/openclaude",
+        "language": "TypeScript",
+        "name": "openclaude",
+        "owner": "Gitlawb",
+        "rank": 1,
+        "stars_today": 37,
+        "total_stars": 30995,
+        "url": "https://github.com/Gitlawb/openclaude"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.7,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 5.25,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 75.9
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 37 stars today; score 75.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-09T21:40:26Z",
+        "default_branch": "main",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "fork": false,
+        "full_name": "debpalash/VoiceStudio",
+        "homepage": "https://voicestudio.sh",
+        "latest_release": "v0.5.1",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 32,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-30T17:32:03Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"docs/logo.png\" alt=\"VoiceStudio logo\" width=\"120\" height=\"120\" /> <h1>VoiceStudio</h1> <p><sub>Previously OmniVoice-Studio</sub></p> <h3>Local voice cloning, dubbing, dictation, and long-form audio.</h3> <p>16 TTS engines \u00b7 11 ASR engines \u00b7 646-language catalogue \u00b7 macOS, Windows, and Linux</p> <p><strong>Local-first.</strong> No account, API key, subscription, or usage meter for the core workflow.</p> <p> <a href=\"#install\">Install</a> \u00b7 <a href=\"#features\">Featur",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "tauri",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "updated_at": "2026-09-01T12:40:36Z"
+      },
+      "repo": {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "forks": 2009,
+        "full_name": "debpalash/VoiceStudio",
+        "language": "Python",
+        "name": "VoiceStudio",
+        "owner": "debpalash",
+        "rank": 6,
+        "stars_today": 509,
+        "total_stars": 13087,
+        "url": "https://github.com/debpalash/VoiceStudio"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 10.22,
+        "momentum": 4.25,
+        "novelty": 8.0,
+        "practical_usefulness": 12.41,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 67.89
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 509 stars today; score 67.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-12T01:34:42Z",
+        "default_branch": "main",
+        "description": "Edit videos with coding agents",
+        "fork": false,
+        "full_name": "browser-use/video-use",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 79,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-30T09:45:51Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"static/video-use-banner.png\" alt=\"video-use\" width=\"100%\"> </p> # video-use Introducing **video-use** \u2014 edit videos with Claude Code. 100% open source. Drop raw footage in a folder, chat with Claude Code, get `final.mp4` back. Works for any content \u2014 talking heads, montages, tutorials, travel, interviews \u2014 without presets or menus. Try video-use in [Browser Use Cloud](https://cloud.browser-use.com/v4?utm_campaign=video-use-use-in-cloud&utm_source=github). ## What it ",
+        "topics": [],
+        "updated_at": "2026-09-01T12:38:32Z"
+      },
+      "repo": {
+        "description": "Edit videos with coding agents",
+        "forks": 2791,
+        "full_name": "browser-use/video-use",
+        "language": "Python",
+        "name": "video-use",
+        "owner": "browser-use",
+        "rank": 9,
+        "stars_today": 591,
+        "total_stars": 22586,
+        "url": "https://github.com/browser-use/video-use"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.04,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 64.59
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 591 stars today; score 64.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-26T06:31:01Z",
+        "default_branch": "main",
+        "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+        "fork": false,
+        "full_name": "Imbad0202/academic-research-skills",
+        "homepage": "https://buymeacoffee.com/crucify020v",
+        "latest_release": "v3.21.1",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 20,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-01T12:10:25Z",
+        "readme_excerpt": "# Academic Research Skills for Claude Code [![Version](https://img.shields.io/badge/version-v3.21.1-blue)](https://github.com/Imbad0202/academic-research-skills/releases/tag/v3.21.1) [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20696614-blue)](https://doi.org/10.5281/zenodo.20696614) [![License: CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc/4.0/) [![Sponsor](https://img.shields.io/badge/sponsor-Buy%20Me%20",
+        "topics": [
+          "academic-pipeline",
+          "academic-writing",
+          "ai-research",
+          "claude",
+          "claude-code",
+          "literature-review",
+          "peer-review",
+          "prompt-engineering"
+        ],
+        "updated_at": "2026-09-01T12:41:38Z"
+      },
+      "repo": {
+        "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+        "forks": 3538,
+        "full_name": "Imbad0202/academic-research-skills",
+        "language": "Python",
+        "name": "academic-research-skills",
+        "owner": "Imbad0202",
+        "rank": 2,
+        "stars_today": 161,
+        "total_stars": 44583,
+        "url": "https://github.com/Imbad0202/academic-research-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.89,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 60.64
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 161 stars today; score 60.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-02-07T00:43:42Z",
+        "default_branch": "master",
+        "description": "Invidious is an alternative front-end to YouTube",
+        "fork": false,
+        "full_name": "iv-org/invidious",
+        "homepage": "https://invidious.io",
+        "latest_release": "v2.20260804.1",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 475,
+        "primary_language": "Crystal",
+        "pushed_at": "2026-08-28T21:50:40Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"assets/invidious-colored-vector.svg\" width=\"192\" height=\"192\" alt=\"Invidious logo\"> <h1>Invidious</h1> <a href=\"https://www.gnu.org/licenses/agpl-3.0.en.html\"> <img alt=\"License: AGPLv3\" src=\"https://shields.io/badge/License-AGPL%20v3-blue.svg\"> </a> <a href=\"https://github.com/iv-org/invidious/actions\"> <img alt=\"Build Status\" src=\"https://github.com/iv-org/invidious/workflows/Invidious%20CI/badge.svg\"> </a> <a href=\"https://github.com/iv-org/invidious/commits/mas",
+        "topics": [
+          "agplv3",
+          "hacktoberfest",
+          "invidious",
+          "libre",
+          "video",
+          "watch",
+          "youtube",
+          "youtube-video"
+        ],
+        "updated_at": "2026-09-01T12:27:07Z"
+      },
+      "repo": {
+        "description": "Invidious is an alternative front-end to YouTube",
+        "forks": 2669,
+        "full_name": "iv-org/invidious",
+        "language": "Crystal",
+        "name": "invidious",
+        "owner": "iv-org",
+        "rank": 4,
+        "stars_today": 583,
+        "total_stars": 23635,
+        "url": "https://github.com/iv-org/invidious"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.74,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 48.6
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Crystal project with 583 stars today; score 48.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-31T04:29:13Z",
+        "default_branch": "main",
+        "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+        "fork": false,
+        "full_name": "averygan/reclip",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 47,
+        "primary_language": "HTML",
+        "pushed_at": "2026-07-09T17:49:44Z",
+        "readme_excerpt": "# ReClip A self-hosted, open-source video and audio downloader with a clean web UI. Paste links from YouTube, TikTok, Instagram, Twitter/X, and 1000+ other sites \u2014 download as MP4 or MP3. ![Python](https://img.shields.io/badge/python-3.8+-blue) ![License](https://img.shields.io/badge/license-MIT-green) https://github.com/user-attachments/assets/419d3e50-c933-444b-8cab-a9724986ba05 ![ReClip MP3 Mode](assets/preview-mp3.png) ## Features - Download videos from 1000+ supported sites (via [yt-dlp](ht",
+        "topics": [],
+        "updated_at": "2026-09-01T12:40:47Z"
+      },
+      "repo": {
+        "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+        "forks": 1308,
+        "full_name": "averygan/reclip",
+        "language": "HTML",
+        "name": "reclip",
+        "owner": "averygan",
+        "rank": 13,
+        "stars_today": 21,
+        "total_stars": 7383,
+        "url": "https://github.com/averygan/reclip"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.93,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 46.44
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: HTML project with 21 stars today; score 46.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-03-22T18:50:58Z",
+        "default_branch": "master",
+        "description": "Animation engine for explanatory math videos",
+        "fork": false,
+        "full_name": "3b1b/manim",
+        "homepage": null,
+        "latest_release": "v1.7.2",
+        "license_spdx": "MIT",
+        "open_issues": 491,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-18T21:03:49Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://github.com/3b1b/manim\"> <img src=\"https://raw.githubusercontent.com/3b1b/manim/master/logo/cropped.png\"> </a> </p> [![pypi version](https://img.shields.io/pypi/v/manimgl?logo=pypi)](https://pypi.org/project/manimgl/) [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/) [![Manim Subreddit](https://img.shields.io/reddit/subreddit-subscribers/manim.svg?color=ff4301&label=reddit&logo=reddit)](https",
+        "topics": [
+          "3b1b-videos",
+          "animation",
+          "explanatory-math-videos",
+          "python"
+        ],
+        "updated_at": "2026-09-01T12:40:26Z"
+      },
+      "repo": {
+        "description": "Animation engine for explanatory math videos",
+        "forks": 7611,
+        "full_name": "3b1b/manim",
+        "language": "Python",
+        "name": "manim",
+        "owner": "3b1b",
+        "rank": 7,
+        "stars_today": 74,
+        "total_stars": 92389,
+        "url": "https://github.com/3b1b/manim"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.94,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 1.2,
+        "technical_quality": 14.0,
+        "total": 43.94
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Python project with 74 stars today; score 43.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/VoltAgent",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+        "forks": 12749,
+        "full_name": "sponsors/VoltAgent",
+        "language": null,
+        "name": "VoltAgent",
+        "owner": "sponsors",
+        "rank": 12,
+        "stars_today": 487,
+        "total_stars": 112273,
+        "url": "https://github.com/sponsors/VoltAgent"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.33,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 31.78
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Unknown project with 487 stars today; score 31.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/unclecode",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83d\ude80\ud83e\udd16 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+        "forks": 8344,
+        "full_name": "sponsors/unclecode",
+        "language": "Python",
+        "name": "unclecode",
+        "owner": "sponsors",
+        "rank": 15,
+        "stars_today": 516,
+        "total_stars": 80670,
+        "url": "https://github.com/sponsors/unclecode"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.97,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 31.42
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 516 stars today; score 31.4/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-01T03:15:49Z",
+        "default_branch": "main",
+        "description": "runs anywhere. uses anything",
+        "fork": false,
+        "full_name": "Gitlawb/openclaude",
+        "homepage": "https://openclaude.gitlawb.com",
+        "latest_release": "v0.30.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 71,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-31T02:25:05Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"docs/assets/openclaude-wordmark.png\" alt=\"OpenClaude \u2014 Open terminal for any LLM\" width=\"830\"> <p> <a href=\"https://trendshift.io/repositories/25807?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-25807\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/trendshift/repositories/25807/daily?language=TypeScript\" alt=\"Gitlawb%2Fopenclaude | Trendshift\" width=\"250\" height=\"55\"/></a> <a href=\"https://tr",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "ai-tools",
+          "cli",
+          "coding"
+        ],
+        "updated_at": "2026-09-01T12:37:55Z"
+      },
+      "repo": {
+        "description": "runs anywhere. uses anything",
+        "forks": 8927,
+        "full_name": "Gitlawb/openclaude",
+        "language": "TypeScript",
+        "name": "openclaude",
+        "owner": "Gitlawb",
+        "rank": 1,
+        "stars_today": 37,
+        "total_stars": 30995,
+        "url": "https://github.com/Gitlawb/openclaude"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.7,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 5.25,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 75.9
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 37 stars today; score 75.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-19T20:54:15Z",
+        "default_branch": "main",
+        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+        "fork": false,
+        "full_name": "K-Dense-AI/scientific-agent-skills",
+        "homepage": "https://k-dense.ai",
+        "latest_release": "v2.65.0",
+        "license_spdx": "MIT",
+        "open_issues": 27,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-31T17:14:03Z",
+        "readme_excerpt": "# Scientific Agent Skills [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md) [![Version](https://img.shields.io/badge/Version-2.65.0-blue.svg)](pyproject.toml) [![Skills](https://img.shields.io/badge/Skills-163-brightgreen.svg)](#-whats-included) [![Databases](https://img.shields.io/badge/Databases-100%2B-orange.svg)](#-whats-included) [![Agent Skills](https://img.shields.io/badge/Standard-Agent_Skills-blueviolet.svg)](https://agentskills.io/) [![Agent Plugins](ht",
+        "topics": [
+          "agent-skills",
+          "ai-scientist",
+          "bioinformatics",
+          "chemoinformatics",
+          "claude",
+          "claude-skills",
+          "claudecode",
+          "clinical-research",
+          "computational-biology",
+          "data-analysis",
+          "drug-discovery",
+          "genomics",
+          "materials-science",
+          "metabolomics",
+          "proteomics",
+          "scientific-computing",
+          "scientific-visualization"
+        ],
+        "updated_at": "2026-09-01T12:40:03Z"
+      },
+      "repo": {
+        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+        "forks": 3801,
+        "full_name": "K-Dense-AI/scientific-agent-skills",
+        "language": "Python",
+        "name": "scientific-agent-skills",
+        "owner": "K-Dense-AI",
+        "rank": 10,
+        "stars_today": 914,
+        "total_stars": 41257,
+        "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.76,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 70.61
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 914 stars today; score 70.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-09T21:40:26Z",
+        "default_branch": "main",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "fork": false,
+        "full_name": "debpalash/VoiceStudio",
+        "homepage": "https://voicestudio.sh",
+        "latest_release": "v0.5.1",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 32,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-30T17:32:03Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"docs/logo.png\" alt=\"VoiceStudio logo\" width=\"120\" height=\"120\" /> <h1>VoiceStudio</h1> <p><sub>Previously OmniVoice-Studio</sub></p> <h3>Local voice cloning, dubbing, dictation, and long-form audio.</h3> <p>16 TTS engines \u00b7 11 ASR engines \u00b7 646-language catalogue \u00b7 macOS, Windows, and Linux</p> <p><strong>Local-first.</strong> No account, API key, subscription, or usage meter for the core workflow.</p> <p> <a href=\"#install\">Install</a> \u00b7 <a href=\"#features\">Featur",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "tauri",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "updated_at": "2026-09-01T12:40:36Z"
+      },
+      "repo": {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "forks": 2009,
+        "full_name": "debpalash/VoiceStudio",
+        "language": "Python",
+        "name": "VoiceStudio",
+        "owner": "debpalash",
+        "rank": 6,
+        "stars_today": 509,
+        "total_stars": 13087,
+        "url": "https://github.com/debpalash/VoiceStudio"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 10.22,
+        "momentum": 4.25,
+        "novelty": 8.0,
+        "practical_usefulness": 12.41,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 67.89
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 509 stars today; score 67.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-11T10:13:16Z",
+        "default_branch": "main",
+        "description": "Open Multi-Agent Interactive Classroom \u2014 Get an immersive, multi-agent learning experience in just one click",
+        "fork": false,
+        "full_name": "THU-MAIC/OpenMAIC",
+        "homepage": null,
+        "latest_release": "v1.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 239,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-01T11:28:02Z",
+        "readme_excerpt": "<!-- <p align=\"center\"> <img src=\"assets/logo-horizontal.png\" alt=\"OpenMAIC\" width=\"420\"/> </p> --> <p align=\"center\"> <img src=\"assets/banner.png\" alt=\"OpenMAIC Banner\" width=\"680\"/> </p> <p align=\"center\"> Get an immersive, multi-agent learning experience in just one click </p> <p align=\"center\"> <a href=\"https://lcn6dqn3m0yr.feishu.cn/wiki/CkQSwHFdzibQFvkGzwPcmUOfnXg\"><img src=\"https://img.shields.io/badge/%F0%9F%93%98%20User%20Guide-v1.0.0%20%C2%B7%20English-4F8EF7?style=for-the-badge\" alt=\"",
+        "topics": [],
+        "updated_at": "2026-09-01T12:41:38Z"
+      },
+      "repo": {
+        "description": "Open Multi-Agent Interactive Classroom \u2014 Get an immersive, multi-agent learning experience in just one click",
+        "forks": 4924,
+        "full_name": "THU-MAIC/OpenMAIC",
+        "language": "TypeScript",
+        "name": "OpenMAIC",
+        "owner": "THU-MAIC",
+        "rank": 3,
+        "stars_today": 3122,
+        "total_stars": 28844,
+        "url": "https://github.com/THU-MAIC/OpenMAIC"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.71,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.78,
+        "technical_quality": 14.0,
+        "total": 67.27
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 3122 stars today; score 67.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-07-27T04:34:12Z",
+        "default_branch": "master",
+        "description": "\ud83e\udde0 Train a 64M-parameter LLM from scratch in just 2h!",
+        "fork": false,
+        "full_name": "jingyaogong/minimind",
+        "homepage": "https://jingyaogong.github.io/minimind",
+        "latest_release": "v2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 59,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-31T10:08:14Z",
+        "readme_excerpt": "<div align=\"center\"> ![logo](./images/logo.png) </div> <div align=\"center\"> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jingyaogong/minimind) [![GitHub Repo stars](https://img.shields.io/github/stars/jingyaogong/minimind?style=social)](https://github.com/jingyaogong/minimind/stargazers) [![GitHub Code License](https://img.shields.io/github/license/jingyaogong/minimind)](LICENSE) [![GitHub last commit](https://img.shields.io/github/last-commit/jingyaogong/minimind)](https://github.c",
+        "topics": [
+          "artificial-intelligence",
+          "large-language-model"
+        ],
+        "updated_at": "2026-09-01T12:41:27Z"
+      },
+      "repo": {
+        "description": "\ud83e\udde0 Train a 64M-parameter LLM from scratch in just 2h!",
+        "forks": 7391,
+        "full_name": "jingyaogong/minimind",
+        "language": "Python",
+        "name": "minimind",
+        "owner": "jingyaogong",
+        "rank": 5,
+        "stars_today": 1005,
+        "total_stars": 56757,
+        "url": "https://github.com/jingyaogong/minimind"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.73,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 66.33
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 1005 stars today; score 66.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-12T01:34:42Z",
+        "default_branch": "main",
+        "description": "Edit videos with coding agents",
+        "fork": false,
+        "full_name": "browser-use/video-use",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 79,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-30T09:45:51Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"static/video-use-banner.png\" alt=\"video-use\" width=\"100%\"> </p> # video-use Introducing **video-use** \u2014 edit videos with Claude Code. 100% open source. Drop raw footage in a folder, chat with Claude Code, get `final.mp4` back. Works for any content \u2014 talking heads, montages, tutorials, travel, interviews \u2014 without presets or menus. Try video-use in [Browser Use Cloud](https://cloud.browser-use.com/v4?utm_campaign=video-use-use-in-cloud&utm_source=github). ## What it ",
+        "topics": [],
+        "updated_at": "2026-09-01T12:38:32Z"
+      },
+      "repo": {
+        "description": "Edit videos with coding agents",
+        "forks": 2791,
+        "full_name": "browser-use/video-use",
+        "language": "Python",
+        "name": "video-use",
+        "owner": "browser-use",
+        "rank": 9,
+        "stars_today": 591,
+        "total_stars": 22586,
+        "url": "https://github.com/browser-use/video-use"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.04,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 64.59
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 591 stars today; score 64.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-26T06:31:01Z",
+        "default_branch": "main",
+        "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+        "fork": false,
+        "full_name": "Imbad0202/academic-research-skills",
+        "homepage": "https://buymeacoffee.com/crucify020v",
+        "latest_release": "v3.21.1",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 20,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-01T12:10:25Z",
+        "readme_excerpt": "# Academic Research Skills for Claude Code [![Version](https://img.shields.io/badge/version-v3.21.1-blue)](https://github.com/Imbad0202/academic-research-skills/releases/tag/v3.21.1) [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20696614-blue)](https://doi.org/10.5281/zenodo.20696614) [![License: CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc/4.0/) [![Sponsor](https://img.shields.io/badge/sponsor-Buy%20Me%20",
+        "topics": [
+          "academic-pipeline",
+          "academic-writing",
+          "ai-research",
+          "claude",
+          "claude-code",
+          "literature-review",
+          "peer-review",
+          "prompt-engineering"
+        ],
+        "updated_at": "2026-09-01T12:41:38Z"
+      },
+      "repo": {
+        "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+        "forks": 3538,
+        "full_name": "Imbad0202/academic-research-skills",
+        "language": "Python",
+        "name": "academic-research-skills",
+        "owner": "Imbad0202",
+        "rank": 2,
+        "stars_today": 161,
+        "total_stars": 44583,
+        "url": "https://github.com/Imbad0202/academic-research-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.89,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 60.64
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 161 stars today; score 60.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-07T15:44:15Z",
+        "default_branch": "main",
+        "description": "\u4e2d\u56fd\u4e13\u5229.skill\uff1a\u4e13\u5229\u70b9\u6316\u6398\u4e0e\u4ea4\u5e95\u4e66\uff08\u53d1\u660e/\u5b9e\u7528/\u5916\u89c2\uff09\u7f16\u5199\uff0c\u901a\u4fd7\u89e3\u8bfb\u4e13\u5229\uff0c\u55c5\u63a2\u653f\u7b56\u52a8\u5411\uff0c\u8f85\u52a9\u5ba1\u67e5\u7b54\u590d\u3002",
+        "fork": false,
+        "full_name": "handsomestWei/patent-disclosure-skill",
+        "homepage": "https://skillhub.cn/skills/patent-disclosure-skill",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 6,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-01T08:57:57Z",
+        "readme_excerpt": "<div align=\"center\"> # \u4e2d\u56fd\u4e13\u5229.skill > \u6309\u53d1\u660e\u4eba/\u7533\u8bf7\u4eba\u68c0\u7d22\u516c\u5f00\u4e13\u5229\u6e05\u5355\uff0c\u4e13\u5229\u70b9\u6316\u6398\u4e0e\u4ea4\u5e95\u4e66\uff08\u53d1\u660e/\u5b9e\u7528/\u5916\u89c2\uff09\u7f16\u5199\uff0c\u901a\u4fd7\u89e3\u8bfb\u4e13\u5229\uff0c\u55c5\u63a2\u653f\u7b56\u52a8\u5411\uff0c\u8f85\u52a9\u5ba1\u67e5\u7b54\u590d\u3002 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/) [![Playwright](https://img.shields.io/badge/Playwright-mermaid%20%2B%20CNIPA-2EAD33.svg)](https://playwright.dev/) [![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io) <br> \u6709\u8bbe\u8ba1\u6587\u6863\u548c\u4ee3\u7801\uff0c\u4f46",
+        "topics": [
+          "chinese",
+          "disclosure",
+          "obsidian",
+          "patent",
+          "skill"
+        ],
+        "updated_at": "2026-09-01T12:25:31Z"
+      },
+      "repo": {
+        "description": "\u4e2d\u56fd\u4e13\u5229.skill\uff1a\u4e13\u5229\u70b9\u6316\u6398\u4e0e\u4ea4\u5e95\u4e66\uff08\u53d1\u660e/\u5b9e\u7528/\u5916\u89c2\uff09\u7f16\u5199\uff0c\u901a\u4fd7\u89e3\u8bfb\u4e13\u5229\uff0c\u55c5\u63a2\u653f\u7b56\u52a8\u5411\uff0c\u8f85\u52a9\u5ba1\u67e5\u7b54\u590d\u3002",
+        "forks": 753,
+        "full_name": "handsomestWei/patent-disclosure-skill",
+        "language": "Python",
+        "name": "patent-disclosure-skill",
+        "owner": "handsomestWei",
+        "rank": 11,
+        "stars_today": 502,
+        "total_stars": 6587,
+        "url": "https://github.com/handsomestWei/patent-disclosure-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.51,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 60.61
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 502 stars today; score 60.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-02-07T00:43:42Z",
+        "default_branch": "master",
+        "description": "Invidious is an alternative front-end to YouTube",
+        "fork": false,
+        "full_name": "iv-org/invidious",
+        "homepage": "https://invidious.io",
+        "latest_release": "v2.20260804.1",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 475,
+        "primary_language": "Crystal",
+        "pushed_at": "2026-08-28T21:50:40Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"assets/invidious-colored-vector.svg\" width=\"192\" height=\"192\" alt=\"Invidious logo\"> <h1>Invidious</h1> <a href=\"https://www.gnu.org/licenses/agpl-3.0.en.html\"> <img alt=\"License: AGPLv3\" src=\"https://shields.io/badge/License-AGPL%20v3-blue.svg\"> </a> <a href=\"https://github.com/iv-org/invidious/actions\"> <img alt=\"Build Status\" src=\"https://github.com/iv-org/invidious/workflows/Invidious%20CI/badge.svg\"> </a> <a href=\"https://github.com/iv-org/invidious/commits/mas",
+        "topics": [
+          "agplv3",
+          "hacktoberfest",
+          "invidious",
+          "libre",
+          "video",
+          "watch",
+          "youtube",
+          "youtube-video"
+        ],
+        "updated_at": "2026-09-01T12:27:07Z"
+      },
+      "repo": {
+        "description": "Invidious is an alternative front-end to YouTube",
+        "forks": 2669,
+        "full_name": "iv-org/invidious",
+        "language": "Crystal",
+        "name": "invidious",
+        "owner": "iv-org",
+        "rank": 4,
+        "stars_today": 583,
+        "total_stars": 23635,
+        "url": "https://github.com/iv-org/invidious"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.74,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 48.6
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Crystal project with 583 stars today; score 48.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-06T19:44:47Z",
+        "default_branch": "main",
+        "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+        "fork": false,
+        "full_name": "firecrawl/pdf-inspector",
+        "homepage": "https://firecrawl.github.io/pdf-inspector/",
+        "latest_release": "v1.15.0",
+        "license_spdx": "MIT",
+        "open_issues": 196,
+        "primary_language": "Rust",
+        "pushed_at": "2026-09-01T07:40:53Z",
+        "readme_excerpt": "# pdf-inspector [![Crates.io](https://img.shields.io/crates/v/pdf-inspector.svg)](https://crates.io/crates/pdf-inspector) [![npm](https://img.shields.io/npm/v/@firecrawl/pdf-inspector.svg)](https://www.npmjs.com/package/@firecrawl/pdf-inspector) [![PyPI](https://img.shields.io/pypi/v/pdf-inspector.svg)](https://pypi.org/project/pdf-inspector/) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) Fast Rust library for PDF classification and text extraction. By default it ",
+        "topics": [
+          "markdown",
+          "nodejs",
+          "ocr-routing",
+          "pdf",
+          "pdf-classification",
+          "pdf-extraction",
+          "pdf-parser",
+          "python",
+          "rust",
+          "text-extraction"
+        ],
+        "updated_at": "2026-09-01T12:40:44Z"
+      },
+      "repo": {
+        "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+        "forks": 1214,
+        "full_name": "firecrawl/pdf-inspector",
+        "language": "Rust",
+        "name": "pdf-inspector",
+        "owner": "firecrawl",
+        "rank": 8,
+        "stars_today": 545,
+        "total_stars": 17687,
+        "url": "https://github.com/firecrawl/pdf-inspector"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.06,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 1.66,
+        "technical_quality": 14.0,
+        "total": 46.57
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Rust project with 545 stars today; score 46.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-31T04:29:13Z",
+        "default_branch": "main",
+        "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+        "fork": false,
+        "full_name": "averygan/reclip",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 47,
+        "primary_language": "HTML",
+        "pushed_at": "2026-07-09T17:49:44Z",
+        "readme_excerpt": "# ReClip A self-hosted, open-source video and audio downloader with a clean web UI. Paste links from YouTube, TikTok, Instagram, Twitter/X, and 1000+ other sites \u2014 download as MP4 or MP3. ![Python](https://img.shields.io/badge/python-3.8+-blue) ![License](https://img.shields.io/badge/license-MIT-green) https://github.com/user-attachments/assets/419d3e50-c933-444b-8cab-a9724986ba05 ![ReClip MP3 Mode](assets/preview-mp3.png) ## Features - Download videos from 1000+ supported sites (via [yt-dlp](ht",
+        "topics": [],
+        "updated_at": "2026-09-01T12:40:47Z"
+      },
+      "repo": {
+        "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+        "forks": 1308,
+        "full_name": "averygan/reclip",
+        "language": "HTML",
+        "name": "reclip",
+        "owner": "averygan",
+        "rank": 13,
+        "stars_today": 21,
+        "total_stars": 7383,
+        "url": "https://github.com/averygan/reclip"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.93,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 46.44
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: HTML project with 21 stars today; score 46.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-03-22T18:50:58Z",
+        "default_branch": "master",
+        "description": "Animation engine for explanatory math videos",
+        "fork": false,
+        "full_name": "3b1b/manim",
+        "homepage": null,
+        "latest_release": "v1.7.2",
+        "license_spdx": "MIT",
+        "open_issues": 491,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-18T21:03:49Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://github.com/3b1b/manim\"> <img src=\"https://raw.githubusercontent.com/3b1b/manim/master/logo/cropped.png\"> </a> </p> [![pypi version](https://img.shields.io/pypi/v/manimgl?logo=pypi)](https://pypi.org/project/manimgl/) [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/) [![Manim Subreddit](https://img.shields.io/reddit/subreddit-subscribers/manim.svg?color=ff4301&label=reddit&logo=reddit)](https",
+        "topics": [
+          "3b1b-videos",
+          "animation",
+          "explanatory-math-videos",
+          "python"
+        ],
+        "updated_at": "2026-09-01T12:40:26Z"
+      },
+      "repo": {
+        "description": "Animation engine for explanatory math videos",
+        "forks": 7611,
+        "full_name": "3b1b/manim",
+        "language": "Python",
+        "name": "manim",
+        "owner": "3b1b",
+        "rank": 7,
+        "stars_today": 74,
+        "total_stars": 92389,
+        "url": "https://github.com/3b1b/manim"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.94,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 1.2,
+        "technical_quality": 14.0,
+        "total": 43.94
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Python project with 74 stars today; score 43.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 37075,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 14,
+        "stars_today": 621,
+        "total_stars": 245524,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.4,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 36.35
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 621 stars today; score 36.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/VoltAgent",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+        "forks": 12749,
+        "full_name": "sponsors/VoltAgent",
+        "language": null,
+        "name": "VoltAgent",
+        "owner": "sponsors",
+        "rank": 12,
+        "stars_today": 487,
+        "total_stars": 112273,
+        "url": "https://github.com/sponsors/VoltAgent"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.33,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 31.78
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Unknown project with 487 stars today; score 31.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/unclecode",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83d\ude80\ud83e\udd16 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+        "forks": 8344,
+        "full_name": "sponsors/unclecode",
+        "language": "Python",
+        "name": "unclecode",
+        "owner": "sponsors",
+        "rank": 15,
+        "stars_today": 516,
+        "total_stars": 80670,
+        "url": "https://github.com/sponsors/unclecode"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.97,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 31.42
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 516 stars today; score 31.4/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-09-01",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is Gitlawb/openclaude."
+}

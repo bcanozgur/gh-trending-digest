@@ -1,0 +1,33 @@
+GitHub Trending: AI workflow signal - 2026-09-01
+
+Today leans toward AI workflow signal; the strongest pick is Gitlawb/openclaude.
+
+Top picks
+1. Gitlawb/openclaude - 75.9/100
+   https://github.com/Gitlawb/openclaude
+   AI Workflow, DevTools: TypeScript project with 37 stars today; score 75.9/100.
+2. debpalash/VoiceStudio - 67.9/100
+   https://github.com/debpalash/VoiceStudio
+   AI Workflow, DevTools: Python project with 509 stars today; score 67.9/100.
+3. browser-use/video-use - 64.6/100
+   https://github.com/browser-use/video-use
+   AI Workflow, Try Today: Python project with 591 stars today; score 64.6/100.
+4. Imbad0202/academic-research-skills - 60.6/100
+   https://github.com/Imbad0202/academic-research-skills
+   AI Workflow, Try Today: Python project with 161 stars today; score 60.6/100.
+5. iv-org/invidious - 48.6/100
+   https://github.com/iv-org/invidious
+   DevTools, Try Today: Crystal project with 583 stars today; score 48.6/100.
+
+Full reviewed list
+- Gitlawb/openclaude: 75.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 37 stars today; score 75.9/100.
+- debpalash/VoiceStudio: 67.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 509 stars today; score 67.9/100.
+- browser-use/video-use: 64.6/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 591 stars today; score 64.6/100.
+- Imbad0202/academic-research-skills: 60.6/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 161 stars today; score 60.6/100.
+- iv-org/invidious: 48.6/100 [DevTools, Try Today] DevTools, Try Today: Crystal project with 583 stars today; score 48.6/100.
+- averygan/reclip: 46.4/100 [DevTools, Try Today] DevTools, Try Today: HTML project with 21 stars today; score 46.4/100.
+- 3b1b/manim: 43.9/100 [Try Today] Try Today: Python project with 74 stars today; score 43.9/100.
+- sponsors/VoltAgent: 31.8/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Unknown project with 487 stars today; score 31.8/100.
+- sponsors/unclecode: 31.4/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Python project with 516 stars today; score 31.4/100.
+
+Generated for 2026-09-01 from GitHub Trending daily.
