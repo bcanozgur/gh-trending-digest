@@ -1,0 +1,34 @@
+GitHub Trending: AI workflow signal - 2026-09-02
+
+Today leans toward AI workflow signal; the strongest pick is pacifio/atlas.
+
+Top picks
+1. pacifio/atlas - 79.2/100
+   https://github.com/pacifio/atlas
+   AI Workflow, DevTools: Rust project with 895 stars today; score 79.2/100.
+2. blader/humanizer - 77.1/100
+   https://github.com/blader/humanizer
+   AI Workflow, Try Today: Python project with 366 stars today; score 77.1/100.
+3. superlinked/sie - 74.2/100
+   https://github.com/superlinked/sie
+   AI Workflow, Try Today: Python project with 61 stars today; score 74.2/100.
+4. NousResearch/hermes-agent - 72.0/100
+   https://github.com/NousResearch/hermes-agent
+   AI Workflow, Try Today: Python project with 529 stars today; score 72.0/100.
+5. google-research/timesfm - 66.8/100
+   https://github.com/google-research/timesfm
+   AI Workflow, Try Today: Python project with 326 stars today; score 66.8/100.
+
+Full reviewed list
+- pacifio/atlas: 79.2/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Rust project with 895 stars today; score 79.2/100.
+- blader/humanizer: 77.1/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 366 stars today; score 77.1/100.
+- superlinked/sie: 74.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 61 stars today; score 74.2/100.
+- NousResearch/hermes-agent: 72.0/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 529 stars today; score 72.0/100.
+- google-research/timesfm: 66.8/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 326 stars today; score 66.8/100.
+- vercel-labs/portless: 66.4/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 69 stars today; score 66.4/100.
+- zyronon/TypeWords: 59.7/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Vue project with 68 stars today; score 59.7/100.
+- hugohe3/ppt-master: 59.3/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 349 stars today; score 59.3/100.
+- fmtlib/fmt: 52.7/100 [DevTools, Try Today] DevTools, Try Today: C++ project with 3 stars today; score 52.7/100.
+- sngyai/Sequoia-X: 52.1/100 [AI Workflow] AI Workflow: Python project with 195 stars today; score 52.1/100.
+
+Generated for 2026-09-02 from GitHub Trending daily.
