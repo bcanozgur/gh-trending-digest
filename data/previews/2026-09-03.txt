@@ -1,0 +1,35 @@
+GitHub Trending: AI workflow signal - 2026-09-03
+
+Today leans toward AI workflow signal; the strongest pick is magnitudedev/magnitude.
+
+Top picks
+1. magnitudedev/magnitude - 73.6/100
+   https://github.com/magnitudedev/magnitude
+   AI Workflow, DevTools: TypeScript project with 130 stars today; score 73.6/100.
+2. addyosmani/agent-skills - 72.5/100
+   https://github.com/addyosmani/agent-skills
+   AI Workflow, DevTools: JavaScript project with 280 stars today; score 72.5/100.
+3. anthropics/skills - 63.6/100
+   https://github.com/anthropics/skills
+   AI Workflow, Deep Dive: Python project with 277 stars today; score 63.6/100.
+4. ByteByteGoHq/system-design-101 - 51.6/100
+   https://github.com/ByteByteGoHq/system-design-101
+   AI Workflow, DevTools: Unknown project with 158 stars today; score 51.6/100.
+5. sponsors/mattpocock - 43.6/100
+   https://github.com/sponsors/mattpocock
+   AI Workflow, Watch: Shell project with 1166 stars today; score 43.6/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- magnitudedev/magnitude: 73.6/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 130 stars today; score 73.6/100.
+- addyosmani/agent-skills: 72.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: JavaScript project with 280 stars today; score 72.5/100.
+- anthropics/skills: 63.6/100 [AI Workflow, Deep Dive] AI Workflow, Deep Dive: Python project with 277 stars today; score 63.6/100.
+- ByteByteGoHq/system-design-101: 51.6/100 [AI Workflow, DevTools] AI Workflow, DevTools: Unknown project with 158 stars today; score 51.6/100.
+- sponsors/mattpocock: 43.6/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Shell project with 1166 stars today; score 43.6/100.
+- bannedbook/fanqiang: 43.0/100 [Watch] Watch: Kotlin project with 539 stars today; score 43.0/100.
+- sponsors/DietrichGebert: 40.5/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: JavaScript project with 1354 stars today; score 40.5/100.
+- sponsors/obra: 33.0/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Shell project with 460 stars today; score 33.0/100.
+- sponsors/JuliusBrussee: 28.2/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Go project with 238 stars today; score 28.2/100.
+- sponsors/f: 21.8/100 [Watch, Hype Risk] Watch, Hype Risk: HTML project with 198 stars today; score 21.8/100.
+
+Generated for 2026-09-03 from GitHub Trending daily.
