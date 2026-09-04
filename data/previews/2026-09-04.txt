@@ -1,0 +1,30 @@
+GitHub Trending: AI workflow signal - 2026-09-04
+
+Today leans toward AI workflow signal; the strongest pick is radixark/miles.
+
+Top picks
+1. radixark/miles - 67.8/100
+   https://github.com/radixark/miles
+   AI Workflow, DevTools: Python project with 55 stars today; score 67.8/100.
+2. cathrynlavery/diagram-design - 64.6/100
+   https://github.com/cathrynlavery/diagram-design
+   AI Workflow, DevTools: HTML project with 426 stars today; score 64.6/100.
+3. bikini/exploitarium - 53.1/100
+   https://github.com/bikini/exploitarium
+   AI Workflow, DevTools: Python project with 68 stars today; score 53.1/100.
+4. clshortfuse/renodx - 50.0/100
+   https://github.com/clshortfuse/renodx
+   DevTools, Try Today: HLSL project with 759 stars today; score 50.0/100.
+5. sponsors/anomalyco - 32.0/100
+   https://github.com/sponsors/anomalyco
+   AI Workflow, Watch: TypeScript project with 314 stars today; score 32.0/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- radixark/miles: 67.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 55 stars today; score 67.8/100.
+- cathrynlavery/diagram-design: 64.6/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: HTML project with 426 stars today; score 64.6/100.
+- bikini/exploitarium: 53.1/100 [AI Workflow, DevTools] AI Workflow, DevTools: Python project with 68 stars today; score 53.1/100.
+- clshortfuse/renodx: 50.0/100 [DevTools, Try Today] DevTools, Try Today: HLSL project with 759 stars today; score 50.0/100.
+- sponsors/anomalyco: 32.0/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: TypeScript project with 314 stars today; score 32.0/100.
+
+Generated for 2026-09-04 from GitHub Trending daily.

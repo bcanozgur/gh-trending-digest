@@ -1,0 +1,1183 @@
+{
+  "date": "2026-09-04",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-09T06:04:57Z",
+        "default_branch": "main",
+        "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+        "fork": false,
+        "full_name": "radixark/miles",
+        "homepage": "https://miles.radixark.com",
+        "latest_release": "v0.1.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 954,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-04T12:01:23Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/radixark/miles/main/docs/assets/images/brand/miles_logo.png\" alt=\"Miles Logo\" width=\"340\"> ### **Enterprise-Grade Reinforcement Learning for Large-Scale Model Post-Training** [![Website](https://img.shields.io/badge/website-miles.radixark.com-d55816)](https://miles.radixark.com/) [![GitHub Repo](https://img.shields.io/badge/github-radixark%2Fmiles-black?logo=github)](https://github.com/radixark/miles) [![Docs](https://img.shields.i",
+        "topics": [],
+        "updated_at": "2026-09-04T11:59:27Z"
+      },
+      "repo": {
+        "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+        "forks": 438,
+        "full_name": "radixark/miles",
+        "language": "Python",
+        "name": "miles",
+        "owner": "radixark",
+        "rank": 14,
+        "stars_today": 55,
+        "total_stars": 2465,
+        "url": "https://github.com/radixark/miles"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.95,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 67.75
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 55 stars today; score 67.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-16T18:01:16Z",
+        "default_branch": "main",
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "fork": false,
+        "full_name": "cathrynlavery/diagram-design",
+        "homepage": "https://cathrynlavery.github.io/diagram-design/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 38,
+        "primary_language": "HTML",
+        "pushed_at": "2026-09-03T02:53:29Z",
+        "readme_excerpt": "# Diagram Design **Editorial diagrams your designer won't hate.** <a href=\"https://trendshift.io/repositories/26141?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-26141\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/26141\" alt=\"cathrynlavery%2Fdiagram-design | Trendshift\" width=\"250\" height=\"55\"/></a> [![Content site architecture](docs/screenshots/thumbs/architecture.webp)](docs/screenshots/architecture.png) [",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "codex",
+          "data-visualization",
+          "diagrams",
+          "drawio",
+          "mermaid",
+          "svg"
+        ],
+        "updated_at": "2026-09-04T12:09:23Z"
+      },
+      "repo": {
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "forks": 1963,
+        "full_name": "cathrynlavery/diagram-design",
+        "language": "HTML",
+        "name": "diagram-design",
+        "owner": "cathrynlavery",
+        "rank": 17,
+        "stars_today": 426,
+        "total_stars": 30526,
+        "url": "https://github.com/cathrynlavery/diagram-design"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.98,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 64.58
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: HTML project with 426 stars today; score 64.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-23T05:14:11Z",
+        "default_branch": "main",
+        "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+        "fork": false,
+        "full_name": "bikini/exploitarium",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 7,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-15T23:21:55Z",
+        "readme_excerpt": "# Statement This repo was incomplete when published. In regard to AI usage, my fuzzing workflow was automated by AI with a strict workflow. I used GPT-5.3 for ALL the fuzzing, as barely any \"thought\" is necessary when provided with an efficient workflow. Contrary to the growing narrative that I'm just some random child burning tokens, I DO actually have a degree in the subject and have published multiple papers on fuzzing methodology. I spent years researching and developing new tools and ideas ",
+        "topics": [],
+        "updated_at": "2026-09-04T12:12:45Z"
+      },
+      "repo": {
+        "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+        "forks": 1234,
+        "full_name": "bikini/exploitarium",
+        "language": "Python",
+        "name": "exploitarium",
+        "owner": "bikini",
+        "rank": 10,
+        "stars_today": 68,
+        "total_stars": 4381,
+        "url": "https://github.com/bikini/exploitarium"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.57,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 2.8,
+        "strategic_relevance": 3.01,
+        "technical_quality": 9.1,
+        "total": 53.06
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 68 stars today; score 53.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-02-05T15:39:11Z",
+        "default_branch": "main",
+        "description": "Renovation Engine for DirectX Games",
+        "fork": false,
+        "full_name": "clshortfuse/renodx",
+        "homepage": "https://renodx.com/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 85,
+        "primary_language": "HLSL",
+        "pushed_at": "2026-09-04T01:42:49Z",
+        "readme_excerpt": "[![Clang](https://github.com/clshortfuse/renodx/actions/workflows/clang-x64.yml/badge.svg)](https://github.com/clshortfuse/renodx/actions/workflows/clang-x64.yml) [![Ninja](https://github.com/clshortfuse/renodx/actions/workflows/ninja-x64.yml/badge.svg)](https://github.com/clshortfuse/renodx/actions/workflows/ninja-x64.yml) [![Visual Studio](https://github.com/clshortfuse/renodx/actions/workflows/visual-studio-x64.yml/badge.svg)](https://github.com/clshortfuse/renodx/actions/workflows/visual-stu",
+        "topics": [
+          "directx",
+          "games",
+          "hdr",
+          "mod"
+        ],
+        "updated_at": "2026-09-04T12:10:59Z"
+      },
+      "repo": {
+        "description": "Renovation Engine for DirectX Games",
+        "forks": 136,
+        "full_name": "clshortfuse/renodx",
+        "language": "HLSL",
+        "name": "renodx",
+        "owner": "clshortfuse",
+        "rank": 16,
+        "stars_today": 759,
+        "total_stars": 3407,
+        "url": "https://github.com/clshortfuse/renodx"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.44,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 50.0
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: HLSL project with 759 stars today; score 50.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/anomalyco",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The open source coding agent.",
+        "forks": 26586,
+        "full_name": "sponsors/anomalyco",
+        "language": "TypeScript",
+        "name": "anomalyco",
+        "owner": "sponsors",
+        "rank": 15,
+        "stars_today": 314,
+        "total_stars": 203736,
+        "url": "https://github.com/sponsors/anomalyco"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.82,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 31.97
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 314 stars today; score 32.0/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-18T05:30:15Z",
+        "default_branch": "main",
+        "description": "Agent skill that removes signs of AI-generated writing from text",
+        "fork": false,
+        "full_name": "blader/humanizer",
+        "homepage": "https://skills.sh/blader/humanizer",
+        "latest_release": "v2.11.1",
+        "license_spdx": "MIT",
+        "open_issues": 33,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-19T05:58:53Z",
+        "readme_excerpt": "# Humanizer [![skills.sh installs](https://skills.sh/b/blader/humanizer)](https://skills.sh/blader/humanizer) Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is just Markdown, it works with any agent that supports skills. ## How it works Humanizer uses 35 patterns from Wikipedia's [\"Signs of AI writing\"](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing), maintained by WikiProject AI Cleanup. It makes a first pass withou",
+        "topics": [
+          "agent-skills",
+          "ai-writing",
+          "claude-code",
+          "codex",
+          "cursor",
+          "prompt-engineering",
+          "writing-tools"
+        ],
+        "updated_at": "2026-09-04T12:13:13Z"
+      },
+      "repo": {
+        "description": "Agent skill that removes signs of AI-generated writing from text",
+        "forks": 3580,
+        "full_name": "blader/humanizer",
+        "language": "Python",
+        "name": "humanizer",
+        "owner": "blader",
+        "rank": 6,
+        "stars_today": 1208,
+        "total_stars": 42137,
+        "url": "https://github.com/blader/humanizer"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 7.65,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 75.54
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 1208 stars today; score 75.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-07-22T22:22:28Z",
+        "default_branch": "main",
+        "description": "The agent that grows with you",
+        "fork": false,
+        "full_name": "NousResearch/hermes-agent",
+        "homepage": "https://hermes-agent.nousresearch.com",
+        "latest_release": "v2026.8.31",
+        "license_spdx": "MIT",
+        "open_issues": 39364,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-04T11:56:13Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> # Hermes Agent \u2624 <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/\">Hermes Agent</a> | <a href=\"https://hermes-agent.nousresearch.com/\">Hermes Desktop</a> </p> <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousRese",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "anthropic",
+          "chatgpt",
+          "claude",
+          "claude-code",
+          "codex",
+          "hermes",
+          "hermes-agent",
+          "llm",
+          "nous-research",
+          "openai"
+        ],
+        "updated_at": "2026-09-04T12:12:47Z"
+      },
+      "repo": {
+        "description": "The agent that grows with you",
+        "forks": 49439,
+        "full_name": "NousResearch/hermes-agent",
+        "language": "Python",
+        "name": "hermes-agent",
+        "owner": "NousResearch",
+        "rank": 7,
+        "stars_today": 774,
+        "total_stars": 241211,
+        "url": "https://github.com/NousResearch/hermes-agent"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.79,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 71.64
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 774 stars today; score 71.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-12T09:06:26Z",
+        "default_branch": "main",
+        "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+        "fork": false,
+        "full_name": "magnitudedev/magnitude",
+        "homepage": "https://magnitude.dev",
+        "latest_release": "@magnitudedev/cli@0.0.11",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 15,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-03T17:50:02Z",
+        "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/brand/icon-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"assets/brand/icon-light.svg\"> <img alt=\"Magnitude icon\" src=\"assets/brand/icon-light.svg\" width=\"120\"> </picture> </p> <h1 align=\"center\">Magnitude</h1> <p align=\"center\"><strong>Run your agent on local models. Free, private, and offline.</strong></p> <p align=\"center\"> <a href=\"https://docs.magnitude.dev\"><img src=\"https://img.shiel",
+        "topics": [],
+        "updated_at": "2026-09-04T12:07:37Z"
+      },
+      "repo": {
+        "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+        "forks": 150,
+        "full_name": "magnitudedev/magnitude",
+        "language": "TypeScript",
+        "name": "magnitude",
+        "owner": "magnitudedev",
+        "rank": 9,
+        "stars_today": 161,
+        "total_stars": 2152,
+        "url": "https://github.com/magnitudedev/magnitude"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.08,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 68.93
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 161 stars today; score 68.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-09T06:04:57Z",
+        "default_branch": "main",
+        "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+        "fork": false,
+        "full_name": "radixark/miles",
+        "homepage": "https://miles.radixark.com",
+        "latest_release": "v0.1.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 954,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-04T12:01:23Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/radixark/miles/main/docs/assets/images/brand/miles_logo.png\" alt=\"Miles Logo\" width=\"340\"> ### **Enterprise-Grade Reinforcement Learning for Large-Scale Model Post-Training** [![Website](https://img.shields.io/badge/website-miles.radixark.com-d55816)](https://miles.radixark.com/) [![GitHub Repo](https://img.shields.io/badge/github-radixark%2Fmiles-black?logo=github)](https://github.com/radixark/miles) [![Docs](https://img.shields.i",
+        "topics": [],
+        "updated_at": "2026-09-04T11:59:27Z"
+      },
+      "repo": {
+        "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+        "forks": 438,
+        "full_name": "radixark/miles",
+        "language": "Python",
+        "name": "miles",
+        "owner": "radixark",
+        "rank": 14,
+        "stars_today": 55,
+        "total_stars": 2465,
+        "url": "https://github.com/radixark/miles"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.95,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 67.75
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 55 stars today; score 67.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-16T18:01:16Z",
+        "default_branch": "main",
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "fork": false,
+        "full_name": "cathrynlavery/diagram-design",
+        "homepage": "https://cathrynlavery.github.io/diagram-design/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 38,
+        "primary_language": "HTML",
+        "pushed_at": "2026-09-03T02:53:29Z",
+        "readme_excerpt": "# Diagram Design **Editorial diagrams your designer won't hate.** <a href=\"https://trendshift.io/repositories/26141?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-26141\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/26141\" alt=\"cathrynlavery%2Fdiagram-design | Trendshift\" width=\"250\" height=\"55\"/></a> [![Content site architecture](docs/screenshots/thumbs/architecture.webp)](docs/screenshots/architecture.png) [",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "codex",
+          "data-visualization",
+          "diagrams",
+          "drawio",
+          "mermaid",
+          "svg"
+        ],
+        "updated_at": "2026-09-04T12:09:23Z"
+      },
+      "repo": {
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "forks": 1963,
+        "full_name": "cathrynlavery/diagram-design",
+        "language": "HTML",
+        "name": "diagram-design",
+        "owner": "cathrynlavery",
+        "rank": 17,
+        "stars_today": 426,
+        "total_stars": 30526,
+        "url": "https://github.com/cathrynlavery/diagram-design"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.98,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 64.58
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: HTML project with 426 stars today; score 64.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-04-29T21:26:26Z",
+        "default_branch": "master",
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "fork": false,
+        "full_name": "google-research/timesfm",
+        "homepage": "https://research.google/blog/a-decoder-only-foundation-model-for-time-series-forecasting/",
+        "latest_release": "v3.0.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 237,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-02T21:37:52Z",
+        "readme_excerpt": "# TimesFM TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. * Paper: [A decoder-only foundation model for time-series forecasting](https://arxiv.org/abs/2310.10688), ICML 2024. * <span style=\"color:red\">(NEW!)</span> TimesFM 3.0 Checkpoint: [`google/timesfm-3.0-pytorch`](https://huggingface.co/google/timesfm-3.0-pytorch). * Checkpoints (up to 2.5): [TimesFM Hugging Face Collection](https://huggingface.co/",
+        "topics": [],
+        "updated_at": "2026-09-04T12:08:00Z"
+      },
+      "repo": {
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "forks": 2945,
+        "full_name": "google-research/timesfm",
+        "language": "Python",
+        "name": "timesfm",
+        "owner": "google-research",
+        "rank": 13,
+        "stars_today": 1618,
+        "total_stars": 30887,
+        "url": "https://github.com/google-research/timesfm"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 8.26,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 64.36
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 1618 stars today; score 64.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-09T21:40:26Z",
+        "default_branch": "main",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "fork": false,
+        "full_name": "debpalash/VoiceStudio",
+        "homepage": "https://voicestudio.sh",
+        "latest_release": "v0.5.1",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 17,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-04T12:11:06Z",
+        "readme_excerpt": "<div align=\"center\"> <p><img src=\"docs/logo.png\" alt=\"VoiceStudio logo\" width=\"120\" height=\"120\" /></p> <h1>VoiceStudio</h1> <p> <a href=\"https://trendshift.io/repositories/28176?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-28176\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/28176\" alt=\"VoiceStudio ranking on Trendshift\" width=\"220\" height=\"48\" /></a> </p> <p><sub>Previously OmniVoice-Studio</sub></p> <h3>C",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "tauri",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "updated_at": "2026-09-04T12:11:36Z"
+      },
+      "repo": {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "forks": 2248,
+        "full_name": "debpalash/VoiceStudio",
+        "language": "Python",
+        "name": "VoiceStudio",
+        "owner": "debpalash",
+        "rank": 12,
+        "stars_today": 1672,
+        "total_stars": 16998,
+        "url": "https://github.com/debpalash/VoiceStudio"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 8.62,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 64.33
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1672 stars today; score 64.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-22T15:53:31Z",
+        "default_branch": "main",
+        "description": "Public repository for Agent Skills",
+        "fork": false,
+        "full_name": "anthropics/skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 1207,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-03T16:37:14Z",
+        "readme_excerpt": "> **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io). [![skills.sh](https://skills.sh/b/anthropics/skills)](https://skills.sh/anthropics/skills) # Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's",
+        "topics": [
+          "agent-skills"
+        ],
+        "updated_at": "2026-09-04T12:13:16Z"
+      },
+      "repo": {
+        "description": "Public repository for Agent Skills",
+        "forks": 20616,
+        "full_name": "anthropics/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "anthropics",
+        "rank": 5,
+        "stars_today": 281,
+        "total_stars": 173907,
+        "url": "https://github.com/anthropics/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.13,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 62.98
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Python project with 281 stars today; score 63.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-23T05:14:11Z",
+        "default_branch": "main",
+        "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+        "fork": false,
+        "full_name": "bikini/exploitarium",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 7,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-15T23:21:55Z",
+        "readme_excerpt": "# Statement This repo was incomplete when published. In regard to AI usage, my fuzzing workflow was automated by AI with a strict workflow. I used GPT-5.3 for ALL the fuzzing, as barely any \"thought\" is necessary when provided with an efficient workflow. Contrary to the growing narrative that I'm just some random child burning tokens, I DO actually have a degree in the subject and have published multiple papers on fuzzing methodology. I spent years researching and developing new tools and ideas ",
+        "topics": [],
+        "updated_at": "2026-09-04T12:12:45Z"
+      },
+      "repo": {
+        "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+        "forks": 1234,
+        "full_name": "bikini/exploitarium",
+        "language": "Python",
+        "name": "exploitarium",
+        "owner": "bikini",
+        "rank": 10,
+        "stars_today": 68,
+        "total_stars": 4381,
+        "url": "https://github.com/bikini/exploitarium"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.57,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 2.8,
+        "strategic_relevance": 3.01,
+        "technical_quality": 9.1,
+        "total": 53.06
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 68 stars today; score 53.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2012-12-07T16:26:46Z",
+        "default_branch": "main",
+        "description": "A modern formatting library",
+        "fork": false,
+        "full_name": "fmtlib/fmt",
+        "homepage": "https://fmt.dev",
+        "latest_release": "12.2.0",
+        "license_spdx": "MIT",
+        "open_issues": 13,
+        "primary_language": "C++",
+        "pushed_at": "2026-09-02T18:18:06Z",
+        "readme_excerpt": "<img src=\"https://user-images.githubusercontent.com/576385/156254208-f5b743a9-88cf-439d-b0c0-923d53e8d551.png\" alt=\"{fmt}\" width=\"25%\"/> [![image](https://github.com/fmtlib/fmt/actions/workflows/linux.yml/badge.svg?branch=master)]( https://github.com/fmtlib/fmt/actions?query=workflow%3Alinux) [![image](https://github.com/fmtlib/fmt/actions/workflows/macos.yml/badge.svg?branch=master)]( https://github.com/fmtlib/fmt/actions?query=workflow%3Amacos) [![image](https://github.com/fmtlib/fmt/actions/w",
+        "topics": [
+          "c-plus-plus",
+          "chrono",
+          "cpp",
+          "cross-platform",
+          "floating-point",
+          "formatting",
+          "multiplatform",
+          "output",
+          "performance",
+          "printf",
+          "ranges",
+          "unicode"
+        ],
+        "updated_at": "2026-09-04T12:11:35Z"
+      },
+      "repo": {
+        "description": "A modern formatting library",
+        "forks": 3025,
+        "full_name": "fmtlib/fmt",
+        "language": "C++",
+        "name": "fmt",
+        "owner": "fmtlib",
+        "rank": 3,
+        "stars_today": 963,
+        "total_stars": 25402,
+        "url": "https://github.com/fmtlib/fmt"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.11,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 50.97
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: C++ project with 963 stars today; score 51.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-02-05T15:39:11Z",
+        "default_branch": "main",
+        "description": "Renovation Engine for DirectX Games",
+        "fork": false,
+        "full_name": "clshortfuse/renodx",
+        "homepage": "https://renodx.com/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 85,
+        "primary_language": "HLSL",
+        "pushed_at": "2026-09-04T01:42:49Z",
+        "readme_excerpt": "[![Clang](https://github.com/clshortfuse/renodx/actions/workflows/clang-x64.yml/badge.svg)](https://github.com/clshortfuse/renodx/actions/workflows/clang-x64.yml) [![Ninja](https://github.com/clshortfuse/renodx/actions/workflows/ninja-x64.yml/badge.svg)](https://github.com/clshortfuse/renodx/actions/workflows/ninja-x64.yml) [![Visual Studio](https://github.com/clshortfuse/renodx/actions/workflows/visual-studio-x64.yml/badge.svg)](https://github.com/clshortfuse/renodx/actions/workflows/visual-stu",
+        "topics": [
+          "directx",
+          "games",
+          "hdr",
+          "mod"
+        ],
+        "updated_at": "2026-09-04T12:10:59Z"
+      },
+      "repo": {
+        "description": "Renovation Engine for DirectX Games",
+        "forks": 136,
+        "full_name": "clshortfuse/renodx",
+        "language": "HLSL",
+        "name": "renodx",
+        "owner": "clshortfuse",
+        "rank": 16,
+        "stars_today": 759,
+        "total_stars": 3407,
+        "url": "https://github.com/clshortfuse/renodx"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.44,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 50.0
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: HLSL project with 759 stars today; score 50.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "forks": 21069,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 1,
+        "stars_today": 1601,
+        "total_stars": 248827,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 9.92,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 42.87
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 1601 stars today; score 42.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-01-14T00:34:25Z",
+        "default_branch": "master",
+        "description": "\u7ffb\u5899-\u79d1\u5b66\u4e0a\u7f51",
+        "fork": false,
+        "full_name": "bannedbook/fanqiang",
+        "homepage": null,
+        "latest_release": "FQNews-v1.3.8",
+        "license_spdx": null,
+        "open_issues": 335,
+        "primary_language": "Kotlin",
+        "pushed_at": "2026-08-30T01:09:00Z",
+        "readme_excerpt": "# \u7ffb\u5899-\u79d1\u5b66\u4e0a\u7f51\u3001\u7ffb\u5899\u5de5\u5177\u3001\u7ffb\u5899\u6559\u7a0b\u9879\u76ee\u5e93 * [\u7ffb\u5899\u65b0\u95fb-FQNews-\u5b89\u5353APP](https://github.com/bannedbook/fanqiang/tree/master/fqnews2) * [\u5b89\u5353\u7ffb\u5899\u8f6f\u4ef6](https://github.com/bannedbook/fanqiang/wiki/%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) * [\u5b89\u5353\u7ffb\u5899APP\u6559\u7a0b](https://github.com/bannedbook/fanqiang/tree/master/android) * [Chrome\u4e00\u952e\u7ffb\u5899\u5305](https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85) * [Chrome\u4e00\u952e\u7ffb\u5899\u5305 Mac\u7248](https://github.com/bannedbook/fanqiang/tree/master/ChromeGoMac#chromegomacch",
+        "topics": [
+          "brook",
+          "daze",
+          "fanqiang",
+          "goflyway",
+          "lightsocks",
+          "proxy",
+          "psiphon",
+          "shadowsocks",
+          "ssr",
+          "trojan",
+          "v2ray"
+        ],
+        "updated_at": "2026-09-04T12:12:33Z"
+      },
+      "repo": {
+        "description": "\u7ffb\u5899-\u79d1\u5b66\u4e0a\u7f51",
+        "forks": 8511,
+        "full_name": "bannedbook/fanqiang",
+        "language": "Kotlin",
+        "name": "fanqiang",
+        "owner": "bannedbook",
+        "rank": 11,
+        "stars_today": 522,
+        "total_stars": 52601,
+        "url": "https://github.com/bannedbook/fanqiang"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.22,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.2,
+        "strategic_relevance": 1.72,
+        "technical_quality": 11.2,
+        "total": 41.19
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: Kotlin project with 522 stars today; score 41.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/DietrichGebert",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "forks": 6708,
+        "full_name": "sponsors/DietrichGebert",
+        "language": "JavaScript",
+        "name": "DietrichGebert",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 2128,
+        "total_stars": 124368,
+        "url": "https://github.com/sponsors/DietrichGebert"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 11.86,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.84,
+        "technical_quality": 3.5,
+        "total": 40.88
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 2128 stars today; score 40.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 37340,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 751,
+        "total_stars": 247792,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.13,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 39.08
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 751 stars today; score 39.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/anomalyco",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The open source coding agent.",
+        "forks": 26586,
+        "full_name": "sponsors/anomalyco",
+        "language": "TypeScript",
+        "name": "anomalyco",
+        "owner": "sponsors",
+        "rank": 15,
+        "stars_today": 314,
+        "total_stars": 203736,
+        "url": "https://github.com/sponsors/anomalyco"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.82,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 31.97
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 314 stars today; score 32.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/JuliusBrussee",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman",
+        "forks": 6000,
+        "full_name": "sponsors/JuliusBrussee",
+        "language": "Go",
+        "name": "JuliusBrussee",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 543,
+        "total_stars": 103360,
+        "url": "https://github.com/sponsors/JuliusBrussee"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.74,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 28.69
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Go project with 543 stars today; score 28.7/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-09-04",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is radixark/miles."
+}
