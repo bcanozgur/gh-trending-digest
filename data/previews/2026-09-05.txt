@@ -1,0 +1,29 @@
+GitHub Trending: AI workflow signal - 2026-09-05
+
+Today leans toward AI workflow signal; the strongest pick is ruvnet/ruflo.
+
+Top picks
+1. ruvnet/ruflo - 75.1/100
+   https://github.com/ruvnet/ruflo
+   AI Workflow, DevTools: TypeScript project with 127 stars today; score 75.1/100.
+2. WorldFlowAI/everything-claude-code - 63.3/100
+   https://github.com/WorldFlowAI/everything-claude-code
+   AI Workflow, Deep Dive: JavaScript project with 87 stars today; score 63.3/100.
+3. humanlayer/skills - 59.1/100
+   https://github.com/humanlayer/skills
+   AI Workflow, Deep Dive: TypeScript project with 1141 stars today; score 59.1/100.
+4. BraveOPotato/FckSignups - 55.5/100
+   https://github.com/BraveOPotato/FckSignups
+   AI Workflow, Try Today: TypeScript project with 50 stars today; score 55.5/100.
+5. nvm-sh/nvm - 47.1/100
+   https://github.com/nvm-sh/nvm
+   DevTools, Try Today: Shell project with 17 stars today; score 47.1/100.
+
+Full reviewed list
+- ruvnet/ruflo: 75.1/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 127 stars today; score 75.1/100.
+- WorldFlowAI/everything-claude-code: 63.3/100 [AI Workflow, Deep Dive] AI Workflow, Deep Dive: JavaScript project with 87 stars today; score 63.3/100.
+- humanlayer/skills: 59.1/100 [AI Workflow, Deep Dive] AI Workflow, Deep Dive: TypeScript project with 1141 stars today; score 59.1/100.
+- BraveOPotato/FckSignups: 55.5/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 50 stars today; score 55.5/100.
+- nvm-sh/nvm: 47.1/100 [DevTools, Try Today] DevTools, Try Today: Shell project with 17 stars today; score 47.1/100.
+
+Generated for 2026-09-05 from GitHub Trending daily.

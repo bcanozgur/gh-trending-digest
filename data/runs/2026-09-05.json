@@ -1,0 +1,1149 @@
+{
+  "date": "2026-09-05",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-06-02T21:24:20Z",
+        "default_branch": "main",
+        "description": "\ud83c\udf0a The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "fork": false,
+        "full_name": "ruvnet/ruflo",
+        "homepage": "https://Cognitum.One",
+        "latest_release": "v3.38.21",
+        "license_spdx": "MIT",
+        "open_issues": 916,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-05T06:22:50Z",
+        "readme_excerpt": "<div align=\"center\"> [![Ruflo Banner](ruflo/assets/ruflo-small.jpeg)](https://cognitum.one/agentic-engineering) <!-- Try Ruflo \u2014 the 4 badges first-time visitors actually act on --> [![Try the UI Beta \u2014 flo.ruv.io](https://img.shields.io/badge/_Try_the_UI_Beta-flo.ruv.io-6366f1?style=for-the-badge&logoColor=white&logo=svelte)](https://flo.ruv.io/) [![npm version (ruflo)](https://img.shields.io/npm/v/ruflo?label=npx%20ruflo&style=for-the-badge&logo=npm&color=cb3837)](https://www.npmjs.com/package",
+        "topics": [
+          "agentic-ai",
+          "agentic-framework",
+          "agentic-workflow",
+          "agents",
+          "ai-agents",
+          "ai-assistant",
+          "ai-skills",
+          "autonomous-agents",
+          "claude-code",
+          "codex",
+          "dsh-plugin",
+          "harness",
+          "mcp-server",
+          "multi-agent",
+          "multi-agent-systems",
+          "npm",
+          "skills",
+          "swarm",
+          "swarm-intelligence",
+          "typescript"
+        ],
+        "updated_at": "2026-09-05T11:19:44Z"
+      },
+      "repo": {
+        "description": "\ud83c\udf0a The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "forks": 8404,
+        "full_name": "ruvnet/ruflo",
+        "language": "TypeScript",
+        "name": "ruflo",
+        "owner": "ruvnet",
+        "rank": 9,
+        "stars_today": 127,
+        "total_stars": 70543,
+        "url": "https://github.com/ruvnet/ruflo"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.83,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 75.13
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 127 stars today; score 75.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-23T12:41:36Z",
+        "default_branch": "main",
+        "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+        "fork": false,
+        "full_name": "WorldFlowAI/everything-claude-code",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 8,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-01-23T12:42:00Z",
+        "readme_excerpt": "# Everything Claude Code [![Stars](https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat)](https://github.com/affaan-m/everything-claude-code/stargazers) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdow",
+        "topics": [],
+        "updated_at": "2026-09-05T11:21:35Z"
+      },
+      "repo": {
+        "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+        "forks": 352,
+        "full_name": "WorldFlowAI/everything-claude-code",
+        "language": "JavaScript",
+        "name": "everything-claude-code",
+        "owner": "WorldFlowAI",
+        "rank": 13,
+        "stars_today": 87,
+        "total_stars": 2151,
+        "url": "https://github.com/WorldFlowAI/everything-claude-code"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.14,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 6.79,
+        "technical_quality": 9.1,
+        "total": 63.34
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: JavaScript project with 87 stars today; score 63.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-18T03:23:23Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "humanlayer/skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 5,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-13T15:05:30Z",
+        "readme_excerpt": "# skills Claude Code skills from [HumanLayer](https://humanlayer.dev). ## Installation ```bash npx skills add humanlayer/skills --skill SKILLNAME ``` ## Available Skills ### improve-claude-md Rewrites your CLAUDE.md using `<important if>` blocks to improve instruction adherence. ```bash npx skills add humanlayer/skills --skill improve-claude-md ``` Then in your project: ``` /improve-claude-md ``` ### narrow-react-prop-types Narrows React component prop types to match live code paths instead of S",
+        "topics": [],
+        "updated_at": "2026-09-05T11:18:17Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 70,
+        "full_name": "humanlayer/skills",
+        "language": "TypeScript",
+        "name": "skills",
+        "owner": "humanlayer",
+        "rank": 10,
+        "stars_today": 1141,
+        "total_stars": 2448,
+        "url": "https://github.com/humanlayer/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 6.16,
+        "momentum": 5.78,
+        "novelty": 8.0,
+        "practical_usefulness": 7.48,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 59.12
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: TypeScript project with 1141 stars today; score 59.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-07T19:05:56Z",
+        "default_branch": "main",
+        "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+        "fork": false,
+        "full_name": "BraveOPotato/FckSignups",
+        "homepage": "https://nosignups.net",
+        "latest_release": null,
+        "license_spdx": "GPL-3.0",
+        "open_issues": 438,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-22T01:59:09Z",
+        "readme_excerpt": "# NoSignups ## (formerly FckSignups) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hbDDqdmcm) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/fucksignups/) > **Open Source Tools. Zero Bullsh*t.** A curated collection of open-source tools you can use instantly in your browser. no accounts, no emails, no tracking. Just tools that wo",
+        "topics": [],
+        "updated_at": "2026-09-05T11:13:59Z"
+      },
+      "repo": {
+        "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+        "forks": 190,
+        "full_name": "BraveOPotato/FckSignups",
+        "language": "TypeScript",
+        "name": "FckSignups",
+        "owner": "BraveOPotato",
+        "rank": 12,
+        "stars_today": 50,
+        "total_stars": 2637,
+        "url": "https://github.com/BraveOPotato/FckSignups"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.17,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 55.47
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 50 stars today; score 55.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2010-04-15T17:47:47Z",
+        "default_branch": "master",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+        "fork": false,
+        "full_name": "nvm-sh/nvm",
+        "homepage": null,
+        "latest_release": "v0.40.7",
+        "license_spdx": "MIT",
+        "open_issues": 390,
+        "primary_language": "Shell",
+        "pushed_at": "2026-09-04T22:40:55Z",
+        "readme_excerpt": "<a href=\"https://github.com/nvm-sh/logos\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-white.svg\" /> <img src=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-color.svg\" height=\"50\" alt=\"nvm project logo\" /> </picture> </a> # Node Version Manager [![Tests](https://github.com/nvm-sh/nvm/actions/workflows/tests-fast.yml/badge.svg?branch=master)][3] [![nvm version](https://img.shields.io/badge/version-v0.40",
+        "topics": [
+          "bash",
+          "install",
+          "lts",
+          "node",
+          "node-js",
+          "nodejs",
+          "nvm",
+          "nvmrc",
+          "posix",
+          "posix-compliant",
+          "shell",
+          "version-manager",
+          "zsh"
+        ],
+        "updated_at": "2026-09-05T11:06:43Z"
+      },
+      "repo": {
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+        "forks": 10420,
+        "full_name": "nvm-sh/nvm",
+        "language": "Shell",
+        "name": "nvm",
+        "owner": "nvm-sh",
+        "rank": 16,
+        "stars_today": 17,
+        "total_stars": 94840,
+        "url": "https://github.com/nvm-sh/nvm"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 1.49,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 47.09
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Shell project with 17 stars today; score 47.1/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-06-02T21:24:20Z",
+        "default_branch": "main",
+        "description": "\ud83c\udf0a The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "fork": false,
+        "full_name": "ruvnet/ruflo",
+        "homepage": "https://Cognitum.One",
+        "latest_release": "v3.38.21",
+        "license_spdx": "MIT",
+        "open_issues": 916,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-05T06:22:50Z",
+        "readme_excerpt": "<div align=\"center\"> [![Ruflo Banner](ruflo/assets/ruflo-small.jpeg)](https://cognitum.one/agentic-engineering) <!-- Try Ruflo \u2014 the 4 badges first-time visitors actually act on --> [![Try the UI Beta \u2014 flo.ruv.io](https://img.shields.io/badge/_Try_the_UI_Beta-flo.ruv.io-6366f1?style=for-the-badge&logoColor=white&logo=svelte)](https://flo.ruv.io/) [![npm version (ruflo)](https://img.shields.io/npm/v/ruflo?label=npx%20ruflo&style=for-the-badge&logo=npm&color=cb3837)](https://www.npmjs.com/package",
+        "topics": [
+          "agentic-ai",
+          "agentic-framework",
+          "agentic-workflow",
+          "agents",
+          "ai-agents",
+          "ai-assistant",
+          "ai-skills",
+          "autonomous-agents",
+          "claude-code",
+          "codex",
+          "dsh-plugin",
+          "harness",
+          "mcp-server",
+          "multi-agent",
+          "multi-agent-systems",
+          "npm",
+          "skills",
+          "swarm",
+          "swarm-intelligence",
+          "typescript"
+        ],
+        "updated_at": "2026-09-05T11:19:44Z"
+      },
+      "repo": {
+        "description": "\ud83c\udf0a The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "forks": 8404,
+        "full_name": "ruvnet/ruflo",
+        "language": "TypeScript",
+        "name": "ruflo",
+        "owner": "ruvnet",
+        "rank": 9,
+        "stars_today": 127,
+        "total_stars": 70543,
+        "url": "https://github.com/ruvnet/ruflo"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.83,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 75.13
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 127 stars today; score 75.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-18T05:30:15Z",
+        "default_branch": "main",
+        "description": "Agent skill that removes signs of AI-generated writing from text",
+        "fork": false,
+        "full_name": "blader/humanizer",
+        "homepage": "https://skills.sh/blader/humanizer",
+        "latest_release": "v2.11.1",
+        "license_spdx": "MIT",
+        "open_issues": 35,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-19T05:58:53Z",
+        "readme_excerpt": "# Humanizer [![skills.sh installs](https://skills.sh/b/blader/humanizer)](https://skills.sh/blader/humanizer) Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is just Markdown, it works with any agent that supports skills. ## How it works Humanizer uses 35 patterns from Wikipedia's [\"Signs of AI writing\"](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing), maintained by WikiProject AI Cleanup. It makes a first pass withou",
+        "topics": [
+          "agent-skills",
+          "ai-writing",
+          "claude-code",
+          "codex",
+          "cursor",
+          "prompt-engineering",
+          "writing-tools"
+        ],
+        "updated_at": "2026-09-05T11:20:34Z"
+      },
+      "repo": {
+        "description": "Agent skill that removes signs of AI-generated writing from text",
+        "forks": 3624,
+        "full_name": "blader/humanizer",
+        "language": "Python",
+        "name": "humanizer",
+        "owner": "blader",
+        "rank": 11,
+        "stars_today": 1130,
+        "total_stars": 43084,
+        "url": "https://github.com/blader/humanizer"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 5.6,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 73.49
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 1130 stars today; score 73.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-07-22T22:22:28Z",
+        "default_branch": "main",
+        "description": "The agent that grows with you",
+        "fork": false,
+        "full_name": "NousResearch/hermes-agent",
+        "homepage": "https://hermes-agent.nousresearch.com",
+        "latest_release": "v2026.8.31",
+        "license_spdx": "MIT",
+        "open_issues": 39848,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-05T11:16:00Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"assets/banner.png\" alt=\"Hermes Agent\" width=\"100%\"> </p> # Hermes Agent \u2624 <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/\">Hermes Agent</a> | <a href=\"https://hermes-agent.nousresearch.com/\">Hermes Desktop</a> </p> <p align=\"center\"> <a href=\"https://hermes-agent.nousresearch.com/docs/\"><img src=\"https://img.shields.io/badge/Docs-hermes--agent.nousresearch.com-FFD700?style=for-the-badge\" alt=\"Documentation\"></a> <a href=\"https://discord.gg/NousRese",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "anthropic",
+          "chatgpt",
+          "claude",
+          "claude-code",
+          "codex",
+          "hermes",
+          "hermes-agent",
+          "llm",
+          "nous-research",
+          "openai"
+        ],
+        "updated_at": "2026-09-05T11:21:20Z"
+      },
+      "repo": {
+        "description": "The agent that grows with you",
+        "forks": 49620,
+        "full_name": "NousResearch/hermes-agent",
+        "language": "Python",
+        "name": "hermes-agent",
+        "owner": "NousResearch",
+        "rank": 4,
+        "stars_today": 720,
+        "total_stars": 241722,
+        "url": "https://github.com/NousResearch/hermes-agent"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.36,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 71.21
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 720 stars today; score 71.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-12T09:06:26Z",
+        "default_branch": "main",
+        "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+        "fork": false,
+        "full_name": "magnitudedev/magnitude",
+        "homepage": "https://magnitude.dev",
+        "latest_release": "@magnitudedev/cli@0.0.11",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 18,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-05T06:36:41Z",
+        "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/brand/icon-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"assets/brand/icon-light.svg\"> <img alt=\"Magnitude icon\" src=\"assets/brand/icon-light.svg\" width=\"120\"> </picture> </p> <h1 align=\"center\">Magnitude</h1> <p align=\"center\"><strong>Run your agent on local models. Free, private, and offline.</strong></p> <p align=\"center\"> <a href=\"https://docs.magnitude.dev\"><img src=\"https://img.shiel",
+        "topics": [],
+        "updated_at": "2026-09-05T11:21:04Z"
+      },
+      "repo": {
+        "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+        "forks": 200,
+        "full_name": "magnitudedev/magnitude",
+        "language": "TypeScript",
+        "name": "magnitude",
+        "owner": "magnitudedev",
+        "rank": 14,
+        "stars_today": 391,
+        "total_stars": 2804,
+        "url": "https://github.com/magnitudedev/magnitude"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.92,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 68.77
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 391 stars today; score 68.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-16T18:01:16Z",
+        "default_branch": "main",
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "fork": false,
+        "full_name": "cathrynlavery/diagram-design",
+        "homepage": "https://cathrynlavery.github.io/diagram-design/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 42,
+        "primary_language": "HTML",
+        "pushed_at": "2026-09-03T02:53:29Z",
+        "readme_excerpt": "# Diagram Design **Editorial diagrams your designer won't hate.** <a href=\"https://trendshift.io/repositories/26141?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-26141\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/26141\" alt=\"cathrynlavery%2Fdiagram-design | Trendshift\" width=\"250\" height=\"55\"/></a> [![Content site architecture](docs/screenshots/thumbs/architecture.webp)](docs/screenshots/architecture.png) [",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "codex",
+          "data-visualization",
+          "diagrams",
+          "drawio",
+          "mermaid",
+          "svg"
+        ],
+        "updated_at": "2026-09-05T11:15:47Z"
+      },
+      "repo": {
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "forks": 2020,
+        "full_name": "cathrynlavery/diagram-design",
+        "language": "HTML",
+        "name": "diagram-design",
+        "owner": "cathrynlavery",
+        "rank": 7,
+        "stars_today": 437,
+        "total_stars": 31327,
+        "url": "https://github.com/cathrynlavery/diagram-design"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.07,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 65.67
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: HTML project with 437 stars today; score 65.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-23T12:41:36Z",
+        "default_branch": "main",
+        "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+        "fork": false,
+        "full_name": "WorldFlowAI/everything-claude-code",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 8,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-01-23T12:42:00Z",
+        "readme_excerpt": "# Everything Claude Code [![Stars](https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat)](https://github.com/affaan-m/everything-claude-code/stargazers) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdow",
+        "topics": [],
+        "updated_at": "2026-09-05T11:21:35Z"
+      },
+      "repo": {
+        "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+        "forks": 352,
+        "full_name": "WorldFlowAI/everything-claude-code",
+        "language": "JavaScript",
+        "name": "everything-claude-code",
+        "owner": "WorldFlowAI",
+        "rank": 13,
+        "stars_today": 87,
+        "total_stars": 2151,
+        "url": "https://github.com/WorldFlowAI/everything-claude-code"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.14,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 6.79,
+        "technical_quality": 9.1,
+        "total": 63.34
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: JavaScript project with 87 stars today; score 63.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-22T15:53:31Z",
+        "default_branch": "main",
+        "description": "Public repository for Agent Skills",
+        "fork": false,
+        "full_name": "anthropics/skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 1207,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-03T16:37:14Z",
+        "readme_excerpt": "> **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io). [![skills.sh](https://skills.sh/b/anthropics/skills)](https://skills.sh/anthropics/skills) # Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's",
+        "topics": [
+          "agent-skills"
+        ],
+        "updated_at": "2026-09-05T11:17:07Z"
+      },
+      "repo": {
+        "description": "Public repository for Agent Skills",
+        "forks": 20648,
+        "full_name": "anthropics/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "anthropics",
+        "rank": 6,
+        "stars_today": 511,
+        "total_stars": 174339,
+        "url": "https://github.com/anthropics/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.44,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 63.29
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Python project with 511 stars today; score 63.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-18T03:23:23Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "humanlayer/skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 5,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-13T15:05:30Z",
+        "readme_excerpt": "# skills Claude Code skills from [HumanLayer](https://humanlayer.dev). ## Installation ```bash npx skills add humanlayer/skills --skill SKILLNAME ``` ## Available Skills ### improve-claude-md Rewrites your CLAUDE.md using `<important if>` blocks to improve instruction adherence. ```bash npx skills add humanlayer/skills --skill improve-claude-md ``` Then in your project: ``` /improve-claude-md ``` ### narrow-react-prop-types Narrows React component prop types to match live code paths instead of S",
+        "topics": [],
+        "updated_at": "2026-09-05T11:18:17Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 70,
+        "full_name": "humanlayer/skills",
+        "language": "TypeScript",
+        "name": "skills",
+        "owner": "humanlayer",
+        "rank": 10,
+        "stars_today": 1141,
+        "total_stars": 2448,
+        "url": "https://github.com/humanlayer/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 6.16,
+        "momentum": 5.78,
+        "novelty": 8.0,
+        "practical_usefulness": 7.48,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 59.12
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: TypeScript project with 1141 stars today; score 59.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-07T19:05:56Z",
+        "default_branch": "main",
+        "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+        "fork": false,
+        "full_name": "BraveOPotato/FckSignups",
+        "homepage": "https://nosignups.net",
+        "latest_release": null,
+        "license_spdx": "GPL-3.0",
+        "open_issues": 438,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-22T01:59:09Z",
+        "readme_excerpt": "# NoSignups ## (formerly FckSignups) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hbDDqdmcm) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/fucksignups/) > **Open Source Tools. Zero Bullsh*t.** A curated collection of open-source tools you can use instantly in your browser. no accounts, no emails, no tracking. Just tools that wo",
+        "topics": [],
+        "updated_at": "2026-09-05T11:13:59Z"
+      },
+      "repo": {
+        "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+        "forks": 190,
+        "full_name": "BraveOPotato/FckSignups",
+        "language": "TypeScript",
+        "name": "FckSignups",
+        "owner": "BraveOPotato",
+        "rank": 12,
+        "stars_today": 50,
+        "total_stars": 2637,
+        "url": "https://github.com/BraveOPotato/FckSignups"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.17,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 55.47
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 50 stars today; score 55.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2012-12-07T16:26:46Z",
+        "default_branch": "main",
+        "description": "A modern formatting library",
+        "fork": false,
+        "full_name": "fmtlib/fmt",
+        "homepage": "https://fmt.dev",
+        "latest_release": "12.2.0",
+        "license_spdx": "MIT",
+        "open_issues": 18,
+        "primary_language": "C++",
+        "pushed_at": "2026-09-04T23:27:22Z",
+        "readme_excerpt": "<img src=\"https://user-images.githubusercontent.com/576385/156254208-f5b743a9-88cf-439d-b0c0-923d53e8d551.png\" alt=\"{fmt}\" width=\"25%\"/> [![image](https://github.com/fmtlib/fmt/actions/workflows/linux.yml/badge.svg?branch=master)]( https://github.com/fmtlib/fmt/actions?query=workflow%3Alinux) [![image](https://github.com/fmtlib/fmt/actions/workflows/macos.yml/badge.svg?branch=master)]( https://github.com/fmtlib/fmt/actions?query=workflow%3Amacos) [![image](https://github.com/fmtlib/fmt/actions/w",
+        "topics": [
+          "c-plus-plus",
+          "chrono",
+          "cpp",
+          "cross-platform",
+          "floating-point",
+          "formatting",
+          "multiplatform",
+          "output",
+          "performance",
+          "printf",
+          "ranges",
+          "unicode"
+        ],
+        "updated_at": "2026-09-05T10:31:05Z"
+      },
+      "repo": {
+        "description": "A modern formatting library",
+        "forks": 3037,
+        "full_name": "fmtlib/fmt",
+        "language": "C++",
+        "name": "fmt",
+        "owner": "fmtlib",
+        "rank": 5,
+        "stars_today": 688,
+        "total_stars": 25523,
+        "url": "https://github.com/fmtlib/fmt"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.12,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 48.98
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: C++ project with 688 stars today; score 49.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-23T05:14:11Z",
+        "default_branch": "main",
+        "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+        "fork": false,
+        "full_name": "bikini/exploitarium",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 7,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-15T23:21:55Z",
+        "readme_excerpt": "# Statement This repo was incomplete when published. In regard to AI usage, my fuzzing workflow was automated by AI with a strict workflow. I used GPT-5.3 for ALL the fuzzing, as barely any \"thought\" is necessary when provided with an efficient workflow. Contrary to the growing narrative that I'm just some random child burning tokens, I DO actually have a degree in the subject and have published multiple papers on fuzzing methodology. I spent years researching and developing new tools and ideas ",
+        "topics": [],
+        "updated_at": "2026-09-05T11:21:37Z"
+      },
+      "repo": {
+        "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+        "forks": 1249,
+        "full_name": "bikini/exploitarium",
+        "language": "Python",
+        "name": "exploitarium",
+        "owner": "bikini",
+        "rank": 15,
+        "stars_today": 74,
+        "total_stars": 4603,
+        "url": "https://github.com/bikini/exploitarium"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 8.96,
+        "momentum": 1.81,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 2.8,
+        "strategic_relevance": 3.01,
+        "technical_quality": 9.1,
+        "total": 47.1
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 74 stars today; score 47.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2010-04-15T17:47:47Z",
+        "default_branch": "master",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+        "fork": false,
+        "full_name": "nvm-sh/nvm",
+        "homepage": null,
+        "latest_release": "v0.40.7",
+        "license_spdx": "MIT",
+        "open_issues": 390,
+        "primary_language": "Shell",
+        "pushed_at": "2026-09-04T22:40:55Z",
+        "readme_excerpt": "<a href=\"https://github.com/nvm-sh/logos\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-white.svg\" /> <img src=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-color.svg\" height=\"50\" alt=\"nvm project logo\" /> </picture> </a> # Node Version Manager [![Tests](https://github.com/nvm-sh/nvm/actions/workflows/tests-fast.yml/badge.svg?branch=master)][3] [![nvm version](https://img.shields.io/badge/version-v0.40",
+        "topics": [
+          "bash",
+          "install",
+          "lts",
+          "node",
+          "node-js",
+          "nodejs",
+          "nvm",
+          "nvmrc",
+          "posix",
+          "posix-compliant",
+          "shell",
+          "version-manager",
+          "zsh"
+        ],
+        "updated_at": "2026-09-05T11:06:43Z"
+      },
+      "repo": {
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+        "forks": 10420,
+        "full_name": "nvm-sh/nvm",
+        "language": "Shell",
+        "name": "nvm",
+        "owner": "nvm-sh",
+        "rank": 16,
+        "stars_today": 17,
+        "total_stars": 94840,
+        "url": "https://github.com/nvm-sh/nvm"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 1.49,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 47.09
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Shell project with 17 stars today; score 47.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "forks": 21235,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 1,
+        "stars_today": 2758,
+        "total_stars": 251368,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 44.95
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 2758 stars today; score 45.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 37528,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 1135,
+        "total_stars": 248998,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.91,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 39.86
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 1135 stars today; score 39.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/DietrichGebert",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "forks": 6808,
+        "full_name": "sponsors/DietrichGebert",
+        "language": "JavaScript",
+        "name": "DietrichGebert",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 1679,
+        "total_stars": 127090,
+        "url": "https://github.com/sponsors/DietrichGebert"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 8.43,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 36.88
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 1679 stars today; score 36.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/anomalyco",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The open source coding agent.",
+        "forks": 26660,
+        "full_name": "sponsors/anomalyco",
+        "language": "TypeScript",
+        "name": "anomalyco",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 345,
+        "total_stars": 204394,
+        "url": "https://github.com/sponsors/anomalyco"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.64,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 27.59
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 345 stars today; score 27.6/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-09-05",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is ruvnet/ruflo."
+}
