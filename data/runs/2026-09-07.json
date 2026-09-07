@@ -1,0 +1,1384 @@
+{
+  "date": "2026-09-07",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-05-07T02:50:19Z",
+        "default_branch": "main",
+        "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+        "fork": false,
+        "full_name": "bytedance/deer-flow",
+        "homepage": "https://deerflow.tech",
+        "latest_release": "v2.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 896,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-07T10:43:01Z",
+        "readme_excerpt": "# \ud83e\udd8c DeerFlow - 2.0 English | [\u4e2d\u6587](./README_zh.md) | [\u65e5\u672c\u8a9e](./README_ja.md) | [Fran\u00e7ais](./README_fr.md) | [\u0420\u0443\u0441\u0441\u043a\u0438\u0439](./README_ru.md) [![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?logo=python&logoColor=white)](./backend/pyproject.toml) [![Node.js](https://img.shields.io/badge/Node.js-22%2B-339933?logo=node.js&logoColor=white)](./Makefile) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) <a href=\"https://trendshift.io/repositories/14699\" target=\"_blan",
+        "topics": [
+          "agent",
+          "agentic",
+          "agentic-framework",
+          "agentic-workflow",
+          "ai",
+          "ai-agents",
+          "deep-research",
+          "harness",
+          "langchain",
+          "langgraph",
+          "langmanus",
+          "llm",
+          "multi-agent",
+          "nodejs",
+          "podcast",
+          "python",
+          "superagent",
+          "typescript"
+        ],
+        "updated_at": "2026-09-07T13:36:08Z"
+      },
+      "repo": {
+        "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+        "forks": 11284,
+        "full_name": "bytedance/deer-flow",
+        "language": "Python",
+        "name": "deer-flow",
+        "owner": "bytedance",
+        "rank": 10,
+        "stars_today": 188,
+        "total_stars": 81698,
+        "url": "https://github.com/bytedance/deer-flow"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.13,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 77.03
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 188 stars today; score 77.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-26T07:31:13Z",
+        "default_branch": "master",
+        "description": "Stealth headless browser for AI agents \u2014 bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+        "fork": false,
+        "full_name": "jo-inc/camofox-browser",
+        "homepage": "https://github.com/jo-inc/camofox-browser#readme",
+        "latest_release": "camoufox-backup-380139564",
+        "license_spdx": "MIT",
+        "open_issues": 123,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-06T03:30:20Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"fox.png\" alt=\"camofox-browser\" width=\"200\" /> <h1>camofox-browser</h1> <p><strong>Anti-detection browser server for AI agents, powered by Camoufox</strong></p> <p> <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/License-MIT-yellow.svg\" alt=\"License: MIT\" /></a> <a href=\"https://github.com/jo-inc/camofox-browser/stargazers\"><img src=\"https://img.shields.io/github/stars/jo-inc/camofox-browser\" alt=\"GitHub stars\" /></a> <a href=\"https://www.npmjs.com/package/",
+        "topics": [
+          "ai-agent",
+          "anti-bot",
+          "antidetect-browser",
+          "automation",
+          "bot-detection",
+          "browser-automation",
+          "cloudflare-bypass",
+          "headless-browser",
+          "javascript",
+          "nodejs",
+          "playwright",
+          "puppeteer",
+          "scraping",
+          "stealth-browser",
+          "web-scraping"
+        ],
+        "updated_at": "2026-09-07T13:36:09Z"
+      },
+      "repo": {
+        "description": "Stealth headless browser for AI agents \u2014 bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+        "forks": 1003,
+        "full_name": "jo-inc/camofox-browser",
+        "language": "JavaScript",
+        "name": "camofox-browser",
+        "owner": "jo-inc",
+        "rank": 4,
+        "stars_today": 117,
+        "total_stars": 9356,
+        "url": "https://github.com/jo-inc/camofox-browser"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.68,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 73.98
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 117 stars today; score 74.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-02-07T15:19:34Z",
+        "default_branch": "main",
+        "description": "Lightpanda: the headless browser designed for AI and automation",
+        "fork": false,
+        "full_name": "lightpanda-io/browser",
+        "homepage": "https://lightpanda.io",
+        "latest_release": "nightly",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 87,
+        "primary_language": "Zig",
+        "pushed_at": "2026-09-07T13:34:25Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://lightpanda.io\"><img src=\"https://cdn.lightpanda.io/assets/images/logo/lpd-logo.png\" alt=\"Logo\" height=170></a> </p> <h1 align=\"center\">Lightpanda Browser</h1> <p align=\"center\"> <strong>The headless browser built from scratch for AI agents and automation.</strong><br> Not a Chromium fork. Not a WebKit patch. A new browser, written in Zig. </p> </div> <div align=\"center\"> [![License](https://img.shields.io/github/license/lightpanda-io/browser)](https://github.c",
+        "topics": [
+          "browser",
+          "browser-automation",
+          "cdp",
+          "headless",
+          "lightpanda",
+          "playwright",
+          "puppeteer",
+          "zig"
+        ],
+        "updated_at": "2026-09-07T13:36:52Z"
+      },
+      "repo": {
+        "description": "Lightpanda: the headless browser designed for AI and automation",
+        "forks": 1641,
+        "full_name": "lightpanda-io/browser",
+        "language": "Zig",
+        "name": "browser",
+        "owner": "lightpanda-io",
+        "rank": 12,
+        "stars_today": 116,
+        "total_stars": 34654,
+        "url": "https://github.com/lightpanda-io/browser"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.53,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 72.83
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Zig project with 116 stars today; score 72.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-10T01:51:06Z",
+        "default_branch": "main",
+        "description": "Write HTML. Render video. Built for agents.",
+        "fork": false,
+        "full_name": "heygen-com/hyperframes",
+        "homepage": null,
+        "latest_release": "v0.8.30",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 173,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-07T06:34:53Z",
+        "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/logo/dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/logo/light.svg\"> <img alt=\"HyperFrames\" src=\"docs/logo/light.svg\" width=\"300\"> </picture> </p> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/hyperframes\"><img src=\"https://img.shields.io/npm/v/hyperframes.svg?style=flat\" alt=\"npm version\"></a> <a href=\"https://www.npmjs.com/package/hyperframes\"><img src=\"https://img.shields.",
+        "topics": [
+          "ai",
+          "animation",
+          "ffmpeg",
+          "framework",
+          "gsap",
+          "html",
+          "mcp",
+          "puppeteer",
+          "rendering",
+          "typescript",
+          "video"
+        ],
+        "updated_at": "2026-09-07T13:37:47Z"
+      },
+      "repo": {
+        "description": "Write HTML. Render video. Built for agents.",
+        "forks": 4274,
+        "full_name": "heygen-com/hyperframes",
+        "language": "TypeScript",
+        "name": "hyperframes",
+        "owner": "heygen-com",
+        "rank": 1,
+        "stars_today": 220,
+        "total_stars": 44897,
+        "url": "https://github.com/heygen-com/hyperframes"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.57,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 69.32
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 220 stars today; score 69.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-11-13T19:56:40Z",
+        "default_branch": "main",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "fork": false,
+        "full_name": "microsoft/markitdown",
+        "homepage": null,
+        "latest_release": "v0.1.7",
+        "license_spdx": "MIT",
+        "open_issues": 612,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-07T04:58:15Z",
+        "readme_excerpt": "# MarkItDown [![PyPI](https://img.shields.io/pypi/v/markitdown.svg)](https://pypi.org/project/markitdown/) ![PyPI - Downloads](https://img.shields.io/pypi/dd/markitdown) > [!IMPORTANT] > MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access resources that the process itself can access. Sanitize your inputs in untrusted environments, and call the narrowest `convert_*` function needed for your use case (e.g., `convert_stream()`, or `conve",
+        "topics": [
+          "autogen",
+          "autogen-extension",
+          "langchain",
+          "markdown",
+          "microsoft-office",
+          "openai",
+          "pdf"
+        ],
+        "updated_at": "2026-09-07T13:37:45Z"
+      },
+      "repo": {
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "forks": 13220,
+        "full_name": "microsoft/markitdown",
+        "language": "Python",
+        "name": "markitdown",
+        "owner": "microsoft",
+        "rank": 2,
+        "stars_today": 771,
+        "total_stars": 179412,
+        "url": "https://github.com/microsoft/markitdown"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.86,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 67.11
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 771 stars today; score 67.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-11-25T06:25:42Z",
+        "default_branch": "main",
+        "description": "Skills Catalog for Codex",
+        "fork": false,
+        "full_name": "openai/skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 292,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-14T16:47:46Z",
+        "readme_excerpt": "> [!IMPORTANT] > **This repository is deprecated.** For current Codex skill and plugin examples, use the [OpenAI Plugins repository](https://github.com/openai/plugins). If you want to add your own skills to Codex, follow the [Build plugins](https://developers.openai.com/codex/plugins/build) guide, which includes instructions for creating a skill-only plugin. # Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific ",
+        "topics": [],
+        "updated_at": "2026-09-07T13:35:17Z"
+      },
+      "repo": {
+        "description": "Skills Catalog for Codex",
+        "forks": 1737,
+        "full_name": "openai/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "openai",
+        "rank": 11,
+        "stars_today": 46,
+        "total_stars": 25837,
+        "url": "https://github.com/openai/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.36,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 9.1,
+        "total": 67.1
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 46 stars today; score 67.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-12-10T20:34:46Z",
+        "default_branch": "main",
+        "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+        "fork": false,
+        "full_name": "The-Swarm-Corporation/AutoHedge",
+        "homepage": "https://swarms.xyz/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 18,
+        "primary_language": "Python",
+        "pushed_at": "2026-05-11T05:44:09Z",
+        "readme_excerpt": "# AutoHedge [![Join our Discord](https://img.shields.io/badge/Discord-Join%20our%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VapjxpSyHC3) [![Subscribe on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kyegomez3242) [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in",
+        "topics": [
+          "ai",
+          "blackrock",
+          "finance",
+          "goldmansachs",
+          "hedgefund",
+          "jpmorgan",
+          "ml",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading",
+          "trading"
+        ],
+        "updated_at": "2026-09-07T13:37:36Z"
+      },
+      "repo": {
+        "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+        "forks": 791,
+        "full_name": "The-Swarm-Corporation/AutoHedge",
+        "language": "Python",
+        "name": "AutoHedge",
+        "owner": "The-Swarm-Corporation",
+        "rank": 8,
+        "stars_today": 142,
+        "total_stars": 5033,
+        "url": "https://github.com/The-Swarm-Corporation/AutoHedge"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.22,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 65.52
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 142 stars today; score 65.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-08-12T13:59:33Z",
+        "default_branch": "main",
+        "description": "\u672c\u9879\u76ee\u91c7\u7528 CC BY-NC-SA \u534f\u8bae\uff0c\u7981\u6b62\u4efb\u4f55\u5546\u4e1a\u5316\u884c\u4e3a\uff0c\u4efb\u4f55\u884d\u751f\u9879\u76ee\u5fc5\u987b\u4fdd\u7559\u672c\u9879\u76ee\u5730\u5740\u5e76\u4ee5\u76f8\u540c\u534f\u8bae\u5f00\u6e90",
+        "fork": false,
+        "full_name": "MoonTechLab/LunaTV",
+        "homepage": null,
+        "latest_release": "v100.1.3",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 6,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-05-28T06:05:20Z",
+        "readme_excerpt": "# MoonTV <div align=\"center\"> <img src=\"public/logo.png\" alt=\"MoonTV Logo\" width=\"120\"> </div> > \ud83c\udfac **MoonTV** \u662f\u4e00\u4e2a\u5f00\u7bb1\u5373\u7528\u7684\u3001\u8de8\u5e73\u53f0\u7684\u5f71\u89c6\u805a\u5408\u64ad\u653e\u5668\u3002\u5b83\u57fa\u4e8e **Next.js 14** + **Tailwind&nbsp;CSS** + **TypeScript** \u6784\u5efa\uff0c\u652f\u6301\u591a\u8d44\u6e90\u641c\u7d22\u3001\u5728\u7ebf\u64ad\u653e\u3001\u6536\u85cf\u540c\u6b65\u3001\u64ad\u653e\u8bb0\u5f55\u3001\u4e91\u7aef\u5b58\u50a8\uff0c\u8ba9\u4f60\u53ef\u4ee5\u968f\u65f6\u968f\u5730\u7545\u4eab\u6d77\u91cf\u514d\u8d39\u5f71\u89c6\u5185\u5bb9\u3002 <div align=\"center\"> ![Next.js](https://img.shields.io/badge/Next.js-14-000?logo=nextdotjs) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38bdf8?logo=tailwindcss) ![TypeScript](https://img.shields.io/badge/TypeScript-4.x-3178c6?logo=typescript) !",
+        "topics": [],
+        "updated_at": "2026-09-07T13:29:37Z"
+      },
+      "repo": {
+        "description": "\u672c\u9879\u76ee\u91c7\u7528 CC BY-NC-SA \u534f\u8bae\uff0c\u7981\u6b62\u4efb\u4f55\u5546\u4e1a\u5316\u884c\u4e3a\uff0c\u4efb\u4f55\u884d\u751f\u9879\u76ee\u5fc5\u987b\u4fdd\u7559\u672c\u9879\u76ee\u5730\u5740\u5e76\u4ee5\u76f8\u540c\u534f\u8bae\u5f00\u6e90",
+        "forks": 8975,
+        "full_name": "MoonTechLab/LunaTV",
+        "language": "TypeScript",
+        "name": "LunaTV",
+        "owner": "MoonTechLab",
+        "rank": 5,
+        "stars_today": 171,
+        "total_stars": 9594,
+        "url": "https://github.com/MoonTechLab/LunaTV"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.78,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.2,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 54.98
+      },
+      "tags": [
+        "AI Workflow"
+      ],
+      "verdict": "AI Workflow: TypeScript project with 171 stars today; score 55.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-16T19:35:06Z",
+        "default_branch": "main",
+        "description": "Create and share 3D architectural projects.",
+        "fork": false,
+        "full_name": "pascalorg/editor",
+        "homepage": "https://editor.pascal.app",
+        "latest_release": "v0.9.1",
+        "license_spdx": "MIT",
+        "open_issues": 44,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-07T05:57:03Z",
+        "readme_excerpt": "# Pascal Editor A 3D building editor built with React Three Fiber and WebGPU. [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![npm @pascal-app/core](https://img.shields.io/npm/v/@pascal-app/core?label=%40pascal-app%2Fcore)](https://www.npmjs.com/package/@pascal-app/core) [![npm @pascal-app/viewer](https://img.shields.io/npm/v/@pascal-app/viewer?label=%40pascal-app%2Fviewer)](https://www.npmjs.com/package/@pascal-app/viewer) [![npm @pascal-app/cli](https://img.shiel",
+        "topics": [
+          "3d",
+          "architecture",
+          "bim",
+          "cad",
+          "editor",
+          "floorplan",
+          "mcp",
+          "nextjs",
+          "parametric-design",
+          "react-three-fiber",
+          "threejs",
+          "typescript"
+        ],
+        "updated_at": "2026-09-07T13:37:21Z"
+      },
+      "repo": {
+        "description": "Create and share 3D architectural projects.",
+        "forks": 2847,
+        "full_name": "pascalorg/editor",
+        "language": "TypeScript",
+        "name": "editor",
+        "owner": "pascalorg",
+        "rank": 13,
+        "stars_today": 136,
+        "total_stars": 22081,
+        "url": "https://github.com/pascalorg/editor"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.47,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 51.53
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 136 stars today; score 51.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/coreyhaines31",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+        "forks": 7416,
+        "full_name": "sponsors/coreyhaines31",
+        "language": "JavaScript",
+        "name": "coreyhaines31",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 329,
+        "total_stars": 47869,
+        "url": "https://github.com/sponsors/coreyhaines31"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.19,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 46.84
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 329 stars today; score 46.8/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-05-07T02:50:19Z",
+        "default_branch": "main",
+        "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+        "fork": false,
+        "full_name": "bytedance/deer-flow",
+        "homepage": "https://deerflow.tech",
+        "latest_release": "v2.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 896,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-07T10:43:01Z",
+        "readme_excerpt": "# \ud83e\udd8c DeerFlow - 2.0 English | [\u4e2d\u6587](./README_zh.md) | [\u65e5\u672c\u8a9e](./README_ja.md) | [Fran\u00e7ais](./README_fr.md) | [\u0420\u0443\u0441\u0441\u043a\u0438\u0439](./README_ru.md) [![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?logo=python&logoColor=white)](./backend/pyproject.toml) [![Node.js](https://img.shields.io/badge/Node.js-22%2B-339933?logo=node.js&logoColor=white)](./Makefile) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE) <a href=\"https://trendshift.io/repositories/14699\" target=\"_blan",
+        "topics": [
+          "agent",
+          "agentic",
+          "agentic-framework",
+          "agentic-workflow",
+          "ai",
+          "ai-agents",
+          "deep-research",
+          "harness",
+          "langchain",
+          "langgraph",
+          "langmanus",
+          "llm",
+          "multi-agent",
+          "nodejs",
+          "podcast",
+          "python",
+          "superagent",
+          "typescript"
+        ],
+        "updated_at": "2026-09-07T13:36:08Z"
+      },
+      "repo": {
+        "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+        "forks": 11284,
+        "full_name": "bytedance/deer-flow",
+        "language": "Python",
+        "name": "deer-flow",
+        "owner": "bytedance",
+        "rank": 10,
+        "stars_today": 188,
+        "total_stars": 81698,
+        "url": "https://github.com/bytedance/deer-flow"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.13,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 77.03
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 188 stars today; score 77.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-06-02T21:24:20Z",
+        "default_branch": "main",
+        "description": "\ud83c\udf0a The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "fork": false,
+        "full_name": "ruvnet/ruflo",
+        "homepage": "https://Cognitum.One",
+        "latest_release": "v3.38.21",
+        "license_spdx": "MIT",
+        "open_issues": 943,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-07T09:19:24Z",
+        "readme_excerpt": "<div align=\"center\"> [![Ruflo Banner](ruflo/assets/ruflo-small.jpeg)](https://cognitum.one/agentic-engineering) <!-- Try Ruflo \u2014 the 4 badges first-time visitors actually act on --> [![Try the UI Beta \u2014 flo.ruv.io](https://img.shields.io/badge/_Try_the_UI_Beta-flo.ruv.io-6366f1?style=for-the-badge&logoColor=white&logo=svelte)](https://flo.ruv.io/) [![npm version (ruflo)](https://img.shields.io/npm/v/ruflo?label=npx%20ruflo&style=for-the-badge&logo=npm&color=cb3837)](https://www.npmjs.com/package",
+        "topics": [
+          "agentic-ai",
+          "agentic-framework",
+          "agentic-workflow",
+          "agents",
+          "ai-agents",
+          "ai-assistant",
+          "ai-skills",
+          "autonomous-agents",
+          "claude-code",
+          "codex",
+          "dsh-plugin",
+          "harness",
+          "mcp-server",
+          "multi-agent",
+          "multi-agent-systems",
+          "npm",
+          "skills",
+          "swarm",
+          "swarm-intelligence",
+          "typescript"
+        ],
+        "updated_at": "2026-09-07T13:36:55Z"
+      },
+      "repo": {
+        "description": "\ud83c\udf0a The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "forks": 8448,
+        "full_name": "ruvnet/ruflo",
+        "language": "TypeScript",
+        "name": "ruflo",
+        "owner": "ruvnet",
+        "rank": 14,
+        "stars_today": 392,
+        "total_stars": 71228,
+        "url": "https://github.com/ruvnet/ruflo"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.46,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 75.76
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 392 stars today; score 75.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-26T07:31:13Z",
+        "default_branch": "master",
+        "description": "Stealth headless browser for AI agents \u2014 bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+        "fork": false,
+        "full_name": "jo-inc/camofox-browser",
+        "homepage": "https://github.com/jo-inc/camofox-browser#readme",
+        "latest_release": "camoufox-backup-380139564",
+        "license_spdx": "MIT",
+        "open_issues": 123,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-06T03:30:20Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"fox.png\" alt=\"camofox-browser\" width=\"200\" /> <h1>camofox-browser</h1> <p><strong>Anti-detection browser server for AI agents, powered by Camoufox</strong></p> <p> <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/License-MIT-yellow.svg\" alt=\"License: MIT\" /></a> <a href=\"https://github.com/jo-inc/camofox-browser/stargazers\"><img src=\"https://img.shields.io/github/stars/jo-inc/camofox-browser\" alt=\"GitHub stars\" /></a> <a href=\"https://www.npmjs.com/package/",
+        "topics": [
+          "ai-agent",
+          "anti-bot",
+          "antidetect-browser",
+          "automation",
+          "bot-detection",
+          "browser-automation",
+          "cloudflare-bypass",
+          "headless-browser",
+          "javascript",
+          "nodejs",
+          "playwright",
+          "puppeteer",
+          "scraping",
+          "stealth-browser",
+          "web-scraping"
+        ],
+        "updated_at": "2026-09-07T13:36:09Z"
+      },
+      "repo": {
+        "description": "Stealth headless browser for AI agents \u2014 bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+        "forks": 1003,
+        "full_name": "jo-inc/camofox-browser",
+        "language": "JavaScript",
+        "name": "camofox-browser",
+        "owner": "jo-inc",
+        "rank": 4,
+        "stars_today": 117,
+        "total_stars": 9356,
+        "url": "https://github.com/jo-inc/camofox-browser"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.68,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 73.98
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 117 stars today; score 74.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-02-07T15:19:34Z",
+        "default_branch": "main",
+        "description": "Lightpanda: the headless browser designed for AI and automation",
+        "fork": false,
+        "full_name": "lightpanda-io/browser",
+        "homepage": "https://lightpanda.io",
+        "latest_release": "nightly",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 87,
+        "primary_language": "Zig",
+        "pushed_at": "2026-09-07T13:34:25Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://lightpanda.io\"><img src=\"https://cdn.lightpanda.io/assets/images/logo/lpd-logo.png\" alt=\"Logo\" height=170></a> </p> <h1 align=\"center\">Lightpanda Browser</h1> <p align=\"center\"> <strong>The headless browser built from scratch for AI agents and automation.</strong><br> Not a Chromium fork. Not a WebKit patch. A new browser, written in Zig. </p> </div> <div align=\"center\"> [![License](https://img.shields.io/github/license/lightpanda-io/browser)](https://github.c",
+        "topics": [
+          "browser",
+          "browser-automation",
+          "cdp",
+          "headless",
+          "lightpanda",
+          "playwright",
+          "puppeteer",
+          "zig"
+        ],
+        "updated_at": "2026-09-07T13:36:52Z"
+      },
+      "repo": {
+        "description": "Lightpanda: the headless browser designed for AI and automation",
+        "forks": 1641,
+        "full_name": "lightpanda-io/browser",
+        "language": "Zig",
+        "name": "browser",
+        "owner": "lightpanda-io",
+        "rank": 12,
+        "stars_today": 116,
+        "total_stars": 34654,
+        "url": "https://github.com/lightpanda-io/browser"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.53,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 72.83
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Zig project with 116 stars today; score 72.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-10T01:51:06Z",
+        "default_branch": "main",
+        "description": "Write HTML. Render video. Built for agents.",
+        "fork": false,
+        "full_name": "heygen-com/hyperframes",
+        "homepage": null,
+        "latest_release": "v0.8.30",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 173,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-07T06:34:53Z",
+        "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/logo/dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/logo/light.svg\"> <img alt=\"HyperFrames\" src=\"docs/logo/light.svg\" width=\"300\"> </picture> </p> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/hyperframes\"><img src=\"https://img.shields.io/npm/v/hyperframes.svg?style=flat\" alt=\"npm version\"></a> <a href=\"https://www.npmjs.com/package/hyperframes\"><img src=\"https://img.shields.",
+        "topics": [
+          "ai",
+          "animation",
+          "ffmpeg",
+          "framework",
+          "gsap",
+          "html",
+          "mcp",
+          "puppeteer",
+          "rendering",
+          "typescript",
+          "video"
+        ],
+        "updated_at": "2026-09-07T13:37:47Z"
+      },
+      "repo": {
+        "description": "Write HTML. Render video. Built for agents.",
+        "forks": 4274,
+        "full_name": "heygen-com/hyperframes",
+        "language": "TypeScript",
+        "name": "hyperframes",
+        "owner": "heygen-com",
+        "rank": 1,
+        "stars_today": 220,
+        "total_stars": 44897,
+        "url": "https://github.com/heygen-com/hyperframes"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.57,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 69.32
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 220 stars today; score 69.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-11-13T19:56:40Z",
+        "default_branch": "main",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "fork": false,
+        "full_name": "microsoft/markitdown",
+        "homepage": null,
+        "latest_release": "v0.1.7",
+        "license_spdx": "MIT",
+        "open_issues": 612,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-07T04:58:15Z",
+        "readme_excerpt": "# MarkItDown [![PyPI](https://img.shields.io/pypi/v/markitdown.svg)](https://pypi.org/project/markitdown/) ![PyPI - Downloads](https://img.shields.io/pypi/dd/markitdown) > [!IMPORTANT] > MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access resources that the process itself can access. Sanitize your inputs in untrusted environments, and call the narrowest `convert_*` function needed for your use case (e.g., `convert_stream()`, or `conve",
+        "topics": [
+          "autogen",
+          "autogen-extension",
+          "langchain",
+          "markdown",
+          "microsoft-office",
+          "openai",
+          "pdf"
+        ],
+        "updated_at": "2026-09-07T13:37:45Z"
+      },
+      "repo": {
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "forks": 13220,
+        "full_name": "microsoft/markitdown",
+        "language": "Python",
+        "name": "markitdown",
+        "owner": "microsoft",
+        "rank": 2,
+        "stars_today": 771,
+        "total_stars": 179412,
+        "url": "https://github.com/microsoft/markitdown"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.86,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 67.11
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 771 stars today; score 67.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-11-25T06:25:42Z",
+        "default_branch": "main",
+        "description": "Skills Catalog for Codex",
+        "fork": false,
+        "full_name": "openai/skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 292,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-14T16:47:46Z",
+        "readme_excerpt": "> [!IMPORTANT] > **This repository is deprecated.** For current Codex skill and plugin examples, use the [OpenAI Plugins repository](https://github.com/openai/plugins). If you want to add your own skills to Codex, follow the [Build plugins](https://developers.openai.com/codex/plugins/build) guide, which includes instructions for creating a skill-only plugin. # Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific ",
+        "topics": [],
+        "updated_at": "2026-09-07T13:35:17Z"
+      },
+      "repo": {
+        "description": "Skills Catalog for Codex",
+        "forks": 1737,
+        "full_name": "openai/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "openai",
+        "rank": 11,
+        "stars_today": 46,
+        "total_stars": 25837,
+        "url": "https://github.com/openai/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.36,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 9.1,
+        "total": 67.1
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 46 stars today; score 67.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-12-10T20:34:46Z",
+        "default_branch": "main",
+        "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+        "fork": false,
+        "full_name": "The-Swarm-Corporation/AutoHedge",
+        "homepage": "https://swarms.xyz/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 18,
+        "primary_language": "Python",
+        "pushed_at": "2026-05-11T05:44:09Z",
+        "readme_excerpt": "# AutoHedge [![Join our Discord](https://img.shields.io/badge/Discord-Join%20our%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VapjxpSyHC3) [![Subscribe on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kyegomez3242) [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in",
+        "topics": [
+          "ai",
+          "blackrock",
+          "finance",
+          "goldmansachs",
+          "hedgefund",
+          "jpmorgan",
+          "ml",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading",
+          "trading"
+        ],
+        "updated_at": "2026-09-07T13:37:36Z"
+      },
+      "repo": {
+        "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+        "forks": 791,
+        "full_name": "The-Swarm-Corporation/AutoHedge",
+        "language": "Python",
+        "name": "AutoHedge",
+        "owner": "The-Swarm-Corporation",
+        "rank": 8,
+        "stars_today": 142,
+        "total_stars": 5033,
+        "url": "https://github.com/The-Swarm-Corporation/AutoHedge"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.22,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 65.52
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 142 stars today; score 65.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-08-12T13:59:33Z",
+        "default_branch": "main",
+        "description": "\u672c\u9879\u76ee\u91c7\u7528 CC BY-NC-SA \u534f\u8bae\uff0c\u7981\u6b62\u4efb\u4f55\u5546\u4e1a\u5316\u884c\u4e3a\uff0c\u4efb\u4f55\u884d\u751f\u9879\u76ee\u5fc5\u987b\u4fdd\u7559\u672c\u9879\u76ee\u5730\u5740\u5e76\u4ee5\u76f8\u540c\u534f\u8bae\u5f00\u6e90",
+        "fork": false,
+        "full_name": "MoonTechLab/LunaTV",
+        "homepage": null,
+        "latest_release": "v100.1.3",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 6,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-05-28T06:05:20Z",
+        "readme_excerpt": "# MoonTV <div align=\"center\"> <img src=\"public/logo.png\" alt=\"MoonTV Logo\" width=\"120\"> </div> > \ud83c\udfac **MoonTV** \u662f\u4e00\u4e2a\u5f00\u7bb1\u5373\u7528\u7684\u3001\u8de8\u5e73\u53f0\u7684\u5f71\u89c6\u805a\u5408\u64ad\u653e\u5668\u3002\u5b83\u57fa\u4e8e **Next.js 14** + **Tailwind&nbsp;CSS** + **TypeScript** \u6784\u5efa\uff0c\u652f\u6301\u591a\u8d44\u6e90\u641c\u7d22\u3001\u5728\u7ebf\u64ad\u653e\u3001\u6536\u85cf\u540c\u6b65\u3001\u64ad\u653e\u8bb0\u5f55\u3001\u4e91\u7aef\u5b58\u50a8\uff0c\u8ba9\u4f60\u53ef\u4ee5\u968f\u65f6\u968f\u5730\u7545\u4eab\u6d77\u91cf\u514d\u8d39\u5f71\u89c6\u5185\u5bb9\u3002 <div align=\"center\"> ![Next.js](https://img.shields.io/badge/Next.js-14-000?logo=nextdotjs) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38bdf8?logo=tailwindcss) ![TypeScript](https://img.shields.io/badge/TypeScript-4.x-3178c6?logo=typescript) !",
+        "topics": [],
+        "updated_at": "2026-09-07T13:29:37Z"
+      },
+      "repo": {
+        "description": "\u672c\u9879\u76ee\u91c7\u7528 CC BY-NC-SA \u534f\u8bae\uff0c\u7981\u6b62\u4efb\u4f55\u5546\u4e1a\u5316\u884c\u4e3a\uff0c\u4efb\u4f55\u884d\u751f\u9879\u76ee\u5fc5\u987b\u4fdd\u7559\u672c\u9879\u76ee\u5730\u5740\u5e76\u4ee5\u76f8\u540c\u534f\u8bae\u5f00\u6e90",
+        "forks": 8975,
+        "full_name": "MoonTechLab/LunaTV",
+        "language": "TypeScript",
+        "name": "LunaTV",
+        "owner": "MoonTechLab",
+        "rank": 5,
+        "stars_today": 171,
+        "total_stars": 9594,
+        "url": "https://github.com/MoonTechLab/LunaTV"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.78,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.2,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 54.98
+      },
+      "tags": [
+        "AI Workflow"
+      ],
+      "verdict": "AI Workflow: TypeScript project with 171 stars today; score 55.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-07T19:05:56Z",
+        "default_branch": "main",
+        "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+        "fork": false,
+        "full_name": "BraveOPotato/FckSignups",
+        "homepage": "https://nosignups.net",
+        "latest_release": null,
+        "license_spdx": "GPL-3.0",
+        "open_issues": 483,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-07T13:17:26Z",
+        "readme_excerpt": "# NoSignups ## (formerly FckSignups) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hbDDqdmcm) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/fucksignups/) > **Open Source Tools. Zero Bullsh*t.** A curated collection of open-source tools you can use instantly in your browser. no accounts, no emails, no tracking. Just tools that wo",
+        "topics": [],
+        "updated_at": "2026-09-07T13:34:10Z"
+      },
+      "repo": {
+        "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+        "forks": 214,
+        "full_name": "BraveOPotato/FckSignups",
+        "language": "TypeScript",
+        "name": "FckSignups",
+        "owner": "BraveOPotato",
+        "rank": 9,
+        "stars_today": 497,
+        "total_stars": 3617,
+        "url": "https://github.com/BraveOPotato/FckSignups"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.64,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 52.74
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 497 stars today; score 52.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-16T19:35:06Z",
+        "default_branch": "main",
+        "description": "Create and share 3D architectural projects.",
+        "fork": false,
+        "full_name": "pascalorg/editor",
+        "homepage": "https://editor.pascal.app",
+        "latest_release": "v0.9.1",
+        "license_spdx": "MIT",
+        "open_issues": 44,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-07T05:57:03Z",
+        "readme_excerpt": "# Pascal Editor A 3D building editor built with React Three Fiber and WebGPU. [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![npm @pascal-app/core](https://img.shields.io/npm/v/@pascal-app/core?label=%40pascal-app%2Fcore)](https://www.npmjs.com/package/@pascal-app/core) [![npm @pascal-app/viewer](https://img.shields.io/npm/v/@pascal-app/viewer?label=%40pascal-app%2Fviewer)](https://www.npmjs.com/package/@pascal-app/viewer) [![npm @pascal-app/cli](https://img.shiel",
+        "topics": [
+          "3d",
+          "architecture",
+          "bim",
+          "cad",
+          "editor",
+          "floorplan",
+          "mcp",
+          "nextjs",
+          "parametric-design",
+          "react-three-fiber",
+          "threejs",
+          "typescript"
+        ],
+        "updated_at": "2026-09-07T13:37:21Z"
+      },
+      "repo": {
+        "description": "Create and share 3D architectural projects.",
+        "forks": 2847,
+        "full_name": "pascalorg/editor",
+        "language": "TypeScript",
+        "name": "editor",
+        "owner": "pascalorg",
+        "rank": 13,
+        "stars_today": 136,
+        "total_stars": 22081,
+        "url": "https://github.com/pascalorg/editor"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.47,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 51.53
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 136 stars today; score 51.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/coreyhaines31",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+        "forks": 7416,
+        "full_name": "sponsors/coreyhaines31",
+        "language": "JavaScript",
+        "name": "coreyhaines31",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 329,
+        "total_stars": 47869,
+        "url": "https://github.com/sponsors/coreyhaines31"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.19,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 46.84
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 329 stars today; score 46.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 37873,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 1905,
+        "total_stars": 252369,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 11.28,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 44.23
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 1905 stars today; score 44.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mksglu",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "forks": 1513,
+        "full_name": "sponsors/mksglu",
+        "language": "TypeScript",
+        "name": "mksglu",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 85,
+        "total_stars": 20582,
+        "url": "https://github.com/sponsors/mksglu"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.69,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 41.84
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 85 stars today; score 41.8/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-09-07",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is bytedance/deer-flow."
+}

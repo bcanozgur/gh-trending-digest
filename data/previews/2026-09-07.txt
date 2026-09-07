@@ -1,0 +1,34 @@
+GitHub Trending: AI workflow signal - 2026-09-07
+
+Today leans toward AI workflow signal; the strongest pick is bytedance/deer-flow.
+
+Top picks
+1. bytedance/deer-flow - 77.0/100
+   https://github.com/bytedance/deer-flow
+   AI Workflow, DevTools: Python project with 188 stars today; score 77.0/100.
+2. jo-inc/camofox-browser - 74.0/100
+   https://github.com/jo-inc/camofox-browser
+   AI Workflow, DevTools: JavaScript project with 117 stars today; score 74.0/100.
+3. lightpanda-io/browser - 72.8/100
+   https://github.com/lightpanda-io/browser
+   AI Workflow, Try Today: Zig project with 116 stars today; score 72.8/100.
+4. heygen-com/hyperframes - 69.3/100
+   https://github.com/heygen-com/hyperframes
+   AI Workflow, DevTools: TypeScript project with 220 stars today; score 69.3/100.
+5. microsoft/markitdown - 67.1/100
+   https://github.com/microsoft/markitdown
+   AI Workflow, Try Today: Python project with 771 stars today; score 67.1/100.
+
+Full reviewed list
+- bytedance/deer-flow: 77.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 188 stars today; score 77.0/100.
+- jo-inc/camofox-browser: 74.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: JavaScript project with 117 stars today; score 74.0/100.
+- lightpanda-io/browser: 72.8/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Zig project with 116 stars today; score 72.8/100.
+- heygen-com/hyperframes: 69.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 220 stars today; score 69.3/100.
+- microsoft/markitdown: 67.1/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 771 stars today; score 67.1/100.
+- openai/skills: 67.1/100 [AI Workflow, DevTools, Deep Dive] AI Workflow, DevTools: Python project with 46 stars today; score 67.1/100.
+- The-Swarm-Corporation/AutoHedge: 65.5/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 142 stars today; score 65.5/100.
+- MoonTechLab/LunaTV: 55.0/100 [AI Workflow] AI Workflow: TypeScript project with 171 stars today; score 55.0/100.
+- pascalorg/editor: 51.5/100 [DevTools, Try Today] DevTools, Try Today: TypeScript project with 136 stars today; score 51.5/100.
+- sponsors/coreyhaines31: 46.8/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: JavaScript project with 329 stars today; score 46.8/100.
+
+Generated for 2026-09-07 from GitHub Trending daily.
