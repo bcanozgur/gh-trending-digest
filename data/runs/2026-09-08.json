@@ -1,0 +1,1259 @@
+{
+  "date": "2026-09-08",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-10-31T16:00:56Z",
+        "default_branch": "main",
+        "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease.",
+        "fork": false,
+        "full_name": "browser-use/browser-use",
+        "homepage": "https://browser-use.com",
+        "latest_release": "0.13.10",
+        "license_spdx": "MIT",
+        "open_issues": 405,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-07T19:55:36Z",
+        "readme_excerpt": "<!-- mcp-name: com.browser-use/browser-use --> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\"> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/774a46d5-27a0-490c-b7d0-e65fcbbfa358\"> <img alt=\"Shows a black Browser Use Logo in light color mode and a white one in dark color mode.\" src=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-85",
+        "topics": [
+          "ai-agents",
+          "ai-tools",
+          "browser-automation",
+          "browser-use",
+          "llm",
+          "playwright",
+          "python"
+        ],
+        "updated_at": "2026-09-08T12:14:36Z"
+      },
+      "repo": {
+        "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease.",
+        "forks": 12472,
+        "full_name": "browser-use/browser-use",
+        "language": "Python",
+        "name": "browser-use",
+        "owner": "browser-use",
+        "rank": 12,
+        "stars_today": 330,
+        "total_stars": 113071,
+        "url": "https://github.com/browser-use/browser-use"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.48,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 74.53
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 330 stars today; score 74.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-04T21:52:32Z",
+        "default_branch": "main",
+        "description": "OpenAI Plugins",
+        "fork": false,
+        "full_name": "openai/plugins",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 39,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-08-28T20:01:03Z",
+        "readme_excerpt": "# Plugins This repository contains a curated collection of Codex plugin examples. Each plugin lives under `plugins/<name>/` with a required `.codex-plugin/plugin.json` manifest and optional companion surfaces such as `skills/`, `.app.json`, `.mcp.json`, plugin-level `agents/`, `commands/`, `hooks.json`, `assets/`, and other supporting files. The default marketplace lives at `.agents/plugins/marketplace.json` and points at the standard `plugins/` directory. API key login users have a separate mar",
+        "topics": [],
+        "updated_at": "2026-09-08T12:11:39Z"
+      },
+      "repo": {
+        "description": "OpenAI Plugins",
+        "forks": 795,
+        "full_name": "openai/plugins",
+        "language": "JavaScript",
+        "name": "plugins",
+        "owner": "openai",
+        "rank": 16,
+        "stars_today": 45,
+        "total_stars": 5561,
+        "url": "https://github.com/openai/plugins"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 1.64,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 9.1,
+        "total": 66.38
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 45 stars today; score 66.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-13T20:42:06Z",
+        "default_branch": "main",
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "fork": false,
+        "full_name": "ayghri/i-have-adhd",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 28,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-01T20:49:17Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"./logo.png\" alt=\"i-have-adhd\" width=\"140\" /> </p> <p align=\"center\"> <strong align=\"center\">ADHD-friendly outputs. No ADHD diagnosis needed!</strong> </p> <p align=\"center\"> <a href=\"LICENSE\"><img src=\"https://img.shields.io/github/license/ayghri/i-have-adhd?style=flat\" alt=\"License\"></a> </p> <p align=\"center\"> <strong title=\"English\" aria-label=\"English\">\ud83c\uddec\ud83c\udde7</strong> \u00b7 <a href=\".github/readme/README.zh-CN.md\" title=\"\u7b80\u4f53\u4e2d\u6587\" aria-label=\"\u7b80\u4f53\u4e2d\u6587\">\ud83c\udde8\ud83c\uddf3</a> \u00b7 <a href=\".github/",
+        "topics": [
+          "adhd",
+          "claude-",
+          "claude-code-plugin",
+          "claude-skills",
+          "developer-tools",
+          "productivity"
+        ],
+        "updated_at": "2026-09-08T12:14:56Z"
+      },
+      "repo": {
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "forks": 1763,
+        "full_name": "ayghri/i-have-adhd",
+        "language": "Python",
+        "name": "i-have-adhd",
+        "owner": "ayghri",
+        "rank": 1,
+        "stars_today": 422,
+        "total_stars": 28161,
+        "url": "https://github.com/ayghri/i-have-adhd"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.47,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 62.22
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 422 stars today; score 62.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-27T03:53:13Z",
+        "default_branch": "main",
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "fork": false,
+        "full_name": "multica-ai/andrej-karpathy-skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 129,
+        "primary_language": null,
+        "pushed_at": "2026-04-20T10:05:04Z",
+        "readme_excerpt": "# Karpathy-Inspired Claude Code Guidelines > Check out my new project [Multica](https://github.com/multica-ai/multica) \u2014 an open-source platform for running and managing coding agents with reusable skills. > > Follow me on X: [https://x.com/jiayuan_jy](https://x.com/jiayuan_jy) A single `CLAUDE.md` file to improve Claude Code behavior, derived from [Andrej Karpathy's observations](https://x.com/karpathy/status/2015883857489522876) on LLM coding pitfalls. English | [\u7b80\u4f53\u4e2d\u6587](./README.zh.md) ## The P",
+        "topics": [],
+        "updated_at": "2026-09-08T12:14:48Z"
+      },
+      "repo": {
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "forks": 21442,
+        "full_name": "multica-ai/andrej-karpathy-skills",
+        "language": null,
+        "name": "andrej-karpathy-skills",
+        "owner": "multica-ai",
+        "rank": 8,
+        "stars_today": 325,
+        "total_stars": 211086,
+        "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.03,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 9.1,
+        "total": 60.78
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Unknown project with 325 stars today; score 60.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-09-15T02:42:13Z",
+        "default_branch": "main",
+        "description": "\ud83d\udcf1 Display and control your Android device graphically with scrcpy.",
+        "fork": false,
+        "full_name": "viarotel-org/escrcpy",
+        "homepage": "https://viarotel.eu.org/",
+        "latest_release": "v3.2.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 21,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-01T10:35:45Z",
+        "readme_excerpt": "<div style=\"display:flex;\"> <img src=\"https://cdn.jsdelivr.net/gh/viarotel/resources@latest/logos/escrcpy.png\" alt=\"viarotel-escrcpy\" width=\"108px\"> </div> # Escrcpy [![GitCode](https://gitcode.com/viarotel-org/escrcpy/star/badge.svg)](https://gitcode.com/viarotel-org/escrcpy) [![Gitee](https://gitee.com/viarotel-org/escrcpy/badge/star.svg?theme=dark)](https://gitee.com/viarotel-org/escrcpy) [![GitHub](https://img.shields.io/github/stars/viarotel-org/escrcpy?label=Github%20Stars)](https://github",
+        "topics": [
+          "android",
+          "genymobile",
+          "gnirehtet",
+          "gui",
+          "hacktoberfest",
+          "hacktoberfest2026",
+          "hacktoberfest2027",
+          "linux",
+          "macos",
+          "mapping",
+          "mirroring",
+          "recording",
+          "scrcpy",
+          "scrcpy-engine",
+          "scrcpy-gui",
+          "screensharing",
+          "screenshots",
+          "windows"
+        ],
+        "updated_at": "2026-09-08T12:12:04Z"
+      },
+      "repo": {
+        "description": "\ud83d\udcf1 Display and control your Android device graphically with scrcpy.",
+        "forks": 791,
+        "full_name": "viarotel-org/escrcpy",
+        "language": "JavaScript",
+        "name": "escrcpy",
+        "owner": "viarotel-org",
+        "rank": 15,
+        "stars_today": 173,
+        "total_stars": 11186,
+        "url": "https://github.com/viarotel-org/escrcpy"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.35,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 0.96,
+        "technical_quality": 14.0,
+        "total": 49.36
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: JavaScript project with 173 stars today; score 49.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 38047,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 1897,
+        "total_stars": 253651,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 11.57,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 44.52
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 1897 stars today; score 44.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mksglu",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "forks": 1536,
+        "full_name": "sponsors/mksglu",
+        "language": "TypeScript",
+        "name": "mksglu",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 96,
+        "total_stars": 21194,
+        "url": "https://github.com/sponsors/mksglu"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.3,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 35.25
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 96 stars today; score 35.2/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-10-31T16:00:56Z",
+        "default_branch": "main",
+        "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease.",
+        "fork": false,
+        "full_name": "browser-use/browser-use",
+        "homepage": "https://browser-use.com",
+        "latest_release": "0.13.10",
+        "license_spdx": "MIT",
+        "open_issues": 405,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-07T19:55:36Z",
+        "readme_excerpt": "<!-- mcp-name: com.browser-use/browser-use --> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-857fc1ad7e24\"> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/774a46d5-27a0-490c-b7d0-e65fcbbfa358\"> <img alt=\"Shows a black Browser Use Logo in light color mode and a white one in dark color mode.\" src=\"https://github.com/user-attachments/assets/2ccdb752-22fb-41c7-8948-85",
+        "topics": [
+          "ai-agents",
+          "ai-tools",
+          "browser-automation",
+          "browser-use",
+          "llm",
+          "playwright",
+          "python"
+        ],
+        "updated_at": "2026-09-08T12:14:36Z"
+      },
+      "repo": {
+        "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease.",
+        "forks": 12472,
+        "full_name": "browser-use/browser-use",
+        "language": "Python",
+        "name": "browser-use",
+        "owner": "browser-use",
+        "rank": 12,
+        "stars_today": 330,
+        "total_stars": 113071,
+        "url": "https://github.com/browser-use/browser-use"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.48,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 74.53
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 330 stars today; score 74.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-16T18:01:16Z",
+        "default_branch": "main",
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "fork": false,
+        "full_name": "cathrynlavery/diagram-design",
+        "homepage": "https://cathrynlavery.github.io/diagram-design/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 35,
+        "primary_language": "HTML",
+        "pushed_at": "2026-09-07T04:39:11Z",
+        "readme_excerpt": "# Diagram Design **Editorial diagrams your designer won't hate.** <a href=\"https://trendshift.io/repositories/26141?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-26141\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/26141\" alt=\"cathrynlavery%2Fdiagram-design | Trendshift\" width=\"250\" height=\"55\"/></a> [![Content site architecture](docs/screenshots/thumbs/architecture.webp)](docs/screenshots/architecture.png) [",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "codex",
+          "data-visualization",
+          "diagrams",
+          "drawio",
+          "mermaid",
+          "svg"
+        ],
+        "updated_at": "2026-09-08T12:15:17Z"
+      },
+      "repo": {
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "forks": 2152,
+        "full_name": "cathrynlavery/diagram-design",
+        "language": "HTML",
+        "name": "diagram-design",
+        "owner": "cathrynlavery",
+        "rank": 2,
+        "stars_today": 1070,
+        "total_stars": 33733,
+        "url": "https://github.com/cathrynlavery/diagram-design"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 8.19,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 69.79
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: HTML project with 1070 stars today; score 69.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-26T07:31:13Z",
+        "default_branch": "master",
+        "description": "Stealth headless browser for AI agents \u2014 bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+        "fork": false,
+        "full_name": "jo-inc/camofox-browser",
+        "homepage": "https://github.com/jo-inc/camofox-browser#readme",
+        "latest_release": "camoufox-backup-380139564",
+        "license_spdx": "MIT",
+        "open_issues": 128,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-06T03:30:20Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"fox.png\" alt=\"camofox-browser\" width=\"200\" /> <h1>camofox-browser</h1> <p><strong>Anti-detection browser server for AI agents, powered by Camoufox</strong></p> <p> <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/License-MIT-yellow.svg\" alt=\"License: MIT\" /></a> <a href=\"https://github.com/jo-inc/camofox-browser/stargazers\"><img src=\"https://img.shields.io/github/stars/jo-inc/camofox-browser\" alt=\"GitHub stars\" /></a> <a href=\"https://www.npmjs.com/package/",
+        "topics": [
+          "ai-agent",
+          "anti-bot",
+          "antidetect-browser",
+          "automation",
+          "bot-detection",
+          "browser-automation",
+          "cloudflare-bypass",
+          "headless-browser",
+          "javascript",
+          "nodejs",
+          "playwright",
+          "puppeteer",
+          "scraping",
+          "stealth-browser",
+          "web-scraping"
+        ],
+        "updated_at": "2026-09-08T12:11:50Z"
+      },
+      "repo": {
+        "description": "Stealth headless browser for AI agents \u2014 bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+        "forks": 1040,
+        "full_name": "jo-inc/camofox-browser",
+        "language": "JavaScript",
+        "name": "camofox-browser",
+        "owner": "jo-inc",
+        "rank": 10,
+        "stars_today": 135,
+        "total_stars": 10178,
+        "url": "https://github.com/jo-inc/camofox-browser"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.9,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 68.0
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 135 stars today; score 68.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-04T21:52:32Z",
+        "default_branch": "main",
+        "description": "OpenAI Plugins",
+        "fork": false,
+        "full_name": "openai/plugins",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 39,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-08-28T20:01:03Z",
+        "readme_excerpt": "# Plugins This repository contains a curated collection of Codex plugin examples. Each plugin lives under `plugins/<name>/` with a required `.codex-plugin/plugin.json` manifest and optional companion surfaces such as `skills/`, `.app.json`, `.mcp.json`, plugin-level `agents/`, `commands/`, `hooks.json`, `assets/`, and other supporting files. The default marketplace lives at `.agents/plugins/marketplace.json` and points at the standard `plugins/` directory. API key login users have a separate mar",
+        "topics": [],
+        "updated_at": "2026-09-08T12:11:39Z"
+      },
+      "repo": {
+        "description": "OpenAI Plugins",
+        "forks": 795,
+        "full_name": "openai/plugins",
+        "language": "JavaScript",
+        "name": "plugins",
+        "owner": "openai",
+        "rank": 16,
+        "stars_today": 45,
+        "total_stars": 5561,
+        "url": "https://github.com/openai/plugins"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 1.64,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 9.1,
+        "total": 66.38
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 45 stars today; score 66.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-10T01:51:06Z",
+        "default_branch": "main",
+        "description": "Write HTML. Render video. Built for agents.",
+        "fork": false,
+        "full_name": "heygen-com/hyperframes",
+        "homepage": null,
+        "latest_release": "v0.8.31",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 182,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-08T08:04:36Z",
+        "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/logo/dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/logo/light.svg\"> <img alt=\"HyperFrames\" src=\"docs/logo/light.svg\" width=\"300\"> </picture> </p> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/hyperframes\"><img src=\"https://img.shields.io/npm/v/hyperframes.svg?style=flat\" alt=\"npm version\"></a> <a href=\"https://www.npmjs.com/package/hyperframes\"><img src=\"https://img.shields.",
+        "topics": [
+          "ai",
+          "animation",
+          "ffmpeg",
+          "framework",
+          "gsap",
+          "html",
+          "mcp",
+          "puppeteer",
+          "rendering",
+          "typescript",
+          "video"
+        ],
+        "updated_at": "2026-09-08T12:11:55Z"
+      },
+      "repo": {
+        "description": "Write HTML. Render video. Built for agents.",
+        "forks": 4371,
+        "full_name": "heygen-com/hyperframes",
+        "language": "TypeScript",
+        "name": "hyperframes",
+        "owner": "heygen-com",
+        "rank": 5,
+        "stars_today": 474,
+        "total_stars": 47337,
+        "url": "https://github.com/heygen-com/hyperframes"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.12,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 64.67
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 474 stars today; score 64.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-11-25T06:25:42Z",
+        "default_branch": "main",
+        "description": "Skills Catalog for Codex",
+        "fork": false,
+        "full_name": "openai/skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 292,
+        "primary_language": "Python",
+        "pushed_at": "2026-07-14T16:47:46Z",
+        "readme_excerpt": "> [!IMPORTANT] > **This repository is deprecated.** For current Codex skill and plugin examples, use the [OpenAI Plugins repository](https://github.com/openai/plugins). If you want to add your own skills to Codex, follow the [Build plugins](https://developers.openai.com/codex/plugins/build) guide, which includes instructions for creating a skill-only plugin. # Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at specific ",
+        "topics": [],
+        "updated_at": "2026-09-08T12:13:23Z"
+      },
+      "repo": {
+        "description": "Skills Catalog for Codex",
+        "forks": 1764,
+        "full_name": "openai/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "openai",
+        "rank": 3,
+        "stars_today": 351,
+        "total_stars": 26297,
+        "url": "https://github.com/openai/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 4.87,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 9.1,
+        "total": 64.41
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 351 stars today; score 64.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-13T20:42:06Z",
+        "default_branch": "main",
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "fork": false,
+        "full_name": "ayghri/i-have-adhd",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 28,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-01T20:49:17Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"./logo.png\" alt=\"i-have-adhd\" width=\"140\" /> </p> <p align=\"center\"> <strong align=\"center\">ADHD-friendly outputs. No ADHD diagnosis needed!</strong> </p> <p align=\"center\"> <a href=\"LICENSE\"><img src=\"https://img.shields.io/github/license/ayghri/i-have-adhd?style=flat\" alt=\"License\"></a> </p> <p align=\"center\"> <strong title=\"English\" aria-label=\"English\">\ud83c\uddec\ud83c\udde7</strong> \u00b7 <a href=\".github/readme/README.zh-CN.md\" title=\"\u7b80\u4f53\u4e2d\u6587\" aria-label=\"\u7b80\u4f53\u4e2d\u6587\">\ud83c\udde8\ud83c\uddf3</a> \u00b7 <a href=\".github/",
+        "topics": [
+          "adhd",
+          "claude-",
+          "claude-code-plugin",
+          "claude-skills",
+          "developer-tools",
+          "productivity"
+        ],
+        "updated_at": "2026-09-08T12:14:56Z"
+      },
+      "repo": {
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "forks": 1763,
+        "full_name": "ayghri/i-have-adhd",
+        "language": "Python",
+        "name": "i-have-adhd",
+        "owner": "ayghri",
+        "rank": 1,
+        "stars_today": 422,
+        "total_stars": 28161,
+        "url": "https://github.com/ayghri/i-have-adhd"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.47,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 62.22
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 422 stars today; score 62.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-11-13T19:56:40Z",
+        "default_branch": "main",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "fork": false,
+        "full_name": "microsoft/markitdown",
+        "homepage": null,
+        "latest_release": "v0.1.7",
+        "license_spdx": "MIT",
+        "open_issues": 631,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-07T04:58:15Z",
+        "readme_excerpt": "# MarkItDown [![PyPI](https://img.shields.io/pypi/v/markitdown.svg)](https://pypi.org/project/markitdown/) ![PyPI - Downloads](https://img.shields.io/pypi/dd/markitdown) > [!IMPORTANT] > MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access resources that the process itself can access. Sanitize your inputs in untrusted environments, and call the narrowest `convert_*` function needed for your use case (e.g., `convert_stream()`, or `conve",
+        "topics": [
+          "autogen",
+          "autogen-extension",
+          "langchain",
+          "markdown",
+          "microsoft-office",
+          "openai",
+          "pdf"
+        ],
+        "updated_at": "2026-09-08T12:11:51Z"
+      },
+      "repo": {
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "forks": 13313,
+        "full_name": "microsoft/markitdown",
+        "language": "Python",
+        "name": "markitdown",
+        "owner": "microsoft",
+        "rank": 9,
+        "stars_today": 886,
+        "total_stars": 181276,
+        "url": "https://github.com/microsoft/markitdown"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.37,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 61.42
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 886 stars today; score 61.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-12-10T20:34:46Z",
+        "default_branch": "main",
+        "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+        "fork": false,
+        "full_name": "The-Swarm-Corporation/AutoHedge",
+        "homepage": "https://swarms.xyz/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 19,
+        "primary_language": "Python",
+        "pushed_at": "2026-05-11T05:44:09Z",
+        "readme_excerpt": "# AutoHedge [![Join our Discord](https://img.shields.io/badge/Discord-Join%20our%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VapjxpSyHC3) [![Subscribe on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kyegomez3242) [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in",
+        "topics": [
+          "ai",
+          "blackrock",
+          "finance",
+          "goldmansachs",
+          "hedgefund",
+          "jpmorgan",
+          "ml",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading",
+          "trading"
+        ],
+        "updated_at": "2026-09-08T12:15:16Z"
+      },
+      "repo": {
+        "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+        "forks": 829,
+        "full_name": "The-Swarm-Corporation/AutoHedge",
+        "language": "Python",
+        "name": "AutoHedge",
+        "owner": "The-Swarm-Corporation",
+        "rank": 14,
+        "stars_today": 517,
+        "total_stars": 5487,
+        "url": "https://github.com/The-Swarm-Corporation/AutoHedge"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.02,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 61.12
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 517 stars today; score 61.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-27T03:53:13Z",
+        "default_branch": "main",
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "fork": false,
+        "full_name": "multica-ai/andrej-karpathy-skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 129,
+        "primary_language": null,
+        "pushed_at": "2026-04-20T10:05:04Z",
+        "readme_excerpt": "# Karpathy-Inspired Claude Code Guidelines > Check out my new project [Multica](https://github.com/multica-ai/multica) \u2014 an open-source platform for running and managing coding agents with reusable skills. > > Follow me on X: [https://x.com/jiayuan_jy](https://x.com/jiayuan_jy) A single `CLAUDE.md` file to improve Claude Code behavior, derived from [Andrej Karpathy's observations](https://x.com/karpathy/status/2015883857489522876) on LLM coding pitfalls. English | [\u7b80\u4f53\u4e2d\u6587](./README.zh.md) ## The P",
+        "topics": [],
+        "updated_at": "2026-09-08T12:14:48Z"
+      },
+      "repo": {
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "forks": 21442,
+        "full_name": "multica-ai/andrej-karpathy-skills",
+        "language": null,
+        "name": "andrej-karpathy-skills",
+        "owner": "multica-ai",
+        "rank": 8,
+        "stars_today": 325,
+        "total_stars": 211086,
+        "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.03,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 9.1,
+        "total": 60.78
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Unknown project with 325 stars today; score 60.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-09-15T02:42:13Z",
+        "default_branch": "main",
+        "description": "\ud83d\udcf1 Display and control your Android device graphically with scrcpy.",
+        "fork": false,
+        "full_name": "viarotel-org/escrcpy",
+        "homepage": "https://viarotel.eu.org/",
+        "latest_release": "v3.2.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 21,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-01T10:35:45Z",
+        "readme_excerpt": "<div style=\"display:flex;\"> <img src=\"https://cdn.jsdelivr.net/gh/viarotel/resources@latest/logos/escrcpy.png\" alt=\"viarotel-escrcpy\" width=\"108px\"> </div> # Escrcpy [![GitCode](https://gitcode.com/viarotel-org/escrcpy/star/badge.svg)](https://gitcode.com/viarotel-org/escrcpy) [![Gitee](https://gitee.com/viarotel-org/escrcpy/badge/star.svg?theme=dark)](https://gitee.com/viarotel-org/escrcpy) [![GitHub](https://img.shields.io/github/stars/viarotel-org/escrcpy?label=Github%20Stars)](https://github",
+        "topics": [
+          "android",
+          "genymobile",
+          "gnirehtet",
+          "gui",
+          "hacktoberfest",
+          "hacktoberfest2026",
+          "hacktoberfest2027",
+          "linux",
+          "macos",
+          "mapping",
+          "mirroring",
+          "recording",
+          "scrcpy",
+          "scrcpy-engine",
+          "scrcpy-gui",
+          "screensharing",
+          "screenshots",
+          "windows"
+        ],
+        "updated_at": "2026-09-08T12:12:04Z"
+      },
+      "repo": {
+        "description": "\ud83d\udcf1 Display and control your Android device graphically with scrcpy.",
+        "forks": 791,
+        "full_name": "viarotel-org/escrcpy",
+        "language": "JavaScript",
+        "name": "escrcpy",
+        "owner": "viarotel-org",
+        "rank": 15,
+        "stars_today": 173,
+        "total_stars": 11186,
+        "url": "https://github.com/viarotel-org/escrcpy"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.35,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 0.96,
+        "technical_quality": 14.0,
+        "total": 49.36
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: JavaScript project with 173 stars today; score 49.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-08-12T13:59:33Z",
+        "default_branch": "main",
+        "description": "\u672c\u9879\u76ee\u91c7\u7528 CC BY-NC-SA \u534f\u8bae\uff0c\u7981\u6b62\u4efb\u4f55\u5546\u4e1a\u5316\u884c\u4e3a\uff0c\u4efb\u4f55\u884d\u751f\u9879\u76ee\u5fc5\u987b\u4fdd\u7559\u672c\u9879\u76ee\u5730\u5740\u5e76\u4ee5\u76f8\u540c\u534f\u8bae\u5f00\u6e90",
+        "fork": false,
+        "full_name": "MoonTechLab/LunaTV",
+        "homepage": null,
+        "latest_release": "v100.1.3",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 10,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-05-28T06:05:20Z",
+        "readme_excerpt": "# MoonTV <div align=\"center\"> <img src=\"public/logo.png\" alt=\"MoonTV Logo\" width=\"120\"> </div> > \ud83c\udfac **MoonTV** \u662f\u4e00\u4e2a\u5f00\u7bb1\u5373\u7528\u7684\u3001\u8de8\u5e73\u53f0\u7684\u5f71\u89c6\u805a\u5408\u64ad\u653e\u5668\u3002\u5b83\u57fa\u4e8e **Next.js 14** + **Tailwind&nbsp;CSS** + **TypeScript** \u6784\u5efa\uff0c\u652f\u6301\u591a\u8d44\u6e90\u641c\u7d22\u3001\u5728\u7ebf\u64ad\u653e\u3001\u6536\u85cf\u540c\u6b65\u3001\u64ad\u653e\u8bb0\u5f55\u3001\u4e91\u7aef\u5b58\u50a8\uff0c\u8ba9\u4f60\u53ef\u4ee5\u968f\u65f6\u968f\u5730\u7545\u4eab\u6d77\u91cf\u514d\u8d39\u5f71\u89c6\u5185\u5bb9\u3002 <div align=\"center\"> ![Next.js](https://img.shields.io/badge/Next.js-14-000?logo=nextdotjs) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38bdf8?logo=tailwindcss) ![TypeScript](https://img.shields.io/badge/TypeScript-4.x-3178c6?logo=typescript) !",
+        "topics": [],
+        "updated_at": "2026-09-08T12:11:47Z"
+      },
+      "repo": {
+        "description": "\u672c\u9879\u76ee\u91c7\u7528 CC BY-NC-SA \u534f\u8bae\uff0c\u7981\u6b62\u4efb\u4f55\u5546\u4e1a\u5316\u884c\u4e3a\uff0c\u4efb\u4f55\u884d\u751f\u9879\u76ee\u5fc5\u987b\u4fdd\u7559\u672c\u9879\u76ee\u5730\u5740\u5e76\u4ee5\u76f8\u540c\u534f\u8bae\u5f00\u6e90",
+        "forks": 9032,
+        "full_name": "MoonTechLab/LunaTV",
+        "language": "TypeScript",
+        "name": "LunaTV",
+        "owner": "MoonTechLab",
+        "rank": 11,
+        "stars_today": 197,
+        "total_stars": 10073,
+        "url": "https://github.com/MoonTechLab/LunaTV"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.03,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.2,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 49.03
+      },
+      "tags": [
+        "AI Workflow"
+      ],
+      "verdict": "AI Workflow: TypeScript project with 197 stars today; score 49.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 38047,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 1897,
+        "total_stars": 253651,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 11.57,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 44.52
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 1897 stars today; score 44.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/coreyhaines31",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+        "forks": 7469,
+        "full_name": "sponsors/coreyhaines31",
+        "language": "JavaScript",
+        "name": "coreyhaines31",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 580,
+        "total_stars": 48483,
+        "url": "https://github.com/sponsors/coreyhaines31"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.45,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 42.9
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 580 stars today; score 42.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mksglu",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "forks": 1536,
+        "full_name": "sponsors/mksglu",
+        "language": "TypeScript",
+        "name": "mksglu",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 96,
+        "total_stars": 21194,
+        "url": "https://github.com/sponsors/mksglu"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.3,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 35.25
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 96 stars today; score 35.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 25366,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 446,
+        "total_stars": 283063,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.71,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 33.86
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 446 stars today; score 33.9/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-09-08",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is browser-use/browser-use."
+}
