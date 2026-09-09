@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-09-09
+
+Today leans toward AI workflow signal; the strongest pick is vastsa/PI-Desktop.
+
+Top picks
+1. vastsa/PI-Desktop - 77.4/100
+   https://github.com/vastsa/PI-Desktop
+   AI Workflow, Try Today: TypeScript project with 393 stars today; score 77.4/100.
+2. earthtojake/text-to-cad - 69.4/100
+   https://github.com/earthtojake/text-to-cad
+   AI Workflow, Try Today: Python project with 97 stars today; score 69.4/100.
+3. freestylefly/awesome-gpt-image-2 - 67.5/100
+   https://github.com/freestylefly/awesome-gpt-image-2
+   AI Workflow, DevTools: JavaScript project with 612 stars today; score 67.5/100.
+4. TauricResearch/TradingAgents - 66.3/100
+   https://github.com/TauricResearch/TradingAgents
+   AI Workflow, DevTools: Python project with 506 stars today; score 66.3/100.
+5. Tencent/teamai-cli - 65.1/100
+   https://github.com/Tencent/teamai-cli
+   AI Workflow, DevTools: TypeScript project with 1083 stars today; score 65.1/100.
+
+Full reviewed list
+- vastsa/PI-Desktop: 77.4/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 393 stars today; score 77.4/100.
+- earthtojake/text-to-cad: 69.4/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 97 stars today; score 69.4/100.
+- freestylefly/awesome-gpt-image-2: 67.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: JavaScript project with 612 stars today; score 67.5/100.
+- TauricResearch/TradingAgents: 66.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 506 stars today; score 66.3/100.
+- Tencent/teamai-cli: 65.1/100 [AI Workflow, DevTools, Deep Dive] AI Workflow, DevTools: TypeScript project with 1083 stars today; score 65.1/100.
+- liquidslr/system-design-notes: 49.2/100 [Watch] Watch: Unknown project with 910 stars today; score 49.2/100.
+- sponsors/rohitg00: 19.2/100 [Watch, Hype Risk] Watch, Hype Risk: Python project with 356 stars today; score 19.2/100.
+
+Generated for 2026-09-09 from GitHub Trending daily.

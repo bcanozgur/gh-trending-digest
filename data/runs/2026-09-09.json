@@ -1,0 +1,1104 @@
+{
+  "date": "2026-09-09",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-03-22T14:23:39Z",
+        "default_branch": "main",
+        "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+        "fork": false,
+        "full_name": "vastsa/PI-Desktop",
+        "homepage": "https://pi-docs.aiuo.net/",
+        "latest_release": "v0.14.5",
+        "license_spdx": "LGPL-3.0",
+        "open_issues": 47,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-09T12:26:06Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"docs/image/readme/logo.png\" alt=\"PI-Desktop\" width=\"112\" /> # PI-Desktop ### Your local-first desktop workspace for AI coding agents. **Bring your own model. Open any local project. Let agents work \u2014 while you stay in control.** No PI-Desktop account. No mandatory relay. No editor lock-in. <br /> [![Release](https://img.shields.io/github/v/release/vastsa/PI-Desktop?label=release)](https://github.com/vastsa/PI-Desktop/releases/latest) [![Downloads](https://img.shiel",
+        "topics": [
+          "ai-agent",
+          "coding-agent",
+          "desktop-app",
+          "electron",
+          "global",
+          "i18n",
+          "local-first",
+          "mcp",
+          "pi",
+          "pi-agent",
+          "pi-desktop",
+          "plugins",
+          "react",
+          "rust",
+          "typescript"
+        ],
+        "updated_at": "2026-09-09T12:25:52Z"
+      },
+      "repo": {
+        "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+        "forks": 144,
+        "full_name": "vastsa/PI-Desktop",
+        "language": "TypeScript",
+        "name": "PI-Desktop",
+        "owner": "vastsa",
+        "rank": 12,
+        "stars_today": 393,
+        "total_stars": 1452,
+        "url": "https://github.com/vastsa/PI-Desktop"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 4.33,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 77.42
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 393 stars today; score 77.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-22T01:09:45Z",
+        "default_branch": "main",
+        "description": "A library of agent skills for CAD, CAE and CAM",
+        "fork": false,
+        "full_name": "earthtojake/text-to-cad",
+        "homepage": "https://www.texttocad.dev",
+        "latest_release": "v0.5.1",
+        "license_spdx": "MIT",
+        "open_issues": 14,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-09T08:09:26Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"assets/text-to-cad-demo.gif\" alt=\"Demo of the CAD skill generating and previewing CAD geometry\" width=\"100%\"> <br> <pre> \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2557 \u2588\u2588\u2557\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2588\u2557 \u255a\u2550\u2550\u2588\u2588\u2554\u2550\u2550\u255d\u2588\u2588\u2554\u2550\u2550\u2550\u2550\u255d\u255a\u2588\u2588\u2557\u2588\u2588\u2554\u255d\u255a\u2550\u2550\u2588\u2588\u2554\u2550\u2550\u255d\u255a\u2550\u2550\u2550\u2550\u2588\u2588\u2557\u2588\u2588\u2554\u2550\u2550\u2550\u2550\u255d\u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2557\u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2557 \u2588\u2588\u2551 \u2588\u2588\u2588\u2588\u2588\u2557 \u255a\u2588\u2588\u2588\u2554\u255d \u2588\u2588\u2551 \u2588\u2588\u2588\u2588\u2588\u2554\u255d\u2588\u2588\u2551 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2551\u2588\u2588\u2551 \u2588\u2588\u2551 \u2588\u2588\u2551 \u2588\u2588\u2554\u2550\u2550\u255d \u2588\u2588\u2554\u2588\u2588\u2557 \u2588\u2588\u2551 \u2588\u2588\u2554\u2550\u2550\u2550\u255d \u2588\u2588\u2551 \u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2551\u2588\u2588\u2551 \u2588\u2588\u2551 \u2588\u2588\u2551 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2554\u255d \u2588\u2588\u2557 \u2588\u2588\u2551 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u255a\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2551 \u2588\u2588\u2551\u2588\u2588\u2588\u2588\u2588\u2588\u2554\u255d \u255a\u2550\u255d \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u255d\u255a\u2550\u255d \u255a\u2550\u255d \u255a\u2550\u255d \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u255d \u255a\u2550\u2550\u2550\u2550\u2550\u255d\u255a\u2550\u255d \u255a\u2550\u255d\u255a\u2550\u2550\u2550\u2550\u2550\u255d </pre>",
+        "topics": [
+          "agents",
+          "ai-agents",
+          "cad",
+          "mechanical-engineering",
+          "robotics",
+          "step",
+          "stl",
+          "stp",
+          "text-to-cad"
+        ],
+        "updated_at": "2026-09-09T12:24:01Z"
+      },
+      "repo": {
+        "description": "A library of agent skills for CAD, CAE and CAM",
+        "forks": 1556,
+        "full_name": "earthtojake/text-to-cad",
+        "language": "Python",
+        "name": "text-to-cad",
+        "owner": "earthtojake",
+        "rank": 5,
+        "stars_today": 97,
+        "total_stars": 14841,
+        "url": "https://github.com/earthtojake/text-to-cad"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.59,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 69.39
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 97 stars today; score 69.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-25T09:19:13Z",
+        "default_branch": "main",
+        "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
+        "fork": false,
+        "full_name": "freestylefly/awesome-gpt-image-2",
+        "homepage": "https://gpt-image2.canghe.ai",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 23,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-09T08:31:41Z",
+        "readme_excerpt": "<p align=\"center\"><img src=\"./data/images/banner.svg\" alt=\"GPT-Image2 Prompt System\" width=\"800\" /></p> <h3 align=\"center\">Prompt as Code | GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases, 20+ Industrial Templates</h3> <p align=\"center\"> <a href=\"https://github.com/freestylefly/awesome-gpt-image-2\"><img src=\"https://img.shields.io/github/stars/freestylefly/awesome-gpt-image-2?style=flat-square&color=rgb(25%2C%20121%2C%20255)\" alt=\"Stars\"></a> <a href=\"https:",
+        "topics": [
+          "agents",
+          "ai-image-generation",
+          "chatgpt",
+          "dsh-plugin",
+          "gpt-image-2",
+          "image-prompts",
+          "prompt-as-code",
+          "prompt-engineering",
+          "skills",
+          "workflow-automation"
+        ],
+        "updated_at": "2026-09-09T12:26:24Z"
+      },
+      "repo": {
+        "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
+        "forks": 2848,
+        "full_name": "freestylefly/awesome-gpt-image-2",
+        "language": "JavaScript",
+        "name": "awesome-gpt-image-2",
+        "owner": "freestylefly",
+        "rank": 10,
+        "stars_today": 612,
+        "total_stars": 29647,
+        "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.91,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 67.51
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 612 stars today; score 67.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-12-28T03:31:08Z",
+        "default_branch": "main",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "fork": false,
+        "full_name": "TauricResearch/TradingAgents",
+        "homepage": "https://arxiv.org/pdf/2412.20138",
+        "latest_release": "v0.4.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 364,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-07T22:51:54Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"assets/TauricResearch.png\" style=\"width: 60%; height: auto;\"> </p> <div align=\"center\" style=\"line-height: 1;\"> <a href=\"https://arxiv.org/abs/2412.20138\" target=\"_blank\"><img alt=\"arXiv\" src=\"https://img.shields.io/badge/arXiv-2412.20138-B31B1B?logo=arxiv\"/></a> <a href=\"https://discord.com/invite/hk9PGKShPK\" target=\"_blank\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/Discord-TradingResearch-7289da?logo=discord&logoColor=white&color=7289da\"/></a> <a href=\"h",
+        "topics": [
+          "agent",
+          "finance",
+          "llm",
+          "multiagent",
+          "trading"
+        ],
+        "updated_at": "2026-09-09T12:26:26Z"
+      },
+      "repo": {
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "forks": 19924,
+        "full_name": "TauricResearch/TradingAgents",
+        "language": "Python",
+        "name": "TradingAgents",
+        "owner": "TauricResearch",
+        "rank": 7,
+        "stars_today": 506,
+        "total_stars": 103574,
+        "url": "https://github.com/TauricResearch/TradingAgents"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.71,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 66.31
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 506 stars today; score 66.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-27T09:42:49Z",
+        "default_branch": "main",
+        "description": "Make Every Team AI Native",
+        "fork": false,
+        "full_name": "Tencent/teamai-cli",
+        "homepage": null,
+        "latest_release": "v0.23.1",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 18,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-09T12:15:10Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"assets/teamai-cli-logo.svg\" alt=\"teamai-cli\"> </p> # TeamAI \u2014 Make Every Team AI Native > [English](README.md) | [\u7b80\u4f53\u4e2d\u6587](README.zh-CN.md) [![CI](https://github.com/Tencent/teamai-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/Tencent/teamai-cli/actions/workflows/ci.yml) [![npm version](https://img.shields.io/npm/v/teamai-cli.svg)](https://www.npmjs.com/package/teamai-cli) [![npm downloads](https://img.shields.io/npm/dm/teamai-cli.svg)](https://www.npmjs.c",
+        "topics": [],
+        "updated_at": "2026-09-09T12:26:14Z"
+      },
+      "repo": {
+        "description": "Make Every Team AI Native",
+        "forks": 169,
+        "full_name": "Tencent/teamai-cli",
+        "language": "TypeScript",
+        "name": "teamai-cli",
+        "owner": "Tencent",
+        "rank": 2,
+        "stars_today": 1083,
+        "total_stars": 2666,
+        "url": "https://github.com/Tencent/teamai-cli"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 9.83,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 4.2,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 65.14
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1083 stars today; score 65.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-12-24T01:19:44Z",
+        "default_branch": "main",
+        "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+        "fork": false,
+        "full_name": "liquidslr/system-design-notes",
+        "homepage": "https://pagefy-blush.vercel.app/system-design/system-design-interview-by-alex-xu",
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 5,
+        "primary_language": null,
+        "pushed_at": "2026-08-12T22:22:21Z",
+        "readme_excerpt": "# [System Design Interview - An Insider's Guide (Vol 1 and 2)](https://bytebytego.com/courses/system-design-interview) These notes are based on the System Design Interview books - [Vol 1 and Vol 2 2nd Ed](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide) Check the notes here: https://pagefy.io/system-design/system-design-interview-by-alex-xu **Note:** These notes are a work in progress. * [Chapter 1 - Scale From Zero To Millions Of Users](./01.%20Scaling/) ",
+        "topics": [],
+        "updated_at": "2026-09-09T12:24:44Z"
+      },
+      "repo": {
+        "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+        "forks": 3338,
+        "full_name": "liquidslr/system-design-notes",
+        "language": null,
+        "name": "system-design-notes",
+        "owner": "liquidslr",
+        "rank": 8,
+        "stars_today": 910,
+        "total_stars": 17531,
+        "url": "https://github.com/liquidslr/system-design-notes"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.95,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 3.85,
+        "strategic_relevance": 3.25,
+        "technical_quality": 9.1,
+        "total": 49.2
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: Unknown project with 910 stars today; score 49.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/rohitg00",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Learn it. Build it. Ship it for others.",
+        "forks": 9345,
+        "full_name": "sponsors/rohitg00",
+        "language": "Python",
+        "name": "rohitg00",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 356,
+        "total_stars": 53360,
+        "url": "https://github.com/sponsors/rohitg00"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.26,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.74,
+        "technical_quality": 3.5,
+        "total": 19.2
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 356 stars today; score 19.2/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-03-22T14:23:39Z",
+        "default_branch": "main",
+        "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+        "fork": false,
+        "full_name": "vastsa/PI-Desktop",
+        "homepage": "https://pi-docs.aiuo.net/",
+        "latest_release": "v0.14.5",
+        "license_spdx": "LGPL-3.0",
+        "open_issues": 47,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-09T12:26:06Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"docs/image/readme/logo.png\" alt=\"PI-Desktop\" width=\"112\" /> # PI-Desktop ### Your local-first desktop workspace for AI coding agents. **Bring your own model. Open any local project. Let agents work \u2014 while you stay in control.** No PI-Desktop account. No mandatory relay. No editor lock-in. <br /> [![Release](https://img.shields.io/github/v/release/vastsa/PI-Desktop?label=release)](https://github.com/vastsa/PI-Desktop/releases/latest) [![Downloads](https://img.shiel",
+        "topics": [
+          "ai-agent",
+          "coding-agent",
+          "desktop-app",
+          "electron",
+          "global",
+          "i18n",
+          "local-first",
+          "mcp",
+          "pi",
+          "pi-agent",
+          "pi-desktop",
+          "plugins",
+          "react",
+          "rust",
+          "typescript"
+        ],
+        "updated_at": "2026-09-09T12:25:52Z"
+      },
+      "repo": {
+        "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+        "forks": 144,
+        "full_name": "vastsa/PI-Desktop",
+        "language": "TypeScript",
+        "name": "PI-Desktop",
+        "owner": "vastsa",
+        "rank": 12,
+        "stars_today": 393,
+        "total_stars": 1452,
+        "url": "https://github.com/vastsa/PI-Desktop"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 4.33,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 77.42
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 393 stars today; score 77.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-22T01:09:45Z",
+        "default_branch": "main",
+        "description": "A library of agent skills for CAD, CAE and CAM",
+        "fork": false,
+        "full_name": "earthtojake/text-to-cad",
+        "homepage": "https://www.texttocad.dev",
+        "latest_release": "v0.5.1",
+        "license_spdx": "MIT",
+        "open_issues": 14,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-09T08:09:26Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"assets/text-to-cad-demo.gif\" alt=\"Demo of the CAD skill generating and previewing CAD geometry\" width=\"100%\"> <br> <pre> \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2557 \u2588\u2588\u2557\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2557 \u2588\u2588\u2588\u2588\u2588\u2588\u2557 \u255a\u2550\u2550\u2588\u2588\u2554\u2550\u2550\u255d\u2588\u2588\u2554\u2550\u2550\u2550\u2550\u255d\u255a\u2588\u2588\u2557\u2588\u2588\u2554\u255d\u255a\u2550\u2550\u2588\u2588\u2554\u2550\u2550\u255d\u255a\u2550\u2550\u2550\u2550\u2588\u2588\u2557\u2588\u2588\u2554\u2550\u2550\u2550\u2550\u255d\u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2557\u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2557 \u2588\u2588\u2551 \u2588\u2588\u2588\u2588\u2588\u2557 \u255a\u2588\u2588\u2588\u2554\u255d \u2588\u2588\u2551 \u2588\u2588\u2588\u2588\u2588\u2554\u255d\u2588\u2588\u2551 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2551\u2588\u2588\u2551 \u2588\u2588\u2551 \u2588\u2588\u2551 \u2588\u2588\u2554\u2550\u2550\u255d \u2588\u2588\u2554\u2588\u2588\u2557 \u2588\u2588\u2551 \u2588\u2588\u2554\u2550\u2550\u2550\u255d \u2588\u2588\u2551 \u2588\u2588\u2554\u2550\u2550\u2588\u2588\u2551\u2588\u2588\u2551 \u2588\u2588\u2551 \u2588\u2588\u2551 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2554\u255d \u2588\u2588\u2557 \u2588\u2588\u2551 \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u255a\u2588\u2588\u2588\u2588\u2588\u2588\u2557\u2588\u2588\u2551 \u2588\u2588\u2551\u2588\u2588\u2588\u2588\u2588\u2588\u2554\u255d \u255a\u2550\u255d \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u255d\u255a\u2550\u255d \u255a\u2550\u255d \u255a\u2550\u255d \u255a\u2550\u2550\u2550\u2550\u2550\u2550\u255d \u255a\u2550\u2550\u2550\u2550\u2550\u255d\u255a\u2550\u255d \u255a\u2550\u255d\u255a\u2550\u2550\u2550\u2550\u2550\u255d </pre>",
+        "topics": [
+          "agents",
+          "ai-agents",
+          "cad",
+          "mechanical-engineering",
+          "robotics",
+          "step",
+          "stl",
+          "stp",
+          "text-to-cad"
+        ],
+        "updated_at": "2026-09-09T12:24:01Z"
+      },
+      "repo": {
+        "description": "A library of agent skills for CAD, CAE and CAM",
+        "forks": 1556,
+        "full_name": "earthtojake/text-to-cad",
+        "language": "Python",
+        "name": "text-to-cad",
+        "owner": "earthtojake",
+        "rank": 5,
+        "stars_today": 97,
+        "total_stars": 14841,
+        "url": "https://github.com/earthtojake/text-to-cad"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.59,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 69.39
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 97 stars today; score 69.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-16T18:01:16Z",
+        "default_branch": "main",
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "fork": false,
+        "full_name": "cathrynlavery/diagram-design",
+        "homepage": "https://cathrynlavery.github.io/diagram-design/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 37,
+        "primary_language": "HTML",
+        "pushed_at": "2026-09-08T19:45:13Z",
+        "readme_excerpt": "# Diagram Design **Editorial diagrams your designer won't hate.** <a href=\"https://trendshift.io/repositories/26141?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-26141\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/26141\" alt=\"cathrynlavery%2Fdiagram-design | Trendshift\" width=\"250\" height=\"55\"/></a> [![Content site architecture](docs/screenshots/thumbs/architecture.webp)](docs/screenshots/architecture.png) [",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "codex",
+          "data-visualization",
+          "diagrams",
+          "drawio",
+          "mermaid",
+          "svg"
+        ],
+        "updated_at": "2026-09-09T12:26:01Z"
+      },
+      "repo": {
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "forks": 2264,
+        "full_name": "cathrynlavery/diagram-design",
+        "language": "HTML",
+        "name": "diagram-design",
+        "owner": "cathrynlavery",
+        "rank": 6,
+        "stars_today": 710,
+        "total_stars": 36013,
+        "url": "https://github.com/cathrynlavery/diagram-design"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.06,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 68.66
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: HTML project with 710 stars today; score 68.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-25T09:19:13Z",
+        "default_branch": "main",
+        "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
+        "fork": false,
+        "full_name": "freestylefly/awesome-gpt-image-2",
+        "homepage": "https://gpt-image2.canghe.ai",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 23,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-09T08:31:41Z",
+        "readme_excerpt": "<p align=\"center\"><img src=\"./data/images/banner.svg\" alt=\"GPT-Image2 Prompt System\" width=\"800\" /></p> <h3 align=\"center\">Prompt as Code | GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases, 20+ Industrial Templates</h3> <p align=\"center\"> <a href=\"https://github.com/freestylefly/awesome-gpt-image-2\"><img src=\"https://img.shields.io/github/stars/freestylefly/awesome-gpt-image-2?style=flat-square&color=rgb(25%2C%20121%2C%20255)\" alt=\"Stars\"></a> <a href=\"https:",
+        "topics": [
+          "agents",
+          "ai-image-generation",
+          "chatgpt",
+          "dsh-plugin",
+          "gpt-image-2",
+          "image-prompts",
+          "prompt-as-code",
+          "prompt-engineering",
+          "skills",
+          "workflow-automation"
+        ],
+        "updated_at": "2026-09-09T12:26:24Z"
+      },
+      "repo": {
+        "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
+        "forks": 2848,
+        "full_name": "freestylefly/awesome-gpt-image-2",
+        "language": "JavaScript",
+        "name": "awesome-gpt-image-2",
+        "owner": "freestylefly",
+        "rank": 10,
+        "stars_today": 612,
+        "total_stars": 29647,
+        "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.91,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 67.51
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 612 stars today; score 67.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-12-28T03:31:08Z",
+        "default_branch": "main",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "fork": false,
+        "full_name": "TauricResearch/TradingAgents",
+        "homepage": "https://arxiv.org/pdf/2412.20138",
+        "latest_release": "v0.4.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 364,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-07T22:51:54Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"assets/TauricResearch.png\" style=\"width: 60%; height: auto;\"> </p> <div align=\"center\" style=\"line-height: 1;\"> <a href=\"https://arxiv.org/abs/2412.20138\" target=\"_blank\"><img alt=\"arXiv\" src=\"https://img.shields.io/badge/arXiv-2412.20138-B31B1B?logo=arxiv\"/></a> <a href=\"https://discord.com/invite/hk9PGKShPK\" target=\"_blank\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/Discord-TradingResearch-7289da?logo=discord&logoColor=white&color=7289da\"/></a> <a href=\"h",
+        "topics": [
+          "agent",
+          "finance",
+          "llm",
+          "multiagent",
+          "trading"
+        ],
+        "updated_at": "2026-09-09T12:26:26Z"
+      },
+      "repo": {
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "forks": 19924,
+        "full_name": "TauricResearch/TradingAgents",
+        "language": "Python",
+        "name": "TradingAgents",
+        "owner": "TauricResearch",
+        "rank": 7,
+        "stars_today": 506,
+        "total_stars": 103574,
+        "url": "https://github.com/TauricResearch/TradingAgents"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.71,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 66.31
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 506 stars today; score 66.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-27T09:42:49Z",
+        "default_branch": "main",
+        "description": "Make Every Team AI Native",
+        "fork": false,
+        "full_name": "Tencent/teamai-cli",
+        "homepage": null,
+        "latest_release": "v0.23.1",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 18,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-09T12:15:10Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"assets/teamai-cli-logo.svg\" alt=\"teamai-cli\"> </p> # TeamAI \u2014 Make Every Team AI Native > [English](README.md) | [\u7b80\u4f53\u4e2d\u6587](README.zh-CN.md) [![CI](https://github.com/Tencent/teamai-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/Tencent/teamai-cli/actions/workflows/ci.yml) [![npm version](https://img.shields.io/npm/v/teamai-cli.svg)](https://www.npmjs.com/package/teamai-cli) [![npm downloads](https://img.shields.io/npm/dm/teamai-cli.svg)](https://www.npmjs.c",
+        "topics": [],
+        "updated_at": "2026-09-09T12:26:14Z"
+      },
+      "repo": {
+        "description": "Make Every Team AI Native",
+        "forks": 169,
+        "full_name": "Tencent/teamai-cli",
+        "language": "TypeScript",
+        "name": "teamai-cli",
+        "owner": "Tencent",
+        "rank": 2,
+        "stars_today": 1083,
+        "total_stars": 2666,
+        "url": "https://github.com/Tencent/teamai-cli"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 9.83,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 4.2,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 65.14
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1083 stars today; score 65.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-04T21:52:32Z",
+        "default_branch": "main",
+        "description": "OpenAI Plugins",
+        "fork": false,
+        "full_name": "openai/plugins",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 38,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-08T17:57:28Z",
+        "readme_excerpt": "# Plugins This repository contains a curated collection of Codex plugin examples. Each plugin lives under `plugins/<name>/` with a required `.codex-plugin/plugin.json` manifest and optional companion surfaces such as `skills/`, `.app.json`, `.mcp.json`, plugin-level `agents/`, `commands/`, `hooks.json`, `assets/`, and other supporting files. The default marketplace lives at `.agents/plugins/marketplace.json` and points at the standard `plugins/` directory. API key login users have a separate mar",
+        "topics": [],
+        "updated_at": "2026-09-09T12:24:19Z"
+      },
+      "repo": {
+        "description": "OpenAI Plugins",
+        "forks": 812,
+        "full_name": "openai/plugins",
+        "language": "JavaScript",
+        "name": "plugins",
+        "owner": "openai",
+        "rank": 9,
+        "stars_today": 105,
+        "total_stars": 6062,
+        "url": "https://github.com/openai/plugins"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.07,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 64.71
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 105 stars today; score 64.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-13T20:42:06Z",
+        "default_branch": "main",
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "fork": false,
+        "full_name": "ayghri/i-have-adhd",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 34,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-08T17:08:54Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"./logo.png\" alt=\"i-have-adhd\" width=\"140\" /> </p> <p align=\"center\"> <strong align=\"center\">ADHD-friendly outputs. No ADHD diagnosis needed!</strong> </p> <p align=\"center\"> <a href=\"LICENSE\"><img src=\"https://img.shields.io/github/license/ayghri/i-have-adhd?style=flat\" alt=\"License\"></a> </p> <p align=\"center\"> <strong title=\"English\" aria-label=\"English\">\ud83c\uddec\ud83c\udde7</strong> \u00b7 <a href=\".github/readme/README.zh-CN.md\" title=\"\u7b80\u4f53\u4e2d\u6587\" aria-label=\"\u7b80\u4f53\u4e2d\u6587\">\ud83c\udde8\ud83c\uddf3</a> \u00b7 <a href=\".github/",
+        "topics": [
+          "adhd",
+          "claude-",
+          "claude-code-plugin",
+          "claude-skills",
+          "developer-tools",
+          "productivity"
+        ],
+        "updated_at": "2026-09-09T12:26:14Z"
+      },
+      "repo": {
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "forks": 1947,
+        "full_name": "ayghri/i-have-adhd",
+        "language": "Python",
+        "name": "i-have-adhd",
+        "owner": "ayghri",
+        "rank": 1,
+        "stars_today": 656,
+        "total_stars": 32782,
+        "url": "https://github.com/ayghri/i-have-adhd"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.46,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 59.01
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 656 stars today; score 59.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-16T19:35:06Z",
+        "default_branch": "main",
+        "description": "Create and share 3D architectural projects.",
+        "fork": false,
+        "full_name": "pascalorg/editor",
+        "homepage": "https://editor.pascal.app",
+        "latest_release": "v0.9.1",
+        "license_spdx": "MIT",
+        "open_issues": 45,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-09T12:02:40Z",
+        "readme_excerpt": "# Pascal Editor A 3D building editor built with React Three Fiber and WebGPU. [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![npm @pascal-app/core](https://img.shields.io/npm/v/@pascal-app/core?label=%40pascal-app%2Fcore)](https://www.npmjs.com/package/@pascal-app/core) [![npm @pascal-app/viewer](https://img.shields.io/npm/v/@pascal-app/viewer?label=%40pascal-app%2Fviewer)](https://www.npmjs.com/package/@pascal-app/viewer) [![npm @pascal-app/cli](https://img.shiel",
+        "topics": [
+          "3d",
+          "architecture",
+          "bim",
+          "cad",
+          "editor",
+          "floorplan",
+          "mcp",
+          "nextjs",
+          "parametric-design",
+          "react-three-fiber",
+          "threejs",
+          "typescript"
+        ],
+        "updated_at": "2026-09-09T12:24:11Z"
+      },
+      "repo": {
+        "description": "Create and share 3D architectural projects.",
+        "forks": 2885,
+        "full_name": "pascalorg/editor",
+        "language": "TypeScript",
+        "name": "editor",
+        "owner": "pascalorg",
+        "rank": 4,
+        "stars_today": 442,
+        "total_stars": 22684,
+        "url": "https://github.com/pascalorg/editor"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.77,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 49.63
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 442 stars today; score 49.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-12-24T01:19:44Z",
+        "default_branch": "main",
+        "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+        "fork": false,
+        "full_name": "liquidslr/system-design-notes",
+        "homepage": "https://pagefy-blush.vercel.app/system-design/system-design-interview-by-alex-xu",
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 5,
+        "primary_language": null,
+        "pushed_at": "2026-08-12T22:22:21Z",
+        "readme_excerpt": "# [System Design Interview - An Insider's Guide (Vol 1 and 2)](https://bytebytego.com/courses/system-design-interview) These notes are based on the System Design Interview books - [Vol 1 and Vol 2 2nd Ed](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide) Check the notes here: https://pagefy.io/system-design/system-design-interview-by-alex-xu **Note:** These notes are a work in progress. * [Chapter 1 - Scale From Zero To Millions Of Users](./01.%20Scaling/) ",
+        "topics": [],
+        "updated_at": "2026-09-09T12:24:44Z"
+      },
+      "repo": {
+        "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+        "forks": 3338,
+        "full_name": "liquidslr/system-design-notes",
+        "language": null,
+        "name": "system-design-notes",
+        "owner": "liquidslr",
+        "rank": 8,
+        "stars_today": 910,
+        "total_stars": 17531,
+        "url": "https://github.com/liquidslr/system-design-notes"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.95,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 3.85,
+        "strategic_relevance": 3.25,
+        "technical_quality": 9.1,
+        "total": 49.2
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: Unknown project with 910 stars today; score 49.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 38161,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 1427,
+        "total_stars": 254754,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 10.27,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 43.22
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 1427 stars today; score 43.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 25392,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 452,
+        "total_stars": 283710,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.97,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 35.12
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 452 stars today; score 35.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/rohitg00",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Learn it. Build it. Ship it for others.",
+        "forks": 9345,
+        "full_name": "sponsors/rohitg00",
+        "language": "Python",
+        "name": "rohitg00",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 356,
+        "total_stars": 53360,
+        "url": "https://github.com/sponsors/rohitg00"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.26,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.74,
+        "technical_quality": 3.5,
+        "total": 19.2
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 356 stars today; score 19.2/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-09-09",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is vastsa/PI-Desktop."
+}
