@@ -1,0 +1,34 @@
+GitHub Trending: AI workflow signal - 2026-09-10
+
+Today leans toward AI workflow signal; the strongest pick is vercel-labs/skills.
+
+Top picks
+1. vercel-labs/skills - 74.9/100
+   https://github.com/vercel-labs/skills
+   AI Workflow, DevTools: TypeScript project with 125 stars today; score 74.9/100.
+2. alsk1992/CloddsBot - 74.0/100
+   https://github.com/alsk1992/CloddsBot
+   AI Workflow, DevTools: TypeScript project with 299 stars today; score 74.0/100.
+3. nashsu/llm_wiki - 64.9/100
+   https://github.com/nashsu/llm_wiki
+   AI Workflow, Deep Dive: TypeScript project with 94 stars today; score 64.9/100.
+4. JustVugg/colibri - 63.6/100
+   https://github.com/JustVugg/colibri
+   AI Workflow, Try Today: C project with 157 stars today; score 63.6/100.
+5. THU-MAIC/OpenMAIC - 58.4/100
+   https://github.com/THU-MAIC/OpenMAIC
+   AI Workflow, DevTools: TypeScript project with 806 stars today; score 58.4/100.
+
+Full reviewed list
+- vercel-labs/skills: 74.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 125 stars today; score 74.9/100.
+- alsk1992/CloddsBot: 74.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 299 stars today; score 74.0/100.
+- nashsu/llm_wiki: 64.9/100 [AI Workflow, Deep Dive] AI Workflow, Deep Dive: TypeScript project with 94 stars today; score 64.9/100.
+- JustVugg/colibri: 63.6/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: C project with 157 stars today; score 63.6/100.
+- THU-MAIC/OpenMAIC: 58.4/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 806 stars today; score 58.4/100.
+- bilawalsidhu/gods-eye-view: 57.9/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: JavaScript project with 1588 stars today; score 57.9/100.
+- armory3d/armorpaint: 54.7/100 [AI Workflow, DevTools, Try Today] AI Workflow, DevTools: C project with 73 stars today; score 54.7/100.
+- sponsors/diegosouzapw: 51.8/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: TypeScript project with 591 stars today; score 51.8/100.
+- sponsors/obra: 33.7/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Shell project with 688 stars today; score 33.7/100.
+- sponsors/AlexsJones: 31.8/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Rust project with 247 stars today; score 31.8/100.
+
+Generated for 2026-09-10 from GitHub Trending daily.

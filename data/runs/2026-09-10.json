@@ -1,0 +1,1414 @@
+{
+  "date": "2026-09-10",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-14T21:31:18Z",
+        "default_branch": "main",
+        "description": "The open agent skills tool - npx skills",
+        "fork": false,
+        "full_name": "vercel-labs/skills",
+        "homepage": "https://skills.sh",
+        "latest_release": "v1.5.25",
+        "license_spdx": "MIT",
+        "open_issues": 1185,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-08T17:31:59Z",
+        "readme_excerpt": "# skills The CLI for the open agent skills ecosystem. <!-- agent-list:start --> Supports **OpenCode**, **Claude Code**, **Codex**, **Cursor**, and [75 more](#supported-agents). <!-- agent-list:end --> [![skills.sh](https://skills.sh/b/vercel-labs/skills)](https://skills.sh/vercel-labs/skills) ## Install a Skill ```bash npx skills add vercel-labs/agent-skills ``` ## Use a Skill Without Installing Generate a prompt for one skill, or start a supported coding agent interactively: ```bash npx skills ",
+        "topics": [],
+        "updated_at": "2026-09-10T12:20:24Z"
+      },
+      "repo": {
+        "description": "The open agent skills tool - npx skills",
+        "forks": 2643,
+        "full_name": "vercel-labs/skills",
+        "language": "TypeScript",
+        "name": "skills",
+        "owner": "vercel-labs",
+        "rank": 15,
+        "stars_today": 125,
+        "total_stars": 30891,
+        "url": "https://github.com/vercel-labs/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 1.81,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 74.9
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 125 stars today; score 74.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-26T15:08:42Z",
+        "default_branch": "main",
+        "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+        "fork": false,
+        "full_name": "alsk1992/CloddsBot",
+        "homepage": "https://www.cloddsbot.com",
+        "latest_release": "v1.9.0",
+        "license_spdx": "MIT",
+        "open_issues": 31,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-01T23:31:02Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"https://cloddsbot.com/logo.png\" alt=\"Clodds Logo\" width=\"280\"> </p> <p align=\"center\"> <strong>AI-powered trading terminal for prediction markets, crypto & futures</strong> <br> <sub>Claude + Odds = Clodds</sub> </p> <p align=\"center\"> <strong>Clodds CA:</strong> <code>2puc76ehVHyPXhZmDprtP2phDSFE4kzZKDT4JgAWpump</code> </p> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/clodds\"><img src=\"https://img.shields.io/npm/v/clodds?color=blue\" alt=\"npm version\"></",
+        "topics": [
+          "agi",
+          "ai",
+          "arbitrage",
+          "claude",
+          "crypto",
+          "defi",
+          "ethereum",
+          "futures",
+          "hft",
+          "hyperliquid",
+          "kalshi",
+          "polymarket",
+          "prediction-markets",
+          "pumpswap",
+          "solana",
+          "telegram-bot",
+          "trading",
+          "trading-bot",
+          "typescript",
+          "x402"
+        ],
+        "updated_at": "2026-09-10T12:20:07Z"
+      },
+      "repo": {
+        "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+        "forks": 240,
+        "full_name": "alsk1992/CloddsBot",
+        "language": "TypeScript",
+        "name": "CloddsBot",
+        "owner": "alsk1992",
+        "rank": 4,
+        "stars_today": 299,
+        "total_stars": 1331,
+        "url": "https://github.com/alsk1992/CloddsBot"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.71,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 74.01
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 299 stars today; score 74.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-08T11:24:01Z",
+        "default_branch": "main",
+        "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base \u2014 automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources\u3002",
+        "fork": false,
+        "full_name": "nashsu/llm_wiki",
+        "homepage": null,
+        "latest_release": "v0.6.11",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 257,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-25T06:42:02Z",
+        "readme_excerpt": "# LLM Wiki <p align=\"center\"> <img src=\"logo.jpg\" width=\"128\" height=\"128\" style=\"border-radius: 22%;\" alt=\"LLM Wiki Logo\"> </p> <p align=\"center\"> <strong>A personal knowledge base that builds itself.</strong><br> LLM reads your documents, builds a structured wiki, and keeps it current. </p> <p align=\"center\"> <a href=\"#what-is-this\">What is this?</a> \u2022 <a href=\"#what-we-changed--added\">Features</a> \u2022 <a href=\"#tech-stack\">Tech Stack</a> \u2022 <a href=\"#installation\">Installation</a> \u2022 <a href=\"#cr",
+        "topics": [],
+        "updated_at": "2026-09-10T12:18:37Z"
+      },
+      "repo": {
+        "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base \u2014 automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources\u3002",
+        "forks": 2089,
+        "full_name": "nashsu/llm_wiki",
+        "language": "TypeScript",
+        "name": "llm_wiki",
+        "owner": "nashsu",
+        "rank": 14,
+        "stars_today": 94,
+        "total_stars": 17823,
+        "url": "https://github.com/nashsu/llm_wiki"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 1.9,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 4.2,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 64.89
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: TypeScript project with 94 stars today; score 64.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-01T12:27:49Z",
+        "default_branch": "main",
+        "description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \ud83d\udc26",
+        "fork": false,
+        "full_name": "JustVugg/colibri",
+        "homepage": "https://justvugg.github.io/colibri",
+        "latest_release": "v1.10.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 116,
+        "primary_language": "C",
+        "pushed_at": "2026-09-10T08:08:30Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"assets/colibri-logo.svg\" width=\"560\" alt=\"colibr\u00ec \u2014 tiny engine, immense model\"> </p> <p align=\"center\"> <a href=\"https://justvugg.github.io/colibri\"><img src=\"https://img.shields.io/badge/website-justvugg.github.io%2Fcolibri-1f6feb\" alt=\"Website\"></a> <a href=\"https://github.com/JustVugg/colibri/releases\"><img src=\"https://img.shields.io/github/v/release/JustVugg/colibri?color=2ea043\" alt=\"Latest release\"></a> </p> <p align=\"center\"> <a href=\"https://justvugg.github",
+        "topics": [],
+        "updated_at": "2026-09-10T12:18:40Z"
+      },
+      "repo": {
+        "description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \ud83d\udc26",
+        "forks": 2997,
+        "full_name": "JustVugg/colibri",
+        "language": "C",
+        "name": "colibri",
+        "owner": "JustVugg",
+        "rank": 12,
+        "stars_today": 157,
+        "total_stars": 27291,
+        "url": "https://github.com/JustVugg/colibri"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.3,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.6
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: C project with 157 stars today; score 63.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-11T10:13:16Z",
+        "default_branch": "main",
+        "description": "Open Multi-Agent Interactive Classroom \u2014 Get an immersive, multi-agent learning experience in just one click",
+        "fork": false,
+        "full_name": "THU-MAIC/OpenMAIC",
+        "homepage": null,
+        "latest_release": "v1.0.1",
+        "license_spdx": "MIT",
+        "open_issues": 268,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-09T10:25:46Z",
+        "readme_excerpt": "<!-- <p align=\"center\"> <img src=\"assets/logo-horizontal.png\" alt=\"OpenMAIC\" width=\"420\"/> </p> --> <p align=\"center\"> <img src=\"assets/banner.png\" alt=\"OpenMAIC Banner\" width=\"680\"/> </p> <p align=\"center\"> Get an immersive, multi-agent learning experience in just one click </p> <p align=\"center\"> <a href=\"https://lcn6dqn3m0yr.feishu.cn/wiki/CkQSwHFdzibQFvkGzwPcmUOfnXg\"><img src=\"https://img.shields.io/badge/%F0%9F%93%98%20User%20Guide-v1.0.0%20%C2%B7%20English-4F8EF7?style=for-the-badge\" alt=\"",
+        "topics": [],
+        "updated_at": "2026-09-10T12:20:20Z"
+      },
+      "repo": {
+        "description": "Open Multi-Agent Interactive Classroom \u2014 Get an immersive, multi-agent learning experience in just one click",
+        "forks": 5597,
+        "full_name": "THU-MAIC/OpenMAIC",
+        "language": "TypeScript",
+        "name": "OpenMAIC",
+        "owner": "THU-MAIC",
+        "rank": 13,
+        "stars_today": 806,
+        "total_stars": 34928,
+        "url": "https://github.com/THU-MAIC/OpenMAIC"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.33,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 58.38
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 806 stars today; score 58.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-22T23:37:22Z",
+        "default_branch": "main",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "fork": false,
+        "full_name": "bilawalsidhu/gods-eye-view",
+        "homepage": "https://maptheworld.ai/",
+        "latest_release": "v0.1.1",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 148,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-05T08:30:57Z",
+        "readme_excerpt": "<div align=\"center\"> # \ud83c\udf10 God's Eye View ### A spy-satellite simulator in your browser \u2014 then you realize the sources are public and the data is real. Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands-free voice control powered by a realtime AI agent. *No place left behind.* ![Orbital HUD, a tracked live globe, FLIR terrain \u2014 then OPEN SOURCED](docs/media/hero-open-source-reveal.gif) <a href=\"https://www.youtube.com/@bilawalsidhu\"> <img src",
+        "topics": [
+          "3d-globe",
+          "cesium",
+          "flight-tracking",
+          "geospatial",
+          "geospatial-intelligence",
+          "gis",
+          "osint",
+          "photogrammetry",
+          "satellite-tracking",
+          "spatial-intelligence",
+          "webgl",
+          "worldview"
+        ],
+        "updated_at": "2026-09-10T12:20:23Z"
+      },
+      "repo": {
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "forks": 4738,
+        "full_name": "bilawalsidhu/gods-eye-view",
+        "language": "JavaScript",
+        "name": "gods-eye-view",
+        "owner": "bilawalsidhu",
+        "rank": 2,
+        "stars_today": 1588,
+        "total_stars": 22252,
+        "url": "https://github.com/bilawalsidhu/gods-eye-view"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.32,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 57.87
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 1588 stars today; score 57.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2017-02-06T23:03:08Z",
+        "default_branch": "main",
+        "description": "Graphics Creation Tools",
+        "fork": false,
+        "full_name": "armory3d/armorpaint",
+        "homepage": "https://armorpaint.org",
+        "latest_release": "26.09",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 99,
+        "primary_language": "C",
+        "pushed_at": "2026-09-09T19:25:19Z",
+        "readme_excerpt": "![](https://armorpaint.org/img/git.jpg) armorpaint ============== [ArmorPaint](https://armorpaint.org) is a software for 3D PBR texture painting - check out the [manual](https://armorpaint.org/manual). *Note 1: This repository is aimed at developers and may not be stable. Distributed binaries are [paid](https://armorpaint.org/download) to help with the project funding. All of the development is happening here in order to make it accessible to everyone. Thank you for support!* *Note 2: If you are",
+        "topics": [
+          "3d",
+          "armorpaint",
+          "painting",
+          "texturing",
+          "tool"
+        ],
+        "updated_at": "2026-09-10T12:18:29Z"
+      },
+      "repo": {
+        "description": "Graphics Creation Tools",
+        "forks": 510,
+        "full_name": "armory3d/armorpaint",
+        "language": "C",
+        "name": "armorpaint",
+        "owner": "armory3d",
+        "rank": 10,
+        "stars_today": 73,
+        "total_stars": 4250,
+        "url": "https://github.com/armory3d/armorpaint"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.44,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 54.69
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: C project with 73 stars today; score 54.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/diegosouzapw",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+        "forks": 8943,
+        "full_name": "sponsors/diegosouzapw",
+        "language": "TypeScript",
+        "name": "diegosouzapw",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 591,
+        "total_stars": 63826,
+        "url": "https://github.com/sponsors/diegosouzapw"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.23,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 7.0,
+        "technical_quality": 3.5,
+        "total": 51.83
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 591 stars today; score 51.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 25434,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 688,
+        "total_stars": 284394,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.55,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 33.7
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 688 stars today; score 33.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/AlexsJones",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+        "forks": 2258,
+        "full_name": "sponsors/AlexsJones",
+        "language": "Rust",
+        "name": "AlexsJones",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 247,
+        "total_stars": 35514,
+        "url": "https://github.com/sponsors/AlexsJones"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.33,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 31.78
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Rust project with 247 stars today; score 31.8/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-14T21:31:18Z",
+        "default_branch": "main",
+        "description": "The open agent skills tool - npx skills",
+        "fork": false,
+        "full_name": "vercel-labs/skills",
+        "homepage": "https://skills.sh",
+        "latest_release": "v1.5.25",
+        "license_spdx": "MIT",
+        "open_issues": 1185,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-08T17:31:59Z",
+        "readme_excerpt": "# skills The CLI for the open agent skills ecosystem. <!-- agent-list:start --> Supports **OpenCode**, **Claude Code**, **Codex**, **Cursor**, and [75 more](#supported-agents). <!-- agent-list:end --> [![skills.sh](https://skills.sh/b/vercel-labs/skills)](https://skills.sh/vercel-labs/skills) ## Install a Skill ```bash npx skills add vercel-labs/agent-skills ``` ## Use a Skill Without Installing Generate a prompt for one skill, or start a supported coding agent interactively: ```bash npx skills ",
+        "topics": [],
+        "updated_at": "2026-09-10T12:20:24Z"
+      },
+      "repo": {
+        "description": "The open agent skills tool - npx skills",
+        "forks": 2643,
+        "full_name": "vercel-labs/skills",
+        "language": "TypeScript",
+        "name": "skills",
+        "owner": "vercel-labs",
+        "rank": 15,
+        "stars_today": 125,
+        "total_stars": 30891,
+        "url": "https://github.com/vercel-labs/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 1.81,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 74.9
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 125 stars today; score 74.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-26T15:08:42Z",
+        "default_branch": "main",
+        "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+        "fork": false,
+        "full_name": "alsk1992/CloddsBot",
+        "homepage": "https://www.cloddsbot.com",
+        "latest_release": "v1.9.0",
+        "license_spdx": "MIT",
+        "open_issues": 31,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-01T23:31:02Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"https://cloddsbot.com/logo.png\" alt=\"Clodds Logo\" width=\"280\"> </p> <p align=\"center\"> <strong>AI-powered trading terminal for prediction markets, crypto & futures</strong> <br> <sub>Claude + Odds = Clodds</sub> </p> <p align=\"center\"> <strong>Clodds CA:</strong> <code>2puc76ehVHyPXhZmDprtP2phDSFE4kzZKDT4JgAWpump</code> </p> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/clodds\"><img src=\"https://img.shields.io/npm/v/clodds?color=blue\" alt=\"npm version\"></",
+        "topics": [
+          "agi",
+          "ai",
+          "arbitrage",
+          "claude",
+          "crypto",
+          "defi",
+          "ethereum",
+          "futures",
+          "hft",
+          "hyperliquid",
+          "kalshi",
+          "polymarket",
+          "prediction-markets",
+          "pumpswap",
+          "solana",
+          "telegram-bot",
+          "trading",
+          "trading-bot",
+          "typescript",
+          "x402"
+        ],
+        "updated_at": "2026-09-10T12:20:07Z"
+      },
+      "repo": {
+        "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+        "forks": 240,
+        "full_name": "alsk1992/CloddsBot",
+        "language": "TypeScript",
+        "name": "CloddsBot",
+        "owner": "alsk1992",
+        "rank": 4,
+        "stars_today": 299,
+        "total_stars": 1331,
+        "url": "https://github.com/alsk1992/CloddsBot"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.71,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 74.01
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 299 stars today; score 74.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-03-22T14:23:39Z",
+        "default_branch": "main",
+        "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+        "fork": false,
+        "full_name": "vastsa/PI-Desktop",
+        "homepage": "https://pi-docs.aiuo.net",
+        "latest_release": "v0.14.6",
+        "license_spdx": "LGPL-3.0",
+        "open_issues": 56,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-10T12:13:20Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"docs/image/readme/logo.png\" alt=\"PI-Desktop\" width=\"112\" /> # PI-Desktop ### Your local-first desktop workspace for AI coding agents. **Bring your own model. Open any local project. Let agents work \u2014 while you stay in control.** No PI-Desktop account. No mandatory relay. No editor lock-in. <br /> [![Release](https://img.shields.io/github/v/release/vastsa/PI-Desktop?label=release)](https://github.com/vastsa/PI-Desktop/releases/latest) [![Downloads](https://img.shiel",
+        "topics": [
+          "ai-agent",
+          "coding-agent",
+          "desktop-app",
+          "electron",
+          "global",
+          "i18n",
+          "local-first",
+          "mcp",
+          "pi",
+          "pi-agent",
+          "pi-desktop",
+          "plugins",
+          "react",
+          "rust",
+          "typescript"
+        ],
+        "updated_at": "2026-09-10T12:18:33Z"
+      },
+      "repo": {
+        "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+        "forks": 179,
+        "full_name": "vastsa/PI-Desktop",
+        "language": "TypeScript",
+        "name": "PI-Desktop",
+        "owner": "vastsa",
+        "rank": 16,
+        "stars_today": 417,
+        "total_stars": 2062,
+        "url": "https://github.com/vastsa/PI-Desktop"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.19,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 70.08
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 417 stars today; score 70.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-16T18:01:16Z",
+        "default_branch": "main",
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "fork": false,
+        "full_name": "cathrynlavery/diagram-design",
+        "homepage": "https://cathrynlavery.github.io/diagram-design/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 39,
+        "primary_language": "HTML",
+        "pushed_at": "2026-09-10T04:26:30Z",
+        "readme_excerpt": "# Diagram Design **Editorial diagrams your designer won't hate.** <a href=\"https://trendshift.io/repositories/26141?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-26141\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/26141\" alt=\"cathrynlavery%2Fdiagram-design | Trendshift\" width=\"250\" height=\"55\"/></a> [![Content site architecture](docs/screenshots/thumbs/architecture.webp)](docs/screenshots/architecture.png) [",
+        "topics": [
+          "agent-skills",
+          "claude-code",
+          "codex",
+          "data-visualization",
+          "diagrams",
+          "drawio",
+          "mermaid",
+          "svg"
+        ],
+        "updated_at": "2026-09-10T12:18:34Z"
+      },
+      "repo": {
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "forks": 2368,
+        "full_name": "cathrynlavery/diagram-design",
+        "language": "HTML",
+        "name": "diagram-design",
+        "owner": "cathrynlavery",
+        "rank": 8,
+        "stars_today": 2249,
+        "total_stars": 37281,
+        "url": "https://github.com/cathrynlavery/diagram-design"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.65,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 68.25
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: HTML project with 2249 stars today; score 68.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-25T09:19:13Z",
+        "default_branch": "main",
+        "description": "Prompt as Code | GPT Image 2 / 2.5 \u63d0\u793a\u8bcd\u4e0e\u6848\u4f8b\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u300120+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\u4e0e\u53ef\u590d\u7528 Skills\uff0c\u65b0\u589e 2.5 \u540c\u63d0\u793a\u8bcd\u5bf9\u6bd4\u4e13\u533a\uff0c\u9644\u5b8c\u6574\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u8bb0\u5f55\uff0c\u6301\u7eed\u66f4\u65b0\u3002",
+        "fork": false,
+        "full_name": "freestylefly/awesome-gpt-image-2",
+        "homepage": "https://gpt-image2.canghe.ai",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 31,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-09T08:31:41Z",
+        "readme_excerpt": "<p align=\"center\"><img src=\"./data/images/banner.svg\" alt=\"GPT-Image2 Prompt System\" width=\"800\" /></p> <h3 align=\"center\">Prompt as Code | GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases, 20+ Industrial Templates</h3> <p align=\"center\"> <a href=\"https://github.com/freestylefly/awesome-gpt-image-2\"><img src=\"https://img.shields.io/github/stars/freestylefly/awesome-gpt-image-2?style=flat-square&color=rgb(25%2C%20121%2C%20255)\" alt=\"Stars\"></a> <a href=\"https:",
+        "topics": [
+          "agents",
+          "ai-image-generation",
+          "chatgpt",
+          "dsh-plugin",
+          "gpt-image-2",
+          "image-prompts",
+          "prompt-as-code",
+          "prompt-engineering",
+          "skills",
+          "workflow-automation"
+        ],
+        "updated_at": "2026-09-10T12:20:16Z"
+      },
+      "repo": {
+        "description": "Prompt as Code | GPT Image 2 / 2.5 \u63d0\u793a\u8bcd\u4e0e\u6848\u4f8b\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u300120+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\u4e0e\u53ef\u590d\u7528 Skills\uff0c\u65b0\u589e 2.5 \u540c\u63d0\u793a\u8bcd\u5bf9\u6bd4\u4e13\u533a\uff0c\u9644\u5b8c\u6574\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u8bb0\u5f55\uff0c\u6301\u7eed\u66f4\u65b0\u3002",
+        "forks": 2964,
+        "full_name": "freestylefly/awesome-gpt-image-2",
+        "language": "JavaScript",
+        "name": "awesome-gpt-image-2",
+        "owner": "freestylefly",
+        "rank": 9,
+        "stars_today": 705,
+        "total_stars": 30604,
+        "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.72,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 65.32
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 705 stars today; score 65.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-08T11:24:01Z",
+        "default_branch": "main",
+        "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base \u2014 automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources\u3002",
+        "fork": false,
+        "full_name": "nashsu/llm_wiki",
+        "homepage": null,
+        "latest_release": "v0.6.11",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 257,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-25T06:42:02Z",
+        "readme_excerpt": "# LLM Wiki <p align=\"center\"> <img src=\"logo.jpg\" width=\"128\" height=\"128\" style=\"border-radius: 22%;\" alt=\"LLM Wiki Logo\"> </p> <p align=\"center\"> <strong>A personal knowledge base that builds itself.</strong><br> LLM reads your documents, builds a structured wiki, and keeps it current. </p> <p align=\"center\"> <a href=\"#what-is-this\">What is this?</a> \u2022 <a href=\"#what-we-changed--added\">Features</a> \u2022 <a href=\"#tech-stack\">Tech Stack</a> \u2022 <a href=\"#installation\">Installation</a> \u2022 <a href=\"#cr",
+        "topics": [],
+        "updated_at": "2026-09-10T12:18:37Z"
+      },
+      "repo": {
+        "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base \u2014 automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources\u3002",
+        "forks": 2089,
+        "full_name": "nashsu/llm_wiki",
+        "language": "TypeScript",
+        "name": "llm_wiki",
+        "owner": "nashsu",
+        "rank": 14,
+        "stars_today": 94,
+        "total_stars": 17823,
+        "url": "https://github.com/nashsu/llm_wiki"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 1.9,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 4.2,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 64.89
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: TypeScript project with 94 stars today; score 64.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-13T20:42:06Z",
+        "default_branch": "main",
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "fork": false,
+        "full_name": "ayghri/i-have-adhd",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 49,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-10T12:05:17Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"./logo.png\" alt=\"i-have-adhd\" width=\"140\" /> </p> <p align=\"center\"> <strong align=\"center\">ADHD-friendly outputs. No ADHD diagnosis needed!</strong> </p> <p align=\"center\"> <a href=\"LICENSE\"><img src=\"https://img.shields.io/github/license/ayghri/i-have-adhd?style=flat\" alt=\"License\"></a> </p> <p align=\"center\"> <strong title=\"English\" aria-label=\"English\">\ud83c\uddec\ud83c\udde7</strong> \u00b7 <a href=\".github/readme/README.zh-CN.md\" title=\"\u7b80\u4f53\u4e2d\u6587\" aria-label=\"\u7b80\u4f53\u4e2d\u6587\">\ud83c\udde8\ud83c\uddf3</a> \u00b7 <a href=\".github/",
+        "topics": [
+          "adhd",
+          "claude-",
+          "claude-code-plugin",
+          "claude-skills",
+          "developer-tools",
+          "productivity"
+        ],
+        "updated_at": "2026-09-10T12:20:27Z"
+      },
+      "repo": {
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "forks": 2124,
+        "full_name": "ayghri/i-have-adhd",
+        "language": "Python",
+        "name": "i-have-adhd",
+        "owner": "ayghri",
+        "rank": 1,
+        "stars_today": 4650,
+        "total_stars": 36615,
+        "url": "https://github.com/ayghri/i-have-adhd"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.9,
+        "technical_quality": 11.9,
+        "total": 64.18
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 4650 stars today; score 64.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-01T12:27:49Z",
+        "default_branch": "main",
+        "description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \ud83d\udc26",
+        "fork": false,
+        "full_name": "JustVugg/colibri",
+        "homepage": "https://justvugg.github.io/colibri",
+        "latest_release": "v1.10.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 116,
+        "primary_language": "C",
+        "pushed_at": "2026-09-10T08:08:30Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"assets/colibri-logo.svg\" width=\"560\" alt=\"colibr\u00ec \u2014 tiny engine, immense model\"> </p> <p align=\"center\"> <a href=\"https://justvugg.github.io/colibri\"><img src=\"https://img.shields.io/badge/website-justvugg.github.io%2Fcolibri-1f6feb\" alt=\"Website\"></a> <a href=\"https://github.com/JustVugg/colibri/releases\"><img src=\"https://img.shields.io/github/v/release/JustVugg/colibri?color=2ea043\" alt=\"Latest release\"></a> </p> <p align=\"center\"> <a href=\"https://justvugg.github",
+        "topics": [],
+        "updated_at": "2026-09-10T12:18:40Z"
+      },
+      "repo": {
+        "description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \ud83d\udc26",
+        "forks": 2997,
+        "full_name": "JustVugg/colibri",
+        "language": "C",
+        "name": "colibri",
+        "owner": "JustVugg",
+        "rank": 12,
+        "stars_today": 157,
+        "total_stars": 27291,
+        "url": "https://github.com/JustVugg/colibri"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.3,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.6
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: C project with 157 stars today; score 63.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-11T10:13:16Z",
+        "default_branch": "main",
+        "description": "Open Multi-Agent Interactive Classroom \u2014 Get an immersive, multi-agent learning experience in just one click",
+        "fork": false,
+        "full_name": "THU-MAIC/OpenMAIC",
+        "homepage": null,
+        "latest_release": "v1.0.1",
+        "license_spdx": "MIT",
+        "open_issues": 268,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-09T10:25:46Z",
+        "readme_excerpt": "<!-- <p align=\"center\"> <img src=\"assets/logo-horizontal.png\" alt=\"OpenMAIC\" width=\"420\"/> </p> --> <p align=\"center\"> <img src=\"assets/banner.png\" alt=\"OpenMAIC Banner\" width=\"680\"/> </p> <p align=\"center\"> Get an immersive, multi-agent learning experience in just one click </p> <p align=\"center\"> <a href=\"https://lcn6dqn3m0yr.feishu.cn/wiki/CkQSwHFdzibQFvkGzwPcmUOfnXg\"><img src=\"https://img.shields.io/badge/%F0%9F%93%98%20User%20Guide-v1.0.0%20%C2%B7%20English-4F8EF7?style=for-the-badge\" alt=\"",
+        "topics": [],
+        "updated_at": "2026-09-10T12:20:20Z"
+      },
+      "repo": {
+        "description": "Open Multi-Agent Interactive Classroom \u2014 Get an immersive, multi-agent learning experience in just one click",
+        "forks": 5597,
+        "full_name": "THU-MAIC/OpenMAIC",
+        "language": "TypeScript",
+        "name": "OpenMAIC",
+        "owner": "THU-MAIC",
+        "rank": 13,
+        "stars_today": 806,
+        "total_stars": 34928,
+        "url": "https://github.com/THU-MAIC/OpenMAIC"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.33,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 58.38
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 806 stars today; score 58.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-22T23:37:22Z",
+        "default_branch": "main",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "fork": false,
+        "full_name": "bilawalsidhu/gods-eye-view",
+        "homepage": "https://maptheworld.ai/",
+        "latest_release": "v0.1.1",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 148,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-05T08:30:57Z",
+        "readme_excerpt": "<div align=\"center\"> # \ud83c\udf10 God's Eye View ### A spy-satellite simulator in your browser \u2014 then you realize the sources are public and the data is real. Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands-free voice control powered by a realtime AI agent. *No place left behind.* ![Orbital HUD, a tracked live globe, FLIR terrain \u2014 then OPEN SOURCED](docs/media/hero-open-source-reveal.gif) <a href=\"https://www.youtube.com/@bilawalsidhu\"> <img src",
+        "topics": [
+          "3d-globe",
+          "cesium",
+          "flight-tracking",
+          "geospatial",
+          "geospatial-intelligence",
+          "gis",
+          "osint",
+          "photogrammetry",
+          "satellite-tracking",
+          "spatial-intelligence",
+          "webgl",
+          "worldview"
+        ],
+        "updated_at": "2026-09-10T12:20:23Z"
+      },
+      "repo": {
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "forks": 4738,
+        "full_name": "bilawalsidhu/gods-eye-view",
+        "language": "JavaScript",
+        "name": "gods-eye-view",
+        "owner": "bilawalsidhu",
+        "rank": 2,
+        "stars_today": 1588,
+        "total_stars": 22252,
+        "url": "https://github.com/bilawalsidhu/gods-eye-view"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.32,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 57.87
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 1588 stars today; score 57.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2017-02-06T23:03:08Z",
+        "default_branch": "main",
+        "description": "Graphics Creation Tools",
+        "fork": false,
+        "full_name": "armory3d/armorpaint",
+        "homepage": "https://armorpaint.org",
+        "latest_release": "26.09",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 99,
+        "primary_language": "C",
+        "pushed_at": "2026-09-09T19:25:19Z",
+        "readme_excerpt": "![](https://armorpaint.org/img/git.jpg) armorpaint ============== [ArmorPaint](https://armorpaint.org) is a software for 3D PBR texture painting - check out the [manual](https://armorpaint.org/manual). *Note 1: This repository is aimed at developers and may not be stable. Distributed binaries are [paid](https://armorpaint.org/download) to help with the project funding. All of the development is happening here in order to make it accessible to everyone. Thank you for support!* *Note 2: If you are",
+        "topics": [
+          "3d",
+          "armorpaint",
+          "painting",
+          "texturing",
+          "tool"
+        ],
+        "updated_at": "2026-09-10T12:18:29Z"
+      },
+      "repo": {
+        "description": "Graphics Creation Tools",
+        "forks": 510,
+        "full_name": "armory3d/armorpaint",
+        "language": "C",
+        "name": "armorpaint",
+        "owner": "armory3d",
+        "rank": 10,
+        "stars_today": 73,
+        "total_stars": 4250,
+        "url": "https://github.com/armory3d/armorpaint"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.44,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 54.69
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: C project with 73 stars today; score 54.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-27T09:42:49Z",
+        "default_branch": "main",
+        "description": "Make Every Team AI Native",
+        "fork": false,
+        "full_name": "Tencent/teamai-cli",
+        "homepage": null,
+        "latest_release": "v0.23.1",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 26,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-10T09:35:29Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"assets/teamai-cli-logo.svg\" alt=\"teamai-cli\"> </p> # TeamAI \u2014 Make Every Team AI Native > [English](README.md) | [\u7b80\u4f53\u4e2d\u6587](README.zh-CN.md) [![CI](https://github.com/Tencent/teamai-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/Tencent/teamai-cli/actions/workflows/ci.yml) [![npm version](https://img.shields.io/npm/v/teamai-cli.svg)](https://www.npmjs.com/package/teamai-cli) [![npm downloads](https://img.shields.io/npm/dm/teamai-cli.svg)](https://www.npmjs.c",
+        "topics": [],
+        "updated_at": "2026-09-10T12:19:57Z"
+      },
+      "repo": {
+        "description": "Make Every Team AI Native",
+        "forks": 220,
+        "full_name": "Tencent/teamai-cli",
+        "language": "TypeScript",
+        "name": "teamai-cli",
+        "owner": "Tencent",
+        "rank": 5,
+        "stars_today": 556,
+        "total_stars": 3504,
+        "url": "https://github.com/Tencent/teamai-cli"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.03,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 4.2,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 54.14
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 556 stars today; score 54.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/diegosouzapw",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+        "forks": 8943,
+        "full_name": "sponsors/diegosouzapw",
+        "language": "TypeScript",
+        "name": "diegosouzapw",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 591,
+        "total_stars": 63826,
+        "url": "https://github.com/sponsors/diegosouzapw"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.23,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 7.0,
+        "technical_quality": 3.5,
+        "total": 51.83
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 591 stars today; score 51.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-12-24T01:19:44Z",
+        "default_branch": "main",
+        "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+        "fork": false,
+        "full_name": "liquidslr/system-design-notes",
+        "homepage": "https://pagefy-blush.vercel.app/system-design/system-design-interview-by-alex-xu",
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 10,
+        "primary_language": null,
+        "pushed_at": "2026-08-12T22:22:21Z",
+        "readme_excerpt": "# [System Design Interview - An Insider's Guide (Vol 1 and 2)](https://bytebytego.com/courses/system-design-interview) These notes are based on the System Design Interview books - [Vol 1 and Vol 2 2nd Ed](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide) Check the notes here: https://pagefy.io/system-design/system-design-interview-by-alex-xu **Note:** These notes are a work in progress. * [Chapter 1 - Scale From Zero To Millions Of Users](./01.%20Scaling/) ",
+        "topics": [],
+        "updated_at": "2026-09-10T12:19:48Z"
+      },
+      "repo": {
+        "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+        "forks": 3453,
+        "full_name": "liquidslr/system-design-notes",
+        "language": null,
+        "name": "system-design-notes",
+        "owner": "liquidslr",
+        "rank": 7,
+        "stars_today": 1397,
+        "total_stars": 18428,
+        "url": "https://github.com/liquidslr/system-design-notes"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.26,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 3.85,
+        "strategic_relevance": 2.15,
+        "technical_quality": 9.1,
+        "total": 40.21
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: Unknown project with 1397 stars today; score 40.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 25434,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 688,
+        "total_stars": 284394,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.55,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 33.7
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 688 stars today; score 33.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/AlexsJones",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+        "forks": 2258,
+        "full_name": "sponsors/AlexsJones",
+        "language": "Rust",
+        "name": "AlexsJones",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 247,
+        "total_stars": 35514,
+        "url": "https://github.com/sponsors/AlexsJones"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.33,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 31.78
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Rust project with 247 stars today; score 31.8/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-09-10",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is vercel-labs/skills."
+}
