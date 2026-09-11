@@ -1,0 +1,32 @@
+GitHub Trending: AI workflow signal - 2026-09-11
+
+Today leans toward AI workflow signal; the strongest pick is melgarafael/DeskcommCRM.
+
+Top picks
+1. melgarafael/DeskcommCRM - 74.5/100
+   https://github.com/melgarafael/DeskcommCRM
+   AI Workflow, DevTools: TypeScript project with 126 stars today; score 74.5/100.
+2. alphaXiv/OpenResearch - 73.2/100
+   https://github.com/alphaXiv/OpenResearch
+   AI Workflow, Try Today: Rust project with 210 stars today; score 73.2/100.
+3. jordan-gibbs/hyperresearch - 66.9/100
+   https://github.com/jordan-gibbs/hyperresearch
+   AI Workflow, Try Today: Python project with 118 stars today; score 66.9/100.
+4. github/spec-kit - 64.3/100
+   https://github.com/github/spec-kit
+   AI Workflow, Try Today: Python project with 985 stars today; score 64.3/100.
+5. jihe520/MathModelAgent - 63.7/100
+   https://github.com/jihe520/MathModelAgent
+   AI Workflow, Try Today: Python project with 132 stars today; score 63.7/100.
+
+Full reviewed list
+- melgarafael/DeskcommCRM: 74.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 126 stars today; score 74.5/100.
+- alphaXiv/OpenResearch: 73.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Rust project with 210 stars today; score 73.2/100.
+- jordan-gibbs/hyperresearch: 66.9/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 118 stars today; score 66.9/100.
+- github/spec-kit: 64.3/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 985 stars today; score 64.3/100.
+- jihe520/MathModelAgent: 63.7/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 132 stars today; score 63.7/100.
+- p1neappleXpress/OpenFlux: 62.7/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Go project with 201 stars today; score 62.7/100.
+- nab138/iloader: 52.5/100 [DevTools, Try Today] DevTools, Try Today: TypeScript project with 36 stars today; score 52.5/100.
+- Sonarr/Sonarr: 49.8/100 [Try Today] Try Today: C# project with 174 stars today; score 49.8/100.
+
+Generated for 2026-09-11 from GitHub Trending daily.
