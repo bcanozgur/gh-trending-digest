@@ -1,0 +1,32 @@
+GitHub Trending: AI workflow signal - 2026-09-12
+
+Today leans toward AI workflow signal; the strongest pick is max-sixty/worktrunk.
+
+Top picks
+1. max-sixty/worktrunk - 74.6/100
+   https://github.com/max-sixty/worktrunk
+   AI Workflow, DevTools: Rust project with 44 stars today; score 74.6/100.
+2. multimodal-art-projection/YuE - 73.2/100
+   https://github.com/multimodal-art-projection/YuE
+   AI Workflow, Try Today: Python project with 193 stars today; score 73.2/100.
+3. vxcontrol/pentagi - 73.1/100
+   https://github.com/vxcontrol/pentagi
+   AI Workflow, DevTools: Go project with 250 stars today; score 73.1/100.
+4. Shubhamsaboo/awesome-llm-apps - 65.2/100
+   https://github.com/Shubhamsaboo/awesome-llm-apps
+   AI Workflow, Try Today: Python project with 237 stars today; score 65.2/100.
+5. SnailSploit/Claude-Red - 62.4/100
+   https://github.com/SnailSploit/Claude-Red
+   AI Workflow, Try Today: Python project with 99 stars today; score 62.4/100.
+
+Full reviewed list
+- max-sixty/worktrunk: 74.6/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Rust project with 44 stars today; score 74.6/100.
+- multimodal-art-projection/YuE: 73.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 193 stars today; score 73.2/100.
+- vxcontrol/pentagi: 73.1/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Go project with 250 stars today; score 73.1/100.
+- Shubhamsaboo/awesome-llm-apps: 65.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 237 stars today; score 65.2/100.
+- SnailSploit/Claude-Red: 62.4/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 99 stars today; score 62.4/100.
+- yuliskov/SmartTube: 50.3/100 [Try Today] Try Today: Java project with 247 stars today; score 50.3/100.
+- sponsors/asgeirtj: 47.2/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: JavaScript project with 216 stars today; score 47.2/100.
+- Flowseal/zapret-discord-youtube: 38.7/100 [Watch] Watch: Batchfile project with 52 stars today; score 38.7/100.
+
+Generated for 2026-09-12 from GitHub Trending daily.
