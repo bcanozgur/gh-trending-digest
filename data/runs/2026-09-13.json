@@ -1,0 +1,1589 @@
+{
+  "date": "2026-09-13",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-18T02:16:36Z",
+        "default_branch": "main",
+        "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "fork": false,
+        "full_name": "alibaba/open-code-review",
+        "homepage": "https://open-codereview.ai",
+        "latest_release": "v1.12.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 150,
+        "primary_language": "Go",
+        "pushed_at": "2026-09-12T14:26:04Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://open-codereview.ai\"> <img src=\"imgs/logo-core.svg\" alt=\"OpenCodeReview logo\" width=\"180\" /> </a> <h1>OpenCodeReview</h1> </div> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/41087?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-41087\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://trendshift.io/api/badge/repositories/41087\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; hei",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "code-review",
+          "code-review-assistant",
+          "harness",
+          "repository-level-context"
+        ],
+        "updated_at": "2026-09-13T12:48:54Z"
+      },
+      "repo": {
+        "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "forks": 1696,
+        "full_name": "alibaba/open-code-review",
+        "language": "Go",
+        "name": "open-code-review",
+        "owner": "alibaba",
+        "rank": 14,
+        "stars_today": 264,
+        "total_stars": 22897,
+        "url": "https://github.com/alibaba/open-code-review"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.49,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.54
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 264 stars today; score 73.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-10-29T13:56:00Z",
+        "default_branch": "main",
+        "description": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+        "fork": false,
+        "full_name": "huggingface/transformers",
+        "homepage": "https://huggingface.co/transformers",
+        "latest_release": "v5.17.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 2428,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-13T12:00:38Z",
+        "readme_excerpt": "<!--- Copyright 2020 The HuggingFace Team. All rights reserved. Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License f",
+        "topics": [
+          "audio",
+          "deep-learning",
+          "deepseek",
+          "gemma",
+          "glm",
+          "hacktoberfest",
+          "llm",
+          "machine-learning",
+          "model-hub",
+          "natural-language-processing",
+          "nlp",
+          "pretrained-models",
+          "python",
+          "pytorch",
+          "pytorch-transformers",
+          "qwen",
+          "speech-recognition",
+          "transformer",
+          "vlm"
+        ],
+        "updated_at": "2026-09-13T12:48:16Z"
+      },
+      "repo": {
+        "description": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+        "forks": 34539,
+        "full_name": "huggingface/transformers",
+        "language": "Python",
+        "name": "transformers",
+        "owner": "huggingface",
+        "rank": 19,
+        "stars_today": 102,
+        "total_stars": 165284,
+        "url": "https://github.com/huggingface/transformers"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.3,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 72.35
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 102 stars today; score 72.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-19T13:21:32Z",
+        "default_branch": "main",
+        "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+        "fork": false,
+        "full_name": "tech-leads-club/agent-skills",
+        "homepage": "https://agent-skills.techleads.club",
+        "latest_release": "skills-catalog-v0.17.8",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 29,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-12T15:29:58Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\".github/assets/logo.png\" alt=\"Tech Leads Club\" width=\"400\" /> </p> <p align=\"center\"> <img src=\"https://img.shields.io/npm/v/@tech-leads-club/agent-skills?style=flat-square&color=blue\" alt=\"npm version\" /> <img src=\"https://img.shields.io/npm/dt/@tech-leads-club/agent-skills?style=flat-square&color=blue\" alt=\"total downloads\" /> <img src=\"https://img.shields.io/npm/dm/@tech-leads-club/agent-skills?style=flat-square&color=blue\" alt=\"monthly downloads\" /> <img src=\"htt",
+        "topics": [
+          "agent",
+          "ai",
+          "antigravity",
+          "claude-code",
+          "copilot",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-09-13T12:41:31Z"
+      },
+      "repo": {
+        "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+        "forks": 487,
+        "full_name": "tech-leads-club/agent-skills",
+        "language": "TypeScript",
+        "name": "agent-skills",
+        "owner": "tech-leads-club",
+        "rank": 4,
+        "stars_today": 215,
+        "total_stars": 5408,
+        "url": "https://github.com/tech-leads-club/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.79,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 70.29
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 215 stars today; score 70.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-09T21:40:26Z",
+        "default_branch": "main",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "fork": false,
+        "full_name": "debpalash/VoiceStudio",
+        "homepage": "https://voicestudio.sh",
+        "latest_release": "v0.5.2",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 31,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-11T05:50:20Z",
+        "readme_excerpt": "<div align=\"center\"> <h3>NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr</h3> <p><img src=\"docs/logo.png\" alt=\"VoiceStudio logo\" width=\"120\" height=\"120\" /></p> <h1>VoiceStudio</h1> <p> <a href=\"https://trendshift.io/repositories/28176?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-28176\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/28176\" alt=\"VoiceStudio ranking on Tre",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "tauri",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "updated_at": "2026-09-13T12:48:48Z"
+      },
+      "repo": {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "forks": 3150,
+        "full_name": "debpalash/VoiceStudio",
+        "language": "Python",
+        "name": "VoiceStudio",
+        "owner": "debpalash",
+        "rank": 12,
+        "stars_today": 2546,
+        "total_stars": 25478,
+        "url": "https://github.com/debpalash/VoiceStudio"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 9.4,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 65.11
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 2546 stars today; score 65.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-05-25T08:10:38Z",
+        "default_branch": "main",
+        "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. \u6296\u97f3\u6279\u91cf\u4e0b\u8f7d\u5de5\u5177\uff0c\u53bb\u6c34\u5370\uff0c\u652f\u6301\u89c6\u9891\u3001\u56fe\u96c6\u3001\u5408\u96c6\u3001\u97f3\u4e50(\u539f\u58f0)\u3002",
+        "fork": false,
+        "full_name": "jiji262/douyin-downloader",
+        "homepage": null,
+        "latest_release": "desktop-v0.11.5",
+        "license_spdx": "MIT",
+        "open_issues": 40,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-10T07:35:13Z",
+        "readme_excerpt": "# Douyin Downloader V2.0 <p align=\"center\"> <img src=\"https://socialify.git.ci/jiji262/douyin-downloader/image?custom_description=Douyin+batch+download+tool%2C+remove+watermarks%2C+support+batch+download+of+videos%2C+gallery%2C+and+author+homepages.&description=1&font=Source+Code+Pro&forks=1&owner=1&pattern=Circuit+Board&stargazers=1&theme=Light\" alt=\"douyin-downloader\" width=\"820\" /> </p> <p align=\"center\"> <a href=\"https://linux.do\" alt=\"LINUX DO\"> <img src=\"https://img.shields.io/badge/LINUX-",
+        "topics": [],
+        "updated_at": "2026-09-13T12:44:33Z"
+      },
+      "repo": {
+        "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. \u6296\u97f3\u6279\u91cf\u4e0b\u8f7d\u5de5\u5177\uff0c\u53bb\u6c34\u5370\uff0c\u652f\u6301\u89c6\u9891\u3001\u56fe\u96c6\u3001\u5408\u96c6\u3001\u97f3\u4e50(\u539f\u58f0)\u3002",
+        "forks": 1736,
+        "full_name": "jiji262/douyin-downloader",
+        "language": "Python",
+        "name": "douyin-downloader",
+        "owner": "jiji262",
+        "rank": 17,
+        "stars_today": 473,
+        "total_stars": 11224,
+        "url": "https://github.com/jiji262/douyin-downloader"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.67,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 1.09,
+        "technical_quality": 14.0,
+        "total": 48.76
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Python project with 473 stars today; score 48.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2013-11-22T09:59:57Z",
+        "default_branch": "master",
+        "description": "A good looking terminal emulator which mimics the old cathode display...",
+        "fork": false,
+        "full_name": "Swordfish90/cool-retro-term",
+        "homepage": null,
+        "latest_release": "2.0.0-beta2",
+        "license_spdx": null,
+        "open_issues": 563,
+        "primary_language": "QML",
+        "pushed_at": "2026-05-31T10:12:54Z",
+        "readme_excerpt": "# cool-retro-term |> Default Amber|C:\\ IBM DOS|$ Default Green| |---|---|---| |![Default Amber Cool Retro Term](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif)|![IBM DOS](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)|![Default Green Cool Retro Term](https://user-images.githubusercontent.com/121322/32070715-163a1c94-ba42-11e7-80bb-41fbf10fc634.gif)| ## Description cool-retro-term is a termina",
+        "topics": [
+          "linux",
+          "macos",
+          "qml",
+          "qt",
+          "retro",
+          "terminal"
+        ],
+        "updated_at": "2026-09-13T12:48:41Z"
+      },
+      "repo": {
+        "description": "A good looking terminal emulator which mimics the old cathode display...",
+        "forks": 1014,
+        "full_name": "Swordfish90/cool-retro-term",
+        "language": "QML",
+        "name": "cool-retro-term",
+        "owner": "Swordfish90",
+        "rank": 18,
+        "stars_today": 98,
+        "total_stars": 26137,
+        "url": "https://github.com/Swordfish90/cool-retro-term"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.44,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.2,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 44.9
+      },
+      "tags": [
+        "DevTools"
+      ],
+      "verdict": "DevTools: QML project with 98 stars today; score 44.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/calesthio",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+        "forks": 7320,
+        "full_name": "sponsors/calesthio",
+        "language": "Python",
+        "name": "calesthio",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 383,
+        "total_stars": 58093,
+        "url": "https://github.com/sponsors/calesthio"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.99,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 32.44
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 383 stars today; score 32.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/tonhowtf",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Download Udemy and Hotmart courses, YouTube videos, music and books \u2014 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+        "forks": 986,
+        "full_name": "sponsors/tonhowtf",
+        "language": "Rust",
+        "name": "tonhowtf",
+        "owner": "sponsors",
+        "rank": 16,
+        "stars_today": 839,
+        "total_stars": 11140,
+        "url": "https://github.com/sponsors/tonhowtf"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.87,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 30.48
+      },
+      "tags": [
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "DevTools, Watch: Rust project with 839 stars today; score 30.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/ever-co",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Ever\u00ae Gauzy\u2122 - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+        "forks": 902,
+        "full_name": "sponsors/ever-co",
+        "language": "TypeScript",
+        "name": "ever-co",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 58,
+        "total_stars": 4582,
+        "url": "https://github.com/sponsors/ever-co"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.62,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.48,
+        "technical_quality": 3.5,
+        "total": 23.5
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: TypeScript project with 58 stars today; score 23.5/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-18T02:16:36Z",
+        "default_branch": "main",
+        "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "fork": false,
+        "full_name": "alibaba/open-code-review",
+        "homepage": "https://open-codereview.ai",
+        "latest_release": "v1.12.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 150,
+        "primary_language": "Go",
+        "pushed_at": "2026-09-12T14:26:04Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://open-codereview.ai\"> <img src=\"imgs/logo-core.svg\" alt=\"OpenCodeReview logo\" width=\"180\" /> </a> <h1>OpenCodeReview</h1> </div> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/41087?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-41087\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://trendshift.io/api/badge/repositories/41087\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; hei",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "code-review",
+          "code-review-assistant",
+          "harness",
+          "repository-level-context"
+        ],
+        "updated_at": "2026-09-13T12:48:54Z"
+      },
+      "repo": {
+        "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "forks": 1696,
+        "full_name": "alibaba/open-code-review",
+        "language": "Go",
+        "name": "open-code-review",
+        "owner": "alibaba",
+        "rank": 14,
+        "stars_today": 264,
+        "total_stars": 22897,
+        "url": "https://github.com/alibaba/open-code-review"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.49,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.54
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 264 stars today; score 73.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-10-29T13:56:00Z",
+        "default_branch": "main",
+        "description": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+        "fork": false,
+        "full_name": "huggingface/transformers",
+        "homepage": "https://huggingface.co/transformers",
+        "latest_release": "v5.17.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 2428,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-13T12:00:38Z",
+        "readme_excerpt": "<!--- Copyright 2020 The HuggingFace Team. All rights reserved. Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License f",
+        "topics": [
+          "audio",
+          "deep-learning",
+          "deepseek",
+          "gemma",
+          "glm",
+          "hacktoberfest",
+          "llm",
+          "machine-learning",
+          "model-hub",
+          "natural-language-processing",
+          "nlp",
+          "pretrained-models",
+          "python",
+          "pytorch",
+          "pytorch-transformers",
+          "qwen",
+          "speech-recognition",
+          "transformer",
+          "vlm"
+        ],
+        "updated_at": "2026-09-13T12:48:16Z"
+      },
+      "repo": {
+        "description": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+        "forks": 34539,
+        "full_name": "huggingface/transformers",
+        "language": "Python",
+        "name": "transformers",
+        "owner": "huggingface",
+        "rank": 19,
+        "stars_today": 102,
+        "total_stars": 165284,
+        "url": "https://github.com/huggingface/transformers"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.3,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 72.35
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 102 stars today; score 72.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-19T13:21:32Z",
+        "default_branch": "main",
+        "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+        "fork": false,
+        "full_name": "tech-leads-club/agent-skills",
+        "homepage": "https://agent-skills.techleads.club",
+        "latest_release": "skills-catalog-v0.17.8",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 29,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-12T15:29:58Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\".github/assets/logo.png\" alt=\"Tech Leads Club\" width=\"400\" /> </p> <p align=\"center\"> <img src=\"https://img.shields.io/npm/v/@tech-leads-club/agent-skills?style=flat-square&color=blue\" alt=\"npm version\" /> <img src=\"https://img.shields.io/npm/dt/@tech-leads-club/agent-skills?style=flat-square&color=blue\" alt=\"total downloads\" /> <img src=\"https://img.shields.io/npm/dm/@tech-leads-club/agent-skills?style=flat-square&color=blue\" alt=\"monthly downloads\" /> <img src=\"htt",
+        "topics": [
+          "agent",
+          "ai",
+          "antigravity",
+          "claude-code",
+          "copilot",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-09-13T12:41:31Z"
+      },
+      "repo": {
+        "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+        "forks": 487,
+        "full_name": "tech-leads-club/agent-skills",
+        "language": "TypeScript",
+        "name": "agent-skills",
+        "owner": "tech-leads-club",
+        "rank": 4,
+        "stars_today": 215,
+        "total_stars": 5408,
+        "url": "https://github.com/tech-leads-club/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.79,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 70.29
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 215 stars today; score 70.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-01-06T22:22:48Z",
+        "default_branch": "main",
+        "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "fork": false,
+        "full_name": "vxcontrol/pentagi",
+        "homepage": "https://pentagi.com",
+        "latest_release": "v2.1.0",
+        "license_spdx": "MIT",
+        "open_issues": 62,
+        "primary_language": "Go",
+        "pushed_at": "2026-09-10T05:45:01Z",
+        "readme_excerpt": "# PentAGI <div align=\"center\" style=\"font-size: 1.5em; margin: 20px 0;\"> <strong>P</strong>enetration testing <strong>A</strong>rtificial <strong>G</strong>eneral <strong>I</strong>ntelligence </div> <br> <div align=\"center\"> > **Join the Community!** Connect with security researchers, AI enthusiasts, and fellow ethical hackers. Get support, share insights, and stay updated with the latest PentAGI developments. [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)",
+        "topics": [
+          "ai-agents",
+          "ai-security-tool",
+          "anthropic",
+          "autonomous-agents",
+          "golang",
+          "gpt",
+          "graphql",
+          "multi-agent-system",
+          "offensive-security",
+          "open-source",
+          "openai",
+          "penetration-testing",
+          "penetration-testing-tools",
+          "react",
+          "security-automation",
+          "security-testing",
+          "security-tools",
+          "self-hosted"
+        ],
+        "updated_at": "2026-09-13T12:48:48Z"
+      },
+      "repo": {
+        "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "forks": 3082,
+        "full_name": "vxcontrol/pentagi",
+        "language": "Go",
+        "name": "pentagi",
+        "owner": "vxcontrol",
+        "rank": 8,
+        "stars_today": 613,
+        "total_stars": 23694,
+        "url": "https://github.com/vxcontrol/pentagi"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.37,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 70.22
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 613 stars today; score 70.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-28T20:00:33Z",
+        "default_branch": "main",
+        "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+        "fork": false,
+        "full_name": "melgarafael/DeskcommCRM",
+        "homepage": "https://deskcomm.com.br",
+        "latest_release": "v1.19.0",
+        "license_spdx": "MIT",
+        "open_issues": 124,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-12T19:40:07Z",
+        "readme_excerpt": "<div align=\"center\"> \ud83c\udde7\ud83c\uddf7 Portugu\u00eas \u00b7 [\ud83c\uddfa\ud83c\uddf8 English](README.en.md) \u00b7 [\ud83c\uddea\ud83c\uddf8 Espa\u00f1ol](README.es.md) <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/brand/deskcomm-logo-dark.svg\"> <img src=\"docs/brand/deskcomm-logo.svg\" alt=\"Deskcomm CRM\" width=\"420\"> </picture> # \ud83d\udee0\ufe0f DeskcommCRM \u2014 o Sistema Operacional de Vendas com IA, open source, pro WhatsApp **Agentes de IA que atendem, qualificam e vendem no WhatsApp \u2014 dentro de um CRM open source rodando no seu servidor.** **Sem mensalidade, sem",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "chatbot",
+          "crm",
+          "customer-support",
+          "ecommerce",
+          "lgpd",
+          "mcp",
+          "multi-tenant",
+          "nextjs",
+          "nuvemshop",
+          "open-source",
+          "rag",
+          "sales-automation",
+          "self-hosted",
+          "supabase",
+          "typescript",
+          "waha",
+          "whatsapp",
+          "whatsapp-api"
+        ],
+        "updated_at": "2026-09-13T12:42:34Z"
+      },
+      "repo": {
+        "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+        "forks": 571,
+        "full_name": "melgarafael/DeskcommCRM",
+        "language": "TypeScript",
+        "name": "DeskcommCRM",
+        "owner": "melgarafael",
+        "rank": 5,
+        "stars_today": 444,
+        "total_stars": 2013,
+        "url": "https://github.com/melgarafael/DeskcommCRM"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.31,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 70.16
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 444 stars today; score 70.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-01-23T06:21:58Z",
+        "default_branch": "main",
+        "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+        "fork": false,
+        "full_name": "multimodal-art-projection/YuE",
+        "homepage": "https://map-yue2.github.io/",
+        "latest_release": "yue2-v0.1.6",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 13,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-11T17:37:59Z",
+        "readme_excerpt": "> Looking for the original YuE? Its code, documentation, and license are preserved on the **[YuE-v1 branch](https://github.com/multimodal-art-projection/YuE/tree/YuE-v1)**. <p align=\"center\"> <img src=\"assets/logo.png\" alt=\"YuE\" width=\"150\" /> </p> <p align=\"center\"> <picture> <source media=\"(max-width: 600px)\" srcset=\"assets/institutions-mobile.svg\" /> <img src=\"assets/institutions.svg\" alt=\"HKUST, M\u00b7A\u00b7P, Tokenwave.AI, NYU, Stanford, MBZUAI, NOIZ, and ACE Studio\" width=\"760\" /> </picture> </p> ",
+        "topics": [
+          "ai",
+          "audio-generation",
+          "deep-learning",
+          "foundation-models",
+          "gpt",
+          "huggingface",
+          "llama",
+          "llms",
+          "music-generation",
+          "style-transfers",
+          "voice-cloning"
+        ],
+        "updated_at": "2026-09-13T12:42:41Z"
+      },
+      "repo": {
+        "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+        "forks": 847,
+        "full_name": "multimodal-art-projection/YuE",
+        "language": "Python",
+        "name": "YuE",
+        "owner": "multimodal-art-projection",
+        "rank": 9,
+        "stars_today": 500,
+        "total_stars": 7533,
+        "url": "https://github.com/multimodal-art-projection/YuE"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.9,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 69.75
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 500 stars today; score 69.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-07T01:51:39Z",
+        "default_branch": "main",
+        "description": "Run parallel research agents with any model",
+        "fork": false,
+        "full_name": "alphaXiv/OpenResearch",
+        "homepage": "https://openresearch.sh/",
+        "latest_release": "v0.2.1",
+        "license_spdx": "MIT",
+        "open_issues": 9,
+        "primary_language": "Rust",
+        "pushed_at": "2026-09-12T06:05:16Z",
+        "readme_excerpt": "<div align=\"center\"> <h1><img src=\".github/readme-assets/openresearch.svg\" alt=\"\" width=\"36\" /> OpenResearch</h1> **The local-first workspace for research agents and autoresearch.** <p>Turn <img src=\".github/readme-assets/claude.svg\" alt=\"\" width=\"18\" /> Claude Code, <img src=\".github/readme-assets/codex.svg\" alt=\"\" width=\"18\" /> Codex, <img src=\".github/readme-assets/opencode.svg\" alt=\"\" width=\"18\" /> OpenCode, or Cursor into research agents that can review literature, develop hypotheses, run e",
+        "topics": [],
+        "updated_at": "2026-09-13T12:45:06Z"
+      },
+      "repo": {
+        "description": "Run parallel research agents with any model",
+        "forks": 131,
+        "full_name": "alphaXiv/OpenResearch",
+        "language": "Rust",
+        "name": "OpenResearch",
+        "owner": "alphaXiv",
+        "rank": 11,
+        "stars_today": 452,
+        "total_stars": 1790,
+        "url": "https://github.com/alphaXiv/OpenResearch"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.47,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 69.32
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 452 stars today; score 69.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-09T21:40:26Z",
+        "default_branch": "main",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "fork": false,
+        "full_name": "debpalash/VoiceStudio",
+        "homepage": "https://voicestudio.sh",
+        "latest_release": "v0.5.2",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 31,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-11T05:50:20Z",
+        "readme_excerpt": "<div align=\"center\"> <h3>NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr</h3> <p><img src=\"docs/logo.png\" alt=\"VoiceStudio logo\" width=\"120\" height=\"120\" /></p> <h1>VoiceStudio</h1> <p> <a href=\"https://trendshift.io/repositories/28176?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-28176\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/28176\" alt=\"VoiceStudio ranking on Tre",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "tauri",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "updated_at": "2026-09-13T12:48:48Z"
+      },
+      "repo": {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "forks": 3150,
+        "full_name": "debpalash/VoiceStudio",
+        "language": "Python",
+        "name": "VoiceStudio",
+        "owner": "debpalash",
+        "rank": 12,
+        "stars_today": 2546,
+        "total_stars": 25478,
+        "url": "https://github.com/debpalash/VoiceStudio"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 9.4,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 65.11
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 2546 stars today; score 65.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-22T23:37:22Z",
+        "default_branch": "main",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "fork": false,
+        "full_name": "bilawalsidhu/gods-eye-view",
+        "homepage": "https://maptheworld.ai/",
+        "latest_release": "v0.1.1",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 219,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-13T12:47:46Z",
+        "readme_excerpt": "<div align=\"center\"> # \ud83c\udf10 God's Eye View [![CI](https://github.com/bilawalsidhu/gods-eye-view/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bilawalsidhu/gods-eye-view/actions/workflows/ci.yml) ### A spy-satellite simulator in your browser \u2014 then you realize the sources are public and the data is real. Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands-free voice control powered by a realtime AI agent. *No place left beh",
+        "topics": [
+          "3d-globe",
+          "cesium",
+          "flight-tracking",
+          "geospatial",
+          "geospatial-intelligence",
+          "gis",
+          "osint",
+          "photogrammetry",
+          "satellite-tracking",
+          "spatial-intelligence",
+          "webgl",
+          "worldview"
+        ],
+        "updated_at": "2026-09-13T12:48:18Z"
+      },
+      "repo": {
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "forks": 6219,
+        "full_name": "bilawalsidhu/gods-eye-view",
+        "language": "JavaScript",
+        "name": "gods-eye-view",
+        "owner": "bilawalsidhu",
+        "rank": 3,
+        "stars_today": 2898,
+        "total_stars": 31015,
+        "url": "https://github.com/bilawalsidhu/gods-eye-view"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.71,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 4.78,
+        "technical_quality": 11.2,
+        "total": 63.77
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 2898 stars today; score 63.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-01T12:27:49Z",
+        "default_branch": "main",
+        "description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \ud83d\udc26",
+        "fork": false,
+        "full_name": "JustVugg/colibri",
+        "homepage": "https://justvugg.github.io/colibri",
+        "latest_release": "v1.10.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 115,
+        "primary_language": "C",
+        "pushed_at": "2026-09-13T12:27:49Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"assets/colibri-logo.svg\" width=\"560\" alt=\"colibr\u00ec \u2014 tiny engine, immense model\"> </p> <p align=\"center\"> <a href=\"https://justvugg.github.io/colibri\"><img src=\"https://img.shields.io/badge/website-justvugg.github.io%2Fcolibri-1f6feb\" alt=\"Website\"></a> <a href=\"https://github.com/JustVugg/colibri/releases\"><img src=\"https://img.shields.io/github/v/release/JustVugg/colibri?color=2ea043\" alt=\"Latest release\"></a> </p> <p align=\"center\"> <a href=\"https://justvugg.github",
+        "topics": [],
+        "updated_at": "2026-09-13T12:48:35Z"
+      },
+      "repo": {
+        "description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \ud83d\udc26",
+        "forks": 3173,
+        "full_name": "JustVugg/colibri",
+        "language": "C",
+        "name": "colibri",
+        "owner": "JustVugg",
+        "rank": 1,
+        "stars_today": 652,
+        "total_stars": 28960,
+        "url": "https://github.com/JustVugg/colibri"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.49,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 61.59
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: C project with 652 stars today; score 61.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-01-30T14:02:20Z",
+        "default_branch": "main",
+        "description": "\ud83e\udd16\ud83d\udcd0\u4e13\u4e3a\u6570\u5b66\u5efa\u6a21\u8bbe\u8ba1\u7684 Agent & skills ,\u81ea\u52a8\u5b8c\u6210\u6570\u5b66\u5efa\u6a21\uff0c\u751f\u6210\u4e00\u4efd\u5b8c\u6574\u7684\u53ef\u4ee5\u76f4\u63a5\u63d0\u4ea4\u7684\u8bba\u6587\u3002 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+        "fork": false,
+        "full_name": "jihe520/MathModelAgent",
+        "homepage": "https://mathmodel.top/home",
+        "latest_release": "v0.0.19",
+        "license_spdx": null,
+        "open_issues": 43,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-13T07:37:16Z",
+        "readme_excerpt": "<h1 align=\"center\">\ud83e\udd16 MathModelAgent \ud83d\udcd0</h1> <p align=\"center\"> <img src=\"./docs/icon.png\" height=\"250px\"> </p> <h4 align=\"center\"> \u4e13\u4e3a\u6570\u5b66\u5efa\u6a21\u8bbe\u8ba1\u7684 Agent<br> \u81ea\u52a8\u5b8c\u6210\u6570\u5b66\u5efa\u6a21\uff0c\u751f\u6210\u4e00\u4efd\u5b8c\u6574\u7684\u53ef\u4ee5\u76f4\u63a5\u63d0\u4ea4\u7684\u8bba\u6587\u3002 </h4> <h5 align=\"center\">\u7b80\u4f53\u4e2d\u6587 | <a href=\"README_EN.md\">English</a></h5> <p align=\"center\"> <a href=\"https://github.com/jihe520/MathModelAgent/releases/latest\"><b>\u2b07\ufe0f \u4e0b\u8f7d\u6700\u65b0\u684c\u9762\u7248\uff08\u63a8\u8350\uff09</b></a> </p> <p align=\"center\"> \ud83c\udfa8 \u59ca\u59b9\u9879\u76ee\uff1a<a href=\"https://github.com/jihe520/sci-box\"><b>sci-box</b></a> \u2014\u2014 \u79d1\u7814\u56fe\u8868 & \u6d41\u7a0b\u56fe SKILL \u5408\u96c6 </p> --- ## \ud83d\udda5\ufe0f \u684c\u9762\u7248\uff08\u63a8",
+        "topics": [
+          "agent",
+          "llm",
+          "mathmodel",
+          "skills"
+        ],
+        "updated_at": "2026-09-13T12:42:43Z"
+      },
+      "repo": {
+        "description": "\ud83e\udd16\ud83d\udcd0\u4e13\u4e3a\u6570\u5b66\u5efa\u6a21\u8bbe\u8ba1\u7684 Agent & skills ,\u81ea\u52a8\u5b8c\u6210\u6570\u5b66\u5efa\u6a21\uff0c\u751f\u6210\u4e00\u4efd\u5b8c\u6574\u7684\u53ef\u4ee5\u76f4\u63a5\u63d0\u4ea4\u7684\u8bba\u6587\u3002 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+        "forks": 405,
+        "full_name": "jihe520/MathModelAgent",
+        "language": "Python",
+        "name": "MathModelAgent",
+        "owner": "jihe520",
+        "rank": 15,
+        "stars_today": 268,
+        "total_stars": 5260,
+        "url": "https://github.com/jihe520/MathModelAgent"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.36,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 58.41
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 268 stars today; score 58.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-04T05:52:35Z",
+        "default_branch": "main",
+        "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface \u2014 from SQLi to shellcode, EDR evasion to exploit development.",
+        "fork": false,
+        "full_name": "SnailSploit/Claude-Red",
+        "homepage": null,
+        "latest_release": "v0.3.0",
+        "license_spdx": "MIT",
+        "open_issues": 12,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-30T11:02:24Z",
+        "readme_excerpt": "![claude-red banner](/assets/banner.png) <div align=\"center\"> # claude-red **Offensive security skills for Claude \u2014 drop-in `SKILL.md` files that turn Claude into a context-aware red team operator.** [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Skills](https://img.shields.io/badge/skills-78-red.svg)](#skill-index) [![Categories](https://img.shields.io/badge/categories-23-orange.svg)](#categories) [![Stars](https://img.shields.io/github/stars/SnailSploit/claude",
+        "topics": [
+          "claude-ai",
+          "claude-pt",
+          "claude-skills",
+          "redteam",
+          "redteam-tools",
+          "skills"
+        ],
+        "updated_at": "2026-09-13T12:45:21Z"
+      },
+      "repo": {
+        "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface \u2014 from SQLi to shellcode, EDR evasion to exploit development.",
+        "forks": 570,
+        "full_name": "SnailSploit/Claude-Red",
+        "language": "Python",
+        "name": "Claude-Red",
+        "owner": "SnailSploit",
+        "rank": 13,
+        "stars_today": 507,
+        "total_stars": 3867,
+        "url": "https://github.com/SnailSploit/Claude-Red"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.34,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 58.39
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 507 stars today; score 58.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-05-25T08:10:38Z",
+        "default_branch": "main",
+        "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. \u6296\u97f3\u6279\u91cf\u4e0b\u8f7d\u5de5\u5177\uff0c\u53bb\u6c34\u5370\uff0c\u652f\u6301\u89c6\u9891\u3001\u56fe\u96c6\u3001\u5408\u96c6\u3001\u97f3\u4e50(\u539f\u58f0)\u3002",
+        "fork": false,
+        "full_name": "jiji262/douyin-downloader",
+        "homepage": null,
+        "latest_release": "desktop-v0.11.5",
+        "license_spdx": "MIT",
+        "open_issues": 40,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-10T07:35:13Z",
+        "readme_excerpt": "# Douyin Downloader V2.0 <p align=\"center\"> <img src=\"https://socialify.git.ci/jiji262/douyin-downloader/image?custom_description=Douyin+batch+download+tool%2C+remove+watermarks%2C+support+batch+download+of+videos%2C+gallery%2C+and+author+homepages.&description=1&font=Source+Code+Pro&forks=1&owner=1&pattern=Circuit+Board&stargazers=1&theme=Light\" alt=\"douyin-downloader\" width=\"820\" /> </p> <p align=\"center\"> <a href=\"https://linux.do\" alt=\"LINUX DO\"> <img src=\"https://img.shields.io/badge/LINUX-",
+        "topics": [],
+        "updated_at": "2026-09-13T12:44:33Z"
+      },
+      "repo": {
+        "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. \u6296\u97f3\u6279\u91cf\u4e0b\u8f7d\u5de5\u5177\uff0c\u53bb\u6c34\u5370\uff0c\u652f\u6301\u89c6\u9891\u3001\u56fe\u96c6\u3001\u5408\u96c6\u3001\u97f3\u4e50(\u539f\u58f0)\u3002",
+        "forks": 1736,
+        "full_name": "jiji262/douyin-downloader",
+        "language": "Python",
+        "name": "douyin-downloader",
+        "owner": "jiji262",
+        "rank": 17,
+        "stars_today": 473,
+        "total_stars": 11224,
+        "url": "https://github.com/jiji262/douyin-downloader"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.67,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 1.09,
+        "technical_quality": 14.0,
+        "total": 48.76
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Python project with 473 stars today; score 48.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2020-07-28T12:53:52Z",
+        "default_branch": "master",
+        "description": "Browse media content with your own rules on Android TV",
+        "fork": false,
+        "full_name": "yuliskov/SmartTube",
+        "homepage": "https://smarttubeapp.github.io",
+        "latest_release": "32.38s",
+        "license_spdx": "MIT",
+        "open_issues": 712,
+        "primary_language": "Java",
+        "pushed_at": "2026-09-13T00:11:44Z",
+        "readme_excerpt": "[<img src=\"images/badge_fdroid.png\" alt=\"Get it on F-Droid\" height=\"80\">](https://f-droid.org/packages/app.smarttube.fdroid/) [<img src=\"images/badge_github.png\" alt=\"Get it on GitHub\" height=\"80\">](https://github.com/yuliskov/SmartTube/releases) # Important announcement about the app My development environment was infected by unknown malicious software, as a result of which a few builds may have been affected. Once the issue was detected, I secured everything with a full disk wipe, restored a c",
+        "topics": [
+          "android",
+          "android-tv",
+          "android-tv-box",
+          "java",
+          "kotlin",
+          "retrofit2",
+          "rxjava-android"
+        ],
+        "updated_at": "2026-09-13T12:40:22Z"
+      },
+      "repo": {
+        "description": "Browse media content with your own rules on Android TV",
+        "forks": 2021,
+        "full_name": "yuliskov/SmartTube",
+        "language": "Java",
+        "name": "SmartTube",
+        "owner": "yuliskov",
+        "rank": 10,
+        "stars_today": 238,
+        "total_stars": 33315,
+        "url": "https://github.com/yuliskov/SmartTube"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.99,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 1.22,
+        "technical_quality": 14.0,
+        "total": 45.06
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Java project with 238 stars today; score 45.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2013-11-22T09:59:57Z",
+        "default_branch": "master",
+        "description": "A good looking terminal emulator which mimics the old cathode display...",
+        "fork": false,
+        "full_name": "Swordfish90/cool-retro-term",
+        "homepage": null,
+        "latest_release": "2.0.0-beta2",
+        "license_spdx": null,
+        "open_issues": 563,
+        "primary_language": "QML",
+        "pushed_at": "2026-05-31T10:12:54Z",
+        "readme_excerpt": "# cool-retro-term |> Default Amber|C:\\ IBM DOS|$ Default Green| |---|---|---| |![Default Amber Cool Retro Term](https://user-images.githubusercontent.com/121322/32070717-16708784-ba42-11e7-8572-a8fcc10d7f7d.gif)|![IBM DOS](https://user-images.githubusercontent.com/121322/32070716-16567e5c-ba42-11e7-9e64-ba96dfe9b64d.gif)|![Default Green Cool Retro Term](https://user-images.githubusercontent.com/121322/32070715-163a1c94-ba42-11e7-80bb-41fbf10fc634.gif)| ## Description cool-retro-term is a termina",
+        "topics": [
+          "linux",
+          "macos",
+          "qml",
+          "qt",
+          "retro",
+          "terminal"
+        ],
+        "updated_at": "2026-09-13T12:48:41Z"
+      },
+      "repo": {
+        "description": "A good looking terminal emulator which mimics the old cathode display...",
+        "forks": 1014,
+        "full_name": "Swordfish90/cool-retro-term",
+        "language": "QML",
+        "name": "cool-retro-term",
+        "owner": "Swordfish90",
+        "rank": 18,
+        "stars_today": 98,
+        "total_stars": 26137,
+        "url": "https://github.com/Swordfish90/cool-retro-term"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.44,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.2,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 44.9
+      },
+      "tags": [
+        "DevTools"
+      ],
+      "verdict": "DevTools: QML project with 98 stars today; score 44.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/asgeirtj",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+        "forks": 10779,
+        "full_name": "sponsors/asgeirtj",
+        "language": "JavaScript",
+        "name": "asgeirtj",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 727,
+        "total_stars": 65726,
+        "url": "https://github.com/sponsors/asgeirtj"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.84,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 7.0,
+        "technical_quality": 3.5,
+        "total": 43.04
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 727 stars today; score 43.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/calesthio",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+        "forks": 7320,
+        "full_name": "sponsors/calesthio",
+        "language": "Python",
+        "name": "calesthio",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 383,
+        "total_stars": 58093,
+        "url": "https://github.com/sponsors/calesthio"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.99,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 32.44
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 383 stars today; score 32.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/tonhowtf",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Download Udemy and Hotmart courses, YouTube videos, music and books \u2014 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+        "forks": 986,
+        "full_name": "sponsors/tonhowtf",
+        "language": "Rust",
+        "name": "tonhowtf",
+        "owner": "sponsors",
+        "rank": 16,
+        "stars_today": 839,
+        "total_stars": 11140,
+        "url": "https://github.com/sponsors/tonhowtf"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.87,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 30.48
+      },
+      "tags": [
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "DevTools, Watch: Rust project with 839 stars today; score 30.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/ever-co",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Ever\u00ae Gauzy\u2122 - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+        "forks": 902,
+        "full_name": "sponsors/ever-co",
+        "language": "TypeScript",
+        "name": "ever-co",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 58,
+        "total_stars": 4582,
+        "url": "https://github.com/sponsors/ever-co"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.62,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.48,
+        "technical_quality": 3.5,
+        "total": 23.5
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: TypeScript project with 58 stars today; score 23.5/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-09-13",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is alibaba/open-code-review."
+}

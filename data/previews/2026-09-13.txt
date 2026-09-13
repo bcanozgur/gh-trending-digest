@@ -1,0 +1,33 @@
+GitHub Trending: AI workflow signal - 2026-09-13
+
+Today leans toward AI workflow signal; the strongest pick is alibaba/open-code-review.
+
+Top picks
+1. alibaba/open-code-review - 73.5/100
+   https://github.com/alibaba/open-code-review
+   AI Workflow, DevTools: Go project with 264 stars today; score 73.5/100.
+2. huggingface/transformers - 72.3/100
+   https://github.com/huggingface/transformers
+   AI Workflow, DevTools: Python project with 102 stars today; score 72.3/100.
+3. tech-leads-club/agent-skills - 70.3/100
+   https://github.com/tech-leads-club/agent-skills
+   AI Workflow, Try Today: TypeScript project with 215 stars today; score 70.3/100.
+4. debpalash/VoiceStudio - 65.1/100
+   https://github.com/debpalash/VoiceStudio
+   AI Workflow, DevTools: Python project with 2546 stars today; score 65.1/100.
+5. jiji262/douyin-downloader - 48.8/100
+   https://github.com/jiji262/douyin-downloader
+   Try Today: Python project with 473 stars today; score 48.8/100.
+
+Full reviewed list
+- alibaba/open-code-review: 73.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Go project with 264 stars today; score 73.5/100.
+- huggingface/transformers: 72.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 102 stars today; score 72.3/100.
+- tech-leads-club/agent-skills: 70.3/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 215 stars today; score 70.3/100.
+- debpalash/VoiceStudio: 65.1/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 2546 stars today; score 65.1/100.
+- jiji262/douyin-downloader: 48.8/100 [Try Today] Try Today: Python project with 473 stars today; score 48.8/100.
+- Swordfish90/cool-retro-term: 44.9/100 [DevTools] DevTools: QML project with 98 stars today; score 44.9/100.
+- sponsors/calesthio: 32.4/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Python project with 383 stars today; score 32.4/100.
+- sponsors/tonhowtf: 30.5/100 [DevTools, Watch, Hype Risk] DevTools, Watch: Rust project with 839 stars today; score 30.5/100.
+- sponsors/ever-co: 23.5/100 [Watch, Hype Risk] Watch, Hype Risk: TypeScript project with 58 stars today; score 23.5/100.
+
+Generated for 2026-09-13 from GitHub Trending daily.
