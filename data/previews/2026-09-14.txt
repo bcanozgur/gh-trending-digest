@@ -1,0 +1,34 @@
+GitHub Trending: AI workflow signal - 2026-09-14
+
+Today leans toward AI workflow signal; the strongest pick is Panniantong/Agent-Reach.
+
+Top picks
+1. Panniantong/Agent-Reach - 77.7/100
+   https://github.com/Panniantong/Agent-Reach
+   AI Workflow, DevTools: Python project with 640 stars today; score 77.7/100.
+2. rlaope/oh-my-hermes - 73.8/100
+   https://github.com/rlaope/oh-my-hermes
+   AI Workflow, DevTools: Python project with 52 stars today; score 73.8/100.
+3. 666ghj/MiroFish - 65.9/100
+   https://github.com/666ghj/MiroFish
+   AI Workflow, DevTools: Python project with 524 stars today; score 65.9/100.
+4. ruvnet/RuView - 64.4/100
+   https://github.com/ruvnet/RuView
+   AI Workflow, Try Today: Rust project with 370 stars today; score 64.4/100.
+5. localsend/localsend - 59.9/100
+   https://github.com/localsend/localsend
+   AI Workflow, DevTools: Dart project with 213 stars today; score 59.9/100.
+
+Full reviewed list
+- Panniantong/Agent-Reach: 77.7/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 640 stars today; score 77.7/100.
+- rlaope/oh-my-hermes: 73.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 52 stars today; score 73.8/100.
+- 666ghj/MiroFish: 65.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 524 stars today; score 65.9/100.
+- ruvnet/RuView: 64.4/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Rust project with 370 stars today; score 64.4/100.
+- localsend/localsend: 59.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Dart project with 213 stars today; score 59.9/100.
+- OpenBMB/VoxCPM: 59.1/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 204 stars today; score 59.1/100.
+- Crosstalk-Solutions/project-nomad: 58.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 26 stars today; score 58.2/100.
+- reconurge/flowsint: 48.9/100 [Try Today] Try Today: TypeScript project with 279 stars today; score 48.9/100.
+- sponsors/peetzweg: 21.2/100 [Watch, Hype Risk] Watch, Hype Risk: Swift project with 314 stars today; score 21.2/100.
+- sponsors/dani-garcia: 16.9/100 [Watch, Hype Risk] Watch, Hype Risk: Rust project with 110 stars today; score 16.9/100.
+
+Generated for 2026-09-14 from GitHub Trending daily.
