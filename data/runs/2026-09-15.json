@@ -1,0 +1,1171 @@
+{
+  "date": "2026-09-15",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-14T16:48:52Z",
+        "default_branch": "main",
+        "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+        "fork": false,
+        "full_name": "pacifio/atlas",
+        "homepage": "https://www.tryatlas.cc/",
+        "latest_release": "alpha-0.3.1",
+        "license_spdx": "MIT",
+        "open_issues": 24,
+        "primary_language": "Rust",
+        "pushed_at": "2026-09-15T12:49:33Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"src/assets/atlas-icon.svg\" alt=\"Atlas\" width=\"88\" height=\"88\" /> ### Atlas **Source control for coding agents.** <br /> <a href=\"https://trendshift.io/repositories/56020?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-56020\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/56020\" alt=\"pacifio%2Fatlas | Trendshift\" width=\"250\" height=\"55\"/></a> <a href=\"https://trendshift.io/repositor",
+        "topics": [
+          "ai",
+          "ai-coding-assistant",
+          "claude-code",
+          "codex",
+          "coding-agents",
+          "git",
+          "gitops",
+          "kilo-code",
+          "mcp",
+          "mcp-client",
+          "opencode",
+          "opencode-ai",
+          "opencode-skills",
+          "self-hosted",
+          "skills"
+        ],
+        "updated_at": "2026-09-15T12:46:00Z"
+      },
+      "repo": {
+        "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+        "forks": 274,
+        "full_name": "pacifio/atlas",
+        "language": "Rust",
+        "name": "atlas",
+        "owner": "pacifio",
+        "rank": 10,
+        "stars_today": 1091,
+        "total_stars": 4472,
+        "url": "https://github.com/pacifio/atlas"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.64,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 74.34
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 1091 stars today; score 74.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-15T20:20:26Z",
+        "default_branch": "main",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "fork": false,
+        "full_name": "addyosmani/agent-skills",
+        "homepage": "https://skills.addy.ie",
+        "latest_release": "0.6.9",
+        "license_spdx": "MIT",
+        "open_issues": 121,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-12T03:14:59Z",
+        "readme_excerpt": "# Agent Skills **Production-grade engineering skills for AI coding agents.** Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. <a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" wid",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-09-15T12:48:38Z"
+      },
+      "repo": {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "forks": 10041,
+        "full_name": "addyosmani/agent-skills",
+        "language": "JavaScript",
+        "name": "agent-skills",
+        "owner": "addyosmani",
+        "rank": 12,
+        "stars_today": 354,
+        "total_stars": 94515,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.1,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 71.8
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 354 stars today; score 71.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-08-09T14:03:50Z",
+        "default_branch": "main",
+        "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "fork": false,
+        "full_name": "earendil-works/pi",
+        "homepage": null,
+        "latest_release": "v0.85.1",
+        "license_spdx": "MIT",
+        "open_issues": 229,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-15T12:18:33Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://pi.dev\"> <img alt=\"pi logo\" src=\"https://pi.dev/logo-auto.svg\" width=\"128\"> </a> </p> <p align=\"center\"> <a href=\"https://discord.com/invite/3cU7Bz4UPx\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/discord-community-5865F2?style=flat-square&logo=discord&logoColor=white\" /></a> <a href=\"https://www.npmjs.com/package/@earendil-works/pi-coding-agent\"><img alt=\"npm\" src=\"https://img.shields.io/npm/v/@earendil-works/pi-coding-agent?style=flat-square\" /></a>",
+        "topics": [],
+        "updated_at": "2026-09-15T12:50:11Z"
+      },
+      "repo": {
+        "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "forks": 13256,
+        "full_name": "earendil-works/pi",
+        "language": "TypeScript",
+        "name": "pi",
+        "owner": "earendil-works",
+        "rank": 14,
+        "stars_today": 437,
+        "total_stars": 105440,
+        "url": "https://github.com/earendil-works/pi"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.06,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 70.66
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 437 stars today; score 70.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-09T17:19:42Z",
+        "default_branch": "main",
+        "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+        "fork": false,
+        "full_name": "MG1937/ASC",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 7,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-15T10:06:06Z",
+        "readme_excerpt": "# Droid ASC: R8 Compiler Optimization as a DeCompiler Primitive https://blackhat.com/europe/arsenal/schedule/index.html#droid-asc-r8-compiler-optimization-as-a-decompiler-primitive-54834 When decompiling massive Android APKs, the standard procedure is to wait. We wait for tools to eat gigabytes of RAM, fully inflate the artifacts, and spend tens of minutes building heavy global indexes and cross references... All of this is just to guarantee fast code searches later, but here is the contradictio",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "android",
+          "decompilation",
+          "decompile",
+          "decompiler",
+          "mobile",
+          "reverse",
+          "reverse-engineering"
+        ],
+        "updated_at": "2026-09-15T12:45:21Z"
+      },
+      "repo": {
+        "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+        "forks": 183,
+        "full_name": "MG1937/ASC",
+        "language": "Python",
+        "name": "ASC",
+        "owner": "MG1937",
+        "rank": 11,
+        "stars_today": 122,
+        "total_stars": 1025,
+        "url": "https://github.com/MG1937/ASC"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.53,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 63.78
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 122 stars today; score 63.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-03-01T03:27:48Z",
+        "default_branch": "master",
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "fork": false,
+        "full_name": "NationalSecurityAgency/ghidra",
+        "homepage": null,
+        "latest_release": "Ghidra_12.1.3_build",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1963,
+        "primary_language": "Java",
+        "pushed_at": "2026-09-14T15:51:56Z",
+        "readme_excerpt": "<img src=\"Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png\" width=\"400\"> # Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, asse",
+        "topics": [
+          "disassembler",
+          "reverse-engineering",
+          "software-analysis"
+        ],
+        "updated_at": "2026-09-15T12:50:05Z"
+      },
+      "repo": {
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "forks": 8413,
+        "full_name": "NationalSecurityAgency/ghidra",
+        "language": "Java",
+        "name": "ghidra",
+        "owner": "NationalSecurityAgency",
+        "rank": 8,
+        "stars_today": 700,
+        "total_stars": 76296,
+        "url": "https://github.com/NationalSecurityAgency/ghidra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.73,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 55.28
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Java project with 700 stars today; score 55.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/danny-avila",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+        "forks": 9010,
+        "full_name": "sponsors/danny-avila",
+        "language": "TypeScript",
+        "name": "danny-avila",
+        "owner": "sponsors",
+        "rank": 9,
+        "stars_today": 286,
+        "total_stars": 43641,
+        "url": "https://github.com/sponsors/danny-avila"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.32,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 7.0,
+        "technical_quality": 3.5,
+        "total": 51.92
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 286 stars today; score 51.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/Homebrew",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83d\udcfa Homebrew's official macOS GUI",
+        "forks": 21,
+        "full_name": "sponsors/Homebrew",
+        "language": "Swift",
+        "name": "Homebrew",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 388,
+        "total_stars": 1062,
+        "url": "https://github.com/sponsors/Homebrew"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.21,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.72,
+        "technical_quality": 3.5,
+        "total": 24.33
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Swift project with 388 stars today; score 24.3/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-18T02:16:36Z",
+        "default_branch": "main",
+        "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "fork": false,
+        "full_name": "alibaba/open-code-review",
+        "homepage": "https://open-codereview.ai",
+        "latest_release": "v1.12.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 158,
+        "primary_language": "Go",
+        "pushed_at": "2026-09-15T11:37:49Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://open-codereview.ai\"> <img src=\"imgs/logo-core.svg\" alt=\"OpenCodeReview logo\" width=\"180\" /> </a> <h1>OpenCodeReview</h1> </div> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/41087?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-41087\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://trendshift.io/api/badge/repositories/41087\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; hei",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "code-review",
+          "code-review-assistant",
+          "harness",
+          "repository-level-context"
+        ],
+        "updated_at": "2026-09-15T12:50:26Z"
+      },
+      "repo": {
+        "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "forks": 1950,
+        "full_name": "alibaba/open-code-review",
+        "language": "Go",
+        "name": "open-code-review",
+        "owner": "alibaba",
+        "rank": 1,
+        "stars_today": 2751,
+        "total_stars": 27267,
+        "url": "https://github.com/alibaba/open-code-review"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 77.85
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 2751 stars today; score 77.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-14T16:48:52Z",
+        "default_branch": "main",
+        "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+        "fork": false,
+        "full_name": "pacifio/atlas",
+        "homepage": "https://www.tryatlas.cc/",
+        "latest_release": "alpha-0.3.1",
+        "license_spdx": "MIT",
+        "open_issues": 24,
+        "primary_language": "Rust",
+        "pushed_at": "2026-09-15T12:49:33Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"src/assets/atlas-icon.svg\" alt=\"Atlas\" width=\"88\" height=\"88\" /> ### Atlas **Source control for coding agents.** <br /> <a href=\"https://trendshift.io/repositories/56020?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-56020\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/56020\" alt=\"pacifio%2Fatlas | Trendshift\" width=\"250\" height=\"55\"/></a> <a href=\"https://trendshift.io/repositor",
+        "topics": [
+          "ai",
+          "ai-coding-assistant",
+          "claude-code",
+          "codex",
+          "coding-agents",
+          "git",
+          "gitops",
+          "kilo-code",
+          "mcp",
+          "mcp-client",
+          "opencode",
+          "opencode-ai",
+          "opencode-skills",
+          "self-hosted",
+          "skills"
+        ],
+        "updated_at": "2026-09-15T12:46:00Z"
+      },
+      "repo": {
+        "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+        "forks": 274,
+        "full_name": "pacifio/atlas",
+        "language": "Rust",
+        "name": "atlas",
+        "owner": "pacifio",
+        "rank": 10,
+        "stars_today": 1091,
+        "total_stars": 4472,
+        "url": "https://github.com/pacifio/atlas"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.64,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 74.34
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 1091 stars today; score 74.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-15T20:20:26Z",
+        "default_branch": "main",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "fork": false,
+        "full_name": "addyosmani/agent-skills",
+        "homepage": "https://skills.addy.ie",
+        "latest_release": "0.6.9",
+        "license_spdx": "MIT",
+        "open_issues": 121,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-12T03:14:59Z",
+        "readme_excerpt": "# Agent Skills **Production-grade engineering skills for AI coding agents.** Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. <a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" wid",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-09-15T12:48:38Z"
+      },
+      "repo": {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "forks": 10041,
+        "full_name": "addyosmani/agent-skills",
+        "language": "JavaScript",
+        "name": "agent-skills",
+        "owner": "addyosmani",
+        "rank": 12,
+        "stars_today": 354,
+        "total_stars": 94515,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.1,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 71.8
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 354 stars today; score 71.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-08-09T14:03:50Z",
+        "default_branch": "main",
+        "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "fork": false,
+        "full_name": "earendil-works/pi",
+        "homepage": null,
+        "latest_release": "v0.85.1",
+        "license_spdx": "MIT",
+        "open_issues": 229,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-15T12:18:33Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://pi.dev\"> <img alt=\"pi logo\" src=\"https://pi.dev/logo-auto.svg\" width=\"128\"> </a> </p> <p align=\"center\"> <a href=\"https://discord.com/invite/3cU7Bz4UPx\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/discord-community-5865F2?style=flat-square&logo=discord&logoColor=white\" /></a> <a href=\"https://www.npmjs.com/package/@earendil-works/pi-coding-agent\"><img alt=\"npm\" src=\"https://img.shields.io/npm/v/@earendil-works/pi-coding-agent?style=flat-square\" /></a>",
+        "topics": [],
+        "updated_at": "2026-09-15T12:50:11Z"
+      },
+      "repo": {
+        "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "forks": 13256,
+        "full_name": "earendil-works/pi",
+        "language": "TypeScript",
+        "name": "pi",
+        "owner": "earendil-works",
+        "rank": 14,
+        "stars_today": 437,
+        "total_stars": 105440,
+        "url": "https://github.com/earendil-works/pi"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.06,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 70.66
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 437 stars today; score 70.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-28T20:00:33Z",
+        "default_branch": "main",
+        "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+        "fork": false,
+        "full_name": "melgarafael/DeskcommCRM",
+        "homepage": "https://deskcomm.com.br",
+        "latest_release": "v1.27.0",
+        "license_spdx": "MIT",
+        "open_issues": 107,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-15T12:45:49Z",
+        "readme_excerpt": "<div align=\"center\"> \ud83c\udde7\ud83c\uddf7 Portugu\u00eas \u00b7 [\ud83c\uddfa\ud83c\uddf8 English](README.en.md) \u00b7 [\ud83c\uddea\ud83c\uddf8 Espa\u00f1ol](README.es.md) <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/brand/deskcomm-logo-dark.svg\"> <img src=\"docs/brand/deskcomm-logo.svg\" alt=\"Deskcomm CRM\" width=\"420\"> </picture> # \ud83d\udee0\ufe0f DeskcommCRM \u2014 o Sistema Operacional de Vendas com IA, open source, pro WhatsApp **Agentes de IA que atendem, qualificam e vendem no WhatsApp \u2014 dentro de um CRM open source rodando no seu servidor.** **Sem mensalidade, sem",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "chatbot",
+          "crm",
+          "customer-support",
+          "ecommerce",
+          "lgpd",
+          "mcp",
+          "multi-tenant",
+          "nextjs",
+          "nuvemshop",
+          "open-source",
+          "rag",
+          "sales-automation",
+          "self-hosted",
+          "supabase",
+          "typescript",
+          "waha",
+          "whatsapp",
+          "whatsapp-api"
+        ],
+        "updated_at": "2026-09-15T12:49:20Z"
+      },
+      "repo": {
+        "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+        "forks": 654,
+        "full_name": "melgarafael/DeskcommCRM",
+        "language": "TypeScript",
+        "name": "DeskcommCRM",
+        "owner": "melgarafael",
+        "rank": 6,
+        "stars_today": 408,
+        "total_stars": 2611,
+        "url": "https://github.com/melgarafael/DeskcommCRM"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.13,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 69.98
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 408 stars today; score 70.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-07T01:51:39Z",
+        "default_branch": "main",
+        "description": "Turn your coding agents into research agents",
+        "fork": false,
+        "full_name": "alphaXiv/OpenResearch",
+        "homepage": "https://openresearch.sh/",
+        "latest_release": "v0.2.2",
+        "license_spdx": "MIT",
+        "open_issues": 30,
+        "primary_language": "Rust",
+        "pushed_at": "2026-09-15T01:24:16Z",
+        "readme_excerpt": "<div align=\"center\"> <h1><img src=\".github/readme-assets/openresearch.svg\" alt=\"\" width=\"36\" /> OpenResearch</h1> **The local-first workspace for research agents and autoresearch.** <p>Turn <img src=\".github/readme-assets/claude.svg\" alt=\"\" width=\"16\" height=\"16\" align=\"texttop\" /> Claude Code, <img src=\".github/readme-assets/codex.svg\" alt=\"\" width=\"16\" height=\"16\" align=\"texttop\" /> Codex, <img src=\".github/readme-assets/opencode.svg\" alt=\"\" width=\"16\" height=\"16\" align=\"texttop\" /> OpenCode, ",
+        "topics": [],
+        "updated_at": "2026-09-15T12:50:06Z"
+      },
+      "repo": {
+        "description": "Turn your coding agents into research agents",
+        "forks": 200,
+        "full_name": "alphaXiv/OpenResearch",
+        "language": "Rust",
+        "name": "OpenResearch",
+        "owner": "alphaXiv",
+        "rank": 7,
+        "stars_today": 568,
+        "total_stars": 2925,
+        "url": "https://github.com/alphaXiv/OpenResearch"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.47,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 69.57
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 568 stars today; score 69.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-01T12:27:49Z",
+        "default_branch": "main",
+        "description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \ud83d\udc26",
+        "fork": false,
+        "full_name": "JustVugg/colibri",
+        "homepage": "https://justvugg.github.io/colibri",
+        "latest_release": "v1.11.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 114,
+        "primary_language": "C",
+        "pushed_at": "2026-09-15T12:46:19Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"assets/colibri-logo.svg\" width=\"560\" alt=\"colibr\u00ec \u2014 tiny engine, immense model\"> </p> <p align=\"center\"> <a href=\"https://justvugg.github.io/colibri\"><img src=\"https://img.shields.io/badge/website-justvugg.github.io%2Fcolibri-1f6feb\" alt=\"Website\"></a> <a href=\"https://github.com/JustVugg/colibri/releases\"><img src=\"https://img.shields.io/github/v/release/JustVugg/colibri?color=2ea043\" alt=\"Latest release\"></a> </p> <p align=\"center\"> <a href=\"https://justvugg.github",
+        "topics": [],
+        "updated_at": "2026-09-15T12:49:19Z"
+      },
+      "repo": {
+        "description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \ud83d\udc26",
+        "forks": 3468,
+        "full_name": "JustVugg/colibri",
+        "language": "C",
+        "name": "colibri",
+        "owner": "JustVugg",
+        "rank": 2,
+        "stars_today": 2035,
+        "total_stars": 33091,
+        "url": "https://github.com/JustVugg/colibri"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 9.67,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 65.77
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: C project with 2035 stars today; score 65.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-09T21:40:26Z",
+        "default_branch": "main",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "fork": false,
+        "full_name": "debpalash/VoiceStudio",
+        "homepage": "https://voicestudio.sh",
+        "latest_release": "v0.5.2",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 94,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-15T12:25:02Z",
+        "readme_excerpt": "<div align=\"center\"> <h3>NOTE: Electron Rewrite Ongoing: Please dont't create desktop app related issues and pr</h3> <p><img src=\"docs/logo.png\" alt=\"VoiceStudio logo\" width=\"120\" height=\"120\" /></p> <h1>VoiceStudio</h1> <p> <a href=\"https://trendshift.io/repositories/28176?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-28176\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/28176\" alt=\"VoiceStudio ranking on Tre",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "tauri",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "updated_at": "2026-09-15T12:49:13Z"
+      },
+      "repo": {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "forks": 3646,
+        "full_name": "debpalash/VoiceStudio",
+        "language": "Python",
+        "name": "VoiceStudio",
+        "owner": "debpalash",
+        "rank": 4,
+        "stars_today": 2081,
+        "total_stars": 30257,
+        "url": "https://github.com/debpalash/VoiceStudio"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 9.52,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 65.23
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 2081 stars today; score 65.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-09T17:19:42Z",
+        "default_branch": "main",
+        "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+        "fork": false,
+        "full_name": "MG1937/ASC",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 7,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-15T10:06:06Z",
+        "readme_excerpt": "# Droid ASC: R8 Compiler Optimization as a DeCompiler Primitive https://blackhat.com/europe/arsenal/schedule/index.html#droid-asc-r8-compiler-optimization-as-a-decompiler-primitive-54834 When decompiling massive Android APKs, the standard procedure is to wait. We wait for tools to eat gigabytes of RAM, fully inflate the artifacts, and spend tens of minutes building heavy global indexes and cross references... All of this is just to guarantee fast code searches later, but here is the contradictio",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "android",
+          "decompilation",
+          "decompile",
+          "decompiler",
+          "mobile",
+          "reverse",
+          "reverse-engineering"
+        ],
+        "updated_at": "2026-09-15T12:45:21Z"
+      },
+      "repo": {
+        "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+        "forks": 183,
+        "full_name": "MG1937/ASC",
+        "language": "Python",
+        "name": "ASC",
+        "owner": "MG1937",
+        "rank": 11,
+        "stars_today": 122,
+        "total_stars": 1025,
+        "url": "https://github.com/MG1937/ASC"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.53,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 63.78
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 122 stars today; score 63.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-03-01T03:27:48Z",
+        "default_branch": "master",
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "fork": false,
+        "full_name": "NationalSecurityAgency/ghidra",
+        "homepage": null,
+        "latest_release": "Ghidra_12.1.3_build",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1963,
+        "primary_language": "Java",
+        "pushed_at": "2026-09-14T15:51:56Z",
+        "readme_excerpt": "<img src=\"Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png\" width=\"400\"> # Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, asse",
+        "topics": [
+          "disassembler",
+          "reverse-engineering",
+          "software-analysis"
+        ],
+        "updated_at": "2026-09-15T12:50:05Z"
+      },
+      "repo": {
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "forks": 8413,
+        "full_name": "NationalSecurityAgency/ghidra",
+        "language": "Java",
+        "name": "ghidra",
+        "owner": "NationalSecurityAgency",
+        "rank": 8,
+        "stars_today": 700,
+        "total_stars": 76296,
+        "url": "https://github.com/NationalSecurityAgency/ghidra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.73,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 55.28
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Java project with 700 stars today; score 55.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/danny-avila",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+        "forks": 9010,
+        "full_name": "sponsors/danny-avila",
+        "language": "TypeScript",
+        "name": "danny-avila",
+        "owner": "sponsors",
+        "rank": 9,
+        "stars_today": 286,
+        "total_stars": 43641,
+        "url": "https://github.com/sponsors/danny-avila"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.32,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 7.0,
+        "technical_quality": 3.5,
+        "total": 51.92
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 286 stars today; score 51.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/tonhowtf",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Download Udemy and Hotmart courses, YouTube videos, music and books \u2014 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+        "forks": 1081,
+        "full_name": "sponsors/tonhowtf",
+        "language": "Rust",
+        "name": "tonhowtf",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 1018,
+        "total_stars": 12479,
+        "url": "https://github.com/sponsors/tonhowtf"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.98,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 26.39
+      },
+      "tags": [
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "DevTools, Watch: Rust project with 1018 stars today; score 26.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/Homebrew",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83d\udcfa Homebrew's official macOS GUI",
+        "forks": 21,
+        "full_name": "sponsors/Homebrew",
+        "language": "Swift",
+        "name": "Homebrew",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 388,
+        "total_stars": 1062,
+        "url": "https://github.com/sponsors/Homebrew"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.21,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.72,
+        "technical_quality": 3.5,
+        "total": 24.33
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Swift project with 388 stars today; score 24.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/ever-co",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Ever\u00ae Gauzy\u2122 - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+        "forks": 1006,
+        "full_name": "sponsors/ever-co",
+        "language": "TypeScript",
+        "name": "ever-co",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 632,
+        "total_stars": 6324,
+        "url": "https://github.com/sponsors/ever-co"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.24,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 2.14,
+        "technical_quality": 3.5,
+        "total": 20.58
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: TypeScript project with 632 stars today; score 20.6/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-09-15",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is pacifio/atlas."
+}

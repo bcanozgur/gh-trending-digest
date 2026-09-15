@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-09-15
+
+Today leans toward AI workflow signal; the strongest pick is pacifio/atlas.
+
+Top picks
+1. pacifio/atlas - 74.3/100
+   https://github.com/pacifio/atlas
+   AI Workflow, DevTools: Rust project with 1091 stars today; score 74.3/100.
+2. addyosmani/agent-skills - 71.8/100
+   https://github.com/addyosmani/agent-skills
+   AI Workflow, DevTools: JavaScript project with 354 stars today; score 71.8/100.
+3. earendil-works/pi - 70.7/100
+   https://github.com/earendil-works/pi
+   AI Workflow, DevTools: TypeScript project with 437 stars today; score 70.7/100.
+4. MG1937/ASC - 63.8/100
+   https://github.com/MG1937/ASC
+   AI Workflow, Try Today: Python project with 122 stars today; score 63.8/100.
+5. NationalSecurityAgency/ghidra - 55.3/100
+   https://github.com/NationalSecurityAgency/ghidra
+   AI Workflow, DevTools: Java project with 700 stars today; score 55.3/100.
+
+Full reviewed list
+- pacifio/atlas: 74.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Rust project with 1091 stars today; score 74.3/100.
+- addyosmani/agent-skills: 71.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: JavaScript project with 354 stars today; score 71.8/100.
+- earendil-works/pi: 70.7/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 437 stars today; score 70.7/100.
+- MG1937/ASC: 63.8/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 122 stars today; score 63.8/100.
+- NationalSecurityAgency/ghidra: 55.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Java project with 700 stars today; score 55.3/100.
+- sponsors/danny-avila: 51.9/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: TypeScript project with 286 stars today; score 51.9/100.
+- sponsors/Homebrew: 24.3/100 [Watch, Hype Risk] Watch, Hype Risk: Swift project with 388 stars today; score 24.3/100.
+
+Generated for 2026-09-15 from GitHub Trending daily.
