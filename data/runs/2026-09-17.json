@@ -1,0 +1,1486 @@
+{
+  "date": "2026-09-17",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-22T07:24:40Z",
+        "default_branch": "main",
+        "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+        "fork": false,
+        "full_name": "Tencent/BrowserSkill",
+        "homepage": null,
+        "latest_release": "cli-v0.3.0",
+        "license_spdx": "MIT",
+        "open_issues": 47,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-17T09:11:26Z",
+        "readme_excerpt": "# BrowserSkill <p align=\"center\"> <img src=\"docs/assets/browserskill-readme-banner.png\" alt=\"BrowserSkill banner\" /> </p> <p align=\"center\"> <strong>Let AI agents use your browser without interrupting your work.</strong> </p> <p align=\"center\"> English \u00b7 <a href=\"README.zh-CN.md\">\u4e2d\u6587</a> </p> **BrowserSkill** connects Cursor, Claude Code, Codex, OpenClaw, CodeBuddy, WorkBuddy, Pi, Hermes Agent, DeepSeek Harness, and other AI agents to your already logged-in browser. Need the agent to touch a tab ",
+        "topics": [
+          "agent",
+          "browser-use",
+          "dsh-plugin"
+        ],
+        "updated_at": "2026-09-17T12:42:52Z"
+      },
+      "repo": {
+        "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+        "forks": 253,
+        "full_name": "Tencent/BrowserSkill",
+        "language": "TypeScript",
+        "name": "BrowserSkill",
+        "owner": "Tencent",
+        "rank": 4,
+        "stars_today": 1350,
+        "total_stars": 3641,
+        "url": "https://github.com/Tencent/BrowserSkill"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.31,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 76.31
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1350 stars today; score 76.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-06-22T09:24:21Z",
+        "default_branch": "master",
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "fork": false,
+        "full_name": "n8n-io/n8n",
+        "homepage": "https://n8n.io",
+        "latest_release": "n8n@2.39.7",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 1180,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-17T12:43:13Z",
+        "readme_excerpt": "![Banner image](https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png) # n8n \u2013 The Platform for AI Agents and Workflow Automation Fair-code platform to build and deploy AI agents and workflows. Combine a visual canvas with custom code, run it self-hosted or in the [cloud](https://app.n8n.cloud/login), and connect to 1500+ integrations. AI automation you can trust with real work, from prototype to production. ![n8n.io - Screenshot](https://raw.githu",
+        "topics": [
+          "ai",
+          "apis",
+          "automation",
+          "cli",
+          "data-flow",
+          "development",
+          "integration-framework",
+          "integrations",
+          "ipaas",
+          "low-code",
+          "low-code-platform",
+          "mcp",
+          "mcp-client",
+          "mcp-server",
+          "n8n",
+          "no-code",
+          "self-hosted",
+          "typescript",
+          "workflow",
+          "workflow-automation"
+        ],
+        "updated_at": "2026-09-17T12:43:22Z"
+      },
+      "repo": {
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "forks": 60728,
+        "full_name": "n8n-io/n8n",
+        "language": "TypeScript",
+        "name": "n8n",
+        "owner": "n8n-io",
+        "rank": 20,
+        "stars_today": 225,
+        "total_stars": 204799,
+        "url": "https://github.com/n8n-io/n8n"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.39,
+        "novelty": 2.8,
+        "practical_usefulness": 20.0,
+        "production_readiness": 5.25,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 72.8
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 225 stars today; score 72.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-08T12:54:20Z",
+        "default_branch": "main",
+        "description": "A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent.",
+        "fork": false,
+        "full_name": "TencentCloud/Octop",
+        "homepage": "https://octop.cloud",
+        "latest_release": "v1.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 229,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-17T12:17:10Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"docs/assets/readme-banner.png\" alt=\"Octop Banner\" width=\"600\" /> </p> <p align=\"center\"> <strong>A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent.</strong> </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/95504?utm_source=repository-badge&utm_medium=badge&utm_campaign=badge-repository-95504\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://trendshift.io/api/badge/repositories/95504\" alt=\"TencentCloud/Octop | Trendshift\" wid",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "local-first",
+          "long-term-memory"
+        ],
+        "updated_at": "2026-09-17T12:42:58Z"
+      },
+      "repo": {
+        "description": "A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent.",
+        "forks": 340,
+        "full_name": "TencentCloud/Octop",
+        "language": "Python",
+        "name": "Octop",
+        "owner": "TencentCloud",
+        "rank": 16,
+        "stars_today": 396,
+        "total_stars": 3223,
+        "url": "https://github.com/TencentCloud/Octop"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.36,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 68.16
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 396 stars today; score 68.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2021-12-22T06:08:52Z",
+        "default_branch": "main",
+        "description": "Secure environments for developers and their agents",
+        "fork": false,
+        "full_name": "coder/coder",
+        "homepage": "https://coder.com",
+        "latest_release": "v2.36.5",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 1040,
+        "primary_language": "Go",
+        "pushed_at": "2026-09-17T12:35:28Z",
+        "readme_excerpt": "<!-- markdownlint-disable MD041 --> <div align=\"center\"> <a href=\"https://coder.com#gh-light-mode-only\"> <img src=\"./docs/images/logo-black.png\" alt=\"Coder Logo Light\" style=\"width: 128px\"> </a> <a href=\"https://coder.com#gh-dark-mode-only\"> <img src=\"./docs/images/logo-white.png\" alt=\"Coder Logo Dark\" style=\"width: 128px\"> </a> <h1> Self-Hosted Cloud Development Environments and AI Agents </h1> <a href=\"https://coder.com#gh-light-mode-only\"> <img src=\"./docs/images/banner-black.png\" alt=\"Coder ",
+        "topics": [
+          "agents",
+          "dev-tools",
+          "development-environment",
+          "go",
+          "golang",
+          "ide",
+          "jetbrains",
+          "remote-development",
+          "terraform",
+          "vscode"
+        ],
+        "updated_at": "2026-09-17T12:42:03Z"
+      },
+      "repo": {
+        "description": "Secure environments for developers and their agents",
+        "forks": 1479,
+        "full_name": "coder/coder",
+        "language": "Go",
+        "name": "coder",
+        "owner": "coder",
+        "rank": 19,
+        "stars_today": 83,
+        "total_stars": 14704,
+        "url": "https://github.com/coder/coder"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.2,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 67.0
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 83 stars today; score 67.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-01T12:27:49Z",
+        "default_branch": "main",
+        "description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \ud83d\udc26",
+        "fork": false,
+        "full_name": "JustVugg/colibri",
+        "homepage": "https://justvugg.github.io/colibri",
+        "latest_release": "v1.11.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 137,
+        "primary_language": "C",
+        "pushed_at": "2026-09-17T12:39:04Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"assets/colibri-logo.svg\" width=\"560\" alt=\"colibr\u00ec \u2014 tiny engine, immense model\"> </p> <p align=\"center\"> <a href=\"https://justvugg.github.io/colibri\"><img src=\"https://img.shields.io/badge/website-justvugg.github.io%2Fcolibri-1f6feb\" alt=\"Website\"></a> <a href=\"https://github.com/JustVugg/colibri/releases\"><img src=\"https://img.shields.io/github/v/release/JustVugg/colibri?color=2ea043\" alt=\"Latest release\"></a> </p> <p align=\"center\"> <a href=\"https://justvugg.github",
+        "topics": [],
+        "updated_at": "2026-09-17T12:43:46Z"
+      },
+      "repo": {
+        "description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \ud83d\udc26",
+        "forks": 3724,
+        "full_name": "JustVugg/colibri",
+        "language": "C",
+        "name": "colibri",
+        "owner": "JustVugg",
+        "rank": 15,
+        "stars_today": 872,
+        "total_stars": 35438,
+        "url": "https://github.com/JustVugg/colibri"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.62,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 59.72
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: C project with 872 stars today; score 59.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-12-16T12:33:31Z",
+        "default_branch": "main",
+        "description": "eBPF-based Networking, Security, and Observability",
+        "fork": false,
+        "full_name": "cilium/cilium",
+        "homepage": "https://cilium.io",
+        "latest_release": "v1.20.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1088,
+        "primary_language": "Go",
+        "pushed_at": "2026-09-17T12:42:47Z",
+        "readme_excerpt": ".. raw:: html <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://cdn.jsdelivr.net/gh/cilium/cilium@main/Documentation/images/logo.png\" width=\"350\" alt=\"Cilium Logo\"> <img src=\"https://cdn.jsdelivr.net/gh/cilium/cilium@main/Documentation/images/logo-dark.png\" width=\"350\" alt=\"Cilium Logo\"> </picture> |cii| |go-report| |clomonitor| |artifacthub| |slack| |go-doc| |rtd| |apache| |bsd| |gpl| |fossa| |gateway-api| |codespaces| Cilium is a networking, observability, and security so",
+        "topics": [
+          "bpf",
+          "cncf",
+          "cni",
+          "containers",
+          "ebpf",
+          "k8s",
+          "kernel",
+          "kubernetes",
+          "kubernetes-networking",
+          "loadbalancing",
+          "monitoring",
+          "networking",
+          "observability",
+          "security",
+          "troubleshooting",
+          "xdp"
+        ],
+        "updated_at": "2026-09-17T12:41:07Z"
+      },
+      "repo": {
+        "description": "eBPF-based Networking, Security, and Observability",
+        "forks": 4064,
+        "full_name": "cilium/cilium",
+        "language": "Go",
+        "name": "cilium",
+        "owner": "cilium",
+        "rank": 11,
+        "stars_today": 20,
+        "total_stars": 25270,
+        "url": "https://github.com/cilium/cilium"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.21,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.01
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 20 stars today; score 59.0/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-18T02:16:36Z",
+        "default_branch": "main",
+        "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "fork": false,
+        "full_name": "alibaba/open-code-review",
+        "homepage": "https://open-codereview.ai",
+        "latest_release": "v1.12.4",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 180,
+        "primary_language": "Go",
+        "pushed_at": "2026-09-17T12:30:45Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://open-codereview.ai\"> <img src=\"imgs/logo-core.svg\" alt=\"OpenCodeReview logo\" width=\"180\" /> </a> <h1>OpenCodeReview</h1> </div> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/41087?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-41087\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://trendshift.io/api/badge/repositories/41087\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; hei",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "code-review",
+          "code-review-assistant",
+          "harness",
+          "repository-level-context"
+        ],
+        "updated_at": "2026-09-17T12:42:46Z"
+      },
+      "repo": {
+        "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "forks": 2397,
+        "full_name": "alibaba/open-code-review",
+        "language": "Go",
+        "name": "open-code-review",
+        "owner": "alibaba",
+        "rank": 1,
+        "stars_today": 3290,
+        "total_stars": 33659,
+        "url": "https://github.com/alibaba/open-code-review"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.26,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 77.11
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 3290 stars today; score 77.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-22T07:24:40Z",
+        "default_branch": "main",
+        "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+        "fork": false,
+        "full_name": "Tencent/BrowserSkill",
+        "homepage": null,
+        "latest_release": "cli-v0.3.0",
+        "license_spdx": "MIT",
+        "open_issues": 47,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-17T09:11:26Z",
+        "readme_excerpt": "# BrowserSkill <p align=\"center\"> <img src=\"docs/assets/browserskill-readme-banner.png\" alt=\"BrowserSkill banner\" /> </p> <p align=\"center\"> <strong>Let AI agents use your browser without interrupting your work.</strong> </p> <p align=\"center\"> English \u00b7 <a href=\"README.zh-CN.md\">\u4e2d\u6587</a> </p> **BrowserSkill** connects Cursor, Claude Code, Codex, OpenClaw, CodeBuddy, WorkBuddy, Pi, Hermes Agent, DeepSeek Harness, and other AI agents to your already logged-in browser. Need the agent to touch a tab ",
+        "topics": [
+          "agent",
+          "browser-use",
+          "dsh-plugin"
+        ],
+        "updated_at": "2026-09-17T12:42:52Z"
+      },
+      "repo": {
+        "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+        "forks": 253,
+        "full_name": "Tencent/BrowserSkill",
+        "language": "TypeScript",
+        "name": "BrowserSkill",
+        "owner": "Tencent",
+        "rank": 4,
+        "stars_today": 1350,
+        "total_stars": 3641,
+        "url": "https://github.com/Tencent/BrowserSkill"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.31,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 76.31
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1350 stars today; score 76.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-15T20:20:26Z",
+        "default_branch": "main",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "fork": false,
+        "full_name": "addyosmani/agent-skills",
+        "homepage": "https://skills.addy.ie",
+        "latest_release": "0.6.9",
+        "license_spdx": "MIT",
+        "open_issues": 127,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-12T03:14:59Z",
+        "readme_excerpt": "# Agent Skills **Production-grade engineering skills for AI coding agents.** Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. <a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" wid",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-09-17T12:43:25Z"
+      },
+      "repo": {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "forks": 10130,
+        "full_name": "addyosmani/agent-skills",
+        "language": "JavaScript",
+        "name": "agent-skills",
+        "owner": "addyosmani",
+        "rank": 3,
+        "stars_today": 680,
+        "total_stars": 95810,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.9,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.6
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 680 stars today; score 73.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-06-22T09:24:21Z",
+        "default_branch": "master",
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "fork": false,
+        "full_name": "n8n-io/n8n",
+        "homepage": "https://n8n.io",
+        "latest_release": "n8n@2.39.7",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 1180,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-17T12:43:13Z",
+        "readme_excerpt": "![Banner image](https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png) # n8n \u2013 The Platform for AI Agents and Workflow Automation Fair-code platform to build and deploy AI agents and workflows. Combine a visual canvas with custom code, run it self-hosted or in the [cloud](https://app.n8n.cloud/login), and connect to 1500+ integrations. AI automation you can trust with real work, from prototype to production. ![n8n.io - Screenshot](https://raw.githu",
+        "topics": [
+          "ai",
+          "apis",
+          "automation",
+          "cli",
+          "data-flow",
+          "development",
+          "integration-framework",
+          "integrations",
+          "ipaas",
+          "low-code",
+          "low-code-platform",
+          "mcp",
+          "mcp-client",
+          "mcp-server",
+          "n8n",
+          "no-code",
+          "self-hosted",
+          "typescript",
+          "workflow",
+          "workflow-automation"
+        ],
+        "updated_at": "2026-09-17T12:43:22Z"
+      },
+      "repo": {
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "forks": 60728,
+        "full_name": "n8n-io/n8n",
+        "language": "TypeScript",
+        "name": "n8n",
+        "owner": "n8n-io",
+        "rank": 20,
+        "stars_today": 225,
+        "total_stars": 204799,
+        "url": "https://github.com/n8n-io/n8n"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.39,
+        "novelty": 2.8,
+        "practical_usefulness": 20.0,
+        "production_readiness": 5.25,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 72.8
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 225 stars today; score 72.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-18T14:08:44Z",
+        "default_branch": "main",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "fork": false,
+        "full_name": "cloudflare/security-audit-skill",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 17,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-14T19:29:02Z",
+        "readme_excerpt": "# security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting. This is the skill that seeded Cloudflare's vulnerability discovery harness, described in [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness). The harness grew into a multi-stage, f",
+        "topics": [],
+        "updated_at": "2026-09-17T12:42:51Z"
+      },
+      "repo": {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "forks": 496,
+        "full_name": "cloudflare/security-audit-skill",
+        "language": "JavaScript",
+        "name": "security-audit-skill",
+        "owner": "cloudflare",
+        "rank": 2,
+        "stars_today": 3606,
+        "total_stars": 9227,
+        "url": "https://github.com/cloudflare/security-audit-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.86,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 72.41
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 3606 stars today; score 72.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-07T01:51:39Z",
+        "default_branch": "main",
+        "description": "Turn your coding agents into research agents",
+        "fork": false,
+        "full_name": "alphaXiv/OpenResearch",
+        "homepage": "https://openresearch.sh/",
+        "latest_release": "v0.2.4",
+        "license_spdx": "MIT",
+        "open_issues": 37,
+        "primary_language": "Rust",
+        "pushed_at": "2026-09-17T01:46:04Z",
+        "readme_excerpt": "<div align=\"center\"> <h1><img src=\".github/readme-assets/openresearch.svg\" alt=\"\" width=\"36\" /> OpenResearch</h1> **The local-first workspace for research agents and autoresearch.** <p>Turn <img src=\".github/readme-assets/claude.svg\" alt=\"\" width=\"16\" height=\"16\" align=\"texttop\" /> Claude Code, <img src=\".github/readme-assets/codex.svg\" alt=\"\" width=\"16\" height=\"16\" align=\"texttop\" /> Codex, <img src=\".github/readme-assets/opencode.svg\" alt=\"\" width=\"16\" height=\"16\" align=\"texttop\" /> OpenCode, ",
+        "topics": [],
+        "updated_at": "2026-09-17T12:42:40Z"
+      },
+      "repo": {
+        "description": "Turn your coding agents into research agents",
+        "forks": 290,
+        "full_name": "alphaXiv/OpenResearch",
+        "language": "Rust",
+        "name": "OpenResearch",
+        "owner": "alphaXiv",
+        "rank": 5,
+        "stars_today": 940,
+        "total_stars": 4856,
+        "url": "https://github.com/alphaXiv/OpenResearch"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.21,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 70.31
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 940 stars today; score 70.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-08T12:54:20Z",
+        "default_branch": "main",
+        "description": "A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent.",
+        "fork": false,
+        "full_name": "TencentCloud/Octop",
+        "homepage": "https://octop.cloud",
+        "latest_release": "v1.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 229,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-17T12:17:10Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"docs/assets/readme-banner.png\" alt=\"Octop Banner\" width=\"600\" /> </p> <p align=\"center\"> <strong>A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent.</strong> </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/95504?utm_source=repository-badge&utm_medium=badge&utm_campaign=badge-repository-95504\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://trendshift.io/api/badge/repositories/95504\" alt=\"TencentCloud/Octop | Trendshift\" wid",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "local-first",
+          "long-term-memory"
+        ],
+        "updated_at": "2026-09-17T12:42:58Z"
+      },
+      "repo": {
+        "description": "A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent.",
+        "forks": 340,
+        "full_name": "TencentCloud/Octop",
+        "language": "Python",
+        "name": "Octop",
+        "owner": "TencentCloud",
+        "rank": 16,
+        "stars_today": 396,
+        "total_stars": 3223,
+        "url": "https://github.com/TencentCloud/Octop"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.36,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 68.16
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 396 stars today; score 68.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-02-22T17:41:21Z",
+        "default_branch": "main",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "fork": false,
+        "full_name": "anthropics/claude-code",
+        "homepage": "https://code.claude.com/docs/en/overview",
+        "latest_release": "v2.1.274",
+        "license_spdx": null,
+        "open_issues": 12451,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-17T00:12:02Z",
+        "readme_excerpt": "# Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your t",
+        "topics": [],
+        "updated_at": "2026-09-17T12:36:30Z"
+      },
+      "repo": {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "forks": 23519,
+        "full_name": "anthropics/claude-code",
+        "language": "TypeScript",
+        "name": "claude-code",
+        "owner": "anthropics",
+        "rank": 6,
+        "stars_today": 538,
+        "total_stars": 145775,
+        "url": "https://github.com/anthropics/claude-code"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.13,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 67.53
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 538 stars today; score 67.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2021-12-22T06:08:52Z",
+        "default_branch": "main",
+        "description": "Secure environments for developers and their agents",
+        "fork": false,
+        "full_name": "coder/coder",
+        "homepage": "https://coder.com",
+        "latest_release": "v2.36.5",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 1040,
+        "primary_language": "Go",
+        "pushed_at": "2026-09-17T12:35:28Z",
+        "readme_excerpt": "<!-- markdownlint-disable MD041 --> <div align=\"center\"> <a href=\"https://coder.com#gh-light-mode-only\"> <img src=\"./docs/images/logo-black.png\" alt=\"Coder Logo Light\" style=\"width: 128px\"> </a> <a href=\"https://coder.com#gh-dark-mode-only\"> <img src=\"./docs/images/logo-white.png\" alt=\"Coder Logo Dark\" style=\"width: 128px\"> </a> <h1> Self-Hosted Cloud Development Environments and AI Agents </h1> <a href=\"https://coder.com#gh-light-mode-only\"> <img src=\"./docs/images/banner-black.png\" alt=\"Coder ",
+        "topics": [
+          "agents",
+          "dev-tools",
+          "development-environment",
+          "go",
+          "golang",
+          "ide",
+          "jetbrains",
+          "remote-development",
+          "terraform",
+          "vscode"
+        ],
+        "updated_at": "2026-09-17T12:42:03Z"
+      },
+      "repo": {
+        "description": "Secure environments for developers and their agents",
+        "forks": 1479,
+        "full_name": "coder/coder",
+        "language": "Go",
+        "name": "coder",
+        "owner": "coder",
+        "rank": 19,
+        "stars_today": 83,
+        "total_stars": 14704,
+        "url": "https://github.com/coder/coder"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.2,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 67.0
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 83 stars today; score 67.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-07-22T08:01:23Z",
+        "default_branch": "main",
+        "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+        "fork": false,
+        "full_name": "Tencent/WeKnora",
+        "homepage": "https://weknora.weixin.qq.com",
+        "latest_release": "v0.8.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 666,
+        "primary_language": "Go",
+        "pushed_at": "2026-09-17T11:57:22Z",
+        "readme_excerpt": "<p align=\"center\"> <picture> <img src=\"./docs/images/logo.png\" alt=\"WeKnora Logo\" height=\"120\"/> </picture> </p> <p align=\"center\"> <picture> <a href=\"https://trendshift.io/repositories/15289\" target=\"_blank\"> <img src=\"https://trendshift.io/api/badge/repositories/15289\" alt=\"Tencent/WeKnora | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/> </a> </picture> </p> <p align=\"center\"> <a href=\"https://weknora.weixin.qq.com\" target=\"_blank\"> <img alt=\"Official Website\" src=\"h",
+        "topics": [
+          "agent",
+          "agentic",
+          "ai",
+          "chatbot",
+          "dsh-plugin",
+          "embeddings",
+          "evaluation",
+          "generative-ai",
+          "golang",
+          "knowledge-base",
+          "llm",
+          "multi-tenant",
+          "ollama",
+          "openai",
+          "question-answering",
+          "rag",
+          "reranking",
+          "semantic-search",
+          "vector-search",
+          "wiki"
+        ],
+        "updated_at": "2026-09-17T12:40:12Z"
+      },
+      "repo": {
+        "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+        "forks": 3533,
+        "full_name": "Tencent/WeKnora",
+        "language": "Go",
+        "name": "WeKnora",
+        "owner": "Tencent",
+        "rank": 9,
+        "stars_today": 1123,
+        "total_stars": 25971,
+        "url": "https://github.com/Tencent/WeKnora"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.06,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 66.36
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 1123 stars today; score 66.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-25T12:27:03Z",
+        "default_branch": "main",
+        "description": "The open-source AI voice studio. Clone, dictate, create.",
+        "fork": false,
+        "full_name": "jamiepine/voicebox",
+        "homepage": "https://voicebox.sh",
+        "latest_release": "v0.5.0",
+        "license_spdx": "MIT",
+        "open_issues": 699,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-08-09T00:03:42Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\".github/assets/icon-dark.webp\" alt=\"Voicebox\" width=\"120\" height=\"120\" /> </p> <h1 align=\"center\">Voicebox</h1> <p align=\"center\"> <strong>The open-source AI voice studio.</strong><br/> Clone any voice. Generate speech. Dictate into any app. Talk to agents in voices you own.<br/> The full voice I/O stack, running locally on your machine. </p> <p align=\"center\"> <a href=\"https://github.com/jamiepine/voicebox/releases\"> <img src=\"https://img.shields.io/github/downloads",
+        "topics": [
+          "ai",
+          "cuda",
+          "mlx",
+          "qwen3-tts",
+          "qwen3-tts-ui",
+          "voice-ai",
+          "voice-clone",
+          "whisper"
+        ],
+        "updated_at": "2026-09-17T12:40:14Z"
+      },
+      "repo": {
+        "description": "The open-source AI voice studio. Clone, dictate, create.",
+        "forks": 6808,
+        "full_name": "jamiepine/voicebox",
+        "language": "TypeScript",
+        "name": "voicebox",
+        "owner": "jamiepine",
+        "rank": 12,
+        "stars_today": 665,
+        "total_stars": 54737,
+        "url": "https://github.com/jamiepine/voicebox"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.57,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 64.17
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 665 stars today; score 64.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-07-06T07:28:10Z",
+        "default_branch": "main",
+        "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+        "fork": false,
+        "full_name": "cline/cline",
+        "homepage": "https://cline.bot",
+        "latest_release": "v4.1.19",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1339,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-17T09:56:08Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"assets/icons/icon.png\" width=\"80\" alt=\"Cline\" /> </p> <h1 align=\"center\">Cline</h1> <p align=\"center\"> The open source coding agent in your IDE, terminal, & desktop. </p> <div align=\"center\"> <div align=\"center\"> <table> <tbody> <td align=\"center\"> <a href=\"https://docs.cline.bot\" target=\"_blank\"><strong>Docs</strong></a> </td> <td align=\"center\"> <a href=\"https://discord.gg/cline\" target=\"_blank\"><strong>Discord</strong></a> </td> <td align=\"center\"> <a href=\"https:",
+        "topics": [],
+        "updated_at": "2026-09-17T12:44:00Z"
+      },
+      "repo": {
+        "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+        "forks": 7404,
+        "full_name": "cline/cline",
+        "language": "TypeScript",
+        "name": "cline",
+        "owner": "cline",
+        "rank": 18,
+        "stars_today": 381,
+        "total_stars": 68545,
+        "url": "https://github.com/cline/cline"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.04,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 62.61
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 381 stars today; score 62.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-01T12:27:49Z",
+        "default_branch": "main",
+        "description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \ud83d\udc26",
+        "fork": false,
+        "full_name": "JustVugg/colibri",
+        "homepage": "https://justvugg.github.io/colibri",
+        "latest_release": "v1.11.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 137,
+        "primary_language": "C",
+        "pushed_at": "2026-09-17T12:39:04Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"assets/colibri-logo.svg\" width=\"560\" alt=\"colibr\u00ec \u2014 tiny engine, immense model\"> </p> <p align=\"center\"> <a href=\"https://justvugg.github.io/colibri\"><img src=\"https://img.shields.io/badge/website-justvugg.github.io%2Fcolibri-1f6feb\" alt=\"Website\"></a> <a href=\"https://github.com/JustVugg/colibri/releases\"><img src=\"https://img.shields.io/github/v/release/JustVugg/colibri?color=2ea043\" alt=\"Latest release\"></a> </p> <p align=\"center\"> <a href=\"https://justvugg.github",
+        "topics": [],
+        "updated_at": "2026-09-17T12:43:46Z"
+      },
+      "repo": {
+        "description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \ud83d\udc26",
+        "forks": 3724,
+        "full_name": "JustVugg/colibri",
+        "language": "C",
+        "name": "colibri",
+        "owner": "JustVugg",
+        "rank": 15,
+        "stars_today": 872,
+        "total_stars": 35438,
+        "url": "https://github.com/JustVugg/colibri"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.62,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 59.72
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: C project with 872 stars today; score 59.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-12-16T12:33:31Z",
+        "default_branch": "main",
+        "description": "eBPF-based Networking, Security, and Observability",
+        "fork": false,
+        "full_name": "cilium/cilium",
+        "homepage": "https://cilium.io",
+        "latest_release": "v1.20.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1088,
+        "primary_language": "Go",
+        "pushed_at": "2026-09-17T12:42:47Z",
+        "readme_excerpt": ".. raw:: html <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://cdn.jsdelivr.net/gh/cilium/cilium@main/Documentation/images/logo.png\" width=\"350\" alt=\"Cilium Logo\"> <img src=\"https://cdn.jsdelivr.net/gh/cilium/cilium@main/Documentation/images/logo-dark.png\" width=\"350\" alt=\"Cilium Logo\"> </picture> |cii| |go-report| |clomonitor| |artifacthub| |slack| |go-doc| |rtd| |apache| |bsd| |gpl| |fossa| |gateway-api| |codespaces| Cilium is a networking, observability, and security so",
+        "topics": [
+          "bpf",
+          "cncf",
+          "cni",
+          "containers",
+          "ebpf",
+          "k8s",
+          "kernel",
+          "kubernetes",
+          "kubernetes-networking",
+          "loadbalancing",
+          "monitoring",
+          "networking",
+          "observability",
+          "security",
+          "troubleshooting",
+          "xdp"
+        ],
+        "updated_at": "2026-09-17T12:41:07Z"
+      },
+      "repo": {
+        "description": "eBPF-based Networking, Security, and Observability",
+        "forks": 4064,
+        "full_name": "cilium/cilium",
+        "language": "Go",
+        "name": "cilium",
+        "owner": "cilium",
+        "rank": 11,
+        "stars_today": 20,
+        "total_stars": 25270,
+        "url": "https://github.com/cilium/cilium"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.21,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.01
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 20 stars today; score 59.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-03-01T03:27:48Z",
+        "default_branch": "master",
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "fork": false,
+        "full_name": "NationalSecurityAgency/ghidra",
+        "homepage": null,
+        "latest_release": "Ghidra_12.1.3_build",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1962,
+        "primary_language": "Java",
+        "pushed_at": "2026-09-15T16:02:22Z",
+        "readme_excerpt": "<img src=\"Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png\" width=\"400\"> # Ghidra Software Reverse Engineering Framework Ghidra is a software reverse engineering (SRE) framework created and maintained by the [National Security Agency][nsa] Research Directorate. This framework includes a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, asse",
+        "topics": [
+          "disassembler",
+          "reverse-engineering",
+          "software-analysis"
+        ],
+        "updated_at": "2026-09-17T12:43:47Z"
+      },
+      "repo": {
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "forks": 8655,
+        "full_name": "NationalSecurityAgency/ghidra",
+        "language": "Java",
+        "name": "ghidra",
+        "owner": "NationalSecurityAgency",
+        "rank": 7,
+        "stars_today": 912,
+        "total_stars": 78203,
+        "url": "https://github.com/NationalSecurityAgency/ghidra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.86,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 55.41
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Java project with 912 stars today; score 55.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-11-28T14:08:44Z",
+        "default_branch": "develop",
+        "description": "We write your reusable computer vision tools. \ud83d\udc9c",
+        "fork": false,
+        "full_name": "roboflow/supervision",
+        "homepage": "https://supervision.roboflow.com",
+        "latest_release": "0.30.3",
+        "license_spdx": "MIT",
+        "open_issues": 68,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-17T09:42:05Z",
+        "readme_excerpt": "<div align=\"center\"> <p> <a align=\"center\" href=\"https://supervision.roboflow.com\" target=\"_blank\"> <img width=\"100%\" src=\"https://media.roboflow.com/open-source/supervision/rf-supervision-banner.png?updatedAt=1678995927529\" > </a> </p> <br> [notebooks](https://github.com/roboflow/notebooks) | [inference](https://github.com/roboflow/inference) | [autodistill](https://github.com/autodistill/autodistill) | [maestro](https://github.com/roboflow/multimodal-maestro) <br> [![version](https://badge.fur",
+        "topics": [
+          "classification",
+          "coco",
+          "computer-vision",
+          "deep-learning",
+          "hacktoberfest",
+          "image-processing",
+          "instance-segmentation",
+          "low-code",
+          "machine-learning",
+          "metrics",
+          "object-detection",
+          "oriented-bounding-box",
+          "pascal-voc",
+          "python",
+          "pytorch",
+          "tensorflow",
+          "tracking",
+          "video-processing",
+          "yolo"
+        ],
+        "updated_at": "2026-09-17T12:42:48Z"
+      },
+      "repo": {
+        "description": "We write your reusable computer vision tools. \ud83d\udc9c",
+        "forks": 4823,
+        "full_name": "roboflow/supervision",
+        "language": "Python",
+        "name": "supervision",
+        "owner": "roboflow",
+        "rank": 14,
+        "stars_today": 327,
+        "total_stars": 50743,
+        "url": "https://github.com/roboflow/supervision"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.49,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 54.09
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 327 stars today; score 54.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-23T20:11:54Z",
+        "default_branch": "main",
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "fork": false,
+        "full_name": "anthropics/knowledge-work-plugins",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 94,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-17T07:35:53Z",
+        "readme_excerpt": "# Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for [Claude Cowork](https://claude.com/product/cowork), also compatible with [Claude Code](https://claude.com/product/claude-code). ## Why Plugins Cowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose ",
+        "topics": [],
+        "updated_at": "2026-09-17T12:40:16Z"
+      },
+      "repo": {
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "forks": 2929,
+        "full_name": "anthropics/knowledge-work-plugins",
+        "language": "Python",
+        "name": "knowledge-work-plugins",
+        "owner": "anthropics",
+        "rank": 8,
+        "stars_today": 287,
+        "total_stars": 24433,
+        "url": "https://github.com/anthropics/knowledge-work-plugins"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.26,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 50.31
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 287 stars today; score 50.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-29T15:18:26Z",
+        "default_branch": "main",
+        "description": "Tinycast \u2014 a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+        "fork": false,
+        "full_name": "abue-ammar/tinycast",
+        "homepage": "https://abue-ammar.github.io/tinycast/",
+        "latest_release": "v0.10.23",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 49,
+        "primary_language": "Swift",
+        "pushed_at": "2026-09-17T05:19:23Z",
+        "readme_excerpt": "# Tinycast **A tiny, fully native macOS launcher. One hotkey, everything you reach for all day, under 100 MB of RAM.** <p align=\"center\"> <a href=\"https://github.com/abue-ammar/tinycast/releases/latest\"> <img alt=\"Latest release\" src=\"https://img.shields.io/github/v/release/abue-ammar/tinycast?sort=semver&style=flat&label=release&color=1F6FEB\"></a> <img alt=\"Swift 6.0\" src=\"https://img.shields.io/badge/Swift-6.0-F05138?style=flat&logo=swift&logoColor=white\"> <img alt=\"macOS 26 or later\" src=\"htt",
+        "topics": [],
+        "updated_at": "2026-09-17T12:40:32Z"
+      },
+      "repo": {
+        "description": "Tinycast \u2014 a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+        "forks": 275,
+        "full_name": "abue-ammar/tinycast",
+        "language": "Swift",
+        "name": "tinycast",
+        "owner": "abue-ammar",
+        "rank": 10,
+        "stars_today": 738,
+        "total_stars": 5939,
+        "url": "https://github.com/abue-ammar/tinycast"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.02,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 43.33
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Swift project with 738 stars today; score 43.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 39039,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 1173,
+        "total_stars": 260847,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.6,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 37.55
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 1173 stars today; score 37.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/ever-co",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Ever\u00ae Gauzy\u2122 - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+        "forks": 1108,
+        "full_name": "sponsors/ever-co",
+        "language": "TypeScript",
+        "name": "ever-co",
+        "owner": "sponsors",
+        "rank": 17,
+        "stars_today": 469,
+        "total_stars": 7540,
+        "url": "https://github.com/sponsors/ever-co"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.39,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 0.98,
+        "technical_quality": 3.5,
+        "total": 16.57
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: TypeScript project with 469 stars today; score 16.6/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-09-17",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is Tencent/BrowserSkill."
+}

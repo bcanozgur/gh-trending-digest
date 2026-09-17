@@ -1,0 +1,30 @@
+GitHub Trending: AI workflow signal - 2026-09-17
+
+Today leans toward AI workflow signal; the strongest pick is Tencent/BrowserSkill.
+
+Top picks
+1. Tencent/BrowserSkill - 76.3/100
+   https://github.com/Tencent/BrowserSkill
+   AI Workflow, DevTools: TypeScript project with 1350 stars today; score 76.3/100.
+2. n8n-io/n8n - 72.8/100
+   https://github.com/n8n-io/n8n
+   AI Workflow, DevTools: TypeScript project with 225 stars today; score 72.8/100.
+3. TencentCloud/Octop - 68.2/100
+   https://github.com/TencentCloud/Octop
+   AI Workflow, DevTools: Python project with 396 stars today; score 68.2/100.
+4. coder/coder - 67.0/100
+   https://github.com/coder/coder
+   AI Workflow, DevTools: Go project with 83 stars today; score 67.0/100.
+5. JustVugg/colibri - 59.7/100
+   https://github.com/JustVugg/colibri
+   AI Workflow, Try Today: C project with 872 stars today; score 59.7/100.
+
+Full reviewed list
+- Tencent/BrowserSkill: 76.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 1350 stars today; score 76.3/100.
+- n8n-io/n8n: 72.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 225 stars today; score 72.8/100.
+- TencentCloud/Octop: 68.2/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 396 stars today; score 68.2/100.
+- coder/coder: 67.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Go project with 83 stars today; score 67.0/100.
+- JustVugg/colibri: 59.7/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: C project with 872 stars today; score 59.7/100.
+- cilium/cilium: 59.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Go project with 20 stars today; score 59.0/100.
+
+Generated for 2026-09-17 from GitHub Trending daily.
