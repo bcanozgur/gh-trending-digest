@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-09-18
+
+Today leans toward AI workflow signal; the strongest pick is rustfs/rustfs.
+
+Top picks
+1. rustfs/rustfs - 68.8/100
+   https://github.com/rustfs/rustfs
+   AI Workflow, DevTools: Rust project with 559 stars today; score 68.8/100.
+2. supermemoryai/supermemory - 68.3/100
+   https://github.com/supermemoryai/supermemory
+   AI Workflow, DevTools: TypeScript project with 140 stars today; score 68.3/100.
+3. tradesdontlie/tradingview-mcp - 61.7/100
+   https://github.com/tradesdontlie/tradingview-mcp
+   AI Workflow, DevTools: JavaScript project with 64 stars today; score 61.7/100.
+4. Fission-AI/OpenSpec - 60.2/100
+   https://github.com/Fission-AI/OpenSpec
+   AI Workflow, DevTools: TypeScript project with 298 stars today; score 60.2/100.
+5. ahmedkhaleel2004/gitdiagram - 55.1/100
+   https://github.com/ahmedkhaleel2004/gitdiagram
+   AI Workflow, DevTools: TypeScript project with 145 stars today; score 55.1/100.
+
+Full reviewed list
+- rustfs/rustfs: 68.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Rust project with 559 stars today; score 68.8/100.
+- supermemoryai/supermemory: 68.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 140 stars today; score 68.3/100.
+- tradesdontlie/tradingview-mcp: 61.7/100 [AI Workflow, DevTools, Deep Dive] AI Workflow, DevTools: JavaScript project with 64 stars today; score 61.7/100.
+- Fission-AI/OpenSpec: 60.2/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 298 stars today; score 60.2/100.
+- ahmedkhaleel2004/gitdiagram: 55.1/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 145 stars today; score 55.1/100.
+- sponsors/supabase: 27.3/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: TypeScript project with 586 stars today; score 27.3/100.
+- sponsors/asciimoo: 18.3/100 [Watch, Hype Risk] Watch, Hype Risk: Go project with 842 stars today; score 18.3/100.
+
+Generated for 2026-09-18 from GitHub Trending daily.

@@ -1,0 +1,1319 @@
+{
+  "date": "2026-09-18",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-11-23T13:45:10Z",
+        "default_branch": "main",
+        "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+        "fork": false,
+        "full_name": "rustfs/rustfs",
+        "homepage": "https://rustfs.com/download/",
+        "latest_release": "1.0.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 25,
+        "primary_language": "Rust",
+        "pushed_at": "2026-09-18T12:15:02Z",
+        "readme_excerpt": "[![RustFS](https://repository-images.githubusercontent.com/722597620/0fa936a2-8164-4f53-867f-def4beb64b21)](https://rustfs.com) <p align=\"center\">RustFS is a high-performance, distributed object storage system built in Rust.</p> <p align=\"center\"> <a href=\"https://github.com/rustfs/rustfs/actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://github.com/rustfs/rustfs/actions/workflows/ci.yml/badge.svg\" /></a> <a href=\"https://github.com/rustfs/rustfs/actions/workflows/docker.yml\"><img alt=\"Build a",
+        "topics": [
+          "ai-native",
+          "ai-storage",
+          "amazon-s3",
+          "bigdata",
+          "cloud-native",
+          "filesystem",
+          "minio",
+          "multi-cloud",
+          "object-storage",
+          "objectstorage",
+          "rust",
+          "s3"
+        ],
+        "updated_at": "2026-09-18T12:19:48Z"
+      },
+      "repo": {
+        "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+        "forks": 1475,
+        "full_name": "rustfs/rustfs",
+        "language": "Rust",
+        "name": "rustfs",
+        "owner": "rustfs",
+        "rank": 13,
+        "stars_today": 559,
+        "total_stars": 32940,
+        "url": "https://github.com/rustfs/rustfs"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.43,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 68.84
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 559 stars today; score 68.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-02-27T20:10:04Z",
+        "default_branch": "main",
+        "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+        "fork": false,
+        "full_name": "supermemoryai/supermemory",
+        "homepage": "https://supermemory.ai/docs",
+        "latest_release": "server-v0.0.8",
+        "license_spdx": "MIT",
+        "open_issues": 107,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-18T06:09:26Z",
+        "readme_excerpt": "<p align=\"center\"> <picture> <source srcset=\"apps/web/public/logo-fullmark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"apps/web/public/logo-light-fullmark.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"apps/web/public/logo-fullmark.svg\" alt=\"Supermemory\" width=\"400\" /> </picture> </p> <p align=\"center\"> <strong>State-of-the-art memory and context engine for AI.</strong> </p> <p align=\"center\"> <a href=\"https://supermemory.ai/docs\">Docs</a> \u00b7 <a href=\"https://supermemory.ai/",
+        "topics": [
+          "agent-memory",
+          "ai-memory",
+          "cloudflare-kv",
+          "cloudflare-pages",
+          "cloudflare-workers",
+          "drizzle-orm",
+          "memory",
+          "postgres",
+          "remix",
+          "tailwindcss",
+          "typescript",
+          "vite"
+        ],
+        "updated_at": "2026-09-18T12:17:12Z"
+      },
+      "repo": {
+        "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+        "forks": 2629,
+        "full_name": "supermemoryai/supermemory",
+        "language": "TypeScript",
+        "name": "supermemory",
+        "owner": "supermemoryai",
+        "rank": 11,
+        "stars_today": 140,
+        "total_stars": 30033,
+        "url": "https://github.com/supermemoryai/supermemory"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.55,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 68.35
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 140 stars today; score 68.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-29T14:39:25Z",
+        "default_branch": "main",
+        "description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
+        "fork": false,
+        "full_name": "tradesdontlie/tradingview-mcp",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "NOASSERTION",
+        "open_issues": 257,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-07-28T17:28:37Z",
+        "readme_excerpt": "# TradingView MCP Bridge [![MCP Toplist](https://mcptoplist.com/badge/glama%2Ftradesdontlie%2Ftradingview-mcp.svg)](https://mcptoplist.com/server/glama%2Ftradesdontlie%2Ftradingview-mcp) Personal AI assistant for your TradingView Desktop charts. Connects Claude Code to your locally running TradingView app via Chrome DevTools Protocol for AI-assisted chart analysis, Pine Script development, and workflow automation. > [!WARNING] > **This tool is not affiliated with, endorsed by, or associated with",
+        "topics": [],
+        "updated_at": "2026-09-18T12:16:25Z"
+      },
+      "repo": {
+        "description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
+        "forks": 2709,
+        "full_name": "tradesdontlie/tradingview-mcp",
+        "language": "JavaScript",
+        "name": "tradingview-mcp",
+        "owner": "tradesdontlie",
+        "rank": 12,
+        "stars_today": 64,
+        "total_stars": 6347,
+        "url": "https://github.com/tradesdontlie/tradingview-mcp"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.19,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 2.8,
+        "strategic_relevance": 5.53,
+        "technical_quality": 9.1,
+        "total": 61.74
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 64 stars today; score 61.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-08-05T10:37:45Z",
+        "default_branch": "main",
+        "description": "Spec-driven development (SDD) for AI coding assistants.",
+        "fork": false,
+        "full_name": "Fission-AI/OpenSpec",
+        "homepage": "https://openspec.dev/",
+        "latest_release": "v1.13.1",
+        "license_spdx": "MIT",
+        "open_issues": 231,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-17T16:05:08Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://github.com/Fission-AI/OpenSpec\"> <picture> <source srcset=\"assets/openspec_bg.png\"> <img src=\"assets/openspec_bg.png\" alt=\"OpenSpec logo\"> </picture> </a> </p> <p align=\"center\"> <a href=\"https://github.com/Fission-AI/OpenSpec/actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://github.com/Fission-AI/OpenSpec/actions/workflows/ci.yml/badge.svg\" /></a> <a href=\"https://www.npmjs.com/package/@fission-ai/openspec\"><img alt=\"npm version\" src=\"https://img.shields.i",
+        "topics": [
+          "ai",
+          "context-engineering",
+          "engineering",
+          "planning",
+          "prd",
+          "sdd",
+          "sdlc",
+          "spec",
+          "spec-driven-development",
+          "specification"
+        ],
+        "updated_at": "2026-09-18T12:16:48Z"
+      },
+      "repo": {
+        "description": "Spec-driven development (SDD) for AI coding assistants.",
+        "forks": 4738,
+        "full_name": "Fission-AI/OpenSpec",
+        "language": "TypeScript",
+        "name": "OpenSpec",
+        "owner": "Fission-AI",
+        "rank": 8,
+        "stars_today": 298,
+        "total_stars": 69069,
+        "url": "https://github.com/Fission-AI/OpenSpec"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.42,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 60.22
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 298 stars today; score 60.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-12-15T10:32:03Z",
+        "default_branch": "main",
+        "description": "Free, simple, fast interactive diagrams for any GitHub repository",
+        "fork": false,
+        "full_name": "ahmedkhaleel2004/gitdiagram",
+        "homepage": "https://gitdiagram.com",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 40,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-18T11:17:41Z",
+        "readme_excerpt": "[![GitDiagram front page](./docs/readme_img.png)](https://gitdiagram.com/) ![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061.svg?logo=ko-fi&logoColor=white)](https://ko-fi.com/ahmedkhaleel2004) # GitDiagram Turn any public or private GitHub repository into an interactive architecture diagram in seconds. You can also replace `hub` with `diagram` in a GitHub URL to open its diagram. > **Sponsor slot:** Reach developers while they are",
+        "topics": [
+          "ai",
+          "code",
+          "github",
+          "system-design"
+        ],
+        "updated_at": "2026-09-18T12:09:22Z"
+      },
+      "repo": {
+        "description": "Free, simple, fast interactive diagrams for any GitHub repository",
+        "forks": 1250,
+        "full_name": "ahmedkhaleel2004/gitdiagram",
+        "language": "TypeScript",
+        "name": "gitdiagram",
+        "owner": "ahmedkhaleel2004",
+        "rank": 16,
+        "stars_today": 145,
+        "total_stars": 16246,
+        "url": "https://github.com/ahmedkhaleel2004/gitdiagram"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.84,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 55.14
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 145 stars today; score 55.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/supabase",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+        "forks": 14216,
+        "full_name": "sponsors/supabase",
+        "language": "TypeScript",
+        "name": "supabase",
+        "owner": "sponsors",
+        "rank": 14,
+        "stars_today": 586,
+        "total_stars": 109965,
+        "url": "https://github.com/sponsors/supabase"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.36,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 27.31
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 586 stars today; score 27.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/asciimoo",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Your own search engine",
+        "forks": 197,
+        "full_name": "sponsors/asciimoo",
+        "language": "Go",
+        "name": "asciimoo",
+        "owner": "sponsors",
+        "rank": 17,
+        "stars_today": 842,
+        "total_stars": 4669,
+        "url": "https://github.com/sponsors/asciimoo"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.64,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.49,
+        "technical_quality": 3.5,
+        "total": 18.33
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Go project with 842 stars today; score 18.3/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-18T02:16:36Z",
+        "default_branch": "main",
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "fork": false,
+        "full_name": "alibaba/open-code-review",
+        "homepage": "https://open-codereview.ai",
+        "latest_release": "v1.12.5",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 220,
+        "primary_language": "Go",
+        "pushed_at": "2026-09-18T09:50:29Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://open-codereview.ai\"> <img src=\"imgs/logo-core.svg\" alt=\"OpenCodeReview logo\" width=\"180\" /> </a> <h1>OpenCodeReview</h1> </div> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/41087?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-41087\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://trendshift.io/api/badge/repositories/41087\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; hei",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "code-review",
+          "code-review-assistant",
+          "harness",
+          "repository-level-context"
+        ],
+        "updated_at": "2026-09-18T12:19:28Z"
+      },
+      "repo": {
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "forks": 2571,
+        "full_name": "alibaba/open-code-review",
+        "language": "Go",
+        "name": "open-code-review",
+        "owner": "alibaba",
+        "rank": 3,
+        "stars_today": 2724,
+        "total_stars": 36155,
+        "url": "https://github.com/alibaba/open-code-review"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 10.89,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 76.74
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 2724 stars today; score 76.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-15T20:20:26Z",
+        "default_branch": "main",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "fork": false,
+        "full_name": "addyosmani/agent-skills",
+        "homepage": "https://skills.addy.ie",
+        "latest_release": "0.6.10",
+        "license_spdx": "MIT",
+        "open_issues": 109,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-18T03:32:22Z",
+        "readme_excerpt": "# Agent Skills **Production-grade engineering skills for AI coding agents.** Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. <a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" wid",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-09-18T12:18:47Z"
+      },
+      "repo": {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "forks": 10168,
+        "full_name": "addyosmani/agent-skills",
+        "language": "JavaScript",
+        "name": "agent-skills",
+        "owner": "addyosmani",
+        "rank": 6,
+        "stars_today": 677,
+        "total_stars": 96155,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.76,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.46
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 677 stars today; score 73.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-18T14:08:44Z",
+        "default_branch": "main",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "fork": false,
+        "full_name": "cloudflare/security-audit-skill",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 32,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-14T19:29:02Z",
+        "readme_excerpt": "# security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting. This is the skill that seeded Cloudflare's vulnerability discovery harness, described in [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness). The harness grew into a multi-stage, f",
+        "topics": [],
+        "updated_at": "2026-09-18T12:19:45Z"
+      },
+      "repo": {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "forks": 645,
+        "full_name": "cloudflare/security-audit-skill",
+        "language": "JavaScript",
+        "name": "security-audit-skill",
+        "owner": "cloudflare",
+        "rank": 1,
+        "stars_today": 3019,
+        "total_stars": 11909,
+        "url": "https://github.com/cloudflare/security-audit-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 72.55
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 3019 stars today; score 72.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-22T07:24:40Z",
+        "default_branch": "main",
+        "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+        "fork": false,
+        "full_name": "Tencent/BrowserSkill",
+        "homepage": null,
+        "latest_release": "cli-v0.3.0",
+        "license_spdx": "MIT",
+        "open_issues": 53,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-18T10:54:57Z",
+        "readme_excerpt": "# BrowserSkill <p align=\"center\"> <img src=\"docs/assets/browserskill-readme-banner.png\" alt=\"BrowserSkill banner\" /> </p> <p align=\"center\"> <strong>Let AI agents use your browser without interrupting your work.</strong> </p> <p align=\"center\"> English \u00b7 <a href=\"README.zh-CN.md\">\u4e2d\u6587</a> </p> **BrowserSkill** connects Cursor, Claude Code, Codex, OpenClaw, CodeBuddy, WorkBuddy, Pi, Hermes Agent, DeepSeek Harness, and other AI agents to your already logged-in browser. Need the agent to touch a tab ",
+        "topics": [
+          "agent",
+          "browser-use",
+          "dsh-plugin"
+        ],
+        "updated_at": "2026-09-18T12:19:48Z"
+      },
+      "repo": {
+        "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+        "forks": 343,
+        "full_name": "Tencent/BrowserSkill",
+        "language": "TypeScript",
+        "name": "BrowserSkill",
+        "owner": "Tencent",
+        "rank": 5,
+        "stars_today": 1319,
+        "total_stars": 4875,
+        "url": "https://github.com/Tencent/BrowserSkill"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.69,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 71.49
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1319 stars today; score 71.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-11-23T13:45:10Z",
+        "default_branch": "main",
+        "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+        "fork": false,
+        "full_name": "rustfs/rustfs",
+        "homepage": "https://rustfs.com/download/",
+        "latest_release": "1.0.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 25,
+        "primary_language": "Rust",
+        "pushed_at": "2026-09-18T12:15:02Z",
+        "readme_excerpt": "[![RustFS](https://repository-images.githubusercontent.com/722597620/0fa936a2-8164-4f53-867f-def4beb64b21)](https://rustfs.com) <p align=\"center\">RustFS is a high-performance, distributed object storage system built in Rust.</p> <p align=\"center\"> <a href=\"https://github.com/rustfs/rustfs/actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://github.com/rustfs/rustfs/actions/workflows/ci.yml/badge.svg\" /></a> <a href=\"https://github.com/rustfs/rustfs/actions/workflows/docker.yml\"><img alt=\"Build a",
+        "topics": [
+          "ai-native",
+          "ai-storage",
+          "amazon-s3",
+          "bigdata",
+          "cloud-native",
+          "filesystem",
+          "minio",
+          "multi-cloud",
+          "object-storage",
+          "objectstorage",
+          "rust",
+          "s3"
+        ],
+        "updated_at": "2026-09-18T12:19:48Z"
+      },
+      "repo": {
+        "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+        "forks": 1475,
+        "full_name": "rustfs/rustfs",
+        "language": "Rust",
+        "name": "rustfs",
+        "owner": "rustfs",
+        "rank": 13,
+        "stars_today": 559,
+        "total_stars": 32940,
+        "url": "https://github.com/rustfs/rustfs"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.43,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 68.84
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 559 stars today; score 68.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-02-27T20:10:04Z",
+        "default_branch": "main",
+        "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+        "fork": false,
+        "full_name": "supermemoryai/supermemory",
+        "homepage": "https://supermemory.ai/docs",
+        "latest_release": "server-v0.0.8",
+        "license_spdx": "MIT",
+        "open_issues": 107,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-18T06:09:26Z",
+        "readme_excerpt": "<p align=\"center\"> <picture> <source srcset=\"apps/web/public/logo-fullmark.svg\" media=\"(prefers-color-scheme: dark)\"> <source srcset=\"apps/web/public/logo-light-fullmark.svg\" media=\"(prefers-color-scheme: light)\"> <img src=\"apps/web/public/logo-fullmark.svg\" alt=\"Supermemory\" width=\"400\" /> </picture> </p> <p align=\"center\"> <strong>State-of-the-art memory and context engine for AI.</strong> </p> <p align=\"center\"> <a href=\"https://supermemory.ai/docs\">Docs</a> \u00b7 <a href=\"https://supermemory.ai/",
+        "topics": [
+          "agent-memory",
+          "ai-memory",
+          "cloudflare-kv",
+          "cloudflare-pages",
+          "cloudflare-workers",
+          "drizzle-orm",
+          "memory",
+          "postgres",
+          "remix",
+          "tailwindcss",
+          "typescript",
+          "vite"
+        ],
+        "updated_at": "2026-09-18T12:17:12Z"
+      },
+      "repo": {
+        "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+        "forks": 2629,
+        "full_name": "supermemoryai/supermemory",
+        "language": "TypeScript",
+        "name": "supermemory",
+        "owner": "supermemoryai",
+        "rank": 11,
+        "stars_today": 140,
+        "total_stars": 30033,
+        "url": "https://github.com/supermemoryai/supermemory"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.55,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 68.35
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 140 stars today; score 68.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-02-22T17:41:21Z",
+        "default_branch": "main",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "fork": false,
+        "full_name": "anthropics/claude-code",
+        "homepage": "https://code.claude.com/docs/en/overview",
+        "latest_release": "v2.1.276",
+        "license_spdx": null,
+        "open_issues": 12432,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-18T02:12:25Z",
+        "readme_excerpt": "# Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your t",
+        "topics": [],
+        "updated_at": "2026-09-18T12:19:32Z"
+      },
+      "repo": {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "forks": 23697,
+        "full_name": "anthropics/claude-code",
+        "language": "TypeScript",
+        "name": "claude-code",
+        "owner": "anthropics",
+        "rank": 2,
+        "stars_today": 442,
+        "total_stars": 146062,
+        "url": "https://github.com/anthropics/claude-code"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.69,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 68.09
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 442 stars today; score 68.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-08T12:54:20Z",
+        "default_branch": "main",
+        "description": "A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent.",
+        "fork": false,
+        "full_name": "TencentCloud/Octop",
+        "homepage": "https://octop.cloud",
+        "latest_release": "v1.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 234,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-18T07:28:12Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"docs/assets/readme-banner.png\" alt=\"Octop Banner\" width=\"600\" /> </p> <p align=\"center\"> <strong>A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent.</strong> </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/95504?utm_source=repository-badge&utm_medium=badge&utm_campaign=badge-repository-95504\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://trendshift.io/api/badge/repositories/95504\" alt=\"TencentCloud/Octop | Trendshift\" wid",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "local-first",
+          "long-term-memory"
+        ],
+        "updated_at": "2026-09-18T12:18:41Z"
+      },
+      "repo": {
+        "description": "A smarter, self-hosted AI assistant \u2014 multi-user, multi-agent.",
+        "forks": 394,
+        "full_name": "TencentCloud/Octop",
+        "language": "Python",
+        "name": "Octop",
+        "owner": "TencentCloud",
+        "rank": 7,
+        "stars_today": 571,
+        "total_stars": 3775,
+        "url": "https://github.com/TencentCloud/Octop"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.32,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 64.92
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 571 stars today; score 64.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2021-12-22T06:08:52Z",
+        "default_branch": "main",
+        "description": "Secure environments for developers and their agents",
+        "fork": false,
+        "full_name": "coder/coder",
+        "homepage": "https://coder.com",
+        "latest_release": "v2.36.5",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 1049,
+        "primary_language": "Go",
+        "pushed_at": "2026-09-18T12:14:42Z",
+        "readme_excerpt": "<!-- markdownlint-disable MD041 --> <div align=\"center\"> <a href=\"https://coder.com#gh-light-mode-only\"> <img src=\"./docs/images/logo-black.png\" alt=\"Coder Logo Light\" style=\"width: 128px\"> </a> <a href=\"https://coder.com#gh-dark-mode-only\"> <img src=\"./docs/images/logo-white.png\" alt=\"Coder Logo Dark\" style=\"width: 128px\"> </a> <h1> Self-Hosted Cloud Development Environments and AI Agents </h1> <a href=\"https://coder.com#gh-light-mode-only\"> <img src=\"./docs/images/banner-black.png\" alt=\"Coder ",
+        "topics": [
+          "agents",
+          "dev-tools",
+          "development-environment",
+          "go",
+          "golang",
+          "ide",
+          "jetbrains",
+          "remote-development",
+          "terraform",
+          "vscode"
+        ],
+        "updated_at": "2026-09-18T12:17:04Z"
+      },
+      "repo": {
+        "description": "Secure environments for developers and their agents",
+        "forks": 1495,
+        "full_name": "coder/coder",
+        "language": "Go",
+        "name": "coder",
+        "owner": "coder",
+        "rank": 15,
+        "stars_today": 478,
+        "total_stars": 15050,
+        "url": "https://github.com/coder/coder"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.91,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 63.51
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 478 stars today; score 63.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-29T14:39:25Z",
+        "default_branch": "main",
+        "description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
+        "fork": false,
+        "full_name": "tradesdontlie/tradingview-mcp",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "NOASSERTION",
+        "open_issues": 257,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-07-28T17:28:37Z",
+        "readme_excerpt": "# TradingView MCP Bridge [![MCP Toplist](https://mcptoplist.com/badge/glama%2Ftradesdontlie%2Ftradingview-mcp.svg)](https://mcptoplist.com/server/glama%2Ftradesdontlie%2Ftradingview-mcp) Personal AI assistant for your TradingView Desktop charts. Connects Claude Code to your locally running TradingView app via Chrome DevTools Protocol for AI-assisted chart analysis, Pine Script development, and workflow automation. > [!WARNING] > **This tool is not affiliated with, endorsed by, or associated with",
+        "topics": [],
+        "updated_at": "2026-09-18T12:16:25Z"
+      },
+      "repo": {
+        "description": "AI-assisted TradingView chart analysis \u2014 connect Claude Code to your TradingView Desktop for personal workflow automation",
+        "forks": 2709,
+        "full_name": "tradesdontlie/tradingview-mcp",
+        "language": "JavaScript",
+        "name": "tradingview-mcp",
+        "owner": "tradesdontlie",
+        "rank": 12,
+        "stars_today": 64,
+        "total_stars": 6347,
+        "url": "https://github.com/tradesdontlie/tradingview-mcp"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.19,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 2.8,
+        "strategic_relevance": 5.53,
+        "technical_quality": 9.1,
+        "total": 61.74
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 64 stars today; score 61.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-08-05T10:37:45Z",
+        "default_branch": "main",
+        "description": "Spec-driven development (SDD) for AI coding assistants.",
+        "fork": false,
+        "full_name": "Fission-AI/OpenSpec",
+        "homepage": "https://openspec.dev/",
+        "latest_release": "v1.13.1",
+        "license_spdx": "MIT",
+        "open_issues": 231,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-17T16:05:08Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://github.com/Fission-AI/OpenSpec\"> <picture> <source srcset=\"assets/openspec_bg.png\"> <img src=\"assets/openspec_bg.png\" alt=\"OpenSpec logo\"> </picture> </a> </p> <p align=\"center\"> <a href=\"https://github.com/Fission-AI/OpenSpec/actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://github.com/Fission-AI/OpenSpec/actions/workflows/ci.yml/badge.svg\" /></a> <a href=\"https://www.npmjs.com/package/@fission-ai/openspec\"><img alt=\"npm version\" src=\"https://img.shields.i",
+        "topics": [
+          "ai",
+          "context-engineering",
+          "engineering",
+          "planning",
+          "prd",
+          "sdd",
+          "sdlc",
+          "spec",
+          "spec-driven-development",
+          "specification"
+        ],
+        "updated_at": "2026-09-18T12:16:48Z"
+      },
+      "repo": {
+        "description": "Spec-driven development (SDD) for AI coding assistants.",
+        "forks": 4738,
+        "full_name": "Fission-AI/OpenSpec",
+        "language": "TypeScript",
+        "name": "OpenSpec",
+        "owner": "Fission-AI",
+        "rank": 8,
+        "stars_today": 298,
+        "total_stars": 69069,
+        "url": "https://github.com/Fission-AI/OpenSpec"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.42,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 60.22
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 298 stars today; score 60.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2012-12-21T08:03:31Z",
+        "default_branch": "main",
+        "description": "Anki is a smart spaced repetition flashcard program",
+        "fork": false,
+        "full_name": "ankitects/anki",
+        "homepage": "https://apps.ankiweb.net",
+        "latest_release": "26.09.2",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 525,
+        "primary_language": "Rust",
+        "pushed_at": "2026-09-17T21:03:05Z",
+        "readme_excerpt": "# Anki [![Build Status](https://github.com/ankitects/anki/actions/workflows/ci.yml/badge.svg)](https://github.com/ankitects/anki/actions/workflows/ci.yml) [![Documentation](https://img.shields.io/badge/docs-dev--docs.ankiweb.net-blue)](https://dev-docs.ankiweb.net) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=ankitects_anki&metric=coverage)](https://sonarcloud.io/summary/new_code?id=ankitects_anki) This repo contains the source code for the computer version of [Anki](htt",
+        "topics": [],
+        "updated_at": "2026-09-18T12:16:00Z"
+      },
+      "repo": {
+        "description": "Anki is a smart spaced repetition flashcard program",
+        "forks": 3234,
+        "full_name": "ankitects/anki",
+        "language": "Rust",
+        "name": "anki",
+        "owner": "ankitects",
+        "rank": 9,
+        "stars_today": 430,
+        "total_stars": 31064,
+        "url": "https://github.com/ankitects/anki"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.64,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 58.04
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 430 stars today; score 58.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-12-15T10:32:03Z",
+        "default_branch": "main",
+        "description": "Free, simple, fast interactive diagrams for any GitHub repository",
+        "fork": false,
+        "full_name": "ahmedkhaleel2004/gitdiagram",
+        "homepage": "https://gitdiagram.com",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 40,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-18T11:17:41Z",
+        "readme_excerpt": "[![GitDiagram front page](./docs/readme_img.png)](https://gitdiagram.com/) ![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061.svg?logo=ko-fi&logoColor=white)](https://ko-fi.com/ahmedkhaleel2004) # GitDiagram Turn any public or private GitHub repository into an interactive architecture diagram in seconds. You can also replace `hub` with `diagram` in a GitHub URL to open its diagram. > **Sponsor slot:** Reach developers while they are",
+        "topics": [
+          "ai",
+          "code",
+          "github",
+          "system-design"
+        ],
+        "updated_at": "2026-09-18T12:09:22Z"
+      },
+      "repo": {
+        "description": "Free, simple, fast interactive diagrams for any GitHub repository",
+        "forks": 1250,
+        "full_name": "ahmedkhaleel2004/gitdiagram",
+        "language": "TypeScript",
+        "name": "gitdiagram",
+        "owner": "ahmedkhaleel2004",
+        "rank": 16,
+        "stars_today": 145,
+        "total_stars": 16246,
+        "url": "https://github.com/ahmedkhaleel2004/gitdiagram"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.84,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 55.14
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 145 stars today; score 55.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-23T20:11:54Z",
+        "default_branch": "main",
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "fork": false,
+        "full_name": "anthropics/knowledge-work-plugins",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 92,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-18T07:34:09Z",
+        "readme_excerpt": "# Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for [Claude Cowork](https://claude.com/product/cowork), also compatible with [Claude Code](https://claude.com/product/claude-code). ## Why Plugins Cowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose ",
+        "topics": [],
+        "updated_at": "2026-09-18T12:17:14Z"
+      },
+      "repo": {
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "forks": 2957,
+        "full_name": "anthropics/knowledge-work-plugins",
+        "language": "Python",
+        "name": "knowledge-work-plugins",
+        "owner": "anthropics",
+        "rank": 10,
+        "stars_today": 300,
+        "total_stars": 24711,
+        "url": "https://github.com/anthropics/knowledge-work-plugins"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.14,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 50.19
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 300 stars today; score 50.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 39149,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 965,
+        "total_stars": 261559,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.85,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 38.8
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 965 stars today; score 38.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/supabase",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+        "forks": 14216,
+        "full_name": "sponsors/supabase",
+        "language": "TypeScript",
+        "name": "supabase",
+        "owner": "sponsors",
+        "rank": 14,
+        "stars_today": 586,
+        "total_stars": 109965,
+        "url": "https://github.com/sponsors/supabase"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.36,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 27.31
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 586 stars today; score 27.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/asciimoo",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Your own search engine",
+        "forks": 197,
+        "full_name": "sponsors/asciimoo",
+        "language": "Go",
+        "name": "asciimoo",
+        "owner": "sponsors",
+        "rank": 17,
+        "stars_today": 842,
+        "total_stars": 4669,
+        "url": "https://github.com/sponsors/asciimoo"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.64,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.49,
+        "technical_quality": 3.5,
+        "total": 18.33
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Go project with 842 stars today; score 18.3/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-09-18",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is rustfs/rustfs."
+}
