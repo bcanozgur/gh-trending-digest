@@ -1,0 +1,33 @@
+GitHub Trending: AI workflow signal - 2026-09-19
+
+Today leans toward AI workflow signal; the strongest pick is higgsfield-ai/higgsfield.
+
+Top picks
+1. higgsfield-ai/higgsfield - 72.9/100
+   https://github.com/higgsfield-ai/higgsfield
+   AI Workflow, DevTools: Jupyter Notebook project with 325 stars today; score 72.9/100.
+2. yynxxxxx/Codex-X - 70.4/100
+   https://github.com/yynxxxxx/Codex-X
+   AI Workflow, DevTools: Rust project with 64 stars today; score 70.4/100.
+3. cactus-compute/needle - 69.9/100
+   https://github.com/cactus-compute/needle
+   AI Workflow, Try Today: Python project with 207 stars today; score 69.9/100.
+4. docling-project/docling - 63.8/100
+   https://github.com/docling-project/docling
+   AI Workflow, DevTools: Python project with 94 stars today; score 63.8/100.
+5. ZuodaoTech/everyone-can-use-english - 63.0/100
+   https://github.com/ZuodaoTech/everyone-can-use-english
+   AI Workflow, DevTools: TypeScript project with 31 stars today; score 63.0/100.
+
+Full reviewed list
+- higgsfield-ai/higgsfield: 72.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Jupyter Notebook project with 325 stars today; score 72.9/100.
+- yynxxxxx/Codex-X: 70.4/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Rust project with 64 stars today; score 70.4/100.
+- cactus-compute/needle: 69.9/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 207 stars today; score 69.9/100.
+- docling-project/docling: 63.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 94 stars today; score 63.8/100.
+- ZuodaoTech/everyone-can-use-english: 63.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 31 stars today; score 63.0/100.
+- Open-Dev-Society/OpenStock: 57.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 477 stars today; score 57.5/100.
+- ruanyf/weekly: 52.4/100 [AI Workflow] AI Workflow: Unknown project with 144 stars today; score 52.4/100.
+- cloudflare/quiche: 51.5/100 [DevTools, Try Today] DevTools, Try Today: Rust project with 5 stars today; score 51.5/100.
+- sponsors/trycua: 38.2/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: HTML project with 383 stars today; score 38.2/100.
+
+Generated for 2026-09-19 from GitHub Trending daily.

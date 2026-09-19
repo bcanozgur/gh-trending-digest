@@ -1,0 +1,1305 @@
+{
+  "date": "2026-09-19",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-05-26T22:47:43Z",
+        "default_branch": "main",
+        "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+        "fork": false,
+        "full_name": "higgsfield-ai/higgsfield",
+        "homepage": null,
+        "latest_release": "v0.0.4-rc",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 12,
+        "primary_language": "Jupyter Notebook",
+        "pushed_at": "2026-09-14T02:46:36Z",
+        "readme_excerpt": "# higgsfield - multi node training without crying Higgsfield is an open-source, fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters, such as Large Language Models (LLMs). [![PyPI version](https://badge.fury.io/py/higgsfield.svg)](https://badge.fury.io/py/higgsfield) ![architecture](https://raw.githubusercontent.com/higgsfield/higgsfield/main/docs/static/architecture.png) Higgsfield serves as a G",
+        "topics": [
+          "cluster-management",
+          "deep-learning",
+          "distributed",
+          "llama",
+          "llama2",
+          "llm",
+          "machine-learning",
+          "mlops",
+          "pytorch"
+        ],
+        "updated_at": "2026-09-19T11:57:27Z"
+      },
+      "repo": {
+        "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+        "forks": 871,
+        "full_name": "higgsfield-ai/higgsfield",
+        "language": "Jupyter Notebook",
+        "name": "higgsfield",
+        "owner": "higgsfield-ai",
+        "rank": 7,
+        "stars_today": 325,
+        "total_stars": 4677,
+        "url": "https://github.com/higgsfield-ai/higgsfield"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.64,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 72.89
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Jupyter Notebook project with 325 stars today; score 72.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-04T03:28:35Z",
+        "default_branch": "main",
+        "description": "OpenAI Codex \u684c\u9762\u7aef/CLI \u7684\u53ef\u89c6\u5316\u7ba1\u7406\u5de5\u5177\uff0c\u5177\u6709Provider/API \u5207\u6362\u3001\u4f1a\u8bdd\u540c\u6b65\u3001\u63d0\u793a\u8bcd\u6ce8\u5165\u3001Skills/MCP \u7ba1\u7406\u3001TOML \u914d\u7f6e\u53ef\u89c6\u5316\u7684\u8de8\u5e73\u53f0\u5de5\u5177\u3002",
+        "fork": false,
+        "full_name": "yynxxxxx/Codex-X",
+        "homepage": "https://codex-x.site",
+        "latest_release": "v0.3.20",
+        "license_spdx": "MIT",
+        "open_issues": 27,
+        "primary_language": "Rust",
+        "pushed_at": "2026-09-18T03:37:47Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"README.md\"><img src=\"https://img.shields.io/badge/\u4e2d\u6587-\u5f53\u524d-blue\" alt=\"\u4e2d\u6587\" /></a> <a href=\"README.en.md\"><img src=\"https://img.shields.io/badge/English-Switch-lightgrey\" alt=\"English\" /></a> </p> <div align=\"center\"> <img src=\"apps/desktop/src-tauri/icons/icon.png\" alt=\"Codex-X Logo\" width=\"150\" /> # Codex-X **Codex \u53ef\u89c6\u5316\u63d0\u793a\u8bcd\u6ce8\u5165 \u00b7 Provider \u00b7 \u4f1a\u8bdd \u00b7 Skills / MCP \u7ba1\u7406\u5de5\u5177** \u4e00\u6b3e\u9762\u5411 **OpenAI Codex \u684c\u9762\u7aef / Codex CLI** \u7684\u8de8\u5e73\u53f0\u684c\u9762\u5de5\u5177\u3002\u628a\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u81ea\u5b9a\u4e49 Prompt\u3001\u7b2c\u4e09\u65b9 API \u4f9b\u5e94\u5546\u3001\u4f1a\u8bdd\u540c\u6b65\u3001Skills / MCP \u548c TOML \u914d\u7f6e\u90fd\u653e\u8fdb\u53ef\u89c6\u5316\u754c",
+        "topics": [],
+        "updated_at": "2026-09-19T12:00:39Z"
+      },
+      "repo": {
+        "description": "OpenAI Codex \u684c\u9762\u7aef/CLI \u7684\u53ef\u89c6\u5316\u7ba1\u7406\u5de5\u5177\uff0c\u5177\u6709Provider/API \u5207\u6362\u3001\u4f1a\u8bdd\u540c\u6b65\u3001\u63d0\u793a\u8bcd\u6ce8\u5165\u3001Skills/MCP \u7ba1\u7406\u3001TOML \u914d\u7f6e\u53ef\u89c6\u5316\u7684\u8de8\u5e73\u53f0\u5de5\u5177\u3002",
+        "forks": 440,
+        "full_name": "yynxxxxx/Codex-X",
+        "language": "Rust",
+        "name": "Codex-X",
+        "owner": "yynxxxxx",
+        "rank": 15,
+        "stars_today": 64,
+        "total_stars": 3313,
+        "url": "https://github.com/yynxxxxx/Codex-X"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.76,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 70.41
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 64 stars today; score 70.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-24T04:50:47Z",
+        "default_branch": "main",
+        "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+        "fork": false,
+        "full_name": "cactus-compute/needle",
+        "homepage": "https://cactuscompute.com",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 38,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-18T16:02:06Z",
+        "readme_excerpt": "![Needle](assets/banner.svg) A foundation model for mobiles, wearables, robots, smart home, automotive and microcontrollers. The whole model is a single 8-29 MB binary built on our Simple Attention Network, and we trade general chat capacity to beat models 10x its size on mobile tool calls and match 2-3x bigger models on extraction. - **Tool calls**: given the functions your app exposes, Needle picks the right ones and fills every argument from what the user said. Ask for two things and you get ",
+        "topics": [
+          "cactus",
+          "edge-ai",
+          "foundation-model",
+          "function-calling",
+          "llm",
+          "on-device-ai",
+          "tinyml",
+          "tool-calling"
+        ],
+        "updated_at": "2026-09-19T12:00:31Z"
+      },
+      "repo": {
+        "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+        "forks": 727,
+        "full_name": "cactus-compute/needle",
+        "language": "Python",
+        "name": "needle",
+        "owner": "cactus-compute",
+        "rank": 14,
+        "stars_today": 207,
+        "total_stars": 11409,
+        "url": "https://github.com/cactus-compute/needle"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.31,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.9,
+        "total": 69.86
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 207 stars today; score 69.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-07-09T07:50:26Z",
+        "default_branch": "main",
+        "description": "Get your documents ready for gen AI",
+        "fork": false,
+        "full_name": "docling-project/docling",
+        "homepage": "https://docling-project.github.io/docling",
+        "latest_release": "v2.129.0",
+        "license_spdx": "MIT",
+        "open_issues": 933,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-18T13:47:32Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://github.com/docling-project/docling\"> <img loading=\"lazy\" alt=\"Docling\" src=\"https://github.com/docling-project/docling/raw/main/docs/assets/docling_processing.png\" width=\"100%\"/> </a> </p> # Docling <p align=\"center\"> <a href=\"https://trendshift.io/repositories/17240\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/17240\" alt=\"DS4SD%2Fdocling | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> [![arXiv](h",
+        "topics": [
+          "ai",
+          "convert",
+          "document-parser",
+          "document-parsing",
+          "documents",
+          "docx",
+          "html",
+          "markdown",
+          "pdf",
+          "pdf-converter",
+          "pdf-to-json",
+          "pdf-to-text",
+          "pptx",
+          "tables",
+          "xlsx"
+        ],
+        "updated_at": "2026-09-19T11:58:10Z"
+      },
+      "repo": {
+        "description": "Get your documents ready for gen AI",
+        "forks": 4815,
+        "full_name": "docling-project/docling",
+        "language": "Python",
+        "name": "docling",
+        "owner": "docling-project",
+        "rank": 8,
+        "stars_today": 94,
+        "total_stars": 66733,
+        "url": "https://github.com/docling-project/docling"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.85,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.76
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 94 stars today; score 63.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-03-15T16:33:53Z",
+        "default_branch": "main",
+        "description": "\u4eba\u4eba\u90fd\u80fd\u7528\u82f1\u8bed",
+        "fork": false,
+        "full_name": "ZuodaoTech/everyone-can-use-english",
+        "homepage": "https://1000h.org",
+        "latest_release": "v0.7.9",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 125,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-29T09:40:15Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"./enjoy/assets/icon.png\" alt=\"Clash\" width=\"128\" /> </div> <h3 align=\"center\"> AI \u662f\u5f53\u4eca\u4e16\u754c\u4e0a\u6700\u597d\u7684\u5916\u8bed\u8001\u5e08\uff0cEnjoy \u505a AI \u6700\u597d\u7684\u52a9\u6559\u3002 </h3> [![Deploy 1000h website](https://github.com/ZuodaoTech/everyone-can-use-english/actions/workflows/deploy-1000h.yml/badge.svg)](https://github.com/ZuodaoTech/everyone-can-use-english/actions/workflows/deploy-1000h.yml) [![Test Enjoy App](https://github.com/ZuodaoTech/everyone-can-use-english/actions/workflows/test-enjoy-app.yml/badge.svg)](https://",
+        "topics": [],
+        "updated_at": "2026-09-19T11:55:39Z"
+      },
+      "repo": {
+        "description": "\u4eba\u4eba\u90fd\u80fd\u7528\u82f1\u8bed",
+        "forks": 5198,
+        "full_name": "ZuodaoTech/everyone-can-use-english",
+        "language": "TypeScript",
+        "name": "everyone-can-use-english",
+        "owner": "ZuodaoTech",
+        "rank": 12,
+        "stars_today": 31,
+        "total_stars": 37658,
+        "url": "https://github.com/ZuodaoTech/everyone-can-use-english"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.1,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.01
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 31 stars today; score 63.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-28T18:16:32Z",
+        "default_branch": "main",
+        "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights \u2014 built openly, for everyone, forever free.",
+        "fork": false,
+        "full_name": "Open-Dev-Society/OpenStock",
+        "homepage": "https://openstock-ods.vercel.app",
+        "latest_release": null,
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 29,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-18T13:02:27Z",
+        "readme_excerpt": "<p align=\"center\"> <b>New from Open Dev Society:</b> <a href=\"https://github.com/Open-Dev-Society/kitbash\"><b>kitbash</b></a>. Before you build, find out which parts already exist on GitHub. Borrow them, adapt them, or write the rest. </p> <a href=\"https://trendshift.io/repositories/15728?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-15728\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/15728\" alt=\"Open-Dev-So",
+        "topics": [
+          "coderabbit",
+          "inngest",
+          "nextjs",
+          "shadcn-ui",
+          "stock-market",
+          "tailwindcss"
+        ],
+        "updated_at": "2026-09-19T12:00:42Z"
+      },
+      "repo": {
+        "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights \u2014 built openly, for everyone, forever free.",
+        "forks": 2054,
+        "full_name": "Open-Dev-Society/OpenStock",
+        "language": "TypeScript",
+        "name": "OpenStock",
+        "owner": "Open-Dev-Society",
+        "rank": 6,
+        "stars_today": 477,
+        "total_stars": 15699,
+        "url": "https://github.com/Open-Dev-Society/OpenStock"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.21,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 57.51
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 477 stars today; score 57.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-10-13T12:36:07Z",
+        "default_branch": "master",
+        "description": "\u79d1\u6280\u7231\u597d\u8005\u5468\u520a\uff0c\u6bcf\u5468\u4e94\u53d1\u5e03",
+        "fork": false,
+        "full_name": "ruanyf/weekly",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 9125,
+        "primary_language": null,
+        "pushed_at": "2026-09-19T11:38:43Z",
+        "readme_excerpt": "# \u79d1\u6280\u7231\u597d\u8005\u5468\u520a \u8bb0\u5f55\u6bcf\u5468\u503c\u5f97\u5206\u4eab\u7684\u79d1\u6280\u5185\u5bb9\uff0c\u5468\u4e94\u53d1\u5e03\u3002 \u6b22\u8fce\u6295\u7a3f\u6587\u7ae0/\u8f6f\u4ef6/\u8d44\u6e90\uff0c\u8bf7[\u63d0\u4ea4 issue](https://github.com/ruanyf/weekly/issues) \u3002 > P.S. \u8ba8\u8bba\u533a\u7684[\u300a\u8c01\u5728\u62db\u4eba\u300b](https://github.com/ruanyf/weekly/issues/11434)\uff0c\u662f\u4e00\u4e2a\u514d\u8d39\u7684\u7a0b\u5e8f\u5458\u62db\u8058\u5e16\uff0c\u63d0\u4f9b\u5927\u91cf\u5c31\u4e1a\u4fe1\u606f\uff0c\u6b22\u8fce\u53d1\u5e03\u5de5\u4f5c/\u5b9e\u4e60\u5c97\u4f4d\u3002 ## 2026 **\u4e5d\u6708** - \u7b2c 413 \u671f\uff1a[\u518d\u89c1\u4e86\uff0cReact Native](docs/issue-413.md) - \u7b2c 412 \u671f\uff1a[\u7981\u6b62 issue\uff0c\u53ea\u7528 PR](docs/issue-412.md) - \u7b2c 411 \u671f\uff1a[OpenClaw 2.0 \u662f\u4e00\u4e2a\u7f29\u5f71](docs/issue-411.md) **\u516b\u6708** - \u7b2c 410 \u671f\uff1a[\u4f60\u9700\u8981\u77e5\u9053\u7684 AI \u4e09\u79cd\u673a\u5236](docs/issue-410.md) - \u7b2c 409 \u671f\uff1a[\u7a0b\u5e8f\u5458\u7684\u804c\u4e1a\u672a\u6765](docs/issue-409.md) - \u7b2c 408 \u671f\uff1a[\u4f60\u9700\u8981\u77e5\u9053\u7684 AI \u7f13\u5b58\u77e5\u8bc6](docs/issue-408.md) - ",
+        "topics": [],
+        "updated_at": "2026-09-19T11:55:48Z"
+      },
+      "repo": {
+        "description": "\u79d1\u6280\u7231\u597d\u8005\u5468\u520a\uff0c\u6bcf\u5468\u4e94\u53d1\u5e03",
+        "forks": 4419,
+        "full_name": "ruanyf/weekly",
+        "language": null,
+        "name": "weekly",
+        "owner": "ruanyf",
+        "rank": 11,
+        "stars_today": 144,
+        "total_stars": 102963,
+        "url": "https://github.com/ruanyf/weekly"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.56,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 52.36
+      },
+      "tags": [
+        "AI Workflow"
+      ],
+      "verdict": "AI Workflow: Unknown project with 144 stars today; score 52.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-09-29T18:22:05Z",
+        "default_branch": "master",
+        "description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3",
+        "fork": false,
+        "full_name": "cloudflare/quiche",
+        "homepage": "https://docs.quic.tech/quiche/",
+        "latest_release": "0.30.0",
+        "license_spdx": "BSD-2-Clause",
+        "open_issues": 361,
+        "primary_language": "Rust",
+        "pushed_at": "2026-09-18T10:10:05Z",
+        "readme_excerpt": "![quiche](quiche.svg) [![crates.io](https://img.shields.io/crates/v/quiche.svg)](https://crates.io/crates/quiche) [![docs.rs](https://docs.rs/quiche/badge.svg)](https://docs.rs/quiche) [![license](https://img.shields.io/github/license/cloudflare/quiche.svg)](https://opensource.org/licenses/BSD-2-Clause) ![build](https://img.shields.io/github/actions/workflow/status/cloudflare/quiche/stable.yml?branch=master) [quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by ",
+        "topics": [
+          "http3",
+          "network-programming",
+          "protocol",
+          "quic",
+          "rust"
+        ],
+        "updated_at": "2026-09-19T11:58:09Z"
+      },
+      "repo": {
+        "description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3",
+        "forks": 1098,
+        "full_name": "cloudflare/quiche",
+        "language": "Rust",
+        "name": "quiche",
+        "owner": "cloudflare",
+        "rank": 9,
+        "stars_today": 5,
+        "total_stars": 11864,
+        "url": "https://github.com/cloudflare/quiche"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.46,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 51.52
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Rust project with 5 stars today; score 51.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/trycua",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+        "forks": 1652,
+        "full_name": "sponsors/trycua",
+        "language": "HTML",
+        "name": "trycua",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 383,
+        "total_stars": 23873,
+        "url": "https://github.com/sponsors/trycua"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.53,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 38.18
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: HTML project with 383 stars today; score 38.2/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-15T20:20:26Z",
+        "default_branch": "main",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "fork": false,
+        "full_name": "addyosmani/agent-skills",
+        "homepage": "https://skills.addy.ie",
+        "latest_release": "0.6.10",
+        "license_spdx": "MIT",
+        "open_issues": 111,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-18T03:32:22Z",
+        "readme_excerpt": "# Agent Skills **Production-grade engineering skills for AI coding agents.** Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. <a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" wid",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-09-19T11:57:39Z"
+      },
+      "repo": {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "forks": 10211,
+        "full_name": "addyosmani/agent-skills",
+        "language": "JavaScript",
+        "name": "agent-skills",
+        "owner": "addyosmani",
+        "rank": 3,
+        "stars_today": 675,
+        "total_stars": 96668,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.2,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.9
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 675 stars today; score 73.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-05-26T22:47:43Z",
+        "default_branch": "main",
+        "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+        "fork": false,
+        "full_name": "higgsfield-ai/higgsfield",
+        "homepage": null,
+        "latest_release": "v0.0.4-rc",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 12,
+        "primary_language": "Jupyter Notebook",
+        "pushed_at": "2026-09-14T02:46:36Z",
+        "readme_excerpt": "# higgsfield - multi node training without crying Higgsfield is an open-source, fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters, such as Large Language Models (LLMs). [![PyPI version](https://badge.fury.io/py/higgsfield.svg)](https://badge.fury.io/py/higgsfield) ![architecture](https://raw.githubusercontent.com/higgsfield/higgsfield/main/docs/static/architecture.png) Higgsfield serves as a G",
+        "topics": [
+          "cluster-management",
+          "deep-learning",
+          "distributed",
+          "llama",
+          "llama2",
+          "llm",
+          "machine-learning",
+          "mlops",
+          "pytorch"
+        ],
+        "updated_at": "2026-09-19T11:57:27Z"
+      },
+      "repo": {
+        "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+        "forks": 871,
+        "full_name": "higgsfield-ai/higgsfield",
+        "language": "Jupyter Notebook",
+        "name": "higgsfield",
+        "owner": "higgsfield-ai",
+        "rank": 7,
+        "stars_today": 325,
+        "total_stars": 4677,
+        "url": "https://github.com/higgsfield-ai/higgsfield"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.64,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 72.89
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Jupyter Notebook project with 325 stars today; score 72.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-18T14:08:44Z",
+        "default_branch": "main",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "fork": false,
+        "full_name": "cloudflare/security-audit-skill",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 37,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-14T19:29:02Z",
+        "readme_excerpt": "# security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting. This is the skill that seeded Cloudflare's vulnerability discovery harness, described in [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness). The harness grew into a multi-stage, f",
+        "topics": [],
+        "updated_at": "2026-09-19T11:59:55Z"
+      },
+      "repo": {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "forks": 817,
+        "full_name": "cloudflare/security-audit-skill",
+        "language": "JavaScript",
+        "name": "security-audit-skill",
+        "owner": "cloudflare",
+        "rank": 1,
+        "stars_today": 3006,
+        "total_stars": 14984,
+        "url": "https://github.com/cloudflare/security-audit-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 72.55
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 3006 stars today; score 72.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-04T03:28:35Z",
+        "default_branch": "main",
+        "description": "OpenAI Codex \u684c\u9762\u7aef/CLI \u7684\u53ef\u89c6\u5316\u7ba1\u7406\u5de5\u5177\uff0c\u5177\u6709Provider/API \u5207\u6362\u3001\u4f1a\u8bdd\u540c\u6b65\u3001\u63d0\u793a\u8bcd\u6ce8\u5165\u3001Skills/MCP \u7ba1\u7406\u3001TOML \u914d\u7f6e\u53ef\u89c6\u5316\u7684\u8de8\u5e73\u53f0\u5de5\u5177\u3002",
+        "fork": false,
+        "full_name": "yynxxxxx/Codex-X",
+        "homepage": "https://codex-x.site",
+        "latest_release": "v0.3.20",
+        "license_spdx": "MIT",
+        "open_issues": 27,
+        "primary_language": "Rust",
+        "pushed_at": "2026-09-18T03:37:47Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"README.md\"><img src=\"https://img.shields.io/badge/\u4e2d\u6587-\u5f53\u524d-blue\" alt=\"\u4e2d\u6587\" /></a> <a href=\"README.en.md\"><img src=\"https://img.shields.io/badge/English-Switch-lightgrey\" alt=\"English\" /></a> </p> <div align=\"center\"> <img src=\"apps/desktop/src-tauri/icons/icon.png\" alt=\"Codex-X Logo\" width=\"150\" /> # Codex-X **Codex \u53ef\u89c6\u5316\u63d0\u793a\u8bcd\u6ce8\u5165 \u00b7 Provider \u00b7 \u4f1a\u8bdd \u00b7 Skills / MCP \u7ba1\u7406\u5de5\u5177** \u4e00\u6b3e\u9762\u5411 **OpenAI Codex \u684c\u9762\u7aef / Codex CLI** \u7684\u8de8\u5e73\u53f0\u684c\u9762\u5de5\u5177\u3002\u628a\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u81ea\u5b9a\u4e49 Prompt\u3001\u7b2c\u4e09\u65b9 API \u4f9b\u5e94\u5546\u3001\u4f1a\u8bdd\u540c\u6b65\u3001Skills / MCP \u548c TOML \u914d\u7f6e\u90fd\u653e\u8fdb\u53ef\u89c6\u5316\u754c",
+        "topics": [],
+        "updated_at": "2026-09-19T12:00:39Z"
+      },
+      "repo": {
+        "description": "OpenAI Codex \u684c\u9762\u7aef/CLI \u7684\u53ef\u89c6\u5316\u7ba1\u7406\u5de5\u5177\uff0c\u5177\u6709Provider/API \u5207\u6362\u3001\u4f1a\u8bdd\u540c\u6b65\u3001\u63d0\u793a\u8bcd\u6ce8\u5165\u3001Skills/MCP \u7ba1\u7406\u3001TOML \u914d\u7f6e\u53ef\u89c6\u5316\u7684\u8de8\u5e73\u53f0\u5de5\u5177\u3002",
+        "forks": 440,
+        "full_name": "yynxxxxx/Codex-X",
+        "language": "Rust",
+        "name": "Codex-X",
+        "owner": "yynxxxxx",
+        "rank": 15,
+        "stars_today": 64,
+        "total_stars": 3313,
+        "url": "https://github.com/yynxxxxx/Codex-X"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.76,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 70.41
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 64 stars today; score 70.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-24T04:50:47Z",
+        "default_branch": "main",
+        "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+        "fork": false,
+        "full_name": "cactus-compute/needle",
+        "homepage": "https://cactuscompute.com",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 38,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-18T16:02:06Z",
+        "readme_excerpt": "![Needle](assets/banner.svg) A foundation model for mobiles, wearables, robots, smart home, automotive and microcontrollers. The whole model is a single 8-29 MB binary built on our Simple Attention Network, and we trade general chat capacity to beat models 10x its size on mobile tool calls and match 2-3x bigger models on extraction. - **Tool calls**: given the functions your app exposes, Needle picks the right ones and fills every argument from what the user said. Ask for two things and you get ",
+        "topics": [
+          "cactus",
+          "edge-ai",
+          "foundation-model",
+          "function-calling",
+          "llm",
+          "on-device-ai",
+          "tinyml",
+          "tool-calling"
+        ],
+        "updated_at": "2026-09-19T12:00:31Z"
+      },
+      "repo": {
+        "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+        "forks": 727,
+        "full_name": "cactus-compute/needle",
+        "language": "Python",
+        "name": "needle",
+        "owner": "cactus-compute",
+        "rank": 14,
+        "stars_today": 207,
+        "total_stars": 11409,
+        "url": "https://github.com/cactus-compute/needle"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.31,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.9,
+        "total": 69.86
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 207 stars today; score 69.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-02-22T17:41:21Z",
+        "default_branch": "main",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "fork": false,
+        "full_name": "anthropics/claude-code",
+        "homepage": "https://code.claude.com/docs/en/overview",
+        "latest_release": "v2.1.278",
+        "license_spdx": null,
+        "open_issues": 12368,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-19T03:10:40Z",
+        "readme_excerpt": "# Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your t",
+        "topics": [],
+        "updated_at": "2026-09-19T11:58:25Z"
+      },
+      "repo": {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "forks": 23835,
+        "full_name": "anthropics/claude-code",
+        "language": "TypeScript",
+        "name": "claude-code",
+        "owner": "anthropics",
+        "rank": 5,
+        "stars_today": 444,
+        "total_stars": 146517,
+        "url": "https://github.com/anthropics/claude-code"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.26,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 67.66
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 444 stars today; score 67.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2021-12-22T06:08:52Z",
+        "default_branch": "main",
+        "description": "Secure environments for developers and their agents",
+        "fork": false,
+        "full_name": "coder/coder",
+        "homepage": "https://coder.com",
+        "latest_release": "v2.36.6",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 1047,
+        "primary_language": "Go",
+        "pushed_at": "2026-09-19T09:42:03Z",
+        "readme_excerpt": "<!-- markdownlint-disable MD041 --> <div align=\"center\"> <a href=\"https://coder.com#gh-light-mode-only\"> <img src=\"./docs/images/logo-black.png\" alt=\"Coder Logo Light\" style=\"width: 128px\"> </a> <a href=\"https://coder.com#gh-dark-mode-only\"> <img src=\"./docs/images/logo-white.png\" alt=\"Coder Logo Dark\" style=\"width: 128px\"> </a> <h1> Self-Hosted Cloud Development Environments and AI Agents </h1> <a href=\"https://coder.com#gh-light-mode-only\"> <img src=\"./docs/images/banner-black.png\" alt=\"Coder ",
+        "topics": [
+          "agents",
+          "dev-tools",
+          "development-environment",
+          "go",
+          "golang",
+          "ide",
+          "jetbrains",
+          "remote-development",
+          "terraform",
+          "vscode"
+        ],
+        "updated_at": "2026-09-19T12:00:41Z"
+      },
+      "repo": {
+        "description": "Secure environments for developers and their agents",
+        "forks": 1509,
+        "full_name": "coder/coder",
+        "language": "Go",
+        "name": "coder",
+        "owner": "coder",
+        "rank": 4,
+        "stars_today": 478,
+        "total_stars": 15439,
+        "url": "https://github.com/coder/coder"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.5,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 65.1
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 478 stars today; score 65.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-07-09T07:50:26Z",
+        "default_branch": "main",
+        "description": "Get your documents ready for gen AI",
+        "fork": false,
+        "full_name": "docling-project/docling",
+        "homepage": "https://docling-project.github.io/docling",
+        "latest_release": "v2.129.0",
+        "license_spdx": "MIT",
+        "open_issues": 933,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-18T13:47:32Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://github.com/docling-project/docling\"> <img loading=\"lazy\" alt=\"Docling\" src=\"https://github.com/docling-project/docling/raw/main/docs/assets/docling_processing.png\" width=\"100%\"/> </a> </p> # Docling <p align=\"center\"> <a href=\"https://trendshift.io/repositories/17240\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/17240\" alt=\"DS4SD%2Fdocling | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </p> [![arXiv](h",
+        "topics": [
+          "ai",
+          "convert",
+          "document-parser",
+          "document-parsing",
+          "documents",
+          "docx",
+          "html",
+          "markdown",
+          "pdf",
+          "pdf-converter",
+          "pdf-to-json",
+          "pdf-to-text",
+          "pptx",
+          "tables",
+          "xlsx"
+        ],
+        "updated_at": "2026-09-19T11:58:10Z"
+      },
+      "repo": {
+        "description": "Get your documents ready for gen AI",
+        "forks": 4815,
+        "full_name": "docling-project/docling",
+        "language": "Python",
+        "name": "docling",
+        "owner": "docling-project",
+        "rank": 8,
+        "stars_today": 94,
+        "total_stars": 66733,
+        "url": "https://github.com/docling-project/docling"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.85,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.76
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 94 stars today; score 63.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-03-15T16:33:53Z",
+        "default_branch": "main",
+        "description": "\u4eba\u4eba\u90fd\u80fd\u7528\u82f1\u8bed",
+        "fork": false,
+        "full_name": "ZuodaoTech/everyone-can-use-english",
+        "homepage": "https://1000h.org",
+        "latest_release": "v0.7.9",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 125,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-06-29T09:40:15Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"./enjoy/assets/icon.png\" alt=\"Clash\" width=\"128\" /> </div> <h3 align=\"center\"> AI \u662f\u5f53\u4eca\u4e16\u754c\u4e0a\u6700\u597d\u7684\u5916\u8bed\u8001\u5e08\uff0cEnjoy \u505a AI \u6700\u597d\u7684\u52a9\u6559\u3002 </h3> [![Deploy 1000h website](https://github.com/ZuodaoTech/everyone-can-use-english/actions/workflows/deploy-1000h.yml/badge.svg)](https://github.com/ZuodaoTech/everyone-can-use-english/actions/workflows/deploy-1000h.yml) [![Test Enjoy App](https://github.com/ZuodaoTech/everyone-can-use-english/actions/workflows/test-enjoy-app.yml/badge.svg)](https://",
+        "topics": [],
+        "updated_at": "2026-09-19T11:55:39Z"
+      },
+      "repo": {
+        "description": "\u4eba\u4eba\u90fd\u80fd\u7528\u82f1\u8bed",
+        "forks": 5198,
+        "full_name": "ZuodaoTech/everyone-can-use-english",
+        "language": "TypeScript",
+        "name": "everyone-can-use-english",
+        "owner": "ZuodaoTech",
+        "rank": 12,
+        "stars_today": 31,
+        "total_stars": 37658,
+        "url": "https://github.com/ZuodaoTech/everyone-can-use-english"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.1,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.01
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 31 stars today; score 63.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-28T18:16:32Z",
+        "default_branch": "main",
+        "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights \u2014 built openly, for everyone, forever free.",
+        "fork": false,
+        "full_name": "Open-Dev-Society/OpenStock",
+        "homepage": "https://openstock-ods.vercel.app",
+        "latest_release": null,
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 29,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-18T13:02:27Z",
+        "readme_excerpt": "<p align=\"center\"> <b>New from Open Dev Society:</b> <a href=\"https://github.com/Open-Dev-Society/kitbash\"><b>kitbash</b></a>. Before you build, find out which parts already exist on GitHub. Borrow them, adapt them, or write the rest. </p> <a href=\"https://trendshift.io/repositories/15728?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-15728\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/15728\" alt=\"Open-Dev-So",
+        "topics": [
+          "coderabbit",
+          "inngest",
+          "nextjs",
+          "shadcn-ui",
+          "stock-market",
+          "tailwindcss"
+        ],
+        "updated_at": "2026-09-19T12:00:42Z"
+      },
+      "repo": {
+        "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights \u2014 built openly, for everyone, forever free.",
+        "forks": 2054,
+        "full_name": "Open-Dev-Society/OpenStock",
+        "language": "TypeScript",
+        "name": "OpenStock",
+        "owner": "Open-Dev-Society",
+        "rank": 6,
+        "stars_today": 477,
+        "total_stars": 15699,
+        "url": "https://github.com/Open-Dev-Society/OpenStock"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.21,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 57.51
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 477 stars today; score 57.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-10-13T12:36:07Z",
+        "default_branch": "master",
+        "description": "\u79d1\u6280\u7231\u597d\u8005\u5468\u520a\uff0c\u6bcf\u5468\u4e94\u53d1\u5e03",
+        "fork": false,
+        "full_name": "ruanyf/weekly",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 9125,
+        "primary_language": null,
+        "pushed_at": "2026-09-19T11:38:43Z",
+        "readme_excerpt": "# \u79d1\u6280\u7231\u597d\u8005\u5468\u520a \u8bb0\u5f55\u6bcf\u5468\u503c\u5f97\u5206\u4eab\u7684\u79d1\u6280\u5185\u5bb9\uff0c\u5468\u4e94\u53d1\u5e03\u3002 \u6b22\u8fce\u6295\u7a3f\u6587\u7ae0/\u8f6f\u4ef6/\u8d44\u6e90\uff0c\u8bf7[\u63d0\u4ea4 issue](https://github.com/ruanyf/weekly/issues) \u3002 > P.S. \u8ba8\u8bba\u533a\u7684[\u300a\u8c01\u5728\u62db\u4eba\u300b](https://github.com/ruanyf/weekly/issues/11434)\uff0c\u662f\u4e00\u4e2a\u514d\u8d39\u7684\u7a0b\u5e8f\u5458\u62db\u8058\u5e16\uff0c\u63d0\u4f9b\u5927\u91cf\u5c31\u4e1a\u4fe1\u606f\uff0c\u6b22\u8fce\u53d1\u5e03\u5de5\u4f5c/\u5b9e\u4e60\u5c97\u4f4d\u3002 ## 2026 **\u4e5d\u6708** - \u7b2c 413 \u671f\uff1a[\u518d\u89c1\u4e86\uff0cReact Native](docs/issue-413.md) - \u7b2c 412 \u671f\uff1a[\u7981\u6b62 issue\uff0c\u53ea\u7528 PR](docs/issue-412.md) - \u7b2c 411 \u671f\uff1a[OpenClaw 2.0 \u662f\u4e00\u4e2a\u7f29\u5f71](docs/issue-411.md) **\u516b\u6708** - \u7b2c 410 \u671f\uff1a[\u4f60\u9700\u8981\u77e5\u9053\u7684 AI \u4e09\u79cd\u673a\u5236](docs/issue-410.md) - \u7b2c 409 \u671f\uff1a[\u7a0b\u5e8f\u5458\u7684\u804c\u4e1a\u672a\u6765](docs/issue-409.md) - \u7b2c 408 \u671f\uff1a[\u4f60\u9700\u8981\u77e5\u9053\u7684 AI \u7f13\u5b58\u77e5\u8bc6](docs/issue-408.md) - ",
+        "topics": [],
+        "updated_at": "2026-09-19T11:55:48Z"
+      },
+      "repo": {
+        "description": "\u79d1\u6280\u7231\u597d\u8005\u5468\u520a\uff0c\u6bcf\u5468\u4e94\u53d1\u5e03",
+        "forks": 4419,
+        "full_name": "ruanyf/weekly",
+        "language": null,
+        "name": "weekly",
+        "owner": "ruanyf",
+        "rank": 11,
+        "stars_today": 144,
+        "total_stars": 102963,
+        "url": "https://github.com/ruanyf/weekly"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.56,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 52.36
+      },
+      "tags": [
+        "AI Workflow"
+      ],
+      "verdict": "AI Workflow: Unknown project with 144 stars today; score 52.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-09-29T18:22:05Z",
+        "default_branch": "master",
+        "description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3",
+        "fork": false,
+        "full_name": "cloudflare/quiche",
+        "homepage": "https://docs.quic.tech/quiche/",
+        "latest_release": "0.30.0",
+        "license_spdx": "BSD-2-Clause",
+        "open_issues": 361,
+        "primary_language": "Rust",
+        "pushed_at": "2026-09-18T10:10:05Z",
+        "readme_excerpt": "![quiche](quiche.svg) [![crates.io](https://img.shields.io/crates/v/quiche.svg)](https://crates.io/crates/quiche) [![docs.rs](https://docs.rs/quiche/badge.svg)](https://docs.rs/quiche) [![license](https://img.shields.io/github/license/cloudflare/quiche.svg)](https://opensource.org/licenses/BSD-2-Clause) ![build](https://img.shields.io/github/actions/workflow/status/cloudflare/quiche/stable.yml?branch=master) [quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by ",
+        "topics": [
+          "http3",
+          "network-programming",
+          "protocol",
+          "quic",
+          "rust"
+        ],
+        "updated_at": "2026-09-19T11:58:09Z"
+      },
+      "repo": {
+        "description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3",
+        "forks": 1098,
+        "full_name": "cloudflare/quiche",
+        "language": "Rust",
+        "name": "quiche",
+        "owner": "cloudflare",
+        "rank": 9,
+        "stars_today": 5,
+        "total_stars": 11864,
+        "url": "https://github.com/cloudflare/quiche"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.46,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 51.52
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Rust project with 5 stars today; score 51.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-23T20:11:54Z",
+        "default_branch": "main",
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "fork": false,
+        "full_name": "anthropics/knowledge-work-plugins",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 88,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-19T07:30:50Z",
+        "readme_excerpt": "# Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for [Claude Cowork](https://claude.com/product/cowork), also compatible with [Claude Code](https://claude.com/product/claude-code). ## Why Plugins Cowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose ",
+        "topics": [],
+        "updated_at": "2026-09-19T12:00:15Z"
+      },
+      "repo": {
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "forks": 2979,
+        "full_name": "anthropics/knowledge-work-plugins",
+        "language": "Python",
+        "name": "knowledge-work-plugins",
+        "owner": "anthropics",
+        "rank": 13,
+        "stars_today": 299,
+        "total_stars": 24976,
+        "url": "https://github.com/anthropics/knowledge-work-plugins"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.71,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 49.76
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 299 stars today; score 49.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/trycua",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+        "forks": 1652,
+        "full_name": "sponsors/trycua",
+        "language": "HTML",
+        "name": "trycua",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 383,
+        "total_stars": 23873,
+        "url": "https://github.com/sponsors/trycua"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.53,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 38.18
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: HTML project with 383 stars today; score 38.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/asciimoo",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Your own search engine",
+        "forks": 212,
+        "full_name": "sponsors/asciimoo",
+        "language": "Go",
+        "name": "asciimoo",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 889,
+        "total_stars": 5084,
+        "url": "https://github.com/sponsors/asciimoo"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.79,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.96,
+        "technical_quality": 3.5,
+        "total": 19.95
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Go project with 889 stars today; score 19.9/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-09-19",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is higgsfield-ai/higgsfield."
+}
