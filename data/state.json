@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-09-19",
+  "last_run": "2026-09-20",
   "repos": {
     "3b1b/manim": {
       "first_seen": "2026-08-12",
@@ -45,6 +45,15 @@
       "last_sent": "2026-09-05",
       "last_stars_today": 497,
       "last_total_stars": 3617
+    },
+    "BuilderIO/agent-native": {
+      "first_seen": "2026-09-20",
+      "last_rank": 2,
+      "last_score": 67.79,
+      "last_seen": "2026-09-20",
+      "last_sent": "2026-09-20",
+      "last_stars_today": 89,
+      "last_total_stars": 4984
     },
     "ByteByteGoHq/system-design-101": {
       "first_seen": "2026-09-03",
@@ -201,12 +210,12 @@
     },
     "Open-Dev-Society/OpenStock": {
       "first_seen": "2026-09-19",
-      "last_rank": 6,
-      "last_score": 57.51,
-      "last_seen": "2026-09-19",
+      "last_rank": 10,
+      "last_score": 51.66,
+      "last_seen": "2026-09-20",
       "last_sent": "2026-09-19",
-      "last_stars_today": 477,
-      "last_total_stars": 15699
+      "last_stars_today": 472,
+      "last_total_stars": 16460
     },
     "OpenBMB/VoxCPM": {
       "first_seen": "2026-09-14",
@@ -399,12 +408,12 @@
     },
     "addyosmani/agent-skills": {
       "first_seen": "2026-06-10",
-      "last_rank": 3,
-      "last_score": 73.9,
-      "last_seen": "2026-09-19",
+      "last_rank": 13,
+      "last_score": 72.05,
+      "last_seen": "2026-09-20",
       "last_sent": "2026-09-15",
-      "last_stars_today": 675,
-      "last_total_stars": 96668
+      "last_stars_today": 556,
+      "last_total_stars": 97400
     },
     "ahmedkhaleel2004/gitdiagram": {
       "first_seen": "2026-09-18",
@@ -453,12 +462,12 @@
     },
     "anthropics/claude-code": {
       "first_seen": "2026-08-23",
-      "last_rank": 5,
-      "last_score": 67.66,
-      "last_seen": "2026-09-19",
+      "last_rank": 7,
+      "last_score": 67.42,
+      "last_seen": "2026-09-20",
       "last_sent": "2026-09-16",
-      "last_stars_today": 444,
-      "last_total_stars": 146517
+      "last_stars_today": 483,
+      "last_total_stars": 146913
     },
     "anthropics/claude-plugins-community": {
       "first_seen": "2026-08-24",
@@ -477,6 +486,15 @@
       "last_sent": "2026-08-26",
       "last_stars_today": 356,
       "last_total_stars": 35214
+    },
+    "anthropics/financial-services": {
+      "first_seen": "2026-09-20",
+      "last_rank": 5,
+      "last_score": 74.31,
+      "last_seen": "2026-09-20",
+      "last_sent": "2026-09-20",
+      "last_stars_today": 236,
+      "last_total_stars": 35203
     },
     "anthropics/knowledge-work-plugins": {
       "first_seen": "2026-09-16",
@@ -669,12 +687,12 @@
     },
     "cloudflare/security-audit-skill": {
       "first_seen": "2026-09-16",
-      "last_rank": 1,
-      "last_score": 72.55,
-      "last_seen": "2026-09-19",
+      "last_rank": 3,
+      "last_score": 72.26,
+      "last_seen": "2026-09-20",
       "last_sent": "2026-09-16",
-      "last_stars_today": 3006,
-      "last_total_stars": 14984
+      "last_stars_today": 3155,
+      "last_total_stars": 17437
     },
     "clshortfuse/renodx": {
       "first_seen": "2026-09-04",
@@ -687,12 +705,12 @@
     },
     "coder/coder": {
       "first_seen": "2026-09-17",
-      "last_rank": 4,
-      "last_score": 65.1,
-      "last_seen": "2026-09-19",
+      "last_rank": 11,
+      "last_score": 63.83,
+      "last_seen": "2026-09-20",
       "last_sent": "2026-09-17",
-      "last_stars_today": 478,
-      "last_total_stars": 15439
+      "last_stars_today": 402,
+      "last_total_stars": 15818
     },
     "corsairdev/corsair": {
       "first_seen": "2026-08-30",
@@ -747,15 +765,6 @@
       "last_sent": "2026-09-09",
       "last_stars_today": 97,
       "last_total_stars": 14841
-    },
-    "elder-plinius/OBLITERATUS": {
-      "first_seen": "2026-08-22",
-      "last_rank": 15,
-      "last_score": 55.04,
-      "last_seen": "2026-08-22",
-      "last_sent": "2026-08-22",
-      "last_stars_today": 63,
-      "last_total_stars": 7875
     },
     "every-app/open-seo": {
       "first_seen": "2026-08-30",
@@ -829,15 +838,6 @@
       "last_stars_today": 502,
       "last_total_stars": 6587
     },
-    "harry0703/MoneyPrinterTurbo": {
-      "first_seen": "2026-08-18",
-      "last_rank": 2,
-      "last_score": 66.01,
-      "last_seen": "2026-08-22",
-      "last_sent": "2026-08-18",
-      "last_stars_today": 1201,
-      "last_total_stars": 114186
-    },
     "heygen-com/hyperframes": {
       "first_seen": "2026-09-07",
       "last_rank": 5,
@@ -849,12 +849,12 @@
     },
     "higgsfield-ai/higgsfield": {
       "first_seen": "2026-09-19",
-      "last_rank": 7,
-      "last_score": 72.89,
-      "last_seen": "2026-09-19",
+      "last_rank": 9,
+      "last_score": 67.02,
+      "last_seen": "2026-09-20",
       "last_sent": "2026-09-19",
-      "last_stars_today": 325,
-      "last_total_stars": 4677
+      "last_stars_today": 196,
+      "last_total_stars": 5150
     },
     "huggingface/transformers": {
       "first_seen": "2026-09-13",
@@ -1072,14 +1072,14 @@
       "last_stars_today": 886,
       "last_total_stars": 181276
     },
-    "microsoft/onnxruntime": {
-      "first_seen": "2026-08-22",
-      "last_rank": 16,
-      "last_score": 71.75,
-      "last_seen": "2026-08-22",
-      "last_sent": "2026-08-22",
-      "last_stars_today": 5,
-      "last_total_stars": 21531
+    "mihail911/modern-software-dev-assignments": {
+      "first_seen": "2026-09-20",
+      "last_rank": 8,
+      "last_score": 49.44,
+      "last_seen": "2026-09-20",
+      "last_sent": "2026-09-20",
+      "last_stars_today": 174,
+      "last_total_stars": 4420
     },
     "modular/modular": {
       "first_seen": "2026-08-21",
@@ -1209,6 +1209,15 @@
       "last_sent": "2026-09-15",
       "last_stars_today": 1091,
       "last_total_stars": 4472
+    },
+    "paperless-ngx/paperless-ngx": {
+      "first_seen": "2026-09-20",
+      "last_rank": 6,
+      "last_score": 67.12,
+      "last_seen": "2026-09-20",
+      "last_sent": "2026-09-20",
+      "last_stars_today": 32,
+      "last_total_stars": 45360
     },
     "pascalorg/editor": {
       "first_seen": "2026-09-07",
@@ -1407,15 +1416,6 @@
       "last_stars_today": 460,
       "last_total_stars": 87290
     },
-    "sponsors/TryGhost": {
-      "first_seen": "2026-08-22",
-      "last_rank": 11,
-      "last_score": 21.55,
-      "last_seen": "2026-08-22",
-      "last_sent": "2026-08-22",
-      "last_stars_today": 32,
-      "last_total_stars": 54980
-    },
     "sponsors/VoltAgent": {
       "first_seen": "2026-08-24",
       "last_rank": 12,
@@ -1445,12 +1445,12 @@
     },
     "sponsors/affaan-m": {
       "first_seen": "2026-06-24",
-      "last_rank": 4,
-      "last_score": 38.8,
-      "last_seen": "2026-09-18",
+      "last_rank": 1,
+      "last_score": 39.24,
+      "last_seen": "2026-09-20",
       "last_sent": "2026-09-16",
-      "last_stars_today": 965,
-      "last_total_stars": 261559
+      "last_stars_today": 1012,
+      "last_total_stars": 263281
     },
     "sponsors/anomalyco": {
       "first_seen": "2026-09-04",
@@ -1613,15 +1613,6 @@
       "last_stars_today": 356,
       "last_total_stars": 53360
     },
-    "sponsors/santifer": {
-      "first_seen": "2026-08-18",
-      "last_rank": 7,
-      "last_score": 47.69,
-      "last_seen": "2026-08-22",
-      "last_sent": "2026-08-18",
-      "last_stars_today": 921,
-      "last_total_stars": 67607
-    },
     "sponsors/supabase": {
       "first_seen": "2026-09-16",
       "last_rank": 14,
@@ -1660,12 +1651,12 @@
     },
     "sponsors/trycua": {
       "first_seen": "2026-09-19",
-      "last_rank": 2,
-      "last_score": 38.18,
-      "last_seen": "2026-09-19",
+      "last_rank": 4,
+      "last_score": 33.91,
+      "last_seen": "2026-09-20",
       "last_sent": "2026-09-19",
-      "last_stars_today": 383,
-      "last_total_stars": 23873
+      "last_stars_today": 859,
+      "last_total_stars": 24885
     },
     "sponsors/unclecode": {
       "first_seen": "2026-08-30",
@@ -1774,6 +1765,15 @@
       "last_sent": "2026-09-09",
       "last_stars_today": 624,
       "last_total_stars": 2603
+    },
+    "vercel-labs/json-render": {
+      "first_seen": "2026-09-20",
+      "last_rank": 12,
+      "last_score": 52.63,
+      "last_seen": "2026-09-20",
+      "last_sent": "2026-09-20",
+      "last_stars_today": 585,
+      "last_total_stars": 16996
     },
     "vercel-labs/portless": {
       "first_seen": "2026-09-02",

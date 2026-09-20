@@ -1,0 +1,29 @@
+GitHub Trending: AI workflow signal - 2026-09-20
+
+Today leans toward AI workflow signal; the strongest pick is anthropics/financial-services.
+
+Top picks
+1. anthropics/financial-services - 74.3/100
+   https://github.com/anthropics/financial-services
+   AI Workflow, DevTools: Python project with 236 stars today; score 74.3/100.
+2. BuilderIO/agent-native - 67.8/100
+   https://github.com/BuilderIO/agent-native
+   AI Workflow, DevTools: TypeScript project with 89 stars today; score 67.8/100.
+3. paperless-ngx/paperless-ngx - 67.1/100
+   https://github.com/paperless-ngx/paperless-ngx
+   AI Workflow, DevTools: Python project with 32 stars today; score 67.1/100.
+4. vercel-labs/json-render - 52.6/100
+   https://github.com/vercel-labs/json-render
+   DevTools, Try Today: TypeScript project with 585 stars today; score 52.6/100.
+5. mihail911/modern-software-dev-assignments - 49.4/100
+   https://github.com/mihail911/modern-software-dev-assignments
+   DevTools: Python project with 174 stars today; score 49.4/100.
+
+Full reviewed list
+- anthropics/financial-services: 74.3/100 [AI Workflow, DevTools, Deep Dive] AI Workflow, DevTools: Python project with 236 stars today; score 74.3/100.
+- BuilderIO/agent-native: 67.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 89 stars today; score 67.8/100.
+- paperless-ngx/paperless-ngx: 67.1/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 32 stars today; score 67.1/100.
+- vercel-labs/json-render: 52.6/100 [DevTools, Try Today] DevTools, Try Today: TypeScript project with 585 stars today; score 52.6/100.
+- mihail911/modern-software-dev-assignments: 49.4/100 [DevTools] DevTools: Python project with 174 stars today; score 49.4/100.
+
+Generated for 2026-09-20 from GitHub Trending daily.

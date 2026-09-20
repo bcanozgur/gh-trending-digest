@@ -1,0 +1,966 @@
+{
+  "date": "2026-09-20",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-23T19:24:50Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "anthropics/financial-services",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 209,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-18T23:48:56Z",
+        "readme_excerpt": "# Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most \u2014 investment banking, equity research, private equity, and wealth management. Everything here is available **two ways from one source**: install it as a [Claude Cowork](https://claude.com/product/cowork) plugin, or deploy it through the [Claude Managed Agents API](https://docs.claude.com/en/api/managed-agents) behind your own workflow engine. Same system prompt, same ski",
+        "topics": [],
+        "updated_at": "2026-09-20T12:34:00Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 5236,
+        "full_name": "anthropics/financial-services",
+        "language": "Python",
+        "name": "financial-services",
+        "owner": "anthropics",
+        "rank": 5,
+        "stars_today": 236,
+        "total_stars": 35203,
+        "url": "https://github.com/anthropics/financial-services"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 6.16,
+        "momentum": 3.65,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 74.31
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 236 stars today; score 74.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-12T14:57:10Z",
+        "default_branch": "main",
+        "description": "A framework for building agentic apps",
+        "fork": false,
+        "full_name": "BuilderIO/agent-native",
+        "homepage": "https://www.agent-native.com",
+        "latest_release": "@agent-native/toolkit@0.20.4",
+        "license_spdx": null,
+        "open_issues": 77,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-20T12:23:38Z",
+        "readme_excerpt": "<picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F5476444e54ee4a958966c90caca468e3\" /> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7628600bc10a4940b78f42c5df7628b0\" /> <img alt=\"Agent-Native: The agentic application framework\" src=\"https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7628600bc10a4940b78f42c5df7628b0\" /> </pi",
+        "topics": [
+          "agent-native",
+          "agents",
+          "ai",
+          "react",
+          "typescript"
+        ],
+        "updated_at": "2026-09-20T12:32:22Z"
+      },
+      "repo": {
+        "description": "A framework for building agentic apps",
+        "forks": 469,
+        "full_name": "BuilderIO/agent-native",
+        "language": "TypeScript",
+        "name": "agent-native",
+        "owner": "BuilderIO",
+        "rank": 2,
+        "stars_today": 89,
+        "total_stars": 4984,
+        "url": "https://github.com/BuilderIO/agent-native"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.69,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 67.79
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 89 stars today; score 67.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-02-12T21:56:52Z",
+        "default_branch": "dev",
+        "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+        "fork": false,
+        "full_name": "paperless-ngx/paperless-ngx",
+        "homepage": "http://docs.paperless-ngx.com/",
+        "latest_release": "v3.2.0",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 10,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-20T12:26:50Z",
+        "readme_excerpt": "[![ci](https://github.com/paperless-ngx/paperless-ngx/workflows/ci/badge.svg)](https://github.com/paperless-ngx/paperless-ngx/actions) [![Crowdin](https://badges.crowdin.net/paperless-ngx/localized.svg)](https://crowdin.com/project/paperless-ngx) [![Documentation Status](https://img.shields.io/github/deployments/paperless-ngx/paperless-ngx/github-pages?label=docs)](https://docs.paperless-ngx.com) [![codecov](https://codecov.io/gh/paperless-ngx/paperless-ngx/branch/main/graph/badge.svg?token=VK6O",
+        "topics": [
+          "ai",
+          "angular",
+          "archiving",
+          "django",
+          "dms",
+          "document-management",
+          "document-management-system",
+          "llm",
+          "machine-learning",
+          "ocr",
+          "optical-character-recognition",
+          "pdf"
+        ],
+        "updated_at": "2026-09-20T12:32:35Z"
+      },
+      "repo": {
+        "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+        "forks": 3133,
+        "full_name": "paperless-ngx/paperless-ngx",
+        "language": "Python",
+        "name": "paperless-ngx",
+        "owner": "paperless-ngx",
+        "rank": 6,
+        "stars_today": 32,
+        "total_stars": 45360,
+        "url": "https://github.com/paperless-ngx/paperless-ngx"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.97,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 67.12
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 32 stars today; score 67.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-14T17:22:39Z",
+        "default_branch": "main",
+        "description": "The Generative UI framework",
+        "fork": false,
+        "full_name": "vercel-labs/json-render",
+        "homepage": "https://json-render.dev",
+        "latest_release": "v0.21.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 103,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-18T18:53:03Z",
+        "readme_excerpt": "# json-render **The Generative UI framework.** Generate dynamic, personalized UIs from prompts without sacrificing reliability. Predefined components and actions for safe, predictable output. <p> <a href=\"https://vercel.com/labs#labs-products\"><img alt=\"Vercel Labs Product\" src=\"https://img.shields.io/badge/LABS-PRODUCT-0a0a0a.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000000\" height=\"28\"></a> <a href=\"https://www.npmjs.com/package/@json-render/core\"><img alt=\"npm version: @json-rend",
+        "topics": [],
+        "updated_at": "2026-09-20T12:34:07Z"
+      },
+      "repo": {
+        "description": "The Generative UI framework",
+        "forks": 905,
+        "full_name": "vercel-labs/json-render",
+        "language": "TypeScript",
+        "name": "json-render",
+        "owner": "vercel-labs",
+        "rank": 12,
+        "stars_today": 585,
+        "total_stars": 16996,
+        "url": "https://github.com/vercel-labs/json-render"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.57,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 52.63
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 585 stars today; score 52.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-08-07T07:14:35Z",
+        "default_branch": "master",
+        "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+        "fork": false,
+        "full_name": "mihail911/modern-software-dev-assignments",
+        "homepage": "https://themodernsoftware.dev",
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 31,
+        "primary_language": "Python",
+        "pushed_at": "2025-11-10T17:06:44Z",
+        "readme_excerpt": "# Assignments for CS146S: The Modern Software Developer This is the home of the assignments for [CS146S: The Modern Software Developer](https://themodernsoftware.dev), taught at Stanford University fall 2025. ## Repo Setup These steps work with Python 3.12. 1. Install Anaconda - Download and install: [Anaconda Individual Edition](https://www.anaconda.com/download) - Open a new terminal so `conda` is on your `PATH`. 2. Create and activate a Conda environment (Python 3.12) ```bash conda create -n ",
+        "topics": [],
+        "updated_at": "2026-09-20T12:31:39Z"
+      },
+      "repo": {
+        "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+        "forks": 1005,
+        "full_name": "mihail911/modern-software-dev-assignments",
+        "language": "Python",
+        "name": "modern-software-dev-assignments",
+        "owner": "mihail911",
+        "rank": 8,
+        "stars_today": 174,
+        "total_stars": 4420,
+        "url": "https://github.com/mihail911/modern-software-dev-assignments"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.06,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 3.85,
+        "strategic_relevance": 4.27,
+        "technical_quality": 9.1,
+        "total": 49.44
+      },
+      "tags": [
+        "DevTools"
+      ],
+      "verdict": "DevTools: Python project with 174 stars today; score 49.4/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-23T19:24:50Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "anthropics/financial-services",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 209,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-18T23:48:56Z",
+        "readme_excerpt": "# Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most \u2014 investment banking, equity research, private equity, and wealth management. Everything here is available **two ways from one source**: install it as a [Claude Cowork](https://claude.com/product/cowork) plugin, or deploy it through the [Claude Managed Agents API](https://docs.claude.com/en/api/managed-agents) behind your own workflow engine. Same system prompt, same ski",
+        "topics": [],
+        "updated_at": "2026-09-20T12:34:00Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 5236,
+        "full_name": "anthropics/financial-services",
+        "language": "Python",
+        "name": "financial-services",
+        "owner": "anthropics",
+        "rank": 5,
+        "stars_today": 236,
+        "total_stars": 35203,
+        "url": "https://github.com/anthropics/financial-services"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 6.16,
+        "momentum": 3.65,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 74.31
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 236 stars today; score 74.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-18T14:08:44Z",
+        "default_branch": "main",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "fork": false,
+        "full_name": "cloudflare/security-audit-skill",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 44,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-14T19:29:02Z",
+        "readme_excerpt": "# security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting. This is the skill that seeded Cloudflare's vulnerability discovery harness, described in [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness). The harness grew into a multi-stage, f",
+        "topics": [],
+        "updated_at": "2026-09-20T12:34:05Z"
+      },
+      "repo": {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "forks": 960,
+        "full_name": "cloudflare/security-audit-skill",
+        "language": "JavaScript",
+        "name": "security-audit-skill",
+        "owner": "cloudflare",
+        "rank": 3,
+        "stars_today": 3155,
+        "total_stars": 17437,
+        "url": "https://github.com/cloudflare/security-audit-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.71,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 72.26
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 3155 stars today; score 72.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-15T20:20:26Z",
+        "default_branch": "main",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "fork": false,
+        "full_name": "addyosmani/agent-skills",
+        "homepage": "https://skills.addy.ie",
+        "latest_release": "0.6.10",
+        "license_spdx": "MIT",
+        "open_issues": 112,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-18T03:32:22Z",
+        "readme_excerpt": "# Agent Skills **Production-grade engineering skills for AI coding agents.** Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. <a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" wid",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-09-20T12:24:13Z"
+      },
+      "repo": {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "forks": 10275,
+        "full_name": "addyosmani/agent-skills",
+        "language": "JavaScript",
+        "name": "agent-skills",
+        "owner": "addyosmani",
+        "rank": 13,
+        "stars_today": 556,
+        "total_stars": 97400,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.35,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 72.05
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 556 stars today; score 72.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-12T14:57:10Z",
+        "default_branch": "main",
+        "description": "A framework for building agentic apps",
+        "fork": false,
+        "full_name": "BuilderIO/agent-native",
+        "homepage": "https://www.agent-native.com",
+        "latest_release": "@agent-native/toolkit@0.20.4",
+        "license_spdx": null,
+        "open_issues": 77,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-20T12:23:38Z",
+        "readme_excerpt": "<picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F5476444e54ee4a958966c90caca468e3\" /> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7628600bc10a4940b78f42c5df7628b0\" /> <img alt=\"Agent-Native: The agentic application framework\" src=\"https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7628600bc10a4940b78f42c5df7628b0\" /> </pi",
+        "topics": [
+          "agent-native",
+          "agents",
+          "ai",
+          "react",
+          "typescript"
+        ],
+        "updated_at": "2026-09-20T12:32:22Z"
+      },
+      "repo": {
+        "description": "A framework for building agentic apps",
+        "forks": 469,
+        "full_name": "BuilderIO/agent-native",
+        "language": "TypeScript",
+        "name": "agent-native",
+        "owner": "BuilderIO",
+        "rank": 2,
+        "stars_today": 89,
+        "total_stars": 4984,
+        "url": "https://github.com/BuilderIO/agent-native"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.69,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 67.79
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 89 stars today; score 67.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-02-22T17:41:21Z",
+        "default_branch": "main",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "fork": false,
+        "full_name": "anthropics/claude-code",
+        "homepage": "https://code.claude.com/docs/en/overview",
+        "latest_release": "v2.1.278",
+        "license_spdx": null,
+        "open_issues": 12236,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-20T08:23:44Z",
+        "readme_excerpt": "# Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your t",
+        "topics": [],
+        "updated_at": "2026-09-20T12:34:14Z"
+      },
+      "repo": {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "forks": 23989,
+        "full_name": "anthropics/claude-code",
+        "language": "TypeScript",
+        "name": "claude-code",
+        "owner": "anthropics",
+        "rank": 7,
+        "stars_today": 483,
+        "total_stars": 146913,
+        "url": "https://github.com/anthropics/claude-code"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.02,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 67.42
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 483 stars today; score 67.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-02-12T21:56:52Z",
+        "default_branch": "dev",
+        "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+        "fork": false,
+        "full_name": "paperless-ngx/paperless-ngx",
+        "homepage": "http://docs.paperless-ngx.com/",
+        "latest_release": "v3.2.0",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 10,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-20T12:26:50Z",
+        "readme_excerpt": "[![ci](https://github.com/paperless-ngx/paperless-ngx/workflows/ci/badge.svg)](https://github.com/paperless-ngx/paperless-ngx/actions) [![Crowdin](https://badges.crowdin.net/paperless-ngx/localized.svg)](https://crowdin.com/project/paperless-ngx) [![Documentation Status](https://img.shields.io/github/deployments/paperless-ngx/paperless-ngx/github-pages?label=docs)](https://docs.paperless-ngx.com) [![codecov](https://codecov.io/gh/paperless-ngx/paperless-ngx/branch/main/graph/badge.svg?token=VK6O",
+        "topics": [
+          "ai",
+          "angular",
+          "archiving",
+          "django",
+          "dms",
+          "document-management",
+          "document-management-system",
+          "llm",
+          "machine-learning",
+          "ocr",
+          "optical-character-recognition",
+          "pdf"
+        ],
+        "updated_at": "2026-09-20T12:32:35Z"
+      },
+      "repo": {
+        "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+        "forks": 3133,
+        "full_name": "paperless-ngx/paperless-ngx",
+        "language": "Python",
+        "name": "paperless-ngx",
+        "owner": "paperless-ngx",
+        "rank": 6,
+        "stars_today": 32,
+        "total_stars": 45360,
+        "url": "https://github.com/paperless-ngx/paperless-ngx"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.97,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 67.12
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 32 stars today; score 67.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-05-26T22:47:43Z",
+        "default_branch": "main",
+        "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+        "fork": false,
+        "full_name": "higgsfield-ai/higgsfield",
+        "homepage": null,
+        "latest_release": "v0.0.4-rc",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 13,
+        "primary_language": "Jupyter Notebook",
+        "pushed_at": "2026-09-14T02:46:36Z",
+        "readme_excerpt": "# higgsfield - multi node training without crying Higgsfield is an open-source, fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters, such as Large Language Models (LLMs). [![PyPI version](https://badge.fury.io/py/higgsfield.svg)](https://badge.fury.io/py/higgsfield) ![architecture](https://raw.githubusercontent.com/higgsfield/higgsfield/main/docs/static/architecture.png) Higgsfield serves as a G",
+        "topics": [
+          "cluster-management",
+          "deep-learning",
+          "distributed",
+          "llama",
+          "llama2",
+          "llm",
+          "machine-learning",
+          "mlops",
+          "pytorch"
+        ],
+        "updated_at": "2026-09-20T12:32:50Z"
+      },
+      "repo": {
+        "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+        "forks": 931,
+        "full_name": "higgsfield-ai/higgsfield",
+        "language": "Jupyter Notebook",
+        "name": "higgsfield",
+        "owner": "higgsfield-ai",
+        "rank": 9,
+        "stars_today": 196,
+        "total_stars": 5150,
+        "url": "https://github.com/higgsfield-ai/higgsfield"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.97,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 67.02
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Jupyter Notebook project with 196 stars today; score 67.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2021-12-22T06:08:52Z",
+        "default_branch": "main",
+        "description": "Secure environments for developers and their agents",
+        "fork": false,
+        "full_name": "coder/coder",
+        "homepage": "https://coder.com",
+        "latest_release": "v2.36.6",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 1047,
+        "primary_language": "Go",
+        "pushed_at": "2026-09-20T12:28:47Z",
+        "readme_excerpt": "<!-- markdownlint-disable MD041 --> <div align=\"center\"> <a href=\"https://coder.com#gh-light-mode-only\"> <img src=\"./docs/images/logo-black.png\" alt=\"Coder Logo Light\" style=\"width: 128px\"> </a> <a href=\"https://coder.com#gh-dark-mode-only\"> <img src=\"./docs/images/logo-white.png\" alt=\"Coder Logo Dark\" style=\"width: 128px\"> </a> <h1> Self-Hosted Cloud Development Environments and AI Agents </h1> <a href=\"https://coder.com#gh-light-mode-only\"> <img src=\"./docs/images/banner-black.png\" alt=\"Coder ",
+        "topics": [
+          "agents",
+          "dev-tools",
+          "development-environment",
+          "go",
+          "golang",
+          "ide",
+          "jetbrains",
+          "remote-development",
+          "terraform",
+          "vscode"
+        ],
+        "updated_at": "2026-09-20T12:33:35Z"
+      },
+      "repo": {
+        "description": "Secure environments for developers and their agents",
+        "forks": 1533,
+        "full_name": "coder/coder",
+        "language": "Go",
+        "name": "coder",
+        "owner": "coder",
+        "rank": 11,
+        "stars_today": 402,
+        "total_stars": 15818,
+        "url": "https://github.com/coder/coder"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.23,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 63.83
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 402 stars today; score 63.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-14T17:22:39Z",
+        "default_branch": "main",
+        "description": "The Generative UI framework",
+        "fork": false,
+        "full_name": "vercel-labs/json-render",
+        "homepage": "https://json-render.dev",
+        "latest_release": "v0.21.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 103,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-18T18:53:03Z",
+        "readme_excerpt": "# json-render **The Generative UI framework.** Generate dynamic, personalized UIs from prompts without sacrificing reliability. Predefined components and actions for safe, predictable output. <p> <a href=\"https://vercel.com/labs#labs-products\"><img alt=\"Vercel Labs Product\" src=\"https://img.shields.io/badge/LABS-PRODUCT-0a0a0a.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000000\" height=\"28\"></a> <a href=\"https://www.npmjs.com/package/@json-render/core\"><img alt=\"npm version: @json-rend",
+        "topics": [],
+        "updated_at": "2026-09-20T12:34:07Z"
+      },
+      "repo": {
+        "description": "The Generative UI framework",
+        "forks": 905,
+        "full_name": "vercel-labs/json-render",
+        "language": "TypeScript",
+        "name": "json-render",
+        "owner": "vercel-labs",
+        "rank": 12,
+        "stars_today": 585,
+        "total_stars": 16996,
+        "url": "https://github.com/vercel-labs/json-render"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.57,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 52.63
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 585 stars today; score 52.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-28T18:16:32Z",
+        "default_branch": "main",
+        "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights \u2014 built openly, for everyone, forever free.",
+        "fork": false,
+        "full_name": "Open-Dev-Society/OpenStock",
+        "homepage": "https://openstock-ods.vercel.app",
+        "latest_release": null,
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 29,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-19T13:13:19Z",
+        "readme_excerpt": "<p align=\"center\"> <b>New from Open Dev Society:</b> <a href=\"https://github.com/Open-Dev-Society/kitbash\"><b>kitbash</b></a>. Before you build, find out which parts already exist on GitHub. Borrow them, adapt them, or write the rest. </p> <p align=\"center\"> <a href=\"https://www.star-history.com/open-dev-society/openstock\"> <picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=Open-Dev-Society/OpenStock&type=rank&theme=dark\" /><source media=\"(prefe",
+        "topics": [
+          "coderabbit",
+          "inngest",
+          "nextjs",
+          "shadcn-ui",
+          "stock-market",
+          "tailwindcss"
+        ],
+        "updated_at": "2026-09-20T12:33:00Z"
+      },
+      "repo": {
+        "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights \u2014 built openly, for everyone, forever free.",
+        "forks": 2115,
+        "full_name": "Open-Dev-Society/OpenStock",
+        "language": "TypeScript",
+        "name": "OpenStock",
+        "owner": "Open-Dev-Society",
+        "rank": 10,
+        "stars_today": 472,
+        "total_stars": 16460,
+        "url": "https://github.com/Open-Dev-Society/OpenStock"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.56,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 51.66
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 472 stars today; score 51.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-08-07T07:14:35Z",
+        "default_branch": "master",
+        "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+        "fork": false,
+        "full_name": "mihail911/modern-software-dev-assignments",
+        "homepage": "https://themodernsoftware.dev",
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 31,
+        "primary_language": "Python",
+        "pushed_at": "2025-11-10T17:06:44Z",
+        "readme_excerpt": "# Assignments for CS146S: The Modern Software Developer This is the home of the assignments for [CS146S: The Modern Software Developer](https://themodernsoftware.dev), taught at Stanford University fall 2025. ## Repo Setup These steps work with Python 3.12. 1. Install Anaconda - Download and install: [Anaconda Individual Edition](https://www.anaconda.com/download) - Open a new terminal so `conda` is on your `PATH`. 2. Create and activate a Conda environment (Python 3.12) ```bash conda create -n ",
+        "topics": [],
+        "updated_at": "2026-09-20T12:31:39Z"
+      },
+      "repo": {
+        "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+        "forks": 1005,
+        "full_name": "mihail911/modern-software-dev-assignments",
+        "language": "Python",
+        "name": "modern-software-dev-assignments",
+        "owner": "mihail911",
+        "rank": 8,
+        "stars_today": 174,
+        "total_stars": 4420,
+        "url": "https://github.com/mihail911/modern-software-dev-assignments"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.06,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 3.85,
+        "strategic_relevance": 4.27,
+        "technical_quality": 9.1,
+        "total": 49.44
+      },
+      "tags": [
+        "DevTools"
+      ],
+      "verdict": "DevTools: Python project with 174 stars today; score 49.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 39396,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 1,
+        "stars_today": 1012,
+        "total_stars": 263281,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.29,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 39.24
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 1012 stars today; score 39.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/trycua",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+        "forks": 1711,
+        "full_name": "sponsors/trycua",
+        "language": "HTML",
+        "name": "trycua",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 859,
+        "total_stars": 24885,
+        "url": "https://github.com/sponsors/trycua"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.46,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 33.91
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: HTML project with 859 stars today; score 33.9/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-09-20",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is anthropics/financial-services."
+}
