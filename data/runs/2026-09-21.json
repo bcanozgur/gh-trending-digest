@@ -1,0 +1,870 @@
+{
+  "date": "2026-09-21",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-07-08T04:51:15Z",
+        "default_branch": "main",
+        "description": "AutoClip : AI-powered video clipping and highlight generation \u00b7 \u4e00\u6b3e\u667a\u80fd\u9ad8\u5149\u63d0\u53d6\u4e0e\u526a\u8f91\u7684\u4e8c\u521b\u5de5\u5177",
+        "fork": false,
+        "full_name": "zhouxiaoka/autoclip",
+        "homepage": "https://zhouxiaoka.github.io/autoclip_intro/",
+        "latest_release": "v1.3.0",
+        "license_spdx": "MIT",
+        "open_issues": 12,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-20T19:59:01Z",
+        "readme_excerpt": "# AutoClip - \u89c6\u9891\u9ad8\u5149\u5207\u7247\u81ea\u52a8\u5316\u5de5\u5177 \u652f\u6301YouTube/B\u7ad9\u89c6\u9891\u4e0b\u8f7d\u3001\u81ea\u52a8\u5207\u7247\u3001\u667a\u80fd\u5408\u96c6\u751f\u6210 [![Python](https://img.shields.io/badge/Python-3.8+-green?style=flat&logo=python)](https://python.org) [![React](https://img.shields.io/badge/React-18+-blue?style=flat&logo=react)](https://reactjs.org) [![FastAPI](https://img.shields.io/badge/FastAPI-Latest-red?style=flat&logo=fastapi)](https://fastapi.tiangolo.com) [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue?style=flat&logo=typescript)](https://www.typescriptlang.org) [!",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-tools",
+          "ai-video",
+          "ai-video-editor",
+          "auto",
+          "auto-highlight",
+          "highlight",
+          "llm",
+          "video",
+          "video-editing",
+          "video-processing",
+          "videos"
+        ],
+        "updated_at": "2026-09-21T14:22:50Z"
+      },
+      "repo": {
+        "description": "AutoClip : AI-powered video clipping and highlight generation \u00b7 \u4e00\u6b3e\u667a\u80fd\u9ad8\u5149\u63d0\u53d6\u4e0e\u526a\u8f91\u7684\u4e8c\u521b\u5de5\u5177",
+        "forks": 1559,
+        "full_name": "zhouxiaoka/autoclip",
+        "language": "Python",
+        "name": "autoclip",
+        "owner": "zhouxiaoka",
+        "rank": 9,
+        "stars_today": 395,
+        "total_stars": 8058,
+        "url": "https://github.com/zhouxiaoka/autoclip"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.38,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 79.53
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 395 stars today; score 79.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-21T23:23:51Z",
+        "default_branch": "main",
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "fork": false,
+        "full_name": "akitaonrails/ai-memory",
+        "homepage": null,
+        "latest_release": "v2.3.2",
+        "license_spdx": "MIT",
+        "open_issues": 16,
+        "primary_language": "Rust",
+        "pushed_at": "2026-09-20T20:34:43Z",
+        "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/logo-dark.png\"> <img alt=\"ai-memory\" src=\"docs/logo-light.png\" width=\"480\"> </picture> </p> > Long-term memory for AI coding agents. Quit Claude Code mid-task, > start OpenAI Codex in the same directory, continue without > re-explaining the architecture, the failed approaches, or the open > questions. [![Release](https://img.shields.io/github/v/release/akitaonrails/ai-memory)](https://github.com/akitaonrails/a",
+        "topics": [],
+        "updated_at": "2026-09-21T14:28:27Z"
+      },
+      "repo": {
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "forks": 514,
+        "full_name": "akitaonrails/ai-memory",
+        "language": "Rust",
+        "name": "ai-memory",
+        "owner": "akitaonrails",
+        "rank": 4,
+        "stars_today": 217,
+        "total_stars": 7477,
+        "url": "https://github.com/akitaonrails/ai-memory"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.33,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 75.33
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 217 stars today; score 75.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-06-24T15:35:01Z",
+        "default_branch": "main",
+        "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+        "fork": false,
+        "full_name": "Crosstalk-Solutions/project-nomad",
+        "homepage": "https://www.projectnomad.us",
+        "latest_release": "v1.34.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 97,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-13T19:33:25Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"admin/public/project_nomad_logo.webp\" width=\"200\" height=\"200\"/> # Project NOMAD ### Knowledge That Never Goes Offline [![Website](https://img.shields.io/badge/Website-projectnomad.us-blue)](https://www.projectnomad.us) [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2)](https://discord.com/invite/crosstalksolutions) [![Benchmark](https://img.shields.io/badge/Benchmark-Leaderboard-green)](https://benchmark.projectnomad.us) </div> --- Project ",
+        "topics": [],
+        "updated_at": "2026-09-21T14:25:30Z"
+      },
+      "repo": {
+        "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+        "forks": 3753,
+        "full_name": "Crosstalk-Solutions/project-nomad",
+        "language": "TypeScript",
+        "name": "project-nomad",
+        "owner": "Crosstalk-Solutions",
+        "rank": 11,
+        "stars_today": 360,
+        "total_stars": 37642,
+        "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.75,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 57.35
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 360 stars today; score 57.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2021-07-16T05:50:44Z",
+        "default_branch": "main",
+        "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+        "fork": false,
+        "full_name": "mvt-project/mvt",
+        "homepage": "https://mvt.re",
+        "latest_release": "v2026.9.21",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 52,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-21T09:03:52Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"https://docs.mvt.re/en/latest/mvt.png\" width=\"200\" /> </p> # Mobile Verification Toolkit > [!IMPORTANT] > We recently merged the \"v3\" branch. This introduced breaking changes. If you relied on mvt output in other scripts They might have broken. More details: https://github.com/mvt-project/mvt/issues/757 [![](https://img.shields.io/pypi/v/mvt)](https://pypi.org/project/mvt/) [![Documentation Status](https://readthedocs.org/projects/mvt/badge/?version=latest)](https://",
+        "topics": [
+          "android",
+          "forensics",
+          "forensics-tools",
+          "ios",
+          "mobile",
+          "security"
+        ],
+        "updated_at": "2026-09-21T14:28:09Z"
+      },
+      "repo": {
+        "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+        "forks": 1312,
+        "full_name": "mvt-project/mvt",
+        "language": "Python",
+        "name": "mvt",
+        "owner": "mvt-project",
+        "rank": 8,
+        "stars_today": 177,
+        "total_stars": 13413,
+        "url": "https://github.com/mvt-project/mvt"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.36,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 56.61
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 177 stars today; score 56.6/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-07-08T04:51:15Z",
+        "default_branch": "main",
+        "description": "AutoClip : AI-powered video clipping and highlight generation \u00b7 \u4e00\u6b3e\u667a\u80fd\u9ad8\u5149\u63d0\u53d6\u4e0e\u526a\u8f91\u7684\u4e8c\u521b\u5de5\u5177",
+        "fork": false,
+        "full_name": "zhouxiaoka/autoclip",
+        "homepage": "https://zhouxiaoka.github.io/autoclip_intro/",
+        "latest_release": "v1.3.0",
+        "license_spdx": "MIT",
+        "open_issues": 12,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-20T19:59:01Z",
+        "readme_excerpt": "# AutoClip - \u89c6\u9891\u9ad8\u5149\u5207\u7247\u81ea\u52a8\u5316\u5de5\u5177 \u652f\u6301YouTube/B\u7ad9\u89c6\u9891\u4e0b\u8f7d\u3001\u81ea\u52a8\u5207\u7247\u3001\u667a\u80fd\u5408\u96c6\u751f\u6210 [![Python](https://img.shields.io/badge/Python-3.8+-green?style=flat&logo=python)](https://python.org) [![React](https://img.shields.io/badge/React-18+-blue?style=flat&logo=react)](https://reactjs.org) [![FastAPI](https://img.shields.io/badge/FastAPI-Latest-red?style=flat&logo=fastapi)](https://fastapi.tiangolo.com) [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue?style=flat&logo=typescript)](https://www.typescriptlang.org) [!",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "ai-tools",
+          "ai-video",
+          "ai-video-editor",
+          "auto",
+          "auto-highlight",
+          "highlight",
+          "llm",
+          "video",
+          "video-editing",
+          "video-processing",
+          "videos"
+        ],
+        "updated_at": "2026-09-21T14:22:50Z"
+      },
+      "repo": {
+        "description": "AutoClip : AI-powered video clipping and highlight generation \u00b7 \u4e00\u6b3e\u667a\u80fd\u9ad8\u5149\u63d0\u53d6\u4e0e\u526a\u8f91\u7684\u4e8c\u521b\u5de5\u5177",
+        "forks": 1559,
+        "full_name": "zhouxiaoka/autoclip",
+        "language": "Python",
+        "name": "autoclip",
+        "owner": "zhouxiaoka",
+        "rank": 9,
+        "stars_today": 395,
+        "total_stars": 8058,
+        "url": "https://github.com/zhouxiaoka/autoclip"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.38,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 79.53
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 395 stars today; score 79.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-21T23:23:51Z",
+        "default_branch": "main",
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "fork": false,
+        "full_name": "akitaonrails/ai-memory",
+        "homepage": null,
+        "latest_release": "v2.3.2",
+        "license_spdx": "MIT",
+        "open_issues": 16,
+        "primary_language": "Rust",
+        "pushed_at": "2026-09-20T20:34:43Z",
+        "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/logo-dark.png\"> <img alt=\"ai-memory\" src=\"docs/logo-light.png\" width=\"480\"> </picture> </p> > Long-term memory for AI coding agents. Quit Claude Code mid-task, > start OpenAI Codex in the same directory, continue without > re-explaining the architecture, the failed approaches, or the open > questions. [![Release](https://img.shields.io/github/v/release/akitaonrails/ai-memory)](https://github.com/akitaonrails/a",
+        "topics": [],
+        "updated_at": "2026-09-21T14:28:27Z"
+      },
+      "repo": {
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "forks": 514,
+        "full_name": "akitaonrails/ai-memory",
+        "language": "Rust",
+        "name": "ai-memory",
+        "owner": "akitaonrails",
+        "rank": 4,
+        "stars_today": 217,
+        "total_stars": 7477,
+        "url": "https://github.com/akitaonrails/ai-memory"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.33,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 75.33
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 217 stars today; score 75.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-23T19:24:50Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "anthropics/financial-services",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 210,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-18T23:48:56Z",
+        "readme_excerpt": "# Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most \u2014 investment banking, equity research, private equity, and wealth management. Everything here is available **two ways from one source**: install it as a [Claude Cowork](https://claude.com/product/cowork) plugin, or deploy it through the [Claude Managed Agents API](https://docs.claude.com/en/api/managed-agents) behind your own workflow engine. Same system prompt, same ski",
+        "topics": [],
+        "updated_at": "2026-09-21T14:27:02Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 5264,
+        "full_name": "anthropics/financial-services",
+        "language": "Python",
+        "name": "financial-services",
+        "owner": "anthropics",
+        "rank": 6,
+        "stars_today": 425,
+        "total_stars": 35661,
+        "url": "https://github.com/anthropics/financial-services"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 6.16,
+        "momentum": 7.11,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 72.57
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 425 stars today; score 72.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-12T14:57:10Z",
+        "default_branch": "main",
+        "description": "A framework for building agentic apps",
+        "fork": false,
+        "full_name": "BuilderIO/agent-native",
+        "homepage": "https://www.agent-native.com",
+        "latest_release": "@agent-native/toolkit@0.20.4",
+        "license_spdx": null,
+        "open_issues": 76,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-21T14:27:58Z",
+        "readme_excerpt": "<picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F5476444e54ee4a958966c90caca468e3\" /> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7628600bc10a4940b78f42c5df7628b0\" /> <img alt=\"Agent-Native: The agentic application framework\" src=\"https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F7628600bc10a4940b78f42c5df7628b0\" /> </pi",
+        "topics": [
+          "agent-native",
+          "agents",
+          "ai",
+          "react",
+          "typescript"
+        ],
+        "updated_at": "2026-09-21T14:27:23Z"
+      },
+      "repo": {
+        "description": "A framework for building agentic apps",
+        "forks": 525,
+        "full_name": "BuilderIO/agent-native",
+        "language": "TypeScript",
+        "name": "agent-native",
+        "owner": "BuilderIO",
+        "rank": 1,
+        "stars_today": 607,
+        "total_stars": 5659,
+        "url": "https://github.com/BuilderIO/agent-native"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 9.65,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.2,
+        "total": 68.55
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 607 stars today; score 68.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2021-12-22T06:08:52Z",
+        "default_branch": "main",
+        "description": "Secure environments for developers and their agents",
+        "fork": false,
+        "full_name": "coder/coder",
+        "homepage": "https://coder.com",
+        "latest_release": "v2.36.6",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 1077,
+        "primary_language": "Go",
+        "pushed_at": "2026-09-21T14:26:12Z",
+        "readme_excerpt": "<!-- markdownlint-disable MD041 --> <div align=\"center\"> <a href=\"https://coder.com#gh-light-mode-only\"> <img src=\"./docs/images/logo-black.png\" alt=\"Coder Logo Light\" style=\"width: 128px\"> </a> <a href=\"https://coder.com#gh-dark-mode-only\"> <img src=\"./docs/images/logo-white.png\" alt=\"Coder Logo Dark\" style=\"width: 128px\"> </a> <h1> Self-Hosted Cloud Development Environments and AI Agents </h1> <a href=\"https://coder.com#gh-light-mode-only\"> <img src=\"./docs/images/banner-black.png\" alt=\"Coder ",
+        "topics": [
+          "agents",
+          "dev-tools",
+          "development-environment",
+          "go",
+          "golang",
+          "ide",
+          "jetbrains",
+          "remote-development",
+          "terraform",
+          "vscode"
+        ],
+        "updated_at": "2026-09-21T14:23:07Z"
+      },
+      "repo": {
+        "description": "Secure environments for developers and their agents",
+        "forks": 1559,
+        "full_name": "coder/coder",
+        "language": "Go",
+        "name": "coder",
+        "owner": "coder",
+        "rank": 5,
+        "stars_today": 461,
+        "total_stars": 16298,
+        "url": "https://github.com/coder/coder"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.62,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 68.22
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 461 stars today; score 68.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-04T03:28:35Z",
+        "default_branch": "main",
+        "description": "OpenAI Codex \u684c\u9762\u7aef/CLI \u7684\u53ef\u89c6\u5316\u7ba1\u7406\u5de5\u5177\uff0c\u5177\u6709Provider/API \u5207\u6362\u3001\u4f1a\u8bdd\u540c\u6b65\u3001\u63d0\u793a\u8bcd\u6ce8\u5165\u3001Skills/MCP \u7ba1\u7406\u3001TOML \u914d\u7f6e\u53ef\u89c6\u5316\u7684\u8de8\u5e73\u53f0\u5de5\u5177\u3002",
+        "fork": false,
+        "full_name": "yynxxxxx/Codex-X",
+        "homepage": "https://codex-x.site",
+        "latest_release": "v0.3.20",
+        "license_spdx": "MIT",
+        "open_issues": 11,
+        "primary_language": "Rust",
+        "pushed_at": "2026-09-18T03:37:47Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"README.md\"><img src=\"https://img.shields.io/badge/\u4e2d\u6587-\u5f53\u524d-blue\" alt=\"\u4e2d\u6587\" /></a> <a href=\"README.en.md\"><img src=\"https://img.shields.io/badge/English-Switch-lightgrey\" alt=\"English\" /></a> </p> <div align=\"center\"> <img src=\"apps/desktop/src-tauri/icons/icon.png\" alt=\"Codex-X Logo\" width=\"150\" /> # Codex-X **Codex \u53ef\u89c6\u5316\u63d0\u793a\u8bcd\u6ce8\u5165 \u00b7 Provider \u00b7 \u4f1a\u8bdd \u00b7 Skills / MCP \u7ba1\u7406\u5de5\u5177** \u4e00\u6b3e\u9762\u5411 **OpenAI Codex \u684c\u9762\u7aef / Codex CLI** \u7684\u8de8\u5e73\u53f0\u684c\u9762\u5de5\u5177\u3002\u628a\u63d0\u793a\u8bcd\u6a21\u677f\u3001\u81ea\u5b9a\u4e49 Prompt\u3001\u7b2c\u4e09\u65b9 API \u4f9b\u5e94\u5546\u3001\u4f1a\u8bdd\u540c\u6b65\u3001Skills / MCP \u548c TOML \u914d\u7f6e\u90fd\u653e\u8fdb\u53ef\u89c6\u5316\u754c",
+        "topics": [],
+        "updated_at": "2026-09-21T14:20:07Z"
+      },
+      "repo": {
+        "description": "OpenAI Codex \u684c\u9762\u7aef/CLI \u7684\u53ef\u89c6\u5316\u7ba1\u7406\u5de5\u5177\uff0c\u5177\u6709Provider/API \u5207\u6362\u3001\u4f1a\u8bdd\u540c\u6b65\u3001\u63d0\u793a\u8bcd\u6ce8\u5165\u3001Skills/MCP \u7ba1\u7406\u3001TOML \u914d\u7f6e\u53ef\u89c6\u5316\u7684\u8de8\u5e73\u53f0\u5de5\u5177\u3002",
+        "forks": 455,
+        "full_name": "yynxxxxx/Codex-X",
+        "language": "Rust",
+        "name": "Codex-X",
+        "owner": "yynxxxxx",
+        "rank": 12,
+        "stars_today": 79,
+        "total_stars": 3616,
+        "url": "https://github.com/yynxxxxx/Codex-X"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.8,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 66.25
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 79 stars today; score 66.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-28T18:16:32Z",
+        "default_branch": "main",
+        "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights \u2014 built openly, for everyone, forever free.",
+        "fork": false,
+        "full_name": "Open-Dev-Society/OpenStock",
+        "homepage": "https://openstock-ods.vercel.app",
+        "latest_release": null,
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 30,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-21T10:21:30Z",
+        "readme_excerpt": "<p align=\"center\"> <b>New from Open Dev Society:</b> <a href=\"https://github.com/Open-Dev-Society/kitbash\"><b>kitbash</b></a>. Before you build, find out which parts already exist on GitHub. Borrow them, adapt them, or write the rest. </p> <p align=\"center\"> <a href=\"https://www.star-history.com/open-dev-society/openstock\"> <picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=Open-Dev-Society/OpenStock&type=rank&theme=dark\" /><source media=\"(prefe",
+        "topics": [
+          "coderabbit",
+          "inngest",
+          "nextjs",
+          "shadcn-ui",
+          "stock-market",
+          "tailwindcss"
+        ],
+        "updated_at": "2026-09-21T14:26:00Z"
+      },
+      "repo": {
+        "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights \u2014 built openly, for everyone, forever free.",
+        "forks": 2166,
+        "full_name": "Open-Dev-Society/OpenStock",
+        "language": "TypeScript",
+        "name": "OpenStock",
+        "owner": "Open-Dev-Society",
+        "rank": 3,
+        "stars_today": 843,
+        "total_stars": 17366,
+        "url": "https://github.com/Open-Dev-Society/OpenStock"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.71,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.78,
+        "technical_quality": 11.9,
+        "total": 61.58
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 843 stars today; score 61.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-06-24T15:35:01Z",
+        "default_branch": "main",
+        "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+        "fork": false,
+        "full_name": "Crosstalk-Solutions/project-nomad",
+        "homepage": "https://www.projectnomad.us",
+        "latest_release": "v1.34.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 97,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-13T19:33:25Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"admin/public/project_nomad_logo.webp\" width=\"200\" height=\"200\"/> # Project NOMAD ### Knowledge That Never Goes Offline [![Website](https://img.shields.io/badge/Website-projectnomad.us-blue)](https://www.projectnomad.us) [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2)](https://discord.com/invite/crosstalksolutions) [![Benchmark](https://img.shields.io/badge/Benchmark-Leaderboard-green)](https://benchmark.projectnomad.us) </div> --- Project ",
+        "topics": [],
+        "updated_at": "2026-09-21T14:25:30Z"
+      },
+      "repo": {
+        "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+        "forks": 3753,
+        "full_name": "Crosstalk-Solutions/project-nomad",
+        "language": "TypeScript",
+        "name": "project-nomad",
+        "owner": "Crosstalk-Solutions",
+        "rank": 11,
+        "stars_today": 360,
+        "total_stars": 37642,
+        "url": "https://github.com/Crosstalk-Solutions/project-nomad"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.75,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 57.35
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 360 stars today; score 57.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2021-07-16T05:50:44Z",
+        "default_branch": "main",
+        "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+        "fork": false,
+        "full_name": "mvt-project/mvt",
+        "homepage": "https://mvt.re",
+        "latest_release": "v2026.9.21",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 52,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-21T09:03:52Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"https://docs.mvt.re/en/latest/mvt.png\" width=\"200\" /> </p> # Mobile Verification Toolkit > [!IMPORTANT] > We recently merged the \"v3\" branch. This introduced breaking changes. If you relied on mvt output in other scripts They might have broken. More details: https://github.com/mvt-project/mvt/issues/757 [![](https://img.shields.io/pypi/v/mvt)](https://pypi.org/project/mvt/) [![Documentation Status](https://readthedocs.org/projects/mvt/badge/?version=latest)](https://",
+        "topics": [
+          "android",
+          "forensics",
+          "forensics-tools",
+          "ios",
+          "mobile",
+          "security"
+        ],
+        "updated_at": "2026-09-21T14:28:09Z"
+      },
+      "repo": {
+        "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+        "forks": 1312,
+        "full_name": "mvt-project/mvt",
+        "language": "Python",
+        "name": "mvt",
+        "owner": "mvt-project",
+        "rank": 8,
+        "stars_today": 177,
+        "total_stars": 13413,
+        "url": "https://github.com/mvt-project/mvt"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.36,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 56.61
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 177 stars today; score 56.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-10-13T12:36:07Z",
+        "default_branch": "master",
+        "description": "\u79d1\u6280\u7231\u597d\u8005\u5468\u520a\uff0c\u6bcf\u5468\u4e94\u53d1\u5e03",
+        "fork": false,
+        "full_name": "ruanyf/weekly",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 9157,
+        "primary_language": null,
+        "pushed_at": "2026-09-19T11:38:43Z",
+        "readme_excerpt": "# \u79d1\u6280\u7231\u597d\u8005\u5468\u520a \u8bb0\u5f55\u6bcf\u5468\u503c\u5f97\u5206\u4eab\u7684\u79d1\u6280\u5185\u5bb9\uff0c\u5468\u4e94\u53d1\u5e03\u3002 \u6b22\u8fce\u6295\u7a3f\u6587\u7ae0/\u8f6f\u4ef6/\u8d44\u6e90\uff0c\u8bf7[\u63d0\u4ea4 issue](https://github.com/ruanyf/weekly/issues) \u3002 > P.S. \u8ba8\u8bba\u533a\u7684[\u300a\u8c01\u5728\u62db\u4eba\u300b](https://github.com/ruanyf/weekly/issues/11434)\uff0c\u662f\u4e00\u4e2a\u514d\u8d39\u7684\u7a0b\u5e8f\u5458\u62db\u8058\u5e16\uff0c\u63d0\u4f9b\u5927\u91cf\u5c31\u4e1a\u4fe1\u606f\uff0c\u6b22\u8fce\u53d1\u5e03\u5de5\u4f5c/\u5b9e\u4e60\u5c97\u4f4d\u3002 ## 2026 **\u4e5d\u6708** - \u7b2c 413 \u671f\uff1a[\u518d\u89c1\u4e86\uff0cReact Native](docs/issue-413.md) - \u7b2c 412 \u671f\uff1a[\u7981\u6b62 issue\uff0c\u53ea\u7528 PR](docs/issue-412.md) - \u7b2c 411 \u671f\uff1a[OpenClaw 2.0 \u662f\u4e00\u4e2a\u7f29\u5f71](docs/issue-411.md) **\u516b\u6708** - \u7b2c 410 \u671f\uff1a[\u4f60\u9700\u8981\u77e5\u9053\u7684 AI \u4e09\u79cd\u673a\u5236](docs/issue-410.md) - \u7b2c 409 \u671f\uff1a[\u7a0b\u5e8f\u5458\u7684\u804c\u4e1a\u672a\u6765](docs/issue-409.md) - \u7b2c 408 \u671f\uff1a[\u4f60\u9700\u8981\u77e5\u9053\u7684 AI \u7f13\u5b58\u77e5\u8bc6](docs/issue-408.md) - ",
+        "topics": [],
+        "updated_at": "2026-09-21T14:26:47Z"
+      },
+      "repo": {
+        "description": "\u79d1\u6280\u7231\u597d\u8005\u5468\u520a\uff0c\u6bcf\u5468\u4e94\u53d1\u5e03",
+        "forks": 4446,
+        "full_name": "ruanyf/weekly",
+        "language": null,
+        "name": "weekly",
+        "owner": "ruanyf",
+        "rank": 10,
+        "stars_today": 621,
+        "total_stars": 103827,
+        "url": "https://github.com/ruanyf/weekly"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 8.49,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 3.47,
+        "technical_quality": 11.2,
+        "total": 53.55
+      },
+      "tags": [
+        "AI Workflow"
+      ],
+      "verdict": "AI Workflow: Unknown project with 621 stars today; score 53.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-09-29T18:22:05Z",
+        "default_branch": "master",
+        "description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3",
+        "fork": false,
+        "full_name": "cloudflare/quiche",
+        "homepage": "https://docs.quic.tech/quiche/",
+        "latest_release": "0.30.0",
+        "license_spdx": "BSD-2-Clause",
+        "open_issues": 367,
+        "primary_language": "Rust",
+        "pushed_at": "2026-09-21T12:57:02Z",
+        "readme_excerpt": "![quiche](quiche.svg) [![crates.io](https://img.shields.io/crates/v/quiche.svg)](https://crates.io/crates/quiche) [![docs.rs](https://docs.rs/quiche/badge.svg)](https://docs.rs/quiche) [![license](https://img.shields.io/github/license/cloudflare/quiche.svg)](https://opensource.org/licenses/BSD-2-Clause) ![build](https://img.shields.io/github/actions/workflow/status/cloudflare/quiche/stable.yml?branch=master) [quiche] is an implementation of the QUIC transport protocol and HTTP/3 as specified by ",
+        "topics": [
+          "http3",
+          "network-programming",
+          "protocol",
+          "quic",
+          "rust"
+        ],
+        "updated_at": "2026-09-21T14:28:28Z"
+      },
+      "repo": {
+        "description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3",
+        "forks": 1125,
+        "full_name": "cloudflare/quiche",
+        "language": "Rust",
+        "name": "quiche",
+        "owner": "cloudflare",
+        "rank": 7,
+        "stars_today": 69,
+        "total_stars": 12204,
+        "url": "https://github.com/cloudflare/quiche"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.42,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 47.28
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Rust project with 69 stars today; score 47.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/trycua",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+        "forks": 1755,
+        "full_name": "sponsors/trycua",
+        "language": "HTML",
+        "name": "trycua",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 609,
+        "total_stars": 25528,
+        "url": "https://github.com/sponsors/trycua"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 9.52,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 37.97
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: HTML project with 609 stars today; score 38.0/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-09-21",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is zhouxiaoka/autoclip."
+}
