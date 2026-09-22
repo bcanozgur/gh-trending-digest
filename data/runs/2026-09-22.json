@@ -1,0 +1,769 @@
+{
+  "date": "2026-09-22",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-15T13:38:07Z",
+        "default_branch": "main",
+        "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+        "fork": false,
+        "full_name": "superdesigndev/treg",
+        "homepage": "https://treg.to",
+        "latest_release": null,
+        "license_spdx": "NOASSERTION",
+        "open_issues": 81,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-22T11:22:39Z",
+        "readme_excerpt": "# Treg (OpenRouter for Tools) ![treg \u2014 the tool catalog for your agent](docs/assets/treg-hero.png) **OpenRouter, but for agent tools instead of models.** Point an agent at one base URL with one token and it can do the job: **3,000+ catalogued endpoints across 60+ providers** \u2014 SEO and backlinks, social and trends, people and company enrichment, ads, scraping, image and video generation \u2014 **priced per call, from a cent**, with no provider signup. Plus your own team's keys, skills and CLIs, callab",
+        "topics": [
+          "agents",
+          "api-keys",
+          "cli",
+          "credentials",
+          "developer-tools",
+          "dsh-plugin",
+          "mcp",
+          "proxy",
+          "python",
+          "registry",
+          "secrets"
+        ],
+        "updated_at": "2026-09-22T12:46:57Z"
+      },
+      "repo": {
+        "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+        "forks": 206,
+        "full_name": "superdesigndev/treg",
+        "language": "Python",
+        "name": "treg",
+        "owner": "superdesigndev",
+        "rank": 7,
+        "stars_today": 197,
+        "total_stars": 1996,
+        "url": "https://github.com/superdesigndev/treg"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.45,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 3.85,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 74.25
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 197 stars today; score 74.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-09-29T12:09:14Z",
+        "default_branch": "dev",
+        "description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "fork": false,
+        "full_name": "dream-num/univer",
+        "homepage": "https://docs.univer.ai",
+        "latest_release": "v0.25.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 137,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-22T07:17:35Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"./docs/img/banner.png\" alt=\"Univer SDK\" width=\"800\" /> **The Office Harness for AI Agents** Spreadsheets \u00b7 Documents \u00b7 Presentations \u00b7 Bases \u00b7 Boards \u00b7 PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture, Canvas-based rendering, a formula engine, and one Facade API that works in the browser and on Node.js. English | [\u7b80\u4f53\u4e2d\u6587](./docs/readme/zh-CN.md) | [\u7e41\u9ad4\u4e2d\u6587](./docs/readme/zh-TW.md) | [",
+        "topics": [
+          "board",
+          "collaboration",
+          "data-table",
+          "doc",
+          "docx",
+          "excel",
+          "grid",
+          "pdf",
+          "ppt",
+          "pptx",
+          "presentation",
+          "sdk",
+          "sheet",
+          "slides",
+          "spreadsheet",
+          "table",
+          "word",
+          "wordprocessor",
+          "xlsx"
+        ],
+        "updated_at": "2026-09-22T12:46:50Z"
+      },
+      "repo": {
+        "description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "forks": 1354,
+        "full_name": "dream-num/univer",
+        "language": "TypeScript",
+        "name": "univer",
+        "owner": "dream-num",
+        "rank": 3,
+        "stars_today": 202,
+        "total_stars": 14956,
+        "url": "https://github.com/dream-num/univer"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.04,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 72.69
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 202 stars today; score 72.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-30T17:55:01Z",
+        "default_branch": "main",
+        "description": "Google's open agentic orchestration runtime",
+        "fork": false,
+        "full_name": "google/ax",
+        "homepage": "https://agentexecutor.io",
+        "latest_release": "v0.3.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 21,
+        "primary_language": "Go",
+        "pushed_at": "2026-09-20T03:33:20Z",
+        "readme_excerpt": "<h1> <img src=\"assets/axolotl.svg\" width=\"70\" align=\"absmiddle\" alt=\"AX axolotl\"> AX </h1> > [!WARNING] > We are still actively refining our core concepts, protocols, > and specifications. We will likely to introduce major breaking > changes prior to a stable release. **Declare an agentic task with workspaces and gateway specifications. AX sandboxes it, wires up its workspace, fences its network, and helps running it at scale.** AX is a high-throughput, declarative orchestrator to run billions o",
+        "topics": [],
+        "updated_at": "2026-09-22T12:46:46Z"
+      },
+      "repo": {
+        "description": "Google's open agentic orchestration runtime",
+        "forks": 328,
+        "full_name": "google/ax",
+        "language": "Go",
+        "name": "ax",
+        "owner": "google",
+        "rank": 5,
+        "stars_today": 2324,
+        "total_stars": 6845,
+        "url": "https://github.com/google/ax"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.42,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.66,
+        "technical_quality": 14.0,
+        "total": 69.87
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Go project with 2324 stars today; score 69.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-12T01:34:42Z",
+        "default_branch": "main",
+        "description": "Edit videos with coding agents",
+        "fork": false,
+        "full_name": "browser-use/video-use",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 114,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-30T09:45:51Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"static/video-use-banner.png\" alt=\"video-use\" width=\"100%\"> </p> # video-use Introducing **video-use** \u2014 edit videos with Claude Code. 100% open source. Drop raw footage in a folder, chat with Claude Code, get `final.mp4` back. Works for any content \u2014 talking heads, montages, tutorials, travel, interviews \u2014 without presets or menus. Try video-use in [Browser Use Cloud](https://cloud.browser-use.com/v4?utm_campaign=video-use-use-in-cloud&utm_source=github). ## What it ",
+        "topics": [],
+        "updated_at": "2026-09-22T12:46:53Z"
+      },
+      "repo": {
+        "description": "Edit videos with coding agents",
+        "forks": 3097,
+        "full_name": "browser-use/video-use",
+        "language": "Python",
+        "name": "video-use",
+        "owner": "browser-use",
+        "rank": 8,
+        "stars_today": 155,
+        "total_stars": 25533,
+        "url": "https://github.com/browser-use/video-use"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.15,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 63.7
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 155 stars today; score 63.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-13T19:02:38Z",
+        "default_branch": "main",
+        "description": "Agent Substrate: the core system",
+        "fork": false,
+        "full_name": "agent-substrate/substrate",
+        "homepage": null,
+        "latest_release": "v0.1.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 512,
+        "primary_language": "Go",
+        "pushed_at": "2026-09-22T12:29:19Z",
+        "readme_excerpt": "# Agent Substrate [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) NOTE: This is not an officially supported Google product. This project is not eligible for the [Google Open Source Software Vulnerability Rewards Program](https://bughunters.google.com/open-source-security). ## What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than",
+        "topics": [],
+        "updated_at": "2026-09-22T12:46:52Z"
+      },
+      "repo": {
+        "description": "Agent Substrate: the core system",
+        "forks": 368,
+        "full_name": "agent-substrate/substrate",
+        "language": "Go",
+        "name": "substrate",
+        "owner": "agent-substrate",
+        "rank": 2,
+        "stars_today": 498,
+        "total_stars": 2720,
+        "url": "https://github.com/agent-substrate/substrate"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.26,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 61.01
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Go project with 498 stars today; score 61.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/davila7",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "forks": 3528,
+        "full_name": "sponsors/davila7",
+        "language": "Python",
+        "name": "davila7",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 33,
+        "total_stars": 30938,
+        "url": "https://github.com/sponsors/davila7"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.29,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 37.64
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 33 stars today; score 37.6/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-15T13:38:07Z",
+        "default_branch": "main",
+        "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+        "fork": false,
+        "full_name": "superdesigndev/treg",
+        "homepage": "https://treg.to",
+        "latest_release": null,
+        "license_spdx": "NOASSERTION",
+        "open_issues": 81,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-22T11:22:39Z",
+        "readme_excerpt": "# Treg (OpenRouter for Tools) ![treg \u2014 the tool catalog for your agent](docs/assets/treg-hero.png) **OpenRouter, but for agent tools instead of models.** Point an agent at one base URL with one token and it can do the job: **3,000+ catalogued endpoints across 60+ providers** \u2014 SEO and backlinks, social and trends, people and company enrichment, ads, scraping, image and video generation \u2014 **priced per call, from a cent**, with no provider signup. Plus your own team's keys, skills and CLIs, callab",
+        "topics": [
+          "agents",
+          "api-keys",
+          "cli",
+          "credentials",
+          "developer-tools",
+          "dsh-plugin",
+          "mcp",
+          "proxy",
+          "python",
+          "registry",
+          "secrets"
+        ],
+        "updated_at": "2026-09-22T12:46:57Z"
+      },
+      "repo": {
+        "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+        "forks": 206,
+        "full_name": "superdesigndev/treg",
+        "language": "Python",
+        "name": "treg",
+        "owner": "superdesigndev",
+        "rank": 7,
+        "stars_today": 197,
+        "total_stars": 1996,
+        "url": "https://github.com/superdesigndev/treg"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.45,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 3.85,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 74.25
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 197 stars today; score 74.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-09-29T12:09:14Z",
+        "default_branch": "dev",
+        "description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "fork": false,
+        "full_name": "dream-num/univer",
+        "homepage": "https://docs.univer.ai",
+        "latest_release": "v0.25.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 137,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-22T07:17:35Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"./docs/img/banner.png\" alt=\"Univer SDK\" width=\"800\" /> **The Office Harness for AI Agents** Spreadsheets \u00b7 Documents \u00b7 Presentations \u00b7 Bases \u00b7 Boards \u00b7 PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture, Canvas-based rendering, a formula engine, and one Facade API that works in the browser and on Node.js. English | [\u7b80\u4f53\u4e2d\u6587](./docs/readme/zh-CN.md) | [\u7e41\u9ad4\u4e2d\u6587](./docs/readme/zh-TW.md) | [",
+        "topics": [
+          "board",
+          "collaboration",
+          "data-table",
+          "doc",
+          "docx",
+          "excel",
+          "grid",
+          "pdf",
+          "ppt",
+          "pptx",
+          "presentation",
+          "sdk",
+          "sheet",
+          "slides",
+          "spreadsheet",
+          "table",
+          "word",
+          "wordprocessor",
+          "xlsx"
+        ],
+        "updated_at": "2026-09-22T12:46:50Z"
+      },
+      "repo": {
+        "description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "forks": 1354,
+        "full_name": "dream-num/univer",
+        "language": "TypeScript",
+        "name": "univer",
+        "owner": "dream-num",
+        "rank": 3,
+        "stars_today": 202,
+        "total_stars": 14956,
+        "url": "https://github.com/dream-num/univer"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.04,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 72.69
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 202 stars today; score 72.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-23T19:24:50Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "anthropics/financial-services",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 211,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-21T21:10:41Z",
+        "readme_excerpt": "# Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most \u2014 investment banking, equity research, private equity, and wealth management. Everything here is available **two ways from one source**: install it as a [Claude Cowork](https://claude.com/product/cowork) plugin, or deploy it through the [Claude Managed Agents API](https://docs.claude.com/en/api/managed-agents) behind your own workflow engine. Same system prompt, same ski",
+        "topics": [],
+        "updated_at": "2026-09-22T12:45:13Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 5287,
+        "full_name": "anthropics/financial-services",
+        "language": "Python",
+        "name": "financial-services",
+        "owner": "anthropics",
+        "rank": 1,
+        "stars_today": 436,
+        "total_stars": 36062,
+        "url": "https://github.com/anthropics/financial-services"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 6.16,
+        "momentum": 5.18,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 70.64
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 436 stars today; score 70.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-30T17:55:01Z",
+        "default_branch": "main",
+        "description": "Google's open agentic orchestration runtime",
+        "fork": false,
+        "full_name": "google/ax",
+        "homepage": "https://agentexecutor.io",
+        "latest_release": "v0.3.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 21,
+        "primary_language": "Go",
+        "pushed_at": "2026-09-20T03:33:20Z",
+        "readme_excerpt": "<h1> <img src=\"assets/axolotl.svg\" width=\"70\" align=\"absmiddle\" alt=\"AX axolotl\"> AX </h1> > [!WARNING] > We are still actively refining our core concepts, protocols, > and specifications. We will likely to introduce major breaking > changes prior to a stable release. **Declare an agentic task with workspaces and gateway specifications. AX sandboxes it, wires up its workspace, fences its network, and helps running it at scale.** AX is a high-throughput, declarative orchestrator to run billions o",
+        "topics": [],
+        "updated_at": "2026-09-22T12:46:46Z"
+      },
+      "repo": {
+        "description": "Google's open agentic orchestration runtime",
+        "forks": 328,
+        "full_name": "google/ax",
+        "language": "Go",
+        "name": "ax",
+        "owner": "google",
+        "rank": 5,
+        "stars_today": 2324,
+        "total_stars": 6845,
+        "url": "https://github.com/google/ax"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.42,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.66,
+        "technical_quality": 14.0,
+        "total": 69.87
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Go project with 2324 stars today; score 69.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-12T01:34:42Z",
+        "default_branch": "main",
+        "description": "Edit videos with coding agents",
+        "fork": false,
+        "full_name": "browser-use/video-use",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 114,
+        "primary_language": "Python",
+        "pushed_at": "2026-08-30T09:45:51Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"static/video-use-banner.png\" alt=\"video-use\" width=\"100%\"> </p> # video-use Introducing **video-use** \u2014 edit videos with Claude Code. 100% open source. Drop raw footage in a folder, chat with Claude Code, get `final.mp4` back. Works for any content \u2014 talking heads, montages, tutorials, travel, interviews \u2014 without presets or menus. Try video-use in [Browser Use Cloud](https://cloud.browser-use.com/v4?utm_campaign=video-use-use-in-cloud&utm_source=github). ## What it ",
+        "topics": [],
+        "updated_at": "2026-09-22T12:46:53Z"
+      },
+      "repo": {
+        "description": "Edit videos with coding agents",
+        "forks": 3097,
+        "full_name": "browser-use/video-use",
+        "language": "Python",
+        "name": "video-use",
+        "owner": "browser-use",
+        "rank": 8,
+        "stars_today": 155,
+        "total_stars": 25533,
+        "url": "https://github.com/browser-use/video-use"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.15,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 63.7
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 155 stars today; score 63.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-13T19:02:38Z",
+        "default_branch": "main",
+        "description": "Agent Substrate: the core system",
+        "fork": false,
+        "full_name": "agent-substrate/substrate",
+        "homepage": null,
+        "latest_release": "v0.1.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 512,
+        "primary_language": "Go",
+        "pushed_at": "2026-09-22T12:29:19Z",
+        "readme_excerpt": "# Agent Substrate [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) NOTE: This is not an officially supported Google product. This project is not eligible for the [Google Open Source Software Vulnerability Rewards Program](https://bughunters.google.com/open-source-security). ## What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than",
+        "topics": [],
+        "updated_at": "2026-09-22T12:46:52Z"
+      },
+      "repo": {
+        "description": "Agent Substrate: the core system",
+        "forks": 368,
+        "full_name": "agent-substrate/substrate",
+        "language": "Go",
+        "name": "substrate",
+        "owner": "agent-substrate",
+        "rank": 2,
+        "stars_today": 498,
+        "total_stars": 2720,
+        "url": "https://github.com/agent-substrate/substrate"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.26,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 61.01
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Go project with 498 stars today; score 61.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2021-07-16T05:50:44Z",
+        "default_branch": "main",
+        "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+        "fork": false,
+        "full_name": "mvt-project/mvt",
+        "homepage": "https://mvt.re",
+        "latest_release": "v2026.9.21",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 55,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-22T12:19:30Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"https://docs.mvt.re/en/latest/mvt.png\" width=\"200\" /> </p> # Mobile Verification Toolkit > [!IMPORTANT] > We recently merged the \"v3\" branch. This introduced breaking changes. If you relied on mvt output in other scripts They might have broken. More details: https://github.com/mvt-project/mvt/issues/757 [![](https://img.shields.io/pypi/v/mvt)](https://pypi.org/project/mvt/) [![Documentation Status](https://readthedocs.org/projects/mvt/badge/?version=latest)](https://",
+        "topics": [
+          "android",
+          "forensics",
+          "forensics-tools",
+          "ios",
+          "mobile",
+          "security"
+        ],
+        "updated_at": "2026-09-22T12:46:09Z"
+      },
+      "repo": {
+        "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+        "forks": 1338,
+        "full_name": "mvt-project/mvt",
+        "language": "Python",
+        "name": "mvt",
+        "owner": "mvt-project",
+        "rank": 6,
+        "stars_today": 441,
+        "total_stars": 13805,
+        "url": "https://github.com/mvt-project/mvt"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.47,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 51.52
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 441 stars today; score 51.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/davila7",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "forks": 3528,
+        "full_name": "sponsors/davila7",
+        "language": "Python",
+        "name": "davila7",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 33,
+        "total_stars": 30938,
+        "url": "https://github.com/sponsors/davila7"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.29,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 37.64
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 33 stars today; score 37.6/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-09-22",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is superdesigndev/treg."
+}

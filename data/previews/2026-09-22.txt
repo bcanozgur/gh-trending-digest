@@ -1,0 +1,30 @@
+GitHub Trending: AI workflow signal - 2026-09-22
+
+Today leans toward AI workflow signal; the strongest pick is superdesigndev/treg.
+
+Top picks
+1. superdesigndev/treg - 74.2/100
+   https://github.com/superdesigndev/treg
+   AI Workflow, DevTools: Python project with 197 stars today; score 74.2/100.
+2. dream-num/univer - 72.7/100
+   https://github.com/dream-num/univer
+   AI Workflow, DevTools: TypeScript project with 202 stars today; score 72.7/100.
+3. google/ax - 69.9/100
+   https://github.com/google/ax
+   AI Workflow, Try Today: Go project with 2324 stars today; score 69.9/100.
+4. browser-use/video-use - 63.7/100
+   https://github.com/browser-use/video-use
+   AI Workflow, Try Today: Python project with 155 stars today; score 63.7/100.
+5. agent-substrate/substrate - 61.0/100
+   https://github.com/agent-substrate/substrate
+   AI Workflow, Try Today: Go project with 498 stars today; score 61.0/100.
+
+Full reviewed list
+- superdesigndev/treg: 74.2/100 [AI Workflow, DevTools, Deep Dive] AI Workflow, DevTools: Python project with 197 stars today; score 74.2/100.
+- dream-num/univer: 72.7/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 202 stars today; score 72.7/100.
+- google/ax: 69.9/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Go project with 2324 stars today; score 69.9/100.
+- browser-use/video-use: 63.7/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 155 stars today; score 63.7/100.
+- agent-substrate/substrate: 61.0/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Go project with 498 stars today; score 61.0/100.
+- sponsors/davila7: 37.6/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Python project with 33 stars today; score 37.6/100.
+
+Generated for 2026-09-22 from GitHub Trending daily.
