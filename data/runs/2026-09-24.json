@@ -1,0 +1,1140 @@
+{
+  "date": "2026-09-24",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-30T11:49:48Z",
+        "default_branch": "main",
+        "description": "Hindsight: Agent Memory That Learns",
+        "fork": false,
+        "full_name": "vectorize-io/hindsight",
+        "homepage": "https://hindsight.vectorize.io/",
+        "latest_release": "v0.10.1",
+        "license_spdx": "MIT",
+        "open_issues": 168,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-24T12:50:30Z",
+        "readme_excerpt": "<div align=\"center\"> ![Hindsight Banner](./hindsight-docs/static/img/hindsight-github-banner.png) [Documentation](https://hindsight.vectorize.io) \u2022 [Integrations](https://hindsight.vectorize.io/integrations) \u2022 [Cookbook](https://hindsight.vectorize.io/cookbook) \u2022 [Benchmarks](https://benchmarks.hindsight.vectorize.io/) \u2022 [Paper](https://arxiv.org/abs/2512.12818) \u2022 [Hindsight Cloud](https://ui.hindsight.vectorize.io/signup) [![Release](https://github.com/vectorize-io/hindsight/actions/workflows/r",
+        "topics": [
+          "agentic-ai",
+          "agents",
+          "ai-memory",
+          "memory"
+        ],
+        "updated_at": "2026-09-24T12:50:33Z"
+      },
+      "repo": {
+        "description": "Hindsight: Agent Memory That Learns",
+        "forks": 2534,
+        "full_name": "vectorize-io/hindsight",
+        "language": "Python",
+        "name": "hindsight",
+        "owner": "vectorize-io",
+        "rank": 2,
+        "stars_today": 1607,
+        "total_stars": 26975,
+        "url": "https://github.com/vectorize-io/hindsight"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.86,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 77.66
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1607 stars today; score 77.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-04-23T19:00:54Z",
+        "default_branch": "main",
+        "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+        "fork": false,
+        "full_name": "NVIDIA/Model-Optimizer",
+        "homepage": "https://nvidia.github.io/Model-Optimizer/",
+        "latest_release": "0.47.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 417,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-24T12:46:35Z",
+        "readme_excerpt": "<div align=\"center\"> ![Banner image](docs/source/assets/model-optimizer-banner.png) # NVIDIA Model Optimizer [![Documentation](https://img.shields.io/badge/Documentation-latest-brightgreen.svg?style=flat)](https://nvidia.github.io/Model-Optimizer) [![version](https://img.shields.io/pypi/v/nvidia-modelopt?label=Release)](https://pypi.org/project/nvidia-modelopt/) [![license](https://img.shields.io/badge/License-Apache%202.0-blue)](./LICENSE) [Documentation](https://nvidia.github.io/Model-Optimize",
+        "topics": [],
+        "updated_at": "2026-09-24T12:50:43Z"
+      },
+      "repo": {
+        "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+        "forks": 621,
+        "full_name": "NVIDIA/Model-Optimizer",
+        "language": "Python",
+        "name": "Model-Optimizer",
+        "owner": "NVIDIA",
+        "rank": 5,
+        "stars_today": 22,
+        "total_stars": 3899,
+        "url": "https://github.com/NVIDIA/Model-Optimizer"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.14,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 76.29
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 22 stars today; score 76.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-08-13T07:36:51Z",
+        "default_branch": "master",
+        "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+        "fork": false,
+        "full_name": "leejet/stable-diffusion.cpp",
+        "homepage": null,
+        "latest_release": "master-908-88411ef",
+        "license_spdx": "MIT",
+        "open_issues": 274,
+        "primary_language": "C++",
+        "pushed_at": "2026-09-23T22:10:47Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"./assets/logo.png\" width=\"360x\"> </p> # stable-diffusion.cpp <div align=\"center\"> <a href=\"https://trendshift.io/repositories/9714\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/9714\" alt=\"leejet%2Fstable-diffusion.cpp | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </div> Diffusion model(SD,Flux,Wan,...) inference in pure C/C++ ***Note that this project is under active development. \\ API and command-line optio",
+        "topics": [
+          "ai",
+          "cplusplus",
+          "diffusion",
+          "flux",
+          "flux-dev",
+          "ggml",
+          "image-generation",
+          "image2image",
+          "img2img",
+          "latent-diffusion",
+          "ltx-video",
+          "qwen-image",
+          "stable-diffusion",
+          "text2image",
+          "txt2img",
+          "videogeneration",
+          "wan",
+          "z-image",
+          "z-image-turbo"
+        ],
+        "updated_at": "2026-09-24T12:47:25Z"
+      },
+      "repo": {
+        "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+        "forks": 809,
+        "full_name": "leejet/stable-diffusion.cpp",
+        "language": "C++",
+        "name": "stable-diffusion.cpp",
+        "owner": "leejet",
+        "rank": 14,
+        "stars_today": 33,
+        "total_stars": 7158,
+        "url": "https://github.com/leejet/stable-diffusion.cpp"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.9,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 66.65
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 33 stars today; score 66.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-07-13T23:59:04Z",
+        "default_branch": "main",
+        "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+        "fork": false,
+        "full_name": "FxEmbed/FxEmbed",
+        "homepage": "https://docs.fxembed.com",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 73,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-24T05:51:28Z",
+        "readme_excerpt": "# FxEmbed <img src=\"https://raw.githubusercontent.com/FxEmbed/FxEmbed/main/assets/logos/fxembed.svg\" height=\"24\"> ## Home of FxTwitter, FixupX, and FxBluesky ### Embed videos, polls, quotes, translations, & more on Discord, Telegram, and others! [![Crowdin][crowdinbadge]][crowdin] [![esbuild][buildbadge]][build] [![Tests][testsbadge]][tests] [![Status][statusbadge]][status] [![License][licensebadge]][license] <!-- Links & Badges --> [build]: https://github.com/FxEmbed/FxEmbed/actions/workflows/b",
+        "topics": [],
+        "updated_at": "2026-09-24T12:48:50Z"
+      },
+      "repo": {
+        "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+        "forks": 243,
+        "full_name": "FxEmbed/FxEmbed",
+        "language": "TypeScript",
+        "name": "FxEmbed",
+        "owner": "FxEmbed",
+        "rank": 6,
+        "stars_today": 165,
+        "total_stars": 5273,
+        "url": "https://github.com/FxEmbed/FxEmbed"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.74,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 57.04
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 165 stars today; score 57.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-08-11T16:24:28Z",
+        "default_branch": "main",
+        "description": "An offline-first photo manager for large local libraries",
+        "fork": false,
+        "full_name": "julyx10/lap",
+        "homepage": "https://julyx10.github.io/lap/",
+        "latest_release": "v0.3.2",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 38,
+        "primary_language": "Vue",
+        "pushed_at": "2026-09-24T09:52:36Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"docs/public/icon.png\" alt=\"Lap Logo\" width=\"120\" style=\"border-radius: 20px\"> <h1>Lap - Private Local Photo Manager</h1> <h3>Open-source desktop photo manager for macOS, Windows, and Linux.</h3> <p> <a href=\"https://github.com/julyx10/lap/releases\"><img src=\"https://img.shields.io/github/v/release/julyx10/lap\" alt=\"GitHub release\"></a> <a href=\"https://github.com/julyx10/lap/releases\"><img src=\"https://img.shields.io/github/downloads/julyx10/lap/total\" alt=\"GitHub ",
+        "topics": [
+          "desktop-app",
+          "digital-asset-manager",
+          "duplicate-detection",
+          "face-recognition",
+          "family-photos",
+          "image-search",
+          "large-photo-collections",
+          "linux-app",
+          "local-first",
+          "macos-app",
+          "offline",
+          "open-source",
+          "photo-library",
+          "photo-management",
+          "photo-organizer",
+          "privacy",
+          "windows-app"
+        ],
+        "updated_at": "2026-09-24T12:50:29Z"
+      },
+      "repo": {
+        "description": "An offline-first photo manager for large local libraries",
+        "forks": 165,
+        "full_name": "julyx10/lap",
+        "language": "Vue",
+        "name": "lap",
+        "owner": "julyx10",
+        "rank": 12,
+        "stars_today": 71,
+        "total_stars": 2699,
+        "url": "https://github.com/julyx10/lap"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.39,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 0.97,
+        "technical_quality": 14.0,
+        "total": 49.41
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Vue project with 71 stars today; score 49.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/rohitg00",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Learn it. Build it. Ship it for others.",
+        "forks": 9875,
+        "full_name": "sponsors/rohitg00",
+        "language": "Python",
+        "name": "rohitg00",
+        "owner": "sponsors",
+        "rank": 1,
+        "stars_today": 310,
+        "total_stars": 55964,
+        "url": "https://github.com/sponsors/rohitg00"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.22,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 2.13,
+        "technical_quality": 3.5,
+        "total": 20.55
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 310 stars today; score 20.6/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-30T11:49:48Z",
+        "default_branch": "main",
+        "description": "Hindsight: Agent Memory That Learns",
+        "fork": false,
+        "full_name": "vectorize-io/hindsight",
+        "homepage": "https://hindsight.vectorize.io/",
+        "latest_release": "v0.10.1",
+        "license_spdx": "MIT",
+        "open_issues": 168,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-24T12:50:30Z",
+        "readme_excerpt": "<div align=\"center\"> ![Hindsight Banner](./hindsight-docs/static/img/hindsight-github-banner.png) [Documentation](https://hindsight.vectorize.io) \u2022 [Integrations](https://hindsight.vectorize.io/integrations) \u2022 [Cookbook](https://hindsight.vectorize.io/cookbook) \u2022 [Benchmarks](https://benchmarks.hindsight.vectorize.io/) \u2022 [Paper](https://arxiv.org/abs/2512.12818) \u2022 [Hindsight Cloud](https://ui.hindsight.vectorize.io/signup) [![Release](https://github.com/vectorize-io/hindsight/actions/workflows/r",
+        "topics": [
+          "agentic-ai",
+          "agents",
+          "ai-memory",
+          "memory"
+        ],
+        "updated_at": "2026-09-24T12:50:33Z"
+      },
+      "repo": {
+        "description": "Hindsight: Agent Memory That Learns",
+        "forks": 2534,
+        "full_name": "vectorize-io/hindsight",
+        "language": "Python",
+        "name": "hindsight",
+        "owner": "vectorize-io",
+        "rank": 2,
+        "stars_today": 1607,
+        "total_stars": 26975,
+        "url": "https://github.com/vectorize-io/hindsight"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.86,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 77.66
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1607 stars today; score 77.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-04-23T19:00:54Z",
+        "default_branch": "main",
+        "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+        "fork": false,
+        "full_name": "NVIDIA/Model-Optimizer",
+        "homepage": "https://nvidia.github.io/Model-Optimizer/",
+        "latest_release": "0.47.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 417,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-24T12:46:35Z",
+        "readme_excerpt": "<div align=\"center\"> ![Banner image](docs/source/assets/model-optimizer-banner.png) # NVIDIA Model Optimizer [![Documentation](https://img.shields.io/badge/Documentation-latest-brightgreen.svg?style=flat)](https://nvidia.github.io/Model-Optimizer) [![version](https://img.shields.io/pypi/v/nvidia-modelopt?label=Release)](https://pypi.org/project/nvidia-modelopt/) [![license](https://img.shields.io/badge/License-Apache%202.0-blue)](./LICENSE) [Documentation](https://nvidia.github.io/Model-Optimize",
+        "topics": [],
+        "updated_at": "2026-09-24T12:50:43Z"
+      },
+      "repo": {
+        "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+        "forks": 621,
+        "full_name": "NVIDIA/Model-Optimizer",
+        "language": "Python",
+        "name": "Model-Optimizer",
+        "owner": "NVIDIA",
+        "rank": 5,
+        "stars_today": 22,
+        "total_stars": 3899,
+        "url": "https://github.com/NVIDIA/Model-Optimizer"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.14,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 76.29
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 22 stars today; score 76.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-05-14T19:59:51Z",
+        "default_branch": "main",
+        "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+        "fork": false,
+        "full_name": "strands-agents/harness-sdk",
+        "homepage": "http://strandsagents.com/",
+        "latest_release": "harness-cli/v0.1.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 814,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-24T07:58:07Z",
+        "readme_excerpt": "<div align=\"center\"> <div> <a href=\"https://strandsagents.com\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://strandsagents.com/latest/assets/wordmark-github-dark.svg\"> <img src=\"https://strandsagents.com/latest/assets/wordmark-github-light.svg\" alt=\"Strands\" width=\"320\"> </picture> </a> </div> <h1> Strands Agents </h1> <h2> A model-driven approach to building AI agents in just a few lines of code. </h2> <div align=\"center\"> <a href=\"https://github.com/strands-agents/har",
+        "topics": [
+          "agent-framework",
+          "agentic",
+          "agentic-ai",
+          "agents",
+          "ai",
+          "ai-agents",
+          "anthropic",
+          "autonomous-agents",
+          "bedrock",
+          "generative-ai",
+          "harness",
+          "llm",
+          "llm-agent",
+          "mcp",
+          "multi-agent-systems",
+          "openai",
+          "python",
+          "sdk",
+          "strands-agents",
+          "typescript"
+        ],
+        "updated_at": "2026-09-24T12:50:36Z"
+      },
+      "repo": {
+        "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+        "forks": 1219,
+        "full_name": "strands-agents/harness-sdk",
+        "language": "Python",
+        "name": "harness-sdk",
+        "owner": "strands-agents",
+        "rank": 11,
+        "stars_today": 463,
+        "total_stars": 8087,
+        "url": "https://github.com/strands-agents/harness-sdk"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.58,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.28
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 463 stars today; score 73.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-09-29T12:09:14Z",
+        "default_branch": "dev",
+        "description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "fork": false,
+        "full_name": "dream-num/univer",
+        "homepage": "https://docs.univer.ai",
+        "latest_release": "v1.0.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 140,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-24T12:18:46Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"./docs/img/banner.png\" alt=\"Univer SDK\" width=\"800\" /> **The Office Harness for AI Agents** Spreadsheets \u00b7 Documents \u00b7 Presentations \u00b7 Bases \u00b7 Boards \u00b7 PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture, Canvas-based rendering, a formula engine, and one Facade API that works in the browser and on Node.js. English | [\u7b80\u4f53\u4e2d\u6587](./docs/readme/zh-CN.md) | [\u7e41\u9ad4\u4e2d\u6587](./docs/readme/zh-TW.md) | [",
+        "topics": [
+          "board",
+          "collaboration",
+          "data-table",
+          "doc",
+          "docx",
+          "excel",
+          "grid",
+          "pdf",
+          "ppt",
+          "pptx",
+          "presentation",
+          "sdk",
+          "sheet",
+          "slides",
+          "spreadsheet",
+          "table",
+          "word",
+          "wordprocessor",
+          "xlsx"
+        ],
+        "updated_at": "2026-09-24T12:50:24Z"
+      },
+      "repo": {
+        "description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "forks": 1495,
+        "full_name": "dream-num/univer",
+        "language": "TypeScript",
+        "name": "univer",
+        "owner": "dream-num",
+        "rank": 3,
+        "stars_today": 1060,
+        "total_stars": 17128,
+        "url": "https://github.com/dream-num/univer"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 8.85,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 72.3
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1060 stars today; score 72.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-23T19:24:50Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "anthropics/financial-services",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 222,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-21T21:10:41Z",
+        "readme_excerpt": "# Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most \u2014 investment banking, equity research, private equity, and wealth management. Everything here is available **two ways from one source**: install it as a [Claude Cowork](https://claude.com/product/cowork) plugin, or deploy it through the [Claude Managed Agents API](https://docs.claude.com/en/api/managed-agents) behind your own workflow engine. Same system prompt, same ski",
+        "topics": [],
+        "updated_at": "2026-09-24T12:50:05Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 5406,
+        "full_name": "anthropics/financial-services",
+        "language": "Python",
+        "name": "financial-services",
+        "owner": "anthropics",
+        "rank": 7,
+        "stars_today": 510,
+        "total_stars": 37213,
+        "url": "https://github.com/anthropics/financial-services"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 6.16,
+        "momentum": 5.4,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 70.86
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 510 stars today; score 70.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-15T13:38:07Z",
+        "default_branch": "main",
+        "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+        "fork": false,
+        "full_name": "superdesigndev/treg",
+        "homepage": "https://treg.to",
+        "latest_release": null,
+        "license_spdx": "NOASSERTION",
+        "open_issues": 79,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-24T12:25:07Z",
+        "readme_excerpt": "# Treg (OpenRouter for Tools) ![treg \u2014 the tool catalog for your agent](docs/assets/treg-hero.png) **OpenRouter, but for agent tools instead of models.** Point an agent at one base URL with one token and it can do the job: **3,000+ catalogued endpoints across 60+ providers** \u2014 SEO and backlinks, social and trends, people and company enrichment, ads, scraping, image and video generation \u2014 **priced per call, from a cent**, with no provider signup. Plus your own team's keys, skills and CLIs, callab",
+        "topics": [
+          "agents",
+          "api-keys",
+          "cli",
+          "credentials",
+          "developer-tools",
+          "dsh-plugin",
+          "mcp",
+          "proxy",
+          "python",
+          "registry",
+          "secrets"
+        ],
+        "updated_at": "2026-09-24T12:46:55Z"
+      },
+      "repo": {
+        "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+        "forks": 251,
+        "full_name": "superdesigndev/treg",
+        "language": "Python",
+        "name": "treg",
+        "owner": "superdesigndev",
+        "rank": 13,
+        "stars_today": 470,
+        "total_stars": 2958,
+        "url": "https://github.com/superdesigndev/treg"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.33,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 3.85,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 69.93
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 470 stars today; score 69.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-08-13T07:36:51Z",
+        "default_branch": "master",
+        "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+        "fork": false,
+        "full_name": "leejet/stable-diffusion.cpp",
+        "homepage": null,
+        "latest_release": "master-908-88411ef",
+        "license_spdx": "MIT",
+        "open_issues": 274,
+        "primary_language": "C++",
+        "pushed_at": "2026-09-23T22:10:47Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"./assets/logo.png\" width=\"360x\"> </p> # stable-diffusion.cpp <div align=\"center\"> <a href=\"https://trendshift.io/repositories/9714\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/9714\" alt=\"leejet%2Fstable-diffusion.cpp | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a> </div> Diffusion model(SD,Flux,Wan,...) inference in pure C/C++ ***Note that this project is under active development. \\ API and command-line optio",
+        "topics": [
+          "ai",
+          "cplusplus",
+          "diffusion",
+          "flux",
+          "flux-dev",
+          "ggml",
+          "image-generation",
+          "image2image",
+          "img2img",
+          "latent-diffusion",
+          "ltx-video",
+          "qwen-image",
+          "stable-diffusion",
+          "text2image",
+          "txt2img",
+          "videogeneration",
+          "wan",
+          "z-image",
+          "z-image-turbo"
+        ],
+        "updated_at": "2026-09-24T12:47:25Z"
+      },
+      "repo": {
+        "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+        "forks": 809,
+        "full_name": "leejet/stable-diffusion.cpp",
+        "language": "C++",
+        "name": "stable-diffusion.cpp",
+        "owner": "leejet",
+        "rank": 14,
+        "stars_today": 33,
+        "total_stars": 7158,
+        "url": "https://github.com/leejet/stable-diffusion.cpp"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.9,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 66.65
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 33 stars today; score 66.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-30T17:55:01Z",
+        "default_branch": "main",
+        "description": "Google's open agentic orchestration runtime",
+        "fork": false,
+        "full_name": "google/ax",
+        "homepage": "https://agentexecutor.io",
+        "latest_release": "v0.3.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 39,
+        "primary_language": "Go",
+        "pushed_at": "2026-09-24T11:03:42Z",
+        "readme_excerpt": "<h1> <img src=\"assets/axolotl.svg\" width=\"70\" align=\"absmiddle\" alt=\"AX axolotl\"> AX </h1> > [!WARNING] > We are still actively refining our core concepts, protocols, > and specifications. We will likely to introduce major breaking > changes prior to a stable release. **Declare an agentic task with workspaces and gateway specifications. AX sandboxes it, wires up its workspace, fences its network, and helps running it at scale.** AX is a high-throughput, declarative orchestrator to run billions o",
+        "topics": [],
+        "updated_at": "2026-09-24T12:50:38Z"
+      },
+      "repo": {
+        "description": "Google's open agentic orchestration runtime",
+        "forks": 476,
+        "full_name": "google/ax",
+        "language": "Go",
+        "name": "ax",
+        "owner": "google",
+        "rank": 4,
+        "stars_today": 1376,
+        "total_stars": 9738,
+        "url": "https://github.com/google/ax"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 10.36,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.23,
+        "technical_quality": 14.0,
+        "total": 63.18
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Go project with 1376 stars today; score 63.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-08T13:52:57Z",
+        "default_branch": "main",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "fork": false,
+        "full_name": "HKUDS/CLI-Anything",
+        "homepage": "https://clianything.cc/",
+        "latest_release": "v0.4.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 105,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-22T02:01:29Z",
+        "readme_excerpt": "<h1 align=\"center\"><img src=\"assets/icon.png\" alt=\"\" width=\"64\" style=\"vertical-align: middle;\">&nbsp; CLI-Anything: Making ALL Software Agent-Native</h1> <div align=\"center\"> <a href=\"https://www.star-history.com/hkuds/cli-anything\"><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=HKUDS/CLI-Anything&amp;type=trending&amp;theme=dark\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://api.star-history.com/badge?repo=HKUDS/CLI-Anythin",
+        "topics": [],
+        "updated_at": "2026-09-24T12:46:46Z"
+      },
+      "repo": {
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "forks": 4609,
+        "full_name": "HKUDS/CLI-Anything",
+        "language": "Python",
+        "name": "CLI-Anything",
+        "owner": "HKUDS",
+        "rank": 8,
+        "stars_today": 415,
+        "total_stars": 50159,
+        "url": "https://github.com/HKUDS/CLI-Anything"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.76,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 60.47
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 415 stars today; score 60.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-07-13T23:59:04Z",
+        "default_branch": "main",
+        "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+        "fork": false,
+        "full_name": "FxEmbed/FxEmbed",
+        "homepage": "https://docs.fxembed.com",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 73,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-24T05:51:28Z",
+        "readme_excerpt": "# FxEmbed <img src=\"https://raw.githubusercontent.com/FxEmbed/FxEmbed/main/assets/logos/fxembed.svg\" height=\"24\"> ## Home of FxTwitter, FixupX, and FxBluesky ### Embed videos, polls, quotes, translations, & more on Discord, Telegram, and others! [![Crowdin][crowdinbadge]][crowdin] [![esbuild][buildbadge]][build] [![Tests][testsbadge]][tests] [![Status][statusbadge]][status] [![License][licensebadge]][license] <!-- Links & Badges --> [build]: https://github.com/FxEmbed/FxEmbed/actions/workflows/b",
+        "topics": [],
+        "updated_at": "2026-09-24T12:48:50Z"
+      },
+      "repo": {
+        "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+        "forks": 243,
+        "full_name": "FxEmbed/FxEmbed",
+        "language": "TypeScript",
+        "name": "FxEmbed",
+        "owner": "FxEmbed",
+        "rank": 6,
+        "stars_today": 165,
+        "total_stars": 5273,
+        "url": "https://github.com/FxEmbed/FxEmbed"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.74,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 57.04
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 165 stars today; score 57.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2021-07-16T05:50:44Z",
+        "default_branch": "main",
+        "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+        "fork": false,
+        "full_name": "mvt-project/mvt",
+        "homepage": "https://mvt.re",
+        "latest_release": "v2026.9.21",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 62,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-22T18:17:06Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"https://docs.mvt.re/en/latest/mvt.png\" width=\"200\" /> </p> # Mobile Verification Toolkit > [!IMPORTANT] > We recently merged the \"v3\" branch. This introduced breaking changes. If you relied on mvt output in other scripts They might have broken. More details: https://github.com/mvt-project/mvt/issues/757 [![](https://img.shields.io/pypi/v/mvt)](https://pypi.org/project/mvt/) [![Documentation Status](https://readthedocs.org/projects/mvt/badge/?version=latest)](https://",
+        "topics": [
+          "android",
+          "forensics",
+          "forensics-tools",
+          "ios",
+          "mobile",
+          "security"
+        ],
+        "updated_at": "2026-09-24T12:50:39Z"
+      },
+      "repo": {
+        "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+        "forks": 1390,
+        "full_name": "mvt-project/mvt",
+        "language": "Python",
+        "name": "mvt",
+        "owner": "mvt-project",
+        "rank": 9,
+        "stars_today": 275,
+        "total_stars": 14610,
+        "url": "https://github.com/mvt-project/mvt"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.89,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 50.94
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 275 stars today; score 50.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-08-11T16:24:28Z",
+        "default_branch": "main",
+        "description": "An offline-first photo manager for large local libraries",
+        "fork": false,
+        "full_name": "julyx10/lap",
+        "homepage": "https://julyx10.github.io/lap/",
+        "latest_release": "v0.3.2",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 38,
+        "primary_language": "Vue",
+        "pushed_at": "2026-09-24T09:52:36Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"docs/public/icon.png\" alt=\"Lap Logo\" width=\"120\" style=\"border-radius: 20px\"> <h1>Lap - Private Local Photo Manager</h1> <h3>Open-source desktop photo manager for macOS, Windows, and Linux.</h3> <p> <a href=\"https://github.com/julyx10/lap/releases\"><img src=\"https://img.shields.io/github/v/release/julyx10/lap\" alt=\"GitHub release\"></a> <a href=\"https://github.com/julyx10/lap/releases\"><img src=\"https://img.shields.io/github/downloads/julyx10/lap/total\" alt=\"GitHub ",
+        "topics": [
+          "desktop-app",
+          "digital-asset-manager",
+          "duplicate-detection",
+          "face-recognition",
+          "family-photos",
+          "image-search",
+          "large-photo-collections",
+          "linux-app",
+          "local-first",
+          "macos-app",
+          "offline",
+          "open-source",
+          "photo-library",
+          "photo-management",
+          "photo-organizer",
+          "privacy",
+          "windows-app"
+        ],
+        "updated_at": "2026-09-24T12:50:29Z"
+      },
+      "repo": {
+        "description": "An offline-first photo manager for large local libraries",
+        "forks": 165,
+        "full_name": "julyx10/lap",
+        "language": "Vue",
+        "name": "lap",
+        "owner": "julyx10",
+        "rank": 12,
+        "stars_today": 71,
+        "total_stars": 2699,
+        "url": "https://github.com/julyx10/lap"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.39,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 0.97,
+        "technical_quality": 14.0,
+        "total": 49.41
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Vue project with 71 stars today; score 49.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 26037,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 606,
+        "total_stars": 290995,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.47,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 34.62
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 606 stars today; score 34.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/rohitg00",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Learn it. Build it. Ship it for others.",
+        "forks": 9875,
+        "full_name": "sponsors/rohitg00",
+        "language": "Python",
+        "name": "rohitg00",
+        "owner": "sponsors",
+        "rank": 1,
+        "stars_today": 310,
+        "total_stars": 55964,
+        "url": "https://github.com/sponsors/rohitg00"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.22,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 2.13,
+        "technical_quality": 3.5,
+        "total": 20.55
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 310 stars today; score 20.6/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-09-24",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is vectorize-io/hindsight."
+}

@@ -1,0 +1,30 @@
+GitHub Trending: AI workflow signal - 2026-09-24
+
+Today leans toward AI workflow signal; the strongest pick is vectorize-io/hindsight.
+
+Top picks
+1. vectorize-io/hindsight - 77.7/100
+   https://github.com/vectorize-io/hindsight
+   AI Workflow, DevTools: Python project with 1607 stars today; score 77.7/100.
+2. NVIDIA/Model-Optimizer - 76.3/100
+   https://github.com/NVIDIA/Model-Optimizer
+   AI Workflow, DevTools: Python project with 22 stars today; score 76.3/100.
+3. leejet/stable-diffusion.cpp - 66.7/100
+   https://github.com/leejet/stable-diffusion.cpp
+   AI Workflow, DevTools: C++ project with 33 stars today; score 66.7/100.
+4. FxEmbed/FxEmbed - 57.0/100
+   https://github.com/FxEmbed/FxEmbed
+   AI Workflow, DevTools: TypeScript project with 165 stars today; score 57.0/100.
+5. julyx10/lap - 49.4/100
+   https://github.com/julyx10/lap
+   Try Today: Vue project with 71 stars today; score 49.4/100.
+
+Full reviewed list
+- vectorize-io/hindsight: 77.7/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 1607 stars today; score 77.7/100.
+- NVIDIA/Model-Optimizer: 76.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 22 stars today; score 76.3/100.
+- leejet/stable-diffusion.cpp: 66.7/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: C++ project with 33 stars today; score 66.7/100.
+- FxEmbed/FxEmbed: 57.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 165 stars today; score 57.0/100.
+- julyx10/lap: 49.4/100 [Try Today] Try Today: Vue project with 71 stars today; score 49.4/100.
+- sponsors/rohitg00: 20.6/100 [Watch, Hype Risk] Watch, Hype Risk: Python project with 310 stars today; score 20.6/100.
+
+Generated for 2026-09-24 from GitHub Trending daily.
