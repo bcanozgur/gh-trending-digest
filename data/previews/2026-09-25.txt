@@ -1,0 +1,33 @@
+GitHub Trending: AI workflow signal - 2026-09-25
+
+Today leans toward AI workflow signal; the strongest pick is paperclipai/paperclip.
+
+Top picks
+1. paperclipai/paperclip - 80.6/100
+   https://github.com/paperclipai/paperclip
+   AI Workflow, DevTools: TypeScript project with 1853 stars today; score 80.6/100.
+2. androoAGI/starnet - 76.2/100
+   https://github.com/androoAGI/starnet
+   AI Workflow, Try Today: JavaScript project with 113 stars today; score 76.2/100.
+3. shy3130/tick-stock-panel - 66.3/100
+   https://github.com/shy3130/tick-stock-panel
+   AI Workflow, DevTools: Python project with 31 stars today; score 66.3/100.
+4. anthropics/claude-plugins-official - 63.6/100
+   https://github.com/anthropics/claude-plugins-official
+   AI Workflow, Try Today: Python project with 62 stars today; score 63.6/100.
+5. anthropics/skills - 62.3/100
+   https://github.com/anthropics/skills
+   AI Workflow, Deep Dive: Python project with 155 stars today; score 62.3/100.
+
+Full reviewed list
+- paperclipai/paperclip: 80.6/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 1853 stars today; score 80.6/100.
+- androoAGI/starnet: 76.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: JavaScript project with 113 stars today; score 76.2/100.
+- shy3130/tick-stock-panel: 66.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 31 stars today; score 66.3/100.
+- anthropics/claude-plugins-official: 63.6/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 62 stars today; score 63.6/100.
+- anthropics/skills: 62.3/100 [AI Workflow, Deep Dive] AI Workflow, Deep Dive: Python project with 155 stars today; score 62.3/100.
+- derv82/wifit3: 59.0/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 168 stars today; score 59.0/100.
+- openbao/openbao: 58.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Go project with 16 stars today; score 58.3/100.
+- kelseyhightower/kubernetes-the-hard-way: 45.4/100 [Try Today] Try Today: Unknown project with 105 stars today; score 45.4/100.
+- sponsors/mattpocock: 39.0/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Shell project with 671 stars today; score 39.0/100.
+
+Generated for 2026-09-25 from GitHub Trending daily.

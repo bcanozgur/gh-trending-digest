@@ -1,0 +1,1362 @@
+{
+  "date": "2026-09-25",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-02T15:01:51Z",
+        "default_branch": "master",
+        "description": "The open-source app everyone uses to manage agents at work",
+        "fork": false,
+        "full_name": "paperclipai/paperclip",
+        "homepage": "https://paperclip.ing",
+        "latest_release": "v2026.916.1",
+        "license_spdx": "MIT",
+        "open_issues": 5655,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-25T09:45:05Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"doc/assets/banner.jpg\" alt=\"Paperclip is the app people use to manage AI agents for work.\" width=\"720\" /> </p> <p align=\"center\"> <a href=\"#quickstart\"><strong>Quickstart</strong></a> &middot; <a href=\"https://docs.paperclip.ing\"><strong>Docs</strong></a> &middot; <a href=\"https://github.com/paperclipai/paperclip\"><strong>GitHub</strong></a> &middot; <a href=\"https://discord.gg/m4HZY7xNG3\"><strong>Discord</strong></a> &middot; <a href=\"https://x.com/papercliping\"><st",
+        "topics": [],
+        "updated_at": "2026-09-25T12:54:30Z"
+      },
+      "repo": {
+        "description": "The open-source app everyone uses to manage agents at work",
+        "forks": 15136,
+        "full_name": "paperclipai/paperclip",
+        "language": "TypeScript",
+        "name": "paperclip",
+        "owner": "paperclipai",
+        "rank": 1,
+        "stars_today": 1853,
+        "total_stars": 83513,
+        "url": "https://github.com/paperclipai/paperclip"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 12.0,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 80.59
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1853 stars today; score 80.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-14T23:11:55Z",
+        "default_branch": "feat/harness-backend",
+        "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+        "fork": false,
+        "full_name": "androoAGI/starnet",
+        "homepage": "https://github.com/androoAGI/starnet-releases/releases/latest",
+        "latest_release": "v0.12.4",
+        "license_spdx": "MIT",
+        "open_issues": 22,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-23T17:52:14Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\".github/media/starnet-logo-glow.png\" alt=\"StarNet\" width=\"560\"> **A living pixel-art station where real AI agents do real work.** [![Download](https://img.shields.io/github/v/release/androoAGI/starnet-releases?label=download&color=f5a623)](https://github.com/androoAGI/starnet-releases/releases/latest) [![Platforms](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-4a90d9)](INSTALL.md) [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICE",
+        "topics": [
+          "agent-harness",
+          "ai",
+          "ai-agents",
+          "byok",
+          "desktop-app",
+          "game-ui",
+          "llm",
+          "local-first",
+          "multi-agent",
+          "openrouter",
+          "pixel-art",
+          "tauri"
+        ],
+        "updated_at": "2026-09-25T12:46:32Z"
+      },
+      "repo": {
+        "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+        "forks": 74,
+        "full_name": "androoAGI/starnet",
+        "language": "JavaScript",
+        "name": "starnet",
+        "owner": "androoAGI",
+        "rank": 8,
+        "stars_today": 113,
+        "total_stars": 299,
+        "url": "https://github.com/androoAGI/starnet"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.1,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 76.19
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 113 stars today; score 76.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-18T06:18:29Z",
+        "default_branch": "main",
+        "description": "TSP\u81ea\u6258\u7ba1\u3001\u96f6\u8fd0\u7ef4\u7684 A \u80a1\u300c\u9009\u80a1 + \u76d1\u63a7 + \u56de\u6d4b\u300d\u91cf\u5316\u5de5\u4f5c\u53f0  | LLM\u80fd\u529b\u9a71\u4f7f\u7b56\u7565\u5b9a\u5236+\u4e2a\u80a1\u5206\u6790+\u590d\u76d8 | \u81ea\u7531\u63a5\u5165\u7b2c\u4e09\u65b9\u6570\u636e\u6e90\u4e0e\u4e2a\u6027\u5316\u6269\u5c55\u6570\u636e | \u4e2a\u4eba\u5f00\u6e90",
+        "fork": false,
+        "full_name": "shy3130/tick-stock-panel",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 18,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-25T08:21:04Z",
+        "readme_excerpt": "<div align=\"center\"> # \ud83d\udcc8 TSP \u00b7 A\u80a1\u667a\u80fd\u91cf\u5316\u5de5\u4f5c\u53f0 <br/> [![\u4e2a\u4eba\u5f00\u6e90](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%BC%80%E6%BA%90-green?style=for-the-badge&labelColor=red)](https://github.com/shy3130/tick-stock-panel) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](./LICENSE) [![Engine: Polars](https://img.shields.io/badge/Engine-Polars-6f42c1?style=for-the-badge)](https://pola.rs/) [![Data: \u591a\u6e90\u63d2\u4ef6\u5316 \u00b7 \u80fd\u529b\u8def\u7531](https://img.shields.io/badge/Data-%E5%A4%9A%E6%BA%90%E6%8F%9",
+        "topics": [
+          "a-stock",
+          "ai-agent",
+          "aigc",
+          "backtesting",
+          "daily",
+          "duckdb",
+          "fastapi",
+          "llm",
+          "polars",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading",
+          "react",
+          "screener",
+          "self-hosted",
+          "stock",
+          "stock-analysis",
+          "tdx",
+          "tickflow",
+          "tsp"
+        ],
+        "updated_at": "2026-09-25T12:40:08Z"
+      },
+      "repo": {
+        "description": "TSP\u81ea\u6258\u7ba1\u3001\u96f6\u8fd0\u7ef4\u7684 A \u80a1\u300c\u9009\u80a1 + \u76d1\u63a7 + \u56de\u6d4b\u300d\u91cf\u5316\u5de5\u4f5c\u53f0 | LLM\u80fd\u529b\u9a71\u4f7f\u7b56\u7565\u5b9a\u5236+\u4e2a\u80a1\u5206\u6790+\u590d\u76d8 | \u81ea\u7531\u63a5\u5165\u7b2c\u4e09\u65b9\u6570\u636e\u6e90\u4e0e\u4e2a\u6027\u5316\u6269\u5c55\u6570\u636e | \u4e2a\u4eba\u5f00\u6e90",
+        "forks": 1245,
+        "full_name": "shy3130/tick-stock-panel",
+        "language": "Python",
+        "name": "tick-stock-panel",
+        "owner": "shy3130",
+        "rank": 12,
+        "stars_today": 31,
+        "total_stars": 5042,
+        "url": "https://github.com/shy3130/tick-stock-panel"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.16,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 66.26
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 31 stars today; score 66.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-11-20T18:36:20Z",
+        "default_branch": "main",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "fork": false,
+        "full_name": "anthropics/claude-plugins-official",
+        "homepage": "https://code.claude.com/docs/en/plugins",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1033,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-25T06:00:17Z",
+        "readme_excerpt": "# Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. > **\u26a0\ufe0f Important:** Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or other software are included in plugins and cannot verify that they will work as intended or that they won't change. See each plugin's homepage for more information. ## Structure - **`/plugins`** - Internal plugins developed and maintained by Anthropic - **`/ext",
+        "topics": [
+          "claude-code",
+          "mcp",
+          "skills"
+        ],
+        "updated_at": "2026-09-25T12:52:35Z"
+      },
+      "repo": {
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "forks": 4147,
+        "full_name": "anthropics/claude-plugins-official",
+        "language": "Python",
+        "name": "claude-plugins-official",
+        "owner": "anthropics",
+        "rank": 2,
+        "stars_today": 62,
+        "total_stars": 36761,
+        "url": "https://github.com/anthropics/claude-plugins-official"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.74,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 63.63
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 62 stars today; score 63.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-22T15:53:31Z",
+        "default_branch": "main",
+        "description": "Public repository for Agent Skills",
+        "fork": false,
+        "full_name": "anthropics/skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 1293,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-24T16:20:39Z",
+        "readme_excerpt": "> **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io). [![skills.sh](https://skills.sh/b/anthropics/skills)](https://skills.sh/anthropics/skills) # Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's",
+        "topics": [
+          "agent-skills"
+        ],
+        "updated_at": "2026-09-25T12:52:34Z"
+      },
+      "repo": {
+        "description": "Public repository for Agent Skills",
+        "forks": 21097,
+        "full_name": "anthropics/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "anthropics",
+        "rank": 7,
+        "stars_today": 155,
+        "total_stars": 178089,
+        "url": "https://github.com/anthropics/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.44,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 62.29
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Python project with 155 stars today; score 62.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-20T18:15:05Z",
+        "default_branch": "master",
+        "description": "Wifite but USB-only & cross-platform.",
+        "fork": false,
+        "full_name": "derv82/wifit3",
+        "homepage": null,
+        "latest_release": "v0.3.3",
+        "license_spdx": "GPL-2.0",
+        "open_issues": 5,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-23T09:07:44Z",
+        "readme_excerpt": "# wifit3 > A standalone USB Wi-Fi auditor for Linux, Windows, and macOS. <p align=\"center\"> <img src=\"assets/wifit3-1-splash.png\" alt=\"wifit3 splash / adapter picker\" width=\"700\"> </p> > *At least* one of the [supported USB adapters](#supported-hardware) is **required**. ## Why? * **Cross-Platform:** Runs identically on Linux, macOS, and Windows. * **Wireless Driver Heaven:** Built-in wireless stack avoids kernel driver versioning hell and Windows' NDIS. * **Zero Runtime Dependencies:** No `airc",
+        "topics": [
+          "cross-platform",
+          "userland",
+          "wifi-scanner",
+          "wifi-security",
+          "wireless-security"
+        ],
+        "updated_at": "2026-09-25T12:51:20Z"
+      },
+      "repo": {
+        "description": "Wifite but USB-only & cross-platform.",
+        "forks": 76,
+        "full_name": "derv82/wifit3",
+        "language": "Python",
+        "name": "wifit3",
+        "owner": "derv82",
+        "rank": 9,
+        "stars_today": 168,
+        "total_stars": 697,
+        "url": "https://github.com/derv82/wifit3"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.21,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 58.96
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 168 stars today; score 59.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-11-09T18:17:33Z",
+        "default_branch": "main",
+        "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+        "fork": false,
+        "full_name": "openbao/openbao",
+        "homepage": "https://openbao.org/",
+        "latest_release": "v2.7.0",
+        "license_spdx": "MPL-2.0",
+        "open_issues": 320,
+        "primary_language": "Go",
+        "pushed_at": "2026-09-24T20:34:53Z",
+        "readme_excerpt": "# OpenBao ---- **Please note**: We take OpenBao's security and our users' trust very seriously. If you believe you have found a security issue in OpenBao, _please responsibly disclose_ by contacting us at [openbao-security@lists.openssf.org](mailto:openbao-security@lists.openssf.org). ---- [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/openbao/openbao/badge)](https://scorecard.dev/viewer/?uri=github.com/openbao/openbao) [![OpenSSF Best Practices](https://www.bestpractices.de",
+        "topics": [
+          "go",
+          "secret-management",
+          "security"
+        ],
+        "updated_at": "2026-09-25T12:51:57Z"
+      },
+      "repo": {
+        "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+        "forks": 580,
+        "full_name": "openbao/openbao",
+        "language": "Go",
+        "name": "openbao",
+        "owner": "openbao",
+        "rank": 16,
+        "stars_today": 16,
+        "total_stars": 7532,
+        "url": "https://github.com/openbao/openbao"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.51,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 58.31
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 16 stars today; score 58.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-07-07T14:15:27Z",
+        "default_branch": "master",
+        "description": "Bootstrap Kubernetes the hard way. No scripts.",
+        "fork": false,
+        "full_name": "kelseyhightower/kubernetes-the-hard-way",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 56,
+        "primary_language": null,
+        "pushed_at": "2025-04-10T06:11:47Z",
+        "readme_excerpt": "# Kubernetes The Hard Way This tutorial walks you through setting up Kubernetes the hard way. This guide is not for someone looking for a fully automated tool to bring up a Kubernetes cluster. Kubernetes The Hard Way is optimized for learning, which means taking the long route to ensure you understand each task required to bootstrap a Kubernetes cluster. > The results of this tutorial should not be viewed as production ready, and may receive limited support from the community, but don't let that",
+        "topics": [],
+        "updated_at": "2026-09-25T12:54:31Z"
+      },
+      "repo": {
+        "description": "Bootstrap Kubernetes the hard way. No scripts.",
+        "forks": 15906,
+        "full_name": "kelseyhightower/kubernetes-the-hard-way",
+        "language": null,
+        "name": "kubernetes-the-hard-way",
+        "owner": "kelseyhightower",
+        "rank": 10,
+        "stars_today": 105,
+        "total_stars": 50021,
+        "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.78,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 1.14,
+        "technical_quality": 11.9,
+        "total": 45.42
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Unknown project with 105 stars today; score 45.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "forks": 22711,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 671,
+        "total_stars": 269414,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.07,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 39.02
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 671 stars today; score 39.0/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-02T15:01:51Z",
+        "default_branch": "master",
+        "description": "The open-source app everyone uses to manage agents at work",
+        "fork": false,
+        "full_name": "paperclipai/paperclip",
+        "homepage": "https://paperclip.ing",
+        "latest_release": "v2026.916.1",
+        "license_spdx": "MIT",
+        "open_issues": 5655,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-25T09:45:05Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"doc/assets/banner.jpg\" alt=\"Paperclip is the app people use to manage AI agents for work.\" width=\"720\" /> </p> <p align=\"center\"> <a href=\"#quickstart\"><strong>Quickstart</strong></a> &middot; <a href=\"https://docs.paperclip.ing\"><strong>Docs</strong></a> &middot; <a href=\"https://github.com/paperclipai/paperclip\"><strong>GitHub</strong></a> &middot; <a href=\"https://discord.gg/m4HZY7xNG3\"><strong>Discord</strong></a> &middot; <a href=\"https://x.com/papercliping\"><st",
+        "topics": [],
+        "updated_at": "2026-09-25T12:54:30Z"
+      },
+      "repo": {
+        "description": "The open-source app everyone uses to manage agents at work",
+        "forks": 15136,
+        "full_name": "paperclipai/paperclip",
+        "language": "TypeScript",
+        "name": "paperclip",
+        "owner": "paperclipai",
+        "rank": 1,
+        "stars_today": 1853,
+        "total_stars": 83513,
+        "url": "https://github.com/paperclipai/paperclip"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 12.0,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 80.59
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1853 stars today; score 80.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-14T23:11:55Z",
+        "default_branch": "feat/harness-backend",
+        "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+        "fork": false,
+        "full_name": "androoAGI/starnet",
+        "homepage": "https://github.com/androoAGI/starnet-releases/releases/latest",
+        "latest_release": "v0.12.4",
+        "license_spdx": "MIT",
+        "open_issues": 22,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-23T17:52:14Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\".github/media/starnet-logo-glow.png\" alt=\"StarNet\" width=\"560\"> **A living pixel-art station where real AI agents do real work.** [![Download](https://img.shields.io/github/v/release/androoAGI/starnet-releases?label=download&color=f5a623)](https://github.com/androoAGI/starnet-releases/releases/latest) [![Platforms](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-4a90d9)](INSTALL.md) [![License: MIT](https://img.shields.io/badge/license-MIT-2ea44f)](LICE",
+        "topics": [
+          "agent-harness",
+          "ai",
+          "ai-agents",
+          "byok",
+          "desktop-app",
+          "game-ui",
+          "llm",
+          "local-first",
+          "multi-agent",
+          "openrouter",
+          "pixel-art",
+          "tauri"
+        ],
+        "updated_at": "2026-09-25T12:46:32Z"
+      },
+      "repo": {
+        "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+        "forks": 74,
+        "full_name": "androoAGI/starnet",
+        "language": "JavaScript",
+        "name": "starnet",
+        "owner": "androoAGI",
+        "rank": 8,
+        "stars_today": 113,
+        "total_stars": 299,
+        "url": "https://github.com/androoAGI/starnet"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.1,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 76.19
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 113 stars today; score 76.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-11-16T01:52:04Z",
+        "default_branch": "main",
+        "description": "The design language that makes your AI harness better at design.",
+        "fork": false,
+        "full_name": "pbakaus/impeccable",
+        "homepage": "https://impeccable.style",
+        "latest_release": "engine-v0.1.6",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 44,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-25T00:50:29Z",
+        "readme_excerpt": "# Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. > **Quick start:** From your project root, run `npx impeccable install`, then run `/impeccable init` inside your AI coding tool. Full docs: [impeccable.style](https://impeccable.style). ## Why Impeccable? Anthropic's [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) was the first widely-used d",
+        "topics": [],
+        "updated_at": "2026-09-25T12:54:38Z"
+      },
+      "repo": {
+        "description": "The design language that makes your AI harness better at design.",
+        "forks": 4306,
+        "full_name": "pbakaus/impeccable",
+        "language": "JavaScript",
+        "name": "impeccable",
+        "owner": "pbakaus",
+        "rank": 15,
+        "stars_today": 527,
+        "total_stars": 70941,
+        "url": "https://github.com/pbakaus/impeccable"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.97,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 71.86
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 527 stars today; score 71.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-30T11:49:48Z",
+        "default_branch": "main",
+        "description": "Hindsight: Agent Memory That Learns",
+        "fork": false,
+        "full_name": "vectorize-io/hindsight",
+        "homepage": "https://hindsight.vectorize.io/",
+        "latest_release": "v0.10.1",
+        "license_spdx": "MIT",
+        "open_issues": 164,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-25T12:53:11Z",
+        "readme_excerpt": "<div align=\"center\"> ![Hindsight Banner](./hindsight-docs/static/img/hindsight-github-banner.png) [Documentation](https://hindsight.vectorize.io) \u2022 [Integrations](https://hindsight.vectorize.io/integrations) \u2022 [Cookbook](https://hindsight.vectorize.io/cookbook) \u2022 [Benchmarks](https://benchmarks.hindsight.vectorize.io/) \u2022 [Paper](https://arxiv.org/abs/2512.12818) \u2022 [Hindsight Cloud](https://ui.hindsight.vectorize.io/signup) [![Release](https://github.com/vectorize-io/hindsight/actions/workflows/r",
+        "topics": [
+          "agentic-ai",
+          "agents",
+          "ai-memory",
+          "memory"
+        ],
+        "updated_at": "2026-09-25T12:53:05Z"
+      },
+      "repo": {
+        "description": "Hindsight: Agent Memory That Learns",
+        "forks": 2869,
+        "full_name": "vectorize-io/hindsight",
+        "language": "Python",
+        "name": "hindsight",
+        "owner": "vectorize-io",
+        "rank": 3,
+        "stars_today": 1652,
+        "total_stars": 28607,
+        "url": "https://github.com/vectorize-io/hindsight"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 10.8,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 71.4
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1652 stars today; score 71.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-04-23T19:00:54Z",
+        "default_branch": "main",
+        "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+        "fork": false,
+        "full_name": "NVIDIA/Model-Optimizer",
+        "homepage": "https://nvidia.github.io/Model-Optimizer/",
+        "latest_release": "0.47.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 416,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-25T12:04:01Z",
+        "readme_excerpt": "<div align=\"center\"> ![Banner image](docs/source/assets/model-optimizer-banner.png) # NVIDIA Model Optimizer [![Documentation](https://img.shields.io/badge/Documentation-latest-brightgreen.svg?style=flat)](https://nvidia.github.io/Model-Optimizer) [![version](https://img.shields.io/pypi/v/nvidia-modelopt?label=Release)](https://pypi.org/project/nvidia-modelopt/) [![license](https://img.shields.io/badge/License-Apache%202.0-blue)](./LICENSE) [Documentation](https://nvidia.github.io/Model-Optimize",
+        "topics": [],
+        "updated_at": "2026-09-25T12:53:13Z"
+      },
+      "repo": {
+        "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+        "forks": 641,
+        "full_name": "NVIDIA/Model-Optimizer",
+        "language": "Python",
+        "name": "Model-Optimizer",
+        "owner": "NVIDIA",
+        "rank": 14,
+        "stars_today": 360,
+        "total_stars": 4261,
+        "url": "https://github.com/NVIDIA/Model-Optimizer"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.36,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 71.31
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 360 stars today; score 71.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-09-29T12:09:14Z",
+        "default_branch": "dev",
+        "description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "fork": false,
+        "full_name": "dream-num/univer",
+        "homepage": "https://docs.univer.ai",
+        "latest_release": "v1.0.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 142,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-24T14:02:42Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"./docs/img/banner.png\" alt=\"Univer SDK\" width=\"800\" /> **The Office Harness for AI Agents** Spreadsheets \u00b7 Documents \u00b7 Presentations \u00b7 Bases \u00b7 Boards \u00b7 PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture, Canvas-based rendering, a formula engine, and one Facade API that works in the browser and on Node.js. English | [\u7b80\u4f53\u4e2d\u6587](./docs/readme/zh-CN.md) | [\u7e41\u9ad4\u4e2d\u6587](./docs/readme/zh-TW.md) | [",
+        "topics": [
+          "board",
+          "collaboration",
+          "data-table",
+          "doc",
+          "docx",
+          "excel",
+          "grid",
+          "pdf",
+          "ppt",
+          "pptx",
+          "presentation",
+          "sdk",
+          "sheet",
+          "slides",
+          "spreadsheet",
+          "table",
+          "word",
+          "wordprocessor",
+          "xlsx"
+        ],
+        "updated_at": "2026-09-25T12:50:23Z"
+      },
+      "repo": {
+        "description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "forks": 1552,
+        "full_name": "dream-num/univer",
+        "language": "TypeScript",
+        "name": "univer",
+        "owner": "dream-num",
+        "rank": 6,
+        "stars_today": 1048,
+        "total_stars": 18147,
+        "url": "https://github.com/dream-num/univer"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.63,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 71.08
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1048 stars today; score 71.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-18T06:18:29Z",
+        "default_branch": "main",
+        "description": "TSP\u81ea\u6258\u7ba1\u3001\u96f6\u8fd0\u7ef4\u7684 A \u80a1\u300c\u9009\u80a1 + \u76d1\u63a7 + \u56de\u6d4b\u300d\u91cf\u5316\u5de5\u4f5c\u53f0  | LLM\u80fd\u529b\u9a71\u4f7f\u7b56\u7565\u5b9a\u5236+\u4e2a\u80a1\u5206\u6790+\u590d\u76d8 | \u81ea\u7531\u63a5\u5165\u7b2c\u4e09\u65b9\u6570\u636e\u6e90\u4e0e\u4e2a\u6027\u5316\u6269\u5c55\u6570\u636e | \u4e2a\u4eba\u5f00\u6e90",
+        "fork": false,
+        "full_name": "shy3130/tick-stock-panel",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 18,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-25T08:21:04Z",
+        "readme_excerpt": "<div align=\"center\"> # \ud83d\udcc8 TSP \u00b7 A\u80a1\u667a\u80fd\u91cf\u5316\u5de5\u4f5c\u53f0 <br/> [![\u4e2a\u4eba\u5f00\u6e90](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%BC%80%E6%BA%90-green?style=for-the-badge&labelColor=red)](https://github.com/shy3130/tick-stock-panel) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](./LICENSE) [![Engine: Polars](https://img.shields.io/badge/Engine-Polars-6f42c1?style=for-the-badge)](https://pola.rs/) [![Data: \u591a\u6e90\u63d2\u4ef6\u5316 \u00b7 \u80fd\u529b\u8def\u7531](https://img.shields.io/badge/Data-%E5%A4%9A%E6%BA%90%E6%8F%9",
+        "topics": [
+          "a-stock",
+          "ai-agent",
+          "aigc",
+          "backtesting",
+          "daily",
+          "duckdb",
+          "fastapi",
+          "llm",
+          "polars",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading",
+          "react",
+          "screener",
+          "self-hosted",
+          "stock",
+          "stock-analysis",
+          "tdx",
+          "tickflow",
+          "tsp"
+        ],
+        "updated_at": "2026-09-25T12:40:08Z"
+      },
+      "repo": {
+        "description": "TSP\u81ea\u6258\u7ba1\u3001\u96f6\u8fd0\u7ef4\u7684 A \u80a1\u300c\u9009\u80a1 + \u76d1\u63a7 + \u56de\u6d4b\u300d\u91cf\u5316\u5de5\u4f5c\u53f0 | LLM\u80fd\u529b\u9a71\u4f7f\u7b56\u7565\u5b9a\u5236+\u4e2a\u80a1\u5206\u6790+\u590d\u76d8 | \u81ea\u7531\u63a5\u5165\u7b2c\u4e09\u65b9\u6570\u636e\u6e90\u4e0e\u4e2a\u6027\u5316\u6269\u5c55\u6570\u636e | \u4e2a\u4eba\u5f00\u6e90",
+        "forks": 1245,
+        "full_name": "shy3130/tick-stock-panel",
+        "language": "Python",
+        "name": "tick-stock-panel",
+        "owner": "shy3130",
+        "rank": 12,
+        "stars_today": 31,
+        "total_stars": 5042,
+        "url": "https://github.com/shy3130/tick-stock-panel"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.16,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 66.26
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 31 stars today; score 66.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-30T17:55:01Z",
+        "default_branch": "main",
+        "description": "Google's open agentic orchestration runtime",
+        "fork": false,
+        "full_name": "google/ax",
+        "homepage": "https://agentexecutor.io",
+        "latest_release": "v0.3.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 44,
+        "primary_language": "Go",
+        "pushed_at": "2026-09-25T06:31:23Z",
+        "readme_excerpt": "<h1> <img src=\"assets/axolotl.svg\" width=\"70\" align=\"absmiddle\" alt=\"AX axolotl\"> AX </h1> > [!WARNING] > We are still actively refining our core concepts, protocols, > and specifications. We will likely to introduce major breaking > changes prior to a stable release. **Declare an agentic task with workspaces and model specifications. AX sandboxes it, wires up its workspace, and helps running it at scale.** AX is a high-throughput, declarative orchestrator to run billions of autonomous agent wor",
+        "topics": [],
+        "updated_at": "2026-09-25T12:52:31Z"
+      },
+      "repo": {
+        "description": "Google's open agentic orchestration runtime",
+        "forks": 534,
+        "full_name": "google/ax",
+        "language": "Go",
+        "name": "ax",
+        "owner": "google",
+        "rank": 13,
+        "stars_today": 1386,
+        "total_stars": 11097,
+        "url": "https://github.com/google/ax"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 8.16,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 64.26
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Go project with 1386 stars today; score 64.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-11-20T18:36:20Z",
+        "default_branch": "main",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "fork": false,
+        "full_name": "anthropics/claude-plugins-official",
+        "homepage": "https://code.claude.com/docs/en/plugins",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1033,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-25T06:00:17Z",
+        "readme_excerpt": "# Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. > **\u26a0\ufe0f Important:** Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or other software are included in plugins and cannot verify that they will work as intended or that they won't change. See each plugin's homepage for more information. ## Structure - **`/plugins`** - Internal plugins developed and maintained by Anthropic - **`/ext",
+        "topics": [
+          "claude-code",
+          "mcp",
+          "skills"
+        ],
+        "updated_at": "2026-09-25T12:52:35Z"
+      },
+      "repo": {
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "forks": 4147,
+        "full_name": "anthropics/claude-plugins-official",
+        "language": "Python",
+        "name": "claude-plugins-official",
+        "owner": "anthropics",
+        "rank": 2,
+        "stars_today": 62,
+        "total_stars": 36761,
+        "url": "https://github.com/anthropics/claude-plugins-official"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.74,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 63.63
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 62 stars today; score 63.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-22T15:53:31Z",
+        "default_branch": "main",
+        "description": "Public repository for Agent Skills",
+        "fork": false,
+        "full_name": "anthropics/skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 1293,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-24T16:20:39Z",
+        "readme_excerpt": "> **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io). [![skills.sh](https://skills.sh/b/anthropics/skills)](https://skills.sh/anthropics/skills) # Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's",
+        "topics": [
+          "agent-skills"
+        ],
+        "updated_at": "2026-09-25T12:52:34Z"
+      },
+      "repo": {
+        "description": "Public repository for Agent Skills",
+        "forks": 21097,
+        "full_name": "anthropics/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "anthropics",
+        "rank": 7,
+        "stars_today": 155,
+        "total_stars": 178089,
+        "url": "https://github.com/anthropics/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.44,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 62.29
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Python project with 155 stars today; score 62.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-20T18:15:05Z",
+        "default_branch": "master",
+        "description": "Wifite but USB-only & cross-platform.",
+        "fork": false,
+        "full_name": "derv82/wifit3",
+        "homepage": null,
+        "latest_release": "v0.3.3",
+        "license_spdx": "GPL-2.0",
+        "open_issues": 5,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-23T09:07:44Z",
+        "readme_excerpt": "# wifit3 > A standalone USB Wi-Fi auditor for Linux, Windows, and macOS. <p align=\"center\"> <img src=\"assets/wifit3-1-splash.png\" alt=\"wifit3 splash / adapter picker\" width=\"700\"> </p> > *At least* one of the [supported USB adapters](#supported-hardware) is **required**. ## Why? * **Cross-Platform:** Runs identically on Linux, macOS, and Windows. * **Wireless Driver Heaven:** Built-in wireless stack avoids kernel driver versioning hell and Windows' NDIS. * **Zero Runtime Dependencies:** No `airc",
+        "topics": [
+          "cross-platform",
+          "userland",
+          "wifi-scanner",
+          "wifi-security",
+          "wireless-security"
+        ],
+        "updated_at": "2026-09-25T12:51:20Z"
+      },
+      "repo": {
+        "description": "Wifite but USB-only & cross-platform.",
+        "forks": 76,
+        "full_name": "derv82/wifit3",
+        "language": "Python",
+        "name": "wifit3",
+        "owner": "derv82",
+        "rank": 9,
+        "stars_today": 168,
+        "total_stars": 697,
+        "url": "https://github.com/derv82/wifit3"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.21,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 58.96
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 168 stars today; score 59.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-11-09T18:17:33Z",
+        "default_branch": "main",
+        "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+        "fork": false,
+        "full_name": "openbao/openbao",
+        "homepage": "https://openbao.org/",
+        "latest_release": "v2.7.0",
+        "license_spdx": "MPL-2.0",
+        "open_issues": 320,
+        "primary_language": "Go",
+        "pushed_at": "2026-09-24T20:34:53Z",
+        "readme_excerpt": "# OpenBao ---- **Please note**: We take OpenBao's security and our users' trust very seriously. If you believe you have found a security issue in OpenBao, _please responsibly disclose_ by contacting us at [openbao-security@lists.openssf.org](mailto:openbao-security@lists.openssf.org). ---- [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/openbao/openbao/badge)](https://scorecard.dev/viewer/?uri=github.com/openbao/openbao) [![OpenSSF Best Practices](https://www.bestpractices.de",
+        "topics": [
+          "go",
+          "secret-management",
+          "security"
+        ],
+        "updated_at": "2026-09-25T12:51:57Z"
+      },
+      "repo": {
+        "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+        "forks": 580,
+        "full_name": "openbao/openbao",
+        "language": "Go",
+        "name": "openbao",
+        "owner": "openbao",
+        "rank": 16,
+        "stars_today": 16,
+        "total_stars": 7532,
+        "url": "https://github.com/openbao/openbao"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.51,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 58.31
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 16 stars today; score 58.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-07-07T14:15:27Z",
+        "default_branch": "master",
+        "description": "Bootstrap Kubernetes the hard way. No scripts.",
+        "fork": false,
+        "full_name": "kelseyhightower/kubernetes-the-hard-way",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 56,
+        "primary_language": null,
+        "pushed_at": "2025-04-10T06:11:47Z",
+        "readme_excerpt": "# Kubernetes The Hard Way This tutorial walks you through setting up Kubernetes the hard way. This guide is not for someone looking for a fully automated tool to bring up a Kubernetes cluster. Kubernetes The Hard Way is optimized for learning, which means taking the long route to ensure you understand each task required to bootstrap a Kubernetes cluster. > The results of this tutorial should not be viewed as production ready, and may receive limited support from the community, but don't let that",
+        "topics": [],
+        "updated_at": "2026-09-25T12:54:31Z"
+      },
+      "repo": {
+        "description": "Bootstrap Kubernetes the hard way. No scripts.",
+        "forks": 15906,
+        "full_name": "kelseyhightower/kubernetes-the-hard-way",
+        "language": null,
+        "name": "kubernetes-the-hard-way",
+        "owner": "kelseyhightower",
+        "rank": 10,
+        "stars_today": 105,
+        "total_stars": 50021,
+        "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.78,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 1.14,
+        "technical_quality": 11.9,
+        "total": 45.42
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Unknown project with 105 stars today; score 45.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "forks": 22711,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 671,
+        "total_stars": 269414,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.07,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 39.02
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 671 stars today; score 39.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 26074,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 465,
+        "total_stars": 291437,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.28,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 34.43
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 465 stars today; score 34.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/rohitg00",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Learn it. Build it. Ship it for others.",
+        "forks": 9986,
+        "full_name": "sponsors/rohitg00",
+        "language": "Python",
+        "name": "rohitg00",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 1181,
+        "total_stars": 57118,
+        "url": "https://github.com/sponsors/rohitg00"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 7.51,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.07,
+        "technical_quality": 3.5,
+        "total": 23.78
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 1181 stars today; score 23.8/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-09-25",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is paperclipai/paperclip."
+}
