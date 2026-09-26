@@ -1,0 +1,1297 @@
+{
+  "date": "2026-09-26",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-03-28T16:21:06Z",
+        "default_branch": "main",
+        "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+        "fork": false,
+        "full_name": "mobile-next/mobile-mcp",
+        "homepage": "https://mobilenext.ai",
+        "latest_release": "1.0.4",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 43,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-23T15:38:57Z",
+        "readme_excerpt": "# Mobile Next - MCP server for Mobile Development and Automation | iOS, Android, Simulator, Emulator, and Real Devices **English** | [\u65e5\u672c\u8a9e](README.ja.md) | [\u7b80\u4f53\u4e2d\u6587](README.zh-CN.md) This is an MCP Server that enables scalable mobile automation, development through a platform-agnostic interface, eliminating the need for distinct iOS or Android knowledge. You can run it on emulators, simulators, and real devices (iOS and Android). This server allows Agents and LLMs to interact with native iOS/Android",
+        "topics": [
+          "agent",
+          "android",
+          "emulator",
+          "ios",
+          "mcp",
+          "mobile",
+          "physical",
+          "real",
+          "simulator"
+        ],
+        "updated_at": "2026-09-26T12:20:08Z"
+      },
+      "repo": {
+        "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+        "forks": 628,
+        "full_name": "mobile-next/mobile-mcp",
+        "language": "TypeScript",
+        "name": "mobile-mcp",
+        "owner": "mobile-next",
+        "rank": 14,
+        "stars_today": 143,
+        "total_stars": 7069,
+        "url": "https://github.com/mobile-next/mobile-mcp"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.3,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.35
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 143 stars today; score 73.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-06T21:00:56Z",
+        "default_branch": "main",
+        "description": "A hive mind communication platform",
+        "fork": false,
+        "full_name": "block/buzz",
+        "homepage": null,
+        "latest_release": "desktop-v0.5.25",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 3656,
+        "primary_language": "Rust",
+        "pushed_at": "2026-09-26T01:57:51Z",
+        "readme_excerpt": "<h1 align=\"center\">Buzz \ud83d\udc1d</h1> <p align=\"center\"> <strong>A workspace where humans and agents build together, on a relay you own.</strong> </p> <p align=\"center\"> <a href=\"VISION.md\">Vision</a> \u00b7 <a href=\"VISION_SOVEREIGN.md\">Sovereign</a> \u00b7 <a href=\"VISION_PROJECTS.md\">Forge</a> \u00b7 <a href=\"VISION_AGENT.md\">Agents</a> \u00b7 <a href=\"ARCHITECTURE.md\">Architecture</a> \u00b7 <a href=\"RELEASING.md\">Releasing</a> \u00b7 <a href=\"LICENSE\">Apache 2.0</a> </p> <p align=\"center\"> <img src=\"docs/assets/screenshots/cha",
+        "topics": [],
+        "updated_at": "2026-09-26T12:22:15Z"
+      },
+      "repo": {
+        "description": "A hive mind communication platform",
+        "forks": 4586,
+        "full_name": "block/buzz",
+        "language": "Rust",
+        "name": "buzz",
+        "owner": "block",
+        "rank": 8,
+        "stars_today": 175,
+        "total_stars": 34693,
+        "url": "https://github.com/block/buzz"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.29,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.54
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 175 stars today; score 63.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-05-19T15:26:50Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "anthropics/claude-code-action",
+        "homepage": null,
+        "latest_release": "v1",
+        "license_spdx": "MIT",
+        "open_issues": 805,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-25T21:52:11Z",
+        "readme_excerpt": "![Claude Code Action responding to a comment](https://github.com/user-attachments/assets/1d60c2e9-82ed-4ee5-b749-f9e021c85f4d) # Claude Code Action A general-purpose [Claude Code](https://claude.ai/code) action for GitHub PRs and issues that can answer questions and implement code changes. This action intelligently detects when to activate based on your workflow context\u2014whether responding to @claude mentions, issue assignments, or executing automation tasks with explicit prompts. It supports mul",
+        "topics": [],
+        "updated_at": "2026-09-26T12:20:05Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 2155,
+        "full_name": "anthropics/claude-code-action",
+        "language": "TypeScript",
+        "name": "claude-code-action",
+        "owner": "anthropics",
+        "rank": 12,
+        "stars_today": 15,
+        "total_stars": 8972,
+        "url": "https://github.com/anthropics/claude-code-action"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 4.9,
+        "momentum": 2.08,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 63.28
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 15 stars today; score 63.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-09-03T20:23:38Z",
+        "default_branch": "main",
+        "description": "Visual Studio Code",
+        "fork": false,
+        "full_name": "microsoft/vscode",
+        "homepage": "https://code.visualstudio.com",
+        "latest_release": "1.139.1",
+        "license_spdx": "MIT",
+        "open_issues": 21150,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-26T12:04:44Z",
+        "readme_excerpt": "# Visual Studio Code - Open Source (\"Code - OSS\") [![Feature Requests](https://img.shields.io/github/issues/microsoft/vscode/feature-request.svg)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc) [![Bugs](https://img.shields.io/github/issues/microsoft/vscode/bug.svg)](https://github.com/microsoft/vscode/issues?utf8=\u2713&q=is%3Aissue+is%3Aopen+label%3Abug) ## The Repository This repository (\"`Code - OSS`\") is where we (Microsoft) d",
+        "topics": [
+          "editor",
+          "electron",
+          "microsoft",
+          "typescript",
+          "visual-studio-code"
+        ],
+        "updated_at": "2026-09-26T12:19:59Z"
+      },
+      "repo": {
+        "description": "Visual Studio Code",
+        "forks": 43469,
+        "full_name": "microsoft/vscode",
+        "language": "TypeScript",
+        "name": "vscode",
+        "owner": "microsoft",
+        "rank": 9,
+        "stars_today": 78,
+        "total_stars": 192964,
+        "url": "https://github.com/microsoft/vscode"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.76,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.56
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 78 stars today; score 59.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-06-05T15:02:59Z",
+        "default_branch": "main",
+        "description": "GitHub Actions runner images",
+        "fork": false,
+        "full_name": "actions/runner-images",
+        "homepage": null,
+        "latest_release": "win25/20260922.270",
+        "license_spdx": "MIT",
+        "open_issues": 132,
+        "primary_language": "PowerShell",
+        "pushed_at": "2026-09-25T16:37:24Z",
+        "readme_excerpt": "# GitHub Actions Runner Images **Table of Contents** - [About](#about) - [Available Images](#available-images) - [Announcements](#announcements) - [Image Definitions](#image-definitions) - [Image Releases](#image-releases) - [Software and Image Support](#software-and-image-support) - [How to Interact with the Repo](#how-to-interact-with-the-repo) - [FAQs](#faqs) ## About This repository contains the source code used to create the VM images for [GitHub-hosted runners](https://docs.github.com/en/a",
+        "topics": [],
+        "updated_at": "2026-09-26T12:20:06Z"
+      },
+      "repo": {
+        "description": "GitHub Actions runner images",
+        "forks": 3858,
+        "full_name": "actions/runner-images",
+        "language": "PowerShell",
+        "name": "runner-images",
+        "owner": "actions",
+        "rank": 13,
+        "stars_today": 13,
+        "total_stars": 13216,
+        "url": "https://github.com/actions/runner-images"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.92,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 57.67
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: PowerShell project with 13 stars today; score 57.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-11-07T01:19:20Z",
+        "default_branch": "master",
+        "description": "An Open Source Machine Learning Framework for Everyone",
+        "fork": false,
+        "full_name": "tensorflow/tensorflow",
+        "homepage": "https://tensorflow.org",
+        "latest_release": "v2.21.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 3333,
+        "primary_language": "C++",
+        "pushed_at": "2026-09-26T12:02:29Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"https://www.tensorflow.org/images/tf_logo_horizontal.png\"> </div> [![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg)](https://badge.fury.io/py/tensorflow) [![PyPI](https://badge.fury.io/py/tensorflow.svg)](https://badge.fury.io/py/tensorflow) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4724125.svg)](https://doi.org/10.5281/zenodo.4724125) [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1486/badge)](https://bestpra",
+        "topics": [
+          "deep-learning",
+          "deep-neural-networks",
+          "distributed",
+          "machine-learning",
+          "ml",
+          "neural-network",
+          "python",
+          "tensorflow"
+        ],
+        "updated_at": "2026-09-26T12:19:56Z"
+      },
+      "repo": {
+        "description": "An Open Source Machine Learning Framework for Everyone",
+        "forks": 77552,
+        "full_name": "tensorflow/tensorflow",
+        "language": "C++",
+        "name": "tensorflow",
+        "owner": "tensorflow",
+        "rank": 5,
+        "stars_today": 31,
+        "total_stars": 200345,
+        "url": "https://github.com/tensorflow/tensorflow"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.15,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 52.21
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: C++ project with 31 stars today; score 52.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-10-05T23:32:51Z",
+        "default_branch": "canary",
+        "description": "The React Framework",
+        "fork": false,
+        "full_name": "vercel/next.js",
+        "homepage": "https://nextjs.org",
+        "latest_release": "v16.3.6",
+        "license_spdx": "MIT",
+        "open_issues": 3492,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-26T11:59:39Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://nextjs.org\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png\"> <img alt=\"Next.js logo\" src=\"https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png\" height=\"128\"> </picture> </a> <h1>Next.js</h1> <a href=\"https://vercel.com\"><img alt=\"Vercel logo\" src=\"https://img.shields.io/badge/MADE%20BY%20Vercel-000000.svg?style=for-the-badge&logo",
+        "topics": [
+          "blog",
+          "browser",
+          "compiler",
+          "components",
+          "hybrid",
+          "nextjs",
+          "node",
+          "react",
+          "server-rendering",
+          "ssg",
+          "static",
+          "static-site-generator",
+          "universal",
+          "vercel"
+        ],
+        "updated_at": "2026-09-26T12:22:32Z"
+      },
+      "repo": {
+        "description": "The React Framework",
+        "forks": 33079,
+        "full_name": "vercel/next.js",
+        "language": "JavaScript",
+        "name": "next.js",
+        "owner": "vercel",
+        "rank": 15,
+        "stars_today": 31,
+        "total_stars": 142464,
+        "url": "https://github.com/vercel/next.js"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.71,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 50.77
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: JavaScript project with 31 stars today; score 50.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/zhaoxuya520",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients \u9006\u5411/\u6e17\u900f/\u5b89\u5168\u6280\u80fd\u8def\u7531\u5305 - AI \u81ea\u52a8\u8def\u7531 + \u6309\u9700\u81ea\u4e3e\u5de5\u5177\u94fe + \u81ea\u52a8\u8fdb\u5316\u7ecf\u9a8c\u5e93 | \u652f\u6301 Claude Code / Kiro / Cursor / Cline \u7b49\u4ee3\u7801 AI \u5ba2\u6237\u7aef",
+        "forks": 5244,
+        "full_name": "sponsors/zhaoxuya520",
+        "language": "PowerShell",
+        "name": "zhaoxuya520",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 409,
+        "total_stars": 37728,
+        "url": "https://github.com/sponsors/zhaoxuya520"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.93,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 46.38
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: PowerShell project with 409 stars today; score 46.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/llvm",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+        "forks": 18813,
+        "full_name": "sponsors/llvm",
+        "language": "LLVM",
+        "name": "llvm",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 29,
+        "total_stars": 40686,
+        "url": "https://github.com/sponsors/llvm"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.28,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 31.43
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: LLVM project with 29 stars today; score 31.4/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-02T15:01:51Z",
+        "default_branch": "master",
+        "description": "The open-source app everyone uses to manage agents at work",
+        "fork": false,
+        "full_name": "paperclipai/paperclip",
+        "homepage": "https://paperclip.ing",
+        "latest_release": "v2026.916.1",
+        "license_spdx": "MIT",
+        "open_issues": 5731,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-26T09:36:11Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"doc/assets/banner.jpg\" alt=\"Paperclip is the app people use to manage AI agents for work.\" width=\"720\" /> </p> <p align=\"center\"> <a href=\"#quickstart\"><strong>Quickstart</strong></a> &middot; <a href=\"https://docs.paperclip.ing\"><strong>Docs</strong></a> &middot; <a href=\"https://github.com/paperclipai/paperclip\"><strong>GitHub</strong></a> &middot; <a href=\"https://discord.gg/m4HZY7xNG3\"><strong>Discord</strong></a> &middot; <a href=\"https://x.com/papercliping\"><st",
+        "topics": [],
+        "updated_at": "2026-09-26T12:22:19Z"
+      },
+      "repo": {
+        "description": "The open-source app everyone uses to manage agents at work",
+        "forks": 15313,
+        "full_name": "paperclipai/paperclip",
+        "language": "TypeScript",
+        "name": "paperclip",
+        "owner": "paperclipai",
+        "rank": 1,
+        "stars_today": 2109,
+        "total_stars": 85988,
+        "url": "https://github.com/paperclipai/paperclip"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 75.39
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 2109 stars today; score 75.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-03-28T16:21:06Z",
+        "default_branch": "main",
+        "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+        "fork": false,
+        "full_name": "mobile-next/mobile-mcp",
+        "homepage": "https://mobilenext.ai",
+        "latest_release": "1.0.4",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 43,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-23T15:38:57Z",
+        "readme_excerpt": "# Mobile Next - MCP server for Mobile Development and Automation | iOS, Android, Simulator, Emulator, and Real Devices **English** | [\u65e5\u672c\u8a9e](README.ja.md) | [\u7b80\u4f53\u4e2d\u6587](README.zh-CN.md) This is an MCP Server that enables scalable mobile automation, development through a platform-agnostic interface, eliminating the need for distinct iOS or Android knowledge. You can run it on emulators, simulators, and real devices (iOS and Android). This server allows Agents and LLMs to interact with native iOS/Android",
+        "topics": [
+          "agent",
+          "android",
+          "emulator",
+          "ios",
+          "mcp",
+          "mobile",
+          "physical",
+          "real",
+          "simulator"
+        ],
+        "updated_at": "2026-09-26T12:20:08Z"
+      },
+      "repo": {
+        "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+        "forks": 628,
+        "full_name": "mobile-next/mobile-mcp",
+        "language": "TypeScript",
+        "name": "mobile-mcp",
+        "owner": "mobile-next",
+        "rank": 14,
+        "stars_today": 143,
+        "total_stars": 7069,
+        "url": "https://github.com/mobile-next/mobile-mcp"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.3,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.35
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 143 stars today; score 73.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-04-23T19:00:54Z",
+        "default_branch": "main",
+        "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+        "fork": false,
+        "full_name": "NVIDIA/Model-Optimizer",
+        "homepage": "https://nvidia.github.io/Model-Optimizer/",
+        "latest_release": "0.47.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 419,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-26T06:14:55Z",
+        "readme_excerpt": "<div align=\"center\"> ![Banner image](docs/source/assets/model-optimizer-banner.png) # NVIDIA Model Optimizer [![Documentation](https://img.shields.io/badge/Documentation-latest-brightgreen.svg?style=flat)](https://nvidia.github.io/Model-Optimizer) [![version](https://img.shields.io/pypi/v/nvidia-modelopt?label=Release)](https://pypi.org/project/nvidia-modelopt/) [![license](https://img.shields.io/badge/License-Apache%202.0-blue)](./LICENSE) [Documentation](https://nvidia.github.io/Model-Optimize",
+        "topics": [],
+        "updated_at": "2026-09-26T12:22:20Z"
+      },
+      "repo": {
+        "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+        "forks": 656,
+        "full_name": "NVIDIA/Model-Optimizer",
+        "language": "Python",
+        "name": "Model-Optimizer",
+        "owner": "NVIDIA",
+        "rank": 3,
+        "stars_today": 359,
+        "total_stars": 4602,
+        "url": "https://github.com/NVIDIA/Model-Optimizer"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.74,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 72.69
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 359 stars today; score 72.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-09-29T12:09:14Z",
+        "default_branch": "dev",
+        "description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "fork": false,
+        "full_name": "dream-num/univer",
+        "homepage": "https://docs.univer.ai",
+        "latest_release": "v1.0.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 146,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-24T14:02:42Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"./docs/img/banner.png\" alt=\"Univer SDK\" width=\"800\" /> **The Office Harness for AI Agents** Spreadsheets \u00b7 Documents \u00b7 Presentations \u00b7 Bases \u00b7 Boards \u00b7 PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture, Canvas-based rendering, a formula engine, and one Facade API that works in the browser and on Node.js. English | [\u7b80\u4f53\u4e2d\u6587](./docs/readme/zh-CN.md) | [\u7e41\u9ad4\u4e2d\u6587](./docs/readme/zh-TW.md) | [",
+        "topics": [
+          "board",
+          "collaboration",
+          "data-table",
+          "doc",
+          "docx",
+          "excel",
+          "grid",
+          "pdf",
+          "ppt",
+          "pptx",
+          "presentation",
+          "sdk",
+          "sheet",
+          "slides",
+          "spreadsheet",
+          "table",
+          "word",
+          "wordprocessor",
+          "xlsx"
+        ],
+        "updated_at": "2026-09-26T12:19:45Z"
+      },
+      "repo": {
+        "description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "forks": 1615,
+        "full_name": "dream-num/univer",
+        "language": "TypeScript",
+        "name": "univer",
+        "owner": "dream-num",
+        "rank": 4,
+        "stars_today": 1050,
+        "total_stars": 18951,
+        "url": "https://github.com/dream-num/univer"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.35,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 70.8
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1050 stars today; score 70.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-30T11:49:48Z",
+        "default_branch": "main",
+        "description": "Hindsight: Agent Memory That Learns",
+        "fork": false,
+        "full_name": "vectorize-io/hindsight",
+        "homepage": "https://hindsight.vectorize.io/",
+        "latest_release": "v0.10.1",
+        "license_spdx": "MIT",
+        "open_issues": 140,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-25T20:14:12Z",
+        "readme_excerpt": "<div align=\"center\"> ![Hindsight Banner](./hindsight-docs/static/img/hindsight-github-banner.png) [Documentation](https://hindsight.vectorize.io) \u2022 [Integrations](https://hindsight.vectorize.io/integrations) \u2022 [Cookbook](https://hindsight.vectorize.io/cookbook) \u2022 [Benchmarks](https://benchmarks.hindsight.vectorize.io/) \u2022 [Paper](https://arxiv.org/abs/2512.12818) \u2022 [Hindsight Cloud](https://ui.hindsight.vectorize.io/signup) [![Release](https://github.com/vectorize-io/hindsight/actions/workflows/r",
+        "topics": [
+          "agentic-ai",
+          "agents",
+          "ai-memory",
+          "memory"
+        ],
+        "updated_at": "2026-09-26T12:22:18Z"
+      },
+      "repo": {
+        "description": "Hindsight: Agent Memory That Learns",
+        "forks": 3305,
+        "full_name": "vectorize-io/hindsight",
+        "language": "Python",
+        "name": "hindsight",
+        "owner": "vectorize-io",
+        "rank": 2,
+        "stars_today": 1653,
+        "total_stars": 30675,
+        "url": "https://github.com/vectorize-io/hindsight"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 10.04,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 70.64
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1653 stars today; score 70.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-06T21:00:56Z",
+        "default_branch": "main",
+        "description": "A hive mind communication platform",
+        "fork": false,
+        "full_name": "block/buzz",
+        "homepage": null,
+        "latest_release": "desktop-v0.5.25",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 3656,
+        "primary_language": "Rust",
+        "pushed_at": "2026-09-26T01:57:51Z",
+        "readme_excerpt": "<h1 align=\"center\">Buzz \ud83d\udc1d</h1> <p align=\"center\"> <strong>A workspace where humans and agents build together, on a relay you own.</strong> </p> <p align=\"center\"> <a href=\"VISION.md\">Vision</a> \u00b7 <a href=\"VISION_SOVEREIGN.md\">Sovereign</a> \u00b7 <a href=\"VISION_PROJECTS.md\">Forge</a> \u00b7 <a href=\"VISION_AGENT.md\">Agents</a> \u00b7 <a href=\"ARCHITECTURE.md\">Architecture</a> \u00b7 <a href=\"RELEASING.md\">Releasing</a> \u00b7 <a href=\"LICENSE\">Apache 2.0</a> </p> <p align=\"center\"> <img src=\"docs/assets/screenshots/cha",
+        "topics": [],
+        "updated_at": "2026-09-26T12:22:15Z"
+      },
+      "repo": {
+        "description": "A hive mind communication platform",
+        "forks": 4586,
+        "full_name": "block/buzz",
+        "language": "Rust",
+        "name": "buzz",
+        "owner": "block",
+        "rank": 8,
+        "stars_today": 175,
+        "total_stars": 34693,
+        "url": "https://github.com/block/buzz"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.29,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.54
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 175 stars today; score 63.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-05-19T15:26:50Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "anthropics/claude-code-action",
+        "homepage": null,
+        "latest_release": "v1",
+        "license_spdx": "MIT",
+        "open_issues": 805,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-25T21:52:11Z",
+        "readme_excerpt": "![Claude Code Action responding to a comment](https://github.com/user-attachments/assets/1d60c2e9-82ed-4ee5-b749-f9e021c85f4d) # Claude Code Action A general-purpose [Claude Code](https://claude.ai/code) action for GitHub PRs and issues that can answer questions and implement code changes. This action intelligently detects when to activate based on your workflow context\u2014whether responding to @claude mentions, issue assignments, or executing automation tasks with explicit prompts. It supports mul",
+        "topics": [],
+        "updated_at": "2026-09-26T12:20:05Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 2155,
+        "full_name": "anthropics/claude-code-action",
+        "language": "TypeScript",
+        "name": "claude-code-action",
+        "owner": "anthropics",
+        "rank": 12,
+        "stars_today": 15,
+        "total_stars": 8972,
+        "url": "https://github.com/anthropics/claude-code-action"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 4.9,
+        "momentum": 2.08,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 63.28
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 15 stars today; score 63.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-09-03T20:23:38Z",
+        "default_branch": "main",
+        "description": "Visual Studio Code",
+        "fork": false,
+        "full_name": "microsoft/vscode",
+        "homepage": "https://code.visualstudio.com",
+        "latest_release": "1.139.1",
+        "license_spdx": "MIT",
+        "open_issues": 21150,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-26T12:04:44Z",
+        "readme_excerpt": "# Visual Studio Code - Open Source (\"Code - OSS\") [![Feature Requests](https://img.shields.io/github/issues/microsoft/vscode/feature-request.svg)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc) [![Bugs](https://img.shields.io/github/issues/microsoft/vscode/bug.svg)](https://github.com/microsoft/vscode/issues?utf8=\u2713&q=is%3Aissue+is%3Aopen+label%3Abug) ## The Repository This repository (\"`Code - OSS`\") is where we (Microsoft) d",
+        "topics": [
+          "editor",
+          "electron",
+          "microsoft",
+          "typescript",
+          "visual-studio-code"
+        ],
+        "updated_at": "2026-09-26T12:19:59Z"
+      },
+      "repo": {
+        "description": "Visual Studio Code",
+        "forks": 43469,
+        "full_name": "microsoft/vscode",
+        "language": "TypeScript",
+        "name": "vscode",
+        "owner": "microsoft",
+        "rank": 9,
+        "stars_today": 78,
+        "total_stars": 192964,
+        "url": "https://github.com/microsoft/vscode"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.76,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.56
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 78 stars today; score 59.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-06-05T15:02:59Z",
+        "default_branch": "main",
+        "description": "GitHub Actions runner images",
+        "fork": false,
+        "full_name": "actions/runner-images",
+        "homepage": null,
+        "latest_release": "win25/20260922.270",
+        "license_spdx": "MIT",
+        "open_issues": 132,
+        "primary_language": "PowerShell",
+        "pushed_at": "2026-09-25T16:37:24Z",
+        "readme_excerpt": "# GitHub Actions Runner Images **Table of Contents** - [About](#about) - [Available Images](#available-images) - [Announcements](#announcements) - [Image Definitions](#image-definitions) - [Image Releases](#image-releases) - [Software and Image Support](#software-and-image-support) - [How to Interact with the Repo](#how-to-interact-with-the-repo) - [FAQs](#faqs) ## About This repository contains the source code used to create the VM images for [GitHub-hosted runners](https://docs.github.com/en/a",
+        "topics": [],
+        "updated_at": "2026-09-26T12:20:06Z"
+      },
+      "repo": {
+        "description": "GitHub Actions runner images",
+        "forks": 3858,
+        "full_name": "actions/runner-images",
+        "language": "PowerShell",
+        "name": "runner-images",
+        "owner": "actions",
+        "rank": 13,
+        "stars_today": 13,
+        "total_stars": 13216,
+        "url": "https://github.com/actions/runner-images"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.92,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 57.67
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: PowerShell project with 13 stars today; score 57.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-11-09T18:17:33Z",
+        "default_branch": "main",
+        "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+        "fork": false,
+        "full_name": "openbao/openbao",
+        "homepage": "https://openbao.org/",
+        "latest_release": "v2.7.0",
+        "license_spdx": "MPL-2.0",
+        "open_issues": 326,
+        "primary_language": "Go",
+        "pushed_at": "2026-09-24T20:34:53Z",
+        "readme_excerpt": "# OpenBao ---- **Please note**: We take OpenBao's security and our users' trust very seriously. If you believe you have found a security issue in OpenBao, _please responsibly disclose_ by contacting us at [openbao-security@lists.openssf.org](mailto:openbao-security@lists.openssf.org). ---- [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/openbao/openbao/badge)](https://scorecard.dev/viewer/?uri=github.com/openbao/openbao) [![OpenSSF Best Practices](https://www.bestpractices.de",
+        "topics": [
+          "go",
+          "secret-management",
+          "security"
+        ],
+        "updated_at": "2026-09-26T12:19:58Z"
+      },
+      "repo": {
+        "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+        "forks": 587,
+        "full_name": "openbao/openbao",
+        "language": "Go",
+        "name": "openbao",
+        "owner": "openbao",
+        "rank": 7,
+        "stars_today": 49,
+        "total_stars": 7883,
+        "url": "https://github.com/openbao/openbao"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.93,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 54.53
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 49 stars today; score 54.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-11-07T01:19:20Z",
+        "default_branch": "master",
+        "description": "An Open Source Machine Learning Framework for Everyone",
+        "fork": false,
+        "full_name": "tensorflow/tensorflow",
+        "homepage": "https://tensorflow.org",
+        "latest_release": "v2.21.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 3333,
+        "primary_language": "C++",
+        "pushed_at": "2026-09-26T12:02:29Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"https://www.tensorflow.org/images/tf_logo_horizontal.png\"> </div> [![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg)](https://badge.fury.io/py/tensorflow) [![PyPI](https://badge.fury.io/py/tensorflow.svg)](https://badge.fury.io/py/tensorflow) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4724125.svg)](https://doi.org/10.5281/zenodo.4724125) [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1486/badge)](https://bestpra",
+        "topics": [
+          "deep-learning",
+          "deep-neural-networks",
+          "distributed",
+          "machine-learning",
+          "ml",
+          "neural-network",
+          "python",
+          "tensorflow"
+        ],
+        "updated_at": "2026-09-26T12:19:56Z"
+      },
+      "repo": {
+        "description": "An Open Source Machine Learning Framework for Everyone",
+        "forks": 77552,
+        "full_name": "tensorflow/tensorflow",
+        "language": "C++",
+        "name": "tensorflow",
+        "owner": "tensorflow",
+        "rank": 5,
+        "stars_today": 31,
+        "total_stars": 200345,
+        "url": "https://github.com/tensorflow/tensorflow"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.15,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 52.21
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: C++ project with 31 stars today; score 52.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-10-05T23:32:51Z",
+        "default_branch": "canary",
+        "description": "The React Framework",
+        "fork": false,
+        "full_name": "vercel/next.js",
+        "homepage": "https://nextjs.org",
+        "latest_release": "v16.3.6",
+        "license_spdx": "MIT",
+        "open_issues": 3492,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-26T11:59:39Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://nextjs.org\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png\"> <img alt=\"Next.js logo\" src=\"https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png\" height=\"128\"> </picture> </a> <h1>Next.js</h1> <a href=\"https://vercel.com\"><img alt=\"Vercel logo\" src=\"https://img.shields.io/badge/MADE%20BY%20Vercel-000000.svg?style=for-the-badge&logo",
+        "topics": [
+          "blog",
+          "browser",
+          "compiler",
+          "components",
+          "hybrid",
+          "nextjs",
+          "node",
+          "react",
+          "server-rendering",
+          "ssg",
+          "static",
+          "static-site-generator",
+          "universal",
+          "vercel"
+        ],
+        "updated_at": "2026-09-26T12:22:32Z"
+      },
+      "repo": {
+        "description": "The React Framework",
+        "forks": 33079,
+        "full_name": "vercel/next.js",
+        "language": "JavaScript",
+        "name": "next.js",
+        "owner": "vercel",
+        "rank": 15,
+        "stars_today": 31,
+        "total_stars": 142464,
+        "url": "https://github.com/vercel/next.js"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.71,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 50.77
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: JavaScript project with 31 stars today; score 50.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/zhaoxuya520",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients \u9006\u5411/\u6e17\u900f/\u5b89\u5168\u6280\u80fd\u8def\u7531\u5305 - AI \u81ea\u52a8\u8def\u7531 + \u6309\u9700\u81ea\u4e3e\u5de5\u5177\u94fe + \u81ea\u52a8\u8fdb\u5316\u7ecf\u9a8c\u5e93 | \u652f\u6301 Claude Code / Kiro / Cursor / Cline \u7b49\u4ee3\u7801 AI \u5ba2\u6237\u7aef",
+        "forks": 5244,
+        "full_name": "sponsors/zhaoxuya520",
+        "language": "PowerShell",
+        "name": "zhaoxuya520",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 409,
+        "total_stars": 37728,
+        "url": "https://github.com/sponsors/zhaoxuya520"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.93,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 46.38
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: PowerShell project with 409 stars today; score 46.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/llvm",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+        "forks": 18813,
+        "full_name": "sponsors/llvm",
+        "language": "LLVM",
+        "name": "llvm",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 29,
+        "total_stars": 40686,
+        "url": "https://github.com/sponsors/llvm"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.28,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 31.43
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: LLVM project with 29 stars today; score 31.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/rohitg00",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Learn it. Build it. Ship it for others.",
+        "forks": 10058,
+        "full_name": "sponsors/rohitg00",
+        "language": "Python",
+        "name": "rohitg00",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 1177,
+        "total_stars": 57905,
+        "url": "https://github.com/sponsors/rohitg00"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 7.57,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.09,
+        "technical_quality": 3.5,
+        "total": 23.86
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 1177 stars today; score 23.9/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-09-26",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is mobile-next/mobile-mcp."
+}
