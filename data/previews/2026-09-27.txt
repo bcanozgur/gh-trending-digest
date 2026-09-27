@@ -1,0 +1,29 @@
+GitHub Trending: AI workflow signal - 2026-09-27
+
+Today leans toward AI workflow signal; the strongest pick is mvschwarz/openrig.
+
+Top picks
+1. mvschwarz/openrig - 74.0/100
+   https://github.com/mvschwarz/openrig
+   AI Workflow, DevTools: TypeScript project with 114 stars today; score 74.0/100.
+2. debpalash/VoiceStudio - 64.8/100
+   https://github.com/debpalash/VoiceStudio
+   AI Workflow, DevTools: Python project with 3060 stars today; score 64.8/100.
+3. vercel-labs/scriptc - 59.8/100
+   https://github.com/vercel-labs/scriptc
+   AI Workflow, Try Today: TypeScript project with 76 stars today; score 59.8/100.
+4. willfaust/Madeira - 55.0/100
+   https://github.com/willfaust/Madeira
+   AI Workflow, Try Today: C project with 171 stars today; score 55.0/100.
+5. InfinityLoop1308/PipePipe - 50.7/100
+   https://github.com/InfinityLoop1308/PipePipe
+   Try Today: Shell project with 139 stars today; score 50.7/100.
+
+Full reviewed list
+- mvschwarz/openrig: 74.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 114 stars today; score 74.0/100.
+- debpalash/VoiceStudio: 64.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 3060 stars today; score 64.8/100.
+- vercel-labs/scriptc: 59.8/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 76 stars today; score 59.8/100.
+- willfaust/Madeira: 55.0/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: C project with 171 stars today; score 55.0/100.
+- InfinityLoop1308/PipePipe: 50.7/100 [Try Today] Try Today: Shell project with 139 stars today; score 50.7/100.
+
+Generated for 2026-09-27 from GitHub Trending daily.

@@ -1,0 +1,800 @@
+{
+  "date": "2026-09-27",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-01T06:22:40Z",
+        "default_branch": "main",
+        "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+        "fork": false,
+        "full_name": "mvschwarz/openrig",
+        "homepage": "https://openrig.dev",
+        "latest_release": "v0.5.17",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 39,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-27T07:43:07Z",
+        "readme_excerpt": "# OpenRig [![npm version](https://img.shields.io/npm/v/@openrig/cli)](https://www.npmjs.com/package/@openrig/cli) [![npm downloads](https://img.shields.io/npm/dw/@openrig/cli)](https://www.npmjs.com/package/@openrig/cli) [![License: Apache 2.0](https://img.shields.io/github/license/mvschwarz/openrig)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/mvschwarz/openrig?style=social)](https://github.com/mvschwarz/openrig/stargazers) A harness wraps a model. A rig wraps your harnesses. ",
+        "topics": [
+          "agent-harness",
+          "agent-orchestration",
+          "agent-skills",
+          "ai-coding",
+          "claude-code",
+          "cli",
+          "codex-cli",
+          "multi-agent",
+          "multi-agent-systems",
+          "tmux",
+          "typescript"
+        ],
+        "updated_at": "2026-09-27T13:13:50Z"
+      },
+      "repo": {
+        "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+        "forks": 80,
+        "full_name": "mvschwarz/openrig",
+        "language": "TypeScript",
+        "name": "openrig",
+        "owner": "mvschwarz",
+        "rank": 7,
+        "stars_today": 114,
+        "total_stars": 630,
+        "url": "https://github.com/mvschwarz/openrig"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.95,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 74.0
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 114 stars today; score 74.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-09T21:40:26Z",
+        "default_branch": "main",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "fork": false,
+        "full_name": "debpalash/VoiceStudio",
+        "homepage": "https://voicestudio.sh",
+        "latest_release": "v0.5.6",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 15,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-27T13:03:53Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"docs/logo.png\" alt=\"VoiceStudio\" width=\"88\" /> <h1>VoiceStudio</h1> <p> <a href=\"https://trendshift.io/repositories/28176?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-28176\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/28176\" alt=\"VoiceStudio ranking on Trendshift\" width=\"220\" height=\"48\" /></a> </p> <p><strong>Open-source voice cloning, voice design, video dubbing, dictation,",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "tauri",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "updated_at": "2026-09-27T13:13:50Z"
+      },
+      "repo": {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "forks": 4606,
+        "full_name": "debpalash/VoiceStudio",
+        "language": "Python",
+        "name": "VoiceStudio",
+        "owner": "debpalash",
+        "rank": 3,
+        "stars_today": 3060,
+        "total_stars": 38742,
+        "url": "https://github.com/debpalash/VoiceStudio"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 9.07,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 64.78
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 3060 stars today; score 64.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-22T23:04:54Z",
+        "default_branch": "main",
+        "description": "TypeScript-to-Native Compiler",
+        "fork": false,
+        "full_name": "vercel-labs/scriptc",
+        "homepage": "https://scriptc.dev",
+        "latest_release": "v0.1.6",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 55,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-27T12:54:11Z",
+        "readme_excerpt": "# scriptc <p> <a href=\"https://vercel.com/labs#active-experiments\"><img alt=\"Vercel Labs Experiment\" src=\"https://img.shields.io/badge/LABS-EXPERIMENT-0a0a0a.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000000\" height=\"28\"></a> <a href=\"https://www.npmjs.com/package/scriptc\"><img alt=\"npm version: scriptc\" src=\"https://img.shields.io/npm/v/scriptc.svg?style=for-the-badge&amp;labelColor=000000\" height=\"28\"></a> <a href=\"https://github.com/vercel-labs/scriptc/blob/main/LICENSE\"><img alt=",
+        "topics": [],
+        "updated_at": "2026-09-27T13:13:43Z"
+      },
+      "repo": {
+        "description": "TypeScript-to-Native Compiler",
+        "forks": 134,
+        "full_name": "vercel-labs/scriptc",
+        "language": "TypeScript",
+        "name": "scriptc",
+        "owner": "vercel-labs",
+        "rank": 6,
+        "stars_today": 76,
+        "total_stars": 5219,
+        "url": "https://github.com/vercel-labs/scriptc"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.02,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.82
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 76 stars today; score 59.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-07T17:25:50Z",
+        "default_branch": "main",
+        "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+        "fork": false,
+        "full_name": "willfaust/Madeira",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "GPL-3.0",
+        "open_issues": 28,
+        "primary_language": "C",
+        "pushed_at": "2026-09-25T07:23:42Z",
+        "readme_excerpt": "# Madeira Run Windows PC games on a non-jailbroken iPhone. Madeira combines [Wine](https://www.winehq.org/) (ARM64EC), [FEX-Emu](https://github.com/FEX-Emu/FEX) for x86-64 \u2192 ARM64 translation, and [DXMT](https://github.com/3Shain/DXMT) for D3D11 \u2192 Metal, running as a single Mach process on iOS with wineserver as a thread rather than a separate process. ## Status Thumper and ULTRAKILL are playable. Marvel Cosmic Invasion has reached gameplay, though a run has also ended in an unexplained terminat",
+        "topics": [],
+        "updated_at": "2026-09-27T13:11:45Z"
+      },
+      "repo": {
+        "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+        "forks": 150,
+        "full_name": "willfaust/Madeira",
+        "language": "C",
+        "name": "Madeira",
+        "owner": "willfaust",
+        "rank": 9,
+        "stars_today": 171,
+        "total_stars": 689,
+        "url": "https://github.com/willfaust/Madeira"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.77,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 55.02
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: C project with 171 stars today; score 55.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-05-11T06:30:25Z",
+        "default_branch": "main",
+        "description": "An open-source Android app to let you browse YouTube and other services freely. ",
+        "fork": false,
+        "full_name": "InfinityLoop1308/PipePipe",
+        "homepage": "https://pipepipe.dev",
+        "latest_release": "v5.4.0",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 153,
+        "primary_language": "Shell",
+        "pushed_at": "2026-09-26T08:12:59Z",
+        "readme_excerpt": "<hr> <p align=\"center\"><img src=\"assets/logo.png\" width=\"150\"></p> <h2 align=\"center\"><b>PipePipe</b></h2> <h4 align=\"center\"> NewPipe, reimagined: faster, more stable, and packed with more features.</h4> <p align=\"center\"><a href=\"https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced/\"><img src=\"https://fdroid.gitlab.io/artwork/badge/get-it-on.png\" alt=\"Get it on F-Droid\" width=\"207\" /></a> <a href=\"https://apt.izzysoft.de/fdroid/index/apk/InfinityLoop1309.NewPipeEnhanced\"><img src=\"ass",
+        "topics": [
+          "android",
+          "mediaplayer",
+          "newpipe",
+          "sponsorblock",
+          "youtube"
+        ],
+        "updated_at": "2026-09-27T13:11:54Z"
+      },
+      "repo": {
+        "description": "An open-source Android app to let you browse YouTube and other services freely.",
+        "forks": 214,
+        "full_name": "InfinityLoop1308/PipePipe",
+        "language": "Shell",
+        "name": "PipePipe",
+        "owner": "InfinityLoop1308",
+        "rank": 5,
+        "stars_today": 139,
+        "total_stars": 6388,
+        "url": "https://github.com/InfinityLoop1308/PipePipe"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.29,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 1.34,
+        "technical_quality": 14.0,
+        "total": 50.68
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Shell project with 139 stars today; score 50.7/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-01T06:22:40Z",
+        "default_branch": "main",
+        "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+        "fork": false,
+        "full_name": "mvschwarz/openrig",
+        "homepage": "https://openrig.dev",
+        "latest_release": "v0.5.17",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 39,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-27T07:43:07Z",
+        "readme_excerpt": "# OpenRig [![npm version](https://img.shields.io/npm/v/@openrig/cli)](https://www.npmjs.com/package/@openrig/cli) [![npm downloads](https://img.shields.io/npm/dw/@openrig/cli)](https://www.npmjs.com/package/@openrig/cli) [![License: Apache 2.0](https://img.shields.io/github/license/mvschwarz/openrig)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/mvschwarz/openrig?style=social)](https://github.com/mvschwarz/openrig/stargazers) A harness wraps a model. A rig wraps your harnesses. ",
+        "topics": [
+          "agent-harness",
+          "agent-orchestration",
+          "agent-skills",
+          "ai-coding",
+          "claude-code",
+          "cli",
+          "codex-cli",
+          "multi-agent",
+          "multi-agent-systems",
+          "tmux",
+          "typescript"
+        ],
+        "updated_at": "2026-09-27T13:13:50Z"
+      },
+      "repo": {
+        "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+        "forks": 80,
+        "full_name": "mvschwarz/openrig",
+        "language": "TypeScript",
+        "name": "openrig",
+        "owner": "mvschwarz",
+        "rank": 7,
+        "stars_today": 114,
+        "total_stars": 630,
+        "url": "https://github.com/mvschwarz/openrig"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.95,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 74.0
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 114 stars today; score 74.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-30T11:49:48Z",
+        "default_branch": "main",
+        "description": "Hindsight: Agent Memory That Learns",
+        "fork": false,
+        "full_name": "vectorize-io/hindsight",
+        "homepage": "https://hindsight.vectorize.io/",
+        "latest_release": "v0.10.1",
+        "license_spdx": "MIT",
+        "open_issues": 162,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-26T14:14:46Z",
+        "readme_excerpt": "<div align=\"center\"> ![Hindsight Banner](./hindsight-docs/static/img/hindsight-github-banner.png) [Documentation](https://hindsight.vectorize.io) \u2022 [Integrations](https://hindsight.vectorize.io/integrations) \u2022 [Cookbook](https://hindsight.vectorize.io/cookbook) \u2022 [Benchmarks](https://benchmarks.hindsight.vectorize.io/) \u2022 [Paper](https://arxiv.org/abs/2512.12818) \u2022 [Hindsight Cloud](https://ui.hindsight.vectorize.io/signup) [![Release](https://github.com/vectorize-io/hindsight/actions/workflows/r",
+        "topics": [
+          "agentic-ai",
+          "agents",
+          "ai-memory",
+          "memory"
+        ],
+        "updated_at": "2026-09-27T13:13:43Z"
+      },
+      "repo": {
+        "description": "Hindsight: Agent Memory That Learns",
+        "forks": 4454,
+        "full_name": "vectorize-io/hindsight",
+        "language": "Python",
+        "name": "hindsight",
+        "owner": "vectorize-io",
+        "rank": 2,
+        "stars_today": 4463,
+        "total_stars": 35374,
+        "url": "https://github.com/vectorize-io/hindsight"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.86,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 72.46
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 4463 stars today; score 72.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-02T15:01:51Z",
+        "default_branch": "master",
+        "description": "The open-source app everyone uses to manage agents at work",
+        "fork": false,
+        "full_name": "paperclipai/paperclip",
+        "homepage": "https://paperclip.ing",
+        "latest_release": "v2026.916.1",
+        "license_spdx": "MIT",
+        "open_issues": 5803,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-27T12:25:56Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"doc/assets/banner.jpg\" alt=\"Paperclip is the app people use to manage AI agents for work.\" width=\"720\" /> </p> <p align=\"center\"> <a href=\"#quickstart\"><strong>Quickstart</strong></a> &middot; <a href=\"https://docs.paperclip.ing\"><strong>Docs</strong></a> &middot; <a href=\"https://github.com/paperclipai/paperclip\"><strong>GitHub</strong></a> &middot; <a href=\"https://discord.gg/m4HZY7xNG3\"><strong>Discord</strong></a> &middot; <a href=\"https://x.com/papercliping\"><st",
+        "topics": [],
+        "updated_at": "2026-09-27T13:13:41Z"
+      },
+      "repo": {
+        "description": "The open-source app everyone uses to manage agents at work",
+        "forks": 15548,
+        "full_name": "paperclipai/paperclip",
+        "language": "TypeScript",
+        "name": "paperclip",
+        "owner": "paperclipai",
+        "rank": 1,
+        "stars_today": 2527,
+        "total_stars": 88574,
+        "url": "https://github.com/paperclipai/paperclip"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 8.36,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 71.75
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 2527 stars today; score 71.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-09-29T12:09:14Z",
+        "default_branch": "dev",
+        "description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "fork": false,
+        "full_name": "dream-num/univer",
+        "homepage": "https://docs.univer.ai",
+        "latest_release": "v1.0.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 152,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-27T13:11:49Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"./docs/img/banner.png\" alt=\"Univer SDK\" width=\"800\" /> **The Office Harness for AI Agents** Spreadsheets \u00b7 Documents \u00b7 Presentations \u00b7 Bases \u00b7 Boards \u00b7 PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture, Canvas-based rendering, a formula engine, and one Facade API that works in the browser and on Node.js. English | [\u7b80\u4f53\u4e2d\u6587](./docs/readme/zh-CN.md) | [\u7e41\u9ad4\u4e2d\u6587](./docs/readme/zh-TW.md) | [",
+        "topics": [
+          "board",
+          "collaboration",
+          "data-table",
+          "doc",
+          "docx",
+          "excel",
+          "grid",
+          "pdf",
+          "ppt",
+          "pptx",
+          "presentation",
+          "sdk",
+          "sheet",
+          "slides",
+          "spreadsheet",
+          "table",
+          "word",
+          "wordprocessor",
+          "xlsx"
+        ],
+        "updated_at": "2026-09-27T13:13:38Z"
+      },
+      "repo": {
+        "description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "forks": 1691,
+        "full_name": "dream-num/univer",
+        "language": "TypeScript",
+        "name": "univer",
+        "owner": "dream-num",
+        "rank": 8,
+        "stars_today": 920,
+        "total_stars": 19882,
+        "url": "https://github.com/dream-num/univer"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.32,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 67.77
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 920 stars today; score 67.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-09T21:40:26Z",
+        "default_branch": "main",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "fork": false,
+        "full_name": "debpalash/VoiceStudio",
+        "homepage": "https://voicestudio.sh",
+        "latest_release": "v0.5.6",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 15,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-27T13:03:53Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"docs/logo.png\" alt=\"VoiceStudio\" width=\"88\" /> <h1>VoiceStudio</h1> <p> <a href=\"https://trendshift.io/repositories/28176?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-28176\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/28176\" alt=\"VoiceStudio ranking on Trendshift\" width=\"220\" height=\"48\" /></a> </p> <p><strong>Open-source voice cloning, voice design, video dubbing, dictation,",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "tauri",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "updated_at": "2026-09-27T13:13:50Z"
+      },
+      "repo": {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "forks": 4606,
+        "full_name": "debpalash/VoiceStudio",
+        "language": "Python",
+        "name": "VoiceStudio",
+        "owner": "debpalash",
+        "rank": 3,
+        "stars_today": 3060,
+        "total_stars": 38742,
+        "url": "https://github.com/debpalash/VoiceStudio"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 9.07,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 64.78
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 3060 stars today; score 64.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-22T23:04:54Z",
+        "default_branch": "main",
+        "description": "TypeScript-to-Native Compiler",
+        "fork": false,
+        "full_name": "vercel-labs/scriptc",
+        "homepage": "https://scriptc.dev",
+        "latest_release": "v0.1.6",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 55,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-27T12:54:11Z",
+        "readme_excerpt": "# scriptc <p> <a href=\"https://vercel.com/labs#active-experiments\"><img alt=\"Vercel Labs Experiment\" src=\"https://img.shields.io/badge/LABS-EXPERIMENT-0a0a0a.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000000\" height=\"28\"></a> <a href=\"https://www.npmjs.com/package/scriptc\"><img alt=\"npm version: scriptc\" src=\"https://img.shields.io/npm/v/scriptc.svg?style=for-the-badge&amp;labelColor=000000\" height=\"28\"></a> <a href=\"https://github.com/vercel-labs/scriptc/blob/main/LICENSE\"><img alt=",
+        "topics": [],
+        "updated_at": "2026-09-27T13:13:43Z"
+      },
+      "repo": {
+        "description": "TypeScript-to-Native Compiler",
+        "forks": 134,
+        "full_name": "vercel-labs/scriptc",
+        "language": "TypeScript",
+        "name": "scriptc",
+        "owner": "vercel-labs",
+        "rank": 6,
+        "stars_today": 76,
+        "total_stars": 5219,
+        "url": "https://github.com/vercel-labs/scriptc"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.02,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.82
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 76 stars today; score 59.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-07T17:25:50Z",
+        "default_branch": "main",
+        "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+        "fork": false,
+        "full_name": "willfaust/Madeira",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "GPL-3.0",
+        "open_issues": 28,
+        "primary_language": "C",
+        "pushed_at": "2026-09-25T07:23:42Z",
+        "readme_excerpt": "# Madeira Run Windows PC games on a non-jailbroken iPhone. Madeira combines [Wine](https://www.winehq.org/) (ARM64EC), [FEX-Emu](https://github.com/FEX-Emu/FEX) for x86-64 \u2192 ARM64 translation, and [DXMT](https://github.com/3Shain/DXMT) for D3D11 \u2192 Metal, running as a single Mach process on iOS with wineserver as a thread rather than a separate process. ## Status Thumper and ULTRAKILL are playable. Marvel Cosmic Invasion has reached gameplay, though a run has also ended in an unexplained terminat",
+        "topics": [],
+        "updated_at": "2026-09-27T13:11:45Z"
+      },
+      "repo": {
+        "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+        "forks": 150,
+        "full_name": "willfaust/Madeira",
+        "language": "C",
+        "name": "Madeira",
+        "owner": "willfaust",
+        "rank": 9,
+        "stars_today": 171,
+        "total_stars": 689,
+        "url": "https://github.com/willfaust/Madeira"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.77,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 55.02
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: C project with 171 stars today; score 55.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-05-11T06:30:25Z",
+        "default_branch": "main",
+        "description": "An open-source Android app to let you browse YouTube and other services freely. ",
+        "fork": false,
+        "full_name": "InfinityLoop1308/PipePipe",
+        "homepage": "https://pipepipe.dev",
+        "latest_release": "v5.4.0",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 153,
+        "primary_language": "Shell",
+        "pushed_at": "2026-09-26T08:12:59Z",
+        "readme_excerpt": "<hr> <p align=\"center\"><img src=\"assets/logo.png\" width=\"150\"></p> <h2 align=\"center\"><b>PipePipe</b></h2> <h4 align=\"center\"> NewPipe, reimagined: faster, more stable, and packed with more features.</h4> <p align=\"center\"><a href=\"https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced/\"><img src=\"https://fdroid.gitlab.io/artwork/badge/get-it-on.png\" alt=\"Get it on F-Droid\" width=\"207\" /></a> <a href=\"https://apt.izzysoft.de/fdroid/index/apk/InfinityLoop1309.NewPipeEnhanced\"><img src=\"ass",
+        "topics": [
+          "android",
+          "mediaplayer",
+          "newpipe",
+          "sponsorblock",
+          "youtube"
+        ],
+        "updated_at": "2026-09-27T13:11:54Z"
+      },
+      "repo": {
+        "description": "An open-source Android app to let you browse YouTube and other services freely.",
+        "forks": 214,
+        "full_name": "InfinityLoop1308/PipePipe",
+        "language": "Shell",
+        "name": "PipePipe",
+        "owner": "InfinityLoop1308",
+        "rank": 5,
+        "stars_today": 139,
+        "total_stars": 6388,
+        "url": "https://github.com/InfinityLoop1308/PipePipe"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.29,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 1.34,
+        "technical_quality": 14.0,
+        "total": 50.68
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Shell project with 139 stars today; score 50.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/rohitg00",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Learn it. Build it. Ship it for others.",
+        "forks": 10182,
+        "full_name": "sponsors/rohitg00",
+        "language": "Python",
+        "name": "rohitg00",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 848,
+        "total_stars": 58774,
+        "url": "https://github.com/sponsors/rohitg00"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.76,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.95,
+        "technical_quality": 3.5,
+        "total": 19.91
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 848 stars today; score 19.9/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-09-27",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is mvschwarz/openrig."
+}
