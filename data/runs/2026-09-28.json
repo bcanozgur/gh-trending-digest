@@ -1,0 +1,629 @@
+{
+  "date": "2026-09-28",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-01-26T15:30:07Z",
+        "default_branch": "master",
+        "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+        "fork": false,
+        "full_name": "cs341-illinois/coursebook",
+        "homepage": "http://cs241.cs.illinois.edu/coursebook",
+        "latest_release": "fa19",
+        "license_spdx": null,
+        "open_issues": 48,
+        "primary_language": "TeX",
+        "pushed_at": "2026-09-26T17:06:12Z",
+        "readme_excerpt": "# Coursebook [![Build Status](https://github.com/cs341-illinois/coursebook/actions/workflows/deploy.yaml/badge.svg?branch=master)](https://github.com/cs341-illinois/coursebook/actions/workflows/deploy.yaml) [![Current Pdf Link](https://img.shields.io/badge/current-pdf-blue.svg)](https://github.com/cs341-illinois/coursebook/blob/pdf_deploy/main.pdf) [![Current Wiki Link](https://img.shields.io/badge/current-wiki-blue.svg)](https://github.com/cs341-illinois/coursebook/wiki) [![Current HTML Link](h",
+        "topics": [
+          "awesome",
+          "c",
+          "latex",
+          "linux",
+          "posix",
+          "system-programming",
+          "wikibook"
+        ],
+        "updated_at": "2026-09-28T15:45:02Z"
+      },
+      "repo": {
+        "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+        "forks": 223,
+        "full_name": "cs341-illinois/coursebook",
+        "language": "TeX",
+        "name": "coursebook",
+        "owner": "cs341-illinois",
+        "rank": 5,
+        "stars_today": 265,
+        "total_stars": 2331,
+        "url": "https://github.com/cs341-illinois/coursebook"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.53,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 59.89
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TeX project with 265 stars today; score 59.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2017-05-30T07:18:52Z",
+        "default_branch": "master",
+        "description": "An advanced guide which might benefit you a lot \ud83c\udf89 . \u97e9\u5148\u51ef\u7684\u4eba\u751f\u8fdb\u9636\u6307\u5357 \u4eba\u751f\u8fdb\u9636\u6307\u5357 \u79bb\u8c31\u7684\u4eba\u751f \u4eba\u751f\u8fdb\u9636 AI\u5b66\u4e60 AI\u6307\u5357 \u97e9\u5148\u51ef\u7684AI\u5b66\u4e60\u6307\u5357 \u82f1\u8bed\u5b66\u4e60\u6307\u5357/\u82f1\u8bed\u5b66\u4e60\u6559\u7a0b/\u82f1\u8bed\u5b66\u4e60/\u5b66\u82f1\u8bed",
+        "fork": false,
+        "full_name": "byoungd/up",
+        "homepage": "https://biezou.com",
+        "latest_release": null,
+        "license_spdx": "NOASSERTION",
+        "open_issues": 32,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-20T04:50:30Z",
+        "readme_excerpt": "--- title: \u4eba\u751f\u8fdb\u9636\u6307\u5357\uff5cAI \u65f6\u4ee3\u7ec8\u8eab\u5b66\u4e60 description: \u300a\u4eba\u751f\u8fdb\u9636\u6307\u5357\u300b\u5e2e\u52a9\u666e\u901a\u4eba\u5728 AI \u65f6\u4ee3\u6301\u7eed\u5b66\u4e60\u3001\u5b8c\u6210\u771f\u5b9e\u9879\u76ee\u3001\u7a7f\u8d8a\u4eba\u751f\u4f4e\u8c37\u5e76\u7559\u4e0b\u6210\u957f\u8bc1\u636e\u3002 updated: 2026-09-02 --- # \u4eba\u751f\u8fdb\u9636\u6307\u5357 \u4e2d\u6587 | [English](docs/en/README.md) **\u97e9\u5148\u51ef \u8457\uff08\u7b14\u540d\uff1a\u79bb\u8c31\uff09** \u526f\u6807\u9898\uff1a**AI \u65f6\u4ee3\u7ec8\u8eab\u5b66\u4e60\u6307\u5357**\u3002\u8fd9\u662f\u4e00\u4efd\u6301\u7eed\u66f4\u65b0\u7684\u4e66\u7a3f\uff0c\u4ece\u82f1\u8bed\u8fd9\u6247\u5177\u4f53\u7684\u95e8\u51fa\u53d1\uff0c\u5199\u5230 AI \u5b66\u4e60\u3001\u771f\u5b9e\u9879\u76ee\u3001\u521b\u4e1a\u5931\u8d25\u3001\u8eab\u4f53\u6062\u590d\uff0c\u4ee5\u53ca\u4e00\u4e2a\u666e\u901a\u4eba\u600e\u6837\u628a\u751f\u6d3b\u4e00\u70b9\u70b9\u4ea4\u8fd8\u7ed9\u81ea\u5df1\u3002 <div class=\"book-meta\" aria-label=\"\u4e66\u7a3f\u4fe1\u606f\"> <span>\u6301\u7eed\u66f4\u65b0\u4e66\u7a3f</span> <a href=\"./docs/public/downloads/life-level-up-guide-zh.epub\" download>\u4e0b\u8f7d\u4e2d\u6587 EPUB</a> <a href=\"./docs/public/downloads/life-level-up-guide-en.epub\" download>Download English EPU",
+        "topics": [
+          "chinese",
+          "english-learning",
+          "tutorial"
+        ],
+        "updated_at": "2026-09-28T15:46:21Z"
+      },
+      "repo": {
+        "description": "An advanced guide which might benefit you a lot \ud83c\udf89 . \u97e9\u5148\u51ef\u7684\u4eba\u751f\u8fdb\u9636\u6307\u5357 \u4eba\u751f\u8fdb\u9636\u6307\u5357 \u79bb\u8c31\u7684\u4eba\u751f \u4eba\u751f\u8fdb\u9636 AI\u5b66\u4e60 AI\u6307\u5357 \u97e9\u5148\u51ef\u7684AI\u5b66\u4e60\u6307\u5357 \u82f1\u8bed\u5b66\u4e60\u6307\u5357/\u82f1\u8bed\u5b66\u4e60\u6559\u7a0b/\u82f1\u8bed\u5b66\u4e60/\u5b66\u82f1\u8bed",
+        "forks": 6504,
+        "full_name": "byoungd/up",
+        "language": "JavaScript",
+        "name": "up",
+        "owner": "byoungd",
+        "rank": 6,
+        "stars_today": 310,
+        "total_stars": 64503,
+        "url": "https://github.com/byoungd/up"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.47,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 3.85,
+        "strategic_relevance": 3.01,
+        "technical_quality": 9.1,
+        "total": 52.22
+      },
+      "tags": [
+        "AI Workflow"
+      ],
+      "verdict": "AI Workflow: JavaScript project with 310 stars today; score 52.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-08T23:20:58Z",
+        "default_branch": "main",
+        "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+        "fork": false,
+        "full_name": "NawfalMotii79/PLFM_RADAR",
+        "homepage": null,
+        "latest_release": "v2.0.2-p0-audit",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 15,
+        "primary_language": "PLSQL",
+        "pushed_at": "2026-06-17T02:44:52Z",
+        "readme_excerpt": "[![GitHub stars](https://img.shields.io/github/stars/NawfalMotii79/PLFM_RADAR?style=social)](https://github.com/NawfalMotii79/PLFM_RADAR/stargazers) [![GitHub forks](https://img.shields.io/github/forks/NawfalMotii79/PLFM_RADAR?style=social)](https://github.com/NawfalMotii79/PLFM_RADAR/network/members) [![GitHub watchers](https://img.shields.io/github/watchers/NawfalMotii79/PLFM_RADAR?style=social)](https://github.com/NawfalMotii79/PLFM_RADAR/watchers) [![License: MIT](https://img.shields.io/badg",
+        "topics": [],
+        "updated_at": "2026-09-28T15:42:34Z"
+      },
+      "repo": {
+        "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+        "forks": 5877,
+        "full_name": "NawfalMotii79/PLFM_RADAR",
+        "language": "PLSQL",
+        "name": "PLFM_RADAR",
+        "owner": "NawfalMotii79",
+        "rank": 4,
+        "stars_today": 145,
+        "total_stars": 25656,
+        "url": "https://github.com/NawfalMotii79/PLFM_RADAR"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.44,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.2,
+        "strategic_relevance": 1.41,
+        "technical_quality": 11.2,
+        "total": 45.3
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: PLSQL project with 145 stars today; score 45.3/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-02T15:01:51Z",
+        "default_branch": "master",
+        "description": "The open-source app everyone uses to manage agents at work",
+        "fork": false,
+        "full_name": "paperclipai/paperclip",
+        "homepage": "https://paperclip.ing",
+        "latest_release": "v2026.916.1",
+        "license_spdx": "MIT",
+        "open_issues": 5920,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-28T15:47:08Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"doc/assets/banner.jpg\" alt=\"Paperclip is the app people use to manage AI agents for work.\" width=\"720\" /> </p> <p align=\"center\"> <a href=\"#quickstart\"><strong>Quickstart</strong></a> &middot; <a href=\"https://docs.paperclip.ing\"><strong>Docs</strong></a> &middot; <a href=\"https://github.com/paperclipai/paperclip\"><strong>GitHub</strong></a> &middot; <a href=\"https://discord.gg/m4HZY7xNG3\"><strong>Discord</strong></a> &middot; <a href=\"https://x.com/papercliping\"><st",
+        "topics": [],
+        "updated_at": "2026-09-28T15:47:40Z"
+      },
+      "repo": {
+        "description": "The open-source app everyone uses to manage agents at work",
+        "forks": 15832,
+        "full_name": "paperclipai/paperclip",
+        "language": "TypeScript",
+        "name": "paperclip",
+        "owner": "paperclipai",
+        "rank": 2,
+        "stars_today": 3185,
+        "total_stars": 92040,
+        "url": "https://github.com/paperclipai/paperclip"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 9.52,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 72.91
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 3185 stars today; score 72.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-30T11:49:48Z",
+        "default_branch": "main",
+        "description": "Hindsight: Agent Memory That Learns",
+        "fork": false,
+        "full_name": "vectorize-io/hindsight",
+        "homepage": "https://hindsight.vectorize.io/",
+        "latest_release": "v0.10.1",
+        "license_spdx": "MIT",
+        "open_issues": 175,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-28T14:42:21Z",
+        "readme_excerpt": "<div align=\"center\"> ![Hindsight Banner](./hindsight-docs/static/img/hindsight-github-banner.png) [Documentation](https://hindsight.vectorize.io) \u2022 [Integrations](https://hindsight.vectorize.io/integrations) \u2022 [Cookbook](https://hindsight.vectorize.io/cookbook) \u2022 [Benchmarks](https://benchmarks.hindsight.vectorize.io/) \u2022 [Paper](https://arxiv.org/abs/2512.12818) \u2022 [Hindsight Cloud](https://ui.hindsight.vectorize.io/signup) [![Release](https://github.com/vectorize-io/hindsight/actions/workflows/r",
+        "topics": [
+          "agentic-ai",
+          "agents",
+          "ai-memory",
+          "memory"
+        ],
+        "updated_at": "2026-09-28T15:48:14Z"
+      },
+      "repo": {
+        "description": "Hindsight: Agent Memory That Learns",
+        "forks": 5391,
+        "full_name": "vectorize-io/hindsight",
+        "language": "Python",
+        "name": "hindsight",
+        "owner": "vectorize-io",
+        "rank": 3,
+        "stars_today": 4413,
+        "total_stars": 40262,
+        "url": "https://github.com/vectorize-io/hindsight"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.71,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 72.31
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 4413 stars today; score 72.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-01T06:22:40Z",
+        "default_branch": "main",
+        "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+        "fork": false,
+        "full_name": "mvschwarz/openrig",
+        "homepage": "https://openrig.dev",
+        "latest_release": "v0.5.17",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 52,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-28T10:36:40Z",
+        "readme_excerpt": "# OpenRig [![npm version](https://img.shields.io/npm/v/@openrig/cli)](https://www.npmjs.com/package/@openrig/cli) [![npm downloads](https://img.shields.io/npm/dw/@openrig/cli)](https://www.npmjs.com/package/@openrig/cli) [![License: Apache 2.0](https://img.shields.io/github/license/mvschwarz/openrig)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/mvschwarz/openrig?style=social)](https://github.com/mvschwarz/openrig/stargazers) A harness wraps a model. A rig wraps your harnesses. ",
+        "topics": [
+          "agent-harness",
+          "agent-orchestration",
+          "agent-skills",
+          "ai-coding",
+          "claude-code",
+          "cli",
+          "codex-cli",
+          "multi-agent",
+          "multi-agent-systems",
+          "tmux",
+          "typescript"
+        ],
+        "updated_at": "2026-09-28T15:47:04Z"
+      },
+      "repo": {
+        "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+        "forks": 125,
+        "full_name": "mvschwarz/openrig",
+        "language": "TypeScript",
+        "name": "openrig",
+        "owner": "mvschwarz",
+        "rank": 7,
+        "stars_today": 781,
+        "total_stars": 1485,
+        "url": "https://github.com/mvschwarz/openrig"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.22,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 70.07
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 781 stars today; score 70.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-09-29T12:09:14Z",
+        "default_branch": "dev",
+        "description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "fork": false,
+        "full_name": "dream-num/univer",
+        "homepage": "https://docs.univer.ai",
+        "latest_release": "v1.0.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 146,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-28T13:11:29Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"./docs/img/banner.png\" alt=\"Univer SDK\" width=\"800\" /> **The Office Harness for AI Agents** Spreadsheets \u00b7 Documents \u00b7 Presentations \u00b7 Bases \u00b7 Boards \u00b7 PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture, Canvas-based rendering, a formula engine, and one Facade API that works in the browser and on Node.js. English | [\u7b80\u4f53\u4e2d\u6587](./docs/readme/zh-CN.md) | [\u7e41\u9ad4\u4e2d\u6587](./docs/readme/zh-TW.md) | [",
+        "topics": [
+          "board",
+          "collaboration",
+          "data-table",
+          "doc",
+          "docx",
+          "excel",
+          "grid",
+          "pdf",
+          "ppt",
+          "pptx",
+          "presentation",
+          "sdk",
+          "sheet",
+          "slides",
+          "spreadsheet",
+          "table",
+          "word",
+          "wordprocessor",
+          "xlsx"
+        ],
+        "updated_at": "2026-09-28T15:44:52Z"
+      },
+      "repo": {
+        "description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "forks": 1792,
+        "full_name": "dream-num/univer",
+        "language": "TypeScript",
+        "name": "univer",
+        "owner": "dream-num",
+        "rank": 8,
+        "stars_today": 1105,
+        "total_stars": 21052,
+        "url": "https://github.com/dream-num/univer"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.7,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 68.15
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1105 stars today; score 68.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-09T21:40:26Z",
+        "default_branch": "main",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "fork": false,
+        "full_name": "debpalash/VoiceStudio",
+        "homepage": "https://voicestudio.sh",
+        "latest_release": "v0.5.6",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 40,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-28T13:59:06Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"docs/logo.png\" alt=\"VoiceStudio\" width=\"88\" /> <h1>VoiceStudio</h1> <p> <a href=\"https://trendshift.io/repositories/28176?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-28176\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/28176\" alt=\"VoiceStudio ranking on Trendshift\" width=\"220\" height=\"48\" /></a> </p> <p><strong>Open-source voice cloning, voice design, video dubbing, dictation,",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "tauri",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "updated_at": "2026-09-28T15:48:15Z"
+      },
+      "repo": {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "forks": 4994,
+        "full_name": "debpalash/VoiceStudio",
+        "language": "Python",
+        "name": "VoiceStudio",
+        "owner": "debpalash",
+        "rank": 1,
+        "stars_today": 3274,
+        "total_stars": 42632,
+        "url": "https://github.com/debpalash/VoiceStudio"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 9.83,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 65.54
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 3274 stars today; score 65.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-01-26T15:30:07Z",
+        "default_branch": "master",
+        "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+        "fork": false,
+        "full_name": "cs341-illinois/coursebook",
+        "homepage": "http://cs241.cs.illinois.edu/coursebook",
+        "latest_release": "fa19",
+        "license_spdx": null,
+        "open_issues": 48,
+        "primary_language": "TeX",
+        "pushed_at": "2026-09-26T17:06:12Z",
+        "readme_excerpt": "# Coursebook [![Build Status](https://github.com/cs341-illinois/coursebook/actions/workflows/deploy.yaml/badge.svg?branch=master)](https://github.com/cs341-illinois/coursebook/actions/workflows/deploy.yaml) [![Current Pdf Link](https://img.shields.io/badge/current-pdf-blue.svg)](https://github.com/cs341-illinois/coursebook/blob/pdf_deploy/main.pdf) [![Current Wiki Link](https://img.shields.io/badge/current-wiki-blue.svg)](https://github.com/cs341-illinois/coursebook/wiki) [![Current HTML Link](h",
+        "topics": [
+          "awesome",
+          "c",
+          "latex",
+          "linux",
+          "posix",
+          "system-programming",
+          "wikibook"
+        ],
+        "updated_at": "2026-09-28T15:45:02Z"
+      },
+      "repo": {
+        "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+        "forks": 223,
+        "full_name": "cs341-illinois/coursebook",
+        "language": "TeX",
+        "name": "coursebook",
+        "owner": "cs341-illinois",
+        "rank": 5,
+        "stars_today": 265,
+        "total_stars": 2331,
+        "url": "https://github.com/cs341-illinois/coursebook"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.53,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 59.89
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TeX project with 265 stars today; score 59.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2017-05-30T07:18:52Z",
+        "default_branch": "master",
+        "description": "An advanced guide which might benefit you a lot \ud83c\udf89 . \u97e9\u5148\u51ef\u7684\u4eba\u751f\u8fdb\u9636\u6307\u5357 \u4eba\u751f\u8fdb\u9636\u6307\u5357 \u79bb\u8c31\u7684\u4eba\u751f \u4eba\u751f\u8fdb\u9636 AI\u5b66\u4e60 AI\u6307\u5357 \u97e9\u5148\u51ef\u7684AI\u5b66\u4e60\u6307\u5357 \u82f1\u8bed\u5b66\u4e60\u6307\u5357/\u82f1\u8bed\u5b66\u4e60\u6559\u7a0b/\u82f1\u8bed\u5b66\u4e60/\u5b66\u82f1\u8bed",
+        "fork": false,
+        "full_name": "byoungd/up",
+        "homepage": "https://biezou.com",
+        "latest_release": null,
+        "license_spdx": "NOASSERTION",
+        "open_issues": 32,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-20T04:50:30Z",
+        "readme_excerpt": "--- title: \u4eba\u751f\u8fdb\u9636\u6307\u5357\uff5cAI \u65f6\u4ee3\u7ec8\u8eab\u5b66\u4e60 description: \u300a\u4eba\u751f\u8fdb\u9636\u6307\u5357\u300b\u5e2e\u52a9\u666e\u901a\u4eba\u5728 AI \u65f6\u4ee3\u6301\u7eed\u5b66\u4e60\u3001\u5b8c\u6210\u771f\u5b9e\u9879\u76ee\u3001\u7a7f\u8d8a\u4eba\u751f\u4f4e\u8c37\u5e76\u7559\u4e0b\u6210\u957f\u8bc1\u636e\u3002 updated: 2026-09-02 --- # \u4eba\u751f\u8fdb\u9636\u6307\u5357 \u4e2d\u6587 | [English](docs/en/README.md) **\u97e9\u5148\u51ef \u8457\uff08\u7b14\u540d\uff1a\u79bb\u8c31\uff09** \u526f\u6807\u9898\uff1a**AI \u65f6\u4ee3\u7ec8\u8eab\u5b66\u4e60\u6307\u5357**\u3002\u8fd9\u662f\u4e00\u4efd\u6301\u7eed\u66f4\u65b0\u7684\u4e66\u7a3f\uff0c\u4ece\u82f1\u8bed\u8fd9\u6247\u5177\u4f53\u7684\u95e8\u51fa\u53d1\uff0c\u5199\u5230 AI \u5b66\u4e60\u3001\u771f\u5b9e\u9879\u76ee\u3001\u521b\u4e1a\u5931\u8d25\u3001\u8eab\u4f53\u6062\u590d\uff0c\u4ee5\u53ca\u4e00\u4e2a\u666e\u901a\u4eba\u600e\u6837\u628a\u751f\u6d3b\u4e00\u70b9\u70b9\u4ea4\u8fd8\u7ed9\u81ea\u5df1\u3002 <div class=\"book-meta\" aria-label=\"\u4e66\u7a3f\u4fe1\u606f\"> <span>\u6301\u7eed\u66f4\u65b0\u4e66\u7a3f</span> <a href=\"./docs/public/downloads/life-level-up-guide-zh.epub\" download>\u4e0b\u8f7d\u4e2d\u6587 EPUB</a> <a href=\"./docs/public/downloads/life-level-up-guide-en.epub\" download>Download English EPU",
+        "topics": [
+          "chinese",
+          "english-learning",
+          "tutorial"
+        ],
+        "updated_at": "2026-09-28T15:46:21Z"
+      },
+      "repo": {
+        "description": "An advanced guide which might benefit you a lot \ud83c\udf89 . \u97e9\u5148\u51ef\u7684\u4eba\u751f\u8fdb\u9636\u6307\u5357 \u4eba\u751f\u8fdb\u9636\u6307\u5357 \u79bb\u8c31\u7684\u4eba\u751f \u4eba\u751f\u8fdb\u9636 AI\u5b66\u4e60 AI\u6307\u5357 \u97e9\u5148\u51ef\u7684AI\u5b66\u4e60\u6307\u5357 \u82f1\u8bed\u5b66\u4e60\u6307\u5357/\u82f1\u8bed\u5b66\u4e60\u6559\u7a0b/\u82f1\u8bed\u5b66\u4e60/\u5b66\u82f1\u8bed",
+        "forks": 6504,
+        "full_name": "byoungd/up",
+        "language": "JavaScript",
+        "name": "up",
+        "owner": "byoungd",
+        "rank": 6,
+        "stars_today": 310,
+        "total_stars": 64503,
+        "url": "https://github.com/byoungd/up"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.47,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 3.85,
+        "strategic_relevance": 3.01,
+        "technical_quality": 9.1,
+        "total": 52.22
+      },
+      "tags": [
+        "AI Workflow"
+      ],
+      "verdict": "AI Workflow: JavaScript project with 310 stars today; score 52.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-08T23:20:58Z",
+        "default_branch": "main",
+        "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+        "fork": false,
+        "full_name": "NawfalMotii79/PLFM_RADAR",
+        "homepage": null,
+        "latest_release": "v2.0.2-p0-audit",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 15,
+        "primary_language": "PLSQL",
+        "pushed_at": "2026-06-17T02:44:52Z",
+        "readme_excerpt": "[![GitHub stars](https://img.shields.io/github/stars/NawfalMotii79/PLFM_RADAR?style=social)](https://github.com/NawfalMotii79/PLFM_RADAR/stargazers) [![GitHub forks](https://img.shields.io/github/forks/NawfalMotii79/PLFM_RADAR?style=social)](https://github.com/NawfalMotii79/PLFM_RADAR/network/members) [![GitHub watchers](https://img.shields.io/github/watchers/NawfalMotii79/PLFM_RADAR?style=social)](https://github.com/NawfalMotii79/PLFM_RADAR/watchers) [![License: MIT](https://img.shields.io/badg",
+        "topics": [],
+        "updated_at": "2026-09-28T15:42:34Z"
+      },
+      "repo": {
+        "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+        "forks": 5877,
+        "full_name": "NawfalMotii79/PLFM_RADAR",
+        "language": "PLSQL",
+        "name": "PLFM_RADAR",
+        "owner": "NawfalMotii79",
+        "rank": 4,
+        "stars_today": 145,
+        "total_stars": 25656,
+        "url": "https://github.com/NawfalMotii79/PLFM_RADAR"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.44,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.2,
+        "strategic_relevance": 1.41,
+        "technical_quality": 11.2,
+        "total": 45.3
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: PLSQL project with 145 stars today; score 45.3/100."
+    }
+  ],
+  "subject": "GitHub Trending: daily developer signal - 2026-09-28",
+  "summary": "Today leans toward daily developer signal; the strongest pick is cs341-illinois/coursebook."
+}

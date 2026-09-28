@@ -1,0 +1,21 @@
+GitHub Trending: daily developer signal - 2026-09-28
+
+Today leans toward daily developer signal; the strongest pick is cs341-illinois/coursebook.
+
+Top picks
+1. cs341-illinois/coursebook - 59.9/100
+   https://github.com/cs341-illinois/coursebook
+   AI Workflow, DevTools: TeX project with 265 stars today; score 59.9/100.
+2. byoungd/up - 52.2/100
+   https://github.com/byoungd/up
+   AI Workflow: JavaScript project with 310 stars today; score 52.2/100.
+3. NawfalMotii79/PLFM_RADAR - 45.3/100
+   https://github.com/NawfalMotii79/PLFM_RADAR
+   Watch: PLSQL project with 145 stars today; score 45.3/100.
+
+Full reviewed list
+- cs341-illinois/coursebook: 59.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TeX project with 265 stars today; score 59.9/100.
+- byoungd/up: 52.2/100 [AI Workflow] AI Workflow: JavaScript project with 310 stars today; score 52.2/100.
+- NawfalMotii79/PLFM_RADAR: 45.3/100 [Watch] Watch: PLSQL project with 145 stars today; score 45.3/100.
+
+Generated for 2026-09-28 from GitHub Trending daily.
