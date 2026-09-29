@@ -1,0 +1,1180 @@
+{
+  "date": "2026-09-29",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-05T20:16:56Z",
+        "default_branch": "main",
+        "description": "Self-hosted deployment platform",
+        "fork": false,
+        "full_name": "oblien/openship",
+        "homepage": "https://openship.io",
+        "latest_release": "v0.8.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 119,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-29T14:08:37Z",
+        "readme_excerpt": "<h1 align=\"center\">Openship</h1> <p align=\"center\"> Open-source, self-hostable deployment platform with built-in CI/CD.<br> Point it at a repo \u2014 it builds, ships, routes, and TLS-terminates your app. Drive it from a desktop app, web dashboard, or CLI. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/38817?utm_source=repository-badge&utm_medium=badge&utm_campaign=badge-repository-38817\"> <img src=\"https://trendshift.io/api/badge/repositories/38817\" alt=\"Trendshift\" width=\"250\" ",
+        "topics": [
+          "agents",
+          "ai",
+          "deployments",
+          "self-hosted"
+        ],
+        "updated_at": "2026-09-29T14:10:32Z"
+      },
+      "repo": {
+        "description": "Self-hosted deployment platform",
+        "forks": 1215,
+        "full_name": "oblien/openship",
+        "language": "TypeScript",
+        "name": "openship",
+        "owner": "oblien",
+        "rank": 7,
+        "stars_today": 436,
+        "total_stars": 13612,
+        "url": "https://github.com/oblien/openship"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.51,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 75.76
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 436 stars today; score 75.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-24T22:52:22Z",
+        "default_branch": "main",
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "fork": false,
+        "full_name": "NVIDIA/OpenShell",
+        "homepage": "https://docs.nvidia.com/openshell/latest/",
+        "latest_release": "v0.1.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 468,
+        "primary_language": "Rust",
+        "pushed_at": "2026-09-29T14:03:27Z",
+        "readme_excerpt": "<!-- markdownlint-disable MD033 MD041 --> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/brand/assets/openshell-banner-dark.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/brand/assets/openshell-banner-light.png\"> <img alt=\"OpenShell\" src=\"docs/brand/assets/openshell-banner-light.png\" width=\"430\"> </picture> <!-- markdownlint-enable MD033 MD041 --> [![License](https://img.shields.io/badge/License-Apache_2.0-blue)](https://github.com/NVIDIA/OpenShell/blob/mai",
+        "topics": [],
+        "updated_at": "2026-09-29T14:14:25Z"
+      },
+      "repo": {
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "forks": 1385,
+        "full_name": "NVIDIA/OpenShell",
+        "language": "Rust",
+        "name": "OpenShell",
+        "owner": "NVIDIA",
+        "rank": 2,
+        "stars_today": 978,
+        "total_stars": 10102,
+        "url": "https://github.com/NVIDIA/OpenShell"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.2,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 71.0
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 978 stars today; score 71.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-09-29T12:09:14Z",
+        "default_branch": "dev",
+        "description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "fork": false,
+        "full_name": "dream-num/univer",
+        "homepage": "https://docs.univer.ai",
+        "latest_release": "v1.0.3",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 145,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-29T13:13:36Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"./docs/img/banner.png\" alt=\"Univer SDK\" width=\"800\" /> **The Office Harness for AI Agents** Spreadsheets \u00b7 Documents \u00b7 Presentations \u00b7 Bases \u00b7 Boards \u00b7 PDFs High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture, Canvas-based rendering, a formula engine, and one Facade API that works in the browser and on Node.js. English | [\u7b80\u4f53\u4e2d\u6587](./docs/readme/zh-CN.md) | [\u7e41\u9ad4\u4e2d\u6587](./docs/readme/zh-TW.md) | [\u65e5\u672c\u8a9e](./docs/re",
+        "topics": [
+          "board",
+          "collaboration",
+          "data-table",
+          "doc",
+          "docx",
+          "excel",
+          "grid",
+          "pdf",
+          "ppt",
+          "pptx",
+          "presentation",
+          "sdk",
+          "sheet",
+          "slides",
+          "spreadsheet",
+          "table",
+          "word",
+          "wordprocessor",
+          "xlsx"
+        ],
+        "updated_at": "2026-09-29T14:14:47Z"
+      },
+      "repo": {
+        "description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "forks": 1828,
+        "full_name": "dream-num/univer",
+        "language": "TypeScript",
+        "name": "univer",
+        "owner": "dream-num",
+        "rank": 13,
+        "stars_today": 692,
+        "total_stars": 21657,
+        "url": "https://github.com/dream-num/univer"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.11,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 66.56
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 692 stars today; score 66.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-29T03:00:36Z",
+        "default_branch": "main",
+        "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | \u8f7b\u91cf\u7ea7\u8de8\u5e73\u53f0\u6570\u636e\u5e93\u7ba1\u7406\u5de5\u5177\uff0c\u652f\u6301 MySQL\u3001PostgreSQL\u3001SQLite\u3001Redis\u3001MongoDB\u3001\u8fbe\u68a6\u7b49 100+ \u6570\u636e\u5e93\uff0c\u63d0\u4f9b\u684c\u9762\u7aef\u3001Docker\u3001CLI\u3001\u5185\u7f6e AI \u52a9\u624b\u548c MCP\u3002",
+        "fork": false,
+        "full_name": "t8y2/dbx",
+        "homepage": "https://dbxio.com",
+        "latest_release": "v0.6.27",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1256,
+        "primary_language": "Rust",
+        "pushed_at": "2026-09-29T14:15:42Z",
+        "readme_excerpt": "<div align=\"center\"> <p style=\"font-size: 18px; white-space: nowrap;\"><strong>100+ databases in 25 MB. Desktop, Docker, CLI, built-in AI assistant, and MCP Server.</strong></p> <p> <img src=\"https://dl.dbxio.com/assets/readme-hero-20260925.png\" alt=\"DBX screenshot\" width=\"820\" /> </p> <p> <a href=\"https://github.com/t8y2/dbx/releases\"><img src=\"https://img.shields.io/endpoint?url=https%3A%2F%2Fshieldcn.dev%2Fgithub%2Fdownloads%2Ft8y2%2Fdbx%2Fshields.json&amp;style=for-the-badge\" /></a> <a href=\"",
+        "topics": [
+          "ai",
+          "cli",
+          "clickhouse",
+          "database",
+          "database-client",
+          "database-management",
+          "docker",
+          "gui",
+          "mcp",
+          "mongodb",
+          "mysql",
+          "postgresql",
+          "redis",
+          "rust",
+          "sql-server",
+          "sqlite",
+          "tauri",
+          "vue"
+        ],
+        "updated_at": "2026-09-29T14:15:49Z"
+      },
+      "repo": {
+        "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | \u8f7b\u91cf\u7ea7\u8de8\u5e73\u53f0\u6570\u636e\u5e93\u7ba1\u7406\u5de5\u5177\uff0c\u652f\u6301 MySQL\u3001PostgreSQL\u3001SQLite\u3001Redis\u3001MongoDB\u3001\u8fbe\u68a6\u7b49 100+ \u6570\u636e\u5e93\uff0c\u63d0\u4f9b\u684c\u9762\u7aef\u3001Docker\u3001CLI\u3001\u5185\u7f6e AI \u52a9\u624b\u548c MCP\u3002",
+        "forks": 2074,
+        "full_name": "t8y2/dbx",
+        "language": "Rust",
+        "name": "dbx",
+        "owner": "t8y2",
+        "rank": 5,
+        "stars_today": 460,
+        "total_stars": 21713,
+        "url": "https://github.com/t8y2/dbx"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.84,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 66.01
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 460 stars today; score 66.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-09-02T10:24:09Z",
+        "default_branch": "master",
+        "description": "HTTP load generator, ApacheBench (ab) replacement",
+        "fork": false,
+        "full_name": "rakyll/hey",
+        "homepage": null,
+        "latest_release": "v0.1.5",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 188,
+        "primary_language": "Go",
+        "pushed_at": "2026-01-10T20:54:51Z",
+        "readme_excerpt": "![hey](http://i.imgur.com/szzD9q0.png) hey is a tiny program that sends some load to a web application. hey was originally called boom and was influenced from Tarek Ziade's tool at [tarekziade/boom](https://github.com/tarekziade/boom). Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion. To preserve the name for its original owner, we renamed this project to hey. ## Installation - Linux (amd64): https://storage.googleapis.com/hey-releases/hey_l",
+        "topics": [],
+        "updated_at": "2026-09-29T14:11:58Z"
+      },
+      "repo": {
+        "description": "HTTP load generator, ApacheBench (ab) replacement",
+        "forks": 1310,
+        "full_name": "rakyll/hey",
+        "language": "Go",
+        "name": "hey",
+        "owner": "rakyll",
+        "rank": 14,
+        "stars_today": 31,
+        "total_stars": 20403,
+        "url": "https://github.com/rakyll/hey"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 8.96,
+        "momentum": 1.78,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 60.32
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 31 stars today; score 60.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-31T04:29:13Z",
+        "default_branch": "main",
+        "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+        "fork": false,
+        "full_name": "averygan/reclip",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 64,
+        "primary_language": "HTML",
+        "pushed_at": "2026-07-09T17:49:44Z",
+        "readme_excerpt": "# ReClip A self-hosted, open-source video and audio downloader with a clean web UI. Paste links from YouTube, TikTok, Instagram, Twitter/X, and 1000+ other sites \u2014 download as MP4 or MP3. ![Python](https://img.shields.io/badge/python-3.8+-blue) ![License](https://img.shields.io/badge/license-MIT-green) https://github.com/user-attachments/assets/419d3e50-c933-444b-8cab-a9724986ba05 ![ReClip MP3 Mode](assets/preview-mp3.png) ## Features - Download videos from 1000+ supported sites (via [yt-dlp](ht",
+        "topics": [],
+        "updated_at": "2026-09-29T14:12:41Z"
+      },
+      "repo": {
+        "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+        "forks": 1513,
+        "full_name": "averygan/reclip",
+        "language": "HTML",
+        "name": "reclip",
+        "owner": "averygan",
+        "rank": 8,
+        "stars_today": 114,
+        "total_stars": 9875,
+        "url": "https://github.com/averygan/reclip"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.8,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 42.11
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: HTML project with 114 stars today; score 42.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/VectifyAI",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+        "forks": 3231,
+        "full_name": "sponsors/VectifyAI",
+        "language": "Python",
+        "name": "VectifyAI",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 822,
+        "total_stars": 36868,
+        "url": "https://github.com/sponsors/VectifyAI"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.63,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 32.78
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 822 stars today; score 32.8/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-05T20:16:56Z",
+        "default_branch": "main",
+        "description": "Self-hosted deployment platform",
+        "fork": false,
+        "full_name": "oblien/openship",
+        "homepage": "https://openship.io",
+        "latest_release": "v0.8.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 119,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-29T14:08:37Z",
+        "readme_excerpt": "<h1 align=\"center\">Openship</h1> <p align=\"center\"> Open-source, self-hostable deployment platform with built-in CI/CD.<br> Point it at a repo \u2014 it builds, ships, routes, and TLS-terminates your app. Drive it from a desktop app, web dashboard, or CLI. </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/38817?utm_source=repository-badge&utm_medium=badge&utm_campaign=badge-repository-38817\"> <img src=\"https://trendshift.io/api/badge/repositories/38817\" alt=\"Trendshift\" width=\"250\" ",
+        "topics": [
+          "agents",
+          "ai",
+          "deployments",
+          "self-hosted"
+        ],
+        "updated_at": "2026-09-29T14:10:32Z"
+      },
+      "repo": {
+        "description": "Self-hosted deployment platform",
+        "forks": 1215,
+        "full_name": "oblien/openship",
+        "language": "TypeScript",
+        "name": "openship",
+        "owner": "oblien",
+        "rank": 7,
+        "stars_today": 436,
+        "total_stars": 13612,
+        "url": "https://github.com/oblien/openship"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.51,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 75.76
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 436 stars today; score 75.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-24T22:52:22Z",
+        "default_branch": "main",
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "fork": false,
+        "full_name": "NVIDIA/OpenShell",
+        "homepage": "https://docs.nvidia.com/openshell/latest/",
+        "latest_release": "v0.1.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 468,
+        "primary_language": "Rust",
+        "pushed_at": "2026-09-29T14:03:27Z",
+        "readme_excerpt": "<!-- markdownlint-disable MD033 MD041 --> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/brand/assets/openshell-banner-dark.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/brand/assets/openshell-banner-light.png\"> <img alt=\"OpenShell\" src=\"docs/brand/assets/openshell-banner-light.png\" width=\"430\"> </picture> <!-- markdownlint-enable MD033 MD041 --> [![License](https://img.shields.io/badge/License-Apache_2.0-blue)](https://github.com/NVIDIA/OpenShell/blob/mai",
+        "topics": [],
+        "updated_at": "2026-09-29T14:14:25Z"
+      },
+      "repo": {
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "forks": 1385,
+        "full_name": "NVIDIA/OpenShell",
+        "language": "Rust",
+        "name": "OpenShell",
+        "owner": "NVIDIA",
+        "rank": 2,
+        "stars_today": 978,
+        "total_stars": 10102,
+        "url": "https://github.com/NVIDIA/OpenShell"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.2,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 71.0
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 978 stars today; score 71.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-02T15:01:51Z",
+        "default_branch": "master",
+        "description": "The open-source app everyone uses to manage agents at work",
+        "fork": false,
+        "full_name": "paperclipai/paperclip",
+        "homepage": "https://paperclip.ing",
+        "latest_release": "v2026.916.1",
+        "license_spdx": "MIT",
+        "open_issues": 6046,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-29T14:15:02Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"doc/assets/banner.jpg\" alt=\"Paperclip is the app people use to manage AI agents for work.\" width=\"720\" /> </p> <p align=\"center\"> <a href=\"#quickstart\"><strong>Quickstart</strong></a> &middot; <a href=\"https://docs.paperclip.ing\"><strong>Docs</strong></a> &middot; <a href=\"https://github.com/paperclipai/paperclip\"><strong>GitHub</strong></a> &middot; <a href=\"https://discord.gg/m4HZY7xNG3\"><strong>Discord</strong></a> &middot; <a href=\"https://x.com/papercliping\"><st",
+        "topics": [],
+        "updated_at": "2026-09-29T14:15:23Z"
+      },
+      "repo": {
+        "description": "The open-source app everyone uses to manage agents at work",
+        "forks": 16002,
+        "full_name": "paperclipai/paperclip",
+        "language": "TypeScript",
+        "name": "paperclip",
+        "owner": "paperclipai",
+        "rank": 4,
+        "stars_today": 2412,
+        "total_stars": 94031,
+        "url": "https://github.com/paperclipai/paperclip"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 7.47,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 70.86
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 2412 stars today; score 70.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-01T06:22:40Z",
+        "default_branch": "main",
+        "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+        "fork": false,
+        "full_name": "mvschwarz/openrig",
+        "homepage": "https://openrig.dev",
+        "latest_release": "v0.6.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 65,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-29T14:06:10Z",
+        "readme_excerpt": "# OpenRig [![npm version](https://img.shields.io/npm/v/@openrig/cli)](https://www.npmjs.com/package/@openrig/cli) [![npm downloads](https://img.shields.io/npm/dw/@openrig/cli)](https://www.npmjs.com/package/@openrig/cli) [![License: Apache 2.0](https://img.shields.io/github/license/mvschwarz/openrig)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/mvschwarz/openrig?style=social)](https://github.com/mvschwarz/openrig/stargazers) A harness wraps a model. A rig wraps your harnesses. ",
+        "topics": [
+          "agent-harness",
+          "agent-orchestration",
+          "agent-skills",
+          "ai-coding",
+          "claude-code",
+          "cli",
+          "codex-cli",
+          "multi-agent",
+          "multi-agent-systems",
+          "tmux",
+          "typescript"
+        ],
+        "updated_at": "2026-09-29T14:13:25Z"
+      },
+      "repo": {
+        "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+        "forks": 159,
+        "full_name": "mvschwarz/openrig",
+        "language": "TypeScript",
+        "name": "openrig",
+        "owner": "mvschwarz",
+        "rank": 6,
+        "stars_today": 733,
+        "total_stars": 2147,
+        "url": "https://github.com/mvschwarz/openrig"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.19,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 70.04
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 733 stars today; score 70.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-30T11:49:48Z",
+        "default_branch": "main",
+        "description": "Hindsight: Agent Memory That Learns",
+        "fork": false,
+        "full_name": "vectorize-io/hindsight",
+        "homepage": "https://hindsight.vectorize.io/",
+        "latest_release": "v0.10.2",
+        "license_spdx": "MIT",
+        "open_issues": 148,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-29T14:14:11Z",
+        "readme_excerpt": "<div align=\"center\"> ![Hindsight Banner](./hindsight-docs/static/img/hindsight-github-banner.png) [Documentation](https://hindsight.vectorize.io) \u2022 [Integrations](https://hindsight.vectorize.io/integrations) \u2022 [Cookbook](https://hindsight.vectorize.io/cookbook) \u2022 [Benchmarks](https://benchmarks.hindsight.vectorize.io/) \u2022 [Paper](https://arxiv.org/abs/2512.12818) \u2022 [Hindsight Cloud](https://ui.hindsight.vectorize.io) [![Release](https://github.com/vectorize-io/hindsight/actions/workflows/release.",
+        "topics": [
+          "agentic-ai",
+          "agents",
+          "ai-memory",
+          "memory"
+        ],
+        "updated_at": "2026-09-29T14:15:39Z"
+      },
+      "repo": {
+        "description": "Hindsight: Agent Memory That Learns",
+        "forks": 5663,
+        "full_name": "vectorize-io/hindsight",
+        "language": "Python",
+        "name": "hindsight",
+        "owner": "vectorize-io",
+        "rank": 3,
+        "stars_today": 2541,
+        "total_stars": 42180,
+        "url": "https://github.com/vectorize-io/hindsight"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.84,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 68.44
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 2541 stars today; score 68.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-09T21:40:26Z",
+        "default_branch": "main",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "fork": false,
+        "full_name": "debpalash/VoiceStudio",
+        "homepage": "https://voicestudio.sh",
+        "latest_release": "v0.5.6",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 63,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-29T14:11:20Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"docs/logo.png\" alt=\"VoiceStudio\" width=\"88\" /> <h1>VoiceStudio</h1> <p> <a href=\"https://trendshift.io/repositories/28176?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-28176\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/28176\" alt=\"VoiceStudio ranking on Trendshift\" width=\"220\" height=\"48\" /></a> </p> <p><strong>Open-source voice cloning, voice design, video dubbing, dictation,",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "tauri",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "updated_at": "2026-09-29T14:15:54Z"
+      },
+      "repo": {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "forks": 5288,
+        "full_name": "debpalash/VoiceStudio",
+        "language": "Python",
+        "name": "VoiceStudio",
+        "owner": "debpalash",
+        "rank": 1,
+        "stars_today": 4712,
+        "total_stars": 46746,
+        "url": "https://github.com/debpalash/VoiceStudio"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.9,
+        "technical_quality": 14.0,
+        "total": 68.34
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 4712 stars today; score 68.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-09-29T12:09:14Z",
+        "default_branch": "dev",
+        "description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "fork": false,
+        "full_name": "dream-num/univer",
+        "homepage": "https://docs.univer.ai",
+        "latest_release": "v1.0.3",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 145,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-29T13:13:36Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"./docs/img/banner.png\" alt=\"Univer SDK\" width=\"800\" /> **The Office Harness for AI Agents** Spreadsheets \u00b7 Documents \u00b7 Presentations \u00b7 Bases \u00b7 Boards \u00b7 PDFs High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture, Canvas-based rendering, a formula engine, and one Facade API that works in the browser and on Node.js. English | [\u7b80\u4f53\u4e2d\u6587](./docs/readme/zh-CN.md) | [\u7e41\u9ad4\u4e2d\u6587](./docs/readme/zh-TW.md) | [\u65e5\u672c\u8a9e](./docs/re",
+        "topics": [
+          "board",
+          "collaboration",
+          "data-table",
+          "doc",
+          "docx",
+          "excel",
+          "grid",
+          "pdf",
+          "ppt",
+          "pptx",
+          "presentation",
+          "sdk",
+          "sheet",
+          "slides",
+          "spreadsheet",
+          "table",
+          "word",
+          "wordprocessor",
+          "xlsx"
+        ],
+        "updated_at": "2026-09-29T14:14:47Z"
+      },
+      "repo": {
+        "description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "forks": 1828,
+        "full_name": "dream-num/univer",
+        "language": "TypeScript",
+        "name": "univer",
+        "owner": "dream-num",
+        "rank": 13,
+        "stars_today": 692,
+        "total_stars": 21657,
+        "url": "https://github.com/dream-num/univer"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.11,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 66.56
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 692 stars today; score 66.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-29T03:00:36Z",
+        "default_branch": "main",
+        "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | \u8f7b\u91cf\u7ea7\u8de8\u5e73\u53f0\u6570\u636e\u5e93\u7ba1\u7406\u5de5\u5177\uff0c\u652f\u6301 MySQL\u3001PostgreSQL\u3001SQLite\u3001Redis\u3001MongoDB\u3001\u8fbe\u68a6\u7b49 100+ \u6570\u636e\u5e93\uff0c\u63d0\u4f9b\u684c\u9762\u7aef\u3001Docker\u3001CLI\u3001\u5185\u7f6e AI \u52a9\u624b\u548c MCP\u3002",
+        "fork": false,
+        "full_name": "t8y2/dbx",
+        "homepage": "https://dbxio.com",
+        "latest_release": "v0.6.27",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1256,
+        "primary_language": "Rust",
+        "pushed_at": "2026-09-29T14:15:42Z",
+        "readme_excerpt": "<div align=\"center\"> <p style=\"font-size: 18px; white-space: nowrap;\"><strong>100+ databases in 25 MB. Desktop, Docker, CLI, built-in AI assistant, and MCP Server.</strong></p> <p> <img src=\"https://dl.dbxio.com/assets/readme-hero-20260925.png\" alt=\"DBX screenshot\" width=\"820\" /> </p> <p> <a href=\"https://github.com/t8y2/dbx/releases\"><img src=\"https://img.shields.io/endpoint?url=https%3A%2F%2Fshieldcn.dev%2Fgithub%2Fdownloads%2Ft8y2%2Fdbx%2Fshields.json&amp;style=for-the-badge\" /></a> <a href=\"",
+        "topics": [
+          "ai",
+          "cli",
+          "clickhouse",
+          "database",
+          "database-client",
+          "database-management",
+          "docker",
+          "gui",
+          "mcp",
+          "mongodb",
+          "mysql",
+          "postgresql",
+          "redis",
+          "rust",
+          "sql-server",
+          "sqlite",
+          "tauri",
+          "vue"
+        ],
+        "updated_at": "2026-09-29T14:15:49Z"
+      },
+      "repo": {
+        "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | \u8f7b\u91cf\u7ea7\u8de8\u5e73\u53f0\u6570\u636e\u5e93\u7ba1\u7406\u5de5\u5177\uff0c\u652f\u6301 MySQL\u3001PostgreSQL\u3001SQLite\u3001Redis\u3001MongoDB\u3001\u8fbe\u68a6\u7b49 100+ \u6570\u636e\u5e93\uff0c\u63d0\u4f9b\u684c\u9762\u7aef\u3001Docker\u3001CLI\u3001\u5185\u7f6e AI \u52a9\u624b\u548c MCP\u3002",
+        "forks": 2074,
+        "full_name": "t8y2/dbx",
+        "language": "Rust",
+        "name": "dbx",
+        "owner": "t8y2",
+        "rank": 5,
+        "stars_today": 460,
+        "total_stars": 21713,
+        "url": "https://github.com/t8y2/dbx"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.84,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 66.01
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 460 stars today; score 66.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-09-02T10:24:09Z",
+        "default_branch": "master",
+        "description": "HTTP load generator, ApacheBench (ab) replacement",
+        "fork": false,
+        "full_name": "rakyll/hey",
+        "homepage": null,
+        "latest_release": "v0.1.5",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 188,
+        "primary_language": "Go",
+        "pushed_at": "2026-01-10T20:54:51Z",
+        "readme_excerpt": "![hey](http://i.imgur.com/szzD9q0.png) hey is a tiny program that sends some load to a web application. hey was originally called boom and was influenced from Tarek Ziade's tool at [tarekziade/boom](https://github.com/tarekziade/boom). Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion. To preserve the name for its original owner, we renamed this project to hey. ## Installation - Linux (amd64): https://storage.googleapis.com/hey-releases/hey_l",
+        "topics": [],
+        "updated_at": "2026-09-29T14:11:58Z"
+      },
+      "repo": {
+        "description": "HTTP load generator, ApacheBench (ab) replacement",
+        "forks": 1310,
+        "full_name": "rakyll/hey",
+        "language": "Go",
+        "name": "hey",
+        "owner": "rakyll",
+        "rank": 14,
+        "stars_today": 31,
+        "total_stars": 20403,
+        "url": "https://github.com/rakyll/hey"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 8.96,
+        "momentum": 1.78,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 60.32
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 31 stars today; score 60.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-01-26T15:30:07Z",
+        "default_branch": "master",
+        "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+        "fork": false,
+        "full_name": "cs341-illinois/coursebook",
+        "homepage": "https://cs341.cs.illinois.edu/coursebook",
+        "latest_release": "fa19",
+        "license_spdx": null,
+        "open_issues": 46,
+        "primary_language": "TeX",
+        "pushed_at": "2026-09-26T17:06:12Z",
+        "readme_excerpt": "# Coursebook [![Build Status](https://github.com/cs341-illinois/coursebook/actions/workflows/deploy.yaml/badge.svg?branch=master)](https://github.com/cs341-illinois/coursebook/actions/workflows/deploy.yaml) [![Current Pdf Link](https://img.shields.io/badge/current-pdf-blue.svg)](https://github.com/cs341-illinois/coursebook/blob/pdf_deploy/main.pdf) [![Current Wiki Link](https://img.shields.io/badge/current-wiki-blue.svg)](https://github.com/cs341-illinois/coursebook/wiki) [![Current HTML Link](h",
+        "topics": [
+          "awesome",
+          "c",
+          "latex",
+          "linux",
+          "posix",
+          "system-programming",
+          "wikibook"
+        ],
+        "updated_at": "2026-09-29T14:14:58Z"
+      },
+      "repo": {
+        "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+        "forks": 260,
+        "full_name": "cs341-illinois/coursebook",
+        "language": "TeX",
+        "name": "coursebook",
+        "owner": "cs341-illinois",
+        "rank": 9,
+        "stars_today": 569,
+        "total_stars": 2880,
+        "url": "https://github.com/cs341-illinois/coursebook"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.46,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 54.62
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: TeX project with 569 stars today; score 54.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-07T17:25:50Z",
+        "default_branch": "main",
+        "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+        "fork": false,
+        "full_name": "willfaust/Madeira",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "GPL-3.0",
+        "open_issues": 18,
+        "primary_language": "C",
+        "pushed_at": "2026-09-29T13:39:28Z",
+        "readme_excerpt": "# Madeira Run Windows PC games on a non-jailbroken iPhone. Madeira combines [Wine](https://www.winehq.org/) (ARM64EC), [FEX-Emu](https://github.com/FEX-Emu/FEX) for x86-64 \u2192 ARM64 translation, and [DXMT](https://github.com/3Shain/DXMT) for D3D11 \u2192 Metal, running as a single Mach process on iOS with wineserver as a thread rather than a separate process. ## Status Thumper and ULTRAKILL are playable. Marvel Cosmic Invasion has reached gameplay, though a run has also ended in an unexplained terminat",
+        "topics": [],
+        "updated_at": "2026-09-29T14:10:22Z"
+      },
+      "repo": {
+        "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+        "forks": 180,
+        "full_name": "willfaust/Madeira",
+        "language": "C",
+        "name": "Madeira",
+        "owner": "willfaust",
+        "rank": 12,
+        "stars_today": 229,
+        "total_stars": 1034,
+        "url": "https://github.com/willfaust/Madeira"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.42,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 49.47
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: C project with 229 stars today; score 49.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-31T04:29:13Z",
+        "default_branch": "main",
+        "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+        "fork": false,
+        "full_name": "averygan/reclip",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 64,
+        "primary_language": "HTML",
+        "pushed_at": "2026-07-09T17:49:44Z",
+        "readme_excerpt": "# ReClip A self-hosted, open-source video and audio downloader with a clean web UI. Paste links from YouTube, TikTok, Instagram, Twitter/X, and 1000+ other sites \u2014 download as MP4 or MP3. ![Python](https://img.shields.io/badge/python-3.8+-blue) ![License](https://img.shields.io/badge/license-MIT-green) https://github.com/user-attachments/assets/419d3e50-c933-444b-8cab-a9724986ba05 ![ReClip MP3 Mode](assets/preview-mp3.png) ## Features - Download videos from 1000+ supported sites (via [yt-dlp](ht",
+        "topics": [],
+        "updated_at": "2026-09-29T14:12:41Z"
+      },
+      "repo": {
+        "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+        "forks": 1513,
+        "full_name": "averygan/reclip",
+        "language": "HTML",
+        "name": "reclip",
+        "owner": "averygan",
+        "rank": 8,
+        "stars_today": 114,
+        "total_stars": 9875,
+        "url": "https://github.com/averygan/reclip"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.8,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 42.11
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: HTML project with 114 stars today; score 42.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/VectifyAI",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+        "forks": 3231,
+        "full_name": "sponsors/VectifyAI",
+        "language": "Python",
+        "name": "VectifyAI",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 822,
+        "total_stars": 36868,
+        "url": "https://github.com/sponsors/VectifyAI"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.63,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 32.78
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 822 stars today; score 32.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/rohitg00",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Learn it. Build it. Ship it for others.",
+        "forks": 10484,
+        "full_name": "sponsors/rohitg00",
+        "language": "Python",
+        "name": "rohitg00",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 1287,
+        "total_stars": 60926,
+        "url": "https://github.com/sponsors/rohitg00"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.6,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.88,
+        "technical_quality": 3.5,
+        "total": 19.68
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 1287 stars today; score 19.7/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-09-29",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is oblien/openship."
+}
