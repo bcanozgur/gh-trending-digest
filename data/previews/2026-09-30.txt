@@ -1,0 +1,33 @@
+GitHub Trending: AI workflow signal - 2026-09-30
+
+Today leans toward AI workflow signal; the strongest pick is colbymchenry/codegraph.
+
+Top picks
+1. colbymchenry/codegraph - 75.8/100
+   https://github.com/colbymchenry/codegraph
+   AI Workflow, Try Today: C project with 116 stars today; score 75.8/100.
+2. ComposioHQ/awesome-claude-skills - 71.3/100
+   https://github.com/ComposioHQ/awesome-claude-skills
+   AI Workflow, DevTools: Python project with 118 stars today; score 71.3/100.
+3. harry0703/MoneyPrinterTurbo - 68.5/100
+   https://github.com/harry0703/MoneyPrinterTurbo
+   AI Workflow, DevTools: Python project with 338 stars today; score 68.5/100.
+4. firebase/firebase-ios-sdk - 63.5/100
+   https://github.com/firebase/firebase-ios-sdk
+   AI Workflow, DevTools: C++ project with 4 stars today; score 63.5/100.
+5. heygen-com/hyperframes - 62.7/100
+   https://github.com/heygen-com/hyperframes
+   AI Workflow, DevTools: TypeScript project with 352 stars today; score 62.7/100.
+
+Full reviewed list
+- colbymchenry/codegraph: 75.8/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: C project with 116 stars today; score 75.8/100.
+- ComposioHQ/awesome-claude-skills: 71.3/100 [AI Workflow, DevTools, Deep Dive] AI Workflow, DevTools: Python project with 118 stars today; score 71.3/100.
+- harry0703/MoneyPrinterTurbo: 68.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 338 stars today; score 68.5/100.
+- firebase/firebase-ios-sdk: 63.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: C++ project with 4 stars today; score 63.5/100.
+- heygen-com/hyperframes: 62.7/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 352 stars today; score 62.7/100.
+- modelcontextprotocol/servers: 54.4/100 [AI Workflow, Try Today] AI Workflow, Try Today: TypeScript project with 48 stars today; score 54.4/100.
+- sponsors/mksglu: 36.3/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: TypeScript project with 88 stars today; score 36.3/100.
+- sponsors/DietrichGebert: 33.1/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: JavaScript project with 675 stars today; score 33.1/100.
+- sponsors/openclaw: 32.2/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: TypeScript project with 136 stars today; score 32.2/100.
+
+Generated for 2026-09-30 from GitHub Trending daily.
