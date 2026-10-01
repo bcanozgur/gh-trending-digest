@@ -1,0 +1,1217 @@
+{
+  "date": "2026-10-01",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-11-16T01:52:04Z",
+        "default_branch": "main",
+        "description": "The design language that makes your AI harness better at design.",
+        "fork": false,
+        "full_name": "pbakaus/impeccable",
+        "homepage": "https://impeccable.style",
+        "latest_release": "engine-v0.1.9",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 64,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-10-01T00:06:24Z",
+        "readme_excerpt": "# Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. > **Quick start:** From your project root, run `npx impeccable install`, then run `/impeccable init` inside your AI coding tool. Full docs: [impeccable.style](https://impeccable.style). ## Why Impeccable? Anthropic's [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) was the first widely-used d",
+        "topics": [],
+        "updated_at": "2026-10-01T14:42:09Z"
+      },
+      "repo": {
+        "description": "The design language that makes your AI harness better at design.",
+        "forks": 4426,
+        "full_name": "pbakaus/impeccable",
+        "language": "JavaScript",
+        "name": "impeccable",
+        "owner": "pbakaus",
+        "rank": 14,
+        "stars_today": 463,
+        "total_stars": 73378,
+        "url": "https://github.com/pbakaus/impeccable"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.28,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 71.17
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 463 stars today; score 71.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-08-09T14:03:50Z",
+        "default_branch": "main",
+        "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "fork": false,
+        "full_name": "earendil-works/pi",
+        "homepage": null,
+        "latest_release": "v0.99.2",
+        "license_spdx": "MIT",
+        "open_issues": 246,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-01T13:12:36Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://pi.dev\"> <img alt=\"pi logo\" src=\"https://pi.dev/logo-auto.svg\" width=\"128\"> </a> </p> <p align=\"center\"> <a href=\"https://discord.com/invite/3cU7Bz4UPx\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/discord-community-5865F2?style=flat-square&logo=discord&logoColor=white\" /></a> <a href=\"https://www.npmjs.com/package/@earendil-works/pi-coding-agent\"><img alt=\"npm\" src=\"https://img.shields.io/npm/v/@earendil-works/pi-coding-agent?style=flat-square\" /></a>",
+        "topics": [],
+        "updated_at": "2026-10-01T14:42:38Z"
+      },
+      "repo": {
+        "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "forks": 14114,
+        "full_name": "earendil-works/pi",
+        "language": "TypeScript",
+        "name": "pi",
+        "owner": "earendil-works",
+        "rank": 10,
+        "stars_today": 294,
+        "total_stars": 110974,
+        "url": "https://github.com/earendil-works/pi"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.29,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 65.69
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 294 stars today; score 65.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-04-15T07:20:47Z",
+        "default_branch": "main",
+        "description": "Useful tool to track location or mobile number",
+        "fork": false,
+        "full_name": "HunxByts/GhostTrack",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 124,
+        "primary_language": "Python",
+        "pushed_at": "2024-01-11T15:36:46Z",
+        "readme_excerpt": "# GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering <img src=\"https://github.com/HunxByts/GhostTrack/blob/main/asset/bn.png\"/> New update : ```Version 2.2``` ### Instalation on Linux (deb) ``` sudo apt-get install git sudo apt-get install python3 ``` ### Instalation on Termux ``` pkg install git pkg install python3 ``` ### Usage Tool ``` git clone https://github.com/HunxByts/GhostTrack.git cd GhostTrack pip3 install -r requi",
+        "topics": [
+          "cybersecurity",
+          "fyp",
+          "hacking",
+          "hacking-tool",
+          "indonesia",
+          "information",
+          "information-gathering",
+          "ip-geolocation",
+          "linux",
+          "osint",
+          "osint-python",
+          "osint-tool",
+          "pentesting",
+          "phone-number",
+          "python",
+          "python-hacking",
+          "termux",
+          "termux-hacks",
+          "termux-tool"
+        ],
+        "updated_at": "2026-10-01T14:42:23Z"
+      },
+      "repo": {
+        "description": "Useful tool to track location or mobile number",
+        "forks": 2235,
+        "full_name": "HunxByts/GhostTrack",
+        "language": "Python",
+        "name": "GhostTrack",
+        "owner": "HunxByts",
+        "rank": 13,
+        "stars_today": 635,
+        "total_stars": 16219,
+        "url": "https://github.com/HunxByts/GhostTrack"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 10.22,
+        "momentum": 4.0,
+        "novelty": 8.0,
+        "practical_usefulness": 12.41,
+        "production_readiness": 2.8,
+        "strategic_relevance": 3.01,
+        "technical_quality": 9.1,
+        "total": 57.28
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 635 stars today; score 57.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-22T20:57:39Z",
+        "default_branch": "main",
+        "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+        "fork": false,
+        "full_name": "Friedrich-M/UniMate",
+        "homepage": "https://linzhanmou.com/unimate/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 9,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-30T23:58:32Z",
+        "readme_excerpt": "<h1 align=\"center\">UniMate</h1> <p align=\"center\"><b>One Unified Model to Animate Diverse Skeletons</b></p> <p align=\"center\"> <a href=\"https://linzhanmou.com/unimate/\"><img alt=\"Project Page\" src=\"https://img.shields.io/badge/Project_Page-6D28D9?style=for-the-badge&logo=githubpages&logoColor=white\"></a> <a href=\"https://arxiv.org/abs/2609.05415\"><img alt=\"arXiv\" src=\"https://img.shields.io/badge/arXiv-2609.05415-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white\"></a> <a href=\"https://linzha",
+        "topics": [],
+        "updated_at": "2026-10-01T14:42:35Z"
+      },
+      "repo": {
+        "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+        "forks": 95,
+        "full_name": "Friedrich-M/UniMate",
+        "language": "Python",
+        "name": "UniMate",
+        "owner": "Friedrich-M",
+        "rank": 15,
+        "stars_today": 225,
+        "total_stars": 973,
+        "url": "https://github.com/Friedrich-M/UniMate"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.34,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 55.64
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 225 stars today; score 55.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-10-03T09:25:45Z",
+        "default_branch": "main",
+        "description": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+        "fork": false,
+        "full_name": "tile-ai/tilelang",
+        "homepage": "https://tilelang.com/",
+        "latest_release": "v0.1.15",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 373,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-30T04:08:46Z",
+        "readme_excerpt": "<img src=\"./images/logo-row.svg\" alt=\"TileLang logo\" /> <div align=\"center\"> # Tile Language [![PyPI version](https://badge.fury.io/py/tilelang.svg)](https://badge.fury.io/py/tilelang) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/tile-ai/tilelang) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/TUrHyJnKPG) [![Puzzles](https://img.shields.io/badge/\ud83e\udde9_Learn-TileLang_Puzzles-blueviolet)](https://github.com/til",
+        "topics": [],
+        "updated_at": "2026-10-01T14:39:55Z"
+      },
+      "repo": {
+        "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+        "forks": 808,
+        "full_name": "tile-ai/tilelang",
+        "language": "Python",
+        "name": "tilelang",
+        "owner": "tile-ai",
+        "rank": 11,
+        "stars_today": 157,
+        "total_stars": 8008,
+        "url": "https://github.com/tile-ai/tilelang"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.69,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 54.94
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 157 stars today; score 54.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-23T01:57:42Z",
+        "default_branch": "main",
+        "description": "Cursor plugin specification and official plugins",
+        "fork": false,
+        "full_name": "cursor/plugins",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 174,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-30T18:08:30Z",
+        "readme_excerpt": "# Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own `.cursor-plugin/plugin.json` manifest. ## Plugins | `name` | Plugin | Author | Category | `description` (from marketplace) | |:-------|:-------|:-------|:---------|:-------------------------------------| | `teaching` | [Teaching](teaching/) | Cursor | Utilities | Skill mapping, practice plans, and learning retrospectives. |",
+        "topics": [],
+        "updated_at": "2026-10-01T14:29:16Z"
+      },
+      "repo": {
+        "description": "Cursor plugin specification and official plugins",
+        "forks": 874,
+        "full_name": "cursor/plugins",
+        "language": "TypeScript",
+        "name": "plugins",
+        "owner": "cursor",
+        "rank": 6,
+        "stars_today": 157,
+        "total_stars": 9265,
+        "url": "https://github.com/cursor/plugins"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.41,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 2.8,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 49.58
+      },
+      "tags": [
+        "DevTools"
+      ],
+      "verdict": "DevTools: TypeScript project with 157 stars today; score 49.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-16T07:06:09Z",
+        "default_branch": "main",
+        "description": "yoink any video from your terminal. no shady ads.",
+        "fork": false,
+        "full_name": "pablostanley/yoinks",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 19,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-17T06:40:05Z",
+        "readme_excerpt": "# yoinks <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/logo-dark.svg\"> <img src=\"assets/logo-light.svg\" alt=\"yoinks\" width=\"288\"> </picture> yoink any video. paste. yoink. done. Download videos from YouTube, X/Twitter, Instagram, Threads, TikTok and 1,800+ other sites \u2014 right from your terminal. Paste a url, pick a resolution (or audio-only mp3), done. No popups, no fake download buttons, no sketchy redirects. <img src=\"assets/home.png\" alt=\"yoinks home screen \u2014 paste a l",
+        "topics": [],
+        "updated_at": "2026-10-01T14:39:02Z"
+      },
+      "repo": {
+        "description": "yoink any video from your terminal. no shady ads.",
+        "forks": 254,
+        "full_name": "pablostanley/yoinks",
+        "language": "TypeScript",
+        "name": "yoinks",
+        "owner": "pablostanley",
+        "rank": 12,
+        "stars_today": 356,
+        "total_stars": 2698,
+        "url": "https://github.com/pablostanley/yoinks"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.21,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 47.72
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 356 stars today; score 47.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 26272,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 476,
+        "total_stars": 293748,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.33,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 33.48
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 476 stars today; score 33.5/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-24T22:52:22Z",
+        "default_branch": "main",
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "fork": false,
+        "full_name": "NVIDIA/OpenShell",
+        "homepage": "https://docs.nvidia.com/openshell/latest/",
+        "latest_release": "v0.1.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 521,
+        "primary_language": "Rust",
+        "pushed_at": "2026-10-01T14:40:24Z",
+        "readme_excerpt": "<!-- markdownlint-disable MD033 MD041 --> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/brand/assets/openshell-banner-dark.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/brand/assets/openshell-banner-light.png\"> <img alt=\"OpenShell\" src=\"docs/brand/assets/openshell-banner-light.png\" width=\"430\"> </picture> <!-- markdownlint-enable MD033 MD041 --> [![License](https://img.shields.io/badge/License-Apache_2.0-blue)](https://github.com/NVIDIA/OpenShell/blob/mai",
+        "topics": [],
+        "updated_at": "2026-10-01T14:42:24Z"
+      },
+      "repo": {
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "forks": 1605,
+        "full_name": "NVIDIA/OpenShell",
+        "language": "Rust",
+        "name": "OpenShell",
+        "owner": "NVIDIA",
+        "rank": 3,
+        "stars_today": 2503,
+        "total_stars": 13765,
+        "url": "https://github.com/NVIDIA/OpenShell"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.71,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 72.31
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 2503 stars today; score 72.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-11-16T01:52:04Z",
+        "default_branch": "main",
+        "description": "The design language that makes your AI harness better at design.",
+        "fork": false,
+        "full_name": "pbakaus/impeccable",
+        "homepage": "https://impeccable.style",
+        "latest_release": "engine-v0.1.9",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 64,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-10-01T00:06:24Z",
+        "readme_excerpt": "# Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 61 deterministic detector rules for AI-generated frontend design. > **Quick start:** From your project root, run `npx impeccable install`, then run `/impeccable init` inside your AI coding tool. Full docs: [impeccable.style](https://impeccable.style). ## Why Impeccable? Anthropic's [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) was the first widely-used d",
+        "topics": [],
+        "updated_at": "2026-10-01T14:42:09Z"
+      },
+      "repo": {
+        "description": "The design language that makes your AI harness better at design.",
+        "forks": 4426,
+        "full_name": "pbakaus/impeccable",
+        "language": "JavaScript",
+        "name": "impeccable",
+        "owner": "pbakaus",
+        "rank": 14,
+        "stars_today": 463,
+        "total_stars": 73378,
+        "url": "https://github.com/pbakaus/impeccable"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.28,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 71.17
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 463 stars today; score 71.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-01T06:22:40Z",
+        "default_branch": "main",
+        "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+        "fork": false,
+        "full_name": "mvschwarz/openrig",
+        "homepage": "https://openrig.dev",
+        "latest_release": "v0.6.3",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 93,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-01T14:40:26Z",
+        "readme_excerpt": "# OpenRig [![npm version](https://img.shields.io/npm/v/@openrig/cli)](https://www.npmjs.com/package/@openrig/cli) [![npm downloads](https://img.shields.io/npm/dw/@openrig/cli)](https://www.npmjs.com/package/@openrig/cli) [![License: Apache 2.0](https://img.shields.io/github/license/mvschwarz/openrig)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/mvschwarz/openrig?style=social)](https://github.com/mvschwarz/openrig/stargazers) A harness wraps a model. A rig wraps your harnesses. ",
+        "topics": [
+          "agent-harness",
+          "agent-orchestration",
+          "agent-skills",
+          "ai-coding",
+          "claude-code",
+          "cli",
+          "codex-cli",
+          "multi-agent",
+          "multi-agent-systems",
+          "tmux",
+          "typescript"
+        ],
+        "updated_at": "2026-10-01T14:40:31Z"
+      },
+      "repo": {
+        "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+        "forks": 231,
+        "full_name": "mvschwarz/openrig",
+        "language": "TypeScript",
+        "name": "openrig",
+        "owner": "mvschwarz",
+        "rank": 5,
+        "stars_today": 640,
+        "total_stars": 3432,
+        "url": "https://github.com/mvschwarz/openrig"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.17,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 71.02
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 640 stars today; score 71.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-08-09T14:03:50Z",
+        "default_branch": "main",
+        "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "fork": false,
+        "full_name": "earendil-works/pi",
+        "homepage": null,
+        "latest_release": "v0.99.2",
+        "license_spdx": "MIT",
+        "open_issues": 246,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-01T13:12:36Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://pi.dev\"> <img alt=\"pi logo\" src=\"https://pi.dev/logo-auto.svg\" width=\"128\"> </a> </p> <p align=\"center\"> <a href=\"https://discord.com/invite/3cU7Bz4UPx\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/discord-community-5865F2?style=flat-square&logo=discord&logoColor=white\" /></a> <a href=\"https://www.npmjs.com/package/@earendil-works/pi-coding-agent\"><img alt=\"npm\" src=\"https://img.shields.io/npm/v/@earendil-works/pi-coding-agent?style=flat-square\" /></a>",
+        "topics": [],
+        "updated_at": "2026-10-01T14:42:38Z"
+      },
+      "repo": {
+        "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "forks": 14114,
+        "full_name": "earendil-works/pi",
+        "language": "TypeScript",
+        "name": "pi",
+        "owner": "earendil-works",
+        "rank": 10,
+        "stars_today": 294,
+        "total_stars": 110974,
+        "url": "https://github.com/earendil-works/pi"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.29,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 65.69
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 294 stars today; score 65.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-10T01:51:06Z",
+        "default_branch": "main",
+        "description": "Write HTML. Render video. Built for agents.",
+        "fork": false,
+        "full_name": "heygen-com/hyperframes",
+        "homepage": null,
+        "latest_release": "v0.8.105",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 223,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-01T14:42:19Z",
+        "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/logo/dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/logo/light.svg\"> <img alt=\"HyperFrames\" src=\"docs/logo/light.svg\" width=\"300\"> </picture> </p> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/hyperframes\"><img src=\"https://img.shields.io/npm/v/hyperframes.svg?style=flat\" alt=\"npm version\"></a> <a href=\"https://www.npmjs.com/package/hyperframes\"><img src=\"https://img.shields.",
+        "topics": [
+          "ai",
+          "animation",
+          "ffmpeg",
+          "framework",
+          "gsap",
+          "html",
+          "mcp",
+          "puppeteer",
+          "rendering",
+          "typescript",
+          "video"
+        ],
+        "updated_at": "2026-10-01T14:34:38Z"
+      },
+      "repo": {
+        "description": "Write HTML. Render video. Built for agents.",
+        "forks": 5001,
+        "full_name": "heygen-com/hyperframes",
+        "language": "TypeScript",
+        "name": "hyperframes",
+        "owner": "heygen-com",
+        "rank": 9,
+        "stars_today": 624,
+        "total_stars": 55108,
+        "url": "https://github.com/heygen-com/hyperframes"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.54,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 64.09
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 624 stars today; score 64.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2017-04-22T00:26:50Z",
+        "default_branch": "main",
+        "description": "Firebase SDK for Apple App Development",
+        "fork": false,
+        "full_name": "firebase/firebase-ios-sdk",
+        "homepage": "https://firebase.google.com",
+        "latest_release": "12.19.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 442,
+        "primary_language": "C++",
+        "pushed_at": "2026-10-01T03:16:25Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://cocoapods.org/pods/Firebase\"> <img src=\"https://img.shields.io/github/v/release/Firebase/firebase-ios-sdk?style=flat&label=CocoaPods\"/> </a> <a href=\"https://swiftpackageindex.com/firebase/firebase-ios-sdk\"> <img src=\"https://img.shields.io/github/v/release/Firebase/firebase-ios-sdk?style=flat&label=Swift%20Package%20Index&color=red\"/> </a> <a href=\"https://cocoapods.org/pods/Firebase\"> <img src=\"https://img.shields.io/github/license/Firebase/firebase-ios-sdk?",
+        "topics": [
+          "ai",
+          "analytics",
+          "authentication",
+          "crash-reporting",
+          "database",
+          "database-as-a-service",
+          "firebase",
+          "firebase-auth",
+          "firebase-authentication",
+          "firebase-database",
+          "firebase-messaging",
+          "firebase-storage",
+          "gemini",
+          "ios-sdk",
+          "objective-c",
+          "push-notifications",
+          "storage-service"
+        ],
+        "updated_at": "2026-10-01T14:37:01Z"
+      },
+      "repo": {
+        "description": "Firebase SDK for Apple App Development",
+        "forks": 1803,
+        "full_name": "firebase/firebase-ios-sdk",
+        "language": "C++",
+        "name": "firebase-ios-sdk",
+        "owner": "firebase",
+        "rank": 4,
+        "stars_today": 112,
+        "total_stars": 6824,
+        "url": "https://github.com/firebase/firebase-ios-sdk"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.54,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 59.64
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 112 stars today; score 59.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-04-15T07:20:47Z",
+        "default_branch": "main",
+        "description": "Useful tool to track location or mobile number",
+        "fork": false,
+        "full_name": "HunxByts/GhostTrack",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 124,
+        "primary_language": "Python",
+        "pushed_at": "2024-01-11T15:36:46Z",
+        "readme_excerpt": "# GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering <img src=\"https://github.com/HunxByts/GhostTrack/blob/main/asset/bn.png\"/> New update : ```Version 2.2``` ### Instalation on Linux (deb) ``` sudo apt-get install git sudo apt-get install python3 ``` ### Instalation on Termux ``` pkg install git pkg install python3 ``` ### Usage Tool ``` git clone https://github.com/HunxByts/GhostTrack.git cd GhostTrack pip3 install -r requi",
+        "topics": [
+          "cybersecurity",
+          "fyp",
+          "hacking",
+          "hacking-tool",
+          "indonesia",
+          "information",
+          "information-gathering",
+          "ip-geolocation",
+          "linux",
+          "osint",
+          "osint-python",
+          "osint-tool",
+          "pentesting",
+          "phone-number",
+          "python",
+          "python-hacking",
+          "termux",
+          "termux-hacks",
+          "termux-tool"
+        ],
+        "updated_at": "2026-10-01T14:42:23Z"
+      },
+      "repo": {
+        "description": "Useful tool to track location or mobile number",
+        "forks": 2235,
+        "full_name": "HunxByts/GhostTrack",
+        "language": "Python",
+        "name": "GhostTrack",
+        "owner": "HunxByts",
+        "rank": 13,
+        "stars_today": 635,
+        "total_stars": 16219,
+        "url": "https://github.com/HunxByts/GhostTrack"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 10.22,
+        "momentum": 4.0,
+        "novelty": 8.0,
+        "practical_usefulness": 12.41,
+        "production_readiness": 2.8,
+        "strategic_relevance": 3.01,
+        "technical_quality": 9.1,
+        "total": 57.28
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 635 stars today; score 57.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-22T20:57:39Z",
+        "default_branch": "main",
+        "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+        "fork": false,
+        "full_name": "Friedrich-M/UniMate",
+        "homepage": "https://linzhanmou.com/unimate/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 9,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-30T23:58:32Z",
+        "readme_excerpt": "<h1 align=\"center\">UniMate</h1> <p align=\"center\"><b>One Unified Model to Animate Diverse Skeletons</b></p> <p align=\"center\"> <a href=\"https://linzhanmou.com/unimate/\"><img alt=\"Project Page\" src=\"https://img.shields.io/badge/Project_Page-6D28D9?style=for-the-badge&logo=githubpages&logoColor=white\"></a> <a href=\"https://arxiv.org/abs/2609.05415\"><img alt=\"arXiv\" src=\"https://img.shields.io/badge/arXiv-2609.05415-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white\"></a> <a href=\"https://linzha",
+        "topics": [],
+        "updated_at": "2026-10-01T14:42:35Z"
+      },
+      "repo": {
+        "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+        "forks": 95,
+        "full_name": "Friedrich-M/UniMate",
+        "language": "Python",
+        "name": "UniMate",
+        "owner": "Friedrich-M",
+        "rank": 15,
+        "stars_today": 225,
+        "total_stars": 973,
+        "url": "https://github.com/Friedrich-M/UniMate"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.34,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 55.64
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 225 stars today; score 55.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-10-03T09:25:45Z",
+        "default_branch": "main",
+        "description": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+        "fork": false,
+        "full_name": "tile-ai/tilelang",
+        "homepage": "https://tilelang.com/",
+        "latest_release": "v0.1.15",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 373,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-30T04:08:46Z",
+        "readme_excerpt": "<img src=\"./images/logo-row.svg\" alt=\"TileLang logo\" /> <div align=\"center\"> # Tile Language [![PyPI version](https://badge.fury.io/py/tilelang.svg)](https://badge.fury.io/py/tilelang) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/tile-ai/tilelang) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/TUrHyJnKPG) [![Puzzles](https://img.shields.io/badge/\ud83e\udde9_Learn-TileLang_Puzzles-blueviolet)](https://github.com/til",
+        "topics": [],
+        "updated_at": "2026-10-01T14:39:55Z"
+      },
+      "repo": {
+        "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+        "forks": 808,
+        "full_name": "tile-ai/tilelang",
+        "language": "Python",
+        "name": "tilelang",
+        "owner": "tile-ai",
+        "rank": 11,
+        "stars_today": 157,
+        "total_stars": 8008,
+        "url": "https://github.com/tile-ai/tilelang"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.69,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 54.94
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 157 stars today; score 54.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-23T01:57:42Z",
+        "default_branch": "main",
+        "description": "Cursor plugin specification and official plugins",
+        "fork": false,
+        "full_name": "cursor/plugins",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 174,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-09-30T18:08:30Z",
+        "readme_excerpt": "# Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own `.cursor-plugin/plugin.json` manifest. ## Plugins | `name` | Plugin | Author | Category | `description` (from marketplace) | |:-------|:-------|:-------|:---------|:-------------------------------------| | `teaching` | [Teaching](teaching/) | Cursor | Utilities | Skill mapping, practice plans, and learning retrospectives. |",
+        "topics": [],
+        "updated_at": "2026-10-01T14:29:16Z"
+      },
+      "repo": {
+        "description": "Cursor plugin specification and official plugins",
+        "forks": 874,
+        "full_name": "cursor/plugins",
+        "language": "TypeScript",
+        "name": "plugins",
+        "owner": "cursor",
+        "rank": 6,
+        "stars_today": 157,
+        "total_stars": 9265,
+        "url": "https://github.com/cursor/plugins"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.41,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 2.8,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 49.58
+      },
+      "tags": [
+        "DevTools"
+      ],
+      "verdict": "DevTools: TypeScript project with 157 stars today; score 49.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-16T07:06:09Z",
+        "default_branch": "main",
+        "description": "yoink any video from your terminal. no shady ads.",
+        "fork": false,
+        "full_name": "pablostanley/yoinks",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 19,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-07-17T06:40:05Z",
+        "readme_excerpt": "# yoinks <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/logo-dark.svg\"> <img src=\"assets/logo-light.svg\" alt=\"yoinks\" width=\"288\"> </picture> yoink any video. paste. yoink. done. Download videos from YouTube, X/Twitter, Instagram, Threads, TikTok and 1,800+ other sites \u2014 right from your terminal. Paste a url, pick a resolution (or audio-only mp3), done. No popups, no fake download buttons, no sketchy redirects. <img src=\"assets/home.png\" alt=\"yoinks home screen \u2014 paste a l",
+        "topics": [],
+        "updated_at": "2026-10-01T14:39:02Z"
+      },
+      "repo": {
+        "description": "yoink any video from your terminal. no shady ads.",
+        "forks": 254,
+        "full_name": "pablostanley/yoinks",
+        "language": "TypeScript",
+        "name": "yoinks",
+        "owner": "pablostanley",
+        "rank": 12,
+        "stars_today": 356,
+        "total_stars": 2698,
+        "url": "https://github.com/pablostanley/yoinks"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.21,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 47.72
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 356 stars today; score 47.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "forks": 22982,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 888,
+        "total_stars": 273538,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.44,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 39.39
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 888 stars today; score 39.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mksglu",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "forks": 1777,
+        "full_name": "sponsors/mksglu",
+        "language": "TypeScript",
+        "name": "mksglu",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 357,
+        "total_stars": 24684,
+        "url": "https://github.com/sponsors/mksglu"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.79,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 36.74
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 357 stars today; score 36.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/DietrichGebert",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "forks": 8053,
+        "full_name": "sponsors/DietrichGebert",
+        "language": "JavaScript",
+        "name": "DietrichGebert",
+        "owner": "sponsors",
+        "rank": 1,
+        "stars_today": 1179,
+        "total_stars": 149956,
+        "url": "https://github.com/sponsors/DietrichGebert"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 7.56,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 36.01
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 1179 stars today; score 36.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 26272,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 476,
+        "total_stars": 293748,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.33,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 33.48
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 476 stars today; score 33.5/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-10-01",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is pbakaus/impeccable."
+}

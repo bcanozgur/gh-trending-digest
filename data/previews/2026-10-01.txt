@@ -1,0 +1,32 @@
+GitHub Trending: AI workflow signal - 2026-10-01
+
+Today leans toward AI workflow signal; the strongest pick is pbakaus/impeccable.
+
+Top picks
+1. pbakaus/impeccable - 71.2/100
+   https://github.com/pbakaus/impeccable
+   AI Workflow, Try Today: JavaScript project with 463 stars today; score 71.2/100.
+2. earendil-works/pi - 65.7/100
+   https://github.com/earendil-works/pi
+   AI Workflow, DevTools: TypeScript project with 294 stars today; score 65.7/100.
+3. HunxByts/GhostTrack - 57.3/100
+   https://github.com/HunxByts/GhostTrack
+   AI Workflow, DevTools: Python project with 635 stars today; score 57.3/100.
+4. Friedrich-M/UniMate - 55.6/100
+   https://github.com/Friedrich-M/UniMate
+   AI Workflow, Try Today: Python project with 225 stars today; score 55.6/100.
+5. tile-ai/tilelang - 54.9/100
+   https://github.com/tile-ai/tilelang
+   AI Workflow, Try Today: Python project with 157 stars today; score 54.9/100.
+
+Full reviewed list
+- pbakaus/impeccable: 71.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: JavaScript project with 463 stars today; score 71.2/100.
+- earendil-works/pi: 65.7/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 294 stars today; score 65.7/100.
+- HunxByts/GhostTrack: 57.3/100 [AI Workflow, DevTools, Deep Dive] AI Workflow, DevTools: Python project with 635 stars today; score 57.3/100.
+- Friedrich-M/UniMate: 55.6/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 225 stars today; score 55.6/100.
+- tile-ai/tilelang: 54.9/100 [AI Workflow, Try Today] AI Workflow, Try Today: Python project with 157 stars today; score 54.9/100.
+- cursor/plugins: 49.6/100 [DevTools] DevTools: TypeScript project with 157 stars today; score 49.6/100.
+- pablostanley/yoinks: 47.7/100 [DevTools, Try Today] DevTools, Try Today: TypeScript project with 356 stars today; score 47.7/100.
+- sponsors/obra: 33.5/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Shell project with 476 stars today; score 33.5/100.
+
+Generated for 2026-10-01 from GitHub Trending daily.
