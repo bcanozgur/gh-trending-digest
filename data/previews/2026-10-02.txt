@@ -1,0 +1,32 @@
+GitHub Trending: AI workflow signal - 2026-10-02
+
+Today leans toward AI workflow signal; the strongest pick is Panniantong/Agent-Reach.
+
+Top picks
+1. Panniantong/Agent-Reach - 75.3/100
+   https://github.com/Panniantong/Agent-Reach
+   AI Workflow, DevTools: Python project with 683 stars today; score 75.3/100.
+2. google/skills - 69.5/100
+   https://github.com/google/skills
+   AI Workflow, Try Today: Python project with 78 stars today; score 69.5/100.
+3. getsentry/sentry - 66.5/100
+   https://github.com/getsentry/sentry
+   AI Workflow, DevTools: Python project with 12 stars today; score 66.5/100.
+4. Effect-TS/effect - 62.8/100
+   https://github.com/Effect-TS/effect
+   AI Workflow, DevTools: TypeScript project with 76 stars today; score 62.8/100.
+5. sponsors/mattpocock - 41.4/100
+   https://github.com/sponsors/mattpocock
+   AI Workflow, Watch: Shell project with 955 stars today; score 41.4/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- Panniantong/Agent-Reach: 75.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 683 stars today; score 75.3/100.
+- google/skills: 69.5/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 78 stars today; score 69.5/100.
+- getsentry/sentry: 66.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 12 stars today; score 66.5/100.
+- Effect-TS/effect: 62.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 76 stars today; score 62.8/100.
+- sponsors/mattpocock: 41.4/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Shell project with 955 stars today; score 41.4/100.
+- sponsors/coreyhaines31: 40.9/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: JavaScript project with 139 stars today; score 40.9/100.
+- sponsors/JuliusBrussee: 33.0/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Go project with 193 stars today; score 33.0/100.
+
+Generated for 2026-10-02 from GitHub Trending daily.
