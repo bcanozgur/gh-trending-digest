@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-10-04
+
+Today leans toward AI workflow signal; the strongest pick is garrytan/gstack.
+
+Top picks
+1. garrytan/gstack - 68.9/100
+   https://github.com/garrytan/gstack
+   AI Workflow, Try Today: TypeScript project with 121 stars today; score 68.9/100.
+2. tester-army/e2e - 66.0/100
+   https://github.com/tester-army/e2e
+   AI Workflow, DevTools: TypeScript project with 344 stars today; score 66.0/100.
+3. earthtojake/text-to-cad - 64.0/100
+   https://github.com/earthtojake/text-to-cad
+   AI Workflow, Try Today: Python project with 75 stars today; score 64.0/100.
+4. caddyserver/caddy - 49.5/100
+   https://github.com/caddyserver/caddy
+   Try Today: Go project with 31 stars today; score 49.5/100.
+5. sponsors/calesthio - 32.3/100
+   https://github.com/sponsors/calesthio
+   AI Workflow, Watch: Python project with 292 stars today; score 32.3/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- garrytan/gstack: 68.9/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 121 stars today; score 68.9/100.
+- tester-army/e2e: 66.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 344 stars today; score 66.0/100.
+- earthtojake/text-to-cad: 64.0/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 75 stars today; score 64.0/100.
+- caddyserver/caddy: 49.5/100 [Try Today] Try Today: Go project with 31 stars today; score 49.5/100.
+- sponsors/calesthio: 32.3/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Python project with 292 stars today; score 32.3/100.
+- sponsors/antirez: 31.7/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: C project with 211 stars today; score 31.7/100.
+
+Generated for 2026-10-04 from GitHub Trending daily.
