@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-10-05
+
+Today leans toward AI workflow signal; the strongest pick is michael-denyer/pstack-claude.
+
+Top picks
+1. michael-denyer/pstack-claude - 81.0/100
+   https://github.com/michael-denyer/pstack-claude
+   AI Workflow, DevTools: JavaScript project with 222 stars today; score 81.0/100.
+2. boykopovar/AnyPS5 - 61.0/100
+   https://github.com/boykopovar/AnyPS5
+   Try Today, Deep Dive: C++ project with 994 stars today; score 61.0/100.
+3. Stremio/stremio-web - 59.5/100
+   https://github.com/Stremio/stremio-web
+   AI Workflow, DevTools: JavaScript project with 111 stars today; score 59.5/100.
+4. sponsors/DuarteSantos8 - 41.2/100
+   https://github.com/sponsors/DuarteSantos8
+   AI Workflow, Watch: JavaScript project with 1444 stars today; score 41.2/100.
+   Caution: Weak onboarding evidence.
+5. sponsors/msitarzewski - 39.0/100
+   https://github.com/sponsors/msitarzewski
+   AI Workflow, Watch: Shell project with 595 stars today; score 39.0/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- michael-denyer/pstack-claude: 81.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: JavaScript project with 222 stars today; score 81.0/100.
+- boykopovar/AnyPS5: 61.0/100 [Try Today, Deep Dive] Try Today, Deep Dive: C++ project with 994 stars today; score 61.0/100.
+- Stremio/stremio-web: 59.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: JavaScript project with 111 stars today; score 59.5/100.
+- sponsors/DuarteSantos8: 41.2/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: JavaScript project with 1444 stars today; score 41.2/100.
+- sponsors/msitarzewski: 39.0/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Shell project with 595 stars today; score 39.0/100.
+
+Generated for 2026-10-05 from GitHub Trending daily.
