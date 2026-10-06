@@ -1,0 +1,878 @@
+{
+  "date": "2026-10-06",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-14T00:51:32Z",
+        "default_branch": "main",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "fork": false,
+        "full_name": "morluto/rea",
+        "homepage": null,
+        "latest_release": "rea-agents-4.0.1",
+        "license_spdx": "MIT",
+        "open_issues": 70,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-06T14:20:15Z",
+        "readme_excerpt": "<div align=\"center\"> **English** \u00b7 [\u7b80\u4f53\u4e2d\u6587](README_zh.md) \u00b7 [\u65e5\u672c\u8a9e](README_ja.md) \u00b7 [\ud55c\uad6d\uc5b4](README_ko.md) \u00b7 [\u0627\u0644\u0639\u0631\u0628\u064a\u0629](README_ar.md) # REA: Reverse Engineer Anything ### Reverse engineer anything with agents, from app behavior down to native binaries. **See a feature you like. Understand how it works, down to the binary level.** [![npm version](https://img.shields.io/npm/v/rea-agents?style=flat-square&color=cb3837)](https://www.npmjs.com/package/rea-agents) [![CI](https://img.shields.io/github/actions/",
+        "topics": [
+          "agent-skills",
+          "ai-agent-tools",
+          "ai-agents",
+          "binary-analysis",
+          "cli",
+          "coding-agents",
+          "cordis",
+          "ctf",
+          "decompiler",
+          "disassembler",
+          "dsh",
+          "dsh-plugin",
+          "ghidra",
+          "hopper",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "reverse-engineering",
+          "reverse-engineering-tools",
+          "static-analysis"
+        ],
+        "updated_at": "2026-10-06T14:24:29Z"
+      },
+      "repo": {
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "forks": 817,
+        "full_name": "morluto/rea",
+        "language": "TypeScript",
+        "name": "rea",
+        "owner": "morluto",
+        "rank": 8,
+        "stars_today": 2963,
+        "total_stars": 7329,
+        "url": "https://github.com/morluto/rea"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 10.99,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 80.24
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 2963 stars today; score 80.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-02-13T09:09:21Z",
+        "default_branch": "main",
+        "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
+        "fork": false,
+        "full_name": "deepseek-ai/DeepGEMM",
+        "homepage": null,
+        "latest_release": "v2.1.1.post3",
+        "license_spdx": "MIT",
+        "open_issues": 149,
+        "primary_language": "Cuda",
+        "pushed_at": "2026-09-30T01:48:05Z",
+        "readme_excerpt": "# DeepGEMM DeepGEMM is a unified, high-performance tensor core kernel library that brings together the key computation primitives of modern large language models \u2014 GEMMs (FP8, FP4, BF16), fused MoE with overlapped communication (Mega MoE), MQA scoring for the lightning indexer, HyperConnection (HC), and more \u2014 into a single, cohesive CUDA codebase. All kernels are compiled at runtime through DeepJIT, requiring no CUDA compilation during installation. DeepGEMM leverages some concepts from [CUTLAS",
+        "topics": [],
+        "updated_at": "2026-10-06T14:22:24Z"
+      },
+      "repo": {
+        "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
+        "forks": 1364,
+        "full_name": "deepseek-ai/DeepGEMM",
+        "language": "Cuda",
+        "name": "DeepGEMM",
+        "owner": "deepseek-ai",
+        "rank": 9,
+        "stars_today": 363,
+        "total_stars": 8581,
+        "url": "https://github.com/deepseek-ai/DeepGEMM"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.48,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 71.02
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Cuda project with 363 stars today; score 71.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-13T20:42:06Z",
+        "default_branch": "main",
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "fork": false,
+        "full_name": "ayghri/i-have-adhd",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 81,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-19T16:44:46Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"./logo.png\" alt=\"i-have-adhd\" width=\"140\" /> </p> <p align=\"center\"> <strong align=\"center\">ADHD-friendly outputs. No ADHD diagnosis needed!</strong> </p> <p align=\"center\"> <a href=\"LICENSE\"><img src=\"https://img.shields.io/github/license/ayghri/i-have-adhd?style=flat\" alt=\"License\"></a> </p> <p align=\"center\"> <strong title=\"English\" aria-label=\"English\">\ud83c\uddec\ud83c\udde7</strong> \u00b7 <a href=\".github/readme/README.zh-CN.md\" title=\"\u7b80\u4f53\u4e2d\u6587\" aria-label=\"\u7b80\u4f53\u4e2d\u6587\">\ud83c\udde8\ud83c\uddf3</a> \u00b7 <a href=\".github/",
+        "topics": [
+          "adhd",
+          "claude-",
+          "claude-code-plugin",
+          "claude-skills",
+          "developer-tools",
+          "productivity"
+        ],
+        "updated_at": "2026-10-06T14:23:53Z"
+      },
+      "repo": {
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "forks": 3111,
+        "full_name": "ayghri/i-have-adhd",
+        "language": "Python",
+        "name": "i-have-adhd",
+        "owner": "ayghri",
+        "rank": 7,
+        "stars_today": 318,
+        "total_stars": 54178,
+        "url": "https://github.com/ayghri/i-have-adhd"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.64,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 55.19
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 318 stars today; score 55.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/cathrynlavery",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "forks": 2831,
+        "full_name": "sponsors/cathrynlavery",
+        "language": "HTML",
+        "name": "cathrynlavery",
+        "owner": "sponsors",
+        "rank": 12,
+        "stars_today": 227,
+        "total_stars": 43710,
+        "url": "https://github.com/sponsors/cathrynlavery"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.66,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 45.31
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: HTML project with 227 stars today; score 45.3/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-14T00:51:32Z",
+        "default_branch": "main",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "fork": false,
+        "full_name": "morluto/rea",
+        "homepage": null,
+        "latest_release": "rea-agents-4.0.1",
+        "license_spdx": "MIT",
+        "open_issues": 70,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-06T14:20:15Z",
+        "readme_excerpt": "<div align=\"center\"> **English** \u00b7 [\u7b80\u4f53\u4e2d\u6587](README_zh.md) \u00b7 [\u65e5\u672c\u8a9e](README_ja.md) \u00b7 [\ud55c\uad6d\uc5b4](README_ko.md) \u00b7 [\u0627\u0644\u0639\u0631\u0628\u064a\u0629](README_ar.md) # REA: Reverse Engineer Anything ### Reverse engineer anything with agents, from app behavior down to native binaries. **See a feature you like. Understand how it works, down to the binary level.** [![npm version](https://img.shields.io/npm/v/rea-agents?style=flat-square&color=cb3837)](https://www.npmjs.com/package/rea-agents) [![CI](https://img.shields.io/github/actions/",
+        "topics": [
+          "agent-skills",
+          "ai-agent-tools",
+          "ai-agents",
+          "binary-analysis",
+          "cli",
+          "coding-agents",
+          "cordis",
+          "ctf",
+          "decompiler",
+          "disassembler",
+          "dsh",
+          "dsh-plugin",
+          "ghidra",
+          "hopper",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "reverse-engineering",
+          "reverse-engineering-tools",
+          "static-analysis"
+        ],
+        "updated_at": "2026-10-06T14:24:29Z"
+      },
+      "repo": {
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "forks": 817,
+        "full_name": "morluto/rea",
+        "language": "TypeScript",
+        "name": "rea",
+        "owner": "morluto",
+        "rank": 8,
+        "stars_today": 2963,
+        "total_stars": 7329,
+        "url": "https://github.com/morluto/rea"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 10.99,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 80.24
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 2963 stars today; score 80.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-11-16T01:52:04Z",
+        "default_branch": "main",
+        "description": "The design language that makes your AI harness better at design.",
+        "fork": false,
+        "full_name": "pbakaus/impeccable",
+        "homepage": "https://impeccable.style",
+        "latest_release": "skill-v4.5.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 54,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-10-06T10:34:59Z",
+        "readme_excerpt": "# Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 60 deterministic detector rules for AI-generated frontend design. > **Quick start:** From your project root, run `npx impeccable install`, then run `/impeccable init` inside your AI coding tool. Full docs: [impeccable.style](https://impeccable.style). ## Why Impeccable? Anthropic's [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) was the first widely-used d",
+        "topics": [],
+        "updated_at": "2026-10-06T14:24:41Z"
+      },
+      "repo": {
+        "description": "The design language that makes your AI harness better at design.",
+        "forks": 4613,
+        "full_name": "pbakaus/impeccable",
+        "language": "JavaScript",
+        "name": "impeccable",
+        "owner": "pbakaus",
+        "rank": 5,
+        "stars_today": 947,
+        "total_stars": 77431,
+        "url": "https://github.com/pbakaus/impeccable"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 5.71,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 73.6
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 947 stars today; score 73.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-02-13T09:09:21Z",
+        "default_branch": "main",
+        "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
+        "fork": false,
+        "full_name": "deepseek-ai/DeepGEMM",
+        "homepage": null,
+        "latest_release": "v2.1.1.post3",
+        "license_spdx": "MIT",
+        "open_issues": 149,
+        "primary_language": "Cuda",
+        "pushed_at": "2026-09-30T01:48:05Z",
+        "readme_excerpt": "# DeepGEMM DeepGEMM is a unified, high-performance tensor core kernel library that brings together the key computation primitives of modern large language models \u2014 GEMMs (FP8, FP4, BF16), fused MoE with overlapped communication (Mega MoE), MQA scoring for the lightning indexer, HyperConnection (HC), and more \u2014 into a single, cohesive CUDA codebase. All kernels are compiled at runtime through DeepJIT, requiring no CUDA compilation during installation. DeepGEMM leverages some concepts from [CUTLAS",
+        "topics": [],
+        "updated_at": "2026-10-06T14:22:24Z"
+      },
+      "repo": {
+        "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
+        "forks": 1364,
+        "full_name": "deepseek-ai/DeepGEMM",
+        "language": "Cuda",
+        "name": "DeepGEMM",
+        "owner": "deepseek-ai",
+        "rank": 9,
+        "stars_today": 363,
+        "total_stars": 8581,
+        "url": "https://github.com/deepseek-ai/DeepGEMM"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.48,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 71.02
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Cuda project with 363 stars today; score 71.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-22T01:09:45Z",
+        "default_branch": "main",
+        "description": "Give your agent CAD superpowers.",
+        "fork": false,
+        "full_name": "earthtojake/text-to-cad",
+        "homepage": "https://www.texttocad.dev",
+        "latest_release": "v0.7.15",
+        "license_spdx": "MIT",
+        "open_issues": 36,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-06T05:56:02Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"apps/docs/public/brand/logo-texttocad-animated.svg\" alt=\"text-to-cad\" width=\"800\"> Give your agent CAD superpowers. [Docs](https://www.texttocad.dev) [![GitHub stars](https://img.shields.io/github/stars/earthtojake/text-to-cad?style=for-the-badge&logo=github&label=Stars)](https://github.com/earthtojake/text-to-cad/stargazers) [![skills.sh](https://skills.sh/b/earthtojake/text-to-cad?style=for-the-badge)](https://skills.sh/earthtojake/text-to-cad) [![Follow @earthto",
+        "topics": [
+          "agents",
+          "ai-agents",
+          "cad",
+          "mechanical-engineering",
+          "robotics",
+          "step",
+          "stl",
+          "stp",
+          "text-to-cad"
+        ],
+        "updated_at": "2026-10-06T14:21:52Z"
+      },
+      "repo": {
+        "description": "Give your agent CAD superpowers.",
+        "forks": 1790,
+        "full_name": "earthtojake/text-to-cad",
+        "language": "Python",
+        "name": "text-to-cad",
+        "owner": "earthtojake",
+        "rank": 3,
+        "stars_today": 620,
+        "total_stars": 17760,
+        "url": "https://github.com/earthtojake/text-to-cad"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.07,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 65.67
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 620 stars today; score 65.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-22T09:29:04Z",
+        "default_branch": "main",
+        "description": "Next generation e2e testing framework for web and mobile apps.",
+        "fork": false,
+        "full_name": "tester-army/e2e",
+        "homepage": "https://tester.army/e2e",
+        "latest_release": "@e2e-dev/kernel@0.2.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 53,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-06T14:07:35Z",
+        "readme_excerpt": "<a href=\"https://tester.army/e2e?utm_source=e2e&utm_medium=github&utm_campaign=readme_banner\"><img src=\"./.github/assets/readme-banner.png\" alt=\"e2e, the open source AI testing framework by TesterArmy\" width=\"100%\" /></a> <p align=\"center\"> <a href=\"https://tester.army?utm_source=e2e&utm_medium=github&utm_campaign=readme_badge\"><img alt=\"Made by TesterArmy\" src=\"./.github/assets/made-by-testerarmy.svg\" /></a> <a href=\"https://www.npmjs.com/package/e2e\"><img alt=\"npm version\" src=\"https://img.shi",
+        "topics": [
+          "e2e",
+          "e2e-testing",
+          "end-to-end-testing",
+          "mobile",
+          "mobile-testing",
+          "playwright",
+          "web"
+        ],
+        "updated_at": "2026-10-06T14:24:44Z"
+      },
+      "repo": {
+        "description": "Next generation e2e testing framework for web and mobile apps.",
+        "forks": 248,
+        "full_name": "tester-army/e2e",
+        "language": "TypeScript",
+        "name": "e2e",
+        "owner": "tester-army",
+        "rank": 1,
+        "stars_today": 1720,
+        "total_stars": 5728,
+        "url": "https://github.com/tester-army/e2e"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 8.48,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 64.19
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1720 stars today; score 64.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-13T20:42:06Z",
+        "default_branch": "main",
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "fork": false,
+        "full_name": "ayghri/i-have-adhd",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 81,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-19T16:44:46Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"./logo.png\" alt=\"i-have-adhd\" width=\"140\" /> </p> <p align=\"center\"> <strong align=\"center\">ADHD-friendly outputs. No ADHD diagnosis needed!</strong> </p> <p align=\"center\"> <a href=\"LICENSE\"><img src=\"https://img.shields.io/github/license/ayghri/i-have-adhd?style=flat\" alt=\"License\"></a> </p> <p align=\"center\"> <strong title=\"English\" aria-label=\"English\">\ud83c\uddec\ud83c\udde7</strong> \u00b7 <a href=\".github/readme/README.zh-CN.md\" title=\"\u7b80\u4f53\u4e2d\u6587\" aria-label=\"\u7b80\u4f53\u4e2d\u6587\">\ud83c\udde8\ud83c\uddf3</a> \u00b7 <a href=\".github/",
+        "topics": [
+          "adhd",
+          "claude-",
+          "claude-code-plugin",
+          "claude-skills",
+          "developer-tools",
+          "productivity"
+        ],
+        "updated_at": "2026-10-06T14:23:53Z"
+      },
+      "repo": {
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "forks": 3111,
+        "full_name": "ayghri/i-have-adhd",
+        "language": "Python",
+        "name": "i-have-adhd",
+        "owner": "ayghri",
+        "rank": 7,
+        "stars_today": 318,
+        "total_stars": 54178,
+        "url": "https://github.com/ayghri/i-have-adhd"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.64,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 55.19
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 318 stars today; score 55.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-08-03T21:30:25Z",
+        "default_branch": "main",
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "fork": false,
+        "full_name": "boykopovar/AnyPS5",
+        "homepage": "https://discord.gg/BHFztBPUe",
+        "latest_release": "v0.1.1",
+        "license_spdx": "GPL-2.0",
+        "open_issues": 176,
+        "primary_language": "C++",
+        "pushed_at": "2026-10-06T13:50:23Z",
+        "readme_excerpt": "# About Tool for automatic executables porting to Linux and Windows. Includes a [relinker](core/relinker) that converts executable to the target system's native format and implementations of [system prx libraries](core/libs/prx) suitable for dynamic linking. No emulation or separate runtime process. [Usage](docs/user/USAGE.md), [Build instructions](docs/dev/BUILD.md), [Technical debt of the project](docs/dev/TechnicalDebt.md), [code style conventions](docs/dev/CONVENTIONS.md), [contributing](CON",
+        "topics": [
+          "anyps5",
+          "dynamic-library",
+          "game-porting",
+          "ps5",
+          "ps5-tools",
+          "spir-v",
+          "vulkan"
+        ],
+        "updated_at": "2026-10-06T14:24:16Z"
+      },
+      "repo": {
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "forks": 409,
+        "full_name": "boykopovar/AnyPS5",
+        "language": "C++",
+        "name": "AnyPS5",
+        "owner": "boykopovar",
+        "rank": 4,
+        "stars_today": 943,
+        "total_stars": 5547,
+        "url": "https://github.com/boykopovar/AnyPS5"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 5.84,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 2.39,
+        "technical_quality": 14.0,
+        "total": 51.87
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: C++ project with 943 stars today; score 51.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/cathrynlavery",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "forks": 2831,
+        "full_name": "sponsors/cathrynlavery",
+        "language": "HTML",
+        "name": "cathrynlavery",
+        "owner": "sponsors",
+        "rank": 12,
+        "stars_today": 227,
+        "total_stars": 43710,
+        "url": "https://github.com/sponsors/cathrynlavery"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.66,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 45.31
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: HTML project with 227 stars today; score 45.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/thedotmack",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Persistent Context Across Sessions for Every Agent \u2013 Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "forks": 8543,
+        "full_name": "sponsors/thedotmack",
+        "language": "TypeScript",
+        "name": "thedotmack",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 536,
+        "total_stars": 96936,
+        "url": "https://github.com/sponsors/thedotmack"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.4,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 7.0,
+        "technical_quality": 3.5,
+        "total": 42.6
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 536 stars today; score 42.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "forks": 23261,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 1028,
+        "total_stars": 277650,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.37,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 39.32
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 1028 stars today; score 39.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/msitarzewski",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "forks": 25409,
+        "full_name": "sponsors/msitarzewski",
+        "language": "Shell",
+        "name": "msitarzewski",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 621,
+        "total_stars": 157597,
+        "url": "https://github.com/sponsors/msitarzewski"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.06,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 32.51
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 621 stars today; score 32.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/DuarteSantos8",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Self-hosted gym & body-weight tracker \u2014 plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+        "forks": 731,
+        "full_name": "sponsors/DuarteSantos8",
+        "language": "JavaScript",
+        "name": "DuarteSantos8",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 1419,
+        "total_stars": 5077,
+        "url": "https://github.com/sponsors/DuarteSantos8"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.18,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 30.13
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 1419 stars today; score 30.1/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-10-06",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is morluto/rea."
+}

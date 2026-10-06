@@ -1,0 +1,26 @@
+GitHub Trending: AI workflow signal - 2026-10-06
+
+Today leans toward AI workflow signal; the strongest pick is morluto/rea.
+
+Top picks
+1. morluto/rea - 80.2/100
+   https://github.com/morluto/rea
+   AI Workflow, DevTools: TypeScript project with 2963 stars today; score 80.2/100.
+2. deepseek-ai/DeepGEMM - 71.0/100
+   https://github.com/deepseek-ai/DeepGEMM
+   AI Workflow, Try Today: Cuda project with 363 stars today; score 71.0/100.
+3. ayghri/i-have-adhd - 55.2/100
+   https://github.com/ayghri/i-have-adhd
+   AI Workflow, DevTools: Python project with 318 stars today; score 55.2/100.
+4. sponsors/cathrynlavery - 45.3/100
+   https://github.com/sponsors/cathrynlavery
+   AI Workflow, Watch: HTML project with 227 stars today; score 45.3/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- morluto/rea: 80.2/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 2963 stars today; score 80.2/100.
+- deepseek-ai/DeepGEMM: 71.0/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Cuda project with 363 stars today; score 71.0/100.
+- ayghri/i-have-adhd: 55.2/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 318 stars today; score 55.2/100.
+- sponsors/cathrynlavery: 45.3/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: HTML project with 227 stars today; score 45.3/100.
+
+Generated for 2026-10-06 from GitHub Trending daily.
