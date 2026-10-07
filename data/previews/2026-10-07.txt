@@ -1,0 +1,26 @@
+GitHub Trending: AI workflow signal - 2026-10-07
+
+Today leans toward AI workflow signal; the strongest pick is manaflow-ai/cmux.
+
+Top picks
+1. manaflow-ai/cmux - 71.9/100
+   https://github.com/manaflow-ai/cmux
+   AI Workflow, DevTools: Swift project with 50 stars today; score 71.9/100.
+2. cloudflare/security-audit-skill - 63.7/100
+   https://github.com/cloudflare/security-audit-skill
+   AI Workflow, Try Today: JavaScript project with 538 stars today; score 63.7/100.
+3. EpicGames/raddebugger - 53.7/100
+   https://github.com/EpicGames/raddebugger
+   DevTools, Try Today: C project with 82 stars today; score 53.7/100.
+4. sponsors/trycua - 31.2/100
+   https://github.com/sponsors/trycua
+   AI Workflow, Watch: Rust project with 229 stars today; score 31.2/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- manaflow-ai/cmux: 71.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Swift project with 50 stars today; score 71.9/100.
+- cloudflare/security-audit-skill: 63.7/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: JavaScript project with 538 stars today; score 63.7/100.
+- EpicGames/raddebugger: 53.7/100 [DevTools, Try Today] DevTools, Try Today: C project with 82 stars today; score 53.7/100.
+- sponsors/trycua: 31.2/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Rust project with 229 stars today; score 31.2/100.
+
+Generated for 2026-10-07 from GitHub Trending daily.

@@ -1,0 +1,934 @@
+{
+  "date": "2026-10-07",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-28T10:03:24Z",
+        "default_branch": "main",
+        "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+        "fork": false,
+        "full_name": "manaflow-ai/cmux",
+        "homepage": "https://cmux.com",
+        "latest_release": "v0.65.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 3174,
+        "primary_language": "Swift",
+        "pushed_at": "2026-10-07T14:39:54Z",
+        "readme_excerpt": "<h1 align=\"center\">cmux</h1> <p align=\"center\">A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents</p> <p align=\"center\"> <a href=\"https://github.com/manaflow-ai/cmux/releases/latest/download/cmux-macos.dmg\"> <img src=\"./docs/assets/macos-badge.png\" alt=\"Download cmux for macOS\" width=\"180\" /> </a> </p> <p align=\"center\"> English | <a href=\"README.ja.md\">\u65e5\u672c\u8a9e</a> | <a href=\"README.vi.md\">Ti\u1ebfng Vi\u1ec7t</a> | <a href=\"README.zh-CN.md\">\u7b80\u4f53\u4e2d\u6587</a> | <a href=\"README.zh-",
+        "topics": [
+          "amp",
+          "claude-code",
+          "cli",
+          "codex",
+          "coding-agents",
+          "gemini",
+          "ghostty",
+          "macos",
+          "multiplexer",
+          "multitasking",
+          "opencode",
+          "organization",
+          "parallel-agents",
+          "programmability",
+          "terminal",
+          "terminal-multiplexer",
+          "tmux",
+          "workspace-manager"
+        ],
+        "updated_at": "2026-10-07T14:40:11Z"
+      },
+      "repo": {
+        "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+        "forks": 2458,
+        "full_name": "manaflow-ai/cmux",
+        "language": "Swift",
+        "name": "cmux",
+        "owner": "manaflow-ai",
+        "rank": 9,
+        "stars_today": 50,
+        "total_stars": 27730,
+        "url": "https://github.com/manaflow-ai/cmux"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.54,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 71.89
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Swift project with 50 stars today; score 71.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-18T14:08:44Z",
+        "default_branch": "main",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "fork": false,
+        "full_name": "cloudflare/security-audit-skill",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 55,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-14T19:29:02Z",
+        "readme_excerpt": "# security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting. This is the skill that seeded Cloudflare's vulnerability discovery harness, described in [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness). The harness grew into a multi-stage, f",
+        "topics": [],
+        "updated_at": "2026-10-07T14:40:53Z"
+      },
+      "repo": {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "forks": 1548,
+        "full_name": "cloudflare/security-audit-skill",
+        "language": "JavaScript",
+        "name": "security-audit-skill",
+        "owner": "cloudflare",
+        "rank": 11,
+        "stars_today": 538,
+        "total_stars": 25732,
+        "url": "https://github.com/cloudflare/security-audit-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.13,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 63.68
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 538 stars today; score 63.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-01-10T19:24:08Z",
+        "default_branch": "master",
+        "description": "A native, user-mode, multi-process, graphical debugger.",
+        "fork": false,
+        "full_name": "EpicGames/raddebugger",
+        "homepage": null,
+        "latest_release": "v0.9.29-alpha",
+        "license_spdx": "MIT",
+        "open_issues": 315,
+        "primary_language": "C",
+        "pushed_at": "2026-10-07T00:11:02Z",
+        "readme_excerpt": "# The RAD Debugger Project _**NOTE:** This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and tips, can be found packaged along with debugger releases, or within the `build` folder after a local copy has been built. You can find pre-built release binaries [here](https://github.com/EpicGames/raddebugger/releases)._ The RAD Debugger is a native, user-mode,",
+        "topics": [],
+        "updated_at": "2026-10-07T14:35:22Z"
+      },
+      "repo": {
+        "description": "A native, user-mode, multi-process, graphical debugger.",
+        "forks": 376,
+        "full_name": "EpicGames/raddebugger",
+        "language": "C",
+        "name": "raddebugger",
+        "owner": "EpicGames",
+        "rank": 7,
+        "stars_today": 82,
+        "total_stars": 7743,
+        "url": "https://github.com/EpicGames/raddebugger"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.88,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 53.68
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: C project with 82 stars today; score 53.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/trycua",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+        "forks": 2034,
+        "full_name": "sponsors/trycua",
+        "language": "Rust",
+        "name": "trycua",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 229,
+        "total_stars": 28607,
+        "url": "https://github.com/sponsors/trycua"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.72,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 31.17
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Rust project with 229 stars today; score 31.2/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-14T00:51:32Z",
+        "default_branch": "main",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "fork": false,
+        "full_name": "morluto/rea",
+        "homepage": "https://morluto.github.io/rea/",
+        "latest_release": "rea-agents-4.1.0",
+        "license_spdx": "MIT",
+        "open_issues": 115,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-07T14:40:53Z",
+        "readme_excerpt": "<div align=\"center\"> **English** \u00b7 [\u7b80\u4f53\u4e2d\u6587](README_zh.md) \u00b7 [\u65e5\u672c\u8a9e](README_ja.md) \u00b7 [\ud55c\uad6d\uc5b4](README_ko.md) \u00b7 [\u0627\u0644\u0639\u0631\u0628\u064a\u0629](README_ar.md) # REA: Reverse Engineer Anything ### One MCP for reverse engineering across binaries, applications, and runtime behavior. **See a feature you like. Understand how it works, down to the binary level.** [![npm version](https://img.shields.io/npm/v/rea-agents?style=flat-square&color=cb3837)](https://www.npmjs.com/package/rea-agents) [![CI](https://img.shields.io/github/actio",
+        "topics": [
+          "agent-skills",
+          "ai-agent-tools",
+          "ai-agents",
+          "binary-analysis",
+          "cli",
+          "coding-agents",
+          "cordis",
+          "ctf",
+          "decompiler",
+          "disassembler",
+          "dsh",
+          "dsh-plugin",
+          "ghidra",
+          "hopper",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "reverse-engineering",
+          "reverse-engineering-tools",
+          "static-analysis"
+        ],
+        "updated_at": "2026-10-07T14:41:03Z"
+      },
+      "repo": {
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "forks": 1331,
+        "full_name": "morluto/rea",
+        "language": "TypeScript",
+        "name": "rea",
+        "owner": "morluto",
+        "rank": 1,
+        "stars_today": 4666,
+        "total_stars": 12410,
+        "url": "https://github.com/morluto/rea"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 77.1
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 4666 stars today; score 77.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-15T20:20:26Z",
+        "default_branch": "main",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "fork": false,
+        "full_name": "addyosmani/agent-skills",
+        "homepage": "https://skills.addy.ie",
+        "latest_release": "0.6.12",
+        "license_spdx": "MIT",
+        "open_issues": 131,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-10-03T18:21:11Z",
+        "readme_excerpt": "# Agent Skills **Production-grade engineering skills for AI coding agents.** Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. <a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" wid",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-10-07T14:40:49Z"
+      },
+      "repo": {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "forks": 10738,
+        "full_name": "addyosmani/agent-skills",
+        "language": "JavaScript",
+        "name": "agent-skills",
+        "owner": "addyosmani",
+        "rank": 6,
+        "stars_today": 453,
+        "total_stars": 102472,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.7,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 72.4
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 453 stars today; score 72.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-28T10:03:24Z",
+        "default_branch": "main",
+        "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+        "fork": false,
+        "full_name": "manaflow-ai/cmux",
+        "homepage": "https://cmux.com",
+        "latest_release": "v0.65.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 3174,
+        "primary_language": "Swift",
+        "pushed_at": "2026-10-07T14:39:54Z",
+        "readme_excerpt": "<h1 align=\"center\">cmux</h1> <p align=\"center\">A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents</p> <p align=\"center\"> <a href=\"https://github.com/manaflow-ai/cmux/releases/latest/download/cmux-macos.dmg\"> <img src=\"./docs/assets/macos-badge.png\" alt=\"Download cmux for macOS\" width=\"180\" /> </a> </p> <p align=\"center\"> English | <a href=\"README.ja.md\">\u65e5\u672c\u8a9e</a> | <a href=\"README.vi.md\">Ti\u1ebfng Vi\u1ec7t</a> | <a href=\"README.zh-CN.md\">\u7b80\u4f53\u4e2d\u6587</a> | <a href=\"README.zh-",
+        "topics": [
+          "amp",
+          "claude-code",
+          "cli",
+          "codex",
+          "coding-agents",
+          "gemini",
+          "ghostty",
+          "macos",
+          "multiplexer",
+          "multitasking",
+          "opencode",
+          "organization",
+          "parallel-agents",
+          "programmability",
+          "terminal",
+          "terminal-multiplexer",
+          "tmux",
+          "workspace-manager"
+        ],
+        "updated_at": "2026-10-07T14:40:11Z"
+      },
+      "repo": {
+        "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+        "forks": 2458,
+        "full_name": "manaflow-ai/cmux",
+        "language": "Swift",
+        "name": "cmux",
+        "owner": "manaflow-ai",
+        "rank": 9,
+        "stars_today": 50,
+        "total_stars": 27730,
+        "url": "https://github.com/manaflow-ai/cmux"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.54,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 71.89
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Swift project with 50 stars today; score 71.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-18T14:08:44Z",
+        "default_branch": "main",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "fork": false,
+        "full_name": "cloudflare/security-audit-skill",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 55,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-14T19:29:02Z",
+        "readme_excerpt": "# security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting. This is the skill that seeded Cloudflare's vulnerability discovery harness, described in [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness). The harness grew into a multi-stage, f",
+        "topics": [],
+        "updated_at": "2026-10-07T14:40:53Z"
+      },
+      "repo": {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "forks": 1548,
+        "full_name": "cloudflare/security-audit-skill",
+        "language": "JavaScript",
+        "name": "security-audit-skill",
+        "owner": "cloudflare",
+        "rank": 11,
+        "stars_today": 538,
+        "total_stars": 25732,
+        "url": "https://github.com/cloudflare/security-audit-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.13,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 63.68
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 538 stars today; score 63.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-22T09:29:04Z",
+        "default_branch": "main",
+        "description": "Next generation e2e testing framework for web and mobile apps.",
+        "fork": false,
+        "full_name": "tester-army/e2e",
+        "homepage": "https://tester.army/e2e",
+        "latest_release": "@e2e-dev/kernel@0.2.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 73,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-07T14:37:09Z",
+        "readme_excerpt": "<a href=\"https://tester.army/e2e?utm_source=e2e&utm_medium=github&utm_campaign=readme_banner\"><img src=\"./.github/assets/readme-banner.png\" alt=\"e2e, the open source AI testing framework by TesterArmy\" width=\"100%\" /></a> <p align=\"center\"> <a href=\"https://tester.army?utm_source=e2e&utm_medium=github&utm_campaign=readme_badge\"><img alt=\"Made by TesterArmy\" src=\"./.github/assets/made-by-testerarmy.svg\" /></a> <a href=\"https://www.npmjs.com/package/e2e\"><img alt=\"npm version\" src=\"https://img.shi",
+        "topics": [
+          "e2e",
+          "e2e-testing",
+          "end-to-end-testing",
+          "mobile",
+          "mobile-testing",
+          "playwright",
+          "web"
+        ],
+        "updated_at": "2026-10-07T14:38:41Z"
+      },
+      "repo": {
+        "description": "Next generation e2e testing framework for web and mobile apps.",
+        "forks": 312,
+        "full_name": "tester-army/e2e",
+        "language": "TypeScript",
+        "name": "e2e",
+        "owner": "tester-army",
+        "rank": 12,
+        "stars_today": 1391,
+        "total_stars": 7036,
+        "url": "https://github.com/tester-army/e2e"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.52,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 60.23
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1391 stars today; score 60.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-13T20:42:06Z",
+        "default_branch": "main",
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "fork": false,
+        "full_name": "ayghri/i-have-adhd",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 72,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-06T23:23:46Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"./logo.png\" alt=\"i-have-adhd\" width=\"140\" /> </p> <p align=\"center\"> <strong align=\"center\">ADHD-friendly outputs. No ADHD diagnosis needed!</strong> </p> <p align=\"center\"> <a href=\"LICENSE\"><img src=\"https://img.shields.io/github/license/ayghri/i-have-adhd?style=flat\" alt=\"License\"></a> </p> <p align=\"center\"> <strong title=\"English\" aria-label=\"English\">\ud83c\uddec\ud83c\udde7</strong> \u00b7 <a href=\".github/readme/README.zh-CN.md\" title=\"\u7b80\u4f53\u4e2d\u6587\" aria-label=\"\u7b80\u4f53\u4e2d\u6587\">\ud83c\udde8\ud83c\uddf3</a> \u00b7 <a href=\".github/",
+        "topics": [
+          "adhd",
+          "claude-",
+          "claude-code-plugin",
+          "claude-skills",
+          "developer-tools",
+          "productivity"
+        ],
+        "updated_at": "2026-10-07T14:41:10Z"
+      },
+      "repo": {
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "forks": 3143,
+        "full_name": "ayghri/i-have-adhd",
+        "language": "Python",
+        "name": "i-have-adhd",
+        "owner": "ayghri",
+        "rank": 4,
+        "stars_today": 620,
+        "total_stars": 54814,
+        "url": "https://github.com/ayghri/i-have-adhd"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.28,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 55.83
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 620 stars today; score 55.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-08-03T21:30:25Z",
+        "default_branch": "main",
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "fork": false,
+        "full_name": "boykopovar/AnyPS5",
+        "homepage": "https://discord.gg/BHFztBPUe",
+        "latest_release": "v0.1.1",
+        "license_spdx": "GPL-2.0",
+        "open_issues": 222,
+        "primary_language": "C++",
+        "pushed_at": "2026-10-07T14:32:25Z",
+        "readme_excerpt": "# About Tool for automatic executables porting to Linux and Windows. Includes a [relinker](core/relinker) that converts executable to the target system's native format and implementations of [system prx libraries](core/libs/prx) suitable for dynamic linking. No emulation or separate runtime process. [Usage](docs/user/USAGE.md), [Build instructions](docs/dev/BUILD.md), [Technical debt of the project](docs/dev/TechnicalDebt.md), [code style conventions](docs/dev/CONVENTIONS.md), [contributing](CON",
+        "topics": [
+          "anyps5",
+          "dynamic-library",
+          "game-porting",
+          "ps5",
+          "ps5-tools",
+          "spir-v",
+          "vulkan"
+        ],
+        "updated_at": "2026-10-07T14:41:11Z"
+      },
+      "repo": {
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "forks": 655,
+        "full_name": "boykopovar/AnyPS5",
+        "language": "C++",
+        "name": "AnyPS5",
+        "owner": "boykopovar",
+        "rank": 3,
+        "stars_today": 2725,
+        "total_stars": 8829,
+        "url": "https://github.com/boykopovar/AnyPS5"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 8.22,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.36,
+        "technical_quality": 14.0,
+        "total": 55.22
+      },
+      "tags": [
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "Try Today, Deep Dive: C++ project with 2725 stars today; score 55.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-01-10T19:24:08Z",
+        "default_branch": "master",
+        "description": "A native, user-mode, multi-process, graphical debugger.",
+        "fork": false,
+        "full_name": "EpicGames/raddebugger",
+        "homepage": null,
+        "latest_release": "v0.9.29-alpha",
+        "license_spdx": "MIT",
+        "open_issues": 315,
+        "primary_language": "C",
+        "pushed_at": "2026-10-07T00:11:02Z",
+        "readme_excerpt": "# The RAD Debugger Project _**NOTE:** This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and tips, can be found packaged along with debugger releases, or within the `build` folder after a local copy has been built. You can find pre-built release binaries [here](https://github.com/EpicGames/raddebugger/releases)._ The RAD Debugger is a native, user-mode,",
+        "topics": [],
+        "updated_at": "2026-10-07T14:35:22Z"
+      },
+      "repo": {
+        "description": "A native, user-mode, multi-process, graphical debugger.",
+        "forks": 376,
+        "full_name": "EpicGames/raddebugger",
+        "language": "C",
+        "name": "raddebugger",
+        "owner": "EpicGames",
+        "rank": 7,
+        "stars_today": 82,
+        "total_stars": 7743,
+        "url": "https://github.com/EpicGames/raddebugger"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.88,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 53.68
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: C project with 82 stars today; score 53.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/cathrynlavery",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "forks": 2866,
+        "full_name": "sponsors/cathrynlavery",
+        "language": "HTML",
+        "name": "cathrynlavery",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 828,
+        "total_stars": 44589,
+        "url": "https://github.com/sponsors/cathrynlavery"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.51,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 41.96
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: HTML project with 828 stars today; score 42.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/thedotmack",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Persistent Context Across Sessions for Every Agent \u2013 Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "forks": 8584,
+        "full_name": "sponsors/thedotmack",
+        "language": "TypeScript",
+        "name": "thedotmack",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 578,
+        "total_stars": 97489,
+        "url": "https://github.com/sponsors/thedotmack"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.63,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 7.0,
+        "technical_quality": 3.5,
+        "total": 41.83
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 578 stars today; score 41.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "forks": 23376,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 1406,
+        "total_stars": 279041,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.99,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 38.94
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 1406 stars today; score 38.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/trycua",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+        "forks": 2034,
+        "full_name": "sponsors/trycua",
+        "language": "Rust",
+        "name": "trycua",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 229,
+        "total_stars": 28607,
+        "url": "https://github.com/sponsors/trycua"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.72,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 31.17
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Rust project with 229 stars today; score 31.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/DuarteSantos8",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Self-hosted gym & body-weight tracker \u2014 plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+        "forks": 872,
+        "full_name": "sponsors/DuarteSantos8",
+        "language": "JavaScript",
+        "name": "DuarteSantos8",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 1494,
+        "total_stars": 6507,
+        "url": "https://github.com/sponsors/DuarteSantos8"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.56,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 28.51
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 1494 stars today; score 28.5/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-10-07",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is manaflow-ai/cmux."
+}
