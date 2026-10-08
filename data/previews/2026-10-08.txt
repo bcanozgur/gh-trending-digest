@@ -1,0 +1,21 @@
+GitHub Trending: daily developer signal - 2026-10-08
+
+Today leans toward daily developer signal; the strongest pick is storytold/artcraft.
+
+Top picks
+1. storytold/artcraft - 56.4/100
+   https://github.com/storytold/artcraft
+   AI Workflow, Try Today: Rust project with 1465 stars today; score 56.4/100.
+2. anthropics/knowledge-work-plugins - 50.6/100
+   https://github.com/anthropics/knowledge-work-plugins
+   AI Workflow, DevTools: Python project with 766 stars today; score 50.6/100.
+3. liquidslr/system-design-notes - 36.9/100
+   https://github.com/liquidslr/system-design-notes
+   Watch: Unknown project with 398 stars today; score 36.9/100.
+
+Full reviewed list
+- storytold/artcraft: 56.4/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Rust project with 1465 stars today; score 56.4/100.
+- anthropics/knowledge-work-plugins: 50.6/100 [AI Workflow, DevTools, Try Today] AI Workflow, DevTools: Python project with 766 stars today; score 50.6/100.
+- liquidslr/system-design-notes: 36.9/100 [Watch] Watch: Unknown project with 398 stars today; score 36.9/100.
+
+Generated for 2026-10-08 from GitHub Trending daily.

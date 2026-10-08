@@ -1,0 +1,633 @@
+{
+  "date": "2026-10-08",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-03-31T23:19:12Z",
+        "default_branch": "main",
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "fork": false,
+        "full_name": "storytold/artcraft",
+        "homepage": "https://getartcraft.com",
+        "latest_release": "artcraft-v0.41.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 64,
+        "primary_language": "Rust",
+        "pushed_at": "2026-10-07T00:56:15Z",
+        "readme_excerpt": "<h1 align=\"center\">ArtCraft</h1> <p align=\"center\"><strong>The IDE for artists.</strong></p> <!-- Main video: https://www.youtube.com/watch?v=kzvQMdg66Go GitHub media issue: https://github.com/storytold/artcraft/issues/1951 --> https://github.com/user-attachments/assets/7339bd09-3e0d-44a7-a024-af9de64e4c11 <p align=\"center\"> <a href=\"https://www.youtube.com/watch?v=kzvQMdg66Go\">Watch the two-minute ArtCraft demo on YouTube</a> </p> <p align=\"center\"> <a href=\"https://discord.gg/artcraft\"><img al",
+        "topics": [
+          "3d-graphics",
+          "ai",
+          "aivideo",
+          "filmmaking",
+          "imagegeneration"
+        ],
+        "updated_at": "2026-10-08T14:49:28Z"
+      },
+      "repo": {
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "forks": 855,
+        "full_name": "storytold/artcraft",
+        "language": "Rust",
+        "name": "artcraft",
+        "owner": "storytold",
+        "rank": 8,
+        "stars_today": 1465,
+        "total_stars": 6481,
+        "url": "https://github.com/storytold/artcraft"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.18,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 56.43
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 1465 stars today; score 56.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-23T20:11:54Z",
+        "default_branch": "main",
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "fork": false,
+        "full_name": "anthropics/knowledge-work-plugins",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 132,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-08T07:45:50Z",
+        "readme_excerpt": "# Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for [Claude Cowork](https://claude.com/product/cowork), also compatible with [Claude Code](https://claude.com/product/claude-code). ## Why Plugins Cowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose ",
+        "topics": [],
+        "updated_at": "2026-10-08T14:48:35Z"
+      },
+      "repo": {
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "forks": 3183,
+        "full_name": "anthropics/knowledge-work-plugins",
+        "language": "Python",
+        "name": "knowledge-work-plugins",
+        "owner": "anthropics",
+        "rank": 7,
+        "stars_today": 766,
+        "total_stars": 27323,
+        "url": "https://github.com/anthropics/knowledge-work-plugins"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.57,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 50.62
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 766 stars today; score 50.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-12-24T01:19:44Z",
+        "default_branch": "main",
+        "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+        "fork": false,
+        "full_name": "liquidslr/system-design-notes",
+        "homepage": "https://pagefy-blush.vercel.app/system-design/system-design-interview-by-alex-xu",
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 9,
+        "primary_language": null,
+        "pushed_at": "2026-08-12T22:22:21Z",
+        "readme_excerpt": "# [System Design Interview - An Insider's Guide (Vol 1 and 2)](https://bytebytego.com/courses/system-design-interview) These notes are based on the System Design Interview books - [Vol 1 and Vol 2 2nd Ed](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide) Check the notes here: https://pagefy.io/system-design/system-design-interview-by-alex-xu **Note:** These notes are a work in progress. * [Chapter 1 - Scale From Zero To Millions Of Users](./01.%20Scaling/) ",
+        "topics": [],
+        "updated_at": "2026-10-08T14:49:25Z"
+      },
+      "repo": {
+        "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+        "forks": 4581,
+        "full_name": "liquidslr/system-design-notes",
+        "language": null,
+        "name": "system-design-notes",
+        "owner": "liquidslr",
+        "rank": 9,
+        "stars_today": 398,
+        "total_stars": 24303,
+        "url": "https://github.com/liquidslr/system-design-notes"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.88,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 3.85,
+        "strategic_relevance": 1.18,
+        "technical_quality": 9.1,
+        "total": 36.86
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: Unknown project with 398 stars today; score 36.9/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-14T00:51:32Z",
+        "default_branch": "main",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "fork": false,
+        "full_name": "morluto/rea",
+        "homepage": "https://morluto.github.io/rea/",
+        "latest_release": "rea-agents-6.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 89,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-08T14:49:44Z",
+        "readme_excerpt": "<div align=\"center\"> **English** \u00b7 [\u7b80\u4f53\u4e2d\u6587](README_zh.md) \u00b7 [\u65e5\u672c\u8a9e](README_ja.md) \u00b7 [\ud55c\uad6d\uc5b4](README_ko.md) \u00b7 [\u0627\u0644\u0639\u0631\u0628\u064a\u0629](README_ar.md) # REA: Reverse Engineer Anything ### One MCP for reverse engineering across binaries, applications, and runtime behavior. **See a feature you like. Understand how it works, down to the binary level.** [![npm version](https://img.shields.io/npm/v/rea-agents?style=flat-square&color=cb3837)](https://www.npmjs.com/package/rea-agents) [![CI](https://img.shields.io/github/actio",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "binary-analysis",
+          "claude-code",
+          "cli",
+          "codex",
+          "cordis",
+          "ctf",
+          "decompiler",
+          "developer-tools",
+          "disassembler",
+          "dsh",
+          "dsh-plugin",
+          "ghidra",
+          "hopper",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "reverse-engineering",
+          "static-analysis"
+        ],
+        "updated_at": "2026-10-08T14:49:41Z"
+      },
+      "repo": {
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "forks": 2139,
+        "full_name": "morluto/rea",
+        "language": "TypeScript",
+        "name": "rea",
+        "owner": "morluto",
+        "rank": 3,
+        "stars_today": 7744,
+        "total_stars": 20164,
+        "url": "https://github.com/morluto/rea"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.71,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 80.41
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 7744 stars today; score 80.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-03-31T23:19:12Z",
+        "default_branch": "main",
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "fork": false,
+        "full_name": "storytold/artcraft",
+        "homepage": "https://getartcraft.com",
+        "latest_release": "artcraft-v0.41.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 64,
+        "primary_language": "Rust",
+        "pushed_at": "2026-10-07T00:56:15Z",
+        "readme_excerpt": "<h1 align=\"center\">ArtCraft</h1> <p align=\"center\"><strong>The IDE for artists.</strong></p> <!-- Main video: https://www.youtube.com/watch?v=kzvQMdg66Go GitHub media issue: https://github.com/storytold/artcraft/issues/1951 --> https://github.com/user-attachments/assets/7339bd09-3e0d-44a7-a024-af9de64e4c11 <p align=\"center\"> <a href=\"https://www.youtube.com/watch?v=kzvQMdg66Go\">Watch the two-minute ArtCraft demo on YouTube</a> </p> <p align=\"center\"> <a href=\"https://discord.gg/artcraft\"><img al",
+        "topics": [
+          "3d-graphics",
+          "ai",
+          "aivideo",
+          "filmmaking",
+          "imagegeneration"
+        ],
+        "updated_at": "2026-10-08T14:49:28Z"
+      },
+      "repo": {
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "forks": 855,
+        "full_name": "storytold/artcraft",
+        "language": "Rust",
+        "name": "artcraft",
+        "owner": "storytold",
+        "rank": 8,
+        "stars_today": 1465,
+        "total_stars": 6481,
+        "url": "https://github.com/storytold/artcraft"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.18,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 56.43
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 1465 stars today; score 56.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-08-03T21:30:25Z",
+        "default_branch": "main",
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "fork": false,
+        "full_name": "boykopovar/AnyPS5",
+        "homepage": "https://discord.gg/BHFztBPUe",
+        "latest_release": "v0.1.1",
+        "license_spdx": "GPL-2.0",
+        "open_issues": 341,
+        "primary_language": "C++",
+        "pushed_at": "2026-10-08T14:49:19Z",
+        "readme_excerpt": "# About Tool for automatic executables porting to Linux and Windows. Includes a [relinker](core/relinker) that converts executable to the target system's native format and implementations of [system prx libraries](core/libs/prx) suitable for dynamic linking. No emulation or separate runtime process. [Usage](docs/user/USAGE.md), [Build instructions](docs/dev/BUILD.md), [Architecture](docs/dev/ARCHITECTURE.md), [Technical debt of the project](docs/dev/TechnicalDebt.md), [code style conventions](do",
+        "topics": [
+          "anyps5",
+          "dynamic-library",
+          "game-porting",
+          "ps5",
+          "ps5-tools",
+          "spir-v",
+          "vulkan"
+        ],
+        "updated_at": "2026-10-08T14:49:38Z"
+      },
+      "repo": {
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "forks": 1050,
+        "full_name": "boykopovar/AnyPS5",
+        "language": "C++",
+        "name": "AnyPS5",
+        "owner": "boykopovar",
+        "rank": 1,
+        "stars_today": 4640,
+        "total_stars": 13672,
+        "url": "https://github.com/boykopovar/AnyPS5"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 8.63,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.53,
+        "technical_quality": 14.0,
+        "total": 55.8
+      },
+      "tags": [
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "Try Today, Deep Dive: C++ project with 4640 stars today; score 55.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-23T20:11:54Z",
+        "default_branch": "main",
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "fork": false,
+        "full_name": "anthropics/knowledge-work-plugins",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 132,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-08T07:45:50Z",
+        "readme_excerpt": "# Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for [Claude Cowork](https://claude.com/product/cowork), also compatible with [Claude Code](https://claude.com/product/claude-code). ## Why Plugins Cowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose ",
+        "topics": [],
+        "updated_at": "2026-10-08T14:48:35Z"
+      },
+      "repo": {
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "forks": 3183,
+        "full_name": "anthropics/knowledge-work-plugins",
+        "language": "Python",
+        "name": "knowledge-work-plugins",
+        "owner": "anthropics",
+        "rank": 7,
+        "stars_today": 766,
+        "total_stars": 27323,
+        "url": "https://github.com/anthropics/knowledge-work-plugins"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.57,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 50.62
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 766 stars today; score 50.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-01-10T19:24:08Z",
+        "default_branch": "master",
+        "description": "A native, user-mode, multi-process, graphical debugger.",
+        "fork": false,
+        "full_name": "EpicGames/raddebugger",
+        "homepage": null,
+        "latest_release": "v0.9.29-alpha",
+        "license_spdx": "MIT",
+        "open_issues": 315,
+        "primary_language": "C",
+        "pushed_at": "2026-10-07T20:56:17Z",
+        "readme_excerpt": "# The RAD Debugger Project _**NOTE:** This README does not document usage instructions and tips for the debugger itself, and is intended as a technical overview of the project. The debugger's README, which includes usage instructions and tips, can be found packaged along with debugger releases, or within the `build` folder after a local copy has been built. You can find pre-built release binaries [here](https://github.com/EpicGames/raddebugger/releases)._ The RAD Debugger is a native, user-mode,",
+        "topics": [],
+        "updated_at": "2026-10-08T14:44:27Z"
+      },
+      "repo": {
+        "description": "A native, user-mode, multi-process, graphical debugger.",
+        "forks": 390,
+        "full_name": "EpicGames/raddebugger",
+        "language": "C",
+        "name": "raddebugger",
+        "owner": "EpicGames",
+        "rank": 6,
+        "stars_today": 283,
+        "total_stars": 8008,
+        "url": "https://github.com/EpicGames/raddebugger"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.19,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 48.79
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: C project with 283 stars today; score 48.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/cathrynlavery",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "forks": 2933,
+        "full_name": "sponsors/cathrynlavery",
+        "language": "HTML",
+        "name": "cathrynlavery",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 1163,
+        "total_stars": 45775,
+        "url": "https://github.com/sponsors/cathrynlavery"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.72,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 42.17
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: HTML project with 1163 stars today; score 42.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/thedotmack",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Persistent Context Across Sessions for Every Agent \u2013 Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "forks": 8623,
+        "full_name": "sponsors/thedotmack",
+        "language": "TypeScript",
+        "name": "thedotmack",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 662,
+        "total_stars": 98161,
+        "url": "https://github.com/sponsors/thedotmack"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.74,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 7.0,
+        "technical_quality": 3.5,
+        "total": 41.94
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 662 stars today; score 41.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "forks": 23519,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 1770,
+        "total_stars": 280771,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.09,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 38.04
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 1770 stars today; score 38.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-12-24T01:19:44Z",
+        "default_branch": "main",
+        "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+        "fork": false,
+        "full_name": "liquidslr/system-design-notes",
+        "homepage": "https://pagefy-blush.vercel.app/system-design/system-design-interview-by-alex-xu",
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 9,
+        "primary_language": null,
+        "pushed_at": "2026-08-12T22:22:21Z",
+        "readme_excerpt": "# [System Design Interview - An Insider's Guide (Vol 1 and 2)](https://bytebytego.com/courses/system-design-interview) These notes are based on the System Design Interview books - [Vol 1 and Vol 2 2nd Ed](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide) Check the notes here: https://pagefy.io/system-design/system-design-interview-by-alex-xu **Note:** These notes are a work in progress. * [Chapter 1 - Scale From Zero To Millions Of Users](./01.%20Scaling/) ",
+        "topics": [],
+        "updated_at": "2026-10-08T14:49:25Z"
+      },
+      "repo": {
+        "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+        "forks": 4581,
+        "full_name": "liquidslr/system-design-notes",
+        "language": null,
+        "name": "system-design-notes",
+        "owner": "liquidslr",
+        "rank": 9,
+        "stars_today": 398,
+        "total_stars": 24303,
+        "url": "https://github.com/liquidslr/system-design-notes"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.88,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 3.85,
+        "strategic_relevance": 1.18,
+        "technical_quality": 9.1,
+        "total": 36.86
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: Unknown project with 398 stars today; score 36.9/100."
+    }
+  ],
+  "subject": "GitHub Trending: daily developer signal - 2026-10-08",
+  "summary": "Today leans toward daily developer signal; the strongest pick is storytold/artcraft."
+}
