@@ -1,0 +1,848 @@
+{
+  "date": "2026-10-09",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-05T20:13:14Z",
+        "default_branch": "main",
+        "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+        "fork": false,
+        "full_name": "twostraws/SwiftUI-Agent-Skill",
+        "homepage": null,
+        "latest_release": "2.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 11,
+        "primary_language": null,
+        "pushed_at": "2026-10-07T13:39:28Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"assets/logo.svg\" alt=\"SwiftUI Pro - Agent Skill for Claude Code, Codex, and Gemini\" height=\"100\" /> </p> <h1 align=\"center\">SwiftUI Agent Skill for AI Coding Assistants</h1> <p align=\"center\"> <img src=\"https://img.shields.io/badge/iOS-26+-2980b9.svg\" alt=\"Designed for iOS 26 and later.\" /> <img src=\"https://img.shields.io/badge/swift-6.4+-8e44ad.svg\" alt=\"Designed for Swift 6.4 and later.\" /> <a href=\"https://twitter.com/twostraws\"> <img src=\"https://img.shields.io/",
+        "topics": [],
+        "updated_at": "2026-10-09T14:24:45Z"
+      },
+      "repo": {
+        "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+        "forks": 191,
+        "full_name": "twostraws/SwiftUI-Agent-Skill",
+        "language": null,
+        "name": "SwiftUI-Agent-Skill",
+        "owner": "twostraws",
+        "rank": 11,
+        "stars_today": 88,
+        "total_stars": 5265,
+        "url": "https://github.com/twostraws/SwiftUI-Agent-Skill"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.21,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 71.46
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Unknown project with 88 stars today; score 71.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-18T02:16:36Z",
+        "default_branch": "main",
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "fork": false,
+        "full_name": "alibaba/open-code-review",
+        "homepage": "https://open-codereview.ai",
+        "latest_release": "v1.12.13",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 284,
+        "primary_language": "Go",
+        "pushed_at": "2026-10-08T11:52:10Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://open-codereview.ai\"> <img src=\"imgs/logo-core.svg\" alt=\"OpenCodeReview logo\" width=\"180\" /> </a> <h1>OpenCodeReview</h1> </div> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/41087?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-41087\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://trendshift.io/api/badge/repositories/41087\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; hei",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "code-review",
+          "code-review-assistant",
+          "harness",
+          "repository-level-context"
+        ],
+        "updated_at": "2026-10-09T14:24:58Z"
+      },
+      "repo": {
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "forks": 3251,
+        "full_name": "alibaba/open-code-review",
+        "language": "Go",
+        "name": "open-code-review",
+        "owner": "alibaba",
+        "rank": 5,
+        "stars_today": 323,
+        "total_stars": 44894,
+        "url": "https://github.com/alibaba/open-code-review"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.2,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 69.05
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 323 stars today; score 69.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/BerriAI",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+        "forks": 12175,
+        "full_name": "sponsors/BerriAI",
+        "language": "Python",
+        "name": "BerriAI",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 95,
+        "total_stars": 60495,
+        "url": "https://github.com/sponsors/BerriAI"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.79,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 54.24
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 95 stars today; score 54.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-15T17:59:48Z",
+        "default_branch": "main",
+        "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+        "fork": false,
+        "full_name": "Robbyant/lingbot-map",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 81,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-06T09:23:51Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"assets/teaser.webp\" width=\"100%\"> <h1>LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction</h1> Robbyant Team </div> <div align=\"center\"> [![Conference Version Paper](https://img.shields.io/static/v1?label=Conference%20Version&message=Paper&color=blue)](https://linzhuo.xyz/gct.pdf) [![Technical Report Version Paper](https://img.shields.io/static/v1?label=Technical%20Report%20Version&message=arXiv&color=red)](https://arxiv.org/abs/2604.14141) [",
+        "topics": [],
+        "updated_at": "2026-10-09T14:26:36Z"
+      },
+      "repo": {
+        "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+        "forks": 1943,
+        "full_name": "Robbyant/lingbot-map",
+        "language": "Python",
+        "name": "lingbot-map",
+        "owner": "Robbyant",
+        "rank": 10,
+        "stars_today": 109,
+        "total_stars": 17572,
+        "url": "https://github.com/Robbyant/lingbot-map"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.36,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 0.97,
+        "technical_quality": 11.9,
+        "total": 44.83
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Python project with 109 stars today; score 44.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "forks": 23643,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 1696,
+        "total_stars": 282142,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.24,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 37.19
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 1696 stars today; score 37.2/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-14T00:51:32Z",
+        "default_branch": "main",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "fork": false,
+        "full_name": "morluto/rea",
+        "homepage": "https://rea.tools",
+        "latest_release": "rea-agents-6.1.0",
+        "license_spdx": "MIT",
+        "open_issues": 90,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-09T14:33:18Z",
+        "readme_excerpt": "<div align=\"center\"> **English** \u00b7 [\u7b80\u4f53\u4e2d\u6587](README_zh.md) \u00b7 [\u7e41\u9ad4\u4e2d\u6587](README_zh-TW.md) \u00b7 [\u65e5\u672c\u8a9e](README_ja.md) \u00b7 [\ud55c\uad6d\uc5b4](README_ko.md) \u00b7 [T\u00fcrk\u00e7e](README_tr.md) \u00b7 [\u0420\u0443\u0441\u0441\u043a\u0438\u0439](README_ru.md) \u00b7 [Ti\u1ebfng Vi\u1ec7t](README_vi.md) \u00b7 [\u0e44\u0e17\u0e22](README_th.md) \u00b7 [Deutsch](README_de.md) \u00b7 [Espa\u00f1ol](README_es.md) \u00b7 [Fran\u00e7ais](README_fr.md) \u00b7 [\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430](README_uk.md) \u00b7 [Polski](README_pl.md) \u00b7 [Portugu\u00eas (Brasil)](README_pt-BR.md) \u00b7 [\u0627\u0644\u0639\u0631\u0628\u064a\u0629](README_ar.md) \u00b7 [\u0641\u0627\u0631\u0633\u06cc](README_fa.md) # REA: Reverse Engineer Anything ### One MCP for ",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "binary-analysis",
+          "claude-code",
+          "cli",
+          "codex",
+          "cordis",
+          "ctf",
+          "decompiler",
+          "developer-tools",
+          "disassembler",
+          "dsh",
+          "dsh-plugin",
+          "ghidra",
+          "hopper",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "reverse-engineering",
+          "static-analysis"
+        ],
+        "updated_at": "2026-10-09T14:33:35Z"
+      },
+      "repo": {
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "forks": 5413,
+        "full_name": "morluto/rea",
+        "language": "TypeScript",
+        "name": "rea",
+        "owner": "morluto",
+        "rank": 1,
+        "stars_today": 15335,
+        "total_stars": 37310,
+        "url": "https://github.com/morluto/rea"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 80.7
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 15335 stars today; score 80.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-15T20:20:26Z",
+        "default_branch": "main",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "fork": false,
+        "full_name": "addyosmani/agent-skills",
+        "homepage": "https://skills.addy.ie",
+        "latest_release": "0.6.12",
+        "license_spdx": "MIT",
+        "open_issues": 138,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-10-03T18:21:11Z",
+        "readme_excerpt": "# Agent Skills **Production-grade engineering skills for AI coding agents.** Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. <a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" wid",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-10-09T14:30:29Z"
+      },
+      "repo": {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "forks": 10849,
+        "full_name": "addyosmani/agent-skills",
+        "language": "JavaScript",
+        "name": "agent-skills",
+        "owner": "addyosmani",
+        "rank": 8,
+        "stars_today": 751,
+        "total_stars": 103708,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.0,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 71.7
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 751 stars today; score 71.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-05T20:13:14Z",
+        "default_branch": "main",
+        "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+        "fork": false,
+        "full_name": "twostraws/SwiftUI-Agent-Skill",
+        "homepage": null,
+        "latest_release": "2.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 11,
+        "primary_language": null,
+        "pushed_at": "2026-10-07T13:39:28Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"assets/logo.svg\" alt=\"SwiftUI Pro - Agent Skill for Claude Code, Codex, and Gemini\" height=\"100\" /> </p> <h1 align=\"center\">SwiftUI Agent Skill for AI Coding Assistants</h1> <p align=\"center\"> <img src=\"https://img.shields.io/badge/iOS-26+-2980b9.svg\" alt=\"Designed for iOS 26 and later.\" /> <img src=\"https://img.shields.io/badge/swift-6.4+-8e44ad.svg\" alt=\"Designed for Swift 6.4 and later.\" /> <a href=\"https://twitter.com/twostraws\"> <img src=\"https://img.shields.io/",
+        "topics": [],
+        "updated_at": "2026-10-09T14:24:45Z"
+      },
+      "repo": {
+        "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+        "forks": 191,
+        "full_name": "twostraws/SwiftUI-Agent-Skill",
+        "language": null,
+        "name": "SwiftUI-Agent-Skill",
+        "owner": "twostraws",
+        "rank": 11,
+        "stars_today": 88,
+        "total_stars": 5265,
+        "url": "https://github.com/twostraws/SwiftUI-Agent-Skill"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.21,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 71.46
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Unknown project with 88 stars today; score 71.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-18T02:16:36Z",
+        "default_branch": "main",
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "fork": false,
+        "full_name": "alibaba/open-code-review",
+        "homepage": "https://open-codereview.ai",
+        "latest_release": "v1.12.13",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 284,
+        "primary_language": "Go",
+        "pushed_at": "2026-10-08T11:52:10Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://open-codereview.ai\"> <img src=\"imgs/logo-core.svg\" alt=\"OpenCodeReview logo\" width=\"180\" /> </a> <h1>OpenCodeReview</h1> </div> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/41087?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-41087\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://trendshift.io/api/badge/repositories/41087\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; hei",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "code-review",
+          "code-review-assistant",
+          "harness",
+          "repository-level-context"
+        ],
+        "updated_at": "2026-10-09T14:24:58Z"
+      },
+      "repo": {
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "forks": 3251,
+        "full_name": "alibaba/open-code-review",
+        "language": "Go",
+        "name": "open-code-review",
+        "owner": "alibaba",
+        "rank": 5,
+        "stars_today": 323,
+        "total_stars": 44894,
+        "url": "https://github.com/alibaba/open-code-review"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.2,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 69.05
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 323 stars today; score 69.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/BerriAI",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+        "forks": 12175,
+        "full_name": "sponsors/BerriAI",
+        "language": "Python",
+        "name": "BerriAI",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 95,
+        "total_stars": 60495,
+        "url": "https://github.com/sponsors/BerriAI"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.79,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 54.24
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 95 stars today; score 54.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-08-03T21:30:25Z",
+        "default_branch": "main",
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "fork": false,
+        "full_name": "boykopovar/AnyPS5",
+        "homepage": "https://discord.gg/BHFztBPUe",
+        "latest_release": "v0.1.1",
+        "license_spdx": "GPL-2.0",
+        "open_issues": 679,
+        "primary_language": "C++",
+        "pushed_at": "2026-10-09T10:46:21Z",
+        "readme_excerpt": "# About Tool for automatic executables porting to Linux and Windows. Includes a [relinker](core/relinker) that converts executable to the target system's native format and implementations of [system prx libraries](core/libs/prx) suitable for dynamic linking. No emulation or separate runtime process. [Usage](docs/user/USAGE.md), [Build instructions](docs/dev/BUILD.md), [Architecture](docs/dev/ARCHITECTURE.md), [Technical debt of the project](docs/dev/TechnicalDebt.md), [code style conventions](do",
+        "topics": [
+          "anyps5",
+          "dynamic-library",
+          "game-porting",
+          "ps5",
+          "ps5-tools",
+          "spir-v",
+          "vulkan"
+        ],
+        "updated_at": "2026-10-09T14:33:27Z"
+      },
+      "repo": {
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "forks": 1557,
+        "full_name": "boykopovar/AnyPS5",
+        "language": "C++",
+        "name": "AnyPS5",
+        "owner": "boykopovar",
+        "rank": 2,
+        "stars_today": 5925,
+        "total_stars": 19683,
+        "url": "https://github.com/boykopovar/AnyPS5"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 6.7,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 2.74,
+        "technical_quality": 14.0,
+        "total": 53.08
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: C++ project with 5925 stars today; score 53.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-03-31T23:19:12Z",
+        "default_branch": "main",
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "fork": false,
+        "full_name": "storytold/artcraft",
+        "homepage": "https://getartcraft.com",
+        "latest_release": "artcraft-v0.41.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 83,
+        "primary_language": "Rust",
+        "pushed_at": "2026-10-07T00:56:15Z",
+        "readme_excerpt": "<h1 align=\"center\">ArtCraft</h1> <p align=\"center\"><strong>The IDE for artists.</strong></p> <!-- Main video: https://www.youtube.com/watch?v=kzvQMdg66Go GitHub media issue: https://github.com/storytold/artcraft/issues/1951 --> https://github.com/user-attachments/assets/7339bd09-3e0d-44a7-a024-af9de64e4c11 <p align=\"center\"> <a href=\"https://www.youtube.com/watch?v=kzvQMdg66Go\">Watch the two-minute ArtCraft demo on YouTube</a> </p> <p align=\"center\"> <a href=\"https://discord.gg/artcraft\"><img al",
+        "topics": [
+          "3d-graphics",
+          "ai",
+          "aivideo",
+          "filmmaking",
+          "imagegeneration"
+        ],
+        "updated_at": "2026-10-09T14:33:41Z"
+      },
+      "repo": {
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "forks": 1508,
+        "full_name": "storytold/artcraft",
+        "language": "Rust",
+        "name": "artcraft",
+        "owner": "storytold",
+        "rank": 9,
+        "stars_today": 3723,
+        "total_stars": 10154,
+        "url": "https://github.com/storytold/artcraft"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.49,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 51.54
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 3723 stars today; score 51.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-23T20:11:54Z",
+        "default_branch": "main",
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "fork": false,
+        "full_name": "anthropics/knowledge-work-plugins",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 138,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-09T07:45:06Z",
+        "readme_excerpt": "# Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for [Claude Cowork](https://claude.com/product/cowork), also compatible with [Claude Code](https://claude.com/product/claude-code). ## Why Plugins Cowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose ",
+        "topics": [],
+        "updated_at": "2026-10-09T14:30:26Z"
+      },
+      "repo": {
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "forks": 3233,
+        "full_name": "anthropics/knowledge-work-plugins",
+        "language": "Python",
+        "name": "knowledge-work-plugins",
+        "owner": "anthropics",
+        "rank": 6,
+        "stars_today": 714,
+        "total_stars": 28025,
+        "url": "https://github.com/anthropics/knowledge-work-plugins"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.27,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 50.32
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 714 stars today; score 50.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-15T17:59:48Z",
+        "default_branch": "main",
+        "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+        "fork": false,
+        "full_name": "Robbyant/lingbot-map",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 81,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-06T09:23:51Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"assets/teaser.webp\" width=\"100%\"> <h1>LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction</h1> Robbyant Team </div> <div align=\"center\"> [![Conference Version Paper](https://img.shields.io/static/v1?label=Conference%20Version&message=Paper&color=blue)](https://linzhuo.xyz/gct.pdf) [![Technical Report Version Paper](https://img.shields.io/static/v1?label=Technical%20Report%20Version&message=arXiv&color=red)](https://arxiv.org/abs/2604.14141) [",
+        "topics": [],
+        "updated_at": "2026-10-09T14:26:36Z"
+      },
+      "repo": {
+        "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+        "forks": 1943,
+        "full_name": "Robbyant/lingbot-map",
+        "language": "Python",
+        "name": "lingbot-map",
+        "owner": "Robbyant",
+        "rank": 10,
+        "stars_today": 109,
+        "total_stars": 17572,
+        "url": "https://github.com/Robbyant/lingbot-map"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.36,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 0.97,
+        "technical_quality": 11.9,
+        "total": 44.83
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Python project with 109 stars today; score 44.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/cathrynlavery",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "forks": 3011,
+        "full_name": "sponsors/cathrynlavery",
+        "language": "HTML",
+        "name": "cathrynlavery",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 1744,
+        "total_stars": 47468,
+        "url": "https://github.com/sponsors/cathrynlavery"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.12,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 41.57
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: HTML project with 1744 stars today; score 41.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "forks": 23643,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 1696,
+        "total_stars": 282142,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.24,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 37.19
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 1696 stars today; score 37.2/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-10-09",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is twostraws/SwiftUI-Agent-Skill."
+}

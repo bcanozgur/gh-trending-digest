@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-10-09
+
+Today leans toward AI workflow signal; the strongest pick is twostraws/SwiftUI-Agent-Skill.
+
+Top picks
+1. twostraws/SwiftUI-Agent-Skill - 71.5/100
+   https://github.com/twostraws/SwiftUI-Agent-Skill
+   AI Workflow, Try Today: Unknown project with 88 stars today; score 71.5/100.
+2. alibaba/open-code-review - 69.0/100
+   https://github.com/alibaba/open-code-review
+   AI Workflow, DevTools: Go project with 323 stars today; score 69.0/100.
+3. sponsors/BerriAI - 54.2/100
+   https://github.com/sponsors/BerriAI
+   AI Workflow, DevTools: Python project with 95 stars today; score 54.2/100.
+   Caution: Weak onboarding evidence.
+4. Robbyant/lingbot-map - 44.8/100
+   https://github.com/Robbyant/lingbot-map
+   Try Today: Python project with 109 stars today; score 44.8/100.
+5. sponsors/mattpocock - 37.2/100
+   https://github.com/sponsors/mattpocock
+   AI Workflow, Watch: Shell project with 1696 stars today; score 37.2/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- twostraws/SwiftUI-Agent-Skill: 71.5/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Unknown project with 88 stars today; score 71.5/100.
+- alibaba/open-code-review: 69.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Go project with 323 stars today; score 69.0/100.
+- sponsors/BerriAI: 54.2/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Python project with 95 stars today; score 54.2/100.
+- Robbyant/lingbot-map: 44.8/100 [Try Today] Try Today: Python project with 109 stars today; score 44.8/100.
+- sponsors/mattpocock: 37.2/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Shell project with 1696 stars today; score 37.2/100.
+
+Generated for 2026-10-09 from GitHub Trending daily.
