@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-10-10
+
+Today leans toward AI workflow signal; the strongest pick is huggingface/transformers.
+
+Top picks
+1. huggingface/transformers - 68.0/100
+   https://github.com/huggingface/transformers
+   AI Workflow, DevTools: Python project with 94 stars today; score 68.0/100.
+2. multica-ai/andrej-karpathy-skills - 63.9/100
+   https://github.com/multica-ai/andrej-karpathy-skills
+   AI Workflow, Deep Dive: Unknown project with 279 stars today; score 63.9/100.
+3. hugohe3/ppt-master - 63.9/100
+   https://github.com/hugohe3/ppt-master
+   AI Workflow, Try Today: Python project with 372 stars today; score 63.9/100.
+4. flutter/flutter - 55.9/100
+   https://github.com/flutter/flutter
+   DevTools, Try Today: Dart project with 39 stars today; score 55.9/100.
+5. pytorch/pytorch - 54.6/100
+   https://github.com/pytorch/pytorch
+   AI Workflow, Try Today: Python project with 81 stars today; score 54.6/100.
+
+Full reviewed list
+- huggingface/transformers: 68.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 94 stars today; score 68.0/100.
+- multica-ai/andrej-karpathy-skills: 63.9/100 [AI Workflow, Deep Dive] AI Workflow, Deep Dive: Unknown project with 279 stars today; score 63.9/100.
+- hugohe3/ppt-master: 63.9/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 372 stars today; score 63.9/100.
+- flutter/flutter: 55.9/100 [DevTools, Try Today, Deep Dive] DevTools, Try Today: Dart project with 39 stars today; score 55.9/100.
+- pytorch/pytorch: 54.6/100 [AI Workflow, Try Today] AI Workflow, Try Today: Python project with 81 stars today; score 54.6/100.
+- tensorflow/tensorflow: 46.5/100 [DevTools, Try Today] DevTools, Try Today: C++ project with 24 stars today; score 46.5/100.
+- sponsors/mksglu: 36.0/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: TypeScript project with 178 stars today; score 36.0/100.
+
+Generated for 2026-10-10 from GitHub Trending daily.
