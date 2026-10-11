@@ -1,0 +1,23 @@
+GitHub Trending: daily developer signal - 2026-10-11
+
+Today leans toward daily developer signal; the strongest pick is bilawalsidhu/gods-eye-view.
+
+Top picks
+1. bilawalsidhu/gods-eye-view - 50.4/100
+   https://github.com/bilawalsidhu/gods-eye-view
+   AI Workflow, DevTools: JavaScript project with 872 stars today; score 50.4/100.
+2. sponsors/lyogavin - 41.1/100
+   https://github.com/sponsors/lyogavin
+   AI Workflow, Watch: Jupyter Notebook project with 541 stars today; score 41.1/100.
+   Caution: Weak onboarding evidence.
+3. sponsors/chrislgarry - 22.3/100
+   https://github.com/sponsors/chrislgarry
+   Watch, Hype Risk: Assembly project with 496 stars today; score 22.3/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- bilawalsidhu/gods-eye-view: 50.4/100 [AI Workflow, DevTools, Try Today] AI Workflow, DevTools: JavaScript project with 872 stars today; score 50.4/100.
+- sponsors/lyogavin: 41.1/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Jupyter Notebook project with 541 stars today; score 41.1/100.
+- sponsors/chrislgarry: 22.3/100 [Watch, Hype Risk] Watch, Hype Risk: Assembly project with 496 stars today; score 22.3/100.
+
+Generated for 2026-10-11 from GitHub Trending daily.

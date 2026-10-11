@@ -1,0 +1,614 @@
+{
+  "date": "2026-10-11",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-22T23:37:22Z",
+        "default_branch": "main",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "fork": false,
+        "full_name": "bilawalsidhu/gods-eye-view",
+        "homepage": "https://maptheworld.ai/",
+        "latest_release": "v0.2.1",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 329,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-10-10T03:59:46Z",
+        "readme_excerpt": "<div align=\"center\"> # \ud83c\udf10 God's Eye View [![CI](https://github.com/bilawalsidhu/gods-eye-view/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bilawalsidhu/gods-eye-view/actions/workflows/ci.yml) [![Reached #1 on GitHub Trending](https://img.shields.io/badge/%231_GitHub_Trending-thank_you!-F0A63C?style=flat-square&logo=github)](https://x.com/bilawalsidhu/status/2093798887815348521) ### A spy-satellite simulator in your browser \u2014 then you realize the sources are public and the d",
+        "topics": [
+          "3d-globe",
+          "cesium",
+          "flight-tracking",
+          "geospatial",
+          "geospatial-intelligence",
+          "gis",
+          "osint",
+          "photogrammetry",
+          "satellite-tracking",
+          "spatial-intelligence",
+          "webgl",
+          "worldview"
+        ],
+        "updated_at": "2026-10-11T14:16:05Z"
+      },
+      "repo": {
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "forks": 10267,
+        "full_name": "bilawalsidhu/gods-eye-view",
+        "language": "JavaScript",
+        "name": "gods-eye-view",
+        "owner": "bilawalsidhu",
+        "rank": 5,
+        "stars_today": 872,
+        "total_stars": 50908,
+        "url": "https://github.com/bilawalsidhu/gods-eye-view"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.31,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 50.36
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 872 stars today; score 50.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/lyogavin",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "AirLLM 70B inference with single 4GB GPU",
+        "forks": 3794,
+        "full_name": "sponsors/lyogavin",
+        "language": "Jupyter Notebook",
+        "name": "lyogavin",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 541,
+        "total_stars": 36179,
+        "url": "https://github.com/sponsors/lyogavin"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.91,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 41.06
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Jupyter Notebook project with 541 stars today; score 41.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/chrislgarry",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+        "forks": 8087,
+        "full_name": "sponsors/chrislgarry",
+        "language": "Assembly",
+        "name": "chrislgarry",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 496,
+        "total_stars": 73944,
+        "url": "https://github.com/sponsors/chrislgarry"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.75,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.12,
+        "technical_quality": 3.5,
+        "total": 22.27
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Assembly project with 496 stars today; score 22.3/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-14T00:51:32Z",
+        "default_branch": "main",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "fork": false,
+        "full_name": "morluto/rea",
+        "homepage": "https://rea.tools",
+        "latest_release": "rea-agents-6.4.0",
+        "license_spdx": "MIT",
+        "open_issues": 153,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-11T14:02:51Z",
+        "readme_excerpt": "<div align=\"center\"> **English** \u00b7 [\u7b80\u4f53\u4e2d\u6587](README_zh.md) \u00b7 [\u7e41\u9ad4\u4e2d\u6587](README_zh-TW.md) \u00b7 [\u65e5\u672c\u8a9e](README_ja.md) \u00b7 [\ud55c\uad6d\uc5b4](README_ko.md) \u00b7 [T\u00fcrk\u00e7e](README_tr.md) \u00b7 [\u0420\u0443\u0441\u0441\u043a\u0438\u0439](README_ru.md) \u00b7 [Ti\u1ebfng Vi\u1ec7t](README_vi.md) \u00b7 [\u0e44\u0e17\u0e22](README_th.md) \u00b7 [Deutsch](README_de.md) \u00b7 [Espa\u00f1ol](README_es.md) \u00b7 [Fran\u00e7ais](README_fr.md) \u00b7 [\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430](README_uk.md) \u00b7 [Polski](README_pl.md) \u00b7 [Portugu\u00eas (Brasil)](README_pt-BR.md) \u00b7 [\u0627\u0644\u0639\u0631\u0628\u064a\u0629](README_ar.md) \u00b7 [\u0641\u0627\u0631\u0633\u06cc](README_fa.md) \u00b7 [Bahasa Indonesia](README_id.md) \u00b7 [Italiano](R",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "binary-analysis",
+          "claude-code",
+          "cli",
+          "codex",
+          "cordis",
+          "ctf",
+          "decompiler",
+          "developer-tools",
+          "disassembler",
+          "dsh",
+          "dsh-plugin",
+          "ghidra",
+          "hopper",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "reverse-engineering",
+          "static-analysis"
+        ],
+        "updated_at": "2026-10-11T14:18:29Z"
+      },
+      "repo": {
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "forks": 19763,
+        "full_name": "morluto/rea",
+        "language": "TypeScript",
+        "name": "rea",
+        "owner": "morluto",
+        "rank": 1,
+        "stars_today": 25585,
+        "total_stars": 89827,
+        "url": "https://github.com/morluto/rea"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 80.7
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 25585 stars today; score 80.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-03-31T23:19:12Z",
+        "default_branch": "main",
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "fork": false,
+        "full_name": "storytold/artcraft",
+        "homepage": "https://getartcraft.com",
+        "latest_release": "artcraft-v0.41.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 164,
+        "primary_language": "Rust",
+        "pushed_at": "2026-10-11T13:47:59Z",
+        "readme_excerpt": "<h1 align=\"center\">ArtCraft</h1> <p align=\"center\"><strong>The IDE for artists.</strong></p> <!-- Main video: https://www.youtube.com/watch?v=kzvQMdg66Go GitHub media issue: https://github.com/storytold/artcraft/issues/1951 --> https://github.com/user-attachments/assets/7339bd09-3e0d-44a7-a024-af9de64e4c11 <p align=\"center\"> <a href=\"https://www.youtube.com/watch?v=kzvQMdg66Go\">Watch the two-minute ArtCraft demo on YouTube</a> </p> <p align=\"center\"> <a href=\"https://discord.gg/artcraft\"><img al",
+        "topics": [
+          "3d-graphics",
+          "ai",
+          "aivideo",
+          "filmmaking",
+          "imagegeneration"
+        ],
+        "updated_at": "2026-10-11T14:18:07Z"
+      },
+      "repo": {
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "forks": 2629,
+        "full_name": "storytold/artcraft",
+        "language": "Rust",
+        "name": "artcraft",
+        "owner": "storytold",
+        "rank": 3,
+        "stars_today": 2956,
+        "total_stars": 16246,
+        "url": "https://github.com/storytold/artcraft"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.28,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 55.88
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 2956 stars today; score 55.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-22T23:37:22Z",
+        "default_branch": "main",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "fork": false,
+        "full_name": "bilawalsidhu/gods-eye-view",
+        "homepage": "https://maptheworld.ai/",
+        "latest_release": "v0.2.1",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 329,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-10-10T03:59:46Z",
+        "readme_excerpt": "<div align=\"center\"> # \ud83c\udf10 God's Eye View [![CI](https://github.com/bilawalsidhu/gods-eye-view/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bilawalsidhu/gods-eye-view/actions/workflows/ci.yml) [![Reached #1 on GitHub Trending](https://img.shields.io/badge/%231_GitHub_Trending-thank_you!-F0A63C?style=flat-square&logo=github)](https://x.com/bilawalsidhu/status/2093798887815348521) ### A spy-satellite simulator in your browser \u2014 then you realize the sources are public and the d",
+        "topics": [
+          "3d-globe",
+          "cesium",
+          "flight-tracking",
+          "geospatial",
+          "geospatial-intelligence",
+          "gis",
+          "osint",
+          "photogrammetry",
+          "satellite-tracking",
+          "spatial-intelligence",
+          "webgl",
+          "worldview"
+        ],
+        "updated_at": "2026-10-11T14:16:05Z"
+      },
+      "repo": {
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "forks": 10267,
+        "full_name": "bilawalsidhu/gods-eye-view",
+        "language": "JavaScript",
+        "name": "gods-eye-view",
+        "owner": "bilawalsidhu",
+        "rank": 5,
+        "stars_today": 872,
+        "total_stars": 50908,
+        "url": "https://github.com/bilawalsidhu/gods-eye-view"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.31,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 50.36
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 872 stars today; score 50.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-08-03T21:30:25Z",
+        "default_branch": "main",
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "fork": false,
+        "full_name": "boykopovar/AnyPS5",
+        "homepage": "https://discord.gg/BHFztBPUe",
+        "latest_release": "v0.1.1",
+        "license_spdx": "GPL-2.0",
+        "open_issues": 364,
+        "primary_language": "C++",
+        "pushed_at": "2026-10-11T12:42:34Z",
+        "readme_excerpt": "# About Tool for automatic executables porting to Linux and Windows. Includes a [relinker](core/relinker) that converts executable to the target system's native format and implementations of [system prx libraries](core/libs/prx) suitable for dynamic linking. No emulation or separate runtime process. [Usage](docs/user/USAGE.md), [Build instructions](docs/dev/BUILD.md), [Architecture](docs/dev/ARCHITECTURE.md), [Technical debt of the project](docs/dev/TechnicalDebt.md), [code style conventions](do",
+        "topics": [
+          "anyps5",
+          "dynamic-library",
+          "game-porting",
+          "ps5",
+          "ps5-tools",
+          "spir-v",
+          "vulkan"
+        ],
+        "updated_at": "2026-10-11T14:17:42Z"
+      },
+      "repo": {
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "forks": 2435,
+        "full_name": "boykopovar/AnyPS5",
+        "language": "C++",
+        "name": "AnyPS5",
+        "owner": "boykopovar",
+        "rank": 2,
+        "stars_today": 3977,
+        "total_stars": 28648,
+        "url": "https://github.com/boykopovar/AnyPS5"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 4.76,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 1.94,
+        "technical_quality": 14.0,
+        "total": 50.34
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: C++ project with 3977 stars today; score 50.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-08-13T05:26:41Z",
+        "default_branch": "main",
+        "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "fork": false,
+        "full_name": "pytorch/pytorch",
+        "homepage": "https://pytorch.org",
+        "latest_release": "v2.14.1",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 17716,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-11T14:16:04Z",
+        "readme_excerpt": "<picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-light.png\" /> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png\" /> <img src=\"https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png\" alt=\"PyTorch logo\" /> </picture> ------------------------------------------------------------",
+        "topics": [
+          "autograd",
+          "deep-learning",
+          "gpu",
+          "machine-learning",
+          "neural-network",
+          "numpy",
+          "python",
+          "tensor"
+        ],
+        "updated_at": "2026-10-11T14:15:45Z"
+      },
+      "repo": {
+        "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "forks": 32051,
+        "full_name": "pytorch/pytorch",
+        "language": "Python",
+        "name": "pytorch",
+        "owner": "pytorch",
+        "rank": 6,
+        "stars_today": 314,
+        "total_stars": 104310,
+        "url": "https://github.com/pytorch/pytorch"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.98,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 50.03
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 314 stars today; score 50.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/lyogavin",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "AirLLM 70B inference with single 4GB GPU",
+        "forks": 3794,
+        "full_name": "sponsors/lyogavin",
+        "language": "Jupyter Notebook",
+        "name": "lyogavin",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 541,
+        "total_stars": 36179,
+        "url": "https://github.com/sponsors/lyogavin"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.91,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 41.06
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Jupyter Notebook project with 541 stars today; score 41.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/cathrynlavery",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "forks": 3150,
+        "full_name": "sponsors/cathrynlavery",
+        "language": "HTML",
+        "name": "cathrynlavery",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 1083,
+        "total_stars": 49717,
+        "url": "https://github.com/sponsors/cathrynlavery"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.52,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 40.97
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: HTML project with 1083 stars today; score 41.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/chrislgarry",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+        "forks": 8087,
+        "full_name": "sponsors/chrislgarry",
+        "language": "Assembly",
+        "name": "chrislgarry",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 496,
+        "total_stars": 73944,
+        "url": "https://github.com/sponsors/chrislgarry"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.75,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.12,
+        "technical_quality": 3.5,
+        "total": 22.27
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Assembly project with 496 stars today; score 22.3/100."
+    }
+  ],
+  "subject": "GitHub Trending: daily developer signal - 2026-10-11",
+  "summary": "Today leans toward daily developer signal; the strongest pick is bilawalsidhu/gods-eye-view."
+}
