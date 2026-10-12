@@ -1,0 +1,22 @@
+GitHub Trending: AI workflow signal - 2026-10-12
+
+Today leans toward AI workflow signal; the strongest pick is Alishahryar1/free-claude-code.
+
+Top picks
+1. Alishahryar1/free-claude-code - 67.3/100
+   https://github.com/Alishahryar1/free-claude-code
+   AI Workflow, DevTools: Python project with 705 stars today; score 67.3/100.
+2. microsoft/BitNet - 59.4/100
+   https://github.com/microsoft/BitNet
+   AI Workflow, DevTools: C++ project with 134 stars today; score 59.4/100.
+3. sponsors/open-webui - 41.9/100
+   https://github.com/sponsors/open-webui
+   AI Workflow, DevTools: Python project with 142 stars today; score 41.9/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- Alishahryar1/free-claude-code: 67.3/100 [AI Workflow, DevTools, Deep Dive] AI Workflow, DevTools: Python project with 705 stars today; score 67.3/100.
+- microsoft/BitNet: 59.4/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: C++ project with 134 stars today; score 59.4/100.
+- sponsors/open-webui: 41.9/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Python project with 142 stars today; score 41.9/100.
+
+Generated for 2026-10-12 from GitHub Trending daily.

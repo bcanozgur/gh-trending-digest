@@ -1,0 +1,642 @@
+{
+  "date": "2026-10-12",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-28T19:02:30Z",
+        "default_branch": "main",
+        "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+        "fork": false,
+        "full_name": "Alishahryar1/free-claude-code",
+        "homepage": null,
+        "latest_release": "v6.15.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 305,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-12T12:21:53Z",
+        "readme_excerpt": "<div align=\"center\"> <h1> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"assets/free-claude-code-wordmark-light.svg\"> <img src=\"assets/free-claude-code-wordmark-dark.svg\" alt=\"Free Claude Code\" width=\"610\"> </picture> </h1> [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-2e7d32.svg?style=for-the-badge)](https://github.com/Alishahryar1/free-claude-code/blob/main/LICENSE) [![Python 3.14](https://img.shields.io/badge/python-3.14-3776ab.svg?style=for-the-badge&logo",
+        "topics": [],
+        "updated_at": "2026-10-12T16:54:15Z"
+      },
+      "repo": {
+        "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+        "forks": 9276,
+        "full_name": "Alishahryar1/free-claude-code",
+        "language": "Python",
+        "name": "free-claude-code",
+        "owner": "Alishahryar1",
+        "rank": 9,
+        "stars_today": 705,
+        "total_stars": 58655,
+        "url": "https://github.com/Alishahryar1/free-claude-code"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.58,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.2,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 67.28
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 705 stars today; score 67.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-08-05T09:07:38Z",
+        "default_branch": "main",
+        "description": "Official inference framework for 1-bit LLMs",
+        "fork": false,
+        "full_name": "microsoft/BitNet",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 339,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-27T05:52:06Z",
+        "readme_excerpt": "<div align=\"center\"> # bitnet.cpp [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) ![version](https://img.shields.io/badge/version-1.0-blue) [![Hugging Face](https://img.shields.io/badge/HuggingFace-Collection-orange?logo=huggingface)](https://huggingface.co/collections/microsoft/bitnet) [![Technical Report](https://img.shields.io/badge/Technical-Report-red?logo=arxiv)](https://arxiv.org/abs/2502.11880) [![Demo](https://img.shields.io/badg",
+        "topics": [],
+        "updated_at": "2026-10-12T16:44:48Z"
+      },
+      "repo": {
+        "description": "Official inference framework for 1-bit LLMs",
+        "forks": 3802,
+        "full_name": "microsoft/BitNet",
+        "language": "C++",
+        "name": "BitNet",
+        "owner": "microsoft",
+        "rank": 8,
+        "stars_today": 134,
+        "total_stars": 40807,
+        "url": "https://github.com/microsoft/BitNet"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.62,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 59.37
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 134 stars today; score 59.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/open-webui",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+        "forks": 22624,
+        "full_name": "sponsors/open-webui",
+        "language": "Python",
+        "name": "open-webui",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 142,
+        "total_stars": 154686,
+        "url": "https://github.com/sponsors/open-webui"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.05,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 41.9
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 142 stars today; score 41.9/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-14T00:51:32Z",
+        "default_branch": "main",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "fork": false,
+        "full_name": "morluto/rea",
+        "homepage": "https://rea.tools",
+        "latest_release": "rea-agents-6.4.0",
+        "license_spdx": "MIT",
+        "open_issues": 287,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-12T16:51:47Z",
+        "readme_excerpt": "<div align=\"center\"> **English** \u00b7 [\u7b80\u4f53\u4e2d\u6587](README_zh.md) \u00b7 [\u7e41\u9ad4\u4e2d\u6587](README_zh-TW.md) \u00b7 [\u65e5\u672c\u8a9e](README_ja.md) \u00b7 [\ud55c\uad6d\uc5b4](README_ko.md) \u00b7 [T\u00fcrk\u00e7e](README_tr.md) \u00b7 [\u0420\u0443\u0441\u0441\u043a\u0438\u0439](README_ru.md) \u00b7 [Ti\u1ebfng Vi\u1ec7t](README_vi.md) \u00b7 [\u0e44\u0e17\u0e22](README_th.md) \u00b7 [Deutsch](README_de.md) \u00b7 [Espa\u00f1ol](README_es.md) \u00b7 [Fran\u00e7ais](README_fr.md) \u00b7 [\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430](README_uk.md) \u00b7 [Polski](README_pl.md) \u00b7 [Portugu\u00eas (Brasil)](README_pt-BR.md) \u00b7 [\u0627\u0644\u0639\u0631\u0628\u064a\u0629](README_ar.md) \u00b7 [\u0641\u0627\u0631\u0633\u06cc](README_fa.md) \u00b7 [Bahasa Indonesia](README_id.md) \u00b7 [Italiano](R",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "binary-analysis",
+          "claude-code",
+          "cli",
+          "codex",
+          "cordis",
+          "ctf",
+          "decompiler",
+          "developer-tools",
+          "disassembler",
+          "dsh",
+          "dsh-plugin",
+          "ghidra",
+          "hopper",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "reverse-engineering",
+          "static-analysis"
+        ],
+        "updated_at": "2026-10-12T16:55:29Z"
+      },
+      "repo": {
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "forks": 33104,
+        "full_name": "morluto/rea",
+        "language": "TypeScript",
+        "name": "rea",
+        "owner": "morluto",
+        "rank": 1,
+        "stars_today": 45495,
+        "total_stars": 143413,
+        "url": "https://github.com/morluto/rea"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 80.7
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 45495 stars today; score 80.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-28T19:02:30Z",
+        "default_branch": "main",
+        "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+        "fork": false,
+        "full_name": "Alishahryar1/free-claude-code",
+        "homepage": null,
+        "latest_release": "v6.15.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 305,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-12T12:21:53Z",
+        "readme_excerpt": "<div align=\"center\"> <h1> <picture> <source media=\"(prefers-color-scheme: light)\" srcset=\"assets/free-claude-code-wordmark-light.svg\"> <img src=\"assets/free-claude-code-wordmark-dark.svg\" alt=\"Free Claude Code\" width=\"610\"> </picture> </h1> [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-2e7d32.svg?style=for-the-badge)](https://github.com/Alishahryar1/free-claude-code/blob/main/LICENSE) [![Python 3.14](https://img.shields.io/badge/python-3.14-3776ab.svg?style=for-the-badge&logo",
+        "topics": [],
+        "updated_at": "2026-10-12T16:54:15Z"
+      },
+      "repo": {
+        "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+        "forks": 9276,
+        "full_name": "Alishahryar1/free-claude-code",
+        "language": "Python",
+        "name": "free-claude-code",
+        "owner": "Alishahryar1",
+        "rank": 9,
+        "stars_today": 705,
+        "total_stars": 58655,
+        "url": "https://github.com/Alishahryar1/free-claude-code"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.58,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.2,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 67.28
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 705 stars today; score 67.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-08-05T09:07:38Z",
+        "default_branch": "main",
+        "description": "Official inference framework for 1-bit LLMs",
+        "fork": false,
+        "full_name": "microsoft/BitNet",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 339,
+        "primary_language": "C++",
+        "pushed_at": "2026-07-27T05:52:06Z",
+        "readme_excerpt": "<div align=\"center\"> # bitnet.cpp [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) ![version](https://img.shields.io/badge/version-1.0-blue) [![Hugging Face](https://img.shields.io/badge/HuggingFace-Collection-orange?logo=huggingface)](https://huggingface.co/collections/microsoft/bitnet) [![Technical Report](https://img.shields.io/badge/Technical-Report-red?logo=arxiv)](https://arxiv.org/abs/2502.11880) [![Demo](https://img.shields.io/badg",
+        "topics": [],
+        "updated_at": "2026-10-12T16:44:48Z"
+      },
+      "repo": {
+        "description": "Official inference framework for 1-bit LLMs",
+        "forks": 3802,
+        "full_name": "microsoft/BitNet",
+        "language": "C++",
+        "name": "BitNet",
+        "owner": "microsoft",
+        "rank": 8,
+        "stars_today": 134,
+        "total_stars": 40807,
+        "url": "https://github.com/microsoft/BitNet"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.62,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 59.37
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 134 stars today; score 59.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-03-31T23:19:12Z",
+        "default_branch": "main",
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "fork": false,
+        "full_name": "storytold/artcraft",
+        "homepage": "https://getartcraft.com",
+        "latest_release": "artcraft-v0.41.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 252,
+        "primary_language": "Rust",
+        "pushed_at": "2026-10-11T13:47:59Z",
+        "readme_excerpt": "<h1 align=\"center\">ArtCraft</h1> <p align=\"center\"><strong>The IDE for artists.</strong></p> <!-- Main video: https://www.youtube.com/watch?v=kzvQMdg66Go GitHub media issue: https://github.com/storytold/artcraft/issues/1951 --> https://github.com/user-attachments/assets/7339bd09-3e0d-44a7-a024-af9de64e4c11 <p align=\"center\"> <a href=\"https://www.youtube.com/watch?v=kzvQMdg66Go\">Watch the two-minute ArtCraft demo on YouTube</a> </p> <p align=\"center\"> <a href=\"https://discord.gg/artcraft\"><img al",
+        "topics": [
+          "3d-graphics",
+          "ai",
+          "aivideo",
+          "filmmaking",
+          "imagegeneration"
+        ],
+        "updated_at": "2026-10-12T16:55:02Z"
+      },
+      "repo": {
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "forks": 3358,
+        "full_name": "storytold/artcraft",
+        "language": "Rust",
+        "name": "artcraft",
+        "owner": "storytold",
+        "rank": 4,
+        "stars_today": 4106,
+        "total_stars": 20757,
+        "url": "https://github.com/storytold/artcraft"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.93,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 55.53
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 4106 stars today; score 55.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-22T23:37:22Z",
+        "default_branch": "main",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "fork": false,
+        "full_name": "bilawalsidhu/gods-eye-view",
+        "homepage": "https://maptheworld.ai/",
+        "latest_release": "v0.2.1",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 376,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-10-12T14:15:33Z",
+        "readme_excerpt": "<div align=\"center\"> # \ud83c\udf10 God's Eye View [![CI](https://github.com/bilawalsidhu/gods-eye-view/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bilawalsidhu/gods-eye-view/actions/workflows/ci.yml) [![Reached #1 on GitHub Trending](https://img.shields.io/badge/%231_GitHub_Trending-thank_you!-F0A63C?style=flat-square&logo=github)](https://x.com/bilawalsidhu/status/2093798887815348521) ### A spy-satellite simulator in your browser \u2014 then you realize the sources are public and the d",
+        "topics": [
+          "3d-globe",
+          "cesium",
+          "flight-tracking",
+          "geospatial",
+          "geospatial-intelligence",
+          "gis",
+          "osint",
+          "photogrammetry",
+          "satellite-tracking",
+          "spatial-intelligence",
+          "webgl",
+          "worldview"
+        ],
+        "updated_at": "2026-10-12T16:52:54Z"
+      },
+      "repo": {
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "forks": 10540,
+        "full_name": "bilawalsidhu/gods-eye-view",
+        "language": "JavaScript",
+        "name": "gods-eye-view",
+        "owner": "bilawalsidhu",
+        "rank": 2,
+        "stars_today": 1903,
+        "total_stars": 53106,
+        "url": "https://github.com/bilawalsidhu/gods-eye-view"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.81,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 50.86
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 1903 stars today; score 50.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/open-webui",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+        "forks": 22624,
+        "full_name": "sponsors/open-webui",
+        "language": "Python",
+        "name": "open-webui",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 142,
+        "total_stars": 154686,
+        "url": "https://github.com/sponsors/open-webui"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.05,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 41.9
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 142 stars today; score 41.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/cathrynlavery",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "forks": 3282,
+        "full_name": "sponsors/cathrynlavery",
+        "language": "HTML",
+        "name": "cathrynlavery",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 2100,
+        "total_stars": 52130,
+        "url": "https://github.com/sponsors/cathrynlavery"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.27,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 40.72
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: HTML project with 2100 stars today; score 40.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mksglu",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "forks": 1935,
+        "full_name": "sponsors/mksglu",
+        "language": "TypeScript",
+        "name": "mksglu",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 394,
+        "total_stars": 27021,
+        "url": "https://github.com/sponsors/mksglu"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.38,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 36.33
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 394 stars today; score 36.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/lyogavin",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "AirLLM 70B inference with single 4GB GPU",
+        "forks": 3856,
+        "full_name": "sponsors/lyogavin",
+        "language": "Jupyter Notebook",
+        "name": "lyogavin",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 886,
+        "total_stars": 37252,
+        "url": "https://github.com/sponsors/lyogavin"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.9,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 35.85
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Jupyter Notebook project with 886 stars today; score 35.9/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-10-12",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is Alishahryar1/free-claude-code."
+}
