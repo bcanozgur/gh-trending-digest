@@ -1,0 +1,817 @@
+{
+  "date": "2026-10-13",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-14T00:51:32Z",
+        "default_branch": "main",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "fork": false,
+        "full_name": "morluto/rea",
+        "homepage": "https://rea.tools",
+        "latest_release": "rea-agents-6.4.0",
+        "license_spdx": "MIT",
+        "open_issues": 560,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-13T15:13:04Z",
+        "readme_excerpt": "<div align=\"center\"> **English** \u00b7 [\u7b80\u4f53\u4e2d\u6587](docs/readme/README_zh.md) \u00b7 [\u7e41\u9ad4\u4e2d\u6587](docs/readme/README_zh-TW.md) \u00b7 [\u65e5\u672c\u8a9e](docs/readme/README_ja.md) \u00b7 [\ud55c\uad6d\uc5b4](docs/readme/README_ko.md) \u00b7 [T\u00fcrk\u00e7e](docs/readme/README_tr.md) \u00b7 [\u0420\u0443\u0441\u0441\u043a\u0438\u0439](docs/readme/README_ru.md) \u00b7 [Ti\u1ebfng Vi\u1ec7t](docs/readme/README_vi.md) \u00b7 [\u0e44\u0e17\u0e22](docs/readme/README_th.md) \u00b7 [Deutsch](docs/readme/README_de.md) \u00b7 [Espa\u00f1ol](docs/readme/README_es.md) \u00b7 [Fran\u00e7ais](docs/readme/README_fr.md) \u00b7 [\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430](docs/readme/README_uk.md) \u00b7 [Polski](docs/read",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "binary-analysis",
+          "claude-code",
+          "cli",
+          "codex",
+          "cordis",
+          "ctf",
+          "decompiler",
+          "developer-tools",
+          "disassembler",
+          "dsh",
+          "dsh-plugin",
+          "ghidra",
+          "hopper",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "reverse-engineering",
+          "static-analysis"
+        ],
+        "updated_at": "2026-10-13T15:13:23Z"
+      },
+      "repo": {
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "forks": 47362,
+        "full_name": "morluto/rea",
+        "language": "TypeScript",
+        "name": "rea",
+        "owner": "morluto",
+        "rank": 1,
+        "stars_today": 54706,
+        "total_stars": 194169,
+        "url": "https://github.com/morluto/rea"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 80.7
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 54706 stars today; score 80.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-14T21:31:18Z",
+        "default_branch": "main",
+        "description": "The open agent skills tool - npx skills",
+        "fork": false,
+        "full_name": "vercel-labs/skills",
+        "homepage": "https://skills.sh",
+        "latest_release": "v1.7.2",
+        "license_spdx": "MIT",
+        "open_issues": 1107,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-09T17:54:47Z",
+        "readme_excerpt": "# skills The CLI for the open agent skills ecosystem. <!-- agent-list:start --> Supports **OpenCode**, **Claude Code**, **Codex**, **Cursor**, and [75 more](#supported-agents). <!-- agent-list:end --> <p> <a href=\"https://vercel.com/labs#labs-products\"><img alt=\"Vercel Labs Product\" src=\"https://img.shields.io/badge/LABS-PRODUCT-0a0a0a.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000000\" height=\"28\"></a> <a href=\"https://www.npmjs.com/package/skills\"><img alt=\"npm version: skills\" src=",
+        "topics": [],
+        "updated_at": "2026-10-13T15:08:51Z"
+      },
+      "repo": {
+        "description": "The open agent skills tool - npx skills",
+        "forks": 2937,
+        "full_name": "vercel-labs/skills",
+        "language": "TypeScript",
+        "name": "skills",
+        "owner": "vercel-labs",
+        "rank": 6,
+        "stars_today": 187,
+        "total_stars": 34244,
+        "url": "https://github.com/vercel-labs/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.91,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 73.21
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 187 stars today; score 73.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-09T21:40:26Z",
+        "default_branch": "main",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "fork": false,
+        "full_name": "debpalash/VoiceStudio",
+        "homepage": "https://voicestudio.sh",
+        "latest_release": "v0.5.6",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 125,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-13T15:04:49Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"docs/logo.png\" alt=\"VoiceStudio\" width=\"88\" /> <h1>VoiceStudio</h1> <p> <a href=\"https://trendshift.io/repositories/28176?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-28176\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/28176\" alt=\"VoiceStudio ranking on Trendshift\" width=\"220\" height=\"48\" /></a> </p> <p><strong>Open-source voice cloning, voice design, video dubbing, dictation,",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "tauri",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "updated_at": "2026-10-13T15:13:19Z"
+      },
+      "repo": {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "forks": 6926,
+        "full_name": "debpalash/VoiceStudio",
+        "language": "Python",
+        "name": "VoiceStudio",
+        "owner": "debpalash",
+        "rank": 3,
+        "stars_today": 1691,
+        "total_stars": 61988,
+        "url": "https://github.com/debpalash/VoiceStudio"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.57,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 59.28
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1691 stars today; score 59.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-11-17T08:18:44Z",
+        "default_branch": "main",
+        "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+        "fork": false,
+        "full_name": "xtool-org/xtool",
+        "homepage": "https://xtool.sh",
+        "latest_release": "1.21.0",
+        "license_spdx": "MIT",
+        "open_issues": 95,
+        "primary_language": "Swift",
+        "pushed_at": "2026-10-06T22:54:38Z",
+        "readme_excerpt": "# xtool Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, and macOS. ## Overview xtool is a cross-platform (Linux/WSL/macOS) tool that replicates Xcode functionality with open standards. \u2705 Build a SwiftPM package into an iOS app \u2705 Sign and install iOS apps \u2705 Interact with Apple Developer Services programmatically ## Getting Started 1. Follow the guide to install `xtool` - [Installation (Linux/Windows)](https://xtool.sh/documentation/xtooldocs/installatio",
+        "topics": [
+          "ios",
+          "linux",
+          "swift",
+          "swift-package-manager",
+          "windows",
+          "xcode"
+        ],
+        "updated_at": "2026-10-13T15:11:46Z"
+      },
+      "repo": {
+        "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+        "forks": 365,
+        "full_name": "xtool-org/xtool",
+        "language": "Swift",
+        "name": "xtool",
+        "owner": "xtool-org",
+        "rank": 9,
+        "stars_today": 936,
+        "total_stars": 8797,
+        "url": "https://github.com/xtool-org/xtool"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 10.22,
+        "momentum": 2.59,
+        "novelty": 8.0,
+        "practical_usefulness": 12.41,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 58.49
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: Swift project with 936 stars today; score 58.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/cathrynlavery",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "forks": 3398,
+        "full_name": "sponsors/cathrynlavery",
+        "language": "HTML",
+        "name": "cathrynlavery",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 1813,
+        "total_stars": 53640,
+        "url": "https://github.com/sponsors/cathrynlavery"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.3,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 40.75
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: HTML project with 1813 stars today; score 40.8/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-14T00:51:32Z",
+        "default_branch": "main",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "fork": false,
+        "full_name": "morluto/rea",
+        "homepage": "https://rea.tools",
+        "latest_release": "rea-agents-6.4.0",
+        "license_spdx": "MIT",
+        "open_issues": 560,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-13T15:13:04Z",
+        "readme_excerpt": "<div align=\"center\"> **English** \u00b7 [\u7b80\u4f53\u4e2d\u6587](docs/readme/README_zh.md) \u00b7 [\u7e41\u9ad4\u4e2d\u6587](docs/readme/README_zh-TW.md) \u00b7 [\u65e5\u672c\u8a9e](docs/readme/README_ja.md) \u00b7 [\ud55c\uad6d\uc5b4](docs/readme/README_ko.md) \u00b7 [T\u00fcrk\u00e7e](docs/readme/README_tr.md) \u00b7 [\u0420\u0443\u0441\u0441\u043a\u0438\u0439](docs/readme/README_ru.md) \u00b7 [Ti\u1ebfng Vi\u1ec7t](docs/readme/README_vi.md) \u00b7 [\u0e44\u0e17\u0e22](docs/readme/README_th.md) \u00b7 [Deutsch](docs/readme/README_de.md) \u00b7 [Espa\u00f1ol](docs/readme/README_es.md) \u00b7 [Fran\u00e7ais](docs/readme/README_fr.md) \u00b7 [\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430](docs/readme/README_uk.md) \u00b7 [Polski](docs/read",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "binary-analysis",
+          "claude-code",
+          "cli",
+          "codex",
+          "cordis",
+          "ctf",
+          "decompiler",
+          "developer-tools",
+          "disassembler",
+          "dsh",
+          "dsh-plugin",
+          "ghidra",
+          "hopper",
+          "llm",
+          "mcp",
+          "model-context-protocol",
+          "reverse-engineering",
+          "static-analysis"
+        ],
+        "updated_at": "2026-10-13T15:13:23Z"
+      },
+      "repo": {
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "forks": 47362,
+        "full_name": "morluto/rea",
+        "language": "TypeScript",
+        "name": "rea",
+        "owner": "morluto",
+        "rank": 1,
+        "stars_today": 54706,
+        "total_stars": 194169,
+        "url": "https://github.com/morluto/rea"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 80.7
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 54706 stars today; score 80.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-14T21:31:18Z",
+        "default_branch": "main",
+        "description": "The open agent skills tool - npx skills",
+        "fork": false,
+        "full_name": "vercel-labs/skills",
+        "homepage": "https://skills.sh",
+        "latest_release": "v1.7.2",
+        "license_spdx": "MIT",
+        "open_issues": 1107,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-09T17:54:47Z",
+        "readme_excerpt": "# skills The CLI for the open agent skills ecosystem. <!-- agent-list:start --> Supports **OpenCode**, **Claude Code**, **Codex**, **Cursor**, and [75 more](#supported-agents). <!-- agent-list:end --> <p> <a href=\"https://vercel.com/labs#labs-products\"><img alt=\"Vercel Labs Product\" src=\"https://img.shields.io/badge/LABS-PRODUCT-0a0a0a.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000000\" height=\"28\"></a> <a href=\"https://www.npmjs.com/package/skills\"><img alt=\"npm version: skills\" src=",
+        "topics": [],
+        "updated_at": "2026-10-13T15:08:51Z"
+      },
+      "repo": {
+        "description": "The open agent skills tool - npx skills",
+        "forks": 2937,
+        "full_name": "vercel-labs/skills",
+        "language": "TypeScript",
+        "name": "skills",
+        "owner": "vercel-labs",
+        "rank": 6,
+        "stars_today": 187,
+        "total_stars": 34244,
+        "url": "https://github.com/vercel-labs/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.91,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 73.21
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 187 stars today; score 73.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-09T21:40:26Z",
+        "default_branch": "main",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "fork": false,
+        "full_name": "debpalash/VoiceStudio",
+        "homepage": "https://voicestudio.sh",
+        "latest_release": "v0.5.6",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 125,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-13T15:04:49Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"docs/logo.png\" alt=\"VoiceStudio\" width=\"88\" /> <h1>VoiceStudio</h1> <p> <a href=\"https://trendshift.io/repositories/28176?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-28176\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/28176\" alt=\"VoiceStudio ranking on Trendshift\" width=\"220\" height=\"48\" /></a> </p> <p><strong>Open-source voice cloning, voice design, video dubbing, dictation,",
+        "topics": [
+          "ai",
+          "audiobook",
+          "cuda",
+          "dubbing",
+          "elevenlabs-alternative",
+          "huggingface",
+          "local-first",
+          "mlx",
+          "omnivoice-studio",
+          "speech-to-text",
+          "tauri",
+          "text-to-speech",
+          "transcription",
+          "translate",
+          "tts",
+          "voice-ai",
+          "voice-cloning",
+          "voice-generation",
+          "voicestudio",
+          "workflow"
+        ],
+        "updated_at": "2026-10-13T15:13:19Z"
+      },
+      "repo": {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "forks": 6926,
+        "full_name": "debpalash/VoiceStudio",
+        "language": "Python",
+        "name": "VoiceStudio",
+        "owner": "debpalash",
+        "rank": 3,
+        "stars_today": 1691,
+        "total_stars": 61988,
+        "url": "https://github.com/debpalash/VoiceStudio"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.57,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 59.28
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1691 stars today; score 59.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-11-17T08:18:44Z",
+        "default_branch": "main",
+        "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+        "fork": false,
+        "full_name": "xtool-org/xtool",
+        "homepage": "https://xtool.sh",
+        "latest_release": "1.21.0",
+        "license_spdx": "MIT",
+        "open_issues": 95,
+        "primary_language": "Swift",
+        "pushed_at": "2026-10-06T22:54:38Z",
+        "readme_excerpt": "# xtool Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, and macOS. ## Overview xtool is a cross-platform (Linux/WSL/macOS) tool that replicates Xcode functionality with open standards. \u2705 Build a SwiftPM package into an iOS app \u2705 Sign and install iOS apps \u2705 Interact with Apple Developer Services programmatically ## Getting Started 1. Follow the guide to install `xtool` - [Installation (Linux/Windows)](https://xtool.sh/documentation/xtooldocs/installatio",
+        "topics": [
+          "ios",
+          "linux",
+          "swift",
+          "swift-package-manager",
+          "windows",
+          "xcode"
+        ],
+        "updated_at": "2026-10-13T15:11:46Z"
+      },
+      "repo": {
+        "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+        "forks": 365,
+        "full_name": "xtool-org/xtool",
+        "language": "Swift",
+        "name": "xtool",
+        "owner": "xtool-org",
+        "rank": 9,
+        "stars_today": 936,
+        "total_stars": 8797,
+        "url": "https://github.com/xtool-org/xtool"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 10.22,
+        "momentum": 2.59,
+        "novelty": 8.0,
+        "practical_usefulness": 12.41,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 58.49
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: Swift project with 936 stars today; score 58.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-03-31T23:19:12Z",
+        "default_branch": "main",
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "fork": false,
+        "full_name": "storytold/artcraft",
+        "homepage": "https://getartcraft.com",
+        "latest_release": "artcraft-v0.41.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 310,
+        "primary_language": "Rust",
+        "pushed_at": "2026-10-11T13:47:59Z",
+        "readme_excerpt": "<h1 align=\"center\">ArtCraft</h1> <p align=\"center\"><strong>The IDE for artists.</strong></p> <!-- Main video: https://www.youtube.com/watch?v=kzvQMdg66Go GitHub media issue: https://github.com/storytold/artcraft/issues/1951 --> https://github.com/user-attachments/assets/7339bd09-3e0d-44a7-a024-af9de64e4c11 <p align=\"center\"> <a href=\"https://www.youtube.com/watch?v=kzvQMdg66Go\">Watch the two-minute ArtCraft demo on YouTube</a> </p> <p align=\"center\"> <a href=\"https://discord.gg/artcraft\"><img al",
+        "topics": [
+          "3d-graphics",
+          "ai",
+          "aivideo",
+          "filmmaking",
+          "imagegeneration"
+        ],
+        "updated_at": "2026-10-13T15:13:27Z"
+      },
+      "repo": {
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "forks": 3876,
+        "full_name": "storytold/artcraft",
+        "language": "Rust",
+        "name": "artcraft",
+        "owner": "storytold",
+        "rank": 8,
+        "stars_today": 4078,
+        "total_stars": 24527,
+        "url": "https://github.com/storytold/artcraft"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.22,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 54.82
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 4078 stars today; score 54.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-22T23:37:22Z",
+        "default_branch": "main",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "fork": false,
+        "full_name": "bilawalsidhu/gods-eye-view",
+        "homepage": "https://maptheworld.ai/",
+        "latest_release": "v0.2.1",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 394,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-10-13T14:23:03Z",
+        "readme_excerpt": "<div align=\"center\"> # \ud83c\udf10 God's Eye View [![CI](https://github.com/bilawalsidhu/gods-eye-view/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bilawalsidhu/gods-eye-view/actions/workflows/ci.yml) [![Reached #1 on GitHub Trending](https://img.shields.io/badge/%231_GitHub_Trending-thank_you!-F0A63C?style=flat-square&logo=github)](https://x.com/bilawalsidhu/status/2093798887815348521) ### A spy-satellite simulator in your browser \u2014 then you realize the sources are public and the d",
+        "topics": [
+          "3d-globe",
+          "cesium",
+          "flight-tracking",
+          "geospatial",
+          "geospatial-intelligence",
+          "gis",
+          "osint",
+          "photogrammetry",
+          "satellite-tracking",
+          "spatial-intelligence",
+          "webgl",
+          "worldview"
+        ],
+        "updated_at": "2026-10-13T15:12:06Z"
+      },
+      "repo": {
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "forks": 10753,
+        "full_name": "bilawalsidhu/gods-eye-view",
+        "language": "JavaScript",
+        "name": "gods-eye-view",
+        "owner": "bilawalsidhu",
+        "rank": 2,
+        "stars_today": 1961,
+        "total_stars": 54786,
+        "url": "https://github.com/bilawalsidhu/gods-eye-view"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.76,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 50.81
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 1961 stars today; score 50.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/cathrynlavery",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "forks": 3398,
+        "full_name": "sponsors/cathrynlavery",
+        "language": "HTML",
+        "name": "cathrynlavery",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 1813,
+        "total_stars": 53640,
+        "url": "https://github.com/sponsors/cathrynlavery"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.3,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 6.79,
+        "technical_quality": 3.5,
+        "total": 40.75
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: HTML project with 1813 stars today; score 40.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mksglu",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "forks": 1976,
+        "full_name": "sponsors/mksglu",
+        "language": "TypeScript",
+        "name": "mksglu",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 978,
+        "total_stars": 27902,
+        "url": "https://github.com/sponsors/mksglu"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.32,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 36.27
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 978 stars today; score 36.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/lyogavin",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+        "forks": 3899,
+        "full_name": "sponsors/lyogavin",
+        "language": "Jupyter Notebook",
+        "name": "lyogavin",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 1004,
+        "total_stars": 38083,
+        "url": "https://github.com/sponsors/lyogavin"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.89,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 35.84
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Jupyter Notebook project with 1004 stars today; score 35.8/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-10-13",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is morluto/rea."
+}

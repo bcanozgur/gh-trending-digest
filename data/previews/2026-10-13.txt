@@ -1,0 +1,30 @@
+GitHub Trending: AI workflow signal - 2026-10-13
+
+Today leans toward AI workflow signal; the strongest pick is morluto/rea.
+
+Top picks
+1. morluto/rea - 80.7/100
+   https://github.com/morluto/rea
+   AI Workflow, DevTools: TypeScript project with 54706 stars today; score 80.7/100.
+2. vercel-labs/skills - 73.2/100
+   https://github.com/vercel-labs/skills
+   AI Workflow, DevTools: TypeScript project with 187 stars today; score 73.2/100.
+3. debpalash/VoiceStudio - 59.3/100
+   https://github.com/debpalash/VoiceStudio
+   AI Workflow, DevTools: Python project with 1691 stars today; score 59.3/100.
+4. xtool-org/xtool - 58.5/100
+   https://github.com/xtool-org/xtool
+   DevTools, Try Today: Swift project with 936 stars today; score 58.5/100.
+5. sponsors/cathrynlavery - 40.8/100
+   https://github.com/sponsors/cathrynlavery
+   AI Workflow, Watch: HTML project with 1813 stars today; score 40.8/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- morluto/rea: 80.7/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 54706 stars today; score 80.7/100.
+- vercel-labs/skills: 73.2/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 187 stars today; score 73.2/100.
+- debpalash/VoiceStudio: 59.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 1691 stars today; score 59.3/100.
+- xtool-org/xtool: 58.5/100 [DevTools, Try Today, Deep Dive] DevTools, Try Today: Swift project with 936 stars today; score 58.5/100.
+- sponsors/cathrynlavery: 40.8/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: HTML project with 1813 stars today; score 40.8/100.
+
+Generated for 2026-10-13 from GitHub Trending daily.
