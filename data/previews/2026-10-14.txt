@@ -1,0 +1,32 @@
+GitHub Trending: AI workflow signal - 2026-10-14
+
+Today leans toward AI workflow signal; the strongest pick is ifixai-ai/iFixAi.
+
+Top picks
+1. ifixai-ai/iFixAi - 74.2/100
+   https://github.com/ifixai-ai/iFixAi
+   AI Workflow, DevTools: Python project with 2143 stars today; score 74.2/100.
+2. vxcontrol/pentagi - 74.0/100
+   https://github.com/vxcontrol/pentagi
+   AI Workflow, DevTools: Go project with 1819 stars today; score 74.0/100.
+3. K-Dense-AI/scientific-agent-skills - 73.3/100
+   https://github.com/K-Dense-AI/scientific-agent-skills
+   AI Workflow, DevTools: Python project with 146 stars today; score 73.3/100.
+4. HKUDS/CLI-Anything - 58.6/100
+   https://github.com/HKUDS/CLI-Anything
+   AI Workflow, DevTools: Python project with 94 stars today; score 58.6/100.
+5. nvm-sh/nvm - 54.0/100
+   https://github.com/nvm-sh/nvm
+   DevTools, Try Today: Shell project with 45 stars today; score 54.0/100.
+
+Full reviewed list
+- ifixai-ai/iFixAi: 74.2/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 2143 stars today; score 74.2/100.
+- vxcontrol/pentagi: 74.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Go project with 1819 stars today; score 74.0/100.
+- K-Dense-AI/scientific-agent-skills: 73.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 146 stars today; score 73.3/100.
+- HKUDS/CLI-Anything: 58.6/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 94 stars today; score 58.6/100.
+- nvm-sh/nvm: 54.0/100 [DevTools, Try Today] DevTools, Try Today: Shell project with 45 stars today; score 54.0/100.
+- NationalSecurityAgency/ghidra: 52.8/100 [AI Workflow, DevTools, Try Today] AI Workflow, DevTools: Java project with 1002 stars today; score 52.8/100.
+- rust-lang/rust: 49.6/100 [Try Today] Try Today: Rust project with 205 stars today; score 49.6/100.
+- sponsors/ntdevlabs: 21.5/100 [Watch, Hype Risk] Watch, Hype Risk: C# project with 132 stars today; score 21.5/100.
+
+Generated for 2026-10-14 from GitHub Trending daily.
