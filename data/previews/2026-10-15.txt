@@ -1,0 +1,33 @@
+GitHub Trending: AI workflow signal - 2026-10-15
+
+Today leans toward AI workflow signal; the strongest pick is ruvnet/ruflo.
+
+Top picks
+1. ruvnet/ruflo - 80.3/100
+   https://github.com/ruvnet/ruflo
+   AI Workflow, DevTools: TypeScript project with 146 stars today; score 80.3/100.
+2. xerj-org/xerj - 79.0/100
+   https://github.com/xerj-org/xerj
+   AI Workflow, DevTools: Rust project with 725 stars today; score 79.0/100.
+3. anthropics/claude-plugins-official - 63.4/100
+   https://github.com/anthropics/claude-plugins-official
+   AI Workflow, Try Today: Python project with 181 stars today; score 63.4/100.
+4. sponsors/lightseekorg - 35.8/100
+   https://github.com/sponsors/lightseekorg
+   AI Workflow, Watch: Python project with 25 stars today; score 35.8/100.
+   Caution: Weak onboarding evidence.
+5. sponsors/affaan-m - 35.5/100
+   https://github.com/sponsors/affaan-m
+   AI Workflow, Watch: JavaScript project with 1015 stars today; score 35.5/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- ruvnet/ruflo: 80.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 146 stars today; score 80.3/100.
+- xerj-org/xerj: 79.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Rust project with 725 stars today; score 79.0/100.
+- anthropics/claude-plugins-official: 63.4/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 181 stars today; score 63.4/100.
+- sponsors/lightseekorg: 35.8/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Python project with 25 stars today; score 35.8/100.
+- sponsors/affaan-m: 35.5/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: JavaScript project with 1015 stars today; score 35.5/100.
+- sponsors/obra: 32.2/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Shell project with 534 stars today; score 32.2/100.
+- sponsors/JuliusBrussee: 31.7/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Go project with 398 stars today; score 31.7/100.
+
+Generated for 2026-10-15 from GitHub Trending daily.
