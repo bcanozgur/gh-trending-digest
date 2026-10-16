@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-10-16
+
+Today leans toward AI workflow signal; the strongest pick is android/skills.
+
+Top picks
+1. android/skills - 68.6/100
+   https://github.com/android/skills
+   AI Workflow, DevTools: Kotlin project with 35 stars today; score 68.6/100.
+2. hmjz100/LinkSwift - 61.0/100
+   https://github.com/hmjz100/LinkSwift
+   AI Workflow, Try Today: JavaScript project with 592 stars today; score 61.0/100.
+3. sponsors/MadsLorentzen - 48.7/100
+   https://github.com/sponsors/MadsLorentzen
+   AI Workflow, DevTools: Python project with 879 stars today; score 48.7/100.
+   Caution: Weak onboarding evidence.
+4. cursor/plugins - 44.2/100
+   https://github.com/cursor/plugins
+   DevTools: TypeScript project with 214 stars today; score 44.2/100.
+5. sponsors/debpalash - 33.5/100
+   https://github.com/sponsors/debpalash
+   Watch, Hype Risk: Python project with 2301 stars today; score 33.5/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- android/skills: 68.6/100 [AI Workflow, DevTools, Deep Dive] AI Workflow, DevTools: Kotlin project with 35 stars today; score 68.6/100.
+- hmjz100/LinkSwift: 61.0/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: JavaScript project with 592 stars today; score 61.0/100.
+- sponsors/MadsLorentzen: 48.7/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Python project with 879 stars today; score 48.7/100.
+- cursor/plugins: 44.2/100 [DevTools] DevTools: TypeScript project with 214 stars today; score 44.2/100.
+- sponsors/debpalash: 33.5/100 [Watch, Hype Risk] Watch, Hype Risk: Python project with 2301 stars today; score 33.5/100.
+
+Generated for 2026-10-16 from GitHub Trending daily.
