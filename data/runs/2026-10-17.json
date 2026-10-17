@@ -1,0 +1,960 @@
+{
+  "date": "2026-10-17",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-17T03:28:57Z",
+        "default_branch": "main",
+        "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "fork": false,
+        "full_name": "stablyai/orca",
+        "homepage": "https://orca.dev",
+        "latest_release": "v1.4.229",
+        "license_spdx": "MIT",
+        "open_issues": 8511,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-17T11:40:09Z",
+        "readme_excerpt": "<h1 align=\"center\"> <a href=\"https://onOrca.dev\"><img src=\"resources/build/icon.png\" alt=\"Orca\" width=\"64\" valign=\"middle\" /></a> Orca </h1> <p align=\"center\"> <a href=\"https://github.com/stablyai/orca\"><img src=\"https://img.shields.io/github/stars/stablyai/orca?style=flat&amp;label=%E2%98%85&amp;color=08C\" alt=\"GitHub stars\" /></a> <a href=\"https://github.com/stablyai/orca/releases\"><img src=\"docs/assets/readme-downloads.svg\" alt=\"Total downloads across all releases\" /></a> <img src=\"https://im",
+        "topics": [
+          "ade",
+          "agent-ide",
+          "ai-agents",
+          "automation",
+          "bot",
+          "claude-code",
+          "codex",
+          "ghostty",
+          "grok-bot",
+          "hermes-agent",
+          "mobile-app",
+          "muse",
+          "openclaw",
+          "opencode",
+          "orchestration",
+          "pi",
+          "runtime",
+          "terminal",
+          "worktrees",
+          "yc-backed"
+        ],
+        "updated_at": "2026-10-17T11:42:06Z"
+      },
+      "repo": {
+        "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "forks": 6066,
+        "full_name": "stablyai/orca",
+        "language": "TypeScript",
+        "name": "orca",
+        "owner": "stablyai",
+        "rank": 8,
+        "stars_today": 1102,
+        "total_stars": 94811,
+        "url": "https://github.com/stablyai/orca"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.93,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 77.98
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1102 stars today; score 78.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-21T23:23:51Z",
+        "default_branch": "main",
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "fork": false,
+        "full_name": "akitaonrails/ai-memory",
+        "homepage": null,
+        "latest_release": "v3.1.0",
+        "license_spdx": "MIT",
+        "open_issues": 35,
+        "primary_language": "Rust",
+        "pushed_at": "2026-10-16T16:57:33Z",
+        "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/logo-dark.png\"> <img alt=\"ai-memory\" src=\"docs/logo-light.png\" width=\"480\"> </picture> </p> > Long-term memory for AI coding agents. Quit Claude Code mid-task, > start OpenAI Codex in the same directory, continue without > re-explaining the architecture, the failed approaches, or the open > questions. **Website: [aimemory.sh](https://aimemory.sh)** [![Website](https://img.shields.io/badge/website-aimemory.sh-b",
+        "topics": [],
+        "updated_at": "2026-10-17T11:42:22Z"
+      },
+      "repo": {
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "forks": 692,
+        "full_name": "akitaonrails/ai-memory",
+        "language": "Rust",
+        "name": "ai-memory",
+        "owner": "akitaonrails",
+        "rank": 6,
+        "stars_today": 159,
+        "total_stars": 9670,
+        "url": "https://github.com/akitaonrails/ai-memory"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.51,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 68.31
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 159 stars today; score 68.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-02-22T17:41:21Z",
+        "default_branch": "main",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "fork": false,
+        "full_name": "anthropics/claude-code",
+        "homepage": "https://code.claude.com/docs/en/overview",
+        "latest_release": "v2.1.302",
+        "license_spdx": null,
+        "open_issues": 15128,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-16T20:53:06Z",
+        "readme_excerpt": "# Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your t",
+        "topics": [],
+        "updated_at": "2026-10-17T11:40:51Z"
+      },
+      "repo": {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "forks": 26856,
+        "full_name": "anthropics/claude-code",
+        "language": "TypeScript",
+        "name": "claude-code",
+        "owner": "anthropics",
+        "rank": 9,
+        "stars_today": 168,
+        "total_stars": 151351,
+        "url": "https://github.com/anthropics/claude-code"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.11,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 66.51
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 168 stars today; score 66.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/anomalyco",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The open source coding agent.",
+        "forks": 28800,
+        "full_name": "sponsors/anomalyco",
+        "language": "TypeScript",
+        "name": "anomalyco",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 488,
+        "total_stars": 214557,
+        "url": "https://github.com/sponsors/anomalyco"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.08,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 33.23
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 488 stars today; score 33.2/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-17T03:28:57Z",
+        "default_branch": "main",
+        "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "fork": false,
+        "full_name": "stablyai/orca",
+        "homepage": "https://orca.dev",
+        "latest_release": "v1.4.229",
+        "license_spdx": "MIT",
+        "open_issues": 8511,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-17T11:40:09Z",
+        "readme_excerpt": "<h1 align=\"center\"> <a href=\"https://onOrca.dev\"><img src=\"resources/build/icon.png\" alt=\"Orca\" width=\"64\" valign=\"middle\" /></a> Orca </h1> <p align=\"center\"> <a href=\"https://github.com/stablyai/orca\"><img src=\"https://img.shields.io/github/stars/stablyai/orca?style=flat&amp;label=%E2%98%85&amp;color=08C\" alt=\"GitHub stars\" /></a> <a href=\"https://github.com/stablyai/orca/releases\"><img src=\"docs/assets/readme-downloads.svg\" alt=\"Total downloads across all releases\" /></a> <img src=\"https://im",
+        "topics": [
+          "ade",
+          "agent-ide",
+          "ai-agents",
+          "automation",
+          "bot",
+          "claude-code",
+          "codex",
+          "ghostty",
+          "grok-bot",
+          "hermes-agent",
+          "mobile-app",
+          "muse",
+          "openclaw",
+          "opencode",
+          "orchestration",
+          "pi",
+          "runtime",
+          "terminal",
+          "worktrees",
+          "yc-backed"
+        ],
+        "updated_at": "2026-10-17T11:42:06Z"
+      },
+      "repo": {
+        "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "forks": 6066,
+        "full_name": "stablyai/orca",
+        "language": "TypeScript",
+        "name": "orca",
+        "owner": "stablyai",
+        "rank": 8,
+        "stars_today": 1102,
+        "total_stars": 94811,
+        "url": "https://github.com/stablyai/orca"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.93,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 77.98
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1102 stars today; score 78.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-30T04:32:45Z",
+        "default_branch": "main",
+        "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+        "fork": false,
+        "full_name": "xerj-org/xerj",
+        "homepage": "https://xerj.org",
+        "latest_release": "v1.0.0-rc.96",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 15,
+        "primary_language": "Rust",
+        "pushed_at": "2026-10-17T10:37:40Z",
+        "readme_excerpt": "# XERJ <a href=\"https://trendshift.io/repositories/116361?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-116361\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/116361\" alt=\"xerj-org%2Fxerj | Trendshift\" width=\"250\" height=\"55\"/></a> [English](./README.md) | [\u7b80\u4f53\u4e2d\u6587](./README.zh-CN.md) [![CI](https://img.shields.io/github/actions/workflow/status/xerj-org/xerj/ci.yml?branch=main&style=flat-square&label=CI)](https:/",
+        "topics": [
+          "ai-search",
+          "ai-search-algorithms",
+          "ai-search-engine",
+          "ai-search-free",
+          "ai-search-module",
+          "ai-search-optimization",
+          "ai-searchengine",
+          "bm25-search",
+          "elastic-search",
+          "elasticsearch",
+          "elasticstack",
+          "graph-search",
+          "graph-semantic-search",
+          "hybrid-search",
+          "hybrid-semantic-search",
+          "search-api",
+          "search-engine",
+          "semantic-search",
+          "vector-database",
+          "vector-search"
+        ],
+        "updated_at": "2026-10-17T11:42:17Z"
+      },
+      "repo": {
+        "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+        "forks": 382,
+        "full_name": "xerj-org/xerj",
+        "language": "Rust",
+        "name": "xerj",
+        "owner": "xerj-org",
+        "rank": 13,
+        "stars_today": 1102,
+        "total_stars": 7345,
+        "url": "https://github.com/xerj-org/xerj"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.21,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 77.76
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 1102 stars today; score 77.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-06-02T21:24:20Z",
+        "default_branch": "main",
+        "description": "\ud83c\udf0a The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "fork": false,
+        "full_name": "ruvnet/ruflo",
+        "homepage": "https://Cognitum.One",
+        "latest_release": "v3.56.10",
+        "license_spdx": "MIT",
+        "open_issues": 1077,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-17T06:42:17Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://cognitum.one/agentic-engineering\"><img src=\"ruflo/assets/ruflo-neon-flicker.gif\" alt=\"Ruflo animated neon sign\" width=\"100%\"></a> **An agent meta-harness for Claude Code and Codex.** <!-- Try Ruflo \u2014 the 3 badges first-time visitors actually act on --> [![npm version (ruflo)](https://img.shields.io/npm/v/ruflo?label=npx%20ruflo&style=for-the-badge&logo=npm&color=cb3837)](https://www.npmjs.com/package/ruflo) [![MIT License](https://img.shields.io/badge/Licens",
+        "topics": [
+          "agentic-ai",
+          "agentic-framework",
+          "agentic-workflow",
+          "agents",
+          "ai-agents",
+          "ai-assistant",
+          "ai-skills",
+          "autonomous-agents",
+          "claude",
+          "codex",
+          "dsh-plugin",
+          "harness",
+          "mcp-server",
+          "multi-agent",
+          "multi-agent-systems",
+          "npm",
+          "skills",
+          "swarm",
+          "swarm-intelligence",
+          "typescript"
+        ],
+        "updated_at": "2026-10-17T11:42:01Z"
+      },
+      "repo": {
+        "description": "\ud83c\udf0a The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "forks": 8981,
+        "full_name": "ruvnet/ruflo",
+        "language": "TypeScript",
+        "name": "ruflo",
+        "owner": "ruvnet",
+        "rank": 12,
+        "stars_today": 406,
+        "total_stars": 75803,
+        "url": "https://github.com/ruvnet/ruflo"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.61,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 75.91
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 406 stars today; score 75.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-19T20:54:15Z",
+        "default_branch": "main",
+        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+        "fork": false,
+        "full_name": "K-Dense-AI/scientific-agent-skills",
+        "homepage": "https://arxiv.org/abs/2609.00065",
+        "latest_release": "v2.72.0",
+        "license_spdx": "MIT",
+        "open_issues": 49,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-15T23:57:39Z",
+        "readme_excerpt": "# Scientific Agent Skills [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md) [![arXiv](https://img.shields.io/badge/arXiv-2609.00065-b31b1b.svg)](https://arxiv.org/abs/2609.00065) [![Version](https://img.shields.io/badge/Version-2.72.0-blue.svg)](pyproject.toml) [![Skills](https://img.shields.io/badge/Skills-177-brightgreen.svg)](#-whats-included) [![Databases](https://img.shields.io/badge/Databases-100%2B-orange.svg)](#-whats-included) [![Agent Skills](https://im",
+        "topics": [
+          "agent-skills",
+          "ai-scientist",
+          "bioinformatics",
+          "chemoinformatics",
+          "claude",
+          "claude-skills",
+          "claudecode",
+          "clinical-research",
+          "computational-biology",
+          "data-analysis",
+          "drug-discovery",
+          "genomics",
+          "materials-science",
+          "metabolomics",
+          "proteomics",
+          "scientific-computing",
+          "scientific-visualization"
+        ],
+        "updated_at": "2026-10-17T11:41:32Z"
+      },
+      "repo": {
+        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+        "forks": 4597,
+        "full_name": "K-Dense-AI/scientific-agent-skills",
+        "language": "Python",
+        "name": "scientific-agent-skills",
+        "owner": "K-Dense-AI",
+        "rank": 5,
+        "stars_today": 879,
+        "total_stars": 51907,
+        "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.48,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 71.58
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 879 stars today; score 71.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-11-20T18:36:20Z",
+        "default_branch": "main",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "fork": false,
+        "full_name": "anthropics/claude-plugins-official",
+        "homepage": "https://code.claude.com/docs/en/plugins",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1163,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-17T07:36:42Z",
+        "readme_excerpt": "# Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. > **\u26a0\ufe0f Important:** Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or other software are included in plugins and cannot verify that they will work as intended or that they won't change. See each plugin's homepage for more information. ## Structure - **`/plugins`** - Internal plugins developed and maintained by Anthropic - **`/ext",
+        "topics": [
+          "claude-code",
+          "mcp",
+          "skills"
+        ],
+        "updated_at": "2026-10-17T11:40:18Z"
+      },
+      "repo": {
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "forks": 4430,
+        "full_name": "anthropics/claude-plugins-official",
+        "language": "Python",
+        "name": "claude-plugins-official",
+        "owner": "anthropics",
+        "rank": 1,
+        "stars_today": 1383,
+        "total_stars": 41121,
+        "url": "https://github.com/anthropics/claude-plugins-official"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 9.04,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 68.93
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 1383 stars today; score 68.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-21T23:23:51Z",
+        "default_branch": "main",
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "fork": false,
+        "full_name": "akitaonrails/ai-memory",
+        "homepage": null,
+        "latest_release": "v3.1.0",
+        "license_spdx": "MIT",
+        "open_issues": 35,
+        "primary_language": "Rust",
+        "pushed_at": "2026-10-16T16:57:33Z",
+        "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/logo-dark.png\"> <img alt=\"ai-memory\" src=\"docs/logo-light.png\" width=\"480\"> </picture> </p> > Long-term memory for AI coding agents. Quit Claude Code mid-task, > start OpenAI Codex in the same directory, continue without > re-explaining the architecture, the failed approaches, or the open > questions. **Website: [aimemory.sh](https://aimemory.sh)** [![Website](https://img.shields.io/badge/website-aimemory.sh-b",
+        "topics": [],
+        "updated_at": "2026-10-17T11:42:22Z"
+      },
+      "repo": {
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "forks": 692,
+        "full_name": "akitaonrails/ai-memory",
+        "language": "Rust",
+        "name": "ai-memory",
+        "owner": "akitaonrails",
+        "rank": 6,
+        "stars_today": 159,
+        "total_stars": 9670,
+        "url": "https://github.com/akitaonrails/ai-memory"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.51,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 68.31
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 159 stars today; score 68.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-02-22T17:41:21Z",
+        "default_branch": "main",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "fork": false,
+        "full_name": "anthropics/claude-code",
+        "homepage": "https://code.claude.com/docs/en/overview",
+        "latest_release": "v2.1.302",
+        "license_spdx": null,
+        "open_issues": 15128,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-16T20:53:06Z",
+        "readme_excerpt": "# Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code) [npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your t",
+        "topics": [],
+        "updated_at": "2026-10-17T11:40:51Z"
+      },
+      "repo": {
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "forks": 26856,
+        "full_name": "anthropics/claude-code",
+        "language": "TypeScript",
+        "name": "claude-code",
+        "owner": "anthropics",
+        "rank": 9,
+        "stars_today": 168,
+        "total_stars": 151351,
+        "url": "https://github.com/anthropics/claude-code"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.11,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 66.51
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 168 stars today; score 66.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-16T12:41:46Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "android/skills",
+        "homepage": null,
+        "latest_release": "v1.0.15",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 37,
+        "primary_language": "Kotlin",
+        "pushed_at": "2026-10-16T10:07:27Z",
+        "readme_excerpt": "## Android skills **Android skills** are a dedicated repository of **AI-optimized, modular instructions** and resources, to help agents better understand and execute specific patterns that follow the best practices and guidance on Android development from [developer.android.com](https://developer.android.com). Android skills follow the [open-standard agent skills](https://agentskills.io/home) - markdown files (SKILL.md) that provide a technical specification of a task, and **ground LLMs** with i",
+        "topics": [
+          "skills"
+        ],
+        "updated_at": "2026-10-17T11:42:45Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 542,
+        "full_name": "android/skills",
+        "language": "Kotlin",
+        "name": "skills",
+        "owner": "android",
+        "rank": 7,
+        "stars_today": 368,
+        "total_stars": 8240,
+        "url": "https://github.com/android/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 4.9,
+        "momentum": 4.18,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 64.68
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Kotlin project with 368 stars today; score 64.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-08T13:52:57Z",
+        "default_branch": "main",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "fork": false,
+        "full_name": "HKUDS/CLI-Anything",
+        "homepage": "https://clianything.cc/",
+        "latest_release": "v0.4.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 181,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-22T02:01:29Z",
+        "readme_excerpt": "<h1 align=\"center\"><img src=\"assets/icon.png\" alt=\"\" width=\"64\" style=\"vertical-align: middle;\">&nbsp; CLI-Anything: Making ALL Software Agent-Native</h1> <div align=\"center\"> <a href=\"https://www.star-history.com/hkuds/cli-anything\"><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=HKUDS/CLI-Anything&amp;type=trending&amp;theme=dark\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://api.star-history.com/badge?repo=HKUDS/CLI-Anythin",
+        "topics": [],
+        "updated_at": "2026-10-17T11:41:01Z"
+      },
+      "repo": {
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "forks": 4880,
+        "full_name": "HKUDS/CLI-Anything",
+        "language": "Python",
+        "name": "CLI-Anything",
+        "owner": "HKUDS",
+        "rank": 4,
+        "stars_today": 580,
+        "total_stars": 53749,
+        "url": "https://github.com/HKUDS/CLI-Anything"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.45,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 61.16
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 580 stars today; score 61.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/MadsLorentzen",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+        "forks": 16740,
+        "full_name": "sponsors/MadsLorentzen",
+        "language": "Python",
+        "name": "MadsLorentzen",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 1397,
+        "total_stars": 49172,
+        "url": "https://github.com/sponsors/MadsLorentzen"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 8.95,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 47.1
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1397 stars today; score 47.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 41927,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 1145,
+        "total_stars": 281917,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 7.82,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 40.77
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 1145 stars today; score 40.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/anomalyco",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The open source coding agent.",
+        "forks": 28800,
+        "full_name": "sponsors/anomalyco",
+        "language": "TypeScript",
+        "name": "anomalyco",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 488,
+        "total_stars": 214557,
+        "url": "https://github.com/sponsors/anomalyco"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.08,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 33.23
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 488 stars today; score 33.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/debpalash",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "forks": 7880,
+        "full_name": "sponsors/debpalash",
+        "language": "Python",
+        "name": "debpalash",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 2135,
+        "total_stars": 72144,
+        "url": "https://github.com/sponsors/debpalash"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 10.7,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.37,
+        "technical_quality": 3.5,
+        "total": 28.27
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 2135 stars today; score 28.3/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-10-17",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is stablyai/orca."
+}

@@ -1,0 +1,26 @@
+GitHub Trending: AI workflow signal - 2026-10-17
+
+Today leans toward AI workflow signal; the strongest pick is stablyai/orca.
+
+Top picks
+1. stablyai/orca - 78.0/100
+   https://github.com/stablyai/orca
+   AI Workflow, DevTools: TypeScript project with 1102 stars today; score 78.0/100.
+2. akitaonrails/ai-memory - 68.3/100
+   https://github.com/akitaonrails/ai-memory
+   AI Workflow, DevTools: Rust project with 159 stars today; score 68.3/100.
+3. anthropics/claude-code - 66.5/100
+   https://github.com/anthropics/claude-code
+   AI Workflow, DevTools: TypeScript project with 168 stars today; score 66.5/100.
+4. sponsors/anomalyco - 33.2/100
+   https://github.com/sponsors/anomalyco
+   AI Workflow, Watch: TypeScript project with 488 stars today; score 33.2/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- stablyai/orca: 78.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 1102 stars today; score 78.0/100.
+- akitaonrails/ai-memory: 68.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Rust project with 159 stars today; score 68.3/100.
+- anthropics/claude-code: 66.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 168 stars today; score 66.5/100.
+- sponsors/anomalyco: 33.2/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: TypeScript project with 488 stars today; score 33.2/100.
+
+Generated for 2026-10-17 from GitHub Trending daily.
