@@ -1,0 +1,21 @@
+GitHub Trending: AI workflow signal - 2026-10-18
+
+Today leans toward AI workflow signal; the strongest pick is Comfy-Org/ComfyUI.
+
+Top picks
+1. Comfy-Org/ComfyUI - 68.3/100
+   https://github.com/Comfy-Org/ComfyUI
+   AI Workflow, DevTools: Python project with 155 stars today; score 68.3/100.
+2. mlabonne/llm-course - 64.8/100
+   https://github.com/mlabonne/llm-course
+   AI Workflow, Try Today: Unknown project with 81 stars today; score 64.8/100.
+3. Kruk2/jasna - 62.7/100
+   https://github.com/Kruk2/jasna
+   AI Workflow, Try Today: Python project with 115 stars today; score 62.7/100.
+
+Full reviewed list
+- Comfy-Org/ComfyUI: 68.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 155 stars today; score 68.3/100.
+- mlabonne/llm-course: 64.8/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Unknown project with 81 stars today; score 64.8/100.
+- Kruk2/jasna: 62.7/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 115 stars today; score 62.7/100.
+
+Generated for 2026-10-18 from GitHub Trending daily.

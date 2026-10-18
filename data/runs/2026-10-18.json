@@ -1,0 +1,871 @@
+{
+  "date": "2026-10-18",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-01-17T03:15:56Z",
+        "default_branch": "master",
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+        "fork": false,
+        "full_name": "Comfy-Org/ComfyUI",
+        "homepage": "https://www.comfy.org/",
+        "latest_release": "v0.41.0",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 5243,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-18T05:20:10Z",
+        "readme_excerpt": "<div align=\"center\"> # ComfyUI **The most powerful and modular AI engine for content creation.** [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shield]][matrix-url] <br> [![][github-release-shield]][github-release-link] [![][github-release-date-shield]][github-release-link] [![][github-downloads-shield]][github-downloads-link] [![][github-downloads-latest-shield]][github-downloads-link] [m",
+        "topics": [
+          "ai",
+          "comfy",
+          "comfyui",
+          "python",
+          "pytorch",
+          "stable-diffusion"
+        ],
+        "updated_at": "2026-10-18T12:06:58Z"
+      },
+      "repo": {
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+        "forks": 16461,
+        "full_name": "Comfy-Org/ComfyUI",
+        "language": "Python",
+        "name": "ComfyUI",
+        "owner": "Comfy-Org",
+        "rank": 13,
+        "stars_today": 155,
+        "total_stars": 138156,
+        "url": "https://github.com/Comfy-Org/ComfyUI"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.46,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 68.26
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 155 stars today; score 68.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-06-17T22:16:25Z",
+        "default_branch": "main",
+        "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "fork": false,
+        "full_name": "mlabonne/llm-course",
+        "homepage": "https://mlabonne.github.io/blog/",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 92,
+        "primary_language": null,
+        "pushed_at": "2026-02-05T13:09:26Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"img/banner.png\" alt=\"LLM Course\"> <p align=\"center\"> \ud835\udd4f <a href=\"https://twitter.com/maximelabonne\">Follow me on X</a> \u2022 \ud83e\udd17 <a href=\"https://huggingface.co/mlabonne\">Hugging Face</a> \u2022 \ud83d\udcbb <a href=\"https://mlabonne.github.io/blog\">Blog</a> \u2022 \ud83d\udcd9 <a href=\"https://packt.link/a/9781836200079\">LLM Engineer's Handbook</a> </p> </div> <br/> <a href=\"https://a.co/d/a2M67rE\"><img align=\"right\" width=\"25%\" src=\"https://i.imgur.com/7iNjEq2.png\" alt=\"LLM Engineer's Handbook Cover\"/",
+        "topics": [
+          "course",
+          "large-language-models",
+          "llm",
+          "machine-learning",
+          "roadmap"
+        ],
+        "updated_at": "2026-10-18T12:06:50Z"
+      },
+      "repo": {
+        "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "forks": 9771,
+        "full_name": "mlabonne/llm-course",
+        "language": null,
+        "name": "llm-course",
+        "owner": "mlabonne",
+        "rank": 11,
+        "stars_today": 81,
+        "total_stars": 83772,
+        "url": "https://github.com/mlabonne/llm-course"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.47,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 64.77
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Unknown project with 81 stars today; score 64.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-18T21:13:39Z",
+        "default_branch": "main",
+        "description": "Video restoration tool",
+        "fork": false,
+        "full_name": "Kruk2/jasna",
+        "homepage": null,
+        "latest_release": "v0.11.2",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 56,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-18T11:43:28Z",
+        "readme_excerpt": "> **The only places to get a genuine License code for the supporter models are [Buy Me a Coffee](https://buymeacoffee.com/kruk2), [Unifans](https://app.unifans.io/c/kruk2), and for China the seller in the [Chinese README](README.zh.md#\u5728\u95f2\u9c7c\u8d2d\u4e70).** > > **\u652f\u6301\u8005\u6a21\u578b\u7684\u6b63\u7248\u8bb8\u53ef\u8bc1\u7801\u53ea\u80fd\u901a\u8fc7 [Buy Me a Coffee](https://buymeacoffee.com/kruk2)\u3001[Unifans](https://app.unifans.io/c/kruk2) \u6216 [\u95f2\u9c7c](README.zh.md#\u5728\u95f2\u9c7c\u8d2d\u4e70) \u83b7\u53d6\u3002** [**English**](README.md) | [\u65e5\u672c\u8a9e](README.ja.md) | [\u4e2d\u6587](README.zh.md) # <img width=\"32\" src=\"https://github.c",
+        "topics": [],
+        "updated_at": "2026-10-18T12:08:20Z"
+      },
+      "repo": {
+        "description": "Video restoration tool",
+        "forks": 171,
+        "full_name": "Kruk2/jasna",
+        "language": "Python",
+        "name": "jasna",
+        "owner": "Kruk2",
+        "rank": 12,
+        "stars_today": 115,
+        "total_stars": 2199,
+        "url": "https://github.com/Kruk2/jasna"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.45,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 62.7
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 115 stars today; score 62.7/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-06-02T21:24:20Z",
+        "default_branch": "main",
+        "description": "\ud83c\udf0a The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "fork": false,
+        "full_name": "ruvnet/ruflo",
+        "homepage": "https://Cognitum.One",
+        "latest_release": "v3.57.0",
+        "license_spdx": "MIT",
+        "open_issues": 1050,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-18T11:13:04Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://cognitum.one/agentic-engineering\"><img src=\"ruflo/assets/ruflo-neon-flicker.gif\" alt=\"Ruflo animated neon sign\" width=\"100%\"></a> **An agent meta-harness for Claude Code and Codex.** <!-- Try Ruflo \u2014 the 3 badges first-time visitors actually act on --> [![npm version (ruflo)](https://img.shields.io/npm/v/ruflo?label=npx%20ruflo&style=for-the-badge&logo=npm&color=cb3837)](https://www.npmjs.com/package/ruflo) [![MIT License](https://img.shields.io/badge/Licens",
+        "topics": [
+          "agentic-ai",
+          "agentic-framework",
+          "agentic-workflow",
+          "agents",
+          "ai-agents",
+          "ai-assistant",
+          "ai-skills",
+          "autonomous-agents",
+          "claude",
+          "codex",
+          "dsh-plugin",
+          "harness",
+          "mcp-server",
+          "multi-agent",
+          "multi-agent-systems",
+          "npm",
+          "skills",
+          "swarm",
+          "swarm-intelligence",
+          "typescript"
+        ],
+        "updated_at": "2026-10-18T12:08:14Z"
+      },
+      "repo": {
+        "description": "\ud83c\udf0a The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "forks": 9015,
+        "full_name": "ruvnet/ruflo",
+        "language": "TypeScript",
+        "name": "ruflo",
+        "owner": "ruvnet",
+        "rank": 5,
+        "stars_today": 502,
+        "total_stars": 76292,
+        "url": "https://github.com/ruvnet/ruflo"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.93,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 77.23
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 502 stars today; score 77.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-17T03:28:57Z",
+        "default_branch": "main",
+        "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "fork": false,
+        "full_name": "stablyai/orca",
+        "homepage": "https://orca.dev",
+        "latest_release": "v1.4.229",
+        "license_spdx": "MIT",
+        "open_issues": 8484,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-18T12:04:55Z",
+        "readme_excerpt": "<h1 align=\"center\"> <a href=\"https://onOrca.dev\"><img src=\"resources/build/icon.png\" alt=\"Orca\" width=\"64\" valign=\"middle\" /></a> Orca </h1> <p align=\"center\"> <a href=\"https://github.com/stablyai/orca\"><img src=\"https://img.shields.io/github/stars/stablyai/orca?style=flat&amp;label=%E2%98%85&amp;color=08C\" alt=\"GitHub stars\" /></a> <a href=\"https://github.com/stablyai/orca/releases\"><img src=\"docs/assets/readme-downloads.svg\" alt=\"Total downloads across all releases\" /></a> <img src=\"https://im",
+        "topics": [
+          "ade",
+          "agent-ide",
+          "ai-agents",
+          "automation",
+          "bot",
+          "claude-code",
+          "codex",
+          "ghostty",
+          "grok-bot",
+          "hermes-agent",
+          "mobile-app",
+          "muse",
+          "openclaw",
+          "opencode",
+          "orchestration",
+          "pi",
+          "runtime",
+          "terminal",
+          "worktrees",
+          "yc-backed"
+        ],
+        "updated_at": "2026-10-18T12:06:13Z"
+      },
+      "repo": {
+        "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "forks": 6139,
+        "full_name": "stablyai/orca",
+        "language": "TypeScript",
+        "name": "orca",
+        "owner": "stablyai",
+        "rank": 7,
+        "stars_today": 1146,
+        "total_stars": 95947,
+        "url": "https://github.com/stablyai/orca"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.09,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 72.94
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1146 stars today; score 72.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-21T23:23:51Z",
+        "default_branch": "main",
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "fork": false,
+        "full_name": "akitaonrails/ai-memory",
+        "homepage": null,
+        "latest_release": "v3.1.1",
+        "license_spdx": "MIT",
+        "open_issues": 30,
+        "primary_language": "Rust",
+        "pushed_at": "2026-10-17T19:53:00Z",
+        "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/logo-dark.png\"> <img alt=\"ai-memory\" src=\"docs/logo-light.png\" width=\"480\"> </picture> </p> > Long-term memory for AI coding agents. Quit Claude Code mid-task, > start OpenAI Codex in the same directory, continue without > re-explaining the architecture, the failed approaches, or the open > questions. **Website: [aimemory.sh](https://aimemory.sh)** [![Website](https://img.shields.io/badge/website-aimemory.sh-b",
+        "topics": [],
+        "updated_at": "2026-10-18T12:06:21Z"
+      },
+      "repo": {
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "forks": 736,
+        "full_name": "akitaonrails/ai-memory",
+        "language": "Rust",
+        "name": "ai-memory",
+        "owner": "akitaonrails",
+        "rank": 6,
+        "stars_today": 513,
+        "total_stars": 10186,
+        "url": "https://github.com/akitaonrails/ai-memory"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.83,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 69.63
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 513 stars today; score 69.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-01-17T03:15:56Z",
+        "default_branch": "master",
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+        "fork": false,
+        "full_name": "Comfy-Org/ComfyUI",
+        "homepage": "https://www.comfy.org/",
+        "latest_release": "v0.41.0",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 5243,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-18T05:20:10Z",
+        "readme_excerpt": "<div align=\"center\"> # ComfyUI **The most powerful and modular AI engine for content creation.** [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shield]][matrix-url] <br> [![][github-release-shield]][github-release-link] [![][github-release-date-shield]][github-release-link] [![][github-downloads-shield]][github-downloads-link] [![][github-downloads-latest-shield]][github-downloads-link] [m",
+        "topics": [
+          "ai",
+          "comfy",
+          "comfyui",
+          "python",
+          "pytorch",
+          "stable-diffusion"
+        ],
+        "updated_at": "2026-10-18T12:06:58Z"
+      },
+      "repo": {
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+        "forks": 16461,
+        "full_name": "Comfy-Org/ComfyUI",
+        "language": "Python",
+        "name": "ComfyUI",
+        "owner": "Comfy-Org",
+        "rank": 13,
+        "stars_today": 155,
+        "total_stars": 138156,
+        "url": "https://github.com/Comfy-Org/ComfyUI"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.46,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 68.26
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 155 stars today; score 68.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-11-20T18:36:20Z",
+        "default_branch": "main",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "fork": false,
+        "full_name": "anthropics/claude-plugins-official",
+        "homepage": "https://code.claude.com/docs/en/plugins",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1176,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-18T07:34:19Z",
+        "readme_excerpt": "# Claude Code Plugins Directory A curated directory of high-quality plugins for Claude Code. > **\u26a0\ufe0f Important:** Make sure you trust a plugin before installing, updating, or using it. Anthropic does not control what MCP servers, files, or other software are included in plugins and cannot verify that they will work as intended or that they won't change. See each plugin's homepage for more information. ## Structure - **`/plugins`** - Internal plugins developed and maintained by Anthropic - **`/ext",
+        "topics": [
+          "claude-code",
+          "mcp",
+          "skills"
+        ],
+        "updated_at": "2026-10-18T12:08:35Z"
+      },
+      "repo": {
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "forks": 4503,
+        "full_name": "anthropics/claude-plugins-official",
+        "language": "Python",
+        "name": "claude-plugins-official",
+        "owner": "anthropics",
+        "rank": 2,
+        "stars_today": 1187,
+        "total_stars": 42280,
+        "url": "https://github.com/anthropics/claude-plugins-official"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 7.96,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 67.85
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 1187 stars today; score 67.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-06-17T22:16:25Z",
+        "default_branch": "main",
+        "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "fork": false,
+        "full_name": "mlabonne/llm-course",
+        "homepage": "https://mlabonne.github.io/blog/",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 92,
+        "primary_language": null,
+        "pushed_at": "2026-02-05T13:09:26Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"img/banner.png\" alt=\"LLM Course\"> <p align=\"center\"> \ud835\udd4f <a href=\"https://twitter.com/maximelabonne\">Follow me on X</a> \u2022 \ud83e\udd17 <a href=\"https://huggingface.co/mlabonne\">Hugging Face</a> \u2022 \ud83d\udcbb <a href=\"https://mlabonne.github.io/blog\">Blog</a> \u2022 \ud83d\udcd9 <a href=\"https://packt.link/a/9781836200079\">LLM Engineer's Handbook</a> </p> </div> <br/> <a href=\"https://a.co/d/a2M67rE\"><img align=\"right\" width=\"25%\" src=\"https://i.imgur.com/7iNjEq2.png\" alt=\"LLM Engineer's Handbook Cover\"/",
+        "topics": [
+          "course",
+          "large-language-models",
+          "llm",
+          "machine-learning",
+          "roadmap"
+        ],
+        "updated_at": "2026-10-18T12:06:50Z"
+      },
+      "repo": {
+        "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "forks": 9771,
+        "full_name": "mlabonne/llm-course",
+        "language": null,
+        "name": "llm-course",
+        "owner": "mlabonne",
+        "rank": 11,
+        "stars_today": 81,
+        "total_stars": 83772,
+        "url": "https://github.com/mlabonne/llm-course"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.47,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 64.77
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Unknown project with 81 stars today; score 64.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-16T12:41:46Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "android/skills",
+        "homepage": null,
+        "latest_release": "v1.0.15",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 45,
+        "primary_language": "Kotlin",
+        "pushed_at": "2026-10-16T10:07:27Z",
+        "readme_excerpt": "## Android skills **Android skills** are a dedicated repository of **AI-optimized, modular instructions** and resources, to help agents better understand and execute specific patterns that follow the best practices and guidance on Android development from [developer.android.com](https://developer.android.com). Android skills follow the [open-standard agent skills](https://agentskills.io/home) - markdown files (SKILL.md) that provide a technical specification of a task, and **ground LLMs** with i",
+        "topics": [
+          "skills"
+        ],
+        "updated_at": "2026-10-18T12:08:32Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 560,
+        "full_name": "android/skills",
+        "language": "Kotlin",
+        "name": "skills",
+        "owner": "android",
+        "rank": 10,
+        "stars_today": 381,
+        "total_stars": 8601,
+        "url": "https://github.com/android/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 4.9,
+        "momentum": 3.75,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 64.25
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Kotlin project with 381 stars today; score 64.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-18T21:13:39Z",
+        "default_branch": "main",
+        "description": "Video restoration tool",
+        "fork": false,
+        "full_name": "Kruk2/jasna",
+        "homepage": null,
+        "latest_release": "v0.11.2",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 56,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-18T11:43:28Z",
+        "readme_excerpt": "> **The only places to get a genuine License code for the supporter models are [Buy Me a Coffee](https://buymeacoffee.com/kruk2), [Unifans](https://app.unifans.io/c/kruk2), and for China the seller in the [Chinese README](README.zh.md#\u5728\u95f2\u9c7c\u8d2d\u4e70).** > > **\u652f\u6301\u8005\u6a21\u578b\u7684\u6b63\u7248\u8bb8\u53ef\u8bc1\u7801\u53ea\u80fd\u901a\u8fc7 [Buy Me a Coffee](https://buymeacoffee.com/kruk2)\u3001[Unifans](https://app.unifans.io/c/kruk2) \u6216 [\u95f2\u9c7c](README.zh.md#\u5728\u95f2\u9c7c\u8d2d\u4e70) \u83b7\u53d6\u3002** [**English**](README.md) | [\u65e5\u672c\u8a9e](README.ja.md) | [\u4e2d\u6587](README.zh.md) # <img width=\"32\" src=\"https://github.c",
+        "topics": [],
+        "updated_at": "2026-10-18T12:08:20Z"
+      },
+      "repo": {
+        "description": "Video restoration tool",
+        "forks": 171,
+        "full_name": "Kruk2/jasna",
+        "language": "Python",
+        "name": "jasna",
+        "owner": "Kruk2",
+        "rank": 12,
+        "stars_today": 115,
+        "total_stars": 2199,
+        "url": "https://github.com/Kruk2/jasna"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.45,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 62.7
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 115 stars today; score 62.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-08T13:52:57Z",
+        "default_branch": "main",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "fork": false,
+        "full_name": "HKUDS/CLI-Anything",
+        "homepage": "https://clianything.cc/",
+        "latest_release": "v0.4.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 192,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-22T02:01:29Z",
+        "readme_excerpt": "<h1 align=\"center\"><img src=\"assets/icon.png\" alt=\"\" width=\"64\" style=\"vertical-align: middle;\">&nbsp; CLI-Anything: Making ALL Software Agent-Native</h1> <div align=\"center\"> <a href=\"https://www.star-history.com/hkuds/cli-anything\"><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=HKUDS/CLI-Anything&amp;type=trending&amp;theme=dark\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://api.star-history.com/badge?repo=HKUDS/CLI-Anythin",
+        "topics": [],
+        "updated_at": "2026-10-18T12:03:28Z"
+      },
+      "repo": {
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "forks": 4925,
+        "full_name": "HKUDS/CLI-Anything",
+        "language": "Python",
+        "name": "CLI-Anything",
+        "owner": "HKUDS",
+        "rank": 8,
+        "stars_today": 582,
+        "total_stars": 54338,
+        "url": "https://github.com/HKUDS/CLI-Anything"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.8,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 60.51
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 582 stars today; score 60.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/MadsLorentzen",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+        "forks": 17075,
+        "full_name": "sponsors/MadsLorentzen",
+        "language": "Python",
+        "name": "MadsLorentzen",
+        "owner": "sponsors",
+        "rank": 1,
+        "stars_today": 2213,
+        "total_stars": 51417,
+        "url": "https://github.com/sponsors/MadsLorentzen"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 50.15
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 2213 stars today; score 50.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-23T01:57:42Z",
+        "default_branch": "main",
+        "description": "Cursor plugin specification and official plugins",
+        "fork": false,
+        "full_name": "cursor/plugins",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 278,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-18T07:31:08Z",
+        "readme_excerpt": "# Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own `.cursor-plugin/plugin.json` manifest. ## Plugins | `name` | Plugin | Author | Category | `description` (from marketplace) | |:-------|:-------|:-------|:---------|:-------------------------------------| | `teaching` | [Teaching](teaching/) | Cursor | Utilities | Skill mapping, practice plans, and learning retrospectives. |",
+        "topics": [],
+        "updated_at": "2026-10-18T12:05:46Z"
+      },
+      "repo": {
+        "description": "Cursor plugin specification and official plugins",
+        "forks": 1228,
+        "full_name": "cursor/plugins",
+        "language": "TypeScript",
+        "name": "plugins",
+        "owner": "cursor",
+        "rank": 4,
+        "stars_today": 351,
+        "total_stars": 12506,
+        "url": "https://github.com/cursor/plugins"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.5,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 2.8,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 45.47
+      },
+      "tags": [
+        "DevTools"
+      ],
+      "verdict": "DevTools: TypeScript project with 351 stars today; score 45.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/anomalyco",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The open source coding agent.",
+        "forks": 28922,
+        "full_name": "sponsors/anomalyco",
+        "language": "TypeScript",
+        "name": "anomalyco",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 1417,
+        "total_stars": 215934,
+        "url": "https://github.com/sponsors/anomalyco"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 8.69,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.55,
+        "technical_quality": 3.5,
+        "total": 33.18
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 1417 stars today; score 33.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/debpalash",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "forks": 8122,
+        "full_name": "sponsors/debpalash",
+        "language": "Python",
+        "name": "debpalash",
+        "owner": "sponsors",
+        "rank": 9,
+        "stars_today": 2098,
+        "total_stars": 74209,
+        "url": "https://github.com/sponsors/debpalash"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 10.41,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.25,
+        "technical_quality": 3.5,
+        "total": 27.86
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 2098 stars today; score 27.9/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-10-18",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is Comfy-Org/ComfyUI."
+}
