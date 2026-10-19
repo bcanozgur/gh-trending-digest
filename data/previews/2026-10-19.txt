@@ -1,0 +1,21 @@
+GitHub Trending: AI workflow signal - 2026-10-19
+
+Today leans toward AI workflow signal; the strongest pick is headroomlabs-ai/headroom.
+
+Top picks
+1. headroomlabs-ai/headroom - 74.5/100
+   https://github.com/headroomlabs-ai/headroom
+   AI Workflow, DevTools: Python project with 317 stars today; score 74.5/100.
+2. shiyu-coder/Kronos - 55.0/100
+   https://github.com/shiyu-coder/Kronos
+   AI Workflow, Try Today: Python project with 355 stars today; score 55.0/100.
+3. withmarbleapp/os-taxonomy - 49.6/100
+   https://github.com/withmarbleapp/os-taxonomy
+   AI Workflow: JavaScript project with 427 stars today; score 49.6/100.
+
+Full reviewed list
+- headroomlabs-ai/headroom: 74.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 317 stars today; score 74.5/100.
+- shiyu-coder/Kronos: 55.0/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 355 stars today; score 55.0/100.
+- withmarbleapp/os-taxonomy: 49.6/100 [AI Workflow] AI Workflow: JavaScript project with 427 stars today; score 49.6/100.
+
+Generated for 2026-10-19 from GitHub Trending daily.
