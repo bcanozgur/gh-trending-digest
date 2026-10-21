@@ -1,0 +1,23 @@
+GitHub Trending: daily developer signal - 2026-10-21
+
+Today leans toward daily developer signal; the strongest pick is twentyhq/twenty.
+
+Top picks
+1. twentyhq/twenty - 55.0/100
+   https://github.com/twentyhq/twenty
+   AI Workflow, Try Today: TypeScript project with 105 stars today; score 55.0/100.
+2. sponsors/supabase - 33.1/100
+   https://github.com/sponsors/supabase
+   AI Workflow, Watch: TypeScript project with 509 stars today; score 33.1/100.
+   Caution: Weak onboarding evidence.
+3. sponsors/strelov1 - 23.0/100
+   https://github.com/sponsors/strelov1
+   Watch, Hype Risk: Go project with 405 stars today; score 23.0/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- twentyhq/twenty: 55.0/100 [AI Workflow, Try Today] AI Workflow, Try Today: TypeScript project with 105 stars today; score 55.0/100.
+- sponsors/supabase: 33.1/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: TypeScript project with 509 stars today; score 33.1/100.
+- sponsors/strelov1: 23.0/100 [Watch, Hype Risk] Watch, Hype Risk: Go project with 405 stars today; score 23.0/100.
+
+Generated for 2026-10-21 from GitHub Trending daily.

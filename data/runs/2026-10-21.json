@@ -1,0 +1,900 @@
+{
+  "date": "2026-10-21",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-12-01T13:04:40Z",
+        "default_branch": "main",
+        "description": "The open alternative to Salesforce, designed for AI.",
+        "fork": false,
+        "full_name": "twentyhq/twenty",
+        "homepage": "https://twenty.com",
+        "latest_release": "twenty/v2.50.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 136,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-21T13:07:34Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://www.twenty.com\"> <img src=\"./packages/twenty-website/public/images/core/logo.svg\" width=\"100px\" alt=\"Twenty logo\" /> </a> </p> <h2 align=\"center\">The #1 Open-Source CRM</h2> <p align=\"center\"><a href=\"https://twenty.com\"><img src=\"./packages/twenty-website/public/images/readme/globe-icon.svg\" width=\"12\" height=\"12\"/> Website</a> \u00b7 <a href=\"https://docs.twenty.com\"><img src=\"./packages/twenty-website/public/images/readme/book-icon.svg\" width=\"12\" height=\"12\"/> ",
+        "topics": [
+          "crm",
+          "crm-system",
+          "customer",
+          "good-first-issue",
+          "graphql",
+          "hacktoberfest",
+          "javascript",
+          "marketing",
+          "monorepo",
+          "nestjs",
+          "open-source",
+          "postgresql",
+          "react",
+          "reactjs",
+          "sales",
+          "typescript",
+          "web"
+        ],
+        "updated_at": "2026-10-21T13:06:49Z"
+      },
+      "repo": {
+        "description": "The open alternative to Salesforce, designed for AI.",
+        "forks": 9643,
+        "full_name": "twentyhq/twenty",
+        "language": "TypeScript",
+        "name": "twenty",
+        "owner": "twentyhq",
+        "rank": 9,
+        "stars_today": 105,
+        "total_stars": 58826,
+        "url": "https://github.com/twentyhq/twenty"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.73,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 54.98
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 105 stars today; score 55.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/supabase",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+        "forks": 16826,
+        "full_name": "sponsors/supabase",
+        "language": "TypeScript",
+        "name": "supabase",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 509,
+        "total_stars": 112641,
+        "url": "https://github.com/sponsors/supabase"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.96,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 33.11
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 509 stars today; score 33.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/strelov1",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "freehire \u2014 the open-source search engine for job seekers",
+        "forks": 229,
+        "full_name": "sponsors/strelov1",
+        "language": "Go",
+        "name": "strelov1",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 405,
+        "total_stars": 2035,
+        "url": "https://github.com/sponsors/strelov1"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.25,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.33,
+        "technical_quality": 3.5,
+        "total": 22.98
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Go project with 405 stars today; score 23.0/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-03T15:49:07Z",
+        "default_branch": "v8",
+        "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+        "fork": false,
+        "full_name": "Graphify-Labs/graphify",
+        "homepage": "https://www.graphify.com",
+        "latest_release": "v0.9.93",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1585,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-20T16:16:19Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://graphify.com\"><img src=\"https://raw.githubusercontent.com/Graphify-Labs/graphify/v8/docs/graphify-logo.png\" width=\"360\" height=\"189\" alt=\"Graphify\"/></a> </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/25296?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-25296\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/25296\" alt=\"Graphify-Labs%2Fgraphify | Trendshift",
+        "topics": [
+          "ai-agents",
+          "antigravity",
+          "ast",
+          "claude-code",
+          "code-analysis",
+          "code-search",
+          "codex",
+          "cursor",
+          "developer-tools",
+          "gemini",
+          "graphify",
+          "graphrag",
+          "knowledge-graph",
+          "leiden",
+          "llm",
+          "mcp",
+          "openclaw",
+          "rag",
+          "skills",
+          "tree-sitter"
+        ],
+        "updated_at": "2026-10-21T13:05:21Z"
+      },
+      "repo": {
+        "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+        "forks": 12588,
+        "full_name": "Graphify-Labs/graphify",
+        "language": "Python",
+        "name": "graphify",
+        "owner": "Graphify-Labs",
+        "rank": 13,
+        "stars_today": 1434,
+        "total_stars": 130974,
+        "url": "https://github.com/Graphify-Labs/graphify"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.72,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 78.02
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1434 stars today; score 78.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-17T03:28:57Z",
+        "default_branch": "main",
+        "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "fork": false,
+        "full_name": "stablyai/orca",
+        "homepage": "https://orca.dev",
+        "latest_release": "v1.4.237",
+        "license_spdx": "MIT",
+        "open_issues": 8560,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-21T13:03:23Z",
+        "readme_excerpt": "<h1 align=\"center\"> <a href=\"https://onOrca.dev\"><img src=\"resources/build/icon.png\" alt=\"Orca\" width=\"64\" valign=\"middle\" /></a> Orca </h1> <p align=\"center\"> <a href=\"https://github.com/stablyai/orca\"><img src=\"https://img.shields.io/github/stars/stablyai/orca?style=flat&amp;label=%E2%98%85&amp;color=08C\" alt=\"GitHub stars\" /></a> <a href=\"https://github.com/stablyai/orca/releases\"><img src=\"docs/assets/readme-downloads.svg\" alt=\"Total downloads across all releases\" /></a> <img src=\"https://im",
+        "topics": [
+          "ade",
+          "agent-ide",
+          "ai-agents",
+          "automation",
+          "bot",
+          "claude-code",
+          "codex",
+          "ghostty",
+          "grok-bot",
+          "hermes-agent",
+          "mobile-app",
+          "muse",
+          "openclaw",
+          "opencode",
+          "orchestration",
+          "pi",
+          "runtime",
+          "terminal",
+          "worktrees",
+          "yc-backed"
+        ],
+        "updated_at": "2026-10-21T13:06:25Z"
+      },
+      "repo": {
+        "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "forks": 6359,
+        "full_name": "stablyai/orca",
+        "language": "TypeScript",
+        "name": "orca",
+        "owner": "stablyai",
+        "rank": 4,
+        "stars_today": 1543,
+        "total_stars": 100584,
+        "url": "https://github.com/stablyai/orca"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.31,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.16
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1543 stars today; score 73.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-07T19:58:51Z",
+        "default_branch": "main",
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+        "fork": false,
+        "full_name": "headroomlabs-ai/headroom",
+        "homepage": "https://docs.headroomlabs.ai/docs",
+        "latest_release": "v0.41.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 506,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-21T04:15:22Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\".github/assets/hero.svg\" alt=\"Headroom \u2014 the context compression layer for AI agents. A 55,957 token agent prompt compresses to the 24,340 tokens actually sent to the model, and the FATAL line at item 67 survives byte for byte.\" width=\"880\"> <a href=\"https://trendshift.io/repositories/20881\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/20881\" alt=\"headroomlabs-ai/headroom | Trendshift \u2014 #1 Repository Of The Day\" width=\"250\" height=\"55\"/></",
+        "topics": [
+          "agent",
+          "ai",
+          "anthropic",
+          "claude-code",
+          "compression",
+          "context-engineering",
+          "context-window",
+          "cursor",
+          "fastapi",
+          "langchain",
+          "llm",
+          "mcp",
+          "openai",
+          "prompt-engineering",
+          "proxy",
+          "python",
+          "rag",
+          "token-optimization",
+          "tokens",
+          "typescript"
+        ],
+        "updated_at": "2026-10-21T13:05:58Z"
+      },
+      "repo": {
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+        "forks": 5977,
+        "full_name": "headroomlabs-ai/headroom",
+        "language": "Python",
+        "name": "headroom",
+        "owner": "headroomlabs-ai",
+        "rank": 5,
+        "stars_today": 477,
+        "total_stars": 77007,
+        "url": "https://github.com/headroomlabs-ai/headroom"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.3,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 70.15
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 477 stars today; score 70.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-18T14:08:44Z",
+        "default_branch": "main",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "fork": false,
+        "full_name": "cloudflare/security-audit-skill",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 77,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-14T19:29:02Z",
+        "readme_excerpt": "# security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting. This is the skill that seeded Cloudflare's vulnerability discovery harness, described in [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness). The harness grew into a multi-stage, f",
+        "topics": [],
+        "updated_at": "2026-10-21T13:07:11Z"
+      },
+      "repo": {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "forks": 2211,
+        "full_name": "cloudflare/security-audit-skill",
+        "language": "JavaScript",
+        "name": "security-audit-skill",
+        "owner": "cloudflare",
+        "rank": 2,
+        "stars_today": 1997,
+        "total_stars": 35149,
+        "url": "https://github.com/cloudflare/security-audit-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 8.81,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 69.36
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 1997 stars today; score 69.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-21T23:23:51Z",
+        "default_branch": "main",
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "fork": false,
+        "full_name": "akitaonrails/ai-memory",
+        "homepage": null,
+        "latest_release": "v3.1.2",
+        "license_spdx": "MIT",
+        "open_issues": 9,
+        "primary_language": "Rust",
+        "pushed_at": "2026-10-21T05:41:57Z",
+        "readme_excerpt": "<p align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/logo-dark.png\"> <img alt=\"ai-memory\" src=\"docs/logo-light.png\" width=\"480\"> </picture> </p> > Long-term memory for AI coding agents. Quit Claude Code mid-task, > start OpenAI Codex in the same directory, continue without > re-explaining the architecture, the failed approaches, or the open > questions. **Website: [aimemory.sh](https://aimemory.sh)** [![Website](https://img.shields.io/badge/website-aimemory.sh-b",
+        "topics": [],
+        "updated_at": "2026-10-21T13:07:10Z"
+      },
+      "repo": {
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "forks": 854,
+        "full_name": "akitaonrails/ai-memory",
+        "language": "Rust",
+        "name": "ai-memory",
+        "owner": "akitaonrails",
+        "rank": 12,
+        "stars_today": 810,
+        "total_stars": 12042,
+        "url": "https://github.com/akitaonrails/ai-memory"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.19,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 68.99
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 810 stars today; score 69.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-01-17T03:15:56Z",
+        "default_branch": "master",
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+        "fork": false,
+        "full_name": "Comfy-Org/ComfyUI",
+        "homepage": "https://www.comfy.org/",
+        "latest_release": "v0.42.1",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 5308,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-21T10:39:52Z",
+        "readme_excerpt": "<div align=\"center\"> # ComfyUI **The most powerful and modular AI engine for content creation.** [![Website][website-shield]][website-url] [![Dynamic JSON Badge][discord-shield]][discord-url] [![Twitter][twitter-shield]][twitter-url] [![Matrix][matrix-shield]][matrix-url] <br> [![][github-release-shield]][github-release-link] [![][github-release-date-shield]][github-release-link] [![][github-downloads-shield]][github-downloads-link] [![][github-downloads-latest-shield]][github-downloads-link] [m",
+        "topics": [
+          "ai",
+          "comfy",
+          "comfyui",
+          "python",
+          "pytorch",
+          "stable-diffusion"
+        ],
+        "updated_at": "2026-10-21T13:05:26Z"
+      },
+      "repo": {
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+        "forks": 16702,
+        "full_name": "Comfy-Org/ComfyUI",
+        "language": "Python",
+        "name": "ComfyUI",
+        "owner": "Comfy-Org",
+        "rank": 7,
+        "stars_today": 914,
+        "total_stars": 141232,
+        "url": "https://github.com/Comfy-Org/ComfyUI"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.19,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 65.79
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 914 stars today; score 65.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-12-01T13:04:40Z",
+        "default_branch": "main",
+        "description": "The open alternative to Salesforce, designed for AI.",
+        "fork": false,
+        "full_name": "twentyhq/twenty",
+        "homepage": "https://twenty.com",
+        "latest_release": "twenty/v2.50.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 136,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-21T13:07:34Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://www.twenty.com\"> <img src=\"./packages/twenty-website/public/images/core/logo.svg\" width=\"100px\" alt=\"Twenty logo\" /> </a> </p> <h2 align=\"center\">The #1 Open-Source CRM</h2> <p align=\"center\"><a href=\"https://twenty.com\"><img src=\"./packages/twenty-website/public/images/readme/globe-icon.svg\" width=\"12\" height=\"12\"/> Website</a> \u00b7 <a href=\"https://docs.twenty.com\"><img src=\"./packages/twenty-website/public/images/readme/book-icon.svg\" width=\"12\" height=\"12\"/> ",
+        "topics": [
+          "crm",
+          "crm-system",
+          "customer",
+          "good-first-issue",
+          "graphql",
+          "hacktoberfest",
+          "javascript",
+          "marketing",
+          "monorepo",
+          "nestjs",
+          "open-source",
+          "postgresql",
+          "react",
+          "reactjs",
+          "sales",
+          "typescript",
+          "web"
+        ],
+        "updated_at": "2026-10-21T13:06:49Z"
+      },
+      "repo": {
+        "description": "The open alternative to Salesforce, designed for AI.",
+        "forks": 9643,
+        "full_name": "twentyhq/twenty",
+        "language": "TypeScript",
+        "name": "twenty",
+        "owner": "twentyhq",
+        "rank": 9,
+        "stars_today": 105,
+        "total_stars": 58826,
+        "url": "https://github.com/twentyhq/twenty"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.73,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 54.98
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 105 stars today; score 55.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-07-01T02:54:32Z",
+        "default_branch": "master",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "fork": false,
+        "full_name": "shiyu-coder/Kronos",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 283,
+        "primary_language": "Python",
+        "pushed_at": "2026-04-13T12:38:49Z",
+        "readme_excerpt": "<div align=\"center\"> <h2><b>Kronos: A Foundation Model for the Language of Financial Markets </b></h2> </div> <div align=\"center\"> </a> <a href=\"https://huggingface.co/NeoQuasar\"> <img src=\"https://img.shields.io/badge/\ud83e\udd17-Hugging_Face-yellow\" alt=\"Hugging Face\"> </a> <a href=\"https://shiyu-coder.github.io/Kronos-demo/\"> <img src=\"https://img.shields.io/badge/\ud83d\ude80-Live_Demo-brightgreen\" alt=\"Live Demo\"> </a> <a href=\"https://github.com/shiyu-coder/Kronos/graphs/commit-activity\"> <img src=\"https://img",
+        "topics": [],
+        "updated_at": "2026-10-21T13:06:02Z"
+      },
+      "repo": {
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "forks": 7045,
+        "full_name": "shiyu-coder/Kronos",
+        "language": "Python",
+        "name": "Kronos",
+        "owner": "shiyu-coder",
+        "rank": 10,
+        "stars_today": 570,
+        "total_stars": 42611,
+        "url": "https://github.com/shiyu-coder/Kronos"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.83,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 50.88
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 570 stars today; score 50.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/MadsLorentzen",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+        "forks": 19236,
+        "full_name": "sponsors/MadsLorentzen",
+        "language": "Python",
+        "name": "MadsLorentzen",
+        "owner": "sponsors",
+        "rank": 1,
+        "stars_today": 3131,
+        "total_stars": 62253,
+        "url": "https://github.com/sponsors/MadsLorentzen"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 50.15
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 3131 stars today; score 50.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/DietrichGebert",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "forks": 9286,
+        "full_name": "sponsors/DietrichGebert",
+        "language": "JavaScript",
+        "name": "DietrichGebert",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 2051,
+        "total_stars": 170770,
+        "url": "https://github.com/sponsors/DietrichGebert"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 8.38,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 36.83
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 2051 stars today; score 36.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/supabase",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+        "forks": 16826,
+        "full_name": "sponsors/supabase",
+        "language": "TypeScript",
+        "name": "supabase",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 509,
+        "total_stars": 112641,
+        "url": "https://github.com/sponsors/supabase"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.96,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 33.11
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 509 stars today; score 33.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/vllm-project",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+        "forks": 23715,
+        "full_name": "sponsors/vllm-project",
+        "language": "Python",
+        "name": "vllm-project",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 439,
+        "total_stars": 94686,
+        "url": "https://github.com/sponsors/vllm-project"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.49,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 32.94
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 439 stars today; score 32.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/strelov1",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "freehire \u2014 the open-source search engine for job seekers",
+        "forks": 229,
+        "full_name": "sponsors/strelov1",
+        "language": "Go",
+        "name": "strelov1",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 405,
+        "total_stars": 2035,
+        "url": "https://github.com/sponsors/strelov1"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.25,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.33,
+        "technical_quality": 3.5,
+        "total": 22.98
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Go project with 405 stars today; score 23.0/100."
+    }
+  ],
+  "subject": "GitHub Trending: daily developer signal - 2026-10-21",
+  "summary": "Today leans toward daily developer signal; the strongest pick is twentyhq/twenty."
+}
