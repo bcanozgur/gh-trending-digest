@@ -1,0 +1,716 @@
+{
+  "date": "2026-10-22",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-12-08T08:21:47Z",
+        "default_branch": "master",
+        "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+        "fork": false,
+        "full_name": "fastapi/fastapi",
+        "homepage": "https://fastapi.tiangolo.com/",
+        "latest_release": "0.159.1",
+        "license_spdx": "MIT",
+        "open_issues": 55,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-22T09:10:14Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://fastapi.tiangolo.com\"><img src=\"https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png\" alt=\"FastAPI\"></a> </p> <p align=\"center\"> <em>FastAPI framework, high performance, easy to learn, fast to code, ready for production</em> </p> <p align=\"center\"> <a href=\"https://github.com/fastapi/fastapi/actions?query=workflow%3ATest+event%3Apush+branch%3Amaster\"> <img src=\"https://github.com/fastapi/fastapi/actions/workflows/test.yml/badge.svg?event=push&branch=mast",
+        "topics": [
+          "api",
+          "async",
+          "asyncio",
+          "fastapi",
+          "framework",
+          "json",
+          "json-schema",
+          "openapi",
+          "openapi3",
+          "pydantic",
+          "python",
+          "python-types",
+          "python3",
+          "redoc",
+          "rest",
+          "starlette",
+          "swagger",
+          "swagger-ui",
+          "uvicorn",
+          "web"
+        ],
+        "updated_at": "2026-10-22T13:05:43Z"
+      },
+      "repo": {
+        "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+        "forks": 10070,
+        "full_name": "fastapi/fastapi",
+        "language": "Python",
+        "name": "fastapi",
+        "owner": "fastapi",
+        "rank": 7,
+        "stars_today": 96,
+        "total_stars": 103446,
+        "url": "https://github.com/fastapi/fastapi"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.01,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 61.04
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: Python project with 96 stars today; score 61.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2011-06-16T01:52:25Z",
+        "default_branch": "master",
+        "description": "The PHP Interpreter",
+        "fork": false,
+        "full_name": "php/php-src",
+        "homepage": "https://www.php.net",
+        "latest_release": "php-8.5.12",
+        "license_spdx": "BSD-3-Clause",
+        "open_issues": 2210,
+        "primary_language": "C",
+        "pushed_at": "2026-10-22T13:07:06Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://www.php.net\"> <img alt=\"PHP\" src=\"https://www.php.net/images/logos/new-php-logo.svg\" width=\"150\"> </a> </div> # The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PHP is distributed under the [Modified BSD License](LICENSE) (SPDX-License-Identifier: `BSD-3-Clause`). [![Test](https://g",
+        "topics": [],
+        "updated_at": "2026-10-22T13:07:36Z"
+      },
+      "repo": {
+        "description": "The PHP Interpreter",
+        "forks": 8276,
+        "full_name": "php/php-src",
+        "language": "C",
+        "name": "php-src",
+        "owner": "php",
+        "rank": 1,
+        "stars_today": 110,
+        "total_stars": 40825,
+        "url": "https://github.com/php/php-src"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.91,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 60.71
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: C project with 110 stars today; score 60.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-07-26T15:43:26Z",
+        "default_branch": "main",
+        "description": "Minecraft \u542f\u52a8\u5668 Plain Craft Launcher\uff08PCL\uff09\u3002",
+        "fork": false,
+        "full_name": "Meloong-Git/PCL",
+        "homepage": "https://meloong.com/PCL",
+        "latest_release": "2.99.0.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 299,
+        "primary_language": "Visual Basic .NET",
+        "pushed_at": "2026-10-20T07:01:33Z",
+        "readme_excerpt": "# Plain Craft Launcher [![Stars](https://img.shields.io/github/stars/Meloong-Git/PCL?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDA",
+        "topics": [
+          "launcher",
+          "minecraft",
+          "minecraft-launcher"
+        ],
+        "updated_at": "2026-10-22T13:04:59Z"
+      },
+      "repo": {
+        "description": "Minecraft \u542f\u52a8\u5668 Plain Craft Launcher\uff08PCL\uff09\u3002",
+        "forks": 1183,
+        "full_name": "Meloong-Git/PCL",
+        "language": "Visual Basic .NET",
+        "name": "PCL",
+        "owner": "Meloong-Git",
+        "rank": 9,
+        "stars_today": 115,
+        "total_stars": 8561,
+        "url": "https://github.com/Meloong-Git/PCL"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.77,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 55.02
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Visual Basic .NET project with 115 stars today; score 55.0/100."
+    },
+    {
+      "caution": "Production readiness is unclear.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/luongnv89",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A visual, example-driven guide to Claude Code \u2014 from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+        "forks": 5351,
+        "full_name": "sponsors/luongnv89",
+        "language": "Python",
+        "name": "luongnv89",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 428,
+        "total_stars": 42666,
+        "url": "https://github.com/sponsors/luongnv89"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 4.06,
+        "momentum": 3.8,
+        "novelty": 8.0,
+        "practical_usefulness": 4.93,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 44.74
+      },
+      "tags": [
+        "AI Workflow",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Hype Risk: Python project with 428 stars today; score 44.7/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-03T15:49:07Z",
+        "default_branch": "v8",
+        "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+        "fork": false,
+        "full_name": "Graphify-Labs/graphify",
+        "homepage": "https://www.graphify.com",
+        "latest_release": "v0.9.93",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1626,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-21T15:23:36Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://graphify.com\"><img src=\"https://raw.githubusercontent.com/Graphify-Labs/graphify/v8/docs/graphify-logo.png\" width=\"360\" height=\"189\" alt=\"Graphify\"/></a> </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/25296?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-25296\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/repositories/25296\" alt=\"Graphify-Labs%2Fgraphify | Trendshift",
+        "topics": [
+          "ai-agents",
+          "antigravity",
+          "ast",
+          "claude-code",
+          "code-analysis",
+          "code-search",
+          "codex",
+          "cursor",
+          "developer-tools",
+          "gemini",
+          "graphify",
+          "graphrag",
+          "knowledge-graph",
+          "leiden",
+          "llm",
+          "mcp",
+          "openclaw",
+          "rag",
+          "skills",
+          "tree-sitter"
+        ],
+        "updated_at": "2026-10-22T13:07:32Z"
+      },
+      "repo": {
+        "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+        "forks": 12687,
+        "full_name": "Graphify-Labs/graphify",
+        "language": "Python",
+        "name": "graphify",
+        "owner": "Graphify-Labs",
+        "rank": 5,
+        "stars_today": 1407,
+        "total_stars": 132351,
+        "url": "https://github.com/Graphify-Labs/graphify"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.99,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 79.29
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1407 stars today; score 79.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-18T14:08:44Z",
+        "default_branch": "main",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "fork": false,
+        "full_name": "cloudflare/security-audit-skill",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 80,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-14T19:29:02Z",
+        "readme_excerpt": "# security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting. This is the skill that seeded Cloudflare's vulnerability discovery harness, described in [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness). The harness grew into a multi-stage, f",
+        "topics": [],
+        "updated_at": "2026-10-22T13:07:33Z"
+      },
+      "repo": {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "forks": 2385,
+        "full_name": "cloudflare/security-audit-skill",
+        "language": "JavaScript",
+        "name": "security-audit-skill",
+        "owner": "cloudflare",
+        "rank": 4,
+        "stars_today": 2979,
+        "total_stars": 38224,
+        "url": "https://github.com/cloudflare/security-audit-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.57,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 72.12
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 2979 stars today; score 72.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-12-08T08:21:47Z",
+        "default_branch": "master",
+        "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+        "fork": false,
+        "full_name": "fastapi/fastapi",
+        "homepage": "https://fastapi.tiangolo.com/",
+        "latest_release": "0.159.1",
+        "license_spdx": "MIT",
+        "open_issues": 55,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-22T09:10:14Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://fastapi.tiangolo.com\"><img src=\"https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png\" alt=\"FastAPI\"></a> </p> <p align=\"center\"> <em>FastAPI framework, high performance, easy to learn, fast to code, ready for production</em> </p> <p align=\"center\"> <a href=\"https://github.com/fastapi/fastapi/actions?query=workflow%3ATest+event%3Apush+branch%3Amaster\"> <img src=\"https://github.com/fastapi/fastapi/actions/workflows/test.yml/badge.svg?event=push&branch=mast",
+        "topics": [
+          "api",
+          "async",
+          "asyncio",
+          "fastapi",
+          "framework",
+          "json",
+          "json-schema",
+          "openapi",
+          "openapi3",
+          "pydantic",
+          "python",
+          "python-types",
+          "python3",
+          "redoc",
+          "rest",
+          "starlette",
+          "swagger",
+          "swagger-ui",
+          "uvicorn",
+          "web"
+        ],
+        "updated_at": "2026-10-22T13:05:43Z"
+      },
+      "repo": {
+        "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+        "forks": 10070,
+        "full_name": "fastapi/fastapi",
+        "language": "Python",
+        "name": "fastapi",
+        "owner": "fastapi",
+        "rank": 7,
+        "stars_today": 96,
+        "total_stars": 103446,
+        "url": "https://github.com/fastapi/fastapi"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.01,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 61.04
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: Python project with 96 stars today; score 61.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2011-06-16T01:52:25Z",
+        "default_branch": "master",
+        "description": "The PHP Interpreter",
+        "fork": false,
+        "full_name": "php/php-src",
+        "homepage": "https://www.php.net",
+        "latest_release": "php-8.5.12",
+        "license_spdx": "BSD-3-Clause",
+        "open_issues": 2210,
+        "primary_language": "C",
+        "pushed_at": "2026-10-22T13:07:06Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://www.php.net\"> <img alt=\"PHP\" src=\"https://www.php.net/images/logos/new-php-logo.svg\" width=\"150\"> </a> </div> # The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PHP is distributed under the [Modified BSD License](LICENSE) (SPDX-License-Identifier: `BSD-3-Clause`). [![Test](https://g",
+        "topics": [],
+        "updated_at": "2026-10-22T13:07:36Z"
+      },
+      "repo": {
+        "description": "The PHP Interpreter",
+        "forks": 8276,
+        "full_name": "php/php-src",
+        "language": "C",
+        "name": "php-src",
+        "owner": "php",
+        "rank": 1,
+        "stars_today": 110,
+        "total_stars": 40825,
+        "url": "https://github.com/php/php-src"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.91,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 60.71
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: C project with 110 stars today; score 60.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-07-26T15:43:26Z",
+        "default_branch": "main",
+        "description": "Minecraft \u542f\u52a8\u5668 Plain Craft Launcher\uff08PCL\uff09\u3002",
+        "fork": false,
+        "full_name": "Meloong-Git/PCL",
+        "homepage": "https://meloong.com/PCL",
+        "latest_release": "2.99.0.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 299,
+        "primary_language": "Visual Basic .NET",
+        "pushed_at": "2026-10-20T07:01:33Z",
+        "readme_excerpt": "# Plain Craft Launcher [![Stars](https://img.shields.io/github/stars/Meloong-Git/PCL?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDA",
+        "topics": [
+          "launcher",
+          "minecraft",
+          "minecraft-launcher"
+        ],
+        "updated_at": "2026-10-22T13:04:59Z"
+      },
+      "repo": {
+        "description": "Minecraft \u542f\u52a8\u5668 Plain Craft Launcher\uff08PCL\uff09\u3002",
+        "forks": 1183,
+        "full_name": "Meloong-Git/PCL",
+        "language": "Visual Basic .NET",
+        "name": "PCL",
+        "owner": "Meloong-Git",
+        "rank": 9,
+        "stars_today": 115,
+        "total_stars": 8561,
+        "url": "https://github.com/Meloong-Git/PCL"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.77,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.2,
+        "total": 55.02
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Visual Basic .NET project with 115 stars today; score 55.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-23T20:11:54Z",
+        "default_branch": "main",
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "fork": false,
+        "full_name": "anthropics/knowledge-work-plugins",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 131,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-22T07:39:25Z",
+        "readme_excerpt": "# Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for [Claude Cowork](https://claude.com/product/cowork), also compatible with [Claude Code](https://claude.com/product/claude-code). ## Why Plugins Cowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose ",
+        "topics": [],
+        "updated_at": "2026-10-22T13:07:22Z"
+      },
+      "repo": {
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "forks": 3509,
+        "full_name": "anthropics/knowledge-work-plugins",
+        "language": "Python",
+        "name": "knowledge-work-plugins",
+        "owner": "anthropics",
+        "rank": 2,
+        "stars_today": 303,
+        "total_stars": 31320,
+        "url": "https://github.com/anthropics/knowledge-work-plugins"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.31,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 51.36
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 303 stars today; score 51.4/100."
+    },
+    {
+      "caution": "Production readiness is unclear.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/luongnv89",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A visual, example-driven guide to Claude Code \u2014 from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+        "forks": 5351,
+        "full_name": "sponsors/luongnv89",
+        "language": "Python",
+        "name": "luongnv89",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 428,
+        "total_stars": 42666,
+        "url": "https://github.com/sponsors/luongnv89"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 4.06,
+        "momentum": 3.8,
+        "novelty": 8.0,
+        "practical_usefulness": 4.93,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 44.74
+      },
+      "tags": [
+        "AI Workflow",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Hype Risk: Python project with 428 stars today; score 44.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/DietrichGebert",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "forks": 9394,
+        "full_name": "sponsors/DietrichGebert",
+        "language": "JavaScript",
+        "name": "DietrichGebert",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 1949,
+        "total_stars": 172685,
+        "url": "https://github.com/sponsors/DietrichGebert"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 8.81,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 37.26
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 1949 stars today; score 37.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/supabase",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+        "forks": 16989,
+        "full_name": "sponsors/supabase",
+        "language": "TypeScript",
+        "name": "supabase",
+        "owner": "sponsors",
+        "rank": 6,
+        "stars_today": 683,
+        "total_stars": 113290,
+        "url": "https://github.com/sponsors/supabase"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.81,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 28.76
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 683 stars today; score 28.8/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-10-22",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is fastapi/fastapi."
+}

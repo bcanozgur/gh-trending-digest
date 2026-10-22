@@ -1,0 +1,26 @@
+GitHub Trending: AI workflow signal - 2026-10-22
+
+Today leans toward AI workflow signal; the strongest pick is fastapi/fastapi.
+
+Top picks
+1. fastapi/fastapi - 61.0/100
+   https://github.com/fastapi/fastapi
+   DevTools, Try Today: Python project with 96 stars today; score 61.0/100.
+2. php/php-src - 60.7/100
+   https://github.com/php/php-src
+   AI Workflow, Try Today: C project with 110 stars today; score 60.7/100.
+3. Meloong-Git/PCL - 55.0/100
+   https://github.com/Meloong-Git/PCL
+   AI Workflow, Try Today: Visual Basic .NET project with 115 stars today; score 55.0/100.
+4. sponsors/luongnv89 - 44.7/100
+   https://github.com/sponsors/luongnv89
+   AI Workflow, Hype Risk: Python project with 428 stars today; score 44.7/100.
+   Caution: Production readiness is unclear.
+
+Full reviewed list
+- fastapi/fastapi: 61.0/100 [DevTools, Try Today, Deep Dive] DevTools, Try Today: Python project with 96 stars today; score 61.0/100.
+- php/php-src: 60.7/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: C project with 110 stars today; score 60.7/100.
+- Meloong-Git/PCL: 55.0/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Visual Basic .NET project with 115 stars today; score 55.0/100.
+- sponsors/luongnv89: 44.7/100 [AI Workflow, Hype Risk] AI Workflow, Hype Risk: Python project with 428 stars today; score 44.7/100.
+
+Generated for 2026-10-22 from GitHub Trending daily.
