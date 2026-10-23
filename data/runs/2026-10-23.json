@@ -1,0 +1,712 @@
+{
+  "date": "2026-10-23",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-24T22:52:22Z",
+        "default_branch": "main",
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "fork": false,
+        "full_name": "NVIDIA/OpenShell",
+        "homepage": "https://docs.nvidia.com/openshell/latest/",
+        "latest_release": "v0.1.5",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 564,
+        "primary_language": "Rust",
+        "pushed_at": "2026-10-23T12:28:52Z",
+        "readme_excerpt": "<!-- markdownlint-disable MD033 MD041 --> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/brand/assets/openshell-banner-dark.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/brand/assets/openshell-banner-light.png\"> <img alt=\"OpenShell\" src=\"docs/brand/assets/openshell-banner-light.png\" width=\"430\"> </picture> <!-- markdownlint-enable MD033 MD041 --> [![License](https://img.shields.io/badge/License-Apache_2.0-blue)](https://github.com/NVIDIA/OpenShell/blob/mai",
+        "topics": [],
+        "updated_at": "2026-10-23T12:47:02Z"
+      },
+      "repo": {
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "forks": 1853,
+        "full_name": "NVIDIA/OpenShell",
+        "language": "Rust",
+        "name": "OpenShell",
+        "owner": "NVIDIA",
+        "rank": 4,
+        "stars_today": 211,
+        "total_stars": 18292,
+        "url": "https://github.com/NVIDIA/OpenShell"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.82,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 64.42
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 211 stars today; score 64.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-04T05:52:35Z",
+        "default_branch": "main",
+        "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface \u2014 from SQLi to shellcode, EDR evasion to exploit development.",
+        "fork": false,
+        "full_name": "SnailSploit/Claude-Red",
+        "homepage": null,
+        "latest_release": "v0.3.0",
+        "license_spdx": "MIT",
+        "open_issues": 18,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-12T15:02:40Z",
+        "readme_excerpt": "![claude-red banner](/assets/banner.png) <div align=\"center\"> # claude-red **Offensive security skills for Claude \u2014 drop-in `SKILL.md` files that turn Claude into a context-aware red team operator.** [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Skills](https://img.shields.io/badge/skills-78-red.svg)](#skill-index) [![Categories](https://img.shields.io/badge/categories-23-orange.svg)](#categories) [![Stars](https://img.shields.io/github/stars/SnailSploit/claude",
+        "topics": [
+          "claude-ai",
+          "claude-pt",
+          "claude-skills",
+          "redteam",
+          "redteam-tools",
+          "skills"
+        ],
+        "updated_at": "2026-10-23T12:45:56Z"
+      },
+      "repo": {
+        "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface \u2014 from SQLi to shellcode, EDR evasion to exploit development.",
+        "forks": 1071,
+        "full_name": "SnailSploit/Claude-Red",
+        "language": "Python",
+        "name": "Claude-Red",
+        "owner": "SnailSploit",
+        "rank": 6,
+        "stars_today": 209,
+        "total_stars": 8056,
+        "url": "https://github.com/SnailSploit/Claude-Red"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.53,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.78
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 209 stars today; score 63.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-01T05:09:59Z",
+        "default_branch": "main",
+        "description": "\u7d2b\u5fae\u6597\u6570\u5f00\u6e90\u6392\u76d8\u5f15\u64ce \u2014 \u57fa\u4e8e\u502a\u6d77\u53a6\u300a\u5929\u7eaa\u300b\u4f53\u7cfb\uff0c\u542b\u5b8c\u6574\u6392\u76d8\u7b97\u6cd5\u3001\u56db\u5316\u7cfb\u7edf\u3001\u683c\u5c40\u77e5\u8bc6\u5e93\u3001\u53e4\u7c4d\u539f\u6587\u6570\u636e",
+        "fork": false,
+        "full_name": "Renhuai123/ziwei-doushu",
+        "homepage": "https://metisziwei.com/?from=gh-about",
+        "latest_release": "v4.0-13d",
+        "license_spdx": "MIT",
+        "open_issues": 6,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-20T08:20:05Z",
+        "readme_excerpt": "<div align=\"center\"> # \u7d2b\u5fae\u6597\u6570 \u00b7 \u5f00\u6e90\u6392\u76d8\u5f15\u64ce [![CI](https://github.com/Renhuai123/ziwei-doushu/actions/workflows/ci.yml/badge.svg)](https://github.com/Renhuai123/ziwei-doushu/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](./LICENSE) [![Dataset: CC BY 4.0](https://img.shields.io/badge/dataset-CC%20BY%204.0-green.svg)](./DATASET-LICENSE) **\u4e2d\u6587** \u00b7 [English](./README.en.md) </div> \u57fa\u4e8e<strong>\u502a\u6d77\u53a6\u300a\u5929\u7eaa\u300b</strong>\u6559\u5b66\u4f53\u7cfb\u7684\u7d2b\u5fae\u6597\u6570\u6392\u76d8\u7cfb\u7edf\uff0c\u5305\u542b\u5b8c\u6574\u6392\u76d8\u7b97\u6cd5\u3001\u56db\u5316\u7cfb\u7edf\u3001\u683c\u5c40\u77e5\u8bc6\u5e93\u3001\u53e4\u7c4d\u539f\u6587\u6570\u636e\uff0c\u4ee5\u53ca\u4e00\u5957\u5b8c\u6574\u5f00\u6e90\u7684\u7d2b\u5fae\u6597\u6570\u89e3\u8bfb\u6570",
+        "topics": [
+          "bazi",
+          "chinese-astrology",
+          "divination",
+          "fortune-telling",
+          "nextjs",
+          "open-source",
+          "purple-star-astrology",
+          "typescript",
+          "zi-wei-dou-shu",
+          "ziwei-doushu"
+        ],
+        "updated_at": "2026-10-23T12:45:19Z"
+      },
+      "repo": {
+        "description": "\u7d2b\u5fae\u6597\u6570\u5f00\u6e90\u6392\u76d8\u5f15\u64ce \u2014 \u57fa\u4e8e\u502a\u6d77\u53a6\u300a\u5929\u7eaa\u300b\u4f53\u7cfb\uff0c\u542b\u5b8c\u6574\u6392\u76d8\u7b97\u6cd5\u3001\u56db\u5316\u7cfb\u7edf\u3001\u683c\u5c40\u77e5\u8bc6\u5e93\u3001\u53e4\u7c4d\u539f\u6587\u6570\u636e",
+        "forks": 1354,
+        "full_name": "Renhuai123/ziwei-doushu",
+        "language": "TypeScript",
+        "name": "ziwei-doushu",
+        "owner": "Renhuai123",
+        "rank": 5,
+        "stars_today": 547,
+        "total_stars": 6595,
+        "url": "https://github.com/Renhuai123/ziwei-doushu"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.72,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 61.52
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 547 stars today; score 61.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-16T03:41:49Z",
+        "default_branch": "main",
+        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+        "fork": false,
+        "full_name": "OpenBMB/VoxCPM",
+        "homepage": "https://voxcpm.com",
+        "latest_release": "2.0.3",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 136,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-08T03:26:41Z",
+        "readme_excerpt": "<h2 align=\"center\">VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning</h2> <p align=\"center\"> <b>English</b> | <a href=\"./README_zh.md\">\u4e2d\u6587</a> </p> <p align=\"center\"> <a href=\"https://github.com/OpenBMB/VoxCPM/\"><img src=\"https://img.shields.io/badge/Project%20Page-GitHub-blue\" alt=\"Project Page\"></a> <a href=\"https://huggingface.co/spaces/OpenBMB/VoxCPM-Demo\"><img src=\"https://img.shields.io/badge/Live%20Playground-Demo-orange\" alt=\"L",
+        "topics": [
+          "audio",
+          "deeplearning",
+          "minicpm",
+          "multilingual",
+          "python",
+          "pytorch",
+          "speech",
+          "speech-synthesis",
+          "text-to-speech",
+          "tts",
+          "tts-model",
+          "voice-cloning",
+          "voice-design",
+          "voxcpm"
+        ],
+        "updated_at": "2026-10-23T12:47:03Z"
+      },
+      "repo": {
+        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+        "forks": 4555,
+        "full_name": "OpenBMB/VoxCPM",
+        "language": "Python",
+        "name": "VoxCPM",
+        "owner": "OpenBMB",
+        "rank": 7,
+        "stars_today": 144,
+        "total_stars": 40020,
+        "url": "https://github.com/OpenBMB/VoxCPM"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.18,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.98
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 144 stars today; score 60.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/nodejs",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Node.js JavaScript runtime \u2728\ud83d\udc22\ud83d\ude80\u2728",
+        "forks": 39934,
+        "full_name": "sponsors/nodejs",
+        "language": "JavaScript",
+        "name": "nodejs",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 76,
+        "total_stars": 122616,
+        "url": "https://github.com/sponsors/nodejs"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.83,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.15,
+        "technical_quality": 3.5,
+        "total": 22.38
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: JavaScript project with 76 stars today; score 22.4/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-18T14:08:44Z",
+        "default_branch": "main",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "fork": false,
+        "full_name": "cloudflare/security-audit-skill",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 79,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-14T19:29:02Z",
+        "readme_excerpt": "# security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting. This is the skill that seeded Cloudflare's vulnerability discovery harness, described in [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness). The harness grew into a multi-stage, f",
+        "topics": [],
+        "updated_at": "2026-10-23T12:47:53Z"
+      },
+      "repo": {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "forks": 2548,
+        "full_name": "cloudflare/security-audit-skill",
+        "language": "JavaScript",
+        "name": "security-audit-skill",
+        "owner": "cloudflare",
+        "rank": 1,
+        "stars_today": 2706,
+        "total_stars": 40868,
+        "url": "https://github.com/cloudflare/security-audit-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 72.55
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 2706 stars today; score 72.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-24T22:52:22Z",
+        "default_branch": "main",
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "fork": false,
+        "full_name": "NVIDIA/OpenShell",
+        "homepage": "https://docs.nvidia.com/openshell/latest/",
+        "latest_release": "v0.1.5",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 564,
+        "primary_language": "Rust",
+        "pushed_at": "2026-10-23T12:28:52Z",
+        "readme_excerpt": "<!-- markdownlint-disable MD033 MD041 --> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/brand/assets/openshell-banner-dark.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/brand/assets/openshell-banner-light.png\"> <img alt=\"OpenShell\" src=\"docs/brand/assets/openshell-banner-light.png\" width=\"430\"> </picture> <!-- markdownlint-enable MD033 MD041 --> [![License](https://img.shields.io/badge/License-Apache_2.0-blue)](https://github.com/NVIDIA/OpenShell/blob/mai",
+        "topics": [],
+        "updated_at": "2026-10-23T12:47:02Z"
+      },
+      "repo": {
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "forks": 1853,
+        "full_name": "NVIDIA/OpenShell",
+        "language": "Rust",
+        "name": "OpenShell",
+        "owner": "NVIDIA",
+        "rank": 4,
+        "stars_today": 211,
+        "total_stars": 18292,
+        "url": "https://github.com/NVIDIA/OpenShell"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.82,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 64.42
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 211 stars today; score 64.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-04T05:52:35Z",
+        "default_branch": "main",
+        "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface \u2014 from SQLi to shellcode, EDR evasion to exploit development.",
+        "fork": false,
+        "full_name": "SnailSploit/Claude-Red",
+        "homepage": null,
+        "latest_release": "v0.3.0",
+        "license_spdx": "MIT",
+        "open_issues": 18,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-12T15:02:40Z",
+        "readme_excerpt": "![claude-red banner](/assets/banner.png) <div align=\"center\"> # claude-red **Offensive security skills for Claude \u2014 drop-in `SKILL.md` files that turn Claude into a context-aware red team operator.** [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Skills](https://img.shields.io/badge/skills-78-red.svg)](#skill-index) [![Categories](https://img.shields.io/badge/categories-23-orange.svg)](#categories) [![Stars](https://img.shields.io/github/stars/SnailSploit/claude",
+        "topics": [
+          "claude-ai",
+          "claude-pt",
+          "claude-skills",
+          "redteam",
+          "redteam-tools",
+          "skills"
+        ],
+        "updated_at": "2026-10-23T12:45:56Z"
+      },
+      "repo": {
+        "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface \u2014 from SQLi to shellcode, EDR evasion to exploit development.",
+        "forks": 1071,
+        "full_name": "SnailSploit/Claude-Red",
+        "language": "Python",
+        "name": "Claude-Red",
+        "owner": "SnailSploit",
+        "rank": 6,
+        "stars_today": 209,
+        "total_stars": 8056,
+        "url": "https://github.com/SnailSploit/Claude-Red"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.53,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.78
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 209 stars today; score 63.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-01T05:09:59Z",
+        "default_branch": "main",
+        "description": "\u7d2b\u5fae\u6597\u6570\u5f00\u6e90\u6392\u76d8\u5f15\u64ce \u2014 \u57fa\u4e8e\u502a\u6d77\u53a6\u300a\u5929\u7eaa\u300b\u4f53\u7cfb\uff0c\u542b\u5b8c\u6574\u6392\u76d8\u7b97\u6cd5\u3001\u56db\u5316\u7cfb\u7edf\u3001\u683c\u5c40\u77e5\u8bc6\u5e93\u3001\u53e4\u7c4d\u539f\u6587\u6570\u636e",
+        "fork": false,
+        "full_name": "Renhuai123/ziwei-doushu",
+        "homepage": "https://metisziwei.com/?from=gh-about",
+        "latest_release": "v4.0-13d",
+        "license_spdx": "MIT",
+        "open_issues": 6,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-20T08:20:05Z",
+        "readme_excerpt": "<div align=\"center\"> # \u7d2b\u5fae\u6597\u6570 \u00b7 \u5f00\u6e90\u6392\u76d8\u5f15\u64ce [![CI](https://github.com/Renhuai123/ziwei-doushu/actions/workflows/ci.yml/badge.svg)](https://github.com/Renhuai123/ziwei-doushu/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](./LICENSE) [![Dataset: CC BY 4.0](https://img.shields.io/badge/dataset-CC%20BY%204.0-green.svg)](./DATASET-LICENSE) **\u4e2d\u6587** \u00b7 [English](./README.en.md) </div> \u57fa\u4e8e<strong>\u502a\u6d77\u53a6\u300a\u5929\u7eaa\u300b</strong>\u6559\u5b66\u4f53\u7cfb\u7684\u7d2b\u5fae\u6597\u6570\u6392\u76d8\u7cfb\u7edf\uff0c\u5305\u542b\u5b8c\u6574\u6392\u76d8\u7b97\u6cd5\u3001\u56db\u5316\u7cfb\u7edf\u3001\u683c\u5c40\u77e5\u8bc6\u5e93\u3001\u53e4\u7c4d\u539f\u6587\u6570\u636e\uff0c\u4ee5\u53ca\u4e00\u5957\u5b8c\u6574\u5f00\u6e90\u7684\u7d2b\u5fae\u6597\u6570\u89e3\u8bfb\u6570",
+        "topics": [
+          "bazi",
+          "chinese-astrology",
+          "divination",
+          "fortune-telling",
+          "nextjs",
+          "open-source",
+          "purple-star-astrology",
+          "typescript",
+          "zi-wei-dou-shu",
+          "ziwei-doushu"
+        ],
+        "updated_at": "2026-10-23T12:45:19Z"
+      },
+      "repo": {
+        "description": "\u7d2b\u5fae\u6597\u6570\u5f00\u6e90\u6392\u76d8\u5f15\u64ce \u2014 \u57fa\u4e8e\u502a\u6d77\u53a6\u300a\u5929\u7eaa\u300b\u4f53\u7cfb\uff0c\u542b\u5b8c\u6574\u6392\u76d8\u7b97\u6cd5\u3001\u56db\u5316\u7cfb\u7edf\u3001\u683c\u5c40\u77e5\u8bc6\u5e93\u3001\u53e4\u7c4d\u539f\u6587\u6570\u636e",
+        "forks": 1354,
+        "full_name": "Renhuai123/ziwei-doushu",
+        "language": "TypeScript",
+        "name": "ziwei-doushu",
+        "owner": "Renhuai123",
+        "rank": 5,
+        "stars_today": 547,
+        "total_stars": 6595,
+        "url": "https://github.com/Renhuai123/ziwei-doushu"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.72,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 61.52
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 547 stars today; score 61.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-16T03:41:49Z",
+        "default_branch": "main",
+        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+        "fork": false,
+        "full_name": "OpenBMB/VoxCPM",
+        "homepage": "https://voxcpm.com",
+        "latest_release": "2.0.3",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 136,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-08T03:26:41Z",
+        "readme_excerpt": "<h2 align=\"center\">VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning</h2> <p align=\"center\"> <b>English</b> | <a href=\"./README_zh.md\">\u4e2d\u6587</a> </p> <p align=\"center\"> <a href=\"https://github.com/OpenBMB/VoxCPM/\"><img src=\"https://img.shields.io/badge/Project%20Page-GitHub-blue\" alt=\"Project Page\"></a> <a href=\"https://huggingface.co/spaces/OpenBMB/VoxCPM-Demo\"><img src=\"https://img.shields.io/badge/Live%20Playground-Demo-orange\" alt=\"L",
+        "topics": [
+          "audio",
+          "deeplearning",
+          "minicpm",
+          "multilingual",
+          "python",
+          "pytorch",
+          "speech",
+          "speech-synthesis",
+          "text-to-speech",
+          "tts",
+          "tts-model",
+          "voice-cloning",
+          "voice-design",
+          "voxcpm"
+        ],
+        "updated_at": "2026-10-23T12:47:03Z"
+      },
+      "repo": {
+        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+        "forks": 4555,
+        "full_name": "OpenBMB/VoxCPM",
+        "language": "Python",
+        "name": "VoxCPM",
+        "owner": "OpenBMB",
+        "rank": 7,
+        "stars_today": 144,
+        "total_stars": 40020,
+        "url": "https://github.com/OpenBMB/VoxCPM"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.18,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.98
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 144 stars today; score 60.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2011-06-16T01:52:25Z",
+        "default_branch": "master",
+        "description": "The PHP Interpreter",
+        "fork": false,
+        "full_name": "php/php-src",
+        "homepage": "https://www.php.net",
+        "latest_release": "php-8.5.12",
+        "license_spdx": "BSD-3-Clause",
+        "open_issues": 2228,
+        "primary_language": "C",
+        "pushed_at": "2026-10-23T06:29:33Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://www.php.net\"> <img alt=\"PHP\" src=\"https://www.php.net/images/logos/new-php-logo.svg\" width=\"150\"> </a> </div> # The PHP Interpreter PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world. PHP is distributed under the [Modified BSD License](LICENSE) (SPDX-License-Identifier: `BSD-3-Clause`). [![Test](https://g",
+        "topics": [],
+        "updated_at": "2026-10-23T12:35:11Z"
+      },
+      "repo": {
+        "description": "The PHP Interpreter",
+        "forks": 8340,
+        "full_name": "php/php-src",
+        "language": "C",
+        "name": "php-src",
+        "owner": "php",
+        "rank": 2,
+        "stars_today": 722,
+        "total_stars": 41456,
+        "url": "https://github.com/php/php-src"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.7,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 57.3
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: C project with 722 stars today; score 57.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-23T20:11:54Z",
+        "default_branch": "main",
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "fork": false,
+        "full_name": "anthropics/knowledge-work-plugins",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 136,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-23T07:38:30Z",
+        "readme_excerpt": "# Knowledge Work Plugins Plugins that turn Claude into a specialist for your role, team, and company. Built for [Claude Cowork](https://claude.com/product/cowork), also compatible with [Claude Code](https://claude.com/product/claude-code). ## Why Plugins Cowork lets you set the goal and Claude delivers finished, professional work. Plugins let you go further: tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose ",
+        "topics": [],
+        "updated_at": "2026-10-23T12:46:53Z"
+      },
+      "repo": {
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "forks": 3553,
+        "full_name": "anthropics/knowledge-work-plugins",
+        "language": "Python",
+        "name": "knowledge-work-plugins",
+        "owner": "anthropics",
+        "rank": 3,
+        "stars_today": 643,
+        "total_stars": 31949,
+        "url": "https://github.com/anthropics/knowledge-work-plugins"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.31,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 52.36
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 643 stars today; score 52.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/nodejs",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Node.js JavaScript runtime \u2728\ud83d\udc22\ud83d\ude80\u2728",
+        "forks": 39934,
+        "full_name": "sponsors/nodejs",
+        "language": "JavaScript",
+        "name": "nodejs",
+        "owner": "sponsors",
+        "rank": 8,
+        "stars_today": 76,
+        "total_stars": 122616,
+        "url": "https://github.com/sponsors/nodejs"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.83,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.15,
+        "technical_quality": 3.5,
+        "total": 22.38
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: JavaScript project with 76 stars today; score 22.4/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-10-23",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is NVIDIA/OpenShell."
+}
