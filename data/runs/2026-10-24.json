@@ -1,0 +1,885 @@
+{
+  "date": "2026-10-24",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-04-17T17:04:31Z",
+        "default_branch": "main",
+        "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+        "fork": false,
+        "full_name": "google-gemini/gemini-cli",
+        "homepage": "https://geminicli.com",
+        "latest_release": "v0.65.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 755,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-24T01:15:52Z",
+        "readme_excerpt": "> [!NOTE] > > **Unpaid tier and Google One users:** Gemini CLI was replaced by Antigravity > CLI on June 18th, 2026. To learn more, see our > [blog post](https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli). > > **Gemini CLI has not been optimized for Gemini 4 Argon.** To use Gemini 4 > Argon, please use Antigravity. # Gemini CLI [![Gemini CLI CI](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/goog",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "cli",
+          "gemini",
+          "gemini-api",
+          "mcp-client",
+          "mcp-server"
+        ],
+        "updated_at": "2026-10-24T12:02:25Z"
+      },
+      "repo": {
+        "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+        "forks": 14777,
+        "full_name": "google-gemini/gemini-cli",
+        "language": "TypeScript",
+        "name": "gemini-cli",
+        "owner": "google-gemini",
+        "rank": 8,
+        "stars_today": 38,
+        "total_stars": 107601,
+        "url": "https://github.com/google-gemini/gemini-cli"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.73,
+        "novelty": 8.0,
+        "practical_usefulness": 20.0,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 80.65
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 38 stars today; score 80.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-22T17:49:34Z",
+        "default_branch": "main",
+        "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
+        "fork": false,
+        "full_name": "makecindy/cindy",
+        "homepage": "https://cindy.app",
+        "latest_release": "v0.1.115",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1896,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-24T11:53:25Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://cindy.app\"><img src=\".github/assets/hero-en.webp\" width=\"100%\" alt=\"CINDY \u2014 Consider it done. The open-source AI agent that works out of the box, doing real work on your own computer.\"></a> </p> <p align=\"center\"> <strong>English</strong> \u00b7 <a href=\"README.zh-CN.md\">\u7b80\u4f53\u4e2d\u6587</a> </p> <p align=\"center\"> <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-Apache--2.0-blue.svg\" alt=\"License\" /></a> <a href=\"https://github.com/makecindy/cindy/actions/work",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-assistant",
+          "android",
+          "claude-code",
+          "codex",
+          "electron",
+          "ios",
+          "llm",
+          "macos",
+          "react-native",
+          "typescript",
+          "windows"
+        ],
+        "updated_at": "2026-10-24T12:08:37Z"
+      },
+      "repo": {
+        "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
+        "forks": 562,
+        "full_name": "makecindy/cindy",
+        "language": "TypeScript",
+        "name": "cindy",
+        "owner": "makecindy",
+        "rank": 10,
+        "stars_today": 471,
+        "total_stars": 3756,
+        "url": "https://github.com/makecindy/cindy"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.05,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 75.1
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 471 stars today; score 75.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-11-16T01:52:04Z",
+        "default_branch": "main",
+        "description": "The design language that makes your AI harness better at design.",
+        "fork": false,
+        "full_name": "pbakaus/impeccable",
+        "homepage": "https://impeccable.style",
+        "latest_release": "engine-v0.1.17",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 39,
+        "primary_language": "Rust",
+        "pushed_at": "2026-10-24T06:29:27Z",
+        "readme_excerpt": "# Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 62 deterministic detector rules for AI-generated frontend design. > **Quick start:** From your project root, run `npx impeccable install`, then run `/impeccable init` inside your AI coding tool. Full docs: [impeccable.style](https://impeccable.style). ## Why Impeccable? Anthropic's [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) was the first widely-used d",
+        "topics": [],
+        "updated_at": "2026-10-24T12:05:54Z"
+      },
+      "repo": {
+        "description": "The design language that makes your AI harness better at design.",
+        "forks": 5135,
+        "full_name": "pbakaus/impeccable",
+        "language": "Rust",
+        "name": "impeccable",
+        "owner": "pbakaus",
+        "rank": 6,
+        "stars_today": 541,
+        "total_stars": 85860,
+        "url": "https://github.com/pbakaus/impeccable"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 4.88,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 72.77
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 541 stars today; score 72.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-27T20:47:10Z",
+        "default_branch": "main",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "fork": false,
+        "full_name": "Nutlope/hallmark",
+        "homepage": "https://www.usehallmark.com/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 48,
+        "primary_language": "CSS",
+        "pushed_at": "2026-10-22T17:20:32Z",
+        "readme_excerpt": "# Hallmark **A design skill for Claude Code, Codex, Cursor and OpenCode that refuses to look AI-generated.** [usehallmark.com](https://www.usehallmark.com) &nbsp;\u00b7&nbsp; forty-eight themes &nbsp;\u00b7&nbsp; custom on request &nbsp;\u00b7&nbsp; redesign and audit by name Made by Together AI. <p align=\"center\"> <img src=\"site/OG-hallmark.png\" alt=\"Hallmark, the design skill that ends AI slop\" /> </p> Hallmark holds a hard floor and then gets out of the way. It deals three themes from a catalog of forty-eig",
+        "topics": [],
+        "updated_at": "2026-10-24T12:09:36Z"
+      },
+      "repo": {
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "forks": 1625,
+        "full_name": "Nutlope/hallmark",
+        "language": "CSS",
+        "name": "hallmark",
+        "owner": "Nutlope",
+        "rank": 4,
+        "stars_today": 567,
+        "total_stars": 31503,
+        "url": "https://github.com/Nutlope/hallmark"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.27,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 72.07
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: CSS project with 567 stars today; score 72.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-23T12:44:08Z",
+        "default_branch": "main",
+        "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+        "fork": false,
+        "full_name": "aws/agent-toolkit-for-aws",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 64,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-23T15:00:22Z",
+        "readme_excerpt": "# Agent Toolkit for AWS [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE) [![Build](https://github.com/aws/agent-toolkit-for-aws/actions/workflows/build.yml/badge.svg)](https://github.com/aws/agent-toolkit-for-aws/actions/workflows/build.yml) [![Status](https://img.shields.io/badge/status-GA-green.svg)](https://github.com/aws/agent-toolkit-for-aws) Help AI coding agents build, deploy, and manage applications on AWS. The Agent Toolkit for AWS gives AI coding agents",
+        "topics": [],
+        "updated_at": "2026-10-24T12:08:24Z"
+      },
+      "repo": {
+        "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+        "forks": 392,
+        "full_name": "aws/agent-toolkit-for-aws",
+        "language": "Python",
+        "name": "agent-toolkit-for-aws",
+        "owner": "aws",
+        "rank": 3,
+        "stars_today": 11,
+        "total_stars": 2968,
+        "url": "https://github.com/aws/agent-toolkit-for-aws"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.35,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 67.45
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 11 stars today; score 67.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-29T07:52:16Z",
+        "default_branch": "main",
+        "description": "A Tiny biped duck robot \ud83e\udd86",
+        "fork": false,
+        "full_name": "pollen-robotics/microduck",
+        "homepage": "https://pollen-robotics.com/microduck",
+        "latest_release": "daemon-v0.17.8",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 57,
+        "primary_language": "Rust",
+        "pushed_at": "2026-10-24T09:37:44Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"https://github.com/user-attachments/assets/c2f7c245-8217-46a1-8d1e-e0ba967cd969\" alt=\"microduck\" width=\"820\"> </p> <h1 align=\"center\">Microduck</h1> <p align=\"center\"> <em>A tiny biped robot that moves using reinforcement learning policies.</em> </p> <p align=\"center\"> <a href=\"https://pollen-robotics.com/microduck\"><b>Get yours here</b></a> \u00b7 <a href=\"docs/robot/cheatsheet.md\">Cheat sheet</a> \u00b7 <a href=\"https://github.com/pollen-robotics/microduck_rl\">Training the p",
+        "topics": [],
+        "updated_at": "2026-10-24T12:02:03Z"
+      },
+      "repo": {
+        "description": "A Tiny biped duck robot \ud83e\udd86",
+        "forks": 1379,
+        "full_name": "pollen-robotics/microduck",
+        "language": "Rust",
+        "name": "microduck",
+        "owner": "pollen-robotics",
+        "rank": 7,
+        "stars_today": 421,
+        "total_stars": 10632,
+        "url": "https://github.com/pollen-robotics/microduck"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.29,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 61.09
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 421 stars today; score 61.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-09-13T12:22:09Z",
+        "default_branch": "main",
+        "description": "\u6b22\u8fce\u6765\u5230\u7535\u5b50\u4e66\u4e0b\u8f7d\u5b9d\u5e93\uff0c\u4e00\u4e2a\u6c47\u805a\u4e86\u5404\u7c7b\u7535\u5b50\u4e66\u4e0b\u8f7d\u94fe\u63a5\u7684\u5730\u65b9\u3002\u65e0\u8bba\u4f60\u662f\u559c\u6b22\u9605\u8bfb\u7ecf\u5178\u6587\u5b66\u3001\u7ecf\u7ba1\u52b1\u5fd7\u3001\u7ec8\u8eab\u5b66\u4e60\u3001\u804c\u573a\u521b\u4e1a\u3001\u6280\u672f\u624b\u518c\u8fd8\u662f\u5176\u4ed6\u7c7b\u578b\u7684\u4e66\u7c4d\uff0c\u8fd9\u91cc\u90fd\u80fd\u6ee1\u8db3\u4f60\u7684\u9700\u6c42\u3002 \u8be5\u5e93\u6db5\u76d6\u4e86\u5e06\u4e66app(\u539f\u6a0a\u767b\u8bfb\u4e66)\u3001\u5fae\u4fe1\u8bfb\u4e66\u3001\u4eac\u4e1c\u8bfb\u4e66\u3001\u559c\u9a6c\u62c9\u96c5\u7b49\u8bfb\u4e66app\u7684\u5927\u90e8\u5206\u7535\u5b50\u4e66\u3002",
+        "fork": false,
+        "full_name": "jbiaojerry/ebook-treasure-chest",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 5,
+        "primary_language": "Python",
+        "pushed_at": "2026-01-13T00:59:23Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\".github/logo.png\" alt=\"Project Logo\"> </p> # \u7535\u5b50\u4e66\u4e0b\u8f7d\u5b9d\u5e93 ![GitHub](https://img.shields.io/github/license/jbiaojerry/ebook-treasure-chest) ![GitHub stars](https://img.shields.io/github/stars/jbiaojerry/ebook-treasure-chest?style=social) ![GitHub forks](https://img.shields.io/github/forks/jbiaojerry/ebook-treasure-chest?style=social) > **\ud83c\udf10 [\u5728\u7ebf\u8bbf\u95ee GitHub Pages](https://jbiaojerry.github.io/ebook-treasure-chest/)** - \u4f53\u9a8c\u5f3a\u5927\u7684\u5b9e\u65f6\u641c\u7d22\u529f\u80fd\u548c\u591a\u5173\u952e\u5b57\u641c\u7d22\uff0c\u5feb\u901f\u627e\u5230\u4f60\u60f3\u8981\u7684\u7535\u5b50\u4e66\uff01 \u6b22\u8fce\u6765\u5230\u7535\u5b50\u4e66\u4e0b\u8f7d\u5b9d\u5e93\uff0c\u4e00\u4e2a\u6c47\u805a\u4e86\u5404\u7c7b\u7535\u5b50\u4e66\u4e0b\u8f7d\u94fe\u63a5\u7684",
+        "topics": [],
+        "updated_at": "2026-10-24T12:07:52Z"
+      },
+      "repo": {
+        "description": "\u6b22\u8fce\u6765\u5230\u7535\u5b50\u4e66\u4e0b\u8f7d\u5b9d\u5e93\uff0c\u4e00\u4e2a\u6c47\u805a\u4e86\u5404\u7c7b\u7535\u5b50\u4e66\u4e0b\u8f7d\u94fe\u63a5\u7684\u5730\u65b9\u3002\u65e0\u8bba\u4f60\u662f\u559c\u6b22\u9605\u8bfb\u7ecf\u5178\u6587\u5b66\u3001\u7ecf\u7ba1\u52b1\u5fd7\u3001\u7ec8\u8eab\u5b66\u4e60\u3001\u804c\u573a\u521b\u4e1a\u3001\u6280\u672f\u624b\u518c\u8fd8\u662f\u5176\u4ed6\u7c7b\u578b\u7684\u4e66\u7c4d\uff0c\u8fd9\u91cc\u90fd\u80fd\u6ee1\u8db3\u4f60\u7684\u9700\u6c42\u3002 \u8be5\u5e93\u6db5\u76d6\u4e86\u5e06\u4e66app(\u539f\u6a0a\u767b\u8bfb\u4e66)\u3001\u5fae\u4fe1\u8bfb\u4e66\u3001\u4eac\u4e1c\u8bfb\u4e66\u3001\u559c\u9a6c\u62c9\u96c5\u7b49\u8bfb\u4e66app\u7684\u5927\u90e8\u5206\u7535\u5b50\u4e66\u3002",
+        "forks": 3170,
+        "full_name": "jbiaojerry/ebook-treasure-chest",
+        "language": "Python",
+        "name": "ebook-treasure-chest",
+        "owner": "jbiaojerry",
+        "rank": 9,
+        "stars_today": 220,
+        "total_stars": 22279,
+        "url": "https://github.com/jbiaojerry/ebook-treasure-chest"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.26,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 1.33,
+        "technical_quality": 9.1,
+        "total": 41.54
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: Python project with 220 stars today; score 41.5/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-04-17T17:04:31Z",
+        "default_branch": "main",
+        "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+        "fork": false,
+        "full_name": "google-gemini/gemini-cli",
+        "homepage": "https://geminicli.com",
+        "latest_release": "v0.65.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 755,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-24T01:15:52Z",
+        "readme_excerpt": "> [!NOTE] > > **Unpaid tier and Google One users:** Gemini CLI was replaced by Antigravity > CLI on June 18th, 2026. To learn more, see our > [blog post](https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli). > > **Gemini CLI has not been optimized for Gemini 4 Argon.** To use Gemini 4 > Argon, please use Antigravity. # Gemini CLI [![Gemini CLI CI](https://github.com/google-gemini/gemini-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/goog",
+        "topics": [
+          "ai",
+          "ai-agents",
+          "cli",
+          "gemini",
+          "gemini-api",
+          "mcp-client",
+          "mcp-server"
+        ],
+        "updated_at": "2026-10-24T12:02:25Z"
+      },
+      "repo": {
+        "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+        "forks": 14777,
+        "full_name": "google-gemini/gemini-cli",
+        "language": "TypeScript",
+        "name": "gemini-cli",
+        "owner": "google-gemini",
+        "rank": 8,
+        "stars_today": 38,
+        "total_stars": 107601,
+        "url": "https://github.com/google-gemini/gemini-cli"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.73,
+        "novelty": 8.0,
+        "practical_usefulness": 20.0,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 80.65
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 38 stars today; score 80.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-22T17:49:34Z",
+        "default_branch": "main",
+        "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
+        "fork": false,
+        "full_name": "makecindy/cindy",
+        "homepage": "https://cindy.app",
+        "latest_release": "v0.1.115",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1896,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-24T11:53:25Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://cindy.app\"><img src=\".github/assets/hero-en.webp\" width=\"100%\" alt=\"CINDY \u2014 Consider it done. The open-source AI agent that works out of the box, doing real work on your own computer.\"></a> </p> <p align=\"center\"> <strong>English</strong> \u00b7 <a href=\"README.zh-CN.md\">\u7b80\u4f53\u4e2d\u6587</a> </p> <p align=\"center\"> <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-Apache--2.0-blue.svg\" alt=\"License\" /></a> <a href=\"https://github.com/makecindy/cindy/actions/work",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-assistant",
+          "android",
+          "claude-code",
+          "codex",
+          "electron",
+          "ios",
+          "llm",
+          "macos",
+          "react-native",
+          "typescript",
+          "windows"
+        ],
+        "updated_at": "2026-10-24T12:08:37Z"
+      },
+      "repo": {
+        "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
+        "forks": 562,
+        "full_name": "makecindy/cindy",
+        "language": "TypeScript",
+        "name": "cindy",
+        "owner": "makecindy",
+        "rank": 10,
+        "stars_today": 471,
+        "total_stars": 3756,
+        "url": "https://github.com/makecindy/cindy"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.05,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 75.1
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 471 stars today; score 75.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-11-16T01:52:04Z",
+        "default_branch": "main",
+        "description": "The design language that makes your AI harness better at design.",
+        "fork": false,
+        "full_name": "pbakaus/impeccable",
+        "homepage": "https://impeccable.style",
+        "latest_release": "engine-v0.1.17",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 39,
+        "primary_language": "Rust",
+        "pushed_at": "2026-10-24T06:29:27Z",
+        "readme_excerpt": "# Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 62 deterministic detector rules for AI-generated frontend design. > **Quick start:** From your project root, run `npx impeccable install`, then run `/impeccable init` inside your AI coding tool. Full docs: [impeccable.style](https://impeccable.style). ## Why Impeccable? Anthropic's [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) was the first widely-used d",
+        "topics": [],
+        "updated_at": "2026-10-24T12:05:54Z"
+      },
+      "repo": {
+        "description": "The design language that makes your AI harness better at design.",
+        "forks": 5135,
+        "full_name": "pbakaus/impeccable",
+        "language": "Rust",
+        "name": "impeccable",
+        "owner": "pbakaus",
+        "rank": 6,
+        "stars_today": 541,
+        "total_stars": 85860,
+        "url": "https://github.com/pbakaus/impeccable"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 4.88,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 72.77
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 541 stars today; score 72.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-18T14:08:44Z",
+        "default_branch": "main",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "fork": false,
+        "full_name": "cloudflare/security-audit-skill",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 85,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-14T19:29:02Z",
+        "readme_excerpt": "# security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting. This is the skill that seeded Cloudflare's vulnerability discovery harness, described in [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness). The harness grew into a multi-stage, f",
+        "topics": [],
+        "updated_at": "2026-10-24T12:09:19Z"
+      },
+      "repo": {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "forks": 2684,
+        "full_name": "cloudflare/security-audit-skill",
+        "language": "JavaScript",
+        "name": "security-audit-skill",
+        "owner": "cloudflare",
+        "rank": 1,
+        "stars_today": 2271,
+        "total_stars": 43021,
+        "url": "https://github.com/cloudflare/security-audit-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 72.55
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 2271 stars today; score 72.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-27T20:47:10Z",
+        "default_branch": "main",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "fork": false,
+        "full_name": "Nutlope/hallmark",
+        "homepage": "https://www.usehallmark.com/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 48,
+        "primary_language": "CSS",
+        "pushed_at": "2026-10-22T17:20:32Z",
+        "readme_excerpt": "# Hallmark **A design skill for Claude Code, Codex, Cursor and OpenCode that refuses to look AI-generated.** [usehallmark.com](https://www.usehallmark.com) &nbsp;\u00b7&nbsp; forty-eight themes &nbsp;\u00b7&nbsp; custom on request &nbsp;\u00b7&nbsp; redesign and audit by name Made by Together AI. <p align=\"center\"> <img src=\"site/OG-hallmark.png\" alt=\"Hallmark, the design skill that ends AI slop\" /> </p> Hallmark holds a hard floor and then gets out of the way. It deals three themes from a catalog of forty-eig",
+        "topics": [],
+        "updated_at": "2026-10-24T12:09:36Z"
+      },
+      "repo": {
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "forks": 1625,
+        "full_name": "Nutlope/hallmark",
+        "language": "CSS",
+        "name": "hallmark",
+        "owner": "Nutlope",
+        "rank": 4,
+        "stars_today": 567,
+        "total_stars": 31503,
+        "url": "https://github.com/Nutlope/hallmark"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.27,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 72.07
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: CSS project with 567 stars today; score 72.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-23T12:44:08Z",
+        "default_branch": "main",
+        "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+        "fork": false,
+        "full_name": "aws/agent-toolkit-for-aws",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 64,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-23T15:00:22Z",
+        "readme_excerpt": "# Agent Toolkit for AWS [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE) [![Build](https://github.com/aws/agent-toolkit-for-aws/actions/workflows/build.yml/badge.svg)](https://github.com/aws/agent-toolkit-for-aws/actions/workflows/build.yml) [![Status](https://img.shields.io/badge/status-GA-green.svg)](https://github.com/aws/agent-toolkit-for-aws) Help AI coding agents build, deploy, and manage applications on AWS. The Agent Toolkit for AWS gives AI coding agents",
+        "topics": [],
+        "updated_at": "2026-10-24T12:08:24Z"
+      },
+      "repo": {
+        "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+        "forks": 392,
+        "full_name": "aws/agent-toolkit-for-aws",
+        "language": "Python",
+        "name": "agent-toolkit-for-aws",
+        "owner": "aws",
+        "rank": 3,
+        "stars_today": 11,
+        "total_stars": 2968,
+        "url": "https://github.com/aws/agent-toolkit-for-aws"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.35,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 67.45
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 11 stars today; score 67.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-24T22:52:22Z",
+        "default_branch": "main",
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "fork": false,
+        "full_name": "NVIDIA/OpenShell",
+        "homepage": "https://docs.nvidia.com/openshell/latest/",
+        "latest_release": "v0.1.5",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 576,
+        "primary_language": "Rust",
+        "pushed_at": "2026-10-24T02:12:45Z",
+        "readme_excerpt": "<!-- markdownlint-disable MD033 MD041 --> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/brand/assets/openshell-banner-dark.png\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"docs/brand/assets/openshell-banner-light.png\"> <img alt=\"OpenShell\" src=\"docs/brand/assets/openshell-banner-light.png\" width=\"430\"> </picture> <!-- markdownlint-enable MD033 MD041 --> [![License](https://img.shields.io/badge/License-Apache_2.0-blue)](https://github.com/NVIDIA/OpenShell/blob/mai",
+        "topics": [],
+        "updated_at": "2026-10-24T12:06:31Z"
+      },
+      "repo": {
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "forks": 1907,
+        "full_name": "NVIDIA/OpenShell",
+        "language": "Rust",
+        "name": "OpenShell",
+        "owner": "NVIDIA",
+        "rank": 2,
+        "stars_today": 893,
+        "total_stars": 19130,
+        "url": "https://github.com/NVIDIA/OpenShell"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.76,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 67.36
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 893 stars today; score 67.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-29T07:52:16Z",
+        "default_branch": "main",
+        "description": "A Tiny biped duck robot \ud83e\udd86",
+        "fork": false,
+        "full_name": "pollen-robotics/microduck",
+        "homepage": "https://pollen-robotics.com/microduck",
+        "latest_release": "daemon-v0.17.8",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 57,
+        "primary_language": "Rust",
+        "pushed_at": "2026-10-24T09:37:44Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"https://github.com/user-attachments/assets/c2f7c245-8217-46a1-8d1e-e0ba967cd969\" alt=\"microduck\" width=\"820\"> </p> <h1 align=\"center\">Microduck</h1> <p align=\"center\"> <em>A tiny biped robot that moves using reinforcement learning policies.</em> </p> <p align=\"center\"> <a href=\"https://pollen-robotics.com/microduck\"><b>Get yours here</b></a> \u00b7 <a href=\"docs/robot/cheatsheet.md\">Cheat sheet</a> \u00b7 <a href=\"https://github.com/pollen-robotics/microduck_rl\">Training the p",
+        "topics": [],
+        "updated_at": "2026-10-24T12:02:03Z"
+      },
+      "repo": {
+        "description": "A Tiny biped duck robot \ud83e\udd86",
+        "forks": 1379,
+        "full_name": "pollen-robotics/microduck",
+        "language": "Rust",
+        "name": "microduck",
+        "owner": "pollen-robotics",
+        "rank": 7,
+        "stars_today": 421,
+        "total_stars": 10632,
+        "url": "https://github.com/pollen-robotics/microduck"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.29,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 61.09
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 421 stars today; score 61.1/100."
+    },
+    {
+      "caution": "Production readiness is unclear.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/luongnv89",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A visual, example-driven guide to Claude Code \u2014 from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+        "forks": 5467,
+        "full_name": "sponsors/luongnv89",
+        "language": "Python",
+        "name": "luongnv89",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 1053,
+        "total_stars": 44157,
+        "url": "https://github.com/sponsors/luongnv89"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 4.06,
+        "momentum": 6.92,
+        "novelty": 2.8,
+        "practical_usefulness": 4.93,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 42.66
+      },
+      "tags": [
+        "AI Workflow",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Hype Risk: Python project with 1053 stars today; score 42.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-09-13T12:22:09Z",
+        "default_branch": "main",
+        "description": "\u6b22\u8fce\u6765\u5230\u7535\u5b50\u4e66\u4e0b\u8f7d\u5b9d\u5e93\uff0c\u4e00\u4e2a\u6c47\u805a\u4e86\u5404\u7c7b\u7535\u5b50\u4e66\u4e0b\u8f7d\u94fe\u63a5\u7684\u5730\u65b9\u3002\u65e0\u8bba\u4f60\u662f\u559c\u6b22\u9605\u8bfb\u7ecf\u5178\u6587\u5b66\u3001\u7ecf\u7ba1\u52b1\u5fd7\u3001\u7ec8\u8eab\u5b66\u4e60\u3001\u804c\u573a\u521b\u4e1a\u3001\u6280\u672f\u624b\u518c\u8fd8\u662f\u5176\u4ed6\u7c7b\u578b\u7684\u4e66\u7c4d\uff0c\u8fd9\u91cc\u90fd\u80fd\u6ee1\u8db3\u4f60\u7684\u9700\u6c42\u3002 \u8be5\u5e93\u6db5\u76d6\u4e86\u5e06\u4e66app(\u539f\u6a0a\u767b\u8bfb\u4e66)\u3001\u5fae\u4fe1\u8bfb\u4e66\u3001\u4eac\u4e1c\u8bfb\u4e66\u3001\u559c\u9a6c\u62c9\u96c5\u7b49\u8bfb\u4e66app\u7684\u5927\u90e8\u5206\u7535\u5b50\u4e66\u3002",
+        "fork": false,
+        "full_name": "jbiaojerry/ebook-treasure-chest",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 5,
+        "primary_language": "Python",
+        "pushed_at": "2026-01-13T00:59:23Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\".github/logo.png\" alt=\"Project Logo\"> </p> # \u7535\u5b50\u4e66\u4e0b\u8f7d\u5b9d\u5e93 ![GitHub](https://img.shields.io/github/license/jbiaojerry/ebook-treasure-chest) ![GitHub stars](https://img.shields.io/github/stars/jbiaojerry/ebook-treasure-chest?style=social) ![GitHub forks](https://img.shields.io/github/forks/jbiaojerry/ebook-treasure-chest?style=social) > **\ud83c\udf10 [\u5728\u7ebf\u8bbf\u95ee GitHub Pages](https://jbiaojerry.github.io/ebook-treasure-chest/)** - \u4f53\u9a8c\u5f3a\u5927\u7684\u5b9e\u65f6\u641c\u7d22\u529f\u80fd\u548c\u591a\u5173\u952e\u5b57\u641c\u7d22\uff0c\u5feb\u901f\u627e\u5230\u4f60\u60f3\u8981\u7684\u7535\u5b50\u4e66\uff01 \u6b22\u8fce\u6765\u5230\u7535\u5b50\u4e66\u4e0b\u8f7d\u5b9d\u5e93\uff0c\u4e00\u4e2a\u6c47\u805a\u4e86\u5404\u7c7b\u7535\u5b50\u4e66\u4e0b\u8f7d\u94fe\u63a5\u7684",
+        "topics": [],
+        "updated_at": "2026-10-24T12:07:52Z"
+      },
+      "repo": {
+        "description": "\u6b22\u8fce\u6765\u5230\u7535\u5b50\u4e66\u4e0b\u8f7d\u5b9d\u5e93\uff0c\u4e00\u4e2a\u6c47\u805a\u4e86\u5404\u7c7b\u7535\u5b50\u4e66\u4e0b\u8f7d\u94fe\u63a5\u7684\u5730\u65b9\u3002\u65e0\u8bba\u4f60\u662f\u559c\u6b22\u9605\u8bfb\u7ecf\u5178\u6587\u5b66\u3001\u7ecf\u7ba1\u52b1\u5fd7\u3001\u7ec8\u8eab\u5b66\u4e60\u3001\u804c\u573a\u521b\u4e1a\u3001\u6280\u672f\u624b\u518c\u8fd8\u662f\u5176\u4ed6\u7c7b\u578b\u7684\u4e66\u7c4d\uff0c\u8fd9\u91cc\u90fd\u80fd\u6ee1\u8db3\u4f60\u7684\u9700\u6c42\u3002 \u8be5\u5e93\u6db5\u76d6\u4e86\u5e06\u4e66app(\u539f\u6a0a\u767b\u8bfb\u4e66)\u3001\u5fae\u4fe1\u8bfb\u4e66\u3001\u4eac\u4e1c\u8bfb\u4e66\u3001\u559c\u9a6c\u62c9\u96c5\u7b49\u8bfb\u4e66app\u7684\u5927\u90e8\u5206\u7535\u5b50\u4e66\u3002",
+        "forks": 3170,
+        "full_name": "jbiaojerry/ebook-treasure-chest",
+        "language": "Python",
+        "name": "ebook-treasure-chest",
+        "owner": "jbiaojerry",
+        "rank": 9,
+        "stars_today": 220,
+        "total_stars": 22279,
+        "url": "https://github.com/jbiaojerry/ebook-treasure-chest"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.26,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 1.33,
+        "technical_quality": 9.1,
+        "total": 41.54
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: Python project with 220 stars today; score 41.5/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-10-24",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is google-gemini/gemini-cli."
+}

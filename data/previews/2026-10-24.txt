@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-10-24
+
+Today leans toward AI workflow signal; the strongest pick is google-gemini/gemini-cli.
+
+Top picks
+1. google-gemini/gemini-cli - 80.7/100
+   https://github.com/google-gemini/gemini-cli
+   AI Workflow, DevTools: TypeScript project with 38 stars today; score 80.7/100.
+2. makecindy/cindy - 75.1/100
+   https://github.com/makecindy/cindy
+   AI Workflow, Try Today: TypeScript project with 471 stars today; score 75.1/100.
+3. pbakaus/impeccable - 72.8/100
+   https://github.com/pbakaus/impeccable
+   AI Workflow, Try Today: Rust project with 541 stars today; score 72.8/100.
+4. Nutlope/hallmark - 72.1/100
+   https://github.com/Nutlope/hallmark
+   AI Workflow, Try Today: CSS project with 567 stars today; score 72.1/100.
+5. aws/agent-toolkit-for-aws - 67.5/100
+   https://github.com/aws/agent-toolkit-for-aws
+   AI Workflow, DevTools: Python project with 11 stars today; score 67.5/100.
+
+Full reviewed list
+- google-gemini/gemini-cli: 80.7/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 38 stars today; score 80.7/100.
+- makecindy/cindy: 75.1/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 471 stars today; score 75.1/100.
+- pbakaus/impeccable: 72.8/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Rust project with 541 stars today; score 72.8/100.
+- Nutlope/hallmark: 72.1/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: CSS project with 567 stars today; score 72.1/100.
+- aws/agent-toolkit-for-aws: 67.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 11 stars today; score 67.5/100.
+- pollen-robotics/microduck: 61.1/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Rust project with 421 stars today; score 61.1/100.
+- jbiaojerry/ebook-treasure-chest: 41.5/100 [Watch] Watch: Python project with 220 stars today; score 41.5/100.
+
+Generated for 2026-10-24 from GitHub Trending daily.
