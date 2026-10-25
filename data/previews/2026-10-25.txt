@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-10-25
+
+Today leans toward AI workflow signal; the strongest pick is AgriciDaniel/claude-seo.
+
+Top picks
+1. AgriciDaniel/claude-seo - 76.6/100
+   https://github.com/AgriciDaniel/claude-seo
+   AI Workflow, DevTools: Python project with 179 stars today; score 76.6/100.
+2. TauricResearch/TradingAgents - 69.6/100
+   https://github.com/TauricResearch/TradingAgents
+   AI Workflow, DevTools: Python project with 309 stars today; score 69.6/100.
+3. JetBrains/thinkrail - 64.0/100
+   https://github.com/JetBrains/thinkrail
+   AI Workflow, DevTools: TypeScript project with 52 stars today; score 64.0/100.
+4. sponsors/coollabsio - 34.5/100
+   https://github.com/sponsors/coollabsio
+   DevTools, Watch: PHP project with 192 stars today; score 34.5/100.
+   Caution: Weak onboarding evidence.
+5. sponsors/debpalash - 24.4/100
+   https://github.com/sponsors/debpalash
+   Watch, Hype Risk: Python project with 1588 stars today; score 24.4/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- AgriciDaniel/claude-seo: 76.6/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 179 stars today; score 76.6/100.
+- TauricResearch/TradingAgents: 69.6/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 309 stars today; score 69.6/100.
+- JetBrains/thinkrail: 64.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 52 stars today; score 64.0/100.
+- sponsors/coollabsio: 34.5/100 [DevTools, Watch, Hype Risk] DevTools, Watch: PHP project with 192 stars today; score 34.5/100.
+- sponsors/debpalash: 24.4/100 [Watch, Hype Risk] Watch, Hype Risk: Python project with 1588 stars today; score 24.4/100.
+
+Generated for 2026-10-25 from GitHub Trending daily.
