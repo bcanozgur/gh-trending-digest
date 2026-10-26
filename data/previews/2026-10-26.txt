@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-10-26
+
+Today leans toward AI workflow signal; the strongest pick is NVIDIA/SkillSpector.
+
+Top picks
+1. NVIDIA/SkillSpector - 77.9/100
+   https://github.com/NVIDIA/SkillSpector
+   AI Workflow, DevTools: Python project with 203 stars today; score 77.9/100.
+2. Panniantong/Agent-Reach - 72.6/100
+   https://github.com/Panniantong/Agent-Reach
+   AI Workflow, DevTools: Python project with 723 stars today; score 72.6/100.
+3. nightly-labs/openbot - 72.1/100
+   https://github.com/nightly-labs/openbot
+   AI Workflow, DevTools: TypeScript project with 86 stars today; score 72.1/100.
+4. alchaincyf/huashu-design - 71.8/100
+   https://github.com/alchaincyf/huashu-design
+   AI Workflow, Try Today: HTML project with 177 stars today; score 71.8/100.
+5. multica-ai/andrej-karpathy-skills - 60.1/100
+   https://github.com/multica-ai/andrej-karpathy-skills
+   AI Workflow, Deep Dive: Unknown project with 457 stars today; score 60.1/100.
+
+Full reviewed list
+- NVIDIA/SkillSpector: 77.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 203 stars today; score 77.9/100.
+- Panniantong/Agent-Reach: 72.6/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 723 stars today; score 72.6/100.
+- nightly-labs/openbot: 72.1/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 86 stars today; score 72.1/100.
+- alchaincyf/huashu-design: 71.8/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: HTML project with 177 stars today; score 71.8/100.
+- multica-ai/andrej-karpathy-skills: 60.1/100 [AI Workflow, Deep Dive] AI Workflow, Deep Dive: Unknown project with 457 stars today; score 60.1/100.
+- gitroomhq/postiz-app: 59.4/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 146 stars today; score 59.4/100.
+- sponsors/affaan-m: 39.1/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: JavaScript project with 853 stars today; score 39.1/100.
+
+Generated for 2026-10-26 from GitHub Trending daily.

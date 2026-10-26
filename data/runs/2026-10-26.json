@@ -1,0 +1,1199 @@
+{
+  "date": "2026-10-26",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-21T00:28:43Z",
+        "default_branch": "main",
+        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+        "fork": false,
+        "full_name": "NVIDIA/SkillSpector",
+        "homepage": "https://docs.nvidia.com/skills/scanning-agent-skills",
+        "latest_release": "v2.13.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 172,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-23T09:40:29Z",
+        "readme_excerpt": "# SkillSpector **Security scanner for AI agent skills.** Detect vulnerabilities, malicious patterns, and security risks before installing agent skills. [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/) [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) ## Overview AI agent skills (used by Claude Code, Codex CLI, Gemini CLI, etc.) execute with implicit trust and mi",
+        "topics": [
+          "agent-security",
+          "agent-skills",
+          "agentic-ai",
+          "ai-security",
+          "claude-code",
+          "mcp",
+          "prompt-injection",
+          "security-scanner",
+          "security-tools",
+          "security-workflow",
+          "supply-chain-security"
+        ],
+        "updated_at": "2026-10-26T14:30:19Z"
+      },
+      "repo": {
+        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+        "forks": 1913,
+        "full_name": "NVIDIA/SkillSpector",
+        "language": "Python",
+        "name": "SkillSpector",
+        "owner": "NVIDIA",
+        "rank": 7,
+        "stars_today": 203,
+        "total_stars": 21810,
+        "url": "https://github.com/NVIDIA/SkillSpector"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.48,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 77.89
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 203 stars today; score 77.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-24T02:10:24Z",
+        "default_branch": "main",
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+        "fork": false,
+        "full_name": "Panniantong/Agent-Reach",
+        "homepage": null,
+        "latest_release": "v1.6.0",
+        "license_spdx": "MIT",
+        "open_issues": 245,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-25T04:37:26Z",
+        "readme_excerpt": "<h1 align=\"center\">\ud83d\udc41\ufe0f Agent Reach</h1> <p align=\"center\"> <strong>\u8ba9 AI Agent \u591f\u5f97\u7740\u5b83\u81ea\u5df1\u4e0a\u4e0d\u53bb\u7684\u4e92\u8054\u7f51</strong> </p> <p align=\"center\"> \u767b\u5f55\u5899\u540e\u7684\u5e73\u53f0\u3001\u89c6\u9891\u91cc\u7684\u5185\u5bb9\u3001\u4e2d\u6587\u5e73\u53f0\u3001\u5e72\u51c0\u7684\u7ed3\u6784\u5316\u6570\u636e\uff0c\u4e00\u6761\u547d\u4ee4\u62ff\u5230 </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/24387\"><img src=\"https://trendshift.io/api/badge/repositories/24387\" alt=\"Trendshift GitHub Trending #1 Repository of the Day\"></a> <a href=\"https://star-history.com/#Panniantong/Agent-Reach&Date\"><img src=\"https://api.star-history.com/badge?repo=Panniantong/Agent-Reach\" ",
+        "topics": [
+          "agent-infrastructure",
+          "ai-agent",
+          "ai-search",
+          "automation",
+          "bilibili",
+          "claude-code",
+          "cli",
+          "cursor",
+          "free-api",
+          "llm-tools",
+          "mcp",
+          "python",
+          "reddit-scraper",
+          "twitter-scraper",
+          "web-scraper",
+          "xiaohongshu",
+          "youtube-transcript"
+        ],
+        "updated_at": "2026-10-26T14:29:55Z"
+      },
+      "repo": {
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+        "forks": 9142,
+        "full_name": "Panniantong/Agent-Reach",
+        "language": "Python",
+        "name": "Agent-Reach",
+        "owner": "Panniantong",
+        "rank": 10,
+        "stars_today": 723,
+        "total_stars": 103053,
+        "url": "https://github.com/Panniantong/Agent-Reach"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.95,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 72.6
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 723 stars today; score 72.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-08-12T21:32:03Z",
+        "default_branch": "main",
+        "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+        "fork": false,
+        "full_name": "nightly-labs/openbot",
+        "homepage": "https://openbot.run/",
+        "latest_release": "v0.50.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 177,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-26T14:27:08Z",
+        "readme_excerpt": "# OpenBot [![CI](https://github.com/nightly-labs/openbot/actions/workflows/ci.yml/badge.svg)](https://github.com/nightly-labs/openbot/actions/workflows/ci.yml) [![License](https://img.shields.io/badge/license-PolyForm_Noncommercial_1.0.0-blue.svg)](LICENSE) OpenBot is a local-first desktop workspace for persistent AI teammates. It supports the local [Codex App Server](https://learn.chatgpt.com/docs/app-server) and [Claude Code](https://code.claude.com/docs/en/overview), plus [Grok CLI](https://d",
+        "topics": [
+          "ai-agents",
+          "bun",
+          "codex",
+          "electron",
+          "local-first",
+          "macos",
+          "solidjs",
+          "typescript"
+        ],
+        "updated_at": "2026-10-26T14:24:37Z"
+      },
+      "repo": {
+        "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+        "forks": 165,
+        "full_name": "nightly-labs/openbot",
+        "language": "TypeScript",
+        "name": "openbot",
+        "owner": "nightly-labs",
+        "rank": 9,
+        "stars_today": 86,
+        "total_stars": 1175,
+        "url": "https://github.com/nightly-labs/openbot"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.76,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 72.11
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 86 stars today; score 72.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-19T14:42:06Z",
+        "default_branch": "master",
+        "description": "Huashu Design 3.0 \u00b7 \u5728 agent \u91cc\u6253\u4e00\u53e5\u8bdd\uff0c\u62ff\u56de\u80fd\u4ea4\u4ed8\u7684\u8bbe\u8ba1\uff1a\u7f51\u9875 / App \u539f\u578b / \u53ef\u7f16\u8f91 PPTX / \u52a8\u753b / \u4fe1\u606f\u56fe \u00b7 \u516d\u4e2a\u5019\u9009\u6311\u4e09\u4e2a\u65b9\u5411 \u00b7 84 \u79cd\u5e26\u6837\u5f20\u7684\u98ce\u683c\u5e93 \u00b7 \u8d8a\u7528\u8d8a\u61c2\u4f60\u7684\u5916\u89c2\u8d26\u672c\u4e0e\u8bbe\u8ba1\u4f53\u68c0 \u00b7 HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+        "fork": false,
+        "full_name": "alchaincyf/huashu-design",
+        "homepage": null,
+        "latest_release": "v3.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 5,
+        "primary_language": "HTML",
+        "pushed_at": "2026-10-23T15:32:08Z",
+        "readme_excerpt": "<sub>\ud83c\udf10 <b>\u4e2d\u6587</b> \u00b7 <a href=\"README.en.md\">English</a></sub> <div align=\"center\"> # Huashu Design > *\u300c\u6253\u5b57\u3002\u56de\u8f66\u3002\u4e00\u4efd\u80fd\u4ea4\u4ed8\u7684\u8bbe\u8ba1\u3002\u300d* > *\"Type. Hit enter. A finished design lands in your lap.\"* [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Agent-Agnostic](https://img.shields.io/badge/Agent-Agnostic-blueviolet)](https://skills.sh) [![Skills](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh) <br> **\u5728\u4f60\u7684 agent \u91cc\u6253\u4e00\u53e5\u8bdd\uff0c\u62ff\u56de\u4e00\u4efd\u80fd\u4ea4\u4ed8\u7684\u8bbe\u8ba1\u3002** <br> 3 \u5230 30 \u5206\u949f\uff0c\u4f60\u80fd ship \u4e00\u6bb5**",
+        "topics": [
+          "agent-skills",
+          "ai-design",
+          "claude-code",
+          "claude-skills",
+          "codex",
+          "cursor",
+          "design",
+          "html",
+          "pptx",
+          "prototype"
+        ],
+        "updated_at": "2026-10-26T14:29:35Z"
+      },
+      "repo": {
+        "description": "Huashu Design 3.0 \u00b7 \u5728 agent \u91cc\u6253\u4e00\u53e5\u8bdd\uff0c\u62ff\u56de\u80fd\u4ea4\u4ed8\u7684\u8bbe\u8ba1\uff1a\u7f51\u9875 / App \u539f\u578b / \u53ef\u7f16\u8f91 PPTX / \u52a8\u753b / \u4fe1\u606f\u56fe \u00b7 \u516d\u4e2a\u5019\u9009\u6311\u4e09\u4e2a\u65b9\u5411 \u00b7 84 \u79cd\u5e26\u6837\u5f20\u7684\u98ce\u683c\u5e93 \u00b7 \u8d8a\u7528\u8d8a\u61c2\u4f60\u7684\u5916\u89c2\u8d26\u672c\u4e0e\u8bbe\u8ba1\u4f53\u68c0 \u00b7 HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+        "forks": 2952,
+        "full_name": "alchaincyf/huashu-design",
+        "language": "HTML",
+        "name": "huashu-design",
+        "owner": "alchaincyf",
+        "rank": 13,
+        "stars_today": 177,
+        "total_stars": 26550,
+        "url": "https://github.com/alchaincyf/huashu-design"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.52,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 71.77
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: HTML project with 177 stars today; score 71.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-27T03:53:13Z",
+        "default_branch": "main",
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "fork": false,
+        "full_name": "multica-ai/andrej-karpathy-skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 138,
+        "primary_language": null,
+        "pushed_at": "2026-04-20T10:05:04Z",
+        "readme_excerpt": "# Karpathy-Inspired Claude Code Guidelines > Check out my new project [Multica](https://github.com/multica-ai/multica) \u2014 an open-source platform for running and managing coding agents with reusable skills. > > Follow me on X: [https://x.com/jiayuan_jy](https://x.com/jiayuan_jy) A single `CLAUDE.md` file to improve Claude Code behavior, derived from [Andrej Karpathy's observations](https://x.com/karpathy/status/2015883857489522876) on LLM coding pitfalls. English | [\u7b80\u4f53\u4e2d\u6587](./README.zh.md) ## The P",
+        "topics": [],
+        "updated_at": "2026-10-26T14:30:03Z"
+      },
+      "repo": {
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "forks": 22442,
+        "full_name": "multica-ai/andrej-karpathy-skills",
+        "language": null,
+        "name": "andrej-karpathy-skills",
+        "owner": "multica-ai",
+        "rank": 14,
+        "stars_today": 457,
+        "total_stars": 224248,
+        "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.4,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 9.1,
+        "total": 60.15
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Unknown project with 457 stars today; score 60.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-07-08T17:24:22Z",
+        "default_branch": "main",
+        "description": "\ud83d\udce8 The ultimate agentic social media scheduling tool \ud83e\udd16",
+        "fork": false,
+        "full_name": "gitroomhq/postiz-app",
+        "homepage": "https://postiz.com",
+        "latest_release": "v2.25.3",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 222,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-24T18:27:21Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://postiz.com/\" target=\"_blank\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/765e9d72-3ee7-4a56-9d59-a2c9befe2311\"> <img alt=\"Postiz Logo\" src=\"https://github.com/user-attachments/assets/f0d30d70-dddb-4142-8876-e9aa6ed1cb99\" width=\"280\"/> </picture> </a> </p> <p align=\"center\"> <a href=\"https://opensource.org/license/agpl-v3\"> <img src=\"https://img.shields.io/badge/License-AGPL%203.0-blue.svg\" alt=\"Lic",
+        "topics": [
+          "nextjs",
+          "open-source",
+          "open-source-social-media-scheduling-tool",
+          "oss",
+          "postiz-cloud",
+          "postiz-hosted",
+          "redis",
+          "scheduling-tool",
+          "social-media-scheduling-tool",
+          "typescript"
+        ],
+        "updated_at": "2026-10-26T14:29:34Z"
+      },
+      "repo": {
+        "description": "\ud83d\udce8 The ultimate agentic social media scheduling tool \ud83e\udd16",
+        "forks": 7414,
+        "full_name": "gitroomhq/postiz-app",
+        "language": "TypeScript",
+        "name": "postiz-app",
+        "owner": "gitroomhq",
+        "rank": 12,
+        "stars_today": 146,
+        "total_stars": 38057,
+        "url": "https://github.com/gitroomhq/postiz-app"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.55,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.35
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 146 stars today; score 59.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 42876,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 853,
+        "total_stars": 289349,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.15,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 39.1
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 853 stars today; score 39.1/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-21T00:28:43Z",
+        "default_branch": "main",
+        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+        "fork": false,
+        "full_name": "NVIDIA/SkillSpector",
+        "homepage": "https://docs.nvidia.com/skills/scanning-agent-skills",
+        "latest_release": "v2.13.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 172,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-23T09:40:29Z",
+        "readme_excerpt": "# SkillSpector **Security scanner for AI agent skills.** Detect vulnerabilities, malicious patterns, and security risks before installing agent skills. [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/) [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) ## Overview AI agent skills (used by Claude Code, Codex CLI, Gemini CLI, etc.) execute with implicit trust and mi",
+        "topics": [
+          "agent-security",
+          "agent-skills",
+          "agentic-ai",
+          "ai-security",
+          "claude-code",
+          "mcp",
+          "prompt-injection",
+          "security-scanner",
+          "security-tools",
+          "security-workflow",
+          "supply-chain-security"
+        ],
+        "updated_at": "2026-10-26T14:30:19Z"
+      },
+      "repo": {
+        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+        "forks": 1913,
+        "full_name": "NVIDIA/SkillSpector",
+        "language": "Python",
+        "name": "SkillSpector",
+        "owner": "NVIDIA",
+        "rank": 7,
+        "stars_today": 203,
+        "total_stars": 21810,
+        "url": "https://github.com/NVIDIA/SkillSpector"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.48,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 77.89
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 203 stars today; score 77.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-11-16T01:52:04Z",
+        "default_branch": "main",
+        "description": "The design language that makes your AI harness better at design.",
+        "fork": false,
+        "full_name": "pbakaus/impeccable",
+        "homepage": "https://impeccable.style",
+        "latest_release": "engine-v0.1.17",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 43,
+        "primary_language": "Rust",
+        "pushed_at": "2026-10-26T12:46:18Z",
+        "readme_excerpt": "# Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 62 deterministic detector rules for AI-generated frontend design. > **Quick start:** From your project root, run `npx impeccable install`, then run `/impeccable init` inside your AI coding tool. Full docs: [impeccable.style](https://impeccable.style). ## Why Impeccable? Anthropic's [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) was the first widely-used d",
+        "topics": [],
+        "updated_at": "2026-10-26T14:29:45Z"
+      },
+      "repo": {
+        "description": "The design language that makes your AI harness better at design.",
+        "forks": 5288,
+        "full_name": "pbakaus/impeccable",
+        "language": "Rust",
+        "name": "impeccable",
+        "owner": "pbakaus",
+        "rank": 6,
+        "stars_today": 1551,
+        "total_stars": 88614,
+        "url": "https://github.com/pbakaus/impeccable"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 8.56,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 76.45
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 1551 stars today; score 76.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-22T17:49:34Z",
+        "default_branch": "main",
+        "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
+        "fork": false,
+        "full_name": "makecindy/cindy",
+        "homepage": "https://cindy.app",
+        "latest_release": "v0.1.115",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 2011,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-26T14:21:42Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://cindy.app\"><img src=\".github/assets/hero-en.webp\" width=\"100%\" alt=\"CINDY \u2014 Consider it done. The open-source AI agent that works out of the box, doing real work on your own computer.\"></a> </p> <p align=\"center\"> <strong>English</strong> \u00b7 <a href=\"README.zh-CN.md\">\u7b80\u4f53\u4e2d\u6587</a> </p> <p align=\"center\"> <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-Apache--2.0-blue.svg\" alt=\"License\" /></a> <a href=\"https://github.com/makecindy/cindy/actions/work",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-assistant",
+          "android",
+          "claude-code",
+          "codex",
+          "electron",
+          "ios",
+          "llm",
+          "macos",
+          "react-native",
+          "typescript",
+          "windows"
+        ],
+        "updated_at": "2026-10-26T14:30:10Z"
+      },
+      "repo": {
+        "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
+        "forks": 740,
+        "full_name": "makecindy/cindy",
+        "language": "TypeScript",
+        "name": "cindy",
+        "owner": "makecindy",
+        "rank": 4,
+        "stars_today": 1268,
+        "total_stars": 5865,
+        "url": "https://github.com/makecindy/cindy"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.82,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.67
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 1268 stars today; score 73.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-27T20:47:10Z",
+        "default_branch": "main",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "fork": false,
+        "full_name": "Nutlope/hallmark",
+        "homepage": "https://www.usehallmark.com/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 62,
+        "primary_language": "CSS",
+        "pushed_at": "2026-10-22T17:20:32Z",
+        "readme_excerpt": "# Hallmark **A design skill for Claude Code, Codex, Cursor and OpenCode that refuses to look AI-generated.** [usehallmark.com](https://www.usehallmark.com) &nbsp;\u00b7&nbsp; forty-eight themes &nbsp;\u00b7&nbsp; custom on request &nbsp;\u00b7&nbsp; redesign and audit by name Made by Together AI. <p align=\"center\"> <img src=\"site/OG-hallmark.png\" alt=\"Hallmark, the design skill that ends AI slop\" /> </p> Hallmark holds a hard floor and then gets out of the way. It deals three themes from a catalog of forty-eig",
+        "topics": [],
+        "updated_at": "2026-10-26T14:30:14Z"
+      },
+      "repo": {
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "forks": 1844,
+        "full_name": "Nutlope/hallmark",
+        "language": "CSS",
+        "name": "hallmark",
+        "owner": "Nutlope",
+        "rank": 1,
+        "stars_today": 2235,
+        "total_stars": 35368,
+        "url": "https://github.com/Nutlope/hallmark"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.79,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 73.39
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: CSS project with 2235 stars today; score 73.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-24T02:10:24Z",
+        "default_branch": "main",
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+        "fork": false,
+        "full_name": "Panniantong/Agent-Reach",
+        "homepage": null,
+        "latest_release": "v1.6.0",
+        "license_spdx": "MIT",
+        "open_issues": 245,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-25T04:37:26Z",
+        "readme_excerpt": "<h1 align=\"center\">\ud83d\udc41\ufe0f Agent Reach</h1> <p align=\"center\"> <strong>\u8ba9 AI Agent \u591f\u5f97\u7740\u5b83\u81ea\u5df1\u4e0a\u4e0d\u53bb\u7684\u4e92\u8054\u7f51</strong> </p> <p align=\"center\"> \u767b\u5f55\u5899\u540e\u7684\u5e73\u53f0\u3001\u89c6\u9891\u91cc\u7684\u5185\u5bb9\u3001\u4e2d\u6587\u5e73\u53f0\u3001\u5e72\u51c0\u7684\u7ed3\u6784\u5316\u6570\u636e\uff0c\u4e00\u6761\u547d\u4ee4\u62ff\u5230 </p> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/24387\"><img src=\"https://trendshift.io/api/badge/repositories/24387\" alt=\"Trendshift GitHub Trending #1 Repository of the Day\"></a> <a href=\"https://star-history.com/#Panniantong/Agent-Reach&Date\"><img src=\"https://api.star-history.com/badge?repo=Panniantong/Agent-Reach\" ",
+        "topics": [
+          "agent-infrastructure",
+          "ai-agent",
+          "ai-search",
+          "automation",
+          "bilibili",
+          "claude-code",
+          "cli",
+          "cursor",
+          "free-api",
+          "llm-tools",
+          "mcp",
+          "python",
+          "reddit-scraper",
+          "twitter-scraper",
+          "web-scraper",
+          "xiaohongshu",
+          "youtube-transcript"
+        ],
+        "updated_at": "2026-10-26T14:29:55Z"
+      },
+      "repo": {
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+        "forks": 9142,
+        "full_name": "Panniantong/Agent-Reach",
+        "language": "Python",
+        "name": "Agent-Reach",
+        "owner": "Panniantong",
+        "rank": 10,
+        "stars_today": 723,
+        "total_stars": 103053,
+        "url": "https://github.com/Panniantong/Agent-Reach"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.95,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.95,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 72.6
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 723 stars today; score 72.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-08-12T21:32:03Z",
+        "default_branch": "main",
+        "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+        "fork": false,
+        "full_name": "nightly-labs/openbot",
+        "homepage": "https://openbot.run/",
+        "latest_release": "v0.50.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 177,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-26T14:27:08Z",
+        "readme_excerpt": "# OpenBot [![CI](https://github.com/nightly-labs/openbot/actions/workflows/ci.yml/badge.svg)](https://github.com/nightly-labs/openbot/actions/workflows/ci.yml) [![License](https://img.shields.io/badge/license-PolyForm_Noncommercial_1.0.0-blue.svg)](LICENSE) OpenBot is a local-first desktop workspace for persistent AI teammates. It supports the local [Codex App Server](https://learn.chatgpt.com/docs/app-server) and [Claude Code](https://code.claude.com/docs/en/overview), plus [Grok CLI](https://d",
+        "topics": [
+          "ai-agents",
+          "bun",
+          "codex",
+          "electron",
+          "local-first",
+          "macos",
+          "solidjs",
+          "typescript"
+        ],
+        "updated_at": "2026-10-26T14:24:37Z"
+      },
+      "repo": {
+        "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+        "forks": 165,
+        "full_name": "nightly-labs/openbot",
+        "language": "TypeScript",
+        "name": "openbot",
+        "owner": "nightly-labs",
+        "rank": 9,
+        "stars_today": 86,
+        "total_stars": 1175,
+        "url": "https://github.com/nightly-labs/openbot"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.76,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 72.11
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 86 stars today; score 72.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-19T14:42:06Z",
+        "default_branch": "master",
+        "description": "Huashu Design 3.0 \u00b7 \u5728 agent \u91cc\u6253\u4e00\u53e5\u8bdd\uff0c\u62ff\u56de\u80fd\u4ea4\u4ed8\u7684\u8bbe\u8ba1\uff1a\u7f51\u9875 / App \u539f\u578b / \u53ef\u7f16\u8f91 PPTX / \u52a8\u753b / \u4fe1\u606f\u56fe \u00b7 \u516d\u4e2a\u5019\u9009\u6311\u4e09\u4e2a\u65b9\u5411 \u00b7 84 \u79cd\u5e26\u6837\u5f20\u7684\u98ce\u683c\u5e93 \u00b7 \u8d8a\u7528\u8d8a\u61c2\u4f60\u7684\u5916\u89c2\u8d26\u672c\u4e0e\u8bbe\u8ba1\u4f53\u68c0 \u00b7 HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+        "fork": false,
+        "full_name": "alchaincyf/huashu-design",
+        "homepage": null,
+        "latest_release": "v3.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 5,
+        "primary_language": "HTML",
+        "pushed_at": "2026-10-23T15:32:08Z",
+        "readme_excerpt": "<sub>\ud83c\udf10 <b>\u4e2d\u6587</b> \u00b7 <a href=\"README.en.md\">English</a></sub> <div align=\"center\"> # Huashu Design > *\u300c\u6253\u5b57\u3002\u56de\u8f66\u3002\u4e00\u4efd\u80fd\u4ea4\u4ed8\u7684\u8bbe\u8ba1\u3002\u300d* > *\"Type. Hit enter. A finished design lands in your lap.\"* [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Agent-Agnostic](https://img.shields.io/badge/Agent-Agnostic-blueviolet)](https://skills.sh) [![Skills](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh) <br> **\u5728\u4f60\u7684 agent \u91cc\u6253\u4e00\u53e5\u8bdd\uff0c\u62ff\u56de\u4e00\u4efd\u80fd\u4ea4\u4ed8\u7684\u8bbe\u8ba1\u3002** <br> 3 \u5230 30 \u5206\u949f\uff0c\u4f60\u80fd ship \u4e00\u6bb5**",
+        "topics": [
+          "agent-skills",
+          "ai-design",
+          "claude-code",
+          "claude-skills",
+          "codex",
+          "cursor",
+          "design",
+          "html",
+          "pptx",
+          "prototype"
+        ],
+        "updated_at": "2026-10-26T14:29:35Z"
+      },
+      "repo": {
+        "description": "Huashu Design 3.0 \u00b7 \u5728 agent \u91cc\u6253\u4e00\u53e5\u8bdd\uff0c\u62ff\u56de\u80fd\u4ea4\u4ed8\u7684\u8bbe\u8ba1\uff1a\u7f51\u9875 / App \u539f\u578b / \u53ef\u7f16\u8f91 PPTX / \u52a8\u753b / \u4fe1\u606f\u56fe \u00b7 \u516d\u4e2a\u5019\u9009\u6311\u4e09\u4e2a\u65b9\u5411 \u00b7 84 \u79cd\u5e26\u6837\u5f20\u7684\u98ce\u683c\u5e93 \u00b7 \u8d8a\u7528\u8d8a\u61c2\u4f60\u7684\u5916\u89c2\u8d26\u672c\u4e0e\u8bbe\u8ba1\u4f53\u68c0 \u00b7 HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+        "forks": 2952,
+        "full_name": "alchaincyf/huashu-design",
+        "language": "HTML",
+        "name": "huashu-design",
+        "owner": "alchaincyf",
+        "rank": 13,
+        "stars_today": 177,
+        "total_stars": 26550,
+        "url": "https://github.com/alchaincyf/huashu-design"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.52,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 71.77
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: HTML project with 177 stars today; score 71.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-12-28T03:31:08Z",
+        "default_branch": "main",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "fork": false,
+        "full_name": "TauricResearch/TradingAgents",
+        "homepage": "https://arxiv.org/pdf/2412.20138",
+        "latest_release": "v0.7.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 152,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-16T21:38:46Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"tradingagents/assets/tauric-logo.svg\" width=\"60%\" alt=\"Tauric Research\"> </p> <div align=\"center\" style=\"line-height: 1;\"> <a href=\"https://arxiv.org/abs/2412.20138\" target=\"_blank\"><img alt=\"arXiv\" src=\"https://img.shields.io/badge/arXiv-2412.20138-B31B1B?logo=arxiv\"/></a> <a href=\"https://discord.com/invite/hk9PGKShPK\" target=\"_blank\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/Discord-TradingResearch-7289da?logo=discord&logoColor=white&color=7289da\"/></a>",
+        "topics": [
+          "agent",
+          "finance",
+          "llm",
+          "multiagent",
+          "trading"
+        ],
+        "updated_at": "2026-10-26T14:30:02Z"
+      },
+      "repo": {
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "forks": 22202,
+        "full_name": "TauricResearch/TradingAgents",
+        "language": "Python",
+        "name": "TradingAgents",
+        "owner": "TauricResearch",
+        "rank": 2,
+        "stars_today": 1376,
+        "total_stars": 115458,
+        "url": "https://github.com/TauricResearch/TradingAgents"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 8.5,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 69.1
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1376 stars today; score 69.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-08T07:40:43Z",
+        "default_branch": "main",
+        "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work \u2014 The Vibe You Need",
+        "fork": false,
+        "full_name": "JetBrains/thinkrail",
+        "homepage": "https://thinkrail.ai/",
+        "latest_release": "v0.2.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 222,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-26T14:25:03Z",
+        "readme_excerpt": "# ThinkRail [![JetBrains incubator project](https://jb.gg/badges/incubator-plastic.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub) [![GitHub stars](https://img.shields.io/github/stars/JetBrains/thinkrail?style=social)](https://star-history.com/#JetBrains/thinkrail&Date) <a href=\"https://www.producthunt.com/products/thinkrail?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-thinkrail\" target=\"_blank\" rel=\"noopener noreferrer\"> <img alt=\"",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "agentic-ai",
+          "agentic-workflow",
+          "ai-coding",
+          "ai-tools",
+          "pi-agent",
+          "pi-agent-extension",
+          "spec-driven",
+          "spec-driven-coding",
+          "spec-driven-development",
+          "vibe-coding",
+          "vibecoding"
+        ],
+        "updated_at": "2026-10-26T14:29:37Z"
+      },
+      "repo": {
+        "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work \u2014 The Vibe You Need",
+        "forks": 134,
+        "full_name": "JetBrains/thinkrail",
+        "language": "TypeScript",
+        "name": "thinkrail",
+        "owner": "JetBrains",
+        "rank": 3,
+        "stars_today": 1156,
+        "total_stars": 2416,
+        "url": "https://github.com/JetBrains/thinkrail"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.55,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.65
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1156 stars today; score 63.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-27T03:53:13Z",
+        "default_branch": "main",
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "fork": false,
+        "full_name": "multica-ai/andrej-karpathy-skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 138,
+        "primary_language": null,
+        "pushed_at": "2026-04-20T10:05:04Z",
+        "readme_excerpt": "# Karpathy-Inspired Claude Code Guidelines > Check out my new project [Multica](https://github.com/multica-ai/multica) \u2014 an open-source platform for running and managing coding agents with reusable skills. > > Follow me on X: [https://x.com/jiayuan_jy](https://x.com/jiayuan_jy) A single `CLAUDE.md` file to improve Claude Code behavior, derived from [Andrej Karpathy's observations](https://x.com/karpathy/status/2015883857489522876) on LLM coding pitfalls. English | [\u7b80\u4f53\u4e2d\u6587](./README.zh.md) ## The P",
+        "topics": [],
+        "updated_at": "2026-10-26T14:30:03Z"
+      },
+      "repo": {
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "forks": 22442,
+        "full_name": "multica-ai/andrej-karpathy-skills",
+        "language": null,
+        "name": "andrej-karpathy-skills",
+        "owner": "multica-ai",
+        "rank": 14,
+        "stars_today": 457,
+        "total_stars": 224248,
+        "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.4,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 9.1,
+        "total": 60.15
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Unknown project with 457 stars today; score 60.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-07-08T17:24:22Z",
+        "default_branch": "main",
+        "description": "\ud83d\udce8 The ultimate agentic social media scheduling tool \ud83e\udd16",
+        "fork": false,
+        "full_name": "gitroomhq/postiz-app",
+        "homepage": "https://postiz.com",
+        "latest_release": "v2.25.3",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 222,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-24T18:27:21Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://postiz.com/\" target=\"_blank\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/765e9d72-3ee7-4a56-9d59-a2c9befe2311\"> <img alt=\"Postiz Logo\" src=\"https://github.com/user-attachments/assets/f0d30d70-dddb-4142-8876-e9aa6ed1cb99\" width=\"280\"/> </picture> </a> </p> <p align=\"center\"> <a href=\"https://opensource.org/license/agpl-v3\"> <img src=\"https://img.shields.io/badge/License-AGPL%203.0-blue.svg\" alt=\"Lic",
+        "topics": [
+          "nextjs",
+          "open-source",
+          "open-source-social-media-scheduling-tool",
+          "oss",
+          "postiz-cloud",
+          "postiz-hosted",
+          "redis",
+          "scheduling-tool",
+          "social-media-scheduling-tool",
+          "typescript"
+        ],
+        "updated_at": "2026-10-26T14:29:34Z"
+      },
+      "repo": {
+        "description": "\ud83d\udce8 The ultimate agentic social media scheduling tool \ud83e\udd16",
+        "forks": 7414,
+        "full_name": "gitroomhq/postiz-app",
+        "language": "TypeScript",
+        "name": "postiz-app",
+        "owner": "gitroomhq",
+        "rank": 12,
+        "stars_today": 146,
+        "total_stars": 38057,
+        "url": "https://github.com/gitroomhq/postiz-app"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.55,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.35
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 146 stars today; score 59.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-29T07:52:16Z",
+        "default_branch": "main",
+        "description": "A Tiny biped duck robot \ud83e\udd86",
+        "fork": false,
+        "full_name": "pollen-robotics/microduck",
+        "homepage": "https://pollen-robotics.com/microduck",
+        "latest_release": "daemon-v0.17.9",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 79,
+        "primary_language": "Rust",
+        "pushed_at": "2026-10-26T11:29:24Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"https://github.com/user-attachments/assets/c2f7c245-8217-46a1-8d1e-e0ba967cd969\" alt=\"microduck\" width=\"820\"> </p> <h1 align=\"center\">Microduck</h1> <p align=\"center\"> <em>A tiny biped robot that moves using reinforcement learning policies.</em> </p> <p align=\"center\"> <a href=\"https://pollen-robotics.com/microduck\"><b>Get yours here</b></a> \u00b7 <a href=\"docs/robot/cheatsheet.md\">Cheat sheet</a> \u00b7 <a href=\"https://github.com/pollen-robotics/microduck_rl\">Training the p",
+        "topics": [],
+        "updated_at": "2026-10-26T14:26:33Z"
+      },
+      "repo": {
+        "description": "A Tiny biped duck robot \ud83e\udd86",
+        "forks": 1528,
+        "full_name": "pollen-robotics/microduck",
+        "language": "Rust",
+        "name": "microduck",
+        "owner": "pollen-robotics",
+        "rank": 8,
+        "stars_today": 844,
+        "total_stars": 12175,
+        "url": "https://github.com/pollen-robotics/microduck"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.69,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 57.29
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 844 stars today; score 57.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 42876,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 853,
+        "total_stars": 289349,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.15,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 39.1
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 853 stars today; score 39.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/debpalash",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "forks": 9727,
+        "full_name": "sponsors/debpalash",
+        "language": "Python",
+        "name": "debpalash",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 2292,
+        "total_stars": 88194,
+        "url": "https://github.com/sponsors/debpalash"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 10.56,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.31,
+        "technical_quality": 3.5,
+        "total": 28.07
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 2292 stars today; score 28.1/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-10-26",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is NVIDIA/SkillSpector."
+}
