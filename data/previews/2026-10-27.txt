@@ -1,0 +1,22 @@
+GitHub Trending: AI workflow signal - 2026-10-27
+
+Today leans toward AI workflow signal; the strongest pick is HKUDS/DeepTutor.
+
+Top picks
+1. HKUDS/DeepTutor - 77.5/100
+   https://github.com/HKUDS/DeepTutor
+   AI Workflow, DevTools: Python project with 1587 stars today; score 77.5/100.
+2. togg53192-cmd/jailbreaks - 68.2/100
+   https://github.com/togg53192-cmd/jailbreaks
+   AI Workflow, Deep Dive: Unknown project with 890 stars today; score 68.2/100.
+3. sponsors/obra - 34.2/100
+   https://github.com/sponsors/obra
+   AI Workflow, DevTools: Shell project with 608 stars today; score 34.2/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- HKUDS/DeepTutor: 77.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 1587 stars today; score 77.5/100.
+- togg53192-cmd/jailbreaks: 68.2/100 [AI Workflow, Deep Dive] AI Workflow, Deep Dive: Unknown project with 890 stars today; score 68.2/100.
+- sponsors/obra: 34.2/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Shell project with 608 stars today; score 34.2/100.
+
+Generated for 2026-10-27 from GitHub Trending daily.

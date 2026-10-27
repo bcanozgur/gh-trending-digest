@@ -1,0 +1,718 @@
+{
+  "date": "2026-10-27",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-12-28T15:35:54Z",
+        "default_branch": "main",
+        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+        "fork": false,
+        "full_name": "HKUDS/DeepTutor",
+        "homepage": "http://arxiv.org/abs/2604.26962",
+        "latest_release": "v1.6.15",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 239,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-27T09:59:28Z",
+        "readme_excerpt": "<div align=\"center\"> <p align=\"center\"><img src=\"assets/figs/logo/logo.png\" alt=\"DeepTutor logo\" height=\"56\" style=\"vertical-align: middle;\">&nbsp;<img src=\"assets/figs/logo/banner.png\" alt=\"DeepTutor\" height=\"48\" style=\"vertical-align: middle;\"></p> # DeepTutor: Lifelong Personalized Tutoring <p align=\"center\"> <a href=\"https://deeptutor.info\" target=\"_blank\"><img alt=\"Docs \u2014 deeptutor.info\" src=\"https://img.shields.io/badge/Docs-deeptutor.info%20%E2%86%97-0A0A0A?style=for-the-badge&labelColor=",
+        "topics": [
+          "ai-agents",
+          "ai-tutor",
+          "clawbot",
+          "cli-tool",
+          "deepresearch",
+          "interactive-learning",
+          "learning",
+          "multi-agent-systems",
+          "rag"
+        ],
+        "updated_at": "2026-10-27T13:29:56Z"
+      },
+      "repo": {
+        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+        "forks": 5680,
+        "full_name": "HKUDS/DeepTutor",
+        "language": "Python",
+        "name": "DeepTutor",
+        "owner": "HKUDS",
+        "rank": 8,
+        "stars_today": 1587,
+        "total_stars": 45011,
+        "url": "https://github.com/HKUDS/DeepTutor"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.25,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 77.55
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1587 stars today; score 77.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-18T18:21:25Z",
+        "default_branch": "main",
+        "description": "LIST OF ALL MY JAILBREAKS",
+        "fork": false,
+        "full_name": "togg53192-cmd/jailbreaks",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 12,
+        "primary_language": null,
+        "pushed_at": "2026-10-25T15:21:20Z",
+        "readme_excerpt": "<div align=\"center\"> # Jailbreaks **A curated collection of system prompts, persona locks, workspace policies, and agent operating specifications for frontier, open-weight, and free stealth models.** ![Prompts](https://img.shields.io/badge/prompts-31-4c9f70) ![Targets](https://img.shields.io/badge/targets-25%2B-2f6f9f) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat&logo=github) ![Stars](https://img.shields.io/github/stars/togg53192-cmd/jailbreaks?style=flat&logo=g",
+        "topics": [],
+        "updated_at": "2026-10-27T13:29:34Z"
+      },
+      "repo": {
+        "description": "LIST OF ALL MY JAILBREAKS",
+        "forks": 784,
+        "full_name": "togg53192-cmd/jailbreaks",
+        "language": null,
+        "name": "jailbreaks",
+        "owner": "togg53192-cmd",
+        "rank": 10,
+        "stars_today": 890,
+        "total_stars": 4962,
+        "url": "https://github.com/togg53192-cmd/jailbreaks"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.92,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 68.22
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Unknown project with 890 stars today; score 68.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 27249,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 608,
+        "total_stars": 305962,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.1,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 34.25
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 608 stars today; score 34.2/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-12-28T15:35:54Z",
+        "default_branch": "main",
+        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+        "fork": false,
+        "full_name": "HKUDS/DeepTutor",
+        "homepage": "http://arxiv.org/abs/2604.26962",
+        "latest_release": "v1.6.15",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 239,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-27T09:59:28Z",
+        "readme_excerpt": "<div align=\"center\"> <p align=\"center\"><img src=\"assets/figs/logo/logo.png\" alt=\"DeepTutor logo\" height=\"56\" style=\"vertical-align: middle;\">&nbsp;<img src=\"assets/figs/logo/banner.png\" alt=\"DeepTutor\" height=\"48\" style=\"vertical-align: middle;\"></p> # DeepTutor: Lifelong Personalized Tutoring <p align=\"center\"> <a href=\"https://deeptutor.info\" target=\"_blank\"><img alt=\"Docs \u2014 deeptutor.info\" src=\"https://img.shields.io/badge/Docs-deeptutor.info%20%E2%86%97-0A0A0A?style=for-the-badge&labelColor=",
+        "topics": [
+          "ai-agents",
+          "ai-tutor",
+          "clawbot",
+          "cli-tool",
+          "deepresearch",
+          "interactive-learning",
+          "learning",
+          "multi-agent-systems",
+          "rag"
+        ],
+        "updated_at": "2026-10-27T13:29:56Z"
+      },
+      "repo": {
+        "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+        "forks": 5680,
+        "full_name": "HKUDS/DeepTutor",
+        "language": "Python",
+        "name": "DeepTutor",
+        "owner": "HKUDS",
+        "rank": 8,
+        "stars_today": 1587,
+        "total_stars": 45011,
+        "url": "https://github.com/HKUDS/DeepTutor"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.25,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 77.55
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1587 stars today; score 77.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-11-16T01:52:04Z",
+        "default_branch": "main",
+        "description": "The design language that makes your AI harness better at design.",
+        "fork": false,
+        "full_name": "pbakaus/impeccable",
+        "homepage": "https://impeccable.style",
+        "latest_release": "cli-v4.8.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 43,
+        "primary_language": "Rust",
+        "pushed_at": "2026-10-27T08:28:52Z",
+        "readme_excerpt": "# Impeccable Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 62 deterministic detector rules for AI-generated frontend design. > **Quick start:** From your project root, run `npx impeccable install`, then run `/impeccable init` inside your AI coding tool. Full docs: [impeccable.style](https://impeccable.style). ## Why Impeccable? Anthropic's [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) was the first widely-used d",
+        "topics": [],
+        "updated_at": "2026-10-27T13:29:33Z"
+      },
+      "repo": {
+        "description": "The design language that makes your AI harness better at design.",
+        "forks": 5346,
+        "full_name": "pbakaus/impeccable",
+        "language": "Rust",
+        "name": "impeccable",
+        "owner": "pbakaus",
+        "rank": 4,
+        "stars_today": 1458,
+        "total_stars": 89945,
+        "url": "https://github.com/pbakaus/impeccable"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 7.45,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 75.34
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 1458 stars today; score 75.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-27T20:47:10Z",
+        "default_branch": "main",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "fork": false,
+        "full_name": "Nutlope/hallmark",
+        "homepage": "https://www.usehallmark.com/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 61,
+        "primary_language": "CSS",
+        "pushed_at": "2026-10-27T11:19:54Z",
+        "readme_excerpt": "# Hallmark **A design skill for Claude Code, Codex, Cursor and OpenCode that refuses to look AI-generated.** [usehallmark.com](https://www.usehallmark.com) &nbsp;\u00b7&nbsp; forty-eight themes &nbsp;\u00b7&nbsp; custom on request &nbsp;\u00b7&nbsp; redesign and audit by name Made by Together AI. <p align=\"center\"> <img src=\"site/OG-hallmark.png\" alt=\"Hallmark, the design skill that ends AI slop\" /> </p> Hallmark holds a hard floor and then gets out of the way. It deals three themes from a catalog of forty-eig",
+        "topics": [],
+        "updated_at": "2026-10-27T13:29:28Z"
+      },
+      "repo": {
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "forks": 1981,
+        "full_name": "Nutlope/hallmark",
+        "language": "CSS",
+        "name": "hallmark",
+        "owner": "Nutlope",
+        "rank": 1,
+        "stars_today": 2859,
+        "total_stars": 38065,
+        "url": "https://github.com/Nutlope/hallmark"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 73.6
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: CSS project with 2859 stars today; score 73.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-22T17:49:34Z",
+        "default_branch": "main",
+        "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
+        "fork": false,
+        "full_name": "makecindy/cindy",
+        "homepage": "https://cindy.app",
+        "latest_release": "v0.1.115",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 2082,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-27T13:29:08Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://cindy.app\"><img src=\".github/assets/hero-en.webp\" width=\"100%\" alt=\"CINDY \u2014 Consider it done. The open-source AI agent that works out of the box, doing real work on your own computer.\"></a> </p> <p align=\"center\"> <strong>English</strong> \u00b7 <a href=\"README.zh-CN.md\">\u7b80\u4f53\u4e2d\u6587</a> </p> <p align=\"center\"> <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-Apache--2.0-blue.svg\" alt=\"License\" /></a> <a href=\"https://github.com/makecindy/cindy/actions/work",
+        "topics": [
+          "agent",
+          "ai-agent",
+          "ai-assistant",
+          "android",
+          "claude-code",
+          "codex",
+          "electron",
+          "ios",
+          "llm",
+          "macos",
+          "react-native",
+          "typescript",
+          "windows"
+        ],
+        "updated_at": "2026-10-27T13:29:49Z"
+      },
+      "repo": {
+        "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
+        "forks": 859,
+        "full_name": "makecindy/cindy",
+        "language": "TypeScript",
+        "name": "cindy",
+        "owner": "makecindy",
+        "rank": 5,
+        "stars_today": 1446,
+        "total_stars": 7175,
+        "url": "https://github.com/makecindy/cindy"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.27,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.12
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 1446 stars today; score 73.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-08-12T21:32:03Z",
+        "default_branch": "main",
+        "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+        "fork": false,
+        "full_name": "nightly-labs/openbot",
+        "homepage": "https://openbot.run/",
+        "latest_release": "v0.51.1",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 204,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-27T13:29:09Z",
+        "readme_excerpt": "# OpenBot [![CI](https://github.com/nightly-labs/openbot/actions/workflows/ci.yml/badge.svg)](https://github.com/nightly-labs/openbot/actions/workflows/ci.yml) [![License](https://img.shields.io/badge/license-PolyForm_Noncommercial_1.0.0-blue.svg)](LICENSE) OpenBot is a local-first desktop workspace for persistent AI teammates. It supports the local [Codex App Server](https://learn.chatgpt.com/docs/app-server) and [Claude Code](https://code.claude.com/docs/en/overview), plus [Grok CLI](https://d",
+        "topics": [
+          "ai-agents",
+          "bun",
+          "codex",
+          "electron",
+          "local-first",
+          "macos",
+          "solidjs",
+          "typescript"
+        ],
+        "updated_at": "2026-10-27T13:29:12Z"
+      },
+      "repo": {
+        "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+        "forks": 220,
+        "full_name": "nightly-labs/openbot",
+        "language": "TypeScript",
+        "name": "openbot",
+        "owner": "nightly-labs",
+        "rank": 2,
+        "stars_today": 794,
+        "total_stars": 1944,
+        "url": "https://github.com/nightly-labs/openbot"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.79,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 5.25,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 69.94
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 794 stars today; score 69.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-18T18:21:25Z",
+        "default_branch": "main",
+        "description": "LIST OF ALL MY JAILBREAKS",
+        "fork": false,
+        "full_name": "togg53192-cmd/jailbreaks",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 12,
+        "primary_language": null,
+        "pushed_at": "2026-10-25T15:21:20Z",
+        "readme_excerpt": "<div align=\"center\"> # Jailbreaks **A curated collection of system prompts, persona locks, workspace policies, and agent operating specifications for frontier, open-weight, and free stealth models.** ![Prompts](https://img.shields.io/badge/prompts-31-4c9f70) ![Targets](https://img.shields.io/badge/targets-25%2B-2f6f9f) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat&logo=github) ![Stars](https://img.shields.io/github/stars/togg53192-cmd/jailbreaks?style=flat&logo=g",
+        "topics": [],
+        "updated_at": "2026-10-27T13:29:34Z"
+      },
+      "repo": {
+        "description": "LIST OF ALL MY JAILBREAKS",
+        "forks": 784,
+        "full_name": "togg53192-cmd/jailbreaks",
+        "language": null,
+        "name": "jailbreaks",
+        "owner": "togg53192-cmd",
+        "rank": 10,
+        "stars_today": 890,
+        "total_stars": 4962,
+        "url": "https://github.com/togg53192-cmd/jailbreaks"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.92,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.2,
+        "total": 68.22
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Unknown project with 890 stars today; score 68.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-08T07:40:43Z",
+        "default_branch": "main",
+        "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work \u2014 The Vibe You Need",
+        "fork": false,
+        "full_name": "JetBrains/thinkrail",
+        "homepage": "https://thinkrail.ai/",
+        "latest_release": "v0.2.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 223,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-27T13:29:29Z",
+        "readme_excerpt": "# ThinkRail [![JetBrains incubator project](https://jb.gg/badges/incubator-plastic.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub) [![GitHub stars](https://img.shields.io/github/stars/JetBrains/thinkrail?style=social)](https://star-history.com/#JetBrains/thinkrail&Date) [![Discord](https://img.shields.io/badge/Discord-Join%20the%20chat-5865F2?logo=discord&logoColor=white)](https://thinkrail.ai/discord) ThinkRail is the agentic IDE that gets better every time you use it \u2014 ",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "agentic-ai",
+          "agentic-workflow",
+          "ai-coding",
+          "ai-tools",
+          "pi-agent",
+          "pi-agent-extension",
+          "spec-driven",
+          "spec-driven-coding",
+          "spec-driven-development",
+          "vibe-coding",
+          "vibecoding"
+        ],
+        "updated_at": "2026-10-27T13:29:28Z"
+      },
+      "repo": {
+        "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work \u2014 The Vibe You Need",
+        "forks": 188,
+        "full_name": "JetBrains/thinkrail",
+        "language": "TypeScript",
+        "name": "thinkrail",
+        "owner": "JetBrains",
+        "rank": 9,
+        "stars_today": 1211,
+        "total_stars": 3586,
+        "url": "https://github.com/JetBrains/thinkrail"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 6.01,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 62.11
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1211 stars today; score 62.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-07-08T17:24:22Z",
+        "default_branch": "main",
+        "description": "\ud83d\udce8 The ultimate agentic social media scheduling tool \ud83e\udd16",
+        "fork": false,
+        "full_name": "gitroomhq/postiz-app",
+        "homepage": "https://postiz.com",
+        "latest_release": "v2.25.3",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 222,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-10-24T18:27:21Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://postiz.com/\" target=\"_blank\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/user-attachments/assets/765e9d72-3ee7-4a56-9d59-a2c9befe2311\"> <img alt=\"Postiz Logo\" src=\"https://github.com/user-attachments/assets/f0d30d70-dddb-4142-8876-e9aa6ed1cb99\" width=\"280\"/> </picture> </a> </p> <p align=\"center\"> <a href=\"https://opensource.org/license/agpl-v3\"> <img src=\"https://img.shields.io/badge/License-AGPL%203.0-blue.svg\" alt=\"Lic",
+        "topics": [
+          "nextjs",
+          "open-source",
+          "open-source-social-media-scheduling-tool",
+          "oss",
+          "postiz-cloud",
+          "postiz-hosted",
+          "redis",
+          "scheduling-tool",
+          "social-media-scheduling-tool",
+          "typescript"
+        ],
+        "updated_at": "2026-10-27T13:29:05Z"
+      },
+      "repo": {
+        "description": "\ud83d\udce8 The ultimate agentic social media scheduling tool \ud83e\udd16",
+        "forks": 7475,
+        "full_name": "gitroomhq/postiz-app",
+        "language": "TypeScript",
+        "name": "postiz-app",
+        "owner": "gitroomhq",
+        "rank": 6,
+        "stars_today": 953,
+        "total_stars": 38937,
+        "url": "https://github.com/gitroomhq/postiz-app"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.68,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 57.28
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 953 stars today; score 57.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 43022,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 1183,
+        "total_stars": 290419,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.21,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 39.16
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 1183 stars today; score 39.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 27249,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 608,
+        "total_stars": 305962,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.1,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 34.25
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 608 stars today; score 34.2/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-10-27",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is HKUDS/DeepTutor."
+}
