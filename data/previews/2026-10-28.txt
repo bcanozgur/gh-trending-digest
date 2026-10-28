@@ -1,0 +1,30 @@
+GitHub Trending: AI workflow signal - 2026-10-28
+
+Today leans toward AI workflow signal; the strongest pick is macro-inc/macro.
+
+Top picks
+1. macro-inc/macro - 69.1/100
+   https://github.com/macro-inc/macro
+   AI Workflow, Try Today: Rust project with 106 stars today; score 69.1/100.
+2. ruvnet/RuView - 64.3/100
+   https://github.com/ruvnet/RuView
+   AI Workflow, Try Today: Rust project with 415 stars today; score 64.3/100.
+3. hmjz100/LinkSwift - 63.5/100
+   https://github.com/hmjz100/LinkSwift
+   AI Workflow, Try Today: JavaScript project with 3209 stars today; score 63.5/100.
+4. expo/skills - 62.1/100
+   https://github.com/expo/skills
+   AI Workflow, Try Today: Shell project with 212 stars today; score 62.1/100.
+5. xiaolai/the-craft-of-selfteaching - 42.7/100
+   https://github.com/xiaolai/the-craft-of-selfteaching
+   Watch: Jupyter Notebook project with 143 stars today; score 42.7/100.
+
+Full reviewed list
+- macro-inc/macro: 69.1/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Rust project with 106 stars today; score 69.1/100.
+- ruvnet/RuView: 64.3/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Rust project with 415 stars today; score 64.3/100.
+- hmjz100/LinkSwift: 63.5/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: JavaScript project with 3209 stars today; score 63.5/100.
+- expo/skills: 62.1/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Shell project with 212 stars today; score 62.1/100.
+- xiaolai/the-craft-of-selfteaching: 42.7/100 [Watch] Watch: Jupyter Notebook project with 143 stars today; score 42.7/100.
+- sponsors/elayadesign: 22.2/100 [Watch, Hype Risk] Watch, Hype Risk: Unknown project with 1395 stars today; score 22.2/100.
+
+Generated for 2026-10-28 from GitHub Trending daily.
