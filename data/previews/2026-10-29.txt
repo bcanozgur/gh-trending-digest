@@ -1,0 +1,28 @@
+GitHub Trending: AI workflow signal - 2026-10-29
+
+Today leans toward AI workflow signal; the strongest pick is CopilotKit/OpenBot.
+
+Top picks
+1. CopilotKit/OpenBot - 74.2/100
+   https://github.com/CopilotKit/OpenBot
+   AI Workflow, Try Today: TypeScript project with 240 stars today; score 74.2/100.
+2. sponsors/Donchitos - 51.6/100
+   https://github.com/sponsors/Donchitos
+   AI Workflow, DevTools: Shell project with 538 stars today; score 51.6/100.
+   Caution: Weak onboarding evidence.
+3. sponsors/thedotmack - 41.7/100
+   https://github.com/sponsors/thedotmack
+   AI Workflow, Watch: TypeScript project with 324 stars today; score 41.7/100.
+   Caution: Weak onboarding evidence.
+4. sponsors/milind-soni - 27.5/100
+   https://github.com/sponsors/milind-soni
+   Watch, Hype Risk: TypeScript project with 1190 stars today; score 27.5/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- CopilotKit/OpenBot: 74.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 240 stars today; score 74.2/100.
+- sponsors/Donchitos: 51.6/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Shell project with 538 stars today; score 51.6/100.
+- sponsors/thedotmack: 41.7/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: TypeScript project with 324 stars today; score 41.7/100.
+- sponsors/milind-soni: 27.5/100 [Watch, Hype Risk] Watch, Hype Risk: TypeScript project with 1190 stars today; score 27.5/100.
+
+Generated for 2026-10-29 from GitHub Trending daily.
