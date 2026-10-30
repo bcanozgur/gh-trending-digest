@@ -1,0 +1,30 @@
+GitHub Trending: AI workflow signal - 2026-10-30
+
+Today leans toward AI workflow signal; the strongest pick is lightpanda-io/browser.
+
+Top picks
+1. lightpanda-io/browser - 73.9/100
+   https://github.com/lightpanda-io/browser
+   AI Workflow, Try Today: Zig project with 559 stars today; score 73.9/100.
+2. anthropics/skills - 67.3/100
+   https://github.com/anthropics/skills
+   AI Workflow, Deep Dive: Python project with 287 stars today; score 67.3/100.
+3. pingdotgg/t3code - 65.5/100
+   https://github.com/pingdotgg/t3code
+   AI Workflow, Deep Dive: TypeScript project with 920 stars today; score 65.5/100.
+4. Renhuai123/ziwei-doushu - 58.8/100
+   https://github.com/Renhuai123/ziwei-doushu
+   AI Workflow, DevTools: TypeScript project with 1146 stars today; score 58.8/100.
+5. sponsors/mattpocock - 38.8/100
+   https://github.com/sponsors/mattpocock
+   AI Workflow, Watch: Shell project with 882 stars today; score 38.8/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- lightpanda-io/browser: 73.9/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Zig project with 559 stars today; score 73.9/100.
+- anthropics/skills: 67.3/100 [AI Workflow, Deep Dive] AI Workflow, Deep Dive: Python project with 287 stars today; score 67.3/100.
+- pingdotgg/t3code: 65.5/100 [AI Workflow, Deep Dive] AI Workflow, Deep Dive: TypeScript project with 920 stars today; score 65.5/100.
+- Renhuai123/ziwei-doushu: 58.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 1146 stars today; score 58.8/100.
+- sponsors/mattpocock: 38.8/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Shell project with 882 stars today; score 38.8/100.
+
+Generated for 2026-10-30 from GitHub Trending daily.
