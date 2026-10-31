@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-10-31
+
+Today leans toward AI workflow signal; the strongest pick is Orkas-AI/Orkas.
+
+Top picks
+1. Orkas-AI/Orkas - 78.1/100
+   https://github.com/Orkas-AI/Orkas
+   AI Workflow, DevTools: JavaScript project with 1004 stars today; score 78.1/100.
+2. pbakaus/impeccable - 77.9/100
+   https://github.com/pbakaus/impeccable
+   AI Workflow, DevTools: Rust project with 1339 stars today; score 77.9/100.
+3. THU-MAIC/OpenMAIC - 62.8/100
+   https://github.com/THU-MAIC/OpenMAIC
+   AI Workflow, DevTools: TypeScript project with 115 stars today; score 62.8/100.
+4. sponsors/bregman-arie - 31.4/100
+   https://github.com/sponsors/bregman-arie
+   DevTools, Watch: Python project with 341 stars today; score 31.4/100.
+   Caution: Production readiness is unclear.
+5. sponsors/vorssaint - 24.3/100
+   https://github.com/sponsors/vorssaint
+   Watch, Hype Risk: Swift project with 499 stars today; score 24.3/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- Orkas-AI/Orkas: 78.1/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: JavaScript project with 1004 stars today; score 78.1/100.
+- pbakaus/impeccable: 77.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Rust project with 1339 stars today; score 77.9/100.
+- THU-MAIC/OpenMAIC: 62.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 115 stars today; score 62.8/100.
+- sponsors/bregman-arie: 31.4/100 [DevTools, Watch, Hype Risk] DevTools, Watch: Python project with 341 stars today; score 31.4/100.
+- sponsors/vorssaint: 24.3/100 [Watch, Hype Risk] Watch, Hype Risk: Swift project with 499 stars today; score 24.3/100.
+
+Generated for 2026-10-31 from GitHub Trending daily.
