@@ -1,0 +1,33 @@
+GitHub Trending: AI workflow signal - 2026-11-01
+
+Today leans toward AI workflow signal; the strongest pick is beenuar/AiSOC.
+
+Top picks
+1. beenuar/AiSOC - 74.5/100
+   https://github.com/beenuar/AiSOC
+   AI Workflow, DevTools: Python project with 436 stars today; score 74.5/100.
+2. FlashML-org/FreeToken - 72.4/100
+   https://github.com/FlashML-org/FreeToken
+   AI Workflow, Try Today: Python project with 232 stars today; score 72.4/100.
+3. hyprwm/Hyprland - 58.3/100
+   https://github.com/hyprwm/Hyprland
+   AI Workflow, DevTools: C++ project with 91 stars today; score 58.3/100.
+4. public-apis/public-apis - 57.0/100
+   https://github.com/public-apis/public-apis
+   AI Workflow, DevTools: Python project with 298 stars today; score 57.0/100.
+5. shiyu-coder/Kronos - 52.0/100
+   https://github.com/shiyu-coder/Kronos
+   AI Workflow, Try Today: Python project with 611 stars today; score 52.0/100.
+
+Full reviewed list
+- beenuar/AiSOC: 74.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 436 stars today; score 74.5/100.
+- FlashML-org/FreeToken: 72.4/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 232 stars today; score 72.4/100.
+- hyprwm/Hyprland: 58.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: C++ project with 91 stars today; score 58.3/100.
+- public-apis/public-apis: 57.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 298 stars today; score 57.0/100.
+- shiyu-coder/Kronos: 52.0/100 [AI Workflow, Try Today] AI Workflow, Try Today: Python project with 611 stars today; score 52.0/100.
+- sponsors/patchy631: 45.8/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Jupyter Notebook project with 573 stars today; score 45.8/100.
+- sponsors/kornia: 31.8/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Python project with 88 stars today; score 31.8/100.
+- sponsors/cjpais: 23.7/100 [Watch, Hype Risk] Watch, Hype Risk: Rust project with 383 stars today; score 23.7/100.
+- sponsors/anomalyco: 21.1/100 [Watch, Hype Risk] Watch, Hype Risk: Rust project with 1329 stars today; score 21.1/100.
+
+Generated for 2026-11-01 from GitHub Trending daily.
