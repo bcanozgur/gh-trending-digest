@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-11-02
+
+Today leans toward AI workflow signal; the strongest pick is vercel-labs/agent-desktop.
+
+Top picks
+1. vercel-labs/agent-desktop - 82.6/100
+   https://github.com/vercel-labs/agent-desktop
+   AI Workflow, DevTools: Rust project with 2243 stars today; score 82.6/100.
+2. paperclipai/paperclip - 78.2/100
+   https://github.com/paperclipai/paperclip
+   AI Workflow, DevTools: TypeScript project with 451 stars today; score 78.2/100.
+3. max-sixty/worktrunk - 75.3/100
+   https://github.com/max-sixty/worktrunk
+   AI Workflow, DevTools: Rust project with 136 stars today; score 75.3/100.
+4. karpathy/nanochat - 71.1/100
+   https://github.com/karpathy/nanochat
+   AI Workflow, Try Today: Python project with 325 stars today; score 71.1/100.
+5. p-e-w/heretic - 68.4/100
+   https://github.com/p-e-w/heretic
+   AI Workflow, Try Today: Python project with 404 stars today; score 68.4/100.
+
+Full reviewed list
+- vercel-labs/agent-desktop: 82.6/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Rust project with 2243 stars today; score 82.6/100.
+- paperclipai/paperclip: 78.2/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 451 stars today; score 78.2/100.
+- max-sixty/worktrunk: 75.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Rust project with 136 stars today; score 75.3/100.
+- karpathy/nanochat: 71.1/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 325 stars today; score 71.1/100.
+- p-e-w/heretic: 68.4/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 404 stars today; score 68.4/100.
+- JustVugg/colibri: 65.3/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: C project with 655 stars today; score 65.3/100.
+- sponsors/D4Vinci: 44.8/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Python project with 858 stars today; score 44.8/100.
+
+Generated for 2026-11-02 from GitHub Trending daily.
