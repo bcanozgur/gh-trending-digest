@@ -1,0 +1,22 @@
+GitHub Trending: daily developer signal - 2026-11-03
+
+Today leans toward daily developer signal; the strongest pick is Usagi-org/ai-goofish-monitor.
+
+Top picks
+1. Usagi-org/ai-goofish-monitor - 70.4/100
+   https://github.com/Usagi-org/ai-goofish-monitor
+   AI Workflow, DevTools: Python project with 204 stars today; score 70.4/100.
+2. spotify/portal-ai-plugins - 68.7/100
+   https://github.com/spotify/portal-ai-plugins
+   AI Workflow, DevTools: TypeScript project with 94 stars today; score 68.7/100.
+3. sponsors/floci-io - 22.7/100
+   https://github.com/sponsors/floci-io
+   Watch, Hype Risk: Java project with 219 stars today; score 22.7/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- Usagi-org/ai-goofish-monitor: 70.4/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 204 stars today; score 70.4/100.
+- spotify/portal-ai-plugins: 68.7/100 [AI Workflow, DevTools, Deep Dive] AI Workflow, DevTools: TypeScript project with 94 stars today; score 68.7/100.
+- sponsors/floci-io: 22.7/100 [Watch, Hype Risk] Watch, Hype Risk: Java project with 219 stars today; score 22.7/100.
+
+Generated for 2026-11-03 from GitHub Trending daily.
