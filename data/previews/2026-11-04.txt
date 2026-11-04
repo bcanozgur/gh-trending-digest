@@ -1,0 +1,34 @@
+GitHub Trending: AI workflow signal - 2026-11-04
+
+Today leans toward AI workflow signal; the strongest pick is NVIDIA/auto-ontology.
+
+Top picks
+1. NVIDIA/auto-ontology - 80.0/100
+   https://github.com/NVIDIA/auto-ontology
+   AI Workflow, DevTools: Python project with 2053 stars today; score 80.0/100.
+2. FareedKhan-dev/kimi-k3-in-c - 76.5/100
+   https://github.com/FareedKhan-dev/kimi-k3-in-c
+   AI Workflow, DevTools: C project with 351 stars today; score 76.5/100.
+3. The-PR-Agent/pr-agent - 73.8/100
+   https://github.com/The-PR-Agent/pr-agent
+   AI Workflow, DevTools: Python project with 279 stars today; score 73.8/100.
+4. scenario-labs/skills - 73.2/100
+   https://github.com/scenario-labs/skills
+   AI Workflow, Try Today: Python project with 224 stars today; score 73.2/100.
+5. garrytan/gstack - 72.5/100
+   https://github.com/garrytan/gstack
+   AI Workflow, Try Today: TypeScript project with 285 stars today; score 72.5/100.
+
+Full reviewed list
+- NVIDIA/auto-ontology: 80.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 2053 stars today; score 80.0/100.
+- FareedKhan-dev/kimi-k3-in-c: 76.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: C project with 351 stars today; score 76.5/100.
+- The-PR-Agent/pr-agent: 73.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 279 stars today; score 73.8/100.
+- scenario-labs/skills: 73.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 224 stars today; score 73.2/100.
+- garrytan/gstack: 72.5/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 285 stars today; score 72.5/100.
+- github/spec-kit: 71.3/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 810 stars today; score 71.3/100.
+- harry0703/MoneyPrinterTurbo: 69.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 615 stars today; score 69.3/100.
+- Thysrael/Horizon: 59.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 121 stars today; score 59.8/100.
+- JiaFeiMiao-K-Cat/DiscImageStudio: 50.2/100 [Watch] Watch: C# project with 1792 stars today; score 50.2/100.
+- sponsors/MichaelCade: 21.8/100 [Watch, Hype Risk] Watch, Hype Risk: Shell project with 156 stars today; score 21.8/100.
+
+Generated for 2026-11-04 from GitHub Trending daily.

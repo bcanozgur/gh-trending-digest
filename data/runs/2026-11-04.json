@@ -1,0 +1,1477 @@
+{
+  "date": "2026-11-04",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-27T21:45:56Z",
+        "default_branch": "main",
+        "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+        "fork": false,
+        "full_name": "NVIDIA/auto-ontology",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 42,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-04T15:04:47Z",
+        "readme_excerpt": "<!-- SPDX-FileCopyrightText: Copyright (c) 2026, NVIDIA CORPORATION & AFFILIATES. All rights reserved. SPDX-License-Identifier: Apache-2.0 --> # Auto-Ontology An open context layer that helps agents give fewer wrong answers on enterprise data. [![License: Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](./LICENSE) [![Docs](https://img.shields.io/badge/docs-docs%2F-76B900.svg)](./docs/) ## Why Auto-Ontology Agents can retrieve documents and query databases, but reliability ",
+        "topics": [],
+        "updated_at": "2026-11-04T15:40:58Z"
+      },
+      "repo": {
+        "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+        "forks": 354,
+        "full_name": "NVIDIA/auto-ontology",
+        "language": "Python",
+        "name": "auto-ontology",
+        "owner": "NVIDIA",
+        "rank": 1,
+        "stars_today": 2053,
+        "total_stars": 4177,
+        "url": "https://github.com/NVIDIA/auto-ontology"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 10.6,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 4.55,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.9,
+        "total": 79.95
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 2053 stars today; score 80.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-08-01T09:29:38Z",
+        "default_branch": "main",
+        "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+        "fork": false,
+        "full_name": "FareedKhan-dev/kimi-k3-in-c",
+        "homepage": "https://medium.com/@fareedkhandev/building-kimi-k3-in-c-to-run-a-2-8t-model-on-consumer-hardware-a5792cbf3b59",
+        "latest_release": "v1.1.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 6,
+        "primary_language": "C",
+        "pushed_at": "2026-10-02T04:51:44Z",
+        "readme_excerpt": "<div align=\"center\"> <h1>kimi-k3-in-c</h1> <h3>A 2.78-trillion-parameter model. One CPU. 8 GB of RAM.</h3> <p>Kimi K3 inference in portable C99.<br>No BLAS. No framework. No GPU.</p> <p> <a href=\"https://github.com/FareedKhan-dev/kimi-k3-in-c/actions/workflows/ci.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/FareedKhan-dev/kimi-k3-in-c/ci.yml?branch=main&style=flat-square&label=CI\" alt=\"CI\"></a> <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-Apache--2.0-b",
+        "topics": [
+          "avx2",
+          "c99",
+          "cpu-inference",
+          "deep-learning",
+          "from-scratch",
+          "inference-engine",
+          "kimi-k3",
+          "linear-attention",
+          "llm",
+          "llm-inference",
+          "machine-learning",
+          "memory-efficient",
+          "mixture-of-experts",
+          "moe",
+          "mxfp4",
+          "quantization",
+          "simd",
+          "systems-programming",
+          "transformer",
+          "zero-dependencies"
+        ],
+        "updated_at": "2026-11-04T15:41:13Z"
+      },
+      "repo": {
+        "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+        "forks": 1609,
+        "full_name": "FareedKhan-dev/kimi-k3-in-c",
+        "language": "C",
+        "name": "kimi-k3-in-c",
+        "owner": "FareedKhan-dev",
+        "rank": 11,
+        "stars_today": 351,
+        "total_stars": 10071,
+        "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.36,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 76.51
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C project with 351 stars today; score 76.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-07-05T21:02:15Z",
+        "default_branch": "main",
+        "description": "\ud83d\ude80 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+        "fork": false,
+        "full_name": "The-PR-Agent/pr-agent",
+        "homepage": "https://www.pr-agent.ai",
+        "latest_release": "v0.49.0",
+        "license_spdx": "MIT",
+        "open_issues": 48,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-04T10:11:13Z",
+        "readme_excerpt": "<br /> <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/The-PR-Agent/pr-agent/main/docs/static/img/logo-dark.png\" width=\"330\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/The-PR-Agent/pr-agent/main/docs/static/img/logo-light.png\" width=\"330\"> <img src=\"https://raw.githubusercontent.com/The-PR-Agent/pr-agent/main/docs/static/img/logo-light.png\" alt=\"logo\" width=\"330\"> </picture> <br> T",
+        "topics": [
+          "ai",
+          "anthropic",
+          "code-review",
+          "coding-assistant",
+          "devtools",
+          "ollama",
+          "openai",
+          "pull-request",
+          "pull-requests"
+        ],
+        "updated_at": "2026-11-04T15:39:07Z"
+      },
+      "repo": {
+        "description": "\ud83d\ude80 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+        "forks": 2070,
+        "full_name": "The-PR-Agent/pr-agent",
+        "language": "Python",
+        "name": "pr-agent",
+        "owner": "The-PR-Agent",
+        "rank": 8,
+        "stars_today": 279,
+        "total_stars": 14594,
+        "url": "https://github.com/The-PR-Agent/pr-agent"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.54,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 73.84
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 279 stars today; score 73.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-08-12T10:08:49Z",
+        "default_branch": "main",
+        "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+        "fork": false,
+        "full_name": "scenario-labs/skills",
+        "homepage": "https://www.skills.sh/scenario-labs/skills",
+        "latest_release": "skills-v0.60.1",
+        "license_spdx": "MIT",
+        "open_issues": 36,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-04T09:40:43Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://scenario.com\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"./resources/scenario-logo.png\" height=\"84\" alt=\"Scenario\" /> </a> <br /> </p> <div align=\"center\"> <h1> Scenario Agent Skills </h1> <a href=\"https://skills.sh/scenario-labs/skills\"> <img alt=\"skills.sh\" src=\"https://skills.sh/b/scenario-labs/skills\" /> </a> <a href=\"https://github.com/scenario-labs/skills/releases\"> <img alt=\"Latest release\" src=\"https://img.shields.io/github/v/release/scenario",
+        "topics": [
+          "3d-models",
+          "agent-skills",
+          "ai-agents",
+          "ai-art",
+          "blender",
+          "claude-code",
+          "claude-skills",
+          "codex",
+          "game-assets",
+          "game-development",
+          "generative-ai",
+          "image-generation",
+          "maya",
+          "mcp",
+          "model-context-protocol",
+          "skills-sh",
+          "unity",
+          "unreal-engine",
+          "video-generation",
+          "zbrush"
+        ],
+        "updated_at": "2026-11-04T15:37:48Z"
+      },
+      "repo": {
+        "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+        "forks": 238,
+        "full_name": "scenario-labs/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "scenario-labs",
+        "rank": 16,
+        "stars_today": 224,
+        "total_stars": 2194,
+        "url": "https://github.com/scenario-labs/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.2,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.25
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 224 stars today; score 73.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-11T21:22:45Z",
+        "default_branch": "main",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+        "fork": false,
+        "full_name": "garrytan/gstack",
+        "homepage": null,
+        "latest_release": "v1.92.55.0",
+        "license_spdx": "MIT",
+        "open_issues": 95,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-04T15:30:36Z",
+        "readme_excerpt": "# gstack gstack turns Claude Code (and other coding agents) into a virtual engineering team: a CEO who rethinks the product, an eng manager who locks architecture, a designer who catches AI slop, a reviewer who finds production bugs, a QA lead who opens a real browser, a security officer who runs OWASP + STRIDE audits, and a release engineer who ships the PR. All slash commands, all Markdown, all free, MIT license. I'm [Garry Tan](https://x.com/garrytan), President & CEO of [Y Combinator](https:",
+        "topics": [],
+        "updated_at": "2026-11-04T15:41:16Z"
+      },
+      "repo": {
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+        "forks": 20615,
+        "full_name": "garrytan/gstack",
+        "language": "TypeScript",
+        "name": "gstack",
+        "owner": "garrytan",
+        "rank": 10,
+        "stars_today": 285,
+        "total_stars": 139119,
+        "url": "https://github.com/garrytan/gstack"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.28,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 72.53
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 285 stars today; score 72.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-08-21T22:54:31Z",
+        "default_branch": "main",
+        "description": "\ud83d\udcab Toolkit to help you get started with SDD or any other process!",
+        "fork": false,
+        "full_name": "github/spec-kit",
+        "homepage": "https://github.github.com/spec-kit/",
+        "latest_release": "v1.3.0",
+        "license_spdx": "MIT",
+        "open_issues": 208,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-04T15:37:52Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/github/spec-kit/main/media/logo_large.webp\" alt=\"Spec Kit Logo\" width=\"200\" height=\"200\"/> <h1>\ud83c\udf31 Spec Kit</h1> <h3><em>Build with a spec, fix a bug, or assess an idea \u2014 with your coding agent.</em></h3> </div> <p align=\"center\"> <a href=\"https://github.com/github/spec-kit/releases/latest\"><img src=\"https://img.shields.io/github/v/release/github/spec-kit\" alt=\"Latest Release\"/></a> <a href=\"https://github.com/github/spec-kit/stargaz",
+        "topics": [
+          "ai",
+          "copilot",
+          "development",
+          "engineering",
+          "prd",
+          "spec",
+          "spec-driven"
+        ],
+        "updated_at": "2026-11-04T15:41:09Z"
+      },
+      "repo": {
+        "description": "\ud83d\udcab Toolkit to help you get started with SDD or any other process!",
+        "forks": 13198,
+        "full_name": "github/spec-kit",
+        "language": "Python",
+        "name": "spec-kit",
+        "owner": "github",
+        "rank": 7,
+        "stars_today": 810,
+        "total_stars": 147082,
+        "url": "https://github.com/github/spec-kit"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.5,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 71.3
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 810 stars today; score 71.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-03-11T02:57:34Z",
+        "default_branch": "main",
+        "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "fork": false,
+        "full_name": "harry0703/MoneyPrinterTurbo",
+        "homepage": null,
+        "latest_release": "v1.3.9",
+        "license_spdx": "MIT",
+        "open_issues": 69,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-04T02:11:21Z",
+        "readme_excerpt": "<div align=\"center\"> # MoneyPrinterTurbo \ud83d\udcb8 ### \u4e00\u7ad9\u5f0f AI \u77ed\u89c6\u9891\u751f\u6210\u5de5\u5177 \u53ea\u9700\u63d0\u4f9b\u89c6\u9891<b>\u4e3b\u9898</b>\u6216<b>\u5173\u952e\u8bcd</b>\uff0c\u5373\u53ef\u81ea\u52a8\u751f\u6210\u89c6\u9891\u811a\u672c\u3001\u5339\u914d\u7d20\u6750\u3001\u751f\u6210\u5b57\u5e55\u548c\u80cc\u666f\u97f3\u4e50\uff0c\u5e76\u5408\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002 [![Version](https://img.shields.io/github/v/release/harry0703/MoneyPrinterTurbo?color=blue&label=version)](https://github.com/harry0703/MoneyPrinterTurbo/releases) [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/harry0703/MoneyPrinterTurbo/releases/latest) [![Python](https://img.shields.io/badge/pyth",
+        "topics": [
+          "ai-video-generator",
+          "content-creation",
+          "ffmpeg",
+          "instagram-reels",
+          "llm",
+          "python",
+          "short-video",
+          "subtitles",
+          "text-to-speech",
+          "tiktok",
+          "video-automation",
+          "video-workflow",
+          "workflow-automation",
+          "youtube-shorts"
+        ],
+        "updated_at": "2026-11-04T15:41:15Z"
+      },
+      "repo": {
+        "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "forks": 22141,
+        "full_name": "harry0703/MoneyPrinterTurbo",
+        "language": "Python",
+        "name": "MoneyPrinterTurbo",
+        "owner": "harry0703",
+        "rank": 9,
+        "stars_today": 615,
+        "total_stars": 138709,
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.55,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 69.3
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 615 stars today; score 69.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-20T08:22:45Z",
+        "default_branch": "main",
+        "description": "\ud83d\udce1 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | \u7528 AI \u6784\u5efa\u4f60\u4e13\u5c5e\u7684\u65b0\u95fb\u96f7\u8fbe",
+        "fork": false,
+        "full_name": "Thysrael/Horizon",
+        "homepage": "https://www.horizon1123.top",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 6,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-03T17:20:32Z",
+        "readme_excerpt": "<div align=\"center\"> <h1>\ud83c\udf05 Horizon</h1> <p><strong>Enjoy the News itself. Leave others to Horizon</strong></p> <a href=\"https://trendshift.io/repositories/22864?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-22864\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/trendshift/repositories/22864/daily\" alt=\"Thysrael%2FHorizon | Trendshift\" width=\"250\" height=\"55\"/></a> <a href=\"https://trendshift.io/repositories/22864?utm_source",
+        "topics": [
+          "aggregator",
+          "feishu-bot",
+          "llm",
+          "mcp",
+          "news",
+          "openclaw",
+          "python",
+          "webhook"
+        ],
+        "updated_at": "2026-11-04T15:41:19Z"
+      },
+      "repo": {
+        "description": "\ud83d\udce1 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | \u7528 AI \u6784\u5efa\u4f60\u4e13\u5c5e\u7684\u65b0\u95fb\u96f7\u8fbe",
+        "forks": 1809,
+        "full_name": "Thysrael/Horizon",
+        "language": "Python",
+        "name": "Horizon",
+        "owner": "Thysrael",
+        "rank": 15,
+        "stars_today": 121,
+        "total_stars": 12361,
+        "url": "https://github.com/Thysrael/Horizon"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.0,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 59.8
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 121 stars today; score 59.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-08-23T03:40:14Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+        "homepage": null,
+        "latest_release": "v1.3.6",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 64,
+        "primary_language": "C#",
+        "pushed_at": "2026-11-04T07:27:28Z",
+        "readme_excerpt": "<div align=\"center\"> **\u7b80\u4f53\u4e2d\u6587** | [\u7e41\u9ad4\u4e2d\u6587](README.zh-TW.md) | [English](README.en.md) | [\u65e5\u672c\u8a9e](README.ja.md) | [T\u00fcrk\u00e7e](README.tr.md) | [Espa\u00f1ol](README.es.md) | [\u010ce\u0161tina](README.cs.md) ![Banner](docs/images/DiscImageStudio_Banner_2.png) <h2>\u5168\u80fd\u7684\u5149\u76d8\u76d8\u9762\u53ef\u89c1\u56fe\u50cf\u751f\u6210\u4e0e\u523b\u5f55\u5de5\u5177</h2> Disc Image Studio \u662f\u4e00\u4e2a\u591a\u5e73\u53f0\u7684\u5149\u76d8\u76d8\u9762\u56fe\u50cf\u751f\u6210\u4e0e\u523b\u5f55\u5de5\u5177\uff0c\u5e2e\u52a9\u60a8\u4f7f\u7528\u4efb\u4f55\u523b\u5f55\u5149\u9a71\u5728\u4efb\u4f55 DVD / CD / \u5355\u5c42\u84dd\u5149 \u5149\u76d8\u4e0a\u523b\u8680\u51fa\u8089\u773c\u53ef\u89c1\u7684\u56fe\u50cf\u3002 ![.NET \u7248\u672c](https://img.shields.io/badge/.NET-10.0-512bd4?style=flat-square) ![\u8fd0\u884c\u5e73\u53f0](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20ma",
+        "topics": [],
+        "updated_at": "2026-11-04T15:40:53Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 214,
+        "full_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+        "language": "C#",
+        "name": "DiscImageStudio",
+        "owner": "JiaFeiMiao-K-Cat",
+        "rank": 12,
+        "stars_today": 1792,
+        "total_stars": 6177,
+        "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 4.9,
+        "momentum": 8.13,
+        "novelty": 8.0,
+        "practical_usefulness": 5.95,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.32,
+        "technical_quality": 14.0,
+        "total": 50.25
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: C# project with 1792 stars today; score 50.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/MichaelCade",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",
+        "forks": 6786,
+        "full_name": "sponsors/MichaelCade",
+        "language": "Shell",
+        "name": "MichaelCade",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 156,
+        "total_stars": 30227,
+        "url": "https://github.com/sponsors/MichaelCade"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.4,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 0.98,
+        "technical_quality": 3.5,
+        "total": 21.78
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Shell project with 156 stars today; score 21.8/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-27T21:45:56Z",
+        "default_branch": "main",
+        "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+        "fork": false,
+        "full_name": "NVIDIA/auto-ontology",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 42,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-04T15:04:47Z",
+        "readme_excerpt": "<!-- SPDX-FileCopyrightText: Copyright (c) 2026, NVIDIA CORPORATION & AFFILIATES. All rights reserved. SPDX-License-Identifier: Apache-2.0 --> # Auto-Ontology An open context layer that helps agents give fewer wrong answers on enterprise data. [![License: Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](./LICENSE) [![Docs](https://img.shields.io/badge/docs-docs%2F-76B900.svg)](./docs/) ## Why Auto-Ontology Agents can retrieve documents and query databases, but reliability ",
+        "topics": [],
+        "updated_at": "2026-11-04T15:40:58Z"
+      },
+      "repo": {
+        "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+        "forks": 354,
+        "full_name": "NVIDIA/auto-ontology",
+        "language": "Python",
+        "name": "auto-ontology",
+        "owner": "NVIDIA",
+        "rank": 1,
+        "stars_today": 2053,
+        "total_stars": 4177,
+        "url": "https://github.com/NVIDIA/auto-ontology"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 10.6,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 4.55,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.9,
+        "total": 79.95
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 2053 stars today; score 80.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-19T18:00:49Z",
+        "default_branch": "main",
+        "description": "Computer use CLI for AI agents",
+        "fork": false,
+        "full_name": "vercel-labs/agent-desktop",
+        "homepage": "https://agent-browser.dev/desktop",
+        "latest_release": "v1.1.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 160,
+        "primary_language": "Rust",
+        "pushed_at": "2026-11-03T23:16:15Z",
+        "readme_excerpt": "# agent-desktop Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree. <p> <a href=\"https://vercel.com/labs#labs-products\"><img alt=\"Vercel Labs Product\" src=\"https://img.shields.io/badge/LABS-PRODUCT-0a0a0a.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000000\" height=\"28\"></a> <a href=\"https://www.npmjs.com/package/agent-desktop\"><img alt=\"npm version: agent-desktop\" src=\"https://img.shields.io/npm/v/agent-desktop.svg?st",
+        "topics": [
+          "accessibility",
+          "accessibility-api",
+          "ai-agents",
+          "automation",
+          "cli",
+          "computer-use",
+          "computer-use-agent",
+          "computer-use-agents",
+          "desktop-automation",
+          "macos",
+          "mcp",
+          "rust"
+        ],
+        "updated_at": "2026-11-04T15:41:05Z"
+      },
+      "repo": {
+        "description": "Computer use CLI for AI agents",
+        "forks": 983,
+        "full_name": "vercel-labs/agent-desktop",
+        "language": "Rust",
+        "name": "agent-desktop",
+        "owner": "vercel-labs",
+        "rank": 6,
+        "stars_today": 2463,
+        "total_stars": 14371,
+        "url": "https://github.com/vercel-labs/agent-desktop"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.28,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 79.23
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 2463 stars today; score 79.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-08-01T09:29:38Z",
+        "default_branch": "main",
+        "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+        "fork": false,
+        "full_name": "FareedKhan-dev/kimi-k3-in-c",
+        "homepage": "https://medium.com/@fareedkhandev/building-kimi-k3-in-c-to-run-a-2-8t-model-on-consumer-hardware-a5792cbf3b59",
+        "latest_release": "v1.1.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 6,
+        "primary_language": "C",
+        "pushed_at": "2026-10-02T04:51:44Z",
+        "readme_excerpt": "<div align=\"center\"> <h1>kimi-k3-in-c</h1> <h3>A 2.78-trillion-parameter model. One CPU. 8 GB of RAM.</h3> <p>Kimi K3 inference in portable C99.<br>No BLAS. No framework. No GPU.</p> <p> <a href=\"https://github.com/FareedKhan-dev/kimi-k3-in-c/actions/workflows/ci.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/FareedKhan-dev/kimi-k3-in-c/ci.yml?branch=main&style=flat-square&label=CI\" alt=\"CI\"></a> <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-Apache--2.0-b",
+        "topics": [
+          "avx2",
+          "c99",
+          "cpu-inference",
+          "deep-learning",
+          "from-scratch",
+          "inference-engine",
+          "kimi-k3",
+          "linear-attention",
+          "llm",
+          "llm-inference",
+          "machine-learning",
+          "memory-efficient",
+          "mixture-of-experts",
+          "moe",
+          "mxfp4",
+          "quantization",
+          "simd",
+          "systems-programming",
+          "transformer",
+          "zero-dependencies"
+        ],
+        "updated_at": "2026-11-04T15:41:13Z"
+      },
+      "repo": {
+        "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+        "forks": 1609,
+        "full_name": "FareedKhan-dev/kimi-k3-in-c",
+        "language": "C",
+        "name": "kimi-k3-in-c",
+        "owner": "FareedKhan-dev",
+        "rank": 11,
+        "stars_today": 351,
+        "total_stars": 10071,
+        "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.36,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 76.51
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C project with 351 stars today; score 76.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-07-05T21:02:15Z",
+        "default_branch": "main",
+        "description": "\ud83d\ude80 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+        "fork": false,
+        "full_name": "The-PR-Agent/pr-agent",
+        "homepage": "https://www.pr-agent.ai",
+        "latest_release": "v0.49.0",
+        "license_spdx": "MIT",
+        "open_issues": 48,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-04T10:11:13Z",
+        "readme_excerpt": "<br /> <div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/The-PR-Agent/pr-agent/main/docs/static/img/logo-dark.png\" width=\"330\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/The-PR-Agent/pr-agent/main/docs/static/img/logo-light.png\" width=\"330\"> <img src=\"https://raw.githubusercontent.com/The-PR-Agent/pr-agent/main/docs/static/img/logo-light.png\" alt=\"logo\" width=\"330\"> </picture> <br> T",
+        "topics": [
+          "ai",
+          "anthropic",
+          "code-review",
+          "coding-assistant",
+          "devtools",
+          "ollama",
+          "openai",
+          "pull-request",
+          "pull-requests"
+        ],
+        "updated_at": "2026-11-04T15:39:07Z"
+      },
+      "repo": {
+        "description": "\ud83d\ude80 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+        "forks": 2070,
+        "full_name": "The-PR-Agent/pr-agent",
+        "language": "Python",
+        "name": "pr-agent",
+        "owner": "The-PR-Agent",
+        "rank": 8,
+        "stars_today": 279,
+        "total_stars": 14594,
+        "url": "https://github.com/The-PR-Agent/pr-agent"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.54,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 73.84
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 279 stars today; score 73.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-08-12T10:08:49Z",
+        "default_branch": "main",
+        "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+        "fork": false,
+        "full_name": "scenario-labs/skills",
+        "homepage": "https://www.skills.sh/scenario-labs/skills",
+        "latest_release": "skills-v0.60.1",
+        "license_spdx": "MIT",
+        "open_issues": 36,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-04T09:40:43Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://scenario.com\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"./resources/scenario-logo.png\" height=\"84\" alt=\"Scenario\" /> </a> <br /> </p> <div align=\"center\"> <h1> Scenario Agent Skills </h1> <a href=\"https://skills.sh/scenario-labs/skills\"> <img alt=\"skills.sh\" src=\"https://skills.sh/b/scenario-labs/skills\" /> </a> <a href=\"https://github.com/scenario-labs/skills/releases\"> <img alt=\"Latest release\" src=\"https://img.shields.io/github/v/release/scenario",
+        "topics": [
+          "3d-models",
+          "agent-skills",
+          "ai-agents",
+          "ai-art",
+          "blender",
+          "claude-code",
+          "claude-skills",
+          "codex",
+          "game-assets",
+          "game-development",
+          "generative-ai",
+          "image-generation",
+          "maya",
+          "mcp",
+          "model-context-protocol",
+          "skills-sh",
+          "unity",
+          "unreal-engine",
+          "video-generation",
+          "zbrush"
+        ],
+        "updated_at": "2026-11-04T15:37:48Z"
+      },
+      "repo": {
+        "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+        "forks": 238,
+        "full_name": "scenario-labs/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "scenario-labs",
+        "rank": 16,
+        "stars_today": 224,
+        "total_stars": 2194,
+        "url": "https://github.com/scenario-labs/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.2,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.25
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 224 stars today; score 73.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-17T22:13:14Z",
+        "default_branch": "main",
+        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+        "fork": false,
+        "full_name": "max-sixty/worktrunk",
+        "homepage": "https://worktrunk.dev",
+        "latest_release": "v0.81.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 71,
+        "primary_language": "Rust",
+        "pushed_at": "2026-11-04T14:07:58Z",
+        "readme_excerpt": "<!-- markdownlint-disable MD033 --> <h1><img src=\"docs/public/logo.png\" alt=\"Worktrunk logo\" width=\"50\" align=\"absmiddle\">&nbsp;&nbsp;Worktrunk</h1> <!-- Crates.io badge below disabled while shields.io is rate-limited by crates.io (renders \"CRATES.IO: INVALID\"). Tracking: badges/shields#11879. Restore once fixed. [![Crates.io](https://img.shields.io/crates/v/worktrunk?style=for-the-badge&logo=rust)](https://crates.io/crates/worktrunk) --> [![Docs](https://img.shields.io/badge/docs-worktrunk.dev-",
+        "topics": [
+          "agents",
+          "claude-code",
+          "codex",
+          "developer-tools",
+          "git",
+          "worktrees"
+        ],
+        "updated_at": "2026-11-04T15:37:51Z"
+      },
+      "repo": {
+        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+        "forks": 403,
+        "full_name": "max-sixty/worktrunk",
+        "language": "Rust",
+        "name": "worktrunk",
+        "owner": "max-sixty",
+        "rank": 2,
+        "stars_today": 524,
+        "total_stars": 10858,
+        "url": "https://github.com/max-sixty/worktrunk"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.24,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 5.25,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 72.99
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 524 stars today; score 73.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-11T21:22:45Z",
+        "default_branch": "main",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+        "fork": false,
+        "full_name": "garrytan/gstack",
+        "homepage": null,
+        "latest_release": "v1.92.55.0",
+        "license_spdx": "MIT",
+        "open_issues": 95,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-04T15:30:36Z",
+        "readme_excerpt": "# gstack gstack turns Claude Code (and other coding agents) into a virtual engineering team: a CEO who rethinks the product, an eng manager who locks architecture, a designer who catches AI slop, a reviewer who finds production bugs, a QA lead who opens a real browser, a security officer who runs OWASP + STRIDE audits, and a release engineer who ships the PR. All slash commands, all Markdown, all free, MIT license. I'm [Garry Tan](https://x.com/garrytan), President & CEO of [Y Combinator](https:",
+        "topics": [],
+        "updated_at": "2026-11-04T15:41:16Z"
+      },
+      "repo": {
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+        "forks": 20615,
+        "full_name": "garrytan/gstack",
+        "language": "TypeScript",
+        "name": "gstack",
+        "owner": "garrytan",
+        "rank": 10,
+        "stars_today": 285,
+        "total_stars": 139119,
+        "url": "https://github.com/garrytan/gstack"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.28,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 72.53
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 285 stars today; score 72.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-08-21T22:54:31Z",
+        "default_branch": "main",
+        "description": "\ud83d\udcab Toolkit to help you get started with SDD or any other process!",
+        "fork": false,
+        "full_name": "github/spec-kit",
+        "homepage": "https://github.github.com/spec-kit/",
+        "latest_release": "v1.3.0",
+        "license_spdx": "MIT",
+        "open_issues": 208,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-04T15:37:52Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"https://raw.githubusercontent.com/github/spec-kit/main/media/logo_large.webp\" alt=\"Spec Kit Logo\" width=\"200\" height=\"200\"/> <h1>\ud83c\udf31 Spec Kit</h1> <h3><em>Build with a spec, fix a bug, or assess an idea \u2014 with your coding agent.</em></h3> </div> <p align=\"center\"> <a href=\"https://github.com/github/spec-kit/releases/latest\"><img src=\"https://img.shields.io/github/v/release/github/spec-kit\" alt=\"Latest Release\"/></a> <a href=\"https://github.com/github/spec-kit/stargaz",
+        "topics": [
+          "ai",
+          "copilot",
+          "development",
+          "engineering",
+          "prd",
+          "spec",
+          "spec-driven"
+        ],
+        "updated_at": "2026-11-04T15:41:09Z"
+      },
+      "repo": {
+        "description": "\ud83d\udcab Toolkit to help you get started with SDD or any other process!",
+        "forks": 13198,
+        "full_name": "github/spec-kit",
+        "language": "Python",
+        "name": "spec-kit",
+        "owner": "github",
+        "rank": 7,
+        "stars_today": 810,
+        "total_stars": 147082,
+        "url": "https://github.com/github/spec-kit"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.5,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 71.3
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 810 stars today; score 71.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-03-11T02:57:34Z",
+        "default_branch": "main",
+        "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "fork": false,
+        "full_name": "harry0703/MoneyPrinterTurbo",
+        "homepage": null,
+        "latest_release": "v1.3.9",
+        "license_spdx": "MIT",
+        "open_issues": 69,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-04T02:11:21Z",
+        "readme_excerpt": "<div align=\"center\"> # MoneyPrinterTurbo \ud83d\udcb8 ### \u4e00\u7ad9\u5f0f AI \u77ed\u89c6\u9891\u751f\u6210\u5de5\u5177 \u53ea\u9700\u63d0\u4f9b\u89c6\u9891<b>\u4e3b\u9898</b>\u6216<b>\u5173\u952e\u8bcd</b>\uff0c\u5373\u53ef\u81ea\u52a8\u751f\u6210\u89c6\u9891\u811a\u672c\u3001\u5339\u914d\u7d20\u6750\u3001\u751f\u6210\u5b57\u5e55\u548c\u80cc\u666f\u97f3\u4e50\uff0c\u5e76\u5408\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002 [![Version](https://img.shields.io/github/v/release/harry0703/MoneyPrinterTurbo?color=blue&label=version)](https://github.com/harry0703/MoneyPrinterTurbo/releases) [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/harry0703/MoneyPrinterTurbo/releases/latest) [![Python](https://img.shields.io/badge/pyth",
+        "topics": [
+          "ai-video-generator",
+          "content-creation",
+          "ffmpeg",
+          "instagram-reels",
+          "llm",
+          "python",
+          "short-video",
+          "subtitles",
+          "text-to-speech",
+          "tiktok",
+          "video-automation",
+          "video-workflow",
+          "workflow-automation",
+          "youtube-shorts"
+        ],
+        "updated_at": "2026-11-04T15:41:15Z"
+      },
+      "repo": {
+        "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "forks": 22141,
+        "full_name": "harry0703/MoneyPrinterTurbo",
+        "language": "Python",
+        "name": "MoneyPrinterTurbo",
+        "owner": "harry0703",
+        "rank": 9,
+        "stars_today": 615,
+        "total_stars": 138709,
+        "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.55,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 69.3
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 615 stars today; score 69.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-20T08:22:45Z",
+        "default_branch": "main",
+        "description": "\ud83d\udce1 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | \u7528 AI \u6784\u5efa\u4f60\u4e13\u5c5e\u7684\u65b0\u95fb\u96f7\u8fbe",
+        "fork": false,
+        "full_name": "Thysrael/Horizon",
+        "homepage": "https://www.horizon1123.top",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 6,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-03T17:20:32Z",
+        "readme_excerpt": "<div align=\"center\"> <h1>\ud83c\udf05 Horizon</h1> <p><strong>Enjoy the News itself. Leave others to Horizon</strong></p> <a href=\"https://trendshift.io/repositories/22864?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-22864\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://trendshift.io/api/badge/trendshift/repositories/22864/daily\" alt=\"Thysrael%2FHorizon | Trendshift\" width=\"250\" height=\"55\"/></a> <a href=\"https://trendshift.io/repositories/22864?utm_source",
+        "topics": [
+          "aggregator",
+          "feishu-bot",
+          "llm",
+          "mcp",
+          "news",
+          "openclaw",
+          "python",
+          "webhook"
+        ],
+        "updated_at": "2026-11-04T15:41:19Z"
+      },
+      "repo": {
+        "description": "\ud83d\udce1 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | \u7528 AI \u6784\u5efa\u4f60\u4e13\u5c5e\u7684\u65b0\u95fb\u96f7\u8fbe",
+        "forks": 1809,
+        "full_name": "Thysrael/Horizon",
+        "language": "Python",
+        "name": "Horizon",
+        "owner": "Thysrael",
+        "rank": 15,
+        "stars_today": 121,
+        "total_stars": 12361,
+        "url": "https://github.com/Thysrael/Horizon"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.0,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 59.8
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 121 stars today; score 59.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-08-23T03:40:14Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+        "homepage": null,
+        "latest_release": "v1.3.6",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 64,
+        "primary_language": "C#",
+        "pushed_at": "2026-11-04T07:27:28Z",
+        "readme_excerpt": "<div align=\"center\"> **\u7b80\u4f53\u4e2d\u6587** | [\u7e41\u9ad4\u4e2d\u6587](README.zh-TW.md) | [English](README.en.md) | [\u65e5\u672c\u8a9e](README.ja.md) | [T\u00fcrk\u00e7e](README.tr.md) | [Espa\u00f1ol](README.es.md) | [\u010ce\u0161tina](README.cs.md) ![Banner](docs/images/DiscImageStudio_Banner_2.png) <h2>\u5168\u80fd\u7684\u5149\u76d8\u76d8\u9762\u53ef\u89c1\u56fe\u50cf\u751f\u6210\u4e0e\u523b\u5f55\u5de5\u5177</h2> Disc Image Studio \u662f\u4e00\u4e2a\u591a\u5e73\u53f0\u7684\u5149\u76d8\u76d8\u9762\u56fe\u50cf\u751f\u6210\u4e0e\u523b\u5f55\u5de5\u5177\uff0c\u5e2e\u52a9\u60a8\u4f7f\u7528\u4efb\u4f55\u523b\u5f55\u5149\u9a71\u5728\u4efb\u4f55 DVD / CD / \u5355\u5c42\u84dd\u5149 \u5149\u76d8\u4e0a\u523b\u8680\u51fa\u8089\u773c\u53ef\u89c1\u7684\u56fe\u50cf\u3002 ![.NET \u7248\u672c](https://img.shields.io/badge/.NET-10.0-512bd4?style=flat-square) ![\u8fd0\u884c\u5e73\u53f0](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20ma",
+        "topics": [],
+        "updated_at": "2026-11-04T15:40:53Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 214,
+        "full_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+        "language": "C#",
+        "name": "DiscImageStudio",
+        "owner": "JiaFeiMiao-K-Cat",
+        "rank": 12,
+        "stars_today": 1792,
+        "total_stars": 6177,
+        "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 4.9,
+        "momentum": 8.13,
+        "novelty": 8.0,
+        "practical_usefulness": 5.95,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.32,
+        "technical_quality": 14.0,
+        "total": 50.25
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: C# project with 1792 stars today; score 50.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/thedotmack",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Persistent Context Across Sessions for Every Agent \u2013 Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "forks": 9779,
+        "full_name": "sponsors/thedotmack",
+        "language": "TypeScript",
+        "name": "thedotmack",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 1165,
+        "total_stars": 112551,
+        "url": "https://github.com/sponsors/thedotmack"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 7.0,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 7.0,
+        "technical_quality": 3.5,
+        "total": 45.2
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: TypeScript project with 1165 stars today; score 45.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/D4Vinci",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83d\udd77\ufe0f The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+        "forks": 10066,
+        "full_name": "sponsors/D4Vinci",
+        "language": "Python",
+        "name": "D4Vinci",
+        "owner": "sponsors",
+        "rank": 14,
+        "stars_today": 2006,
+        "total_stars": 96029,
+        "url": "https://github.com/sponsors/D4Vinci"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 8.57,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 42.58
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 2006 stars today; score 42.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "forks": 26242,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 1376,
+        "total_stars": 312629,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 8.0,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 40.95
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 1376 stars today; score 41.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/floci-io",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+        "forks": 3258,
+        "full_name": "sponsors/floci-io",
+        "language": "Java",
+        "name": "floci-io",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 1082,
+        "total_stars": 29352,
+        "url": "https://github.com/sponsors/floci-io"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.86,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 2.8,
+        "technical_quality": 3.5,
+        "total": 22.86
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Java project with 1082 stars today; score 22.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/MichaelCade",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",
+        "forks": 6786,
+        "full_name": "sponsors/MichaelCade",
+        "language": "Shell",
+        "name": "MichaelCade",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 156,
+        "total_stars": 30227,
+        "url": "https://github.com/sponsors/MichaelCade"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.4,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 0.98,
+        "technical_quality": 3.5,
+        "total": 21.78
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Shell project with 156 stars today; score 21.8/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-11-04",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is NVIDIA/auto-ontology."
+}
