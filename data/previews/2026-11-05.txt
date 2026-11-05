@@ -1,0 +1,29 @@
+GitHub Trending: AI workflow signal - 2026-11-05
+
+Today leans toward AI workflow signal; the strongest pick is ConardLi/garden-skills.
+
+Top picks
+1. ConardLi/garden-skills - 73.6/100
+   https://github.com/ConardLi/garden-skills
+   AI Workflow, Try Today: JavaScript project with 181 stars today; score 73.6/100.
+2. vercel-labs/agent-browser - 73.2/100
+   https://github.com/vercel-labs/agent-browser
+   AI Workflow, DevTools: Rust project with 181 stars today; score 73.2/100.
+3. google/skills - 67.1/100
+   https://github.com/google/skills
+   AI Workflow, Try Today: Python project with 199 stars today; score 67.1/100.
+4. microsoft/VibeVoice - 55.8/100
+   https://github.com/microsoft/VibeVoice
+   AI Workflow, Try Today: Python project with 214 stars today; score 55.8/100.
+5. lz4/lz4 - 45.2/100
+   https://github.com/lz4/lz4
+   Try Today: C project with 16 stars today; score 45.2/100.
+
+Full reviewed list
+- ConardLi/garden-skills: 73.6/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: JavaScript project with 181 stars today; score 73.6/100.
+- vercel-labs/agent-browser: 73.2/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Rust project with 181 stars today; score 73.2/100.
+- google/skills: 67.1/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 199 stars today; score 67.1/100.
+- microsoft/VibeVoice: 55.8/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 214 stars today; score 55.8/100.
+- lz4/lz4: 45.2/100 [Try Today] Try Today: C project with 16 stars today; score 45.2/100.
+
+Generated for 2026-11-05 from GitHub Trending daily.

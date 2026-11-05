@@ -1,0 +1,1074 @@
+{
+  "date": "2026-11-05",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-21T11:56:17Z",
+        "default_branch": "main",
+        "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+        "fork": false,
+        "full_name": "ConardLi/garden-skills",
+        "homepage": "https://github.com/ConardLi/garden-skills",
+        "latest_release": "motion-showreel-v0.1.0",
+        "license_spdx": "MIT",
+        "open_issues": 25,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-10-25T13:45:33Z",
+        "readme_excerpt": "<div align=\"center\"> # Garden Skills **A curated collection of production-ready [Agent Skills](https://support.claude.com/en/articles/12512176-what-are-skills) for Claude Code, Cursor, Codex, and other AI coding agents.** <a id=\"skills-gallery\"></a> <table> <tr> <td width=\"50%\" valign=\"top\"> <a href=\"#motion-showreel\"><img src=\"./dist/imgs/covers/motion-showreel.webp\" alt=\"Motion Showreel Skill\" width=\"100%\"></a> <br/><a href=\"#motion-showreel\"><strong>motion-showreel</strong></a> <br/><sub>Code",
+        "topics": [
+          "agent",
+          "claude",
+          "gpt-image-2",
+          "rag",
+          "skills",
+          "web-design"
+        ],
+        "updated_at": "2026-11-05T15:43:36Z"
+      },
+      "repo": {
+        "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+        "forks": 1640,
+        "full_name": "ConardLi/garden-skills",
+        "language": "JavaScript",
+        "name": "garden-skills",
+        "owner": "ConardLi",
+        "rank": 12,
+        "stars_today": 181,
+        "total_stars": 14020,
+        "url": "https://github.com/ConardLi/garden-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.58,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.63
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 181 stars today; score 73.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-11T05:38:15Z",
+        "default_branch": "main",
+        "description": "Browser automation CLI for AI agents",
+        "fork": false,
+        "full_name": "vercel-labs/agent-browser",
+        "homepage": "https://agent-browser.dev",
+        "latest_release": "v0.41.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 487,
+        "primary_language": "Rust",
+        "pushed_at": "2026-11-05T07:26:23Z",
+        "readme_excerpt": "# agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. <p> <a href=\"https://vercel.com/labs#labs-products\"><img alt=\"Vercel Labs Product\" src=\"https://img.shields.io/badge/LABS-PRODUCT-0a0a0a.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000000\" height=\"28\"></a> <a href=\"https://www.npmjs.com/package/agent-browser\"><img alt=\"npm version: agent-browser\" src=\"https://img.shields.io/npm/v/agent-browser.svg?style",
+        "topics": [],
+        "updated_at": "2026-11-05T15:42:48Z"
+      },
+      "repo": {
+        "description": "Browser automation CLI for AI agents",
+        "forks": 3139,
+        "full_name": "vercel-labs/agent-browser",
+        "language": "Rust",
+        "name": "agent-browser",
+        "owner": "vercel-labs",
+        "rank": 10,
+        "stars_today": 181,
+        "total_stars": 45695,
+        "url": "https://github.com/vercel-labs/agent-browser"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.87,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 73.17
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 181 stars today; score 73.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-31T19:02:20Z",
+        "default_branch": "main",
+        "description": "Agent Skills for Google products and technologies",
+        "fork": false,
+        "full_name": "google/skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 25,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-05T11:41:06Z",
+        "readme_excerpt": "# Agent Skills [![Install via skills.sh](https://img.shields.io/badge/skills.sh-install-green)](https://skills.sh/google/skills) This repository contains [Agent Skills](https://agentskills.io/home) for Google products and technologies, including [Google Cloud](https://cloud.google.com). ## Installation ```bash npx skills add google/skills ``` When prompted, select specific skills or all skills, the target agents to configure, and the installation scope (project or global). If `npx` is not availa",
+        "topics": [
+          "google",
+          "googlecloud",
+          "skills"
+        ],
+        "updated_at": "2026-11-05T15:42:56Z"
+      },
+      "repo": {
+        "description": "Agent Skills for Google products and technologies",
+        "forks": 1883,
+        "full_name": "google/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "google",
+        "rank": 9,
+        "stars_today": 199,
+        "total_stars": 22189,
+        "url": "https://github.com/google/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.07,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 67.11
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 199 stars today; score 67.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-08-25T13:24:01Z",
+        "default_branch": "main",
+        "description": "Open-Source Frontier Voice AI",
+        "fork": false,
+        "full_name": "microsoft/VibeVoice",
+        "homepage": "https://microsoft.github.io/VibeVoice/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 204,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-08T05:29:29Z",
+        "readme_excerpt": "<div align=\"center\"> ## \ud83c\udf99\ufe0f VibeVoice: Open-Source Frontier Voice AI [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=githubpages)](https://microsoft.github.io/VibeVoice) [![Hugging Face](https://img.shields.io/badge/HuggingFace-Collection-orange?logo=huggingface)](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) [![TTS Report](https://img.shields.io/badge/TTS-Report-red?logo=arxiv)](https://openreview.net/pdf?id=FihSkzyxdv) [![ASR Report](https",
+        "topics": [],
+        "updated_at": "2026-11-05T15:43:09Z"
+      },
+      "repo": {
+        "description": "Open-Source Frontier Voice AI",
+        "forks": 6252,
+        "full_name": "microsoft/VibeVoice",
+        "language": "Python",
+        "name": "VibeVoice",
+        "owner": "microsoft",
+        "rank": 13,
+        "stars_today": 214,
+        "total_stars": 55514,
+        "url": "https://github.com/microsoft/VibeVoice"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.54,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 55.84
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 214 stars today; score 55.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-03-25T15:52:21Z",
+        "default_branch": "dev",
+        "description": "Extremely Fast Compression algorithm",
+        "fork": false,
+        "full_name": "lz4/lz4",
+        "homepage": "http://www.lz4.org",
+        "latest_release": "v1.11.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 11,
+        "primary_language": "C",
+        "pushed_at": "2026-11-05T14:35:34Z",
+        "readme_excerpt": "LZ4 - Extremely fast compression ================================ LZ4 is a lossless compression algorithm, providing compression speed > 500 MB/s per core, scalable with multi-core CPUs. It features an extremely fast decoder, with speed in multiple GB/s per core, typically reaching RAM speed limits on multi-core systems. Compression speed can be tuned dynamically, by selecting an \"acceleration\" factor which trades compression ratio for faster speed. On the other end, a high compression derivativ",
+        "topics": [
+          "c",
+          "compression",
+          "lz4"
+        ],
+        "updated_at": "2026-11-05T15:43:32Z"
+      },
+      "repo": {
+        "description": "Extremely Fast Compression algorithm",
+        "forks": 1632,
+        "full_name": "lz4/lz4",
+        "language": "C",
+        "name": "lz4",
+        "owner": "lz4",
+        "rank": 8,
+        "stars_today": 16,
+        "total_stars": 12273,
+        "url": "https://github.com/lz4/lz4"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.64,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 1.08,
+        "technical_quality": 11.2,
+        "total": 45.22
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: C project with 16 stars today; score 45.2/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-19T18:00:49Z",
+        "default_branch": "main",
+        "description": "Computer use CLI for AI agents",
+        "fork": false,
+        "full_name": "vercel-labs/agent-desktop",
+        "homepage": "https://agent-browser.dev/desktop",
+        "latest_release": "v1.2.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 169,
+        "primary_language": "Rust",
+        "pushed_at": "2026-11-05T06:31:12Z",
+        "readme_excerpt": "# agent-desktop Computer use for AI agents: see and operate desktop apps on macOS, Windows, and Linux through the OS accessibility tree. <p> <a href=\"https://vercel.com/labs#labs-products\"><img alt=\"Vercel Labs Product\" src=\"https://img.shields.io/badge/LABS-PRODUCT-0a0a0a.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000000\" height=\"28\"></a> <a href=\"https://www.npmjs.com/package/agent-desktop\"><img alt=\"npm version: agent-desktop\" src=\"https://img.shields.io/npm/v/agent-desktop.svg?st",
+        "topics": [
+          "accessibility",
+          "accessibility-api",
+          "ai-agents",
+          "automation",
+          "cli",
+          "computer-use",
+          "computer-use-agent",
+          "computer-use-agents",
+          "desktop-automation",
+          "macos",
+          "mcp",
+          "rust"
+        ],
+        "updated_at": "2026-11-05T15:43:15Z"
+      },
+      "repo": {
+        "description": "Computer use CLI for AI agents",
+        "forks": 1146,
+        "full_name": "vercel-labs/agent-desktop",
+        "language": "Rust",
+        "name": "agent-desktop",
+        "owner": "vercel-labs",
+        "rank": 6,
+        "stars_today": 2173,
+        "total_stars": 16379,
+        "url": "https://github.com/vercel-labs/agent-desktop"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 9.62,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 77.57
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 2173 stars today; score 77.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-27T21:45:56Z",
+        "default_branch": "main",
+        "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+        "fork": false,
+        "full_name": "NVIDIA/auto-ontology",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 52,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-05T14:45:30Z",
+        "readme_excerpt": "<!-- SPDX-FileCopyrightText: Copyright (c) 2026, NVIDIA CORPORATION & AFFILIATES. All rights reserved. SPDX-License-Identifier: Apache-2.0 --> # Auto Ontology Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where data lives, what it means, whether to use it, how to use it, where it came from, and what is similar. NVIDIA Auto Ontology is",
+        "topics": [],
+        "updated_at": "2026-11-05T15:42:39Z"
+      },
+      "repo": {
+        "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+        "forks": 530,
+        "full_name": "NVIDIA/auto-ontology",
+        "language": "Python",
+        "name": "auto-ontology",
+        "owner": "NVIDIA",
+        "rank": 1,
+        "stars_today": 2707,
+        "total_stars": 6694,
+        "url": "https://github.com/NVIDIA/auto-ontology"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 4.55,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.9,
+        "total": 76.15
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 2707 stars today; score 76.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-21T11:56:17Z",
+        "default_branch": "main",
+        "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+        "fork": false,
+        "full_name": "ConardLi/garden-skills",
+        "homepage": "https://github.com/ConardLi/garden-skills",
+        "latest_release": "motion-showreel-v0.1.0",
+        "license_spdx": "MIT",
+        "open_issues": 25,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-10-25T13:45:33Z",
+        "readme_excerpt": "<div align=\"center\"> # Garden Skills **A curated collection of production-ready [Agent Skills](https://support.claude.com/en/articles/12512176-what-are-skills) for Claude Code, Cursor, Codex, and other AI coding agents.** <a id=\"skills-gallery\"></a> <table> <tr> <td width=\"50%\" valign=\"top\"> <a href=\"#motion-showreel\"><img src=\"./dist/imgs/covers/motion-showreel.webp\" alt=\"Motion Showreel Skill\" width=\"100%\"></a> <br/><a href=\"#motion-showreel\"><strong>motion-showreel</strong></a> <br/><sub>Code",
+        "topics": [
+          "agent",
+          "claude",
+          "gpt-image-2",
+          "rag",
+          "skills",
+          "web-design"
+        ],
+        "updated_at": "2026-11-05T15:43:36Z"
+      },
+      "repo": {
+        "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+        "forks": 1640,
+        "full_name": "ConardLi/garden-skills",
+        "language": "JavaScript",
+        "name": "garden-skills",
+        "owner": "ConardLi",
+        "rank": 12,
+        "stars_today": 181,
+        "total_stars": 14020,
+        "url": "https://github.com/ConardLi/garden-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.58,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.63
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 181 stars today; score 73.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-11T05:38:15Z",
+        "default_branch": "main",
+        "description": "Browser automation CLI for AI agents",
+        "fork": false,
+        "full_name": "vercel-labs/agent-browser",
+        "homepage": "https://agent-browser.dev",
+        "latest_release": "v0.41.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 487,
+        "primary_language": "Rust",
+        "pushed_at": "2026-11-05T07:26:23Z",
+        "readme_excerpt": "# agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. <p> <a href=\"https://vercel.com/labs#labs-products\"><img alt=\"Vercel Labs Product\" src=\"https://img.shields.io/badge/LABS-PRODUCT-0a0a0a.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000000\" height=\"28\"></a> <a href=\"https://www.npmjs.com/package/agent-browser\"><img alt=\"npm version: agent-browser\" src=\"https://img.shields.io/npm/v/agent-browser.svg?style",
+        "topics": [],
+        "updated_at": "2026-11-05T15:42:48Z"
+      },
+      "repo": {
+        "description": "Browser automation CLI for AI agents",
+        "forks": 3139,
+        "full_name": "vercel-labs/agent-browser",
+        "language": "Rust",
+        "name": "agent-browser",
+        "owner": "vercel-labs",
+        "rank": 10,
+        "stars_today": 181,
+        "total_stars": 45695,
+        "url": "https://github.com/vercel-labs/agent-browser"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.87,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 73.17
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 181 stars today; score 73.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-17T22:13:14Z",
+        "default_branch": "main",
+        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+        "fork": false,
+        "full_name": "max-sixty/worktrunk",
+        "homepage": "https://worktrunk.dev",
+        "latest_release": "v0.81.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 51,
+        "primary_language": "Rust",
+        "pushed_at": "2026-11-05T08:57:29Z",
+        "readme_excerpt": "<!-- markdownlint-disable MD033 --> <h1><img src=\"docs/public/logo.png\" alt=\"Worktrunk logo\" width=\"50\" align=\"absmiddle\">&nbsp;&nbsp;Worktrunk</h1> <!-- Crates.io badge below disabled while shields.io is rate-limited by crates.io (renders \"CRATES.IO: INVALID\"). Tracking: badges/shields#11879. Restore once fixed. [![Crates.io](https://img.shields.io/crates/v/worktrunk?style=for-the-badge&logo=rust)](https://crates.io/crates/worktrunk) --> [![Docs](https://img.shields.io/badge/docs-worktrunk.dev-",
+        "topics": [
+          "agents",
+          "claude-code",
+          "codex",
+          "developer-tools",
+          "git",
+          "worktrees"
+        ],
+        "updated_at": "2026-11-05T15:41:24Z"
+      },
+      "repo": {
+        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+        "forks": 427,
+        "full_name": "max-sixty/worktrunk",
+        "language": "Rust",
+        "name": "worktrunk",
+        "owner": "max-sixty",
+        "rank": 7,
+        "stars_today": 546,
+        "total_stars": 11367,
+        "url": "https://github.com/max-sixty/worktrunk"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.43,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 5.25,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 72.18
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 546 stars today; score 72.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-08-12T10:08:49Z",
+        "default_branch": "main",
+        "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+        "fork": false,
+        "full_name": "scenario-labs/skills",
+        "homepage": "https://www.skills.sh/scenario-labs/skills",
+        "latest_release": "skills-v0.60.1",
+        "license_spdx": "MIT",
+        "open_issues": 40,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-05T15:42:20Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://scenario.com\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"./resources/scenario-logo.png\" height=\"84\" alt=\"Scenario\" /> </a> <br /> </p> <div align=\"center\"> <h1> Scenario Agent Skills </h1> <a href=\"https://skills.sh/scenario-labs/skills\"> <img alt=\"skills.sh\" src=\"https://skills.sh/b/scenario-labs/skills\" /> </a> <a href=\"https://github.com/scenario-labs/skills/releases\"> <img alt=\"Latest release\" src=\"https://img.shields.io/github/v/release/scenario",
+        "topics": [
+          "3d-models",
+          "agent-skills",
+          "ai-agents",
+          "ai-art",
+          "blender",
+          "claude-code",
+          "claude-skills",
+          "codex",
+          "game-assets",
+          "game-development",
+          "generative-ai",
+          "image-generation",
+          "maya",
+          "mcp",
+          "model-context-protocol",
+          "skills-sh",
+          "unity",
+          "unreal-engine",
+          "video-generation",
+          "zbrush"
+        ],
+        "updated_at": "2026-11-05T15:42:49Z"
+      },
+      "repo": {
+        "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+        "forks": 260,
+        "full_name": "scenario-labs/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "scenario-labs",
+        "rank": 11,
+        "stars_today": 674,
+        "total_stars": 2852,
+        "url": "https://github.com/scenario-labs/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.25,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 70.1
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 674 stars today; score 70.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-11T21:22:45Z",
+        "default_branch": "main",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+        "fork": false,
+        "full_name": "garrytan/gstack",
+        "homepage": null,
+        "latest_release": "v1.96.0.0",
+        "license_spdx": "MIT",
+        "open_issues": 78,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-05T15:38:59Z",
+        "readme_excerpt": "# gstack gstack turns Claude Code (and other coding agents) into a virtual engineering team: a CEO who rethinks the product, an eng manager who locks architecture, a designer who catches AI slop, a reviewer who finds production bugs, a QA lead who opens a real browser, a security officer who runs OWASP + STRIDE audits, and a release engineer who ships the PR. All slash commands, all Markdown, all free, MIT license. I'm [Garry Tan](https://x.com/garrytan), President & CEO of [Y Combinator](https:",
+        "topics": [],
+        "updated_at": "2026-11-05T15:41:11Z"
+      },
+      "repo": {
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+        "forks": 20672,
+        "full_name": "garrytan/gstack",
+        "language": "TypeScript",
+        "name": "gstack",
+        "owner": "garrytan",
+        "rank": 3,
+        "stars_today": 608,
+        "total_stars": 139738,
+        "url": "https://github.com/garrytan/gstack"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.2,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 69.25
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 608 stars today; score 69.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-31T19:02:20Z",
+        "default_branch": "main",
+        "description": "Agent Skills for Google products and technologies",
+        "fork": false,
+        "full_name": "google/skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 25,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-05T11:41:06Z",
+        "readme_excerpt": "# Agent Skills [![Install via skills.sh](https://img.shields.io/badge/skills.sh-install-green)](https://skills.sh/google/skills) This repository contains [Agent Skills](https://agentskills.io/home) for Google products and technologies, including [Google Cloud](https://cloud.google.com). ## Installation ```bash npx skills add google/skills ``` When prompted, select specific skills or all skills, the target agents to configure, and the installation scope (project or global). If `npx` is not availa",
+        "topics": [
+          "google",
+          "googlecloud",
+          "skills"
+        ],
+        "updated_at": "2026-11-05T15:42:56Z"
+      },
+      "repo": {
+        "description": "Agent Skills for Google products and technologies",
+        "forks": 1883,
+        "full_name": "google/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "google",
+        "rank": 9,
+        "stars_today": 199,
+        "total_stars": 22189,
+        "url": "https://github.com/google/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.07,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 67.11
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 199 stars today; score 67.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-07-16T08:13:41Z",
+        "default_branch": "master",
+        "description": "\u57fa\u4e8e Playwright \u548cAI\u5b9e\u73b0\u7684\u95f2\u9c7c\u591a\u4efb\u52a1\u5b9e\u65f6/\u5b9a\u65f6\u76d1\u63a7\u4e0e\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff0c\u914d\u5907\u4e86\u529f\u80fd\u5b8c\u5584\u7684\u540e\u53f0\u7ba1\u7406UI\u3002\u5e2e\u52a9\u7528\u6237\u4ece\u95f2\u9c7c\u6d77\u91cf\u5546\u54c1\u4e2d\uff0c\u627e\u5230\u5fc3\u4eea\u4ea7\u54c1\u3002",
+        "fork": false,
+        "full_name": "Usagi-org/ai-goofish-monitor",
+        "homepage": null,
+        "latest_release": "2.5",
+        "license_spdx": "MIT",
+        "open_issues": 47,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-10T07:39:16Z",
+        "readme_excerpt": "# \u95f2\u9c7c\u667a\u80fd\u76d1\u63a7\u7cfb\u7edf [\u4e2d\u6587] \uff5c [English](README_EN.md) \u57fa\u4e8e Playwright \u548c AI \u7684\u95f2\u9c7c\u591a\u4efb\u52a1\u5b9e\u65f6\u76d1\u63a7\uff0c\u63d0\u4f9b\u5b8c\u6574\u7684 Web \u7ba1\u7406\u754c\u9762\u3002 ## \u6838\u5fc3\u7279\u6027 - **Web \u53ef\u89c6\u5316\u7ba1\u7406**: \u4efb\u52a1\u7ba1\u7406\u3001\u8d26\u53f7\u7ba1\u7406\u3001AI \u6807\u51c6\u7f16\u8f91\u3001\u8fd0\u884c\u65e5\u5fd7\u3001\u7ed3\u679c\u6d4f\u89c8 - **AI \u9a71\u52a8**: \u81ea\u7136\u8bed\u8a00\u521b\u5efa\u4efb\u52a1\uff0c\u591a\u6a21\u6001\u6a21\u578b\u6df1\u5ea6\u5206\u6790\u5546\u54c1 - **\u591a\u4efb\u52a1\u5e76\u53d1**: \u72ec\u7acb\u914d\u7f6e\u5173\u952e\u8bcd\u3001\u4ef7\u683c\u3001\u7b5b\u9009\u6761\u4ef6\u548c AI Prompt - **\u9ad8\u7ea7\u7b5b\u9009**: \u5305\u90ae\u3001\u65b0\u53d1\u5e03\u65f6\u95f4\u8303\u56f4\u3001\u7701/\u5e02/\u533a\u4e09\u7ea7\u533a\u57df\u7b5b\u9009 - **\u5373\u65f6\u901a\u77e5**: \u652f\u6301 ntfy.sh\u3001\u4f01\u4e1a\u5fae\u4fe1\u3001Bark\u3001Telegram\u3001Webhook\u7b49\u591a\u6e20\u9053 - **\u5b9a\u65f6\u8c03\u5ea6**: \u652f\u6301 Cron \u914d\u7f6e\u5468\u671f\u6027\u4efb\u52a1 - **\u8d26\u53f7\u4e0e\u4ee3\u7406\u8f6e\u6362**: \u591a\u8d26\u53f7\u7ba1\u7406\u3001\u4efb\u52a1\u7ed1\u5b9a\u8d26\u53f7\u3001\u4ee3\u7406\u6c60\u8f6e\u6362\u4e0e\u5931\u8d25\u91cd\u8bd5 - **Docker \u90e8\u7f72**: \u4e00\u952e\u5bb9\u5668\u5316\u90e8\u7f72 ## \u622a\u56fe ![\u76d1\u63a7\u6982\u89c8](static/img.png) ![\u4efb\u52a1\u7ba1\u7406](static/img_1.png) ![\u7ed3\u679c\u67e5\u770b](static/img_2.png) ![\u901a\u77e5\u63a8\u9001](static/img_3.p",
+        "topics": [
+          "ai",
+          "ai-assistant",
+          "ai-tools",
+          "automation",
+          "gemini",
+          "goofish",
+          "open-source",
+          "openai",
+          "playwright",
+          "tool",
+          "xian-yu",
+          "xianyu",
+          "xianyu-bot"
+        ],
+        "updated_at": "2026-11-05T15:41:59Z"
+      },
+      "repo": {
+        "description": "\u57fa\u4e8e Playwright \u548cAI\u5b9e\u73b0\u7684\u95f2\u9c7c\u591a\u4efb\u52a1\u5b9e\u65f6/\u5b9a\u65f6\u76d1\u63a7\u4e0e\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff0c\u914d\u5907\u4e86\u529f\u80fd\u5b8c\u5584\u7684\u540e\u53f0\u7ba1\u7406UI\u3002\u5e2e\u52a9\u7528\u6237\u4ece\u95f2\u9c7c\u6d77\u91cf\u5546\u54c1\u4e2d\uff0c\u627e\u5230\u5fc3\u4eea\u4ea7\u54c1\u3002",
+        "forks": 2934,
+        "full_name": "Usagi-org/ai-goofish-monitor",
+        "language": "Python",
+        "name": "ai-goofish-monitor",
+        "owner": "Usagi-org",
+        "rank": 4,
+        "stars_today": 242,
+        "total_stars": 17414,
+        "url": "https://github.com/Usagi-org/ai-goofish-monitor"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.92,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 66.26
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 242 stars today; score 66.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-08-25T13:24:01Z",
+        "default_branch": "main",
+        "description": "Open-Source Frontier Voice AI",
+        "fork": false,
+        "full_name": "microsoft/VibeVoice",
+        "homepage": "https://microsoft.github.io/VibeVoice/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 204,
+        "primary_language": "Python",
+        "pushed_at": "2026-10-08T05:29:29Z",
+        "readme_excerpt": "<div align=\"center\"> ## \ud83c\udf99\ufe0f VibeVoice: Open-Source Frontier Voice AI [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=githubpages)](https://microsoft.github.io/VibeVoice) [![Hugging Face](https://img.shields.io/badge/HuggingFace-Collection-orange?logo=huggingface)](https://huggingface.co/collections/microsoft/vibevoice-68a2ef24a875c44be47b034f) [![TTS Report](https://img.shields.io/badge/TTS-Report-red?logo=arxiv)](https://openreview.net/pdf?id=FihSkzyxdv) [![ASR Report](https",
+        "topics": [],
+        "updated_at": "2026-11-05T15:43:09Z"
+      },
+      "repo": {
+        "description": "Open-Source Frontier Voice AI",
+        "forks": 6252,
+        "full_name": "microsoft/VibeVoice",
+        "language": "Python",
+        "name": "VibeVoice",
+        "owner": "microsoft",
+        "rank": 13,
+        "stars_today": 214,
+        "total_stars": 55514,
+        "url": "https://github.com/microsoft/VibeVoice"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.54,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 55.84
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 214 stars today; score 55.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-03-25T15:52:21Z",
+        "default_branch": "dev",
+        "description": "Extremely Fast Compression algorithm",
+        "fork": false,
+        "full_name": "lz4/lz4",
+        "homepage": "http://www.lz4.org",
+        "latest_release": "v1.11.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 11,
+        "primary_language": "C",
+        "pushed_at": "2026-11-05T14:35:34Z",
+        "readme_excerpt": "LZ4 - Extremely fast compression ================================ LZ4 is a lossless compression algorithm, providing compression speed > 500 MB/s per core, scalable with multi-core CPUs. It features an extremely fast decoder, with speed in multiple GB/s per core, typically reaching RAM speed limits on multi-core systems. Compression speed can be tuned dynamically, by selecting an \"acceleration\" factor which trades compression ratio for faster speed. On the other end, a high compression derivativ",
+        "topics": [
+          "c",
+          "compression",
+          "lz4"
+        ],
+        "updated_at": "2026-11-05T15:43:32Z"
+      },
+      "repo": {
+        "description": "Extremely Fast Compression algorithm",
+        "forks": 1632,
+        "full_name": "lz4/lz4",
+        "language": "C",
+        "name": "lz4",
+        "owner": "lz4",
+        "rank": 8,
+        "stars_today": 16,
+        "total_stars": 12273,
+        "url": "https://github.com/lz4/lz4"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.64,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 1.08,
+        "technical_quality": 11.2,
+        "total": 45.22
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: C project with 16 stars today; score 45.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "forks": 26355,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 2,
+        "stars_today": 2053,
+        "total_stars": 314553,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 9.83,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 42.78
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 2053 stars today; score 42.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/D4Vinci",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "\ud83d\udd77\ufe0f The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+        "forks": 10224,
+        "full_name": "sponsors/D4Vinci",
+        "language": "Python",
+        "name": "D4Vinci",
+        "owner": "sponsors",
+        "rank": 5,
+        "stars_today": 1661,
+        "total_stars": 97577,
+        "url": "https://github.com/sponsors/D4Vinci"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 8.18,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 42.19
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1661 stars today; score 42.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-08-23T03:40:14Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+        "homepage": null,
+        "latest_release": "v1.4.1",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 81,
+        "primary_language": "C#",
+        "pushed_at": "2026-11-05T14:01:09Z",
+        "readme_excerpt": "<div align=\"center\"> **\u7b80\u4f53\u4e2d\u6587** | [\u7e41\u9ad4\u4e2d\u6587](README.zh-TW.md) | [English](README.en.md) | [\u65e5\u672c\u8a9e](README.ja.md) | [T\u00fcrk\u00e7e](README.tr.md) | [Espa\u00f1ol](README.es.md) | [\u010ce\u0161tina](README.cs.md) ![Banner](docs/images/DiscImageStudio_Banner_2.png) <h2>\u5168\u80fd\u7684\u5149\u76d8\u76d8\u9762\u53ef\u89c1\u56fe\u50cf\u751f\u6210\u4e0e\u523b\u5f55\u5de5\u5177</h2> Disc Image Studio \u662f\u4e00\u4e2a\u591a\u5e73\u53f0\u7684\u5149\u76d8\u76d8\u9762\u56fe\u50cf\u751f\u6210\u4e0e\u523b\u5f55\u5de5\u5177\uff0c\u5e2e\u52a9\u60a8\u4f7f\u7528\u4efb\u4f55\u523b\u5f55\u5149\u9a71\u5728\u4efb\u4f55 DVD / CD / \u5355\u5c42\u84dd\u5149 \u5149\u76d8\u4e0a\u523b\u8680\u51fa\u8089\u773c\u53ef\u89c1\u7684\u56fe\u50cf\u3002 ![.NET \u7248\u672c](https://img.shields.io/badge/.NET-10.0-512bd4?style=flat-square) ![\u8fd0\u884c\u5e73\u53f0](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20ma",
+        "topics": [],
+        "updated_at": "2026-11-05T15:42:21Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 251,
+        "full_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+        "language": "C#",
+        "name": "DiscImageStudio",
+        "owner": "JiaFeiMiao-K-Cat",
+        "rank": 15,
+        "stars_today": 977,
+        "total_stars": 7085,
+        "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 4.9,
+        "momentum": 4.62,
+        "novelty": 2.8,
+        "practical_usefulness": 5.95,
+        "production_readiness": 5.95,
+        "strategic_relevance": 1.88,
+        "technical_quality": 14.0,
+        "total": 40.1
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: C# project with 977 stars today; score 40.1/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/floci-io",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+        "forks": 3314,
+        "full_name": "sponsors/floci-io",
+        "language": "Java",
+        "name": "floci-io",
+        "owner": "sponsors",
+        "rank": 14,
+        "stars_today": 784,
+        "total_stars": 30124,
+        "url": "https://github.com/sponsors/floci-io"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.16,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.7,
+        "technical_quality": 3.5,
+        "total": 19.06
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Java project with 784 stars today; score 19.1/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-11-05",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is ConardLi/garden-skills."
+}
