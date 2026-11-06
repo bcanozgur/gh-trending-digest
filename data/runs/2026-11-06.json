@@ -1,0 +1,1546 @@
+{
+  "date": "2026-11-06",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-18T14:08:44Z",
+        "default_branch": "main",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "fork": false,
+        "full_name": "cloudflare/security-audit-skill",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 115,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-14T19:29:02Z",
+        "readme_excerpt": "# security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting. This is the skill that seeded Cloudflare's vulnerability discovery harness, described in [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness). The harness grew into a multi-stage, f",
+        "topics": [],
+        "updated_at": "2026-11-06T15:17:30Z"
+      },
+      "repo": {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "forks": 4092,
+        "full_name": "cloudflare/security-audit-skill",
+        "language": "JavaScript",
+        "name": "security-audit-skill",
+        "owner": "cloudflare",
+        "rank": 17,
+        "stars_today": 2524,
+        "total_stars": 63107,
+        "url": "https://github.com/cloudflare/security-audit-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 9.7,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 70.25
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 2524 stars today; score 70.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2008-04-11T02:19:47Z",
+        "default_branch": "main",
+        "description": "Ruby on Rails",
+        "fork": false,
+        "full_name": "rails/rails",
+        "homepage": "https://rubyonrails.org",
+        "latest_release": "v8.1.4.1",
+        "license_spdx": "MIT",
+        "open_issues": 1761,
+        "primary_language": "Ruby",
+        "pushed_at": "2026-11-06T14:50:07Z",
+        "readme_excerpt": "# Welcome to Rails ## What's Rails? Rails is a web application framework that includes everything needed to create database-backed web applications according to the [Model-View-Controller (MVC)](https://en.wikipedia.org/wiki/Model-view-controller) pattern. Understanding the MVC pattern is key to understanding Rails. MVC divides your application into three layers: Model, View, and Controller, each with a specific responsibility. ## Model layer The _**Model layer**_ represents the domain model (su",
+        "topics": [
+          "activejob",
+          "activerecord",
+          "framework",
+          "html",
+          "mvc",
+          "rails",
+          "ruby"
+        ],
+        "updated_at": "2026-11-06T15:13:00Z"
+      },
+      "repo": {
+        "description": "Ruby on Rails",
+        "forks": 23824,
+        "full_name": "rails/rails",
+        "language": "Ruby",
+        "name": "rails",
+        "owner": "rails",
+        "rank": 3,
+        "stars_today": 44,
+        "total_stars": 58919,
+        "url": "https://github.com/rails/rails"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.46,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 64.76
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Ruby project with 44 stars today; score 64.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2013-07-06T21:57:21Z",
+        "default_branch": "main",
+        "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+        "fork": false,
+        "full_name": "etcd-io/etcd",
+        "homepage": "https://etcd.io",
+        "latest_release": "v3.7.3",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 407,
+        "primary_language": "Go",
+        "pushed_at": "2026-11-06T12:29:27Z",
+        "readme_excerpt": "# etcd [![Go Report Card](https://goreportcard.com/badge/github.com/etcd-io/etcd?style=flat-square)](https://goreportcard.com/report/github.com/etcd-io/etcd) [![Coverage](https://codecov.io/gh/etcd-io/etcd/branch/main/graph/badge.svg)](https://app.codecov.io/gh/etcd-io/etcd/tree/main) [![Tests](https://github.com/etcd-io/etcd/actions/workflows/tests.yaml/badge.svg)](https://github.com/etcd-io/etcd/actions/workflows/tests.yaml) [![codeql-analysis](https://github.com/etcd-io/etcd/actions/workflows",
+        "topics": [
+          "cncf",
+          "consensus",
+          "database",
+          "distributed-database",
+          "distributed-systems",
+          "etcd",
+          "go",
+          "key-value",
+          "kubernetes",
+          "raft"
+        ],
+        "updated_at": "2026-11-06T15:15:38Z"
+      },
+      "repo": {
+        "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+        "forks": 10576,
+        "full_name": "etcd-io/etcd",
+        "language": "Go",
+        "name": "etcd",
+        "owner": "etcd-io",
+        "rank": 14,
+        "stars_today": 123,
+        "total_stars": 52513,
+        "url": "https://github.com/etcd-io/etcd"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.14,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.44
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 123 stars today; score 63.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2010-01-04T14:21:21Z",
+        "default_branch": "8.2",
+        "description": "The Symfony PHP framework",
+        "fork": false,
+        "full_name": "symfony/symfony",
+        "homepage": "https://symfony.com",
+        "latest_release": "v8.2.0-BETA1",
+        "license_spdx": "MIT",
+        "open_issues": 280,
+        "primary_language": "PHP",
+        "pushed_at": "2026-11-06T14:57:15Z",
+        "readme_excerpt": "<p align=\"center\"><a href=\"https://symfony.com\" target=\"_blank\"> <img src=\"https://symfony.com/logos/symfony_dynamic_01.svg\" alt=\"Symfony Logo\"> </a></p> [Symfony][1] is a **PHP framework** for web and console applications and a set of reusable **PHP components**. Symfony is used by thousands of web applications and most of the [popular PHP projects][2]. Installation ------------ * [Install Symfony][4] with Composer (see [requirements details][3]). * Symfony follows the [semantic versioning][5] ",
+        "topics": [
+          "bundle",
+          "framework",
+          "hacktoberfest",
+          "php",
+          "php-framework",
+          "symfony",
+          "symfony-bundle"
+        ],
+        "updated_at": "2026-11-06T15:12:46Z"
+      },
+      "repo": {
+        "description": "The Symfony PHP framework",
+        "forks": 9941,
+        "full_name": "symfony/symfony",
+        "language": "PHP",
+        "name": "symfony",
+        "owner": "symfony",
+        "rank": 8,
+        "stars_today": 89,
+        "total_stars": 31283,
+        "url": "https://github.com/symfony/symfony"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.89,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 62.48
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: PHP project with 89 stars today; score 62.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2013-05-24T16:15:54Z",
+        "default_branch": "main",
+        "description": "The library for web and native user interfaces.",
+        "fork": false,
+        "full_name": "react/react",
+        "homepage": "https://react.dev",
+        "latest_release": "v19.3.1",
+        "license_spdx": "MIT",
+        "open_issues": 1502,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-11-06T12:12:17Z",
+        "readme_excerpt": "# [React](https://react.dev/) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/react/react/blob/main/LICENSE) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) [![(Runtime) Build and Test](https://github.com/react/react/actions/workflows/runtime_build_and_test.yml/badge.svg)](https://github.com/react/react/actions/workflows/runtime_build_and_test.yml) [![(Compiler) TypeScript](https://github.",
+        "topics": [
+          "declarative",
+          "frontend",
+          "javascript",
+          "library",
+          "react",
+          "ui"
+        ],
+        "updated_at": "2026-11-06T15:14:39Z"
+      },
+      "repo": {
+        "description": "The library for web and native user interfaces.",
+        "forks": 51796,
+        "full_name": "react/react",
+        "language": "JavaScript",
+        "name": "react",
+        "owner": "react",
+        "rank": 6,
+        "stars_today": 244,
+        "total_stars": 252110,
+        "url": "https://github.com/react/react"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.69,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 60.49
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 244 stars today; score 60.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-09-03T20:23:38Z",
+        "default_branch": "main",
+        "description": "Visual Studio Code",
+        "fork": false,
+        "full_name": "microsoft/vscode",
+        "homepage": "https://code.visualstudio.com",
+        "latest_release": "1.145.2",
+        "license_spdx": "MIT",
+        "open_issues": 22078,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-06T15:12:08Z",
+        "readme_excerpt": "# Visual Studio Code - Open Source (\"Code - OSS\") [![Feature Requests](https://img.shields.io/github/issues/microsoft/vscode/feature-request.svg)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc) [![Bugs](https://img.shields.io/github/issues/microsoft/vscode/bug.svg)](https://github.com/microsoft/vscode/issues?utf8=\u2713&q=is%3Aissue+is%3Aopen+label%3Abug) ## The Repository This repository (\"`Code - OSS`\") is where we (Microsoft) d",
+        "topics": [
+          "editor",
+          "electron",
+          "microsoft",
+          "typescript",
+          "visual-studio-code"
+        ],
+        "updated_at": "2026-11-06T15:13:40Z"
+      },
+      "repo": {
+        "description": "Visual Studio Code",
+        "forks": 44406,
+        "full_name": "microsoft/vscode",
+        "language": "TypeScript",
+        "name": "vscode",
+        "owner": "microsoft",
+        "rank": 11,
+        "stars_today": 295,
+        "total_stars": 194865,
+        "url": "https://github.com/microsoft/vscode"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.14,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.94
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 295 stars today; score 59.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-05-10T16:59:42Z",
+        "default_branch": "main",
+        "description": "A new type of shell",
+        "fork": false,
+        "full_name": "nushell/nushell",
+        "homepage": "https://www.nushell.sh/",
+        "latest_release": "0.116.1",
+        "license_spdx": "MIT",
+        "open_issues": 1451,
+        "primary_language": "Rust",
+        "pushed_at": "2026-11-06T12:38:23Z",
+        "readme_excerpt": "# Nushell <!-- omit in toc --> [![Crates.io](https://img.shields.io/crates/v/nu.svg)](https://crates.io/crates/nu) [![Build Status](https://img.shields.io/github/actions/workflow/status/nushell/nushell/ci.yml?branch=main)](https://github.com/nushell/nushell/actions) [![Nightly Build](https://github.com/nushell/nushell/actions/workflows/nightly-build.yml/badge.svg)](https://github.com/nushell/nushell/actions/workflows/nightly-build.yml) [![Discord](https://img.shields.io/discord/60113046167827252",
+        "topics": [
+          "nushell",
+          "rust",
+          "shell"
+        ],
+        "updated_at": "2026-11-06T15:09:33Z"
+      },
+      "repo": {
+        "description": "A new type of shell",
+        "forks": 2330,
+        "full_name": "nushell/nushell",
+        "language": "Rust",
+        "name": "nushell",
+        "owner": "nushell",
+        "rank": 13,
+        "stars_today": 88,
+        "total_stars": 40829,
+        "url": "https://github.com/nushell/nushell"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.16,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 58.96
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 88 stars today; score 59.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-08-09T17:17:44Z",
+        "default_branch": "main",
+        "description": "An extremely fast Python linter and code formatter, written in Rust.",
+        "fork": false,
+        "full_name": "astral-sh/ruff",
+        "homepage": "https://docs.astral.sh/ruff",
+        "latest_release": "0.17.4",
+        "license_spdx": "MIT",
+        "open_issues": 2268,
+        "primary_language": "Rust",
+        "pushed_at": "2026-11-06T15:17:28Z",
+        "readme_excerpt": "<!-- Begin section: Overview --> # Ruff [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff) [![image](https://img.shields.io/pypi/v/ruff.svg)](https://pypi.python.org/pypi/ruff) [![image](https://img.shields.io/pypi/l/ruff.svg)](https://github.com/astral-sh/ruff/blob/main/LICENSE) [![image](https://img.shields.io/pypi/pyversions/ruff.svg)](https://pypi.python.org/pypi/ruff) [![Actions status]",
+        "topics": [
+          "linter",
+          "pep8",
+          "python",
+          "python3",
+          "ruff",
+          "rust",
+          "rustpython",
+          "static-analysis",
+          "static-code-analysis",
+          "style-guide",
+          "styleguide"
+        ],
+        "updated_at": "2026-11-06T15:15:19Z"
+      },
+      "repo": {
+        "description": "An extremely fast Python linter and code formatter, written in Rust.",
+        "forks": 2598,
+        "full_name": "astral-sh/ruff",
+        "language": "Rust",
+        "name": "ruff",
+        "owner": "astral-sh",
+        "rank": 18,
+        "stars_today": 107,
+        "total_stars": 50527,
+        "url": "https://github.com/astral-sh/ruff"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.51,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 58.31
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 107 stars today; score 58.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-09-18T16:12:01Z",
+        "default_branch": "main",
+        "description": "Deliver web apps with confidence \ud83d\ude80",
+        "fork": false,
+        "full_name": "angular/angular",
+        "homepage": "https://angular.dev",
+        "latest_release": "v22.2.4",
+        "license_spdx": "MIT",
+        "open_issues": 1024,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-06T06:33:01Z",
+        "readme_excerpt": "<h1 align=\"center\">Angular - The modern web developer's platform</h1> <p align=\"center\"> <img src=\"adev/src/assets/images/press-kit/angular_icon_gradient.gif\" alt=\"angular-logo\" width=\"120px\" height=\"120px\"/> <br> <em>Angular is a development platform for building mobile and desktop web applications <br> using TypeScript/JavaScript and other languages.</em> <br> </p> <p align=\"center\"> <a href=\"https://angular.dev/\"><strong>angular.dev</strong></a> <br> </p> <p align=\"center\"> <a href=\"CONTRIBUT",
+        "topics": [
+          "angular",
+          "javascript",
+          "pwa",
+          "typescript",
+          "web",
+          "web-framework",
+          "web-performance"
+        ],
+        "updated_at": "2026-11-06T15:16:45Z"
+      },
+      "repo": {
+        "description": "Deliver web apps with confidence \ud83d\ude80",
+        "forks": 28906,
+        "full_name": "angular/angular",
+        "language": "TypeScript",
+        "name": "angular",
+        "owner": "angular",
+        "rank": 7,
+        "stars_today": 128,
+        "total_stars": 101188,
+        "url": "https://github.com/angular/angular"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.16,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 56.33
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 128 stars today; score 56.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2012-11-24T11:14:12Z",
+        "default_branch": "main",
+        "description": "The Prometheus monitoring system and time series database.",
+        "fork": false,
+        "full_name": "prometheus/prometheus",
+        "homepage": "https://prometheus.io/",
+        "latest_release": "v3.16.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1068,
+        "primary_language": "Go",
+        "pushed_at": "2026-11-06T14:46:05Z",
+        "readme_excerpt": "<h1 align=\"center\" style=\"border-bottom: none\"> <a href=\"https://prometheus.io\" target=\"_blank\"><img alt=\"Prometheus\" src=\"/documentation/images/prometheus-logo.svg\"></a><br>Prometheus </h1> <p align=\"center\">Visit <a href=\"https://prometheus.io\" target=\"_blank\">prometheus.io</a> for the full documentation, examples and guides.</p> <div align=\"center\"> [![CI](https://github.com/prometheus/prometheus/actions/workflows/ci.yml/badge.svg)](https://github.com/prometheus/prometheus/actions/workflows/c",
+        "topics": [
+          "alerting",
+          "graphing",
+          "hacktoberfest",
+          "metrics",
+          "monitoring",
+          "prometheus",
+          "time-series"
+        ],
+        "updated_at": "2026-11-06T15:15:53Z"
+      },
+      "repo": {
+        "description": "The Prometheus monitoring system and time series database.",
+        "forks": 10979,
+        "full_name": "prometheus/prometheus",
+        "language": "Go",
+        "name": "prometheus",
+        "owner": "prometheus",
+        "rank": 9,
+        "stars_today": 140,
+        "total_stars": 67024,
+        "url": "https://github.com/prometheus/prometheus"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.91,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 54.76
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Go project with 140 stars today; score 54.8/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-27T21:45:56Z",
+        "default_branch": "main",
+        "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+        "fork": false,
+        "full_name": "NVIDIA/auto-ontology",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 60,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-06T13:57:25Z",
+        "readme_excerpt": "<!-- SPDX-FileCopyrightText: Copyright (c) 2026, NVIDIA CORPORATION & AFFILIATES. All rights reserved. SPDX-License-Identifier: Apache-2.0 --> # Auto Ontology Agents can retrieve documents and query databases, but reliability gates agentic analytics: a revenue metric answered faster is worth nothing if the number is wrong. Agents need a context layer that tells them where data lives, what it means, whether to use it, how to use it, where it came from, and what is similar. NVIDIA Auto Ontology is",
+        "topics": [],
+        "updated_at": "2026-11-06T15:16:07Z"
+      },
+      "repo": {
+        "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+        "forks": 689,
+        "full_name": "NVIDIA/auto-ontology",
+        "language": "Python",
+        "name": "auto-ontology",
+        "owner": "NVIDIA",
+        "rank": 2,
+        "stars_today": 2005,
+        "total_stars": 8525,
+        "url": "https://github.com/NVIDIA/auto-ontology"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 10.13,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 4.55,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.9,
+        "total": 74.28
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 2005 stars today; score 74.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-18T14:08:44Z",
+        "default_branch": "main",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "fork": false,
+        "full_name": "cloudflare/security-audit-skill",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 115,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-14T19:29:02Z",
+        "readme_excerpt": "# security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting. This is the skill that seeded Cloudflare's vulnerability discovery harness, described in [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness). The harness grew into a multi-stage, f",
+        "topics": [],
+        "updated_at": "2026-11-06T15:17:30Z"
+      },
+      "repo": {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "forks": 4092,
+        "full_name": "cloudflare/security-audit-skill",
+        "language": "JavaScript",
+        "name": "security-audit-skill",
+        "owner": "cloudflare",
+        "rank": 17,
+        "stars_today": 2524,
+        "total_stars": 63107,
+        "url": "https://github.com/cloudflare/security-audit-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 9.7,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 70.25
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 2524 stars today; score 70.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2008-04-11T02:19:47Z",
+        "default_branch": "main",
+        "description": "Ruby on Rails",
+        "fork": false,
+        "full_name": "rails/rails",
+        "homepage": "https://rubyonrails.org",
+        "latest_release": "v8.1.4.1",
+        "license_spdx": "MIT",
+        "open_issues": 1761,
+        "primary_language": "Ruby",
+        "pushed_at": "2026-11-06T14:50:07Z",
+        "readme_excerpt": "# Welcome to Rails ## What's Rails? Rails is a web application framework that includes everything needed to create database-backed web applications according to the [Model-View-Controller (MVC)](https://en.wikipedia.org/wiki/Model-view-controller) pattern. Understanding the MVC pattern is key to understanding Rails. MVC divides your application into three layers: Model, View, and Controller, each with a specific responsibility. ## Model layer The _**Model layer**_ represents the domain model (su",
+        "topics": [
+          "activejob",
+          "activerecord",
+          "framework",
+          "html",
+          "mvc",
+          "rails",
+          "ruby"
+        ],
+        "updated_at": "2026-11-06T15:13:00Z"
+      },
+      "repo": {
+        "description": "Ruby on Rails",
+        "forks": 23824,
+        "full_name": "rails/rails",
+        "language": "Ruby",
+        "name": "rails",
+        "owner": "rails",
+        "rank": 3,
+        "stars_today": 44,
+        "total_stars": 58919,
+        "url": "https://github.com/rails/rails"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.46,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 64.76
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Ruby project with 44 stars today; score 64.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2013-07-06T21:57:21Z",
+        "default_branch": "main",
+        "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+        "fork": false,
+        "full_name": "etcd-io/etcd",
+        "homepage": "https://etcd.io",
+        "latest_release": "v3.7.3",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 407,
+        "primary_language": "Go",
+        "pushed_at": "2026-11-06T12:29:27Z",
+        "readme_excerpt": "# etcd [![Go Report Card](https://goreportcard.com/badge/github.com/etcd-io/etcd?style=flat-square)](https://goreportcard.com/report/github.com/etcd-io/etcd) [![Coverage](https://codecov.io/gh/etcd-io/etcd/branch/main/graph/badge.svg)](https://app.codecov.io/gh/etcd-io/etcd/tree/main) [![Tests](https://github.com/etcd-io/etcd/actions/workflows/tests.yaml/badge.svg)](https://github.com/etcd-io/etcd/actions/workflows/tests.yaml) [![codeql-analysis](https://github.com/etcd-io/etcd/actions/workflows",
+        "topics": [
+          "cncf",
+          "consensus",
+          "database",
+          "distributed-database",
+          "distributed-systems",
+          "etcd",
+          "go",
+          "key-value",
+          "kubernetes",
+          "raft"
+        ],
+        "updated_at": "2026-11-06T15:15:38Z"
+      },
+      "repo": {
+        "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+        "forks": 10576,
+        "full_name": "etcd-io/etcd",
+        "language": "Go",
+        "name": "etcd",
+        "owner": "etcd-io",
+        "rank": 14,
+        "stars_today": 123,
+        "total_stars": 52513,
+        "url": "https://github.com/etcd-io/etcd"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.14,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.44
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 123 stars today; score 63.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-31T19:02:20Z",
+        "default_branch": "main",
+        "description": "Agent Skills for Google products and technologies",
+        "fork": false,
+        "full_name": "google/skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 25,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-05T22:00:15Z",
+        "readme_excerpt": "# Agent Skills [![Install via skills.sh](https://img.shields.io/badge/skills.sh-install-green)](https://skills.sh/google/skills) This repository contains [Agent Skills](https://agentskills.io/home) for Google products and technologies, including [Google Cloud](https://cloud.google.com). ## Installation ```bash npx skills add google/skills ``` When prompted, select specific skills or all skills, the target agents to configure, and the installation scope (project or global). If `npx` is not availa",
+        "topics": [
+          "google",
+          "googlecloud",
+          "skills"
+        ],
+        "updated_at": "2026-11-06T15:03:30Z"
+      },
+      "repo": {
+        "description": "Agent Skills for Google products and technologies",
+        "forks": 1907,
+        "full_name": "google/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "google",
+        "rank": 10,
+        "stars_today": 532,
+        "total_stars": 22676,
+        "url": "https://github.com/google/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 4.07,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 62.91
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 532 stars today; score 62.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2010-01-04T14:21:21Z",
+        "default_branch": "8.2",
+        "description": "The Symfony PHP framework",
+        "fork": false,
+        "full_name": "symfony/symfony",
+        "homepage": "https://symfony.com",
+        "latest_release": "v8.2.0-BETA1",
+        "license_spdx": "MIT",
+        "open_issues": 280,
+        "primary_language": "PHP",
+        "pushed_at": "2026-11-06T14:57:15Z",
+        "readme_excerpt": "<p align=\"center\"><a href=\"https://symfony.com\" target=\"_blank\"> <img src=\"https://symfony.com/logos/symfony_dynamic_01.svg\" alt=\"Symfony Logo\"> </a></p> [Symfony][1] is a **PHP framework** for web and console applications and a set of reusable **PHP components**. Symfony is used by thousands of web applications and most of the [popular PHP projects][2]. Installation ------------ * [Install Symfony][4] with Composer (see [requirements details][3]). * Symfony follows the [semantic versioning][5] ",
+        "topics": [
+          "bundle",
+          "framework",
+          "hacktoberfest",
+          "php",
+          "php-framework",
+          "symfony",
+          "symfony-bundle"
+        ],
+        "updated_at": "2026-11-06T15:12:46Z"
+      },
+      "repo": {
+        "description": "The Symfony PHP framework",
+        "forks": 9941,
+        "full_name": "symfony/symfony",
+        "language": "PHP",
+        "name": "symfony",
+        "owner": "symfony",
+        "rank": 8,
+        "stars_today": 89,
+        "total_stars": 31283,
+        "url": "https://github.com/symfony/symfony"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.89,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 62.48
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: PHP project with 89 stars today; score 62.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2013-05-24T16:15:54Z",
+        "default_branch": "main",
+        "description": "The library for web and native user interfaces.",
+        "fork": false,
+        "full_name": "react/react",
+        "homepage": "https://react.dev",
+        "latest_release": "v19.3.1",
+        "license_spdx": "MIT",
+        "open_issues": 1502,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-11-06T12:12:17Z",
+        "readme_excerpt": "# [React](https://react.dev/) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/react/react/blob/main/LICENSE) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) [![(Runtime) Build and Test](https://github.com/react/react/actions/workflows/runtime_build_and_test.yml/badge.svg)](https://github.com/react/react/actions/workflows/runtime_build_and_test.yml) [![(Compiler) TypeScript](https://github.",
+        "topics": [
+          "declarative",
+          "frontend",
+          "javascript",
+          "library",
+          "react",
+          "ui"
+        ],
+        "updated_at": "2026-11-06T15:14:39Z"
+      },
+      "repo": {
+        "description": "The library for web and native user interfaces.",
+        "forks": 51796,
+        "full_name": "react/react",
+        "language": "JavaScript",
+        "name": "react",
+        "owner": "react",
+        "rank": 6,
+        "stars_today": 244,
+        "total_stars": 252110,
+        "url": "https://github.com/react/react"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.69,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 60.49
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 244 stars today; score 60.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2015-09-03T20:23:38Z",
+        "default_branch": "main",
+        "description": "Visual Studio Code",
+        "fork": false,
+        "full_name": "microsoft/vscode",
+        "homepage": "https://code.visualstudio.com",
+        "latest_release": "1.145.2",
+        "license_spdx": "MIT",
+        "open_issues": 22078,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-06T15:12:08Z",
+        "readme_excerpt": "# Visual Studio Code - Open Source (\"Code - OSS\") [![Feature Requests](https://img.shields.io/github/issues/microsoft/vscode/feature-request.svg)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc) [![Bugs](https://img.shields.io/github/issues/microsoft/vscode/bug.svg)](https://github.com/microsoft/vscode/issues?utf8=\u2713&q=is%3Aissue+is%3Aopen+label%3Abug) ## The Repository This repository (\"`Code - OSS`\") is where we (Microsoft) d",
+        "topics": [
+          "editor",
+          "electron",
+          "microsoft",
+          "typescript",
+          "visual-studio-code"
+        ],
+        "updated_at": "2026-11-06T15:13:40Z"
+      },
+      "repo": {
+        "description": "Visual Studio Code",
+        "forks": 44406,
+        "full_name": "microsoft/vscode",
+        "language": "TypeScript",
+        "name": "vscode",
+        "owner": "microsoft",
+        "rank": 11,
+        "stars_today": 295,
+        "total_stars": 194865,
+        "url": "https://github.com/microsoft/vscode"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.14,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.94
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 295 stars today; score 59.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-05-10T16:59:42Z",
+        "default_branch": "main",
+        "description": "A new type of shell",
+        "fork": false,
+        "full_name": "nushell/nushell",
+        "homepage": "https://www.nushell.sh/",
+        "latest_release": "0.116.1",
+        "license_spdx": "MIT",
+        "open_issues": 1451,
+        "primary_language": "Rust",
+        "pushed_at": "2026-11-06T12:38:23Z",
+        "readme_excerpt": "# Nushell <!-- omit in toc --> [![Crates.io](https://img.shields.io/crates/v/nu.svg)](https://crates.io/crates/nu) [![Build Status](https://img.shields.io/github/actions/workflow/status/nushell/nushell/ci.yml?branch=main)](https://github.com/nushell/nushell/actions) [![Nightly Build](https://github.com/nushell/nushell/actions/workflows/nightly-build.yml/badge.svg)](https://github.com/nushell/nushell/actions/workflows/nightly-build.yml) [![Discord](https://img.shields.io/discord/60113046167827252",
+        "topics": [
+          "nushell",
+          "rust",
+          "shell"
+        ],
+        "updated_at": "2026-11-06T15:09:33Z"
+      },
+      "repo": {
+        "description": "A new type of shell",
+        "forks": 2330,
+        "full_name": "nushell/nushell",
+        "language": "Rust",
+        "name": "nushell",
+        "owner": "nushell",
+        "rank": 13,
+        "stars_today": 88,
+        "total_stars": 40829,
+        "url": "https://github.com/nushell/nushell"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.16,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 58.96
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 88 stars today; score 59.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-08-09T17:17:44Z",
+        "default_branch": "main",
+        "description": "An extremely fast Python linter and code formatter, written in Rust.",
+        "fork": false,
+        "full_name": "astral-sh/ruff",
+        "homepage": "https://docs.astral.sh/ruff",
+        "latest_release": "0.17.4",
+        "license_spdx": "MIT",
+        "open_issues": 2268,
+        "primary_language": "Rust",
+        "pushed_at": "2026-11-06T15:17:28Z",
+        "readme_excerpt": "<!-- Begin section: Overview --> # Ruff [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff) [![image](https://img.shields.io/pypi/v/ruff.svg)](https://pypi.python.org/pypi/ruff) [![image](https://img.shields.io/pypi/l/ruff.svg)](https://github.com/astral-sh/ruff/blob/main/LICENSE) [![image](https://img.shields.io/pypi/pyversions/ruff.svg)](https://pypi.python.org/pypi/ruff) [![Actions status]",
+        "topics": [
+          "linter",
+          "pep8",
+          "python",
+          "python3",
+          "ruff",
+          "rust",
+          "rustpython",
+          "static-analysis",
+          "static-code-analysis",
+          "style-guide",
+          "styleguide"
+        ],
+        "updated_at": "2026-11-06T15:15:19Z"
+      },
+      "repo": {
+        "description": "An extremely fast Python linter and code formatter, written in Rust.",
+        "forks": 2598,
+        "full_name": "astral-sh/ruff",
+        "language": "Rust",
+        "name": "ruff",
+        "owner": "astral-sh",
+        "rank": 18,
+        "stars_today": 107,
+        "total_stars": 50527,
+        "url": "https://github.com/astral-sh/ruff"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.51,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 58.31
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 107 stars today; score 58.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-09-18T16:12:01Z",
+        "default_branch": "main",
+        "description": "Deliver web apps with confidence \ud83d\ude80",
+        "fork": false,
+        "full_name": "angular/angular",
+        "homepage": "https://angular.dev",
+        "latest_release": "v22.2.4",
+        "license_spdx": "MIT",
+        "open_issues": 1024,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-06T06:33:01Z",
+        "readme_excerpt": "<h1 align=\"center\">Angular - The modern web developer's platform</h1> <p align=\"center\"> <img src=\"adev/src/assets/images/press-kit/angular_icon_gradient.gif\" alt=\"angular-logo\" width=\"120px\" height=\"120px\"/> <br> <em>Angular is a development platform for building mobile and desktop web applications <br> using TypeScript/JavaScript and other languages.</em> <br> </p> <p align=\"center\"> <a href=\"https://angular.dev/\"><strong>angular.dev</strong></a> <br> </p> <p align=\"center\"> <a href=\"CONTRIBUT",
+        "topics": [
+          "angular",
+          "javascript",
+          "pwa",
+          "typescript",
+          "web",
+          "web-framework",
+          "web-performance"
+        ],
+        "updated_at": "2026-11-06T15:16:45Z"
+      },
+      "repo": {
+        "description": "Deliver web apps with confidence \ud83d\ude80",
+        "forks": 28906,
+        "full_name": "angular/angular",
+        "language": "TypeScript",
+        "name": "angular",
+        "owner": "angular",
+        "rank": 7,
+        "stars_today": 128,
+        "total_stars": 101188,
+        "url": "https://github.com/angular/angular"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.16,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 56.33
+      },
+      "tags": [
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "DevTools, Try Today: TypeScript project with 128 stars today; score 56.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2012-11-24T11:14:12Z",
+        "default_branch": "main",
+        "description": "The Prometheus monitoring system and time series database.",
+        "fork": false,
+        "full_name": "prometheus/prometheus",
+        "homepage": "https://prometheus.io/",
+        "latest_release": "v3.16.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1068,
+        "primary_language": "Go",
+        "pushed_at": "2026-11-06T14:46:05Z",
+        "readme_excerpt": "<h1 align=\"center\" style=\"border-bottom: none\"> <a href=\"https://prometheus.io\" target=\"_blank\"><img alt=\"Prometheus\" src=\"/documentation/images/prometheus-logo.svg\"></a><br>Prometheus </h1> <p align=\"center\">Visit <a href=\"https://prometheus.io\" target=\"_blank\">prometheus.io</a> for the full documentation, examples and guides.</p> <div align=\"center\"> [![CI](https://github.com/prometheus/prometheus/actions/workflows/ci.yml/badge.svg)](https://github.com/prometheus/prometheus/actions/workflows/c",
+        "topics": [
+          "alerting",
+          "graphing",
+          "hacktoberfest",
+          "metrics",
+          "monitoring",
+          "prometheus",
+          "time-series"
+        ],
+        "updated_at": "2026-11-06T15:15:53Z"
+      },
+      "repo": {
+        "description": "The Prometheus monitoring system and time series database.",
+        "forks": 10979,
+        "full_name": "prometheus/prometheus",
+        "language": "Go",
+        "name": "prometheus",
+        "owner": "prometheus",
+        "rank": 9,
+        "stars_today": 140,
+        "total_stars": 67024,
+        "url": "https://github.com/prometheus/prometheus"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.91,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 54.76
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Go project with 140 stars today; score 54.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2012-10-13T08:08:44Z",
+        "default_branch": "master",
+        "description": "\ud83c\udfa5 Command line media player",
+        "fork": false,
+        "full_name": "mpv-player/mpv",
+        "homepage": "https://mpv.io",
+        "latest_release": "v0.42.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 1162,
+        "primary_language": "C",
+        "pushed_at": "2026-11-05T15:31:49Z",
+        "readme_excerpt": "![mpv logo](https://raw.githubusercontent.com/mpv-player/mpv.io/master/source/images/mpv-logo-128.png) # mpv * [External links](#external-links) * [Overview](#overview) * [System requirements](#system-requirements) * [Downloads](#downloads) * [Changelog](#changelog) * [Compilation](#compilation) * [Release cycle](#release-cycle) * [Bug reports](#bug-reports) * [Contributing](#contributing) * [License](#license) * [Contact](#contact) ## External links * [Wiki](https://github.com/mpv-player/mpv/wi",
+        "topics": [
+          "audio",
+          "c",
+          "ffmpeg",
+          "mplayer",
+          "mpv",
+          "multimedia",
+          "video"
+        ],
+        "updated_at": "2026-11-06T15:13:50Z"
+      },
+      "repo": {
+        "description": "\ud83c\udfa5 Command line media player",
+        "forks": 3629,
+        "full_name": "mpv-player/mpv",
+        "language": "C",
+        "name": "mpv",
+        "owner": "mpv-player",
+        "rank": 4,
+        "stars_today": 36,
+        "total_stars": 37795,
+        "url": "https://github.com/mpv-player/mpv"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.29,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 1.34,
+        "technical_quality": 11.2,
+        "total": 46.13
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: C project with 36 stars today; score 46.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2010-06-16T20:39:03Z",
+        "default_branch": "main",
+        "description": "Empowering everyone to build reliable and efficient software.",
+        "fork": false,
+        "full_name": "rust-lang/rust",
+        "homepage": "https://www.rust-lang.org",
+        "latest_release": "1.99.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 12616,
+        "primary_language": "Rust",
+        "pushed_at": "2026-11-06T15:03:33Z",
+        "readme_excerpt": "<div align=\"center\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/rust-lang/www.rust-lang.org/master/static/images/rust-social-wide-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/rust-lang/www.rust-lang.org/master/static/images/rust-social-wide-light.svg\"> <img alt=\"The Rust Programming Language: A language empowering everyone to build reliable and efficient software\" src=\"https://raw.githubus",
+        "topics": [
+          "compiler",
+          "language",
+          "rust"
+        ],
+        "updated_at": "2026-11-06T15:14:59Z"
+      },
+      "repo": {
+        "description": "Empowering everyone to build reliable and efficient software.",
+        "forks": 17357,
+        "full_name": "rust-lang/rust",
+        "language": "Rust",
+        "name": "rust",
+        "owner": "rust-lang",
+        "rank": 5,
+        "stars_today": 186,
+        "total_stars": 121251,
+        "url": "https://github.com/rust-lang/rust"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.64,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 1.49,
+        "technical_quality": 14.0,
+        "total": 45.98
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Rust project with 186 stars today; score 46.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "forks": 26457,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 16,
+        "stars_today": 2058,
+        "total_stars": 316283,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 8.29,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 41.24
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 2058 stars today; score 41.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2014-03-25T15:52:21Z",
+        "default_branch": "dev",
+        "description": "Extremely Fast Compression algorithm",
+        "fork": false,
+        "full_name": "lz4/lz4",
+        "homepage": "http://www.lz4.org",
+        "latest_release": "v1.11.0",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 6,
+        "primary_language": "C",
+        "pushed_at": "2026-11-06T06:35:56Z",
+        "readme_excerpt": "LZ4 - Extremely fast compression ================================ LZ4 is a lossless compression algorithm, providing compression speed > 500 MB/s per core, scalable with multi-core CPUs. It features an extremely fast decoder, with speed in multiple GB/s per core, typically reaching RAM speed limits on multi-core systems. Compression speed can be tuned dynamically, by selecting an \"acceleration\" factor which trades compression ratio for faster speed. On the other end, a high compression derivativ",
+        "topics": [
+          "c",
+          "compression",
+          "lz4"
+        ],
+        "updated_at": "2026-11-06T15:16:43Z"
+      },
+      "repo": {
+        "description": "Extremely Fast Compression algorithm",
+        "forks": 1640,
+        "full_name": "lz4/lz4",
+        "language": "C",
+        "name": "lz4",
+        "owner": "lz4",
+        "rank": 12,
+        "stars_today": 313,
+        "total_stars": 12572,
+        "url": "https://github.com/lz4/lz4"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.06,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.25,
+        "strategic_relevance": 1.25,
+        "technical_quality": 11.2,
+        "total": 40.61
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: C project with 313 stars today; score 40.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/zed-industries",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+        "forks": 11467,
+        "full_name": "sponsors/zed-industries",
+        "language": "Rust",
+        "name": "zed-industries",
+        "owner": "sponsors",
+        "rank": 1,
+        "stars_today": 292,
+        "total_stars": 93181,
+        "url": "https://github.com/sponsors/zed-industries"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.57,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.87,
+        "technical_quality": 3.5,
+        "total": 24.84
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Rust project with 292 stars today; score 24.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/openssl",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "General purpose TLS and crypto library",
+        "forks": 11580,
+        "full_name": "sponsors/openssl",
+        "language": "C",
+        "name": "openssl",
+        "owner": "sponsors",
+        "rank": 15,
+        "stars_today": 24,
+        "total_stars": 31223,
+        "url": "https://github.com/sponsors/openssl"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 1.66,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 0.68,
+        "technical_quality": 3.5,
+        "total": 20.74
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: C project with 24 stars today; score 20.7/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-11-06",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is cloudflare/security-audit-skill."
+}

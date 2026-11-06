@@ -1,0 +1,34 @@
+GitHub Trending: AI workflow signal - 2026-11-06
+
+Today leans toward AI workflow signal; the strongest pick is cloudflare/security-audit-skill.
+
+Top picks
+1. cloudflare/security-audit-skill - 70.2/100
+   https://github.com/cloudflare/security-audit-skill
+   AI Workflow, Try Today: JavaScript project with 2524 stars today; score 70.2/100.
+2. rails/rails - 64.8/100
+   https://github.com/rails/rails
+   AI Workflow, DevTools: Ruby project with 44 stars today; score 64.8/100.
+3. etcd-io/etcd - 63.4/100
+   https://github.com/etcd-io/etcd
+   AI Workflow, DevTools: Go project with 123 stars today; score 63.4/100.
+4. symfony/symfony - 62.5/100
+   https://github.com/symfony/symfony
+   AI Workflow, DevTools: PHP project with 89 stars today; score 62.5/100.
+5. react/react - 60.5/100
+   https://github.com/react/react
+   AI Workflow, DevTools: JavaScript project with 244 stars today; score 60.5/100.
+
+Full reviewed list
+- cloudflare/security-audit-skill: 70.2/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: JavaScript project with 2524 stars today; score 70.2/100.
+- rails/rails: 64.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Ruby project with 44 stars today; score 64.8/100.
+- etcd-io/etcd: 63.4/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Go project with 123 stars today; score 63.4/100.
+- symfony/symfony: 62.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: PHP project with 89 stars today; score 62.5/100.
+- react/react: 60.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: JavaScript project with 244 stars today; score 60.5/100.
+- microsoft/vscode: 59.9/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 295 stars today; score 59.9/100.
+- nushell/nushell: 59.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Rust project with 88 stars today; score 59.0/100.
+- astral-sh/ruff: 58.3/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Rust project with 107 stars today; score 58.3/100.
+- angular/angular: 56.3/100 [DevTools, Try Today, Deep Dive] DevTools, Try Today: TypeScript project with 128 stars today; score 56.3/100.
+- prometheus/prometheus: 54.8/100 [DevTools, Try Today] DevTools, Try Today: Go project with 140 stars today; score 54.8/100.
+
+Generated for 2026-11-06 from GitHub Trending daily.
