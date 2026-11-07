@@ -1,0 +1,34 @@
+GitHub Trending: AI workflow signal - 2026-11-07
+
+Today leans toward AI workflow signal; the strongest pick is sherlock-project/sherlock.
+
+Top picks
+1. sherlock-project/sherlock - 73.3/100
+   https://github.com/sherlock-project/sherlock
+   AI Workflow, DevTools: Python project with 1761 stars today; score 73.3/100.
+2. meta/astryx - 65.0/100
+   https://github.com/meta/astryx
+   AI Workflow, Try Today: TypeScript project with 198 stars today; score 65.0/100.
+3. tailwindlabs/tailwindcss - 63.7/100
+   https://github.com/tailwindlabs/tailwindcss
+   AI Workflow, DevTools: TypeScript project with 152 stars today; score 63.7/100.
+4. anthropics/skills - 63.4/100
+   https://github.com/anthropics/skills
+   AI Workflow, Deep Dive: Python project with 386 stars today; score 63.4/100.
+5. dsx-ai-factory/nvke - 53.9/100
+   https://github.com/dsx-ai-factory/nvke
+   DevTools, Try Today: Go project with 125 stars today; score 53.9/100.
+
+Full reviewed list
+- sherlock-project/sherlock: 73.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 1761 stars today; score 73.3/100.
+- meta/astryx: 65.0/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: TypeScript project with 198 stars today; score 65.0/100.
+- tailwindlabs/tailwindcss: 63.7/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 152 stars today; score 63.7/100.
+- anthropics/skills: 63.4/100 [AI Workflow, Deep Dive] AI Workflow, Deep Dive: Python project with 386 stars today; score 63.4/100.
+- dsx-ai-factory/nvke: 53.9/100 [DevTools, Try Today] DevTools, Try Today: Go project with 125 stars today; score 53.9/100.
+- ranxianglei/billion-context: 43.9/100 [Watch] Watch: TypeScript project with 185 stars today; score 43.9/100.
+- sponsors/mattpocock: 40.6/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Shell project with 1111 stars today; score 40.6/100.
+- sponsors/milind-soni: 27.9/100 [Watch, Hype Risk] Watch, Hype Risk: TypeScript project with 1986 stars today; score 27.9/100.
+- sponsors/mbillow: 22.3/100 [Watch, Hype Risk] Watch, Hype Risk: Python project with 184 stars today; score 22.3/100.
+- sponsors/zed-industries: 22.2/100 [Watch, Hype Risk] Watch, Hype Risk: Rust project with 1119 stars today; score 22.2/100.
+
+Generated for 2026-11-07 from GitHub Trending daily.

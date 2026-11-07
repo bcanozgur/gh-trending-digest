@@ -1,0 +1,1318 @@
+{
+  "date": "2026-11-07",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-12-24T14:30:48Z",
+        "default_branch": "master",
+        "description": "Hunt down social media accounts by username across social networks",
+        "fork": false,
+        "full_name": "sherlock-project/sherlock",
+        "homepage": "https://sherlockproject.xyz",
+        "latest_release": "v0.16.2",
+        "license_spdx": "MIT",
+        "open_issues": 362,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-07T05:13:07Z",
+        "readme_excerpt": "<p align=\"center\"> <br> <a href=\"https://sherlockproject.xyz/\" target=\"_blank\"><img src=\"images/sherlock-logo.png\" alt=\"sherlock\"/></a> <br> <span>Hunt down social media accounts by username across <a href=\"https://sherlockproject.xyz/sites\">400+ social networks</a></span> <br> </p> <p align=\"center\"> <a href=\"https://sherlockproject.xyz/installation\">Installation</a> &nbsp;&nbsp;&nbsp;\u2022&nbsp;&nbsp;&nbsp; <a href=\"https://sherlockproject.xyz/usage\">Usage</a> &nbsp;&nbsp;&nbsp;\u2022&nbsp;&nbsp;&nbsp;",
+        "topics": [
+          "cli",
+          "cti",
+          "cybersecurity",
+          "forensics",
+          "hacktoberfest",
+          "information-gathering",
+          "infosec",
+          "linux",
+          "osint",
+          "pentesting",
+          "python",
+          "python3",
+          "reconnaissance",
+          "redteam",
+          "sherlock",
+          "tools"
+        ],
+        "updated_at": "2026-11-07T14:16:42Z"
+      },
+      "repo": {
+        "description": "Hunt down social media accounts by username across social networks",
+        "forks": 11801,
+        "full_name": "sherlock-project/sherlock",
+        "language": "Python",
+        "name": "sherlock",
+        "owner": "sherlock-project",
+        "rank": 8,
+        "stars_today": 1761,
+        "total_stars": 99648,
+        "url": "https://github.com/sherlock-project/sherlock"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 10.22,
+        "momentum": 9.68,
+        "novelty": 8.0,
+        "practical_usefulness": 12.41,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 73.32
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1761 stars today; score 73.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-09T16:20:32Z",
+        "default_branch": "main",
+        "description": "An open source design system that's fully customizable and agent ready",
+        "fork": false,
+        "full_name": "meta/astryx",
+        "homepage": "http://astryx.atmeta.com",
+        "latest_release": "v0.7.10",
+        "license_spdx": "MIT",
+        "open_issues": 716,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-07T14:15:49Z",
+        "readme_excerpt": "<!-- SYNC CONTRACT: Architecture changes require documentation updates. --> <div align=\"center\"> <img src=\"https://lookaside.facebook.com/assets/astryx/Astryx-Banner.png\" alt=\"Astryx\" width=\"100%\" /> # Astryx An open source design system that's fully customizable and built for how we build now: <br/> by people and the agents working alongside them. **Currently in Beta** \u00b7 Built on [React 19+](https://react.dev) and [StyleX](https://stylexjs.com) [![npm version](https://img.shields.io/npm/v/@astr",
+        "topics": [],
+        "updated_at": "2026-11-07T14:15:40Z"
+      },
+      "repo": {
+        "description": "An open source design system that's fully customizable and agent ready",
+        "forks": 1171,
+        "full_name": "meta/astryx",
+        "language": "TypeScript",
+        "name": "astryx",
+        "owner": "meta",
+        "rank": 6,
+        "stars_today": 198,
+        "total_stars": 14183,
+        "url": "https://github.com/meta/astryx"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.68,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 64.98
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 198 stars today; score 65.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2017-10-06T14:59:14Z",
+        "default_branch": "main",
+        "description": "A utility-first CSS framework for rapid UI development.",
+        "fork": false,
+        "full_name": "tailwindlabs/tailwindcss",
+        "homepage": "https://tailwindcss.com/",
+        "latest_release": "v4.3.5",
+        "license_spdx": "MIT",
+        "open_issues": 115,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-06T14:50:08Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://tailwindcss.com\" target=\"_blank\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg\"> <img alt=\"Tailwind CSS\" src=\"https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg\" width=\"350\" height=",
+        "topics": [
+          "css",
+          "css-framework",
+          "functional-css",
+          "postcss",
+          "responsive",
+          "tailwindcss",
+          "utility-classes"
+        ],
+        "updated_at": "2026-11-07T14:15:07Z"
+      },
+      "repo": {
+        "description": "A utility-first CSS framework for rapid UI development.",
+        "forks": 7093,
+        "full_name": "tailwindlabs/tailwindcss",
+        "language": "TypeScript",
+        "name": "tailwindcss",
+        "owner": "tailwindlabs",
+        "rank": 11,
+        "stars_today": 152,
+        "total_stars": 98251,
+        "url": "https://github.com/tailwindlabs/tailwindcss"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.77,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.68
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 152 stars today; score 63.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-22T15:53:31Z",
+        "default_branch": "main",
+        "description": "Public repository for Agent Skills",
+        "fork": false,
+        "full_name": "anthropics/skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 1489,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-06T22:32:32Z",
+        "readme_excerpt": "> **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io). [![skills.sh](https://skills.sh/b/anthropics/skills)](https://skills.sh/anthropics/skills) # Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's",
+        "topics": [
+          "agent-skills"
+        ],
+        "updated_at": "2026-11-07T14:16:31Z"
+      },
+      "repo": {
+        "description": "Public repository for Agent Skills",
+        "forks": 22222,
+        "full_name": "anthropics/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "anthropics",
+        "rank": 5,
+        "stars_today": 386,
+        "total_stars": 188412,
+        "url": "https://github.com/anthropics/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.58,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 63.43
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Python project with 386 stars today; score 63.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-08-04T15:42:58Z",
+        "default_branch": "main",
+        "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+        "fork": false,
+        "full_name": "dsx-ai-factory/nvke",
+        "homepage": "https://docs.nvidia.com/nvke/",
+        "latest_release": "v0.23.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 182,
+        "primary_language": "Go",
+        "pushed_at": "2026-11-07T02:09:56Z",
+        "readme_excerpt": "# NVIDIA Kubernetes Engine (NVKE) [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE) [![Go](https://img.shields.io/badge/Go-1.27.3-00ADD8.svg)](go.work) **Run a managed Kubernetes service on your own NVIDIA GPU infrastructure.** NVIDIA Kubernetes\u00ae Engine (NVKE) provides the management plane that platform teams install to create and operate Kubernetes clusters for their customers. Each workload cluster has its own Kubernetes control plane, etcd and node pools. You op",
+        "topics": [
+          "bare-metal",
+          "cluster-api",
+          "gpu",
+          "kubernetes",
+          "nvidia"
+        ],
+        "updated_at": "2026-11-07T13:57:27Z"
+      },
+      "repo": {
+        "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+        "forks": 79,
+        "full_name": "dsx-ai-factory/nvke",
+        "language": "Go",
+        "name": "nvke",
+        "owner": "dsx-ai-factory",
+        "rank": 15,
+        "stars_today": 125,
+        "total_stars": 381,
+        "url": "https://github.com/dsx-ai-factory/nvke"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.09,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 53.94
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Go project with 125 stars today; score 53.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-08-06T08:27:34Z",
+        "default_branch": "master",
+        "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .\u4e0a\u4e0b\u6587\u538b\u7f29\u63d2\u4ef6\uff0c\u6708\u7ea7\u957f\u4f1a\u8bdd\u4f1a\u8bdd\uff0c \u517c\u987e\u5c0f\u7a97\u53e3(100k\u4e0a\u4e0b\u6587\u8db3\u77e3)\u7701token(\u77015\u500dtoken) . billion-context is all you need",
+        "fork": false,
+        "full_name": "ranxianglei/billion-context",
+        "homepage": null,
+        "latest_release": "v0.1.212",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 899,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-07T14:11:48Z",
+        "readme_excerpt": "# billion-context <p align=\"center\"><a href=\"./README.md\">English</a> | <a href=\"./README.zh-CN.md\">\u4e2d\u6587</a></p> <p align=\"center\"><strong>Context-compression plugin</strong> \u2014 <em>billion-context is all you need.</em></p> <p align=\"center\"><sub>small context windows (100K is enough) \u00b7 <em>5\u00d7 fewer tokens</em> \u00b7 month-long single sessions (billions of tokens) \u00b7 high compression quality</sub></p> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/billion-context\"><img src=\"https://img.shield",
+        "topics": [
+          "dsh-plugin"
+        ],
+        "updated_at": "2026-11-07T14:16:38Z"
+      },
+      "repo": {
+        "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .\u4e0a\u4e0b\u6587\u538b\u7f29\u63d2\u4ef6\uff0c\u6708\u7ea7\u957f\u4f1a\u8bdd\u4f1a\u8bdd\uff0c \u517c\u987e\u5c0f\u7a97\u53e3(100k\u4e0a\u4e0b\u6587\u8db3\u77e3)\u7701token(\u77015\u500dtoken) . billion-context is all you need",
+        "forks": 359,
+        "full_name": "ranxianglei/billion-context",
+        "language": "TypeScript",
+        "name": "billion-context",
+        "owner": "ranxianglei",
+        "rank": 14,
+        "stars_today": 185,
+        "total_stars": 4445,
+        "url": "https://github.com/ranxianglei/billion-context"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.47,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.2,
+        "strategic_relevance": 1.01,
+        "technical_quality": 11.2,
+        "total": 43.93
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: TypeScript project with 185 stars today; score 43.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "forks": 26549,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 1111,
+        "total_stars": 317273,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 7.64,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 40.59
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 1111 stars today; score 40.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/milind-soni",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "forks": 2325,
+        "full_name": "sponsors/milind-soni",
+        "language": "TypeScript",
+        "name": "milind-soni",
+        "owner": "sponsors",
+        "rank": 9,
+        "stars_today": 1986,
+        "total_stars": 16380,
+        "url": "https://github.com/sponsors/milind-soni"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 10.44,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.26,
+        "technical_quality": 3.5,
+        "total": 27.9
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: TypeScript project with 1986 stars today; score 27.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mbillow",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+        "forks": 102,
+        "full_name": "sponsors/mbillow",
+        "language": "Python",
+        "name": "mbillow",
+        "owner": "sponsors",
+        "rank": 12,
+        "stars_today": 184,
+        "total_stars": 956,
+        "url": "https://github.com/sponsors/mbillow"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.76,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.13,
+        "technical_quality": 3.5,
+        "total": 22.29
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 184 stars today; score 22.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/zed-industries",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+        "forks": 11539,
+        "full_name": "sponsors/zed-industries",
+        "language": "Rust",
+        "name": "zed-industries",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 1119,
+        "total_stars": 94082,
+        "url": "https://github.com/sponsors/zed-industries"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.37,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 2.6,
+        "technical_quality": 3.5,
+        "total": 22.17
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Rust project with 1119 stars today; score 22.2/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-12-24T14:30:48Z",
+        "default_branch": "master",
+        "description": "Hunt down social media accounts by username across social networks",
+        "fork": false,
+        "full_name": "sherlock-project/sherlock",
+        "homepage": "https://sherlockproject.xyz",
+        "latest_release": "v0.16.2",
+        "license_spdx": "MIT",
+        "open_issues": 362,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-07T05:13:07Z",
+        "readme_excerpt": "<p align=\"center\"> <br> <a href=\"https://sherlockproject.xyz/\" target=\"_blank\"><img src=\"images/sherlock-logo.png\" alt=\"sherlock\"/></a> <br> <span>Hunt down social media accounts by username across <a href=\"https://sherlockproject.xyz/sites\">400+ social networks</a></span> <br> </p> <p align=\"center\"> <a href=\"https://sherlockproject.xyz/installation\">Installation</a> &nbsp;&nbsp;&nbsp;\u2022&nbsp;&nbsp;&nbsp; <a href=\"https://sherlockproject.xyz/usage\">Usage</a> &nbsp;&nbsp;&nbsp;\u2022&nbsp;&nbsp;&nbsp;",
+        "topics": [
+          "cli",
+          "cti",
+          "cybersecurity",
+          "forensics",
+          "hacktoberfest",
+          "information-gathering",
+          "infosec",
+          "linux",
+          "osint",
+          "pentesting",
+          "python",
+          "python3",
+          "reconnaissance",
+          "redteam",
+          "sherlock",
+          "tools"
+        ],
+        "updated_at": "2026-11-07T14:16:42Z"
+      },
+      "repo": {
+        "description": "Hunt down social media accounts by username across social networks",
+        "forks": 11801,
+        "full_name": "sherlock-project/sherlock",
+        "language": "Python",
+        "name": "sherlock",
+        "owner": "sherlock-project",
+        "rank": 8,
+        "stars_today": 1761,
+        "total_stars": 99648,
+        "url": "https://github.com/sherlock-project/sherlock"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 10.22,
+        "momentum": 9.68,
+        "novelty": 8.0,
+        "practical_usefulness": 12.41,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 73.32
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1761 stars today; score 73.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-18T14:08:44Z",
+        "default_branch": "main",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "fork": false,
+        "full_name": "cloudflare/security-audit-skill",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 116,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-09-14T19:29:02Z",
+        "readme_excerpt": "# security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting. This is the skill that seeded Cloudflare's vulnerability discovery harness, described in [Build your own vulnerability harness](https://blog.cloudflare.com/build-your-own-vulnerability-harness). The harness grew into a multi-stage, f",
+        "topics": [],
+        "updated_at": "2026-11-07T14:16:43Z"
+      },
+      "repo": {
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "forks": 4213,
+        "full_name": "cloudflare/security-audit-skill",
+        "language": "JavaScript",
+        "name": "security-audit-skill",
+        "owner": "cloudflare",
+        "rank": 2,
+        "stars_today": 2088,
+        "total_stars": 64985,
+        "url": "https://github.com/cloudflare/security-audit-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.86,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 6.79,
+        "technical_quality": 11.9,
+        "total": 72.41
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 2088 stars today; score 72.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-11T05:38:15Z",
+        "default_branch": "main",
+        "description": "Browser automation CLI for AI agents",
+        "fork": false,
+        "full_name": "vercel-labs/agent-browser",
+        "homepage": "https://agent-browser.dev",
+        "latest_release": "v0.41.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 490,
+        "primary_language": "Rust",
+        "pushed_at": "2026-11-07T05:27:47Z",
+        "readme_excerpt": "# agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. <p> <a href=\"https://vercel.com/labs#labs-products\"><img alt=\"Vercel Labs Product\" src=\"https://img.shields.io/badge/LABS-PRODUCT-0a0a0a.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000000\" height=\"28\"></a> <a href=\"https://www.npmjs.com/package/agent-browser\"><img alt=\"npm version: agent-browser\" src=\"https://img.shields.io/npm/v/agent-browser.svg?style",
+        "topics": [],
+        "updated_at": "2026-11-07T14:13:56Z"
+      },
+      "repo": {
+        "description": "Browser automation CLI for AI agents",
+        "forks": 3187,
+        "full_name": "vercel-labs/agent-browser",
+        "language": "Rust",
+        "name": "agent-browser",
+        "owner": "vercel-labs",
+        "rank": 1,
+        "stars_today": 180,
+        "total_stars": 46482,
+        "url": "https://github.com/vercel-labs/agent-browser"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.32,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 69.42
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 180 stars today; score 69.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-09T16:20:32Z",
+        "default_branch": "main",
+        "description": "An open source design system that's fully customizable and agent ready",
+        "fork": false,
+        "full_name": "meta/astryx",
+        "homepage": "http://astryx.atmeta.com",
+        "latest_release": "v0.7.10",
+        "license_spdx": "MIT",
+        "open_issues": 716,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-07T14:15:49Z",
+        "readme_excerpt": "<!-- SYNC CONTRACT: Architecture changes require documentation updates. --> <div align=\"center\"> <img src=\"https://lookaside.facebook.com/assets/astryx/Astryx-Banner.png\" alt=\"Astryx\" width=\"100%\" /> # Astryx An open source design system that's fully customizable and built for how we build now: <br/> by people and the agents working alongside them. **Currently in Beta** \u00b7 Built on [React 19+](https://react.dev) and [StyleX](https://stylexjs.com) [![npm version](https://img.shields.io/npm/v/@astr",
+        "topics": [],
+        "updated_at": "2026-11-07T14:15:40Z"
+      },
+      "repo": {
+        "description": "An open source design system that's fully customizable and agent ready",
+        "forks": 1171,
+        "full_name": "meta/astryx",
+        "language": "TypeScript",
+        "name": "astryx",
+        "owner": "meta",
+        "rank": 6,
+        "stars_today": 198,
+        "total_stars": 14183,
+        "url": "https://github.com/meta/astryx"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.68,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 64.98
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 198 stars today; score 65.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-31T19:02:20Z",
+        "default_branch": "main",
+        "description": "Agent Skills for Google products and technologies",
+        "fork": false,
+        "full_name": "google/skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 26,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-06T22:01:22Z",
+        "readme_excerpt": "# Agent Skills [![Install via skills.sh](https://img.shields.io/badge/skills.sh-install-green)](https://skills.sh/google/skills) This repository contains [Agent Skills](https://agentskills.io/home) for Google products and technologies, including [Google Cloud](https://cloud.google.com). ## Installation ```bash npx skills add google/skills ``` When prompted, select specific skills or all skills, the target agents to configure, and the installation scope (project or global). If `npx` is not availa",
+        "topics": [
+          "google",
+          "googlecloud",
+          "skills"
+        ],
+        "updated_at": "2026-11-07T14:17:12Z"
+      },
+      "repo": {
+        "description": "Agent Skills for Google products and technologies",
+        "forks": 1940,
+        "full_name": "google/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "google",
+        "rank": 3,
+        "stars_today": 449,
+        "total_stars": 23111,
+        "url": "https://github.com/google/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 5.12,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 63.96
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 449 stars today; score 64.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2017-10-06T14:59:14Z",
+        "default_branch": "main",
+        "description": "A utility-first CSS framework for rapid UI development.",
+        "fork": false,
+        "full_name": "tailwindlabs/tailwindcss",
+        "homepage": "https://tailwindcss.com/",
+        "latest_release": "v4.3.5",
+        "license_spdx": "MIT",
+        "open_issues": 115,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-06T14:50:08Z",
+        "readme_excerpt": "<p align=\"center\"> <a href=\"https://tailwindcss.com\" target=\"_blank\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg\"> <img alt=\"Tailwind CSS\" src=\"https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg\" width=\"350\" height=",
+        "topics": [
+          "css",
+          "css-framework",
+          "functional-css",
+          "postcss",
+          "responsive",
+          "tailwindcss",
+          "utility-classes"
+        ],
+        "updated_at": "2026-11-07T14:15:07Z"
+      },
+      "repo": {
+        "description": "A utility-first CSS framework for rapid UI development.",
+        "forks": 7093,
+        "full_name": "tailwindlabs/tailwindcss",
+        "language": "TypeScript",
+        "name": "tailwindcss",
+        "owner": "tailwindlabs",
+        "rank": 11,
+        "stars_today": 152,
+        "total_stars": 98251,
+        "url": "https://github.com/tailwindlabs/tailwindcss"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.77,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.68
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 152 stars today; score 63.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-22T15:53:31Z",
+        "default_branch": "main",
+        "description": "Public repository for Agent Skills",
+        "fork": false,
+        "full_name": "anthropics/skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 1489,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-06T22:32:32Z",
+        "readme_excerpt": "> **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io). [![skills.sh](https://skills.sh/b/anthropics/skills)](https://skills.sh/anthropics/skills) # Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's",
+        "topics": [
+          "agent-skills"
+        ],
+        "updated_at": "2026-11-07T14:16:31Z"
+      },
+      "repo": {
+        "description": "Public repository for Agent Skills",
+        "forks": 22222,
+        "full_name": "anthropics/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "anthropics",
+        "rank": 5,
+        "stars_today": 386,
+        "total_stars": 188412,
+        "url": "https://github.com/anthropics/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.58,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 63.43
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Python project with 386 stars today; score 63.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2022-08-09T17:17:44Z",
+        "default_branch": "main",
+        "description": "An extremely fast Python linter and code formatter, written in Rust.",
+        "fork": false,
+        "full_name": "astral-sh/ruff",
+        "homepage": "https://docs.astral.sh/ruff",
+        "latest_release": "0.17.4",
+        "license_spdx": "MIT",
+        "open_issues": 2270,
+        "primary_language": "Rust",
+        "pushed_at": "2026-11-07T14:17:02Z",
+        "readme_excerpt": "<!-- Begin section: Overview --> # Ruff [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff) [![image](https://img.shields.io/pypi/v/ruff.svg)](https://pypi.python.org/pypi/ruff) [![image](https://img.shields.io/pypi/l/ruff.svg)](https://github.com/astral-sh/ruff/blob/main/LICENSE) [![image](https://img.shields.io/pypi/pyversions/ruff.svg)](https://pypi.python.org/pypi/ruff) [![Actions status]",
+        "topics": [
+          "linter",
+          "pep8",
+          "python",
+          "python3",
+          "ruff",
+          "rust",
+          "rustpython",
+          "static-analysis",
+          "static-code-analysis",
+          "style-guide",
+          "styleguide"
+        ],
+        "updated_at": "2026-11-07T13:57:15Z"
+      },
+      "repo": {
+        "description": "An extremely fast Python linter and code formatter, written in Rust.",
+        "forks": 2624,
+        "full_name": "astral-sh/ruff",
+        "language": "Rust",
+        "name": "ruff",
+        "owner": "astral-sh",
+        "rank": 10,
+        "stars_today": 350,
+        "total_stars": 50837,
+        "url": "https://github.com/astral-sh/ruff"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.71,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 55.31
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 350 stars today; score 55.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-08-04T15:42:58Z",
+        "default_branch": "main",
+        "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+        "fork": false,
+        "full_name": "dsx-ai-factory/nvke",
+        "homepage": "https://docs.nvidia.com/nvke/",
+        "latest_release": "v0.23.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 182,
+        "primary_language": "Go",
+        "pushed_at": "2026-11-07T02:09:56Z",
+        "readme_excerpt": "# NVIDIA Kubernetes Engine (NVKE) [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE) [![Go](https://img.shields.io/badge/Go-1.27.3-00ADD8.svg)](go.work) **Run a managed Kubernetes service on your own NVIDIA GPU infrastructure.** NVIDIA Kubernetes\u00ae Engine (NVKE) provides the management plane that platform teams install to create and operate Kubernetes clusters for their customers. Each workload cluster has its own Kubernetes control plane, etcd and node pools. You op",
+        "topics": [
+          "bare-metal",
+          "cluster-api",
+          "gpu",
+          "kubernetes",
+          "nvidia"
+        ],
+        "updated_at": "2026-11-07T13:57:27Z"
+      },
+      "repo": {
+        "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+        "forks": 79,
+        "full_name": "dsx-ai-factory/nvke",
+        "language": "Go",
+        "name": "nvke",
+        "owner": "dsx-ai-factory",
+        "rank": 15,
+        "stars_today": 125,
+        "total_stars": 381,
+        "url": "https://github.com/dsx-ai-factory/nvke"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.09,
+        "novelty": 8.0,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 53.94
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Go project with 125 stars today; score 53.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2012-11-24T11:14:12Z",
+        "default_branch": "main",
+        "description": "The Prometheus monitoring system and time series database.",
+        "fork": false,
+        "full_name": "prometheus/prometheus",
+        "homepage": "https://prometheus.io/",
+        "latest_release": "v3.16.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1094,
+        "primary_language": "Go",
+        "pushed_at": "2026-11-07T11:31:25Z",
+        "readme_excerpt": "<h1 align=\"center\" style=\"border-bottom: none\"> <a href=\"https://prometheus.io\" target=\"_blank\"><img alt=\"Prometheus\" src=\"/documentation/images/prometheus-logo.svg\"></a><br>Prometheus </h1> <p align=\"center\">Visit <a href=\"https://prometheus.io\" target=\"_blank\">prometheus.io</a> for the full documentation, examples and guides.</p> <div align=\"center\"> [![CI](https://github.com/prometheus/prometheus/actions/workflows/ci.yml/badge.svg)](https://github.com/prometheus/prometheus/actions/workflows/c",
+        "topics": [
+          "alerting",
+          "graphing",
+          "hacktoberfest",
+          "metrics",
+          "monitoring",
+          "prometheus",
+          "time-series"
+        ],
+        "updated_at": "2026-11-07T14:10:39Z"
+      },
+      "repo": {
+        "description": "The Prometheus monitoring system and time series database.",
+        "forks": 10994,
+        "full_name": "prometheus/prometheus",
+        "language": "Go",
+        "name": "prometheus",
+        "owner": "prometheus",
+        "rank": 7,
+        "stars_today": 325,
+        "total_stars": 67321,
+        "url": "https://github.com/prometheus/prometheus"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 4.04,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 50.69
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Go project with 325 stars today; score 50.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-08-06T08:27:34Z",
+        "default_branch": "master",
+        "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .\u4e0a\u4e0b\u6587\u538b\u7f29\u63d2\u4ef6\uff0c\u6708\u7ea7\u957f\u4f1a\u8bdd\u4f1a\u8bdd\uff0c \u517c\u987e\u5c0f\u7a97\u53e3(100k\u4e0a\u4e0b\u6587\u8db3\u77e3)\u7701token(\u77015\u500dtoken) . billion-context is all you need",
+        "fork": false,
+        "full_name": "ranxianglei/billion-context",
+        "homepage": null,
+        "latest_release": "v0.1.212",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 899,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-07T14:11:48Z",
+        "readme_excerpt": "# billion-context <p align=\"center\"><a href=\"./README.md\">English</a> | <a href=\"./README.zh-CN.md\">\u4e2d\u6587</a></p> <p align=\"center\"><strong>Context-compression plugin</strong> \u2014 <em>billion-context is all you need.</em></p> <p align=\"center\"><sub>small context windows (100K is enough) \u00b7 <em>5\u00d7 fewer tokens</em> \u00b7 month-long single sessions (billions of tokens) \u00b7 high compression quality</sub></p> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/billion-context\"><img src=\"https://img.shield",
+        "topics": [
+          "dsh-plugin"
+        ],
+        "updated_at": "2026-11-07T14:16:38Z"
+      },
+      "repo": {
+        "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .\u4e0a\u4e0b\u6587\u538b\u7f29\u63d2\u4ef6\uff0c\u6708\u7ea7\u957f\u4f1a\u8bdd\u4f1a\u8bdd\uff0c \u517c\u987e\u5c0f\u7a97\u53e3(100k\u4e0a\u4e0b\u6587\u8db3\u77e3)\u7701token(\u77015\u500dtoken) . billion-context is all you need",
+        "forks": 359,
+        "full_name": "ranxianglei/billion-context",
+        "language": "TypeScript",
+        "name": "billion-context",
+        "owner": "ranxianglei",
+        "rank": 14,
+        "stars_today": 185,
+        "total_stars": 4445,
+        "url": "https://github.com/ranxianglei/billion-context"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.47,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.2,
+        "strategic_relevance": 1.01,
+        "technical_quality": 11.2,
+        "total": 43.93
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: TypeScript project with 185 stars today; score 43.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "forks": 26549,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 1111,
+        "total_stars": 317273,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 7.64,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 40.59
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 1111 stars today; score 40.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/milind-soni",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "forks": 2325,
+        "full_name": "sponsors/milind-soni",
+        "language": "TypeScript",
+        "name": "milind-soni",
+        "owner": "sponsors",
+        "rank": 9,
+        "stars_today": 1986,
+        "total_stars": 16380,
+        "url": "https://github.com/sponsors/milind-soni"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 10.44,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.26,
+        "technical_quality": 3.5,
+        "total": 27.9
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: TypeScript project with 1986 stars today; score 27.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mbillow",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+        "forks": 102,
+        "full_name": "sponsors/mbillow",
+        "language": "Python",
+        "name": "mbillow",
+        "owner": "sponsors",
+        "rank": 12,
+        "stars_today": 184,
+        "total_stars": 956,
+        "url": "https://github.com/sponsors/mbillow"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.76,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.13,
+        "technical_quality": 3.5,
+        "total": 22.29
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Python project with 184 stars today; score 22.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/zed-industries",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+        "forks": 11539,
+        "full_name": "sponsors/zed-industries",
+        "language": "Rust",
+        "name": "zed-industries",
+        "owner": "sponsors",
+        "rank": 13,
+        "stars_today": 1119,
+        "total_stars": 94082,
+        "url": "https://github.com/sponsors/zed-industries"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 6.37,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 2.6,
+        "technical_quality": 3.5,
+        "total": 22.17
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: Rust project with 1119 stars today; score 22.2/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-11-07",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is sherlock-project/sherlock."
+}
