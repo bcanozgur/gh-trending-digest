@@ -1,0 +1,17 @@
+GitHub Trending: daily developer signal - 2026-11-08
+
+Today leans toward daily developer signal; the strongest pick is anthropics/claude-quickstarts.
+
+Top picks
+1. anthropics/claude-quickstarts - 73.5/100
+   https://github.com/anthropics/claude-quickstarts
+   AI Workflow, DevTools: Python project with 28 stars today; score 73.5/100.
+2. google-deepmind/mujoco - 59.5/100
+   https://github.com/google-deepmind/mujoco
+   AI Workflow, DevTools: C++ project with 26 stars today; score 59.5/100.
+
+Full reviewed list
+- anthropics/claude-quickstarts: 73.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 28 stars today; score 73.5/100.
+- google-deepmind/mujoco: 59.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: C++ project with 26 stars today; score 59.5/100.
+
+Generated for 2026-11-08 from GitHub Trending daily.

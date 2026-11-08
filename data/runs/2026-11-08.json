@@ -1,0 +1,584 @@
+{
+  "date": "2026-11-08",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-08-29T19:52:32Z",
+        "default_branch": "main",
+        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "fork": false,
+        "full_name": "anthropics/claude-quickstarts",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 231,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-06T19:37:57Z",
+        "readme_excerpt": "# Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upon and customize for your specific needs. ## Getting Started To use these quickstarts, you'll need an Claude API key. If you don't have one yet, you can sign up for free at [console.anthropic.com](https://console.anthropic.com). ## Available Quickstarts ### Customer Su",
+        "topics": [],
+        "updated_at": "2026-11-08T14:26:22Z"
+      },
+      "repo": {
+        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "forks": 3266,
+        "full_name": "anthropics/claude-quickstarts",
+        "language": "Python",
+        "name": "claude-quickstarts",
+        "owner": "anthropics",
+        "rank": 4,
+        "stars_today": 28,
+        "total_stars": 19225,
+        "url": "https://github.com/anthropics/claude-quickstarts"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 10.22,
+        "momentum": 3.27,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 73.49
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 28 stars today; score 73.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2021-08-27T12:25:48Z",
+        "default_branch": "main",
+        "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "fork": false,
+        "full_name": "google-deepmind/mujoco",
+        "homepage": "https://mujoco.org",
+        "latest_release": "4.0.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 309,
+        "primary_language": "C++",
+        "pushed_at": "2026-11-07T17:07:40Z",
+        "readme_excerpt": "<h1> <a href=\"https://mujoco.org\"><img alt=\"MuJoCo\" src=\"banner.png\" width=\"100%\"/></a> </h1> <p> <a href=\"https://mujoco.org\" alt=\"Website\"> <img src=\"https://img.shields.io/badge/website-mujoco.org-0053d6\"> </a> <a href=\"https://github.com/google-deepmind/mujoco/actions/workflows/build.yml?query=branch%3Amain\" alt=\"GitHub Actions\"> <img src=\"https://img.shields.io/github/actions/workflow/status/google-deepmind/mujoco/build.yml?branch=main\"> </a> <a href=\"https://mujoco.readthedocs.io/\" alt=\"Do",
+        "topics": [
+          "mujoco",
+          "physics",
+          "robotics"
+        ],
+        "updated_at": "2026-11-08T14:21:36Z"
+      },
+      "repo": {
+        "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "forks": 1941,
+        "full_name": "google-deepmind/mujoco",
+        "language": "C++",
+        "name": "mujoco",
+        "owner": "google-deepmind",
+        "rank": 8,
+        "stars_today": 26,
+        "total_stars": 16198,
+        "url": "https://github.com/google-deepmind/mujoco"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.68,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.48
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 26 stars today; score 59.5/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-08-29T19:52:32Z",
+        "default_branch": "main",
+        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "fork": false,
+        "full_name": "anthropics/claude-quickstarts",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 231,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-06T19:37:57Z",
+        "readme_excerpt": "# Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upon and customize for your specific needs. ## Getting Started To use these quickstarts, you'll need an Claude API key. If you don't have one yet, you can sign up for free at [console.anthropic.com](https://console.anthropic.com). ## Available Quickstarts ### Customer Su",
+        "topics": [],
+        "updated_at": "2026-11-08T14:26:22Z"
+      },
+      "repo": {
+        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "forks": 3266,
+        "full_name": "anthropics/claude-quickstarts",
+        "language": "Python",
+        "name": "claude-quickstarts",
+        "owner": "anthropics",
+        "rank": 4,
+        "stars_today": 28,
+        "total_stars": 19225,
+        "url": "https://github.com/anthropics/claude-quickstarts"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 10.22,
+        "momentum": 3.27,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 73.49
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 28 stars today; score 73.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-12-24T14:30:48Z",
+        "default_branch": "master",
+        "description": "Hunt down social media accounts by username across social networks",
+        "fork": false,
+        "full_name": "sherlock-project/sherlock",
+        "homepage": "https://sherlockproject.xyz",
+        "latest_release": "v0.16.2",
+        "license_spdx": "MIT",
+        "open_issues": 370,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-08T05:13:22Z",
+        "readme_excerpt": "<p align=\"center\"> <br> <a href=\"https://sherlockproject.xyz/\" target=\"_blank\"><img src=\"images/sherlock-logo.png\" alt=\"sherlock\"/></a> <br> <span>Hunt down social media accounts by username across <a href=\"https://sherlockproject.xyz/sites\">400+ social networks</a></span> <br> </p> <p align=\"center\"> <a href=\"https://sherlockproject.xyz/installation\">Installation</a> &nbsp;&nbsp;&nbsp;\u2022&nbsp;&nbsp;&nbsp; <a href=\"https://sherlockproject.xyz/usage\">Usage</a> &nbsp;&nbsp;&nbsp;\u2022&nbsp;&nbsp;&nbsp;",
+        "topics": [
+          "cli",
+          "cti",
+          "cybersecurity",
+          "forensics",
+          "hacktoberfest",
+          "information-gathering",
+          "infosec",
+          "linux",
+          "osint",
+          "pentesting",
+          "python",
+          "python3",
+          "reconnaissance",
+          "redteam",
+          "sherlock",
+          "tools"
+        ],
+        "updated_at": "2026-11-08T14:27:15Z"
+      },
+      "repo": {
+        "description": "Hunt down social media accounts by username across social networks",
+        "forks": 12040,
+        "full_name": "sherlock-project/sherlock",
+        "language": "Python",
+        "name": "sherlock",
+        "owner": "sherlock-project",
+        "rank": 1,
+        "stars_today": 2372,
+        "total_stars": 102142,
+        "url": "https://github.com/sherlock-project/sherlock"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 10.22,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 12.41,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.9,
+        "technical_quality": 14.0,
+        "total": 71.07
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 2372 stars today; score 71.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-11T05:38:15Z",
+        "default_branch": "main",
+        "description": "Browser automation CLI for AI agents",
+        "fork": false,
+        "full_name": "vercel-labs/agent-browser",
+        "homepage": "https://agent-browser.dev",
+        "latest_release": "v0.41.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 511,
+        "primary_language": "Rust",
+        "pushed_at": "2026-11-08T10:03:53Z",
+        "readme_excerpt": "# agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. <p> <a href=\"https://vercel.com/labs#labs-products\"><img alt=\"Vercel Labs Product\" src=\"https://img.shields.io/badge/LABS-PRODUCT-0a0a0a.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000000\" height=\"28\"></a> <a href=\"https://www.npmjs.com/package/agent-browser\"><img alt=\"npm version: agent-browser\" src=\"https://img.shields.io/npm/v/agent-browser.svg?style",
+        "topics": [],
+        "updated_at": "2026-11-08T14:19:33Z"
+      },
+      "repo": {
+        "description": "Browser automation CLI for AI agents",
+        "forks": 3241,
+        "full_name": "vercel-labs/agent-browser",
+        "language": "Rust",
+        "name": "agent-browser",
+        "owner": "vercel-labs",
+        "rank": 5,
+        "stars_today": 812,
+        "total_stars": 47295,
+        "url": "https://github.com/vercel-labs/agent-browser"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.9,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 71.0
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 812 stars today; score 71.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-22T15:53:31Z",
+        "default_branch": "main",
+        "description": "Public repository for Agent Skills",
+        "fork": false,
+        "full_name": "anthropics/skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 1495,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-06T22:32:32Z",
+        "readme_excerpt": "> **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io). [![skills.sh](https://skills.sh/b/anthropics/skills)](https://skills.sh/anthropics/skills) # Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's",
+        "topics": [
+          "agent-skills"
+        ],
+        "updated_at": "2026-11-08T14:27:23Z"
+      },
+      "repo": {
+        "description": "Public repository for Agent Skills",
+        "forks": 22303,
+        "full_name": "anthropics/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "anthropics",
+        "rank": 7,
+        "stars_today": 793,
+        "total_stars": 189223,
+        "url": "https://github.com/anthropics/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.54,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 64.39
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Python project with 793 stars today; score 64.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-09T16:20:32Z",
+        "default_branch": "main",
+        "description": "An open source design system that's fully customizable and agent ready",
+        "fork": false,
+        "full_name": "meta/astryx",
+        "homepage": "http://astryx.atmeta.com",
+        "latest_release": "v0.7.11",
+        "license_spdx": "MIT",
+        "open_issues": 706,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-08T14:18:58Z",
+        "readme_excerpt": "<!-- SYNC CONTRACT: Architecture changes require documentation updates. --> <div align=\"center\"> <img src=\"https://lookaside.facebook.com/assets/astryx/Astryx-Banner.png\" alt=\"Astryx\" width=\"100%\" /> # Astryx An open source design system that's fully customizable and built for how we build now: <br/> by people and the agents working alongside them. **Currently in Beta** \u00b7 Built on [React 19+](https://react.dev) and [StyleX](https://stylexjs.com) [![npm version](https://img.shields.io/npm/v/@astr",
+        "topics": [],
+        "updated_at": "2026-11-08T14:27:20Z"
+      },
+      "repo": {
+        "description": "An open source design system that's fully customizable and agent ready",
+        "forks": 1245,
+        "full_name": "meta/astryx",
+        "language": "TypeScript",
+        "name": "astryx",
+        "owner": "meta",
+        "rank": 6,
+        "stars_today": 863,
+        "total_stars": 15323,
+        "url": "https://github.com/meta/astryx"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.94,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 62.04
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 863 stars today; score 62.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2021-08-27T12:25:48Z",
+        "default_branch": "main",
+        "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "fork": false,
+        "full_name": "google-deepmind/mujoco",
+        "homepage": "https://mujoco.org",
+        "latest_release": "4.0.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 309,
+        "primary_language": "C++",
+        "pushed_at": "2026-11-07T17:07:40Z",
+        "readme_excerpt": "<h1> <a href=\"https://mujoco.org\"><img alt=\"MuJoCo\" src=\"banner.png\" width=\"100%\"/></a> </h1> <p> <a href=\"https://mujoco.org\" alt=\"Website\"> <img src=\"https://img.shields.io/badge/website-mujoco.org-0053d6\"> </a> <a href=\"https://github.com/google-deepmind/mujoco/actions/workflows/build.yml?query=branch%3Amain\" alt=\"GitHub Actions\"> <img src=\"https://img.shields.io/github/actions/workflow/status/google-deepmind/mujoco/build.yml?branch=main\"> </a> <a href=\"https://mujoco.readthedocs.io/\" alt=\"Do",
+        "topics": [
+          "mujoco",
+          "physics",
+          "robotics"
+        ],
+        "updated_at": "2026-11-08T14:21:36Z"
+      },
+      "repo": {
+        "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "forks": 1941,
+        "full_name": "google-deepmind/mujoco",
+        "language": "C++",
+        "name": "mujoco",
+        "owner": "google-deepmind",
+        "rank": 8,
+        "stars_today": 26,
+        "total_stars": 16198,
+        "url": "https://github.com/google-deepmind/mujoco"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.68,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.48
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 26 stars today; score 59.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-08-04T15:42:58Z",
+        "default_branch": "main",
+        "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+        "fork": false,
+        "full_name": "dsx-ai-factory/nvke",
+        "homepage": "https://docs.nvidia.com/nvke/",
+        "latest_release": "v0.23.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 183,
+        "primary_language": "Go",
+        "pushed_at": "2026-11-07T02:09:56Z",
+        "readme_excerpt": "# NVIDIA Kubernetes Engine (NVKE) [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE) [![Go](https://img.shields.io/badge/Go-1.27.3-00ADD8.svg)](go.work) **Run a managed Kubernetes service on your own NVIDIA GPU infrastructure.** NVIDIA Kubernetes\u00ae Engine (NVKE) provides the management plane that platform teams install to create and operate Kubernetes clusters for their customers. Each workload cluster has its own Kubernetes control plane, etcd and node pools. You op",
+        "topics": [
+          "bare-metal",
+          "cluster-api",
+          "gpu",
+          "kubernetes",
+          "nvidia"
+        ],
+        "updated_at": "2026-11-08T14:15:49Z"
+      },
+      "repo": {
+        "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+        "forks": 106,
+        "full_name": "dsx-ai-factory/nvke",
+        "language": "Go",
+        "name": "nvke",
+        "owner": "dsx-ai-factory",
+        "rank": 2,
+        "stars_today": 345,
+        "total_stars": 718,
+        "url": "https://github.com/dsx-ai-factory/nvke"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 4.68,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 51.33
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Go project with 345 stars today; score 51.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-08-06T08:27:34Z",
+        "default_branch": "master",
+        "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .\u4e0a\u4e0b\u6587\u538b\u7f29\u63d2\u4ef6\uff0c\u6708\u7ea7\u957f\u4f1a\u8bdd\u4f1a\u8bdd\uff0c \u517c\u987e\u5c0f\u7a97\u53e3(100k\u4e0a\u4e0b\u6587\u8db3\u77e3)\u7701token(\u77015\u500dtoken) . billion-context is all you need",
+        "fork": false,
+        "full_name": "ranxianglei/billion-context",
+        "homepage": null,
+        "latest_release": "v0.1.213",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 913,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-08T14:26:31Z",
+        "readme_excerpt": "# billion-context <p align=\"center\"><a href=\"./README.md\">English</a> | <a href=\"./README.zh-CN.md\">\u4e2d\u6587</a></p> <p align=\"center\"><strong>Context-compression plugin</strong> \u2014 <em>billion-context is all you need.</em></p> <p align=\"center\"><sub>small context windows (100K is enough) \u00b7 <em>5\u00d7 fewer tokens</em> \u00b7 month-long single sessions (billions of tokens) \u00b7 high compression quality</sub></p> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/billion-context\"><img src=\"https://img.shield",
+        "topics": [
+          "dsh-plugin"
+        ],
+        "updated_at": "2026-11-08T14:25:29Z"
+      },
+      "repo": {
+        "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .\u4e0a\u4e0b\u6587\u538b\u7f29\u63d2\u4ef6\uff0c\u6708\u7ea7\u957f\u4f1a\u8bdd\u4f1a\u8bdd\uff0c \u517c\u987e\u5c0f\u7a97\u53e3(100k\u4e0a\u4e0b\u6587\u8db3\u77e3)\u7701token(\u77015\u500dtoken) . billion-context is all you need",
+        "forks": 394,
+        "full_name": "ranxianglei/billion-context",
+        "language": "TypeScript",
+        "name": "billion-context",
+        "owner": "ranxianglei",
+        "rank": 9,
+        "stars_today": 460,
+        "total_stars": 4902,
+        "url": "https://github.com/ranxianglei/billion-context"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.08,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.2,
+        "strategic_relevance": 1.66,
+        "technical_quality": 11.2,
+        "total": 40.99
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: TypeScript project with 460 stars today; score 41.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/milind-soni",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "forks": 2489,
+        "full_name": "sponsors/milind-soni",
+        "language": "TypeScript",
+        "name": "milind-soni",
+        "owner": "sponsors",
+        "rank": 3,
+        "stars_today": 1437,
+        "total_stars": 17773,
+        "url": "https://github.com/sponsors/milind-soni"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 8.4,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.43,
+        "technical_quality": 3.5,
+        "total": 25.03
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: TypeScript project with 1437 stars today; score 25.0/100."
+    }
+  ],
+  "subject": "GitHub Trending: daily developer signal - 2026-11-08",
+  "summary": "Today leans toward daily developer signal; the strongest pick is anthropics/claude-quickstarts."
+}
