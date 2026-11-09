@@ -1,0 +1,845 @@
+{
+  "date": "2026-11-09",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-14T13:23:45Z",
+        "default_branch": "master",
+        "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+        "fork": false,
+        "full_name": "homeassistant-ai/ha-mcp",
+        "homepage": "https://homeassistant-ai.github.io/ha-mcp/",
+        "latest_release": "v9.1.2",
+        "license_spdx": "MIT",
+        "open_issues": 21,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-09T14:43:53Z",
+        "readme_excerpt": "> **Breaking change (v7.3.0):** `ha_config_set_yaml` has been moved to [beta](docs/beta.md). <div align=\"center\"> <img src=\"https://raw.githubusercontent.com/homeassistant-ai/ha-mcp/master/docs/img/ha-mcp-logo.png\" alt=\"Home Assistant MCP Server Logo\" width=\"300\"/> # HA-MCP \u2014 Manage Home Assistant with AI <!-- mcp-name: io.github.homeassistant-ai/ha-mcp --> <p align=\"center\"> <img src=\"https://img.shields.io/badge/tools-87-blue\" alt=\"87 Tools\"> <a href=\"https://github.com/homeassistant-ai/ha-mcp",
+        "topics": [
+          "ai",
+          "claude",
+          "hacs",
+          "home-assistant",
+          "home-automation",
+          "llm",
+          "mcp",
+          "model-context-protocol"
+        ],
+        "updated_at": "2026-11-09T17:42:41Z"
+      },
+      "repo": {
+        "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+        "forks": 281,
+        "full_name": "homeassistant-ai/ha-mcp",
+        "language": "Python",
+        "name": "ha-mcp",
+        "owner": "homeassistant-ai",
+        "rank": 10,
+        "stars_today": 31,
+        "total_stars": 5742,
+        "url": "https://github.com/homeassistant-ai/ha-mcp"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.36,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.41
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 31 stars today; score 73.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-05T14:40:56Z",
+        "default_branch": "master",
+        "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+        "fork": false,
+        "full_name": "garrytan/gbrain",
+        "homepage": null,
+        "latest_release": "v0.60.624.0",
+        "license_spdx": "MIT",
+        "open_issues": 778,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-09T17:44:16Z",
+        "readme_excerpt": "<h1><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/images/brand/gbrain-wordmark-light.svg\"><img src=\"docs/images/brand/gbrain-wordmark.svg\" alt=\"GBrain\" height=\"52\"></picture></h1> **Give the agent you already use a memory you control.** GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keyword retrieval; add semantic search, synthesis, and background enri",
+        "topics": [],
+        "updated_at": "2026-11-09T17:44:44Z"
+      },
+      "repo": {
+        "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+        "forks": 4760,
+        "full_name": "garrytan/gbrain",
+        "language": "TypeScript",
+        "name": "gbrain",
+        "owner": "garrytan",
+        "rank": 6,
+        "stars_today": 215,
+        "total_stars": 32010,
+        "url": "https://github.com/garrytan/gbrain"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.3,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 72.55
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 215 stars today; score 72.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-10T06:43:20Z",
+        "default_branch": "main",
+        "description": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "fork": false,
+        "full_name": "ZhuLinsen/daily_stock_analysis",
+        "homepage": "https://dsa.zhulinsen.tech",
+        "latest_release": "v3.34.0",
+        "license_spdx": "MIT",
+        "open_issues": 37,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-09T14:14:52Z",
+        "readme_excerpt": "<div align=\"center\"> # \ud83d\udcc8 \u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf [![GitHub stars](https://img.shields.io/github/stars/ZhuLinsen/daily_stock_analysis?style=social)](https://github.com/ZhuLinsen/daily_stock_analysis/stargazers) [![arXiv](https://img.shields.io/badge/arXiv-2608.26990-b31b1b.svg)](https://arxiv.org/abs/2608.26990) [![CI](https://github.com/ZhuLinsen/daily_stock_analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/ZhuLinsen/daily_stock_analysis/actions/workflows/ci.yml) [![License: MIT](https://img.shi",
+        "topics": [
+          "a-stock",
+          "ai-agent",
+          "aigc",
+          "llm",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading"
+        ],
+        "updated_at": "2026-11-09T17:44:13Z"
+      },
+      "repo": {
+        "description": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "forks": 56360,
+        "full_name": "ZhuLinsen/daily_stock_analysis",
+        "language": "Python",
+        "name": "daily_stock_analysis",
+        "owner": "ZhuLinsen",
+        "rank": 9,
+        "stars_today": 505,
+        "total_stars": 68664,
+        "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.44,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 69.24
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 505 stars today; score 69.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-06-07T04:32:30Z",
+        "default_branch": "main",
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "fork": false,
+        "full_name": "ruvnet/RuView",
+        "homepage": "https://cognitum.one",
+        "latest_release": "ruview-harness-v0.9.2",
+        "license_spdx": "MIT",
+        "open_issues": 568,
+        "primary_language": "Rust",
+        "pushed_at": "2026-11-09T15:54:49Z",
+        "readme_excerpt": "# \u03c0 RuView <p align=\"center\"> <a href=\"https://cognitum.one/seed\"> <img src=\"assets/ruview-hero-h3-v3.gif\" alt=\"RuView - WiFi DensePose \u2014 animated visualization of real-time pose estimation, breathing, and heart-rate sensing through WiFi\" width=\"100%\"> </a> </p> [![RuView: spaces become signals, with an animated conceptual RF field](assets/readme/hero-spatial-v6.svg)](docs/user-guide.md) <table> <tr> <td align=\"center\" width=\"33%\"><a href=\"docs/user-guide.md\"><img src=\"assets/readme/nav-start-sp",
+        "topics": [
+          "claude",
+          "claude-code",
+          "esp32",
+          "firmware",
+          "home-assistant",
+          "home-automation",
+          "iot",
+          "mcp",
+          "monitoring",
+          "networking",
+          "pose-estimation",
+          "react",
+          "rf",
+          "self-learning",
+          "spatial-intelligence",
+          "typescript",
+          "webassembly",
+          "wifi",
+          "wifi-security"
+        ],
+        "updated_at": "2026-11-09T17:40:20Z"
+      },
+      "repo": {
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "forks": 13395,
+        "full_name": "ruvnet/RuView",
+        "language": "Rust",
+        "name": "RuView",
+        "owner": "ruvnet",
+        "rank": 8,
+        "stars_today": 245,
+        "total_stars": 103302,
+        "url": "https://github.com/ruvnet/RuView"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.07,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 59.17
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 245 stars today; score 59.2/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-14T13:23:45Z",
+        "default_branch": "master",
+        "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+        "fork": false,
+        "full_name": "homeassistant-ai/ha-mcp",
+        "homepage": "https://homeassistant-ai.github.io/ha-mcp/",
+        "latest_release": "v9.1.2",
+        "license_spdx": "MIT",
+        "open_issues": 21,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-09T14:43:53Z",
+        "readme_excerpt": "> **Breaking change (v7.3.0):** `ha_config_set_yaml` has been moved to [beta](docs/beta.md). <div align=\"center\"> <img src=\"https://raw.githubusercontent.com/homeassistant-ai/ha-mcp/master/docs/img/ha-mcp-logo.png\" alt=\"Home Assistant MCP Server Logo\" width=\"300\"/> # HA-MCP \u2014 Manage Home Assistant with AI <!-- mcp-name: io.github.homeassistant-ai/ha-mcp --> <p align=\"center\"> <img src=\"https://img.shields.io/badge/tools-87-blue\" alt=\"87 Tools\"> <a href=\"https://github.com/homeassistant-ai/ha-mcp",
+        "topics": [
+          "ai",
+          "claude",
+          "hacs",
+          "home-assistant",
+          "home-automation",
+          "llm",
+          "mcp",
+          "model-context-protocol"
+        ],
+        "updated_at": "2026-11-09T17:42:41Z"
+      },
+      "repo": {
+        "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+        "forks": 281,
+        "full_name": "homeassistant-ai/ha-mcp",
+        "language": "Python",
+        "name": "ha-mcp",
+        "owner": "homeassistant-ai",
+        "rank": 10,
+        "stars_today": 31,
+        "total_stars": 5742,
+        "url": "https://github.com/homeassistant-ai/ha-mcp"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.36,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 73.41
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 31 stars today; score 73.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-04-05T14:40:56Z",
+        "default_branch": "master",
+        "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+        "fork": false,
+        "full_name": "garrytan/gbrain",
+        "homepage": null,
+        "latest_release": "v0.60.624.0",
+        "license_spdx": "MIT",
+        "open_issues": 778,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-09T17:44:16Z",
+        "readme_excerpt": "<h1><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"docs/images/brand/gbrain-wordmark-light.svg\"><img src=\"docs/images/brand/gbrain-wordmark.svg\" alt=\"GBrain\" height=\"52\"></picture></h1> **Give the agent you already use a memory you control.** GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keyword retrieval; add semantic search, synthesis, and background enri",
+        "topics": [],
+        "updated_at": "2026-11-09T17:44:44Z"
+      },
+      "repo": {
+        "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+        "forks": 4760,
+        "full_name": "garrytan/gbrain",
+        "language": "TypeScript",
+        "name": "gbrain",
+        "owner": "garrytan",
+        "rank": 6,
+        "stars_today": 215,
+        "total_stars": 32010,
+        "url": "https://github.com/garrytan/gbrain"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.3,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 72.55
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 215 stars today; score 72.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-12-24T14:30:48Z",
+        "default_branch": "master",
+        "description": "Hunt down social media accounts by username across social networks",
+        "fork": false,
+        "full_name": "sherlock-project/sherlock",
+        "homepage": "https://sherlockproject.xyz",
+        "latest_release": "v0.16.2",
+        "license_spdx": "MIT",
+        "open_issues": 399,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-09T05:14:34Z",
+        "readme_excerpt": "<p align=\"center\"> <br> <a href=\"https://sherlockproject.xyz/\" target=\"_blank\"><img src=\"images/sherlock-logo.png\" alt=\"sherlock\"/></a> <br> <span>Hunt down social media accounts by username across <a href=\"https://sherlockproject.xyz/sites\">400+ social networks</a></span> <br> </p> <p align=\"center\"> <a href=\"https://sherlockproject.xyz/installation\">Installation</a> &nbsp;&nbsp;&nbsp;\u2022&nbsp;&nbsp;&nbsp; <a href=\"https://sherlockproject.xyz/usage\">Usage</a> &nbsp;&nbsp;&nbsp;\u2022&nbsp;&nbsp;&nbsp;",
+        "topics": [
+          "cli",
+          "cti",
+          "cybersecurity",
+          "forensics",
+          "hacktoberfest",
+          "information-gathering",
+          "infosec",
+          "linux",
+          "osint",
+          "pentesting",
+          "python",
+          "python3",
+          "reconnaissance",
+          "redteam",
+          "sherlock",
+          "tools"
+        ],
+        "updated_at": "2026-11-09T17:43:27Z"
+      },
+      "repo": {
+        "description": "Hunt down social media accounts by username across social networks",
+        "forks": 12357,
+        "full_name": "sherlock-project/sherlock",
+        "language": "Python",
+        "name": "sherlock",
+        "owner": "sherlock-project",
+        "rank": 3,
+        "stars_today": 4294,
+        "total_stars": 106575,
+        "url": "https://github.com/sherlock-project/sherlock"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 10.22,
+        "momentum": 11.71,
+        "novelty": 2.8,
+        "practical_usefulness": 12.41,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.78,
+        "technical_quality": 14.0,
+        "total": 70.66
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 4294 stars today; score 70.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-11T05:38:15Z",
+        "default_branch": "main",
+        "description": "Browser automation CLI for AI agents",
+        "fork": false,
+        "full_name": "vercel-labs/agent-browser",
+        "homepage": "https://agent-browser.dev",
+        "latest_release": "v0.41.2",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 538,
+        "primary_language": "Rust",
+        "pushed_at": "2026-11-09T17:35:42Z",
+        "readme_excerpt": "# agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. <p> <a href=\"https://vercel.com/labs#labs-products\"><img alt=\"Vercel Labs Product\" src=\"https://img.shields.io/badge/LABS-PRODUCT-0a0a0a.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000000\" height=\"28\"></a> <a href=\"https://www.npmjs.com/package/agent-browser\"><img alt=\"npm version: agent-browser\" src=\"https://img.shields.io/npm/v/agent-browser.svg?style",
+        "topics": [],
+        "updated_at": "2026-11-09T17:42:52Z"
+      },
+      "repo": {
+        "description": "Browser automation CLI for AI agents",
+        "forks": 3291,
+        "full_name": "vercel-labs/agent-browser",
+        "language": "Rust",
+        "name": "agent-browser",
+        "owner": "vercel-labs",
+        "rank": 7,
+        "stars_today": 914,
+        "total_stars": 48299,
+        "url": "https://github.com/vercel-labs/agent-browser"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.52,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 69.62
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 914 stars today; score 69.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-10T06:43:20Z",
+        "default_branch": "main",
+        "description": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "fork": false,
+        "full_name": "ZhuLinsen/daily_stock_analysis",
+        "homepage": "https://dsa.zhulinsen.tech",
+        "latest_release": "v3.34.0",
+        "license_spdx": "MIT",
+        "open_issues": 37,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-09T14:14:52Z",
+        "readme_excerpt": "<div align=\"center\"> # \ud83d\udcc8 \u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf [![GitHub stars](https://img.shields.io/github/stars/ZhuLinsen/daily_stock_analysis?style=social)](https://github.com/ZhuLinsen/daily_stock_analysis/stargazers) [![arXiv](https://img.shields.io/badge/arXiv-2608.26990-b31b1b.svg)](https://arxiv.org/abs/2608.26990) [![CI](https://github.com/ZhuLinsen/daily_stock_analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/ZhuLinsen/daily_stock_analysis/actions/workflows/ci.yml) [![License: MIT](https://img.shi",
+        "topics": [
+          "a-stock",
+          "ai-agent",
+          "aigc",
+          "llm",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading"
+        ],
+        "updated_at": "2026-11-09T17:44:13Z"
+      },
+      "repo": {
+        "description": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "forks": 56360,
+        "full_name": "ZhuLinsen/daily_stock_analysis",
+        "language": "Python",
+        "name": "daily_stock_analysis",
+        "owner": "ZhuLinsen",
+        "rank": 9,
+        "stars_today": 505,
+        "total_stars": 68664,
+        "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.44,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 69.24
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 505 stars today; score 69.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-08-29T19:52:32Z",
+        "default_branch": "main",
+        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "fork": false,
+        "full_name": "anthropics/claude-quickstarts",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 238,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-06T19:37:57Z",
+        "readme_excerpt": "# Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upon and customize for your specific needs. ## Getting Started To use these quickstarts, you'll need an Claude API key. If you don't have one yet, you can sign up for free at [console.anthropic.com](https://console.anthropic.com). ## Available Quickstarts ### Customer Su",
+        "topics": [],
+        "updated_at": "2026-11-09T17:43:45Z"
+      },
+      "repo": {
+        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "forks": 3301,
+        "full_name": "anthropics/claude-quickstarts",
+        "language": "Python",
+        "name": "claude-quickstarts",
+        "owner": "anthropics",
+        "rank": 5,
+        "stars_today": 560,
+        "total_stars": 19883,
+        "url": "https://github.com/anthropics/claude-quickstarts"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 10.22,
+        "momentum": 4.12,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 69.14
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 560 stars today; score 69.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-09T16:20:32Z",
+        "default_branch": "main",
+        "description": "An open source design system that's fully customizable and agent ready",
+        "fork": false,
+        "full_name": "meta/astryx",
+        "homepage": "http://astryx.atmeta.com",
+        "latest_release": "v0.7.11",
+        "license_spdx": "MIT",
+        "open_issues": 641,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-09T17:40:13Z",
+        "readme_excerpt": "<!-- SYNC CONTRACT: Architecture changes require documentation updates. --> <div align=\"center\"> <img src=\"https://lookaside.facebook.com/assets/astryx/Astryx-Banner.png\" alt=\"Astryx\" width=\"100%\" /> # Astryx An open source design system that's fully customizable and built for how we build now: <br/> by people and the agents working alongside them. **Currently in Beta** \u00b7 Built on [React 19+](https://react.dev) and [StyleX](https://stylexjs.com) [![npm version](https://img.shields.io/npm/v/@astr",
+        "topics": [],
+        "updated_at": "2026-11-09T17:44:14Z"
+      },
+      "repo": {
+        "description": "An open source design system that's fully customizable and agent ready",
+        "forks": 1472,
+        "full_name": "meta/astryx",
+        "language": "TypeScript",
+        "name": "astryx",
+        "owner": "meta",
+        "rank": 2,
+        "stars_today": 3324,
+        "total_stars": 19246,
+        "url": "https://github.com/meta/astryx"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 9.96,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 66.06
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 3324 stars today; score 66.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-22T15:53:31Z",
+        "default_branch": "main",
+        "description": "Public repository for Agent Skills",
+        "fork": false,
+        "full_name": "anthropics/skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 1504,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-06T22:32:32Z",
+        "readme_excerpt": "> **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io). [![skills.sh](https://skills.sh/b/anthropics/skills)](https://skills.sh/anthropics/skills) # Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's",
+        "topics": [
+          "agent-skills"
+        ],
+        "updated_at": "2026-11-09T17:44:14Z"
+      },
+      "repo": {
+        "description": "Public repository for Agent Skills",
+        "forks": 22417,
+        "full_name": "anthropics/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "anthropics",
+        "rank": 1,
+        "stars_today": 1052,
+        "total_stars": 190590,
+        "url": "https://github.com/anthropics/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.66,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 64.51
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Python project with 1052 stars today; score 64.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-06-07T04:32:30Z",
+        "default_branch": "main",
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "fork": false,
+        "full_name": "ruvnet/RuView",
+        "homepage": "https://cognitum.one",
+        "latest_release": "ruview-harness-v0.9.2",
+        "license_spdx": "MIT",
+        "open_issues": 568,
+        "primary_language": "Rust",
+        "pushed_at": "2026-11-09T15:54:49Z",
+        "readme_excerpt": "# \u03c0 RuView <p align=\"center\"> <a href=\"https://cognitum.one/seed\"> <img src=\"assets/ruview-hero-h3-v3.gif\" alt=\"RuView - WiFi DensePose \u2014 animated visualization of real-time pose estimation, breathing, and heart-rate sensing through WiFi\" width=\"100%\"> </a> </p> [![RuView: spaces become signals, with an animated conceptual RF field](assets/readme/hero-spatial-v6.svg)](docs/user-guide.md) <table> <tr> <td align=\"center\" width=\"33%\"><a href=\"docs/user-guide.md\"><img src=\"assets/readme/nav-start-sp",
+        "topics": [
+          "claude",
+          "claude-code",
+          "esp32",
+          "firmware",
+          "home-assistant",
+          "home-automation",
+          "iot",
+          "mcp",
+          "monitoring",
+          "networking",
+          "pose-estimation",
+          "react",
+          "rf",
+          "self-learning",
+          "spatial-intelligence",
+          "typescript",
+          "webassembly",
+          "wifi",
+          "wifi-security"
+        ],
+        "updated_at": "2026-11-09T17:40:20Z"
+      },
+      "repo": {
+        "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+        "forks": 13395,
+        "full_name": "ruvnet/RuView",
+        "language": "Rust",
+        "name": "RuView",
+        "owner": "ruvnet",
+        "rank": 8,
+        "stars_today": 245,
+        "total_stars": 103302,
+        "url": "https://github.com/ruvnet/RuView"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.07,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 59.17
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 245 stars today; score 59.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2021-08-27T12:25:48Z",
+        "default_branch": "main",
+        "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "fork": false,
+        "full_name": "google-deepmind/mujoco",
+        "homepage": "https://mujoco.org",
+        "latest_release": "4.0.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 305,
+        "primary_language": "C++",
+        "pushed_at": "2026-11-09T12:57:21Z",
+        "readme_excerpt": "<h1> <a href=\"https://mujoco.org\"><img alt=\"MuJoCo\" src=\"banner.png\" width=\"100%\"/></a> </h1> <p> <a href=\"https://mujoco.org\" alt=\"Website\"> <img src=\"https://img.shields.io/badge/website-mujoco.org-0053d6\"> </a> <a href=\"https://github.com/google-deepmind/mujoco/actions/workflows/build.yml?query=branch%3Amain\" alt=\"GitHub Actions\"> <img src=\"https://img.shields.io/github/actions/workflow/status/google-deepmind/mujoco/build.yml?branch=main\"> </a> <a href=\"https://mujoco.readthedocs.io/\" alt=\"Do",
+        "topics": [
+          "mujoco",
+          "physics",
+          "robotics"
+        ],
+        "updated_at": "2026-11-09T17:37:51Z"
+      },
+      "repo": {
+        "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "forks": 1983,
+        "full_name": "google-deepmind/mujoco",
+        "language": "C++",
+        "name": "mujoco",
+        "owner": "google-deepmind",
+        "rank": 4,
+        "stars_today": 579,
+        "total_stars": 16813,
+        "url": "https://github.com/google-deepmind/mujoco"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.3,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 55.9
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 579 stars today; score 55.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/milind-soni",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "forks": 2674,
+        "full_name": "sponsors/milind-soni",
+        "language": "TypeScript",
+        "name": "milind-soni",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 1589,
+        "total_stars": 19470,
+        "url": "https://github.com/sponsors/milind-soni"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.27,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 2.15,
+        "technical_quality": 3.5,
+        "total": 20.62
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: TypeScript project with 1589 stars today; score 20.6/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-11-09",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is homeassistant-ai/ha-mcp."
+}
