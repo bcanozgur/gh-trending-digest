@@ -1,0 +1,797 @@
+{
+  "date": "2026-11-10",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-15T20:20:26Z",
+        "default_branch": "main",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "fork": false,
+        "full_name": "addyosmani/agent-skills",
+        "homepage": "https://skills.addy.ie",
+        "latest_release": "0.6.15",
+        "license_spdx": "MIT",
+        "open_issues": 133,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-11-01T19:24:49Z",
+        "readme_excerpt": "# Agent Skills **Production-grade engineering skills for AI coding agents.** Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. <a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" wid",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-11-10T15:43:18Z"
+      },
+      "repo": {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "forks": 12046,
+        "full_name": "addyosmani/agent-skills",
+        "language": "JavaScript",
+        "name": "agent-skills",
+        "owner": "addyosmani",
+        "rank": 3,
+        "stars_today": 465,
+        "total_stars": 114899,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.57,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 78.47
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 465 stars today; score 78.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-07-23T04:13:55Z",
+        "default_branch": "main",
+        "description": "The personal finance app for everyone (by everyone)",
+        "fork": false,
+        "full_name": "we-promise/sure",
+        "homepage": "https://sure.am",
+        "latest_release": "v0.7.6",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 880,
+        "primary_language": "Ruby",
+        "pushed_at": "2026-11-10T07:09:52Z",
+        "readme_excerpt": "[![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-blue)](https://deepwiki.com/we-promise/sure) [![View performance data on Skylight](https://badges.skylight.io/typical/s6PEZSKwcklL.svg)](https://oss.skylight.io/app/applications/s6PEZSKwcklL) [![Dosu](https://raw.githubusercontent.com/dosu-ai/assets/main/dosu-badge.svg)](https://app.dosu.dev/a72bdcfd-15f5-4edc-bd85-ea0daa6c3adc/ask) [![Pipelock Security Scan](https://github.com/we-promise/sure/actions/workflows/pipelock.yml/badge.svg)](h",
+        "topics": [],
+        "updated_at": "2026-11-10T15:41:41Z"
+      },
+      "repo": {
+        "description": "The personal finance app for everyone (by everyone)",
+        "forks": 850,
+        "full_name": "we-promise/sure",
+        "language": "Ruby",
+        "name": "sure",
+        "owner": "we-promise",
+        "rank": 6,
+        "stars_today": 184,
+        "total_stars": 11584,
+        "url": "https://github.com/we-promise/sure"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.38,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 60.18
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Ruby project with 184 stars today; score 60.2/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/tokio-rs",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A batteries-included framework for building web apps",
+        "forks": 271,
+        "full_name": "sponsors/tokio-rs",
+        "language": "Rust",
+        "name": "tokio-rs",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 192,
+        "total_stars": 6647,
+        "url": "https://github.com/sponsors/tokio-rs"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.82,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 29.43
+      },
+      "tags": [
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "DevTools, Watch: Rust project with 192 stars today; score 29.4/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-15T20:20:26Z",
+        "default_branch": "main",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "fork": false,
+        "full_name": "addyosmani/agent-skills",
+        "homepage": "https://skills.addy.ie",
+        "latest_release": "0.6.15",
+        "license_spdx": "MIT",
+        "open_issues": 133,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-11-01T19:24:49Z",
+        "readme_excerpt": "# Agent Skills **Production-grade engineering skills for AI coding agents.** Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. <a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" wid",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-11-10T15:43:18Z"
+      },
+      "repo": {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "forks": 12046,
+        "full_name": "addyosmani/agent-skills",
+        "language": "JavaScript",
+        "name": "agent-skills",
+        "owner": "addyosmani",
+        "rank": 3,
+        "stars_today": 465,
+        "total_stars": 114899,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.57,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 78.47
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 465 stars today; score 78.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-14T13:23:45Z",
+        "default_branch": "master",
+        "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+        "fork": false,
+        "full_name": "homeassistant-ai/ha-mcp",
+        "homepage": "https://homeassistant-ai.github.io/ha-mcp/",
+        "latest_release": "v9.1.2",
+        "license_spdx": "MIT",
+        "open_issues": 15,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-10T13:48:35Z",
+        "readme_excerpt": "> **Breaking change (v7.3.0):** `ha_config_set_yaml` has been moved to [beta](docs/beta.md). <div align=\"center\"> <img src=\"https://raw.githubusercontent.com/homeassistant-ai/ha-mcp/master/docs/img/ha-mcp-logo.png\" alt=\"Home Assistant MCP Server Logo\" width=\"300\"/> # HA-MCP \u2014 Manage Home Assistant with AI <!-- mcp-name: io.github.homeassistant-ai/ha-mcp --> <p align=\"center\"> <img src=\"https://img.shields.io/badge/tools-87-blue\" alt=\"87 Tools\"> <a href=\"https://github.com/homeassistant-ai/ha-mcp",
+        "topics": [
+          "ai",
+          "claude",
+          "hacs",
+          "home-assistant",
+          "home-automation",
+          "llm",
+          "mcp",
+          "model-context-protocol"
+        ],
+        "updated_at": "2026-11-10T15:36:26Z"
+      },
+      "repo": {
+        "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+        "forks": 396,
+        "full_name": "homeassistant-ai/ha-mcp",
+        "language": "Python",
+        "name": "ha-mcp",
+        "owner": "homeassistant-ai",
+        "rank": 7,
+        "stars_today": 792,
+        "total_stars": 6420,
+        "url": "https://github.com/homeassistant-ai/ha-mcp"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.87,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 70.72
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 792 stars today; score 70.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-11T05:38:15Z",
+        "default_branch": "main",
+        "description": "Browser automation CLI for AI agents",
+        "fork": false,
+        "full_name": "vercel-labs/agent-browser",
+        "homepage": "https://agent-browser.dev",
+        "latest_release": "v0.42.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 556,
+        "primary_language": "Rust",
+        "pushed_at": "2026-11-10T15:26:19Z",
+        "readme_excerpt": "# agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. <p> <a href=\"https://vercel.com/labs#labs-products\"><img alt=\"Vercel Labs Product\" src=\"https://img.shields.io/badge/LABS-PRODUCT-0a0a0a.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000000\" height=\"28\"></a> <a href=\"https://www.npmjs.com/package/agent-browser\"><img alt=\"npm version: agent-browser\" src=\"https://img.shields.io/npm/v/agent-browser.svg?style",
+        "topics": [],
+        "updated_at": "2026-11-10T15:43:13Z"
+      },
+      "repo": {
+        "description": "Browser automation CLI for AI agents",
+        "forks": 3425,
+        "full_name": "vercel-labs/agent-browser",
+        "language": "Rust",
+        "name": "agent-browser",
+        "owner": "vercel-labs",
+        "rank": 8,
+        "stars_today": 775,
+        "total_stars": 48997,
+        "url": "https://github.com/vercel-labs/agent-browser"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.68,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 69.78
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 775 stars today; score 69.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-08-29T19:52:32Z",
+        "default_branch": "main",
+        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "fork": false,
+        "full_name": "anthropics/claude-quickstarts",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 240,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-06T19:37:57Z",
+        "readme_excerpt": "# Claude Quickstarts Claude Quickstarts is a collection of projects designed to help developers quickly get started with building applications using the Claude API. Each quickstart provides a foundation that you can easily build upon and customize for your specific needs. ## Getting Started To use these quickstarts, you'll need an Claude API key. If you don't have one yet, you can sign up for free at [console.anthropic.com](https://console.anthropic.com). ## Available Quickstarts ### Customer Su",
+        "topics": [],
+        "updated_at": "2026-11-10T15:36:27Z"
+      },
+      "repo": {
+        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "forks": 3430,
+        "full_name": "anthropics/claude-quickstarts",
+        "language": "Python",
+        "name": "claude-quickstarts",
+        "owner": "anthropics",
+        "rank": 4,
+        "stars_today": 530,
+        "total_stars": 20325,
+        "url": "https://github.com/anthropics/claude-quickstarts"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 10.22,
+        "momentum": 4.6,
+        "novelty": 2.8,
+        "practical_usefulness": 15.8,
+        "production_readiness": 4.55,
+        "strategic_relevance": 5.53,
+        "technical_quality": 11.9,
+        "total": 69.62
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 530 stars today; score 69.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-09T16:20:32Z",
+        "default_branch": "main",
+        "description": "An open source design system that's fully customizable and agent ready",
+        "fork": false,
+        "full_name": "meta/astryx",
+        "homepage": "http://astryx.atmeta.com",
+        "latest_release": "v0.7.12",
+        "license_spdx": "MIT",
+        "open_issues": 681,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-10T15:43:35Z",
+        "readme_excerpt": "<!-- SYNC CONTRACT: Architecture changes require documentation updates. --> <div align=\"center\"> <img src=\"https://lookaside.facebook.com/assets/astryx/Astryx-Banner.png\" alt=\"Astryx\" width=\"100%\" /> # Astryx An open source design system that's fully customizable and built for how we build now: <br/> by people and the agents working alongside them. **Currently in Beta** \u00b7 Built on [React 19+](https://react.dev) and [StyleX](https://stylexjs.com) [![npm version](https://img.shields.io/npm/v/@astr",
+        "topics": [],
+        "updated_at": "2026-11-10T15:43:45Z"
+      },
+      "repo": {
+        "description": "An open source design system that's fully customizable and agent ready",
+        "forks": 1741,
+        "full_name": "meta/astryx",
+        "language": "TypeScript",
+        "name": "astryx",
+        "owner": "meta",
+        "rank": 1,
+        "stars_today": 3111,
+        "total_stars": 21980,
+        "url": "https://github.com/meta/astryx"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.9,
+        "technical_quality": 14.0,
+        "total": 68.73
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 3111 stars today; score 68.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-12-24T14:30:48Z",
+        "default_branch": "master",
+        "description": "Hunt down social media accounts by username across social networks",
+        "fork": false,
+        "full_name": "sherlock-project/sherlock",
+        "homepage": "https://sherlockproject.xyz",
+        "latest_release": "v0.16.2",
+        "license_spdx": "MIT",
+        "open_issues": 405,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-10T05:13:55Z",
+        "readme_excerpt": "<p align=\"center\"> <br> <a href=\"https://sherlockproject.xyz/\" target=\"_blank\"><img src=\"images/sherlock-logo.png\" alt=\"sherlock\"/></a> <br> <span>Hunt down social media accounts by username across <a href=\"https://sherlockproject.xyz/sites\">400+ social networks</a></span> <br> </p> <p align=\"center\"> <a href=\"https://sherlockproject.xyz/installation\">Installation</a> &nbsp;&nbsp;&nbsp;\u2022&nbsp;&nbsp;&nbsp; <a href=\"https://sherlockproject.xyz/usage\">Usage</a> &nbsp;&nbsp;&nbsp;\u2022&nbsp;&nbsp;&nbsp;",
+        "topics": [
+          "cli",
+          "cti",
+          "cybersecurity",
+          "forensics",
+          "hacktoberfest",
+          "information-gathering",
+          "infosec",
+          "linux",
+          "osint",
+          "pentesting",
+          "python",
+          "python3",
+          "reconnaissance",
+          "redteam",
+          "sherlock",
+          "tools"
+        ],
+        "updated_at": "2026-11-10T15:42:33Z"
+      },
+      "repo": {
+        "description": "Hunt down social media accounts by username across social networks",
+        "forks": 12595,
+        "full_name": "sherlock-project/sherlock",
+        "language": "Python",
+        "name": "sherlock",
+        "owner": "sherlock-project",
+        "rank": 9,
+        "stars_today": 2387,
+        "total_stars": 108493,
+        "url": "https://github.com/sherlock-project/sherlock"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 10.22,
+        "momentum": 8.89,
+        "novelty": 2.8,
+        "practical_usefulness": 12.41,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 67.33
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 2387 stars today; score 67.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-22T15:53:31Z",
+        "default_branch": "main",
+        "description": "Public repository for Agent Skills",
+        "fork": false,
+        "full_name": "anthropics/skills",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 1511,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-06T22:32:32Z",
+        "readme_excerpt": "> **Note:** This repository contains Anthropic's implementation of skills for Claude. For information about the Agent Skills standard, see [agentskills.io](http://agentskills.io). [![skills.sh](https://skills.sh/b/anthropics/skills)](https://skills.sh/anthropics/skills) # Skills Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's",
+        "topics": [
+          "agent-skills"
+        ],
+        "updated_at": "2026-11-10T15:39:09Z"
+      },
+      "repo": {
+        "description": "Public repository for Agent Skills",
+        "forks": 22593,
+        "full_name": "anthropics/skills",
+        "language": "Python",
+        "name": "skills",
+        "owner": "anthropics",
+        "rank": 2,
+        "stars_today": 1676,
+        "total_stars": 191939,
+        "url": "https://github.com/anthropics/skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.98,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 2.8,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 66.83
+      },
+      "tags": [
+        "AI Workflow",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Deep Dive: Python project with 1676 stars today; score 66.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-07-23T04:13:55Z",
+        "default_branch": "main",
+        "description": "The personal finance app for everyone (by everyone)",
+        "fork": false,
+        "full_name": "we-promise/sure",
+        "homepage": "https://sure.am",
+        "latest_release": "v0.7.6",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 880,
+        "primary_language": "Ruby",
+        "pushed_at": "2026-11-10T07:09:52Z",
+        "readme_excerpt": "[![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-blue)](https://deepwiki.com/we-promise/sure) [![View performance data on Skylight](https://badges.skylight.io/typical/s6PEZSKwcklL.svg)](https://oss.skylight.io/app/applications/s6PEZSKwcklL) [![Dosu](https://raw.githubusercontent.com/dosu-ai/assets/main/dosu-badge.svg)](https://app.dosu.dev/a72bdcfd-15f5-4edc-bd85-ea0daa6c3adc/ask) [![Pipelock Security Scan](https://github.com/we-promise/sure/actions/workflows/pipelock.yml/badge.svg)](h",
+        "topics": [],
+        "updated_at": "2026-11-10T15:41:41Z"
+      },
+      "repo": {
+        "description": "The personal finance app for everyone (by everyone)",
+        "forks": 850,
+        "full_name": "we-promise/sure",
+        "language": "Ruby",
+        "name": "sure",
+        "owner": "we-promise",
+        "rank": 6,
+        "stars_today": 184,
+        "total_stars": 11584,
+        "url": "https://github.com/we-promise/sure"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.38,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 60.18
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Ruby project with 184 stars today; score 60.2/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2021-08-27T12:25:48Z",
+        "default_branch": "main",
+        "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "fork": false,
+        "full_name": "google-deepmind/mujoco",
+        "homepage": "https://mujoco.org",
+        "latest_release": "4.0.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 326,
+        "primary_language": "C++",
+        "pushed_at": "2026-11-10T10:30:27Z",
+        "readme_excerpt": "<h1> <a href=\"https://mujoco.org\"><img alt=\"MuJoCo\" src=\"banner.png\" width=\"100%\"/></a> </h1> <p> <a href=\"https://mujoco.org\" alt=\"Website\"> <img src=\"https://img.shields.io/badge/website-mujoco.org-0053d6\"> </a> <a href=\"https://github.com/google-deepmind/mujoco/actions/workflows/build.yml?query=branch%3Amain\" alt=\"GitHub Actions\"> <img src=\"https://img.shields.io/github/actions/workflow/status/google-deepmind/mujoco/build.yml?branch=main\"> </a> <a href=\"https://mujoco.readthedocs.io/\" alt=\"Do",
+        "topics": [
+          "mujoco",
+          "physics",
+          "robotics"
+        ],
+        "updated_at": "2026-11-10T15:37:52Z"
+      },
+      "repo": {
+        "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "forks": 2113,
+        "full_name": "google-deepmind/mujoco",
+        "language": "C++",
+        "name": "mujoco",
+        "owner": "google-deepmind",
+        "rank": 5,
+        "stars_today": 453,
+        "total_stars": 17215,
+        "url": "https://github.com/google-deepmind/mujoco"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.25,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 55.85
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 453 stars today; score 55.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-08-06T08:27:34Z",
+        "default_branch": "master",
+        "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .\u4e0a\u4e0b\u6587\u538b\u7f29\u63d2\u4ef6\uff0c\u6708\u7ea7\u957f\u4f1a\u8bdd\u4f1a\u8bdd\uff0c \u517c\u987e\u5c0f\u7a97\u53e3(100k\u4e0a\u4e0b\u6587\u8db3\u77e3)\u7701token(\u77015\u500dtoken) . billion-context is all you need",
+        "fork": false,
+        "full_name": "ranxianglei/billion-context",
+        "homepage": null,
+        "latest_release": "v0.1.213",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 953,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-10T15:23:21Z",
+        "readme_excerpt": "# billion-context <p align=\"center\"><a href=\"./README.md\">English</a> | <a href=\"./README.zh-CN.md\">\u4e2d\u6587</a> | <a href=\"./README.ja.md\">\u65e5\u672c\u8a9e</a></p> <p align=\"center\"><strong>Context-compression plugin</strong> \u2014 <em>billion-context is all you need.</em></p> <p align=\"center\"><sub>small context windows (100K is enough) \u00b7 <em>5\u00d7 fewer tokens</em> \u00b7 month-long single sessions (billions of tokens) \u00b7 high compression quality</sub></p> <p align=\"center\"> <a href=\"https://www.npmjs.com/package/billion-co",
+        "topics": [
+          "dsh-plugin"
+        ],
+        "updated_at": "2026-11-10T15:43:40Z"
+      },
+      "repo": {
+        "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .\u4e0a\u4e0b\u6587\u538b\u7f29\u63d2\u4ef6\uff0c\u6708\u7ea7\u957f\u4f1a\u8bdd\u4f1a\u8bdd\uff0c \u517c\u987e\u5c0f\u7a97\u53e3(100k\u4e0a\u4e0b\u6587\u8db3\u77e3)\u7701token(\u77015\u500dtoken) . billion-context is all you need",
+        "forks": 500,
+        "full_name": "ranxianglei/billion-context",
+        "language": "TypeScript",
+        "name": "billion-context",
+        "owner": "ranxianglei",
+        "rank": 11,
+        "stars_today": 374,
+        "total_stars": 6079,
+        "url": "https://github.com/ranxianglei/billion-context"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.17,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.2,
+        "strategic_relevance": 1.29,
+        "technical_quality": 11.2,
+        "total": 39.71
+      },
+      "tags": [
+        "Watch"
+      ],
+      "verdict": "Watch: TypeScript project with 374 stars today; score 39.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/mattpocock",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "forks": 26871,
+        "full_name": "sponsors/mattpocock",
+        "language": "Shell",
+        "name": "mattpocock",
+        "owner": "sponsors",
+        "rank": 12,
+        "stars_today": 1223,
+        "total_stars": 320522,
+        "url": "https://github.com/sponsors/mattpocock"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.32,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 38.27
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Shell project with 1223 stars today; score 38.3/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/tokio-rs",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A batteries-included framework for building web apps",
+        "forks": 271,
+        "full_name": "sponsors/tokio-rs",
+        "language": "Rust",
+        "name": "tokio-rs",
+        "owner": "sponsors",
+        "rank": 10,
+        "stars_today": 192,
+        "total_stars": 6647,
+        "url": "https://github.com/sponsors/tokio-rs"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 2.82,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 29.43
+      },
+      "tags": [
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "DevTools, Watch: Rust project with 192 stars today; score 29.4/100."
+    }
+  ],
+  "subject": "GitHub Trending: developer tools signal - 2026-11-10",
+  "summary": "Today leans toward developer tools signal; the strongest pick is addyosmani/agent-skills."
+}

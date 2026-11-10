@@ -1,0 +1,22 @@
+GitHub Trending: developer tools signal - 2026-11-10
+
+Today leans toward developer tools signal; the strongest pick is addyosmani/agent-skills.
+
+Top picks
+1. addyosmani/agent-skills - 78.5/100
+   https://github.com/addyosmani/agent-skills
+   AI Workflow, DevTools: JavaScript project with 465 stars today; score 78.5/100.
+2. we-promise/sure - 60.2/100
+   https://github.com/we-promise/sure
+   AI Workflow, DevTools: Ruby project with 184 stars today; score 60.2/100.
+3. sponsors/tokio-rs - 29.4/100
+   https://github.com/sponsors/tokio-rs
+   DevTools, Watch: Rust project with 192 stars today; score 29.4/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- addyosmani/agent-skills: 78.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: JavaScript project with 465 stars today; score 78.5/100.
+- we-promise/sure: 60.2/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Ruby project with 184 stars today; score 60.2/100.
+- sponsors/tokio-rs: 29.4/100 [DevTools, Watch, Hype Risk] DevTools, Watch: Rust project with 192 stars today; score 29.4/100.
+
+Generated for 2026-11-10 from GitHub Trending daily.
