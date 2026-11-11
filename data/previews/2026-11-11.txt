@@ -1,0 +1,26 @@
+GitHub Trending: AI workflow signal - 2026-11-11
+
+Today leans toward AI workflow signal; the strongest pick is openai/codex-security.
+
+Top picks
+1. openai/codex-security - 84.9/100
+   https://github.com/openai/codex-security
+   AI Workflow, DevTools: TypeScript project with 20 stars today; score 84.9/100.
+2. GoogleChrome/modern-web-guidance-src - 53.5/100
+   https://github.com/GoogleChrome/modern-web-guidance-src
+   AI Workflow, DevTools: TypeScript project with 133 stars today; score 53.5/100.
+3. TheAlgorithms/Java - 46.9/100
+   https://github.com/TheAlgorithms/Java
+   DevTools, Try Today: Java project with 39 stars today; score 46.9/100.
+4. sponsors/shadcn - 37.8/100
+   https://github.com/sponsors/shadcn
+   AI Workflow, Watch: Unknown project with 333 stars today; score 37.8/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- openai/codex-security: 84.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 20 stars today; score 84.9/100.
+- GoogleChrome/modern-web-guidance-src: 53.5/100 [AI Workflow, DevTools] AI Workflow, DevTools: TypeScript project with 133 stars today; score 53.5/100.
+- TheAlgorithms/Java: 46.9/100 [DevTools, Try Today] DevTools, Try Today: Java project with 39 stars today; score 46.9/100.
+- sponsors/shadcn: 37.8/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Unknown project with 333 stars today; score 37.8/100.
+
+Generated for 2026-11-11 from GitHub Trending daily.

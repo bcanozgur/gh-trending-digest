@@ -1,0 +1,775 @@
+{
+  "date": "2026-11-11",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-13T22:00:13Z",
+        "default_branch": "main",
+        "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+        "fork": false,
+        "full_name": "openai/codex-security",
+        "homepage": "https://developers.openai.com/codex/security",
+        "latest_release": "npm-v0.9.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 141,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-11T14:51:56Z",
+        "readme_excerpt": "# Codex Security Codex Security helps you find, investigate, and fix vulnerabilities in your code. Use its security workflows in Codex, or automate them with the `@openai/codex-security` CLI and TypeScript SDK. - **In Codex:** [choose a security workflow](docs/agent-workflows.md). - **In a terminal:** [install the CLI and scan your repository](#quick-start). - **In automation:** use the [TypeScript SDK](#typescript-sdk) or [GitHub Action](#github-actions). ## Features - Scan repositories, select",
+        "topics": [
+          "ai-security",
+          "application-security",
+          "cli",
+          "code-scanning",
+          "codex",
+          "codex-security",
+          "cybersecurity",
+          "devsecops",
+          "nodejs",
+          "npm",
+          "openai",
+          "sdk",
+          "security",
+          "typescript",
+          "vulnerability-scanning"
+        ],
+        "updated_at": "2026-11-11T15:28:56Z"
+      },
+      "repo": {
+        "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+        "forks": 917,
+        "full_name": "openai/codex-security",
+        "language": "TypeScript",
+        "name": "codex-security",
+        "owner": "openai",
+        "rank": 9,
+        "stars_today": 20,
+        "total_stars": 11497,
+        "url": "https://github.com/openai/codex-security"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.51,
+        "novelty": 8.0,
+        "practical_usefulness": 19.4,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 84.87
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 20 stars today; score 84.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-27T20:22:24Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "GoogleChrome/modern-web-guidance-src",
+        "homepage": "https://goo.gle/modern-web-guidance",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 362,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-11T13:07:29Z",
+        "readme_excerpt": "# <img src=\"./.github/img/modern-web-guidance.svg\" alt=\"Modern Web Guidance\" width=\"30\" height=\"30\"> Modern Web Guidance (Source) This repo is the source repository for [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) and includes the code and documentation for authoring, calibrating, and evaluating its contents. [**Modern Web Guidance**](https://developer.chrome.com/docs/modern-web-guidance) is a set of skills that embed web platform expertise, best practi",
+        "topics": [],
+        "updated_at": "2026-11-11T15:31:24Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 132,
+        "full_name": "GoogleChrome/modern-web-guidance-src",
+        "language": "TypeScript",
+        "name": "modern-web-guidance-src",
+        "owner": "GoogleChrome",
+        "rank": 3,
+        "stars_today": 133,
+        "total_stars": 1521,
+        "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 4.9,
+        "momentum": 3.71,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 53.46
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 133 stars today; score 53.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-07-16T10:21:02Z",
+        "default_branch": "master",
+        "description": "All Algorithms implemented in Java",
+        "fork": false,
+        "full_name": "TheAlgorithms/Java",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 28,
+        "primary_language": "Java",
+        "pushed_at": "2026-11-10T21:51:28Z",
+        "readme_excerpt": "# The Algorithms - Java [![Build](https://github.com/TheAlgorithms/Java/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/TheAlgorithms/Java/actions/workflows/build.yml) [![codecov](https://codecov.io/gh/TheAlgorithms/Java/graph/badge.svg?token=XAdPyqTIqR)](https://codecov.io/gh/TheAlgorithms/Java) [![Discord chat](https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA&style=flat-square)](https://discord.gg/c7MnfGFGa6) [![Gitpod ready-to-code](htt",
+        "topics": [
+          "algorithm",
+          "algorithm-challenges",
+          "algorithms",
+          "algorithms-datastructures",
+          "data-structures",
+          "hacktoberfest",
+          "java",
+          "search",
+          "sort",
+          "sorting-algorithms"
+        ],
+        "updated_at": "2026-11-11T15:29:09Z"
+      },
+      "repo": {
+        "description": "All Algorithms implemented in Java",
+        "forks": 21494,
+        "full_name": "TheAlgorithms/Java",
+        "language": "Java",
+        "name": "Java",
+        "owner": "TheAlgorithms",
+        "rank": 10,
+        "stars_today": 39,
+        "total_stars": 66911,
+        "url": "https://github.com/TheAlgorithms/Java"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.42,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 46.93
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Java project with 39 stars today; score 46.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/shadcn",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+        "forks": 431,
+        "full_name": "sponsors/shadcn",
+        "language": null,
+        "name": "shadcn",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 333,
+        "total_stars": 10557,
+        "url": "https://github.com/sponsors/shadcn"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.15,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 37.8
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Unknown project with 333 stars today; score 37.8/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-13T22:00:13Z",
+        "default_branch": "main",
+        "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+        "fork": false,
+        "full_name": "openai/codex-security",
+        "homepage": "https://developers.openai.com/codex/security",
+        "latest_release": "npm-v0.9.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 141,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-11T14:51:56Z",
+        "readme_excerpt": "# Codex Security Codex Security helps you find, investigate, and fix vulnerabilities in your code. Use its security workflows in Codex, or automate them with the `@openai/codex-security` CLI and TypeScript SDK. - **In Codex:** [choose a security workflow](docs/agent-workflows.md). - **In a terminal:** [install the CLI and scan your repository](#quick-start). - **In automation:** use the [TypeScript SDK](#typescript-sdk) or [GitHub Action](#github-actions). ## Features - Scan repositories, select",
+        "topics": [
+          "ai-security",
+          "application-security",
+          "cli",
+          "code-scanning",
+          "codex",
+          "codex-security",
+          "cybersecurity",
+          "devsecops",
+          "nodejs",
+          "npm",
+          "openai",
+          "sdk",
+          "security",
+          "typescript",
+          "vulnerability-scanning"
+        ],
+        "updated_at": "2026-11-11T15:28:56Z"
+      },
+      "repo": {
+        "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+        "forks": 917,
+        "full_name": "openai/codex-security",
+        "language": "TypeScript",
+        "name": "codex-security",
+        "owner": "openai",
+        "rank": 9,
+        "stars_today": 20,
+        "total_stars": 11497,
+        "url": "https://github.com/openai/codex-security"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.51,
+        "novelty": 8.0,
+        "practical_usefulness": 19.4,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 84.87
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 20 stars today; score 84.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-02-15T20:20:26Z",
+        "default_branch": "main",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "fork": false,
+        "full_name": "addyosmani/agent-skills",
+        "homepage": "https://skills.addy.ie",
+        "latest_release": "0.6.15",
+        "license_spdx": "MIT",
+        "open_issues": 135,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-11-01T19:24:49Z",
+        "readme_excerpt": "# Agent Skills **Production-grade engineering skills for AI coding agents.** Skills encode the workflows, quality gates, and best practices that senior engineers use when building software. These ones are packaged so AI agents follow them consistently across every phase of development. <a href=\"https://trendshift.io/repositories/25200\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/25200\" alt=\"addyosmani%2Fagent-skills | Trendshift\" style=\"width: 250px; height: 55px;\" wid",
+        "topics": [
+          "agent-skills",
+          "antigravity",
+          "claude-code",
+          "codex",
+          "cursor",
+          "skills"
+        ],
+        "updated_at": "2026-11-11T15:31:58Z"
+      },
+      "repo": {
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "forks": 12132,
+        "full_name": "addyosmani/agent-skills",
+        "language": "JavaScript",
+        "name": "agent-skills",
+        "owner": "addyosmani",
+        "rank": 5,
+        "stars_today": 788,
+        "total_stars": 115664,
+        "url": "https://github.com/addyosmani/agent-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.35,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 74.05
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: JavaScript project with 788 stars today; score 74.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-14T13:23:45Z",
+        "default_branch": "master",
+        "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+        "fork": false,
+        "full_name": "homeassistant-ai/ha-mcp",
+        "homepage": "https://homeassistant-ai.github.io/ha-mcp/",
+        "latest_release": "v9.1.2",
+        "license_spdx": "MIT",
+        "open_issues": 18,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-11T15:08:52Z",
+        "readme_excerpt": "> **Breaking change (v7.3.0):** `ha_config_set_yaml` has been moved to [beta](docs/beta.md). <div align=\"center\"> <img src=\"https://raw.githubusercontent.com/homeassistant-ai/ha-mcp/master/docs/img/ha-mcp-logo.png\" alt=\"Home Assistant MCP Server Logo\" width=\"300\"/> # HA-MCP \u2014 Manage Home Assistant with AI <!-- mcp-name: io.github.homeassistant-ai/ha-mcp --> <p align=\"center\"> <img src=\"https://img.shields.io/badge/tools-87-blue\" alt=\"87 Tools\"> <a href=\"https://github.com/homeassistant-ai/ha-mcp",
+        "topics": [
+          "ai",
+          "claude",
+          "hacs",
+          "home-assistant",
+          "home-automation",
+          "llm",
+          "mcp",
+          "model-context-protocol"
+        ],
+        "updated_at": "2026-11-11T15:32:28Z"
+      },
+      "repo": {
+        "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+        "forks": 446,
+        "full_name": "homeassistant-ai/ha-mcp",
+        "language": "Python",
+        "name": "ha-mcp",
+        "owner": "homeassistant-ai",
+        "rank": 8,
+        "stars_today": 640,
+        "total_stars": 7070,
+        "url": "https://github.com/homeassistant-ai/ha-mcp"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.48,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 70.33
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 640 stars today; score 70.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-11T05:38:15Z",
+        "default_branch": "main",
+        "description": "Browser automation CLI for AI agents",
+        "fork": false,
+        "full_name": "vercel-labs/agent-browser",
+        "homepage": "https://agent-browser.dev",
+        "latest_release": "v0.42.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 583,
+        "primary_language": "Rust",
+        "pushed_at": "2026-11-11T15:14:13Z",
+        "readme_excerpt": "# agent-browser Browser automation for AI agents: open pages, read them as an accessibility tree, and act on elements from the shell. <p> <a href=\"https://vercel.com/labs#labs-products\"><img alt=\"Vercel Labs Product\" src=\"https://img.shields.io/badge/LABS-PRODUCT-0a0a0a.svg?style=for-the-badge&amp;logo=Vercel&amp;labelColor=000000\" height=\"28\"></a> <a href=\"https://www.npmjs.com/package/agent-browser\"><img alt=\"npm version: agent-browser\" src=\"https://img.shields.io/npm/v/agent-browser.svg?style",
+        "topics": [],
+        "updated_at": "2026-11-11T15:31:48Z"
+      },
+      "repo": {
+        "description": "Browser automation CLI for AI agents",
+        "forks": 3475,
+        "full_name": "vercel-labs/agent-browser",
+        "language": "Rust",
+        "name": "agent-browser",
+        "owner": "vercel-labs",
+        "rank": 6,
+        "stars_today": 712,
+        "total_stars": 49673,
+        "url": "https://github.com/vercel-labs/agent-browser"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.98,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 70.08
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Rust project with 712 stars today; score 70.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-09T16:20:32Z",
+        "default_branch": "main",
+        "description": "An open source design system that's fully customizable and agent ready",
+        "fork": false,
+        "full_name": "meta/astryx",
+        "homepage": "http://astryx.atmeta.com",
+        "latest_release": "v0.7.13",
+        "license_spdx": "MIT",
+        "open_issues": 661,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-11T15:30:30Z",
+        "readme_excerpt": "<!-- SYNC CONTRACT: Architecture changes require documentation updates. --> <div align=\"center\"> <img src=\"https://lookaside.facebook.com/assets/astryx/Astryx-Banner.png\" alt=\"Astryx\" width=\"100%\" /> # Astryx An open source design system that's fully customizable and built for how we build now: <br/> by people and the agents working alongside them. **Currently in Beta** \u00b7 Built on [React 19+](https://react.dev) and [StyleX](https://stylexjs.com) [![npm version](https://img.shields.io/npm/v/@astr",
+        "topics": [],
+        "updated_at": "2026-11-11T15:31:12Z"
+      },
+      "repo": {
+        "description": "An open source design system that's fully customizable and agent ready",
+        "forks": 1909,
+        "full_name": "meta/astryx",
+        "language": "TypeScript",
+        "name": "astryx",
+        "owner": "meta",
+        "rank": 1,
+        "stars_today": 2842,
+        "total_stars": 24427,
+        "url": "https://github.com/meta/astryx"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.9,
+        "technical_quality": 14.0,
+        "total": 68.73
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: TypeScript project with 2842 stars today; score 68.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-10T06:43:20Z",
+        "default_branch": "main",
+        "description": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "fork": false,
+        "full_name": "ZhuLinsen/daily_stock_analysis",
+        "homepage": "https://dsa.zhulinsen.tech",
+        "latest_release": "v3.34.0",
+        "license_spdx": "MIT",
+        "open_issues": 47,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-10T11:51:09Z",
+        "readme_excerpt": "<div align=\"center\"> # \ud83d\udcc8 \u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf [![GitHub stars](https://img.shields.io/github/stars/ZhuLinsen/daily_stock_analysis?style=social)](https://github.com/ZhuLinsen/daily_stock_analysis/stargazers) [![arXiv](https://img.shields.io/badge/arXiv-2608.26990-b31b1b.svg)](https://arxiv.org/abs/2608.26990) [![CI](https://github.com/ZhuLinsen/daily_stock_analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/ZhuLinsen/daily_stock_analysis/actions/workflows/ci.yml) [![License: MIT](https://img.shi",
+        "topics": [
+          "a-stock",
+          "ai-agent",
+          "aigc",
+          "llm",
+          "quant",
+          "quantitative-finance",
+          "quantitative-trading"
+        ],
+        "updated_at": "2026-11-11T15:32:25Z"
+      },
+      "repo": {
+        "description": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "forks": 56787,
+        "full_name": "ZhuLinsen/daily_stock_analysis",
+        "language": "Python",
+        "name": "daily_stock_analysis",
+        "owner": "ZhuLinsen",
+        "rank": 2,
+        "stars_today": 429,
+        "total_stars": 69937,
+        "url": "https://github.com/ZhuLinsen/daily_stock_analysis"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.72,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 65.32
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 429 stars today; score 65.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-07-23T04:13:55Z",
+        "default_branch": "main",
+        "description": "The personal finance app for everyone (by everyone)",
+        "fork": false,
+        "full_name": "we-promise/sure",
+        "homepage": "https://sure.am",
+        "latest_release": "v0.7.6",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 894,
+        "primary_language": "Ruby",
+        "pushed_at": "2026-11-11T15:10:43Z",
+        "readme_excerpt": "[![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-blue)](https://deepwiki.com/we-promise/sure) [![View performance data on Skylight](https://badges.skylight.io/typical/s6PEZSKwcklL.svg)](https://oss.skylight.io/app/applications/s6PEZSKwcklL) [![Dosu](https://raw.githubusercontent.com/dosu-ai/assets/main/dosu-badge.svg)](https://app.dosu.dev/a72bdcfd-15f5-4edc-bd85-ea0daa6c3adc/ask) [![Pipelock Security Scan](https://github.com/we-promise/sure/actions/workflows/pipelock.yml/badge.svg)](h",
+        "topics": [],
+        "updated_at": "2026-11-11T15:31:51Z"
+      },
+      "repo": {
+        "description": "The personal finance app for everyone (by everyone)",
+        "forks": 937,
+        "full_name": "we-promise/sure",
+        "language": "Ruby",
+        "name": "sure",
+        "owner": "we-promise",
+        "rank": 7,
+        "stars_today": 1079,
+        "total_stars": 12637,
+        "url": "https://github.com/we-promise/sure"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 5.93,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 57.53
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Ruby project with 1079 stars today; score 57.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-27T20:22:24Z",
+        "default_branch": "main",
+        "description": null,
+        "fork": false,
+        "full_name": "GoogleChrome/modern-web-guidance-src",
+        "homepage": "https://goo.gle/modern-web-guidance",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 362,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-11T13:07:29Z",
+        "readme_excerpt": "# <img src=\"./.github/img/modern-web-guidance.svg\" alt=\"Modern Web Guidance\" width=\"30\" height=\"30\"> Modern Web Guidance (Source) This repo is the source repository for [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) and includes the code and documentation for authoring, calibrating, and evaluating its contents. [**Modern Web Guidance**](https://developer.chrome.com/docs/modern-web-guidance) is a set of skills that embed web platform expertise, best practi",
+        "topics": [],
+        "updated_at": "2026-11-11T15:31:24Z"
+      },
+      "repo": {
+        "description": "",
+        "forks": 132,
+        "full_name": "GoogleChrome/modern-web-guidance-src",
+        "language": "TypeScript",
+        "name": "modern-web-guidance-src",
+        "owner": "GoogleChrome",
+        "rank": 3,
+        "stars_today": 133,
+        "total_stars": 1521,
+        "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 4.9,
+        "momentum": 3.71,
+        "novelty": 8.0,
+        "practical_usefulness": 8.6,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 53.46
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 133 stars today; score 53.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2016-07-16T10:21:02Z",
+        "default_branch": "master",
+        "description": "All Algorithms implemented in Java",
+        "fork": false,
+        "full_name": "TheAlgorithms/Java",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 28,
+        "primary_language": "Java",
+        "pushed_at": "2026-11-10T21:51:28Z",
+        "readme_excerpt": "# The Algorithms - Java [![Build](https://github.com/TheAlgorithms/Java/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/TheAlgorithms/Java/actions/workflows/build.yml) [![codecov](https://codecov.io/gh/TheAlgorithms/Java/graph/badge.svg?token=XAdPyqTIqR)](https://codecov.io/gh/TheAlgorithms/Java) [![Discord chat](https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA&style=flat-square)](https://discord.gg/c7MnfGFGa6) [![Gitpod ready-to-code](htt",
+        "topics": [
+          "algorithm",
+          "algorithm-challenges",
+          "algorithms",
+          "algorithms-datastructures",
+          "data-structures",
+          "hacktoberfest",
+          "java",
+          "search",
+          "sort",
+          "sorting-algorithms"
+        ],
+        "updated_at": "2026-11-11T15:29:09Z"
+      },
+      "repo": {
+        "description": "All Algorithms implemented in Java",
+        "forks": 21494,
+        "full_name": "TheAlgorithms/Java",
+        "language": "Java",
+        "name": "Java",
+        "owner": "TheAlgorithms",
+        "rank": 10,
+        "stars_today": 39,
+        "total_stars": 66911,
+        "url": "https://github.com/TheAlgorithms/Java"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.42,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 4.55,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 46.93
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Java project with 39 stars today; score 46.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/shadcn",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+        "forks": 431,
+        "full_name": "sponsors/shadcn",
+        "language": null,
+        "name": "shadcn",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 333,
+        "total_stars": 10557,
+        "url": "https://github.com/sponsors/shadcn"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.15,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.27,
+        "technical_quality": 3.5,
+        "total": 37.8
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Unknown project with 333 stars today; score 37.8/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-11-11",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is openai/codex-security."
+}
