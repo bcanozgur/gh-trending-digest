@@ -1,0 +1,32 @@
+GitHub Trending: AI workflow signal - 2026-11-12
+
+Today leans toward AI workflow signal; the strongest pick is QwenLM/qwen-code.
+
+Top picks
+1. QwenLM/qwen-code - 75.8/100
+   https://github.com/QwenLM/qwen-code
+   AI Workflow, DevTools: TypeScript project with 151 stars today; score 75.8/100.
+2. CopilotKit/OpenBot - 72.2/100
+   https://github.com/CopilotKit/OpenBot
+   AI Workflow, DevTools: TypeScript project with 291 stars today; score 72.2/100.
+3. Alishahryar1/free-claude-code - 68.9/100
+   https://github.com/Alishahryar1/free-claude-code
+   AI Workflow, DevTools: Python project with 461 stars today; score 68.9/100.
+4. ggml-org/llama.cpp - 64.5/100
+   https://github.com/ggml-org/llama.cpp
+   AI Workflow, Try Today: C++ project with 287 stars today; score 64.5/100.
+5. pookjw/HermesEnabler - 63.5/100
+   https://github.com/pookjw/HermesEnabler
+   AI Workflow, Try Today: Objective-C project with 390 stars today; score 63.5/100.
+
+Full reviewed list
+- QwenLM/qwen-code: 75.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 151 stars today; score 75.8/100.
+- CopilotKit/OpenBot: 72.2/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 291 stars today; score 72.2/100.
+- Alishahryar1/free-claude-code: 68.9/100 [AI Workflow, DevTools, Deep Dive] AI Workflow, DevTools: Python project with 461 stars today; score 68.9/100.
+- ggml-org/llama.cpp: 64.5/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: C++ project with 287 stars today; score 64.5/100.
+- pookjw/HermesEnabler: 63.5/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Objective-C project with 390 stars today; score 63.5/100.
+- nvm-sh/nvm: 49.3/100 [DevTools, Try Today] DevTools, Try Today: Shell project with 79 stars today; score 49.3/100.
+- sponsors/ashhart: 36.7/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Zig project with 58 stars today; score 36.7/100.
+- sponsors/nodejs: 17.7/100 [Watch, Hype Risk] Watch, Hype Risk: JavaScript project with 133 stars today; score 17.7/100.
+
+Generated for 2026-11-12 from GitHub Trending daily.
