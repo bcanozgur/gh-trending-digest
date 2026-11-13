@@ -1,0 +1,33 @@
+GitHub Trending: AI workflow signal - 2026-11-13
+
+Today leans toward AI workflow signal; the strongest pick is ChromeDevTools/chrome-devtools-mcp.
+
+Top picks
+1. ChromeDevTools/chrome-devtools-mcp - 79.8/100
+   https://github.com/ChromeDevTools/chrome-devtools-mcp
+   AI Workflow, DevTools: TypeScript project with 60 stars today; score 79.8/100.
+2. alibaba/open-code-review - 75.6/100
+   https://github.com/alibaba/open-code-review
+   AI Workflow, DevTools: Go project with 206 stars today; score 75.6/100.
+3. backnotprop/plannotator - 73.6/100
+   https://github.com/backnotprop/plannotator
+   AI Workflow, DevTools: TypeScript project with 100 stars today; score 73.6/100.
+4. block/buzz - 63.3/100
+   https://github.com/block/buzz
+   AI Workflow, Try Today: Rust project with 95 stars today; score 63.3/100.
+5. tradermonty/claude-trading-skills - 60.5/100
+   https://github.com/tradermonty/claude-trading-skills
+   AI Workflow, DevTools: Python project with 60 stars today; score 60.5/100.
+
+Full reviewed list
+- ChromeDevTools/chrome-devtools-mcp: 79.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 60 stars today; score 79.8/100.
+- alibaba/open-code-review: 75.6/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Go project with 206 stars today; score 75.6/100.
+- backnotprop/plannotator: 73.6/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 100 stars today; score 73.6/100.
+- block/buzz: 63.3/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Rust project with 95 stars today; score 63.3/100.
+- tradermonty/claude-trading-skills: 60.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 60 stars today; score 60.5/100.
+- tailscale/tailcat: 59.9/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Go project with 173 stars today; score 59.9/100.
+- Likely7/Veyra-NRVideo: 59.0/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: C++ project with 245 stars today; score 59.0/100.
+- sponsors/ZhuLinsen: 33.5/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Python project with 272 stars today; score 33.5/100.
+- sponsors/louislam: 22.6/100 [Watch, Hype Risk] Watch, Hype Risk: JavaScript project with 61 stars today; score 22.6/100.
+
+Generated for 2026-11-13 from GitHub Trending daily.

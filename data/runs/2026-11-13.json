@@ -1,0 +1,1115 @@
+{
+  "date": "2026-11-13",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-11T10:39:55Z",
+        "default_branch": "main",
+        "description": "Chrome DevTools for coding agents",
+        "fork": false,
+        "full_name": "ChromeDevTools/chrome-devtools-mcp",
+        "homepage": "https://developer.chrome.com/docs/devtools/agents",
+        "latest_release": "chrome-devtools-mcp-v1.13.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 115,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-13T14:33:27Z",
+        "readme_excerpt": "# Chrome DevTools for agents [![npm chrome-devtools-mcp package](https://img.shields.io/npm/v/chrome-devtools-mcp.svg)](https://npmjs.org/package/chrome-devtools-mcp) Chrome DevTools for agents (`chrome-devtools-mcp`) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It is available as a Model-Context-Protocol (MCP) server and as a [CLI][cli]. Both give your AI coding assistant access to the full power of Chrome DevTools for reliab",
+        "topics": [
+          "browser",
+          "chrome",
+          "chrome-devtools",
+          "debugging",
+          "devtools",
+          "mcp",
+          "mcp-server",
+          "puppeteer"
+        ],
+        "updated_at": "2026-11-13T15:36:35Z"
+      },
+      "repo": {
+        "description": "Chrome DevTools for coding agents",
+        "forks": 4608,
+        "full_name": "ChromeDevTools/chrome-devtools-mcp",
+        "language": "TypeScript",
+        "name": "chrome-devtools-mcp",
+        "owner": "ChromeDevTools",
+        "rank": 12,
+        "stars_today": 60,
+        "total_stars": 55291,
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.28,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 79.78
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 60 stars today; score 79.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-18T02:16:36Z",
+        "default_branch": "main",
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "fork": false,
+        "full_name": "alibaba/open-code-review",
+        "homepage": "https://open-codereview.ai",
+        "latest_release": "v1.13.9",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 336,
+        "primary_language": "Go",
+        "pushed_at": "2026-11-13T09:11:45Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://open-codereview.ai\"> <img src=\"imgs/logo-core.svg\" alt=\"OpenCodeReview logo\" width=\"180\" /> </a> <h1>OpenCodeReview</h1> </div> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/41087?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-41087\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://trendshift.io/api/badge/repositories/41087\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; hei",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "code-review",
+          "code-review-assistant",
+          "harness",
+          "repository-level-context"
+        ],
+        "updated_at": "2026-11-13T15:36:12Z"
+      },
+      "repo": {
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "forks": 3737,
+        "full_name": "alibaba/open-code-review",
+        "language": "Go",
+        "name": "open-code-review",
+        "owner": "alibaba",
+        "rank": 1,
+        "stars_today": 206,
+        "total_stars": 50307,
+        "url": "https://github.com/alibaba/open-code-review"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.52,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 75.57
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 206 stars today; score 75.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-12-28T02:09:40Z",
+        "default_branch": "main",
+        "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+        "fork": false,
+        "full_name": "backnotprop/plannotator",
+        "homepage": "https://plannotator.ai",
+        "latest_release": "v0.28.63",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 199,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-13T15:35:45Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\".github/assets/banner.webp\" alt=\"Plannotator\" width=\"640\" /> </p> <p align=\"center\"> <strong>Everything you need to annotate and stay in the loop with your agents</strong><br/> <strong>Inbox Surface \u2022 Artifacts \u2022 Code Review</strong><br/> <sub>Annotate plans, specs, markdown, HTML, and other interactive artifacts. Review diffs and PRs. Send feedback to your agent.</sub> </p> <p align=\"center\"> <img src=\".github/assets/icons/amp.svg\" alt=\"Amp\" title=\"Amp\" height=\"28\" ",
+        "topics": [
+          "agents",
+          "claude-code",
+          "code-review",
+          "codex",
+          "obsidian",
+          "opencode",
+          "pi-mono",
+          "plan-mode",
+          "skills"
+        ],
+        "updated_at": "2026-11-13T15:37:21Z"
+      },
+      "repo": {
+        "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+        "forks": 781,
+        "full_name": "backnotprop/plannotator",
+        "language": "TypeScript",
+        "name": "plannotator",
+        "owner": "backnotprop",
+        "rank": 6,
+        "stars_today": 100,
+        "total_stars": 10322,
+        "url": "https://github.com/backnotprop/plannotator"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.33,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 73.63
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 100 stars today; score 73.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-06T21:00:56Z",
+        "default_branch": "main",
+        "description": "A hive mind communication platform",
+        "fork": false,
+        "full_name": "block/buzz",
+        "homepage": null,
+        "latest_release": "desktop-v0.5.28",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 3846,
+        "primary_language": "Rust",
+        "pushed_at": "2026-11-13T15:36:02Z",
+        "readme_excerpt": "<h1 align=\"center\">Buzz \ud83d\udc1d</h1> <p align=\"center\"> <strong>A workspace where humans and agents build together, on a relay you own.</strong> </p> <p align=\"center\"> <a href=\"VISION.md\">Vision</a> \u00b7 <a href=\"VISION_SOVEREIGN.md\">Sovereign</a> \u00b7 <a href=\"VISION_PROJECTS.md\">Forge</a> \u00b7 <a href=\"VISION_AGENT.md\">Agents</a> \u00b7 <a href=\"ARCHITECTURE.md\">Architecture</a> \u00b7 <a href=\"RELEASING.md\">Releasing</a> \u00b7 <a href=\"LICENSE\">Apache 2.0</a> </p> > [!NOTE] > **Buzz 1.0 is at [block/buzz-app](https://gi",
+        "topics": [],
+        "updated_at": "2026-11-13T15:33:49Z"
+      },
+      "repo": {
+        "description": "A hive mind communication platform",
+        "forks": 4932,
+        "full_name": "block/buzz",
+        "language": "Rust",
+        "name": "buzz",
+        "owner": "block",
+        "rank": 8,
+        "stars_today": 95,
+        "total_stars": 37204,
+        "url": "https://github.com/block/buzz"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.02,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.27
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 95 stars today; score 63.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-19T16:37:29Z",
+        "default_branch": "main",
+        "description": "Claude Code skills for equity investors and traders \u2014 market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+        "fork": false,
+        "full_name": "tradermonty/claude-trading-skills",
+        "homepage": "https://tradermonty.github.io/claude-trading-skills/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 72,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-13T15:18:14Z",
+        "readme_excerpt": "# Claude Trading Skills Claude Trading Skills started as a personal project to use AI to improve my own trading process. Claude Trading Skills is a Claude Skills-based trading workflow toolkit for time-constrained individual investors. It is designed for investors who use long-term investing, ETFs, and dividend stocks as their core, while using disciplined swing trading as a satellite strategy when market conditions are favorable. The goal is not to outsource buy/sell decisions to AI. The goal i",
+        "topics": [],
+        "updated_at": "2026-11-13T15:33:29Z"
+      },
+      "repo": {
+        "description": "Claude Code skills for equity investors and traders \u2014 market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+        "forks": 850,
+        "full_name": "tradermonty/claude-trading-skills",
+        "language": "Python",
+        "name": "claude-trading-skills",
+        "owner": "tradermonty",
+        "rank": 9,
+        "stars_today": 60,
+        "total_stars": 3965,
+        "url": "https://github.com/tradermonty/claude-trading-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.72,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 60.52
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 60 stars today; score 60.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-10-29T17:21:12Z",
+        "default_branch": "main",
+        "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+        "fork": false,
+        "full_name": "tailscale/tailcat",
+        "homepage": "https://tailscale.com/tailcat",
+        "latest_release": "v0.7.0",
+        "license_spdx": "BSD-3-Clause",
+        "open_issues": 41,
+        "primary_language": "Go",
+        "pushed_at": "2026-11-05T15:10:23Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"tailcat.png\" alt=\"Tailcat\" width=\"149\" height=\"176\"> </p> <p align=\"center\"><em>\"Tailscale without Tailscale, by Tailscale\"</em></p> <p align=\"center\"> <a href=\"https://pkg.go.dev/github.com/tailscale/tailcat\"><img src=\"https://pkg.go.dev/badge/github.com/tailscale/tailcat.svg\" alt=\"Go Reference\"></a> <a href=\"https://bsky.app/profile/tailcat.dev\"><img src=\"https://img.shields.io/badge/Bluesky-@tailcat.dev-0285FF?logo=bluesky&logoColor=white\" alt=\"Follow @tailcat.dev",
+        "topics": [],
+        "updated_at": "2026-11-13T15:31:16Z"
+      },
+      "repo": {
+        "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+        "forks": 427,
+        "full_name": "tailscale/tailcat",
+        "language": "Go",
+        "name": "tailcat",
+        "owner": "tailscale",
+        "rank": 10,
+        "stars_today": 173,
+        "total_stars": 9280,
+        "url": "https://github.com/tailscale/tailcat"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.08,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.88
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Go project with 173 stars today; score 59.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-09-09T10:58:42Z",
+        "default_branch": "main",
+        "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+        "fork": false,
+        "full_name": "Likely7/Veyra-NRVideo",
+        "homepage": null,
+        "latest_release": "v2.1.5",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 59,
+        "primary_language": "C++",
+        "pushed_at": "2026-11-11T16:43:44Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"assets/veyra-app-icon.png\" alt=\"Veyra\" width=\"140\"> # Veyra ### Real-time GPU Video Enhancement for Windows **Super Resolution \u00b7 Denoising \u00b7 HDR \u00b7 Frame Generation \u00b7 Capture \u00b7 PS5 / Xbox / PC Streaming** Turn local video, capture cards and game streaming into one real-time GPU enhancement pipeline. <br> [![GitHub Stars](https://img.shields.io/github/stars/Likely7/Veyra-NRVideo?style=for-the-badge&logo=github&label=Stars)](https://github.com/Likely7/Veyra-NRVideo/st",
+        "topics": [],
+        "updated_at": "2026-11-13T15:32:10Z"
+      },
+      "repo": {
+        "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+        "forks": 66,
+        "full_name": "Likely7/Veyra-NRVideo",
+        "language": "C++",
+        "name": "Veyra-NRVideo",
+        "owner": "Likely7",
+        "rank": 11,
+        "stars_today": 245,
+        "total_stars": 1482,
+        "url": "https://github.com/Likely7/Veyra-NRVideo"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.26,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.01
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: C++ project with 245 stars today; score 59.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/ZhuLinsen",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "forks": 57239,
+        "full_name": "sponsors/ZhuLinsen",
+        "language": "Python",
+        "name": "ZhuLinsen",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 272,
+        "total_stars": 71365,
+        "url": "https://github.com/sponsors/ZhuLinsen"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.39,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 33.54
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 272 stars today; score 33.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/louislam",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A fancy self-hosted monitoring tool",
+        "forks": 8712,
+        "full_name": "sponsors/louislam",
+        "language": "JavaScript",
+        "name": "louislam",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 61,
+        "total_stars": 93690,
+        "url": "https://github.com/sponsors/louislam"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.01,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.23,
+        "technical_quality": 3.5,
+        "total": 22.64
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: JavaScript project with 61 stars today; score 22.6/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-13T22:00:13Z",
+        "default_branch": "main",
+        "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+        "fork": false,
+        "full_name": "openai/codex-security",
+        "homepage": "https://developers.openai.com/codex/security",
+        "latest_release": "npm-v0.10.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 156,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-13T14:52:10Z",
+        "readme_excerpt": "# Codex Security Codex Security helps you find, investigate, and fix vulnerabilities in your code. Use its security workflows in Codex, or automate them with the `@openai/codex-security` CLI and TypeScript SDK. - **In Codex:** [choose a security workflow](docs/agent-workflows.md). - **In a terminal:** [install the CLI and scan your repository](#quick-start). - **In automation:** use the [TypeScript SDK](#typescript-sdk) or [GitHub Action](#github-actions). ## Features - Scan repositories, select",
+        "topics": [
+          "ai-security",
+          "application-security",
+          "cli",
+          "code-scanning",
+          "codex",
+          "codex-security",
+          "cybersecurity",
+          "devsecops",
+          "nodejs",
+          "npm",
+          "openai",
+          "sdk",
+          "security",
+          "typescript",
+          "vulnerability-scanning"
+        ],
+        "updated_at": "2026-11-13T15:36:27Z"
+      },
+      "repo": {
+        "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+        "forks": 1009,
+        "full_name": "openai/codex-security",
+        "language": "TypeScript",
+        "name": "codex-security",
+        "owner": "openai",
+        "rank": 3,
+        "stars_today": 754,
+        "total_stars": 12910,
+        "url": "https://github.com/openai/codex-security"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 6.69,
+        "novelty": 2.8,
+        "practical_usefulness": 19.4,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 83.85
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 754 stars today; score 83.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-09-11T10:39:55Z",
+        "default_branch": "main",
+        "description": "Chrome DevTools for coding agents",
+        "fork": false,
+        "full_name": "ChromeDevTools/chrome-devtools-mcp",
+        "homepage": "https://developer.chrome.com/docs/devtools/agents",
+        "latest_release": "chrome-devtools-mcp-v1.13.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 115,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-13T14:33:27Z",
+        "readme_excerpt": "# Chrome DevTools for agents [![npm chrome-devtools-mcp package](https://img.shields.io/npm/v/chrome-devtools-mcp.svg)](https://npmjs.org/package/chrome-devtools-mcp) Chrome DevTools for agents (`chrome-devtools-mcp`) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It is available as a Model-Context-Protocol (MCP) server and as a [CLI][cli]. Both give your AI coding assistant access to the full power of Chrome DevTools for reliab",
+        "topics": [
+          "browser",
+          "chrome",
+          "chrome-devtools",
+          "debugging",
+          "devtools",
+          "mcp",
+          "mcp-server",
+          "puppeteer"
+        ],
+        "updated_at": "2026-11-13T15:36:35Z"
+      },
+      "repo": {
+        "description": "Chrome DevTools for coding agents",
+        "forks": 4608,
+        "full_name": "ChromeDevTools/chrome-devtools-mcp",
+        "language": "TypeScript",
+        "name": "chrome-devtools-mcp",
+        "owner": "ChromeDevTools",
+        "rank": 12,
+        "stars_today": 60,
+        "total_stars": 55291,
+        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.28,
+        "novelty": 8.0,
+        "practical_usefulness": 15.8,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 79.78
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 60 stars today; score 79.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-18T02:16:36Z",
+        "default_branch": "main",
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "fork": false,
+        "full_name": "alibaba/open-code-review",
+        "homepage": "https://open-codereview.ai",
+        "latest_release": "v1.13.9",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 336,
+        "primary_language": "Go",
+        "pushed_at": "2026-11-13T09:11:45Z",
+        "readme_excerpt": "<div align=\"center\"> <a href=\"https://open-codereview.ai\"> <img src=\"imgs/logo-core.svg\" alt=\"OpenCodeReview logo\" width=\"180\" /> </a> <h1>OpenCodeReview</h1> </div> <p align=\"center\"> <a href=\"https://trendshift.io/repositories/41087?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-41087\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://trendshift.io/api/badge/repositories/41087\" alt=\"alibaba%2Fopen-code-review | Trendshift\" style=\"width: 280px; hei",
+        "topics": [
+          "agent",
+          "agent-skills",
+          "code-review",
+          "code-review-assistant",
+          "harness",
+          "repository-level-context"
+        ],
+        "updated_at": "2026-11-13T15:36:12Z"
+      },
+      "repo": {
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "forks": 3737,
+        "full_name": "alibaba/open-code-review",
+        "language": "Go",
+        "name": "open-code-review",
+        "owner": "alibaba",
+        "rank": 1,
+        "stars_today": 206,
+        "total_stars": 50307,
+        "url": "https://github.com/alibaba/open-code-review"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.52,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 75.57
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 206 stars today; score 75.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-12-28T02:09:40Z",
+        "default_branch": "main",
+        "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+        "fork": false,
+        "full_name": "backnotprop/plannotator",
+        "homepage": "https://plannotator.ai",
+        "latest_release": "v0.28.63",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 199,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-13T15:35:45Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\".github/assets/banner.webp\" alt=\"Plannotator\" width=\"640\" /> </p> <p align=\"center\"> <strong>Everything you need to annotate and stay in the loop with your agents</strong><br/> <strong>Inbox Surface \u2022 Artifacts \u2022 Code Review</strong><br/> <sub>Annotate plans, specs, markdown, HTML, and other interactive artifacts. Review diffs and PRs. Send feedback to your agent.</sub> </p> <p align=\"center\"> <img src=\".github/assets/icons/amp.svg\" alt=\"Amp\" title=\"Amp\" height=\"28\" ",
+        "topics": [
+          "agents",
+          "claude-code",
+          "code-review",
+          "codex",
+          "obsidian",
+          "opencode",
+          "pi-mono",
+          "plan-mode",
+          "skills"
+        ],
+        "updated_at": "2026-11-13T15:37:21Z"
+      },
+      "repo": {
+        "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+        "forks": 781,
+        "full_name": "backnotprop/plannotator",
+        "language": "TypeScript",
+        "name": "plannotator",
+        "owner": "backnotprop",
+        "rank": 6,
+        "stars_today": 100,
+        "total_stars": 10322,
+        "url": "https://github.com/backnotprop/plannotator"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.33,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 73.63
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 100 stars today; score 73.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-27T20:22:24Z",
+        "default_branch": "main",
+        "description": "Keep your coding agent up to date with the latest web best practices",
+        "fork": false,
+        "full_name": "GoogleChrome/modern-web-guidance-src",
+        "homepage": "https://goo.gle/modern-web-guidance",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 391,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-13T14:41:36Z",
+        "readme_excerpt": "# <img src=\"./.github/img/modern-web-guidance.svg\" alt=\"Modern Web Guidance\" width=\"30\" height=\"30\"> Modern Web Guidance (Source) This repo is the source repository for [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) and includes the code and documentation for authoring, calibrating, and evaluating its contents. [**Modern Web Guidance**](https://developer.chrome.com/docs/modern-web-guidance) is a set of skills that embed web platform expertise, best practi",
+        "topics": [],
+        "updated_at": "2026-11-13T15:37:18Z"
+      },
+      "repo": {
+        "description": "Keep your coding agent up to date with the latest web best practices",
+        "forks": 249,
+        "full_name": "GoogleChrome/modern-web-guidance-src",
+        "language": "TypeScript",
+        "name": "modern-web-guidance-src",
+        "owner": "GoogleChrome",
+        "rank": 2,
+        "stars_today": 1875,
+        "total_stars": 4392,
+        "url": "https://github.com/GoogleChrome/modern-web-guidance-src"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 11.86,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.84,
+        "technical_quality": 11.9,
+        "total": 65.03
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 1875 stars today; score 65.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-06T21:00:56Z",
+        "default_branch": "main",
+        "description": "A hive mind communication platform",
+        "fork": false,
+        "full_name": "block/buzz",
+        "homepage": null,
+        "latest_release": "desktop-v0.5.28",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 3846,
+        "primary_language": "Rust",
+        "pushed_at": "2026-11-13T15:36:02Z",
+        "readme_excerpt": "<h1 align=\"center\">Buzz \ud83d\udc1d</h1> <p align=\"center\"> <strong>A workspace where humans and agents build together, on a relay you own.</strong> </p> <p align=\"center\"> <a href=\"VISION.md\">Vision</a> \u00b7 <a href=\"VISION_SOVEREIGN.md\">Sovereign</a> \u00b7 <a href=\"VISION_PROJECTS.md\">Forge</a> \u00b7 <a href=\"VISION_AGENT.md\">Agents</a> \u00b7 <a href=\"ARCHITECTURE.md\">Architecture</a> \u00b7 <a href=\"RELEASING.md\">Releasing</a> \u00b7 <a href=\"LICENSE\">Apache 2.0</a> </p> > [!NOTE] > **Buzz 1.0 is at [block/buzz-app](https://gi",
+        "topics": [],
+        "updated_at": "2026-11-13T15:33:49Z"
+      },
+      "repo": {
+        "description": "A hive mind communication platform",
+        "forks": 4932,
+        "full_name": "block/buzz",
+        "language": "Rust",
+        "name": "buzz",
+        "owner": "block",
+        "rank": 8,
+        "stars_today": 95,
+        "total_stars": 37204,
+        "url": "https://github.com/block/buzz"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.02,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 63.27
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Rust project with 95 stars today; score 63.3/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-10-19T16:37:29Z",
+        "default_branch": "main",
+        "description": "Claude Code skills for equity investors and traders \u2014 market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+        "fork": false,
+        "full_name": "tradermonty/claude-trading-skills",
+        "homepage": "https://tradermonty.github.io/claude-trading-skills/",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 72,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-13T15:18:14Z",
+        "readme_excerpt": "# Claude Trading Skills Claude Trading Skills started as a personal project to use AI to improve my own trading process. Claude Trading Skills is a Claude Skills-based trading workflow toolkit for time-constrained individual investors. It is designed for investors who use long-term investing, ETFs, and dividend stocks as their core, while using disciplined swing trading as a satellite strategy when market conditions are favorable. The goal is not to outsource buy/sell decisions to AI. The goal i",
+        "topics": [],
+        "updated_at": "2026-11-13T15:33:29Z"
+      },
+      "repo": {
+        "description": "Claude Code skills for equity investors and traders \u2014 market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+        "forks": 850,
+        "full_name": "tradermonty/claude-trading-skills",
+        "language": "Python",
+        "name": "claude-trading-skills",
+        "owner": "tradermonty",
+        "rank": 9,
+        "stars_today": 60,
+        "total_stars": 3965,
+        "url": "https://github.com/tradermonty/claude-trading-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.72,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 60.52
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 60 stars today; score 60.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-10-29T17:21:12Z",
+        "default_branch": "main",
+        "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+        "fork": false,
+        "full_name": "tailscale/tailcat",
+        "homepage": "https://tailscale.com/tailcat",
+        "latest_release": "v0.7.0",
+        "license_spdx": "BSD-3-Clause",
+        "open_issues": 41,
+        "primary_language": "Go",
+        "pushed_at": "2026-11-05T15:10:23Z",
+        "readme_excerpt": "<p align=\"center\"> <img src=\"tailcat.png\" alt=\"Tailcat\" width=\"149\" height=\"176\"> </p> <p align=\"center\"><em>\"Tailscale without Tailscale, by Tailscale\"</em></p> <p align=\"center\"> <a href=\"https://pkg.go.dev/github.com/tailscale/tailcat\"><img src=\"https://pkg.go.dev/badge/github.com/tailscale/tailcat.svg\" alt=\"Go Reference\"></a> <a href=\"https://bsky.app/profile/tailcat.dev\"><img src=\"https://img.shields.io/badge/Bluesky-@tailcat.dev-0285FF?logo=bluesky&logoColor=white\" alt=\"Follow @tailcat.dev",
+        "topics": [],
+        "updated_at": "2026-11-13T15:31:16Z"
+      },
+      "repo": {
+        "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+        "forks": 427,
+        "full_name": "tailscale/tailcat",
+        "language": "Go",
+        "name": "tailcat",
+        "owner": "tailscale",
+        "rank": 10,
+        "stars_today": 173,
+        "total_stars": 9280,
+        "url": "https://github.com/tailscale/tailcat"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.08,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.88
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Go project with 173 stars today; score 59.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-09-09T10:58:42Z",
+        "default_branch": "main",
+        "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+        "fork": false,
+        "full_name": "Likely7/Veyra-NRVideo",
+        "homepage": null,
+        "latest_release": "v2.1.5",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 59,
+        "primary_language": "C++",
+        "pushed_at": "2026-11-11T16:43:44Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"assets/veyra-app-icon.png\" alt=\"Veyra\" width=\"140\"> # Veyra ### Real-time GPU Video Enhancement for Windows **Super Resolution \u00b7 Denoising \u00b7 HDR \u00b7 Frame Generation \u00b7 Capture \u00b7 PS5 / Xbox / PC Streaming** Turn local video, capture cards and game streaming into one real-time GPU enhancement pipeline. <br> [![GitHub Stars](https://img.shields.io/github/stars/Likely7/Veyra-NRVideo?style=for-the-badge&logo=github&label=Stars)](https://github.com/Likely7/Veyra-NRVideo/st",
+        "topics": [],
+        "updated_at": "2026-11-13T15:32:10Z"
+      },
+      "repo": {
+        "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+        "forks": 66,
+        "full_name": "Likely7/Veyra-NRVideo",
+        "language": "C++",
+        "name": "Veyra-NRVideo",
+        "owner": "Likely7",
+        "rank": 11,
+        "stars_today": 245,
+        "total_stars": 1482,
+        "url": "https://github.com/Likely7/Veyra-NRVideo"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.26,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.01
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: C++ project with 245 stars today; score 59.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-07-23T04:13:55Z",
+        "default_branch": "main",
+        "description": "The personal finance app for everyone (by everyone)",
+        "fork": false,
+        "full_name": "we-promise/sure",
+        "homepage": "https://sure.am",
+        "latest_release": "v0.7.6-hotfix.1",
+        "license_spdx": "AGPL-3.0",
+        "open_issues": 918,
+        "primary_language": "Ruby",
+        "pushed_at": "2026-11-13T13:24:53Z",
+        "readme_excerpt": "[![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-blue)](https://deepwiki.com/we-promise/sure) [![View performance data on Skylight](https://badges.skylight.io/typical/s6PEZSKwcklL.svg)](https://oss.skylight.io/app/applications/s6PEZSKwcklL) [![Dosu](https://raw.githubusercontent.com/dosu-ai/assets/main/dosu-badge.svg)](https://app.dosu.dev/a72bdcfd-15f5-4edc-bd85-ea0daa6c3adc/ask) [![Pipelock Security Scan](https://github.com/we-promise/sure/actions/workflows/pipelock.yml/badge.svg)](h",
+        "topics": [],
+        "updated_at": "2026-11-13T15:36:36Z"
+      },
+      "repo": {
+        "description": "The personal finance app for everyone (by everyone)",
+        "forks": 1092,
+        "full_name": "we-promise/sure",
+        "language": "Ruby",
+        "name": "sure",
+        "owner": "we-promise",
+        "rank": 5,
+        "stars_today": 944,
+        "total_stars": 14466,
+        "url": "https://github.com/we-promise/sure"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.25,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 58.85
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Ruby project with 944 stars today; score 58.9/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/ZhuLinsen",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "LLM \u9a71\u52a8\u7684\u591a\u5e02\u573a\u80a1\u7968\u667a\u80fd\u5206\u6790\u7cfb\u7edf\uff1a\u591a\u6e90\u884c\u60c5\u3001\u5b9e\u65f6\u65b0\u95fb\u3001\u51b3\u7b56\u770b\u677f\u4e0e\u81ea\u52a8\u63a8\u9001\uff0c\u652f\u6301\u96f6\u6210\u672c\u5b9a\u65f6\u8fd0\u884c\u3002 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "forks": 57239,
+        "full_name": "sponsors/ZhuLinsen",
+        "language": "Python",
+        "name": "ZhuLinsen",
+        "owner": "sponsors",
+        "rank": 4,
+        "stars_today": 272,
+        "total_stars": 71365,
+        "url": "https://github.com/sponsors/ZhuLinsen"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.39,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 33.54
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 272 stars today; score 33.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/louislam",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A fancy self-hosted monitoring tool",
+        "forks": 8712,
+        "full_name": "sponsors/louislam",
+        "language": "JavaScript",
+        "name": "louislam",
+        "owner": "sponsors",
+        "rank": 7,
+        "stars_today": 61,
+        "total_stars": 93690,
+        "url": "https://github.com/sponsors/louislam"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 3.01,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.23,
+        "technical_quality": 3.5,
+        "total": 22.64
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: JavaScript project with 61 stars today; score 22.6/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-11-13",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is ChromeDevTools/chrome-devtools-mcp."
+}
