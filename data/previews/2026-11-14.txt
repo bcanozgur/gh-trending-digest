@@ -1,0 +1,30 @@
+GitHub Trending: AI workflow signal - 2026-11-14
+
+Today leans toward AI workflow signal; the strongest pick is Tencent/LoopForge.
+
+Top picks
+1. Tencent/LoopForge - 72.4/100
+   https://github.com/Tencent/LoopForge
+   AI Workflow, DevTools: Go project with 174 stars today; score 72.4/100.
+2. dream-num/univer - 71.9/100
+   https://github.com/dream-num/univer
+   AI Workflow, DevTools: TypeScript project with 495 stars today; score 71.9/100.
+3. ag-ui-protocol/ag-ui - 68.5/100
+   https://github.com/ag-ui-protocol/ag-ui
+   AI Workflow, DevTools: TypeScript project with 9 stars today; score 68.5/100.
+4. martin-olivier/airgorah - 65.8/100
+   https://github.com/martin-olivier/airgorah
+   AI Workflow, Try Today: Rust project with 269 stars today; score 65.8/100.
+5. sponsors/JuliusBrussee - 37.5/100
+   https://github.com/sponsors/JuliusBrussee
+   AI Workflow, Watch: Go project with 227 stars today; score 37.5/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- Tencent/LoopForge: 72.4/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Go project with 174 stars today; score 72.4/100.
+- dream-num/univer: 71.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 495 stars today; score 71.9/100.
+- ag-ui-protocol/ag-ui: 68.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 9 stars today; score 68.5/100.
+- martin-olivier/airgorah: 65.8/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Rust project with 269 stars today; score 65.8/100.
+- sponsors/JuliusBrussee: 37.5/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Go project with 227 stars today; score 37.5/100.
+
+Generated for 2026-11-14 from GitHub Trending daily.
