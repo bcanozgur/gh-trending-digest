@@ -1,0 +1,26 @@
+GitHub Trending: AI workflow signal - 2026-11-15
+
+Today leans toward AI workflow signal; the strongest pick is google-labs-code/stitch-skills.
+
+Top picks
+1. google-labs-code/stitch-skills - 78.1/100
+   https://github.com/google-labs-code/stitch-skills
+   AI Workflow, DevTools: TypeScript project with 248 stars today; score 78.1/100.
+2. NVIDIA/SkillEvaluator - 74.0/100
+   https://github.com/NVIDIA/SkillEvaluator
+   AI Workflow, DevTools: Python project with 133 stars today; score 74.0/100.
+3. ggml-org/ggml - 52.7/100
+   https://github.com/ggml-org/ggml
+   DevTools, Try Today: C++ project with 154 stars today; score 52.7/100.
+4. sponsors/elementalsouls - 32.5/100
+   https://github.com/sponsors/elementalsouls
+   AI Workflow, Watch: Python project with 124 stars today; score 32.5/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- google-labs-code/stitch-skills: 78.1/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 248 stars today; score 78.1/100.
+- NVIDIA/SkillEvaluator: 74.0/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 133 stars today; score 74.0/100.
+- ggml-org/ggml: 52.7/100 [DevTools, Try Today] DevTools, Try Today: C++ project with 154 stars today; score 52.7/100.
+- sponsors/elementalsouls: 32.5/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Python project with 124 stars today; score 32.5/100.
+
+Generated for 2026-11-15 from GitHub Trending daily.
