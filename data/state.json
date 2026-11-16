@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-11-15",
+  "last_run": "2026-11-16",
   "repos": {
     "AgriciDaniel/claude-seo": {
       "first_seen": "2026-10-25",
@@ -21,12 +21,12 @@
     },
     "ChromeDevTools/chrome-devtools-mcp": {
       "first_seen": "2026-11-13",
-      "last_rank": 5,
-      "last_score": 80.27,
-      "last_seen": "2026-11-15",
+      "last_rank": 12,
+      "last_score": 78.06,
+      "last_seen": "2026-11-16",
       "last_sent": "2026-11-13",
-      "last_stars_today": 718,
-      "last_total_stars": 56679
+      "last_stars_today": 837,
+      "last_total_stars": 57548
     },
     "Comfy-Org/ComfyUI": {
       "first_seen": "2026-10-18",
@@ -54,6 +54,15 @@
       "last_sent": "2026-11-12",
       "last_stars_today": 291,
       "last_total_stars": 11352
+    },
+    "DeanChensj/jiangshan-map": {
+      "first_seen": "2026-11-16",
+      "last_rank": 6,
+      "last_score": 51.9,
+      "last_seen": "2026-11-16",
+      "last_sent": "2026-11-16",
+      "last_stars_today": 285,
+      "last_total_stars": 6624
     },
     "FareedKhan-dev/kimi-k3-in-c": {
       "first_seen": "2026-11-04",
@@ -174,12 +183,12 @@
     },
     "NVIDIA/SkillEvaluator": {
       "first_seen": "2026-11-15",
-      "last_rank": 12,
-      "last_score": 73.98,
-      "last_seen": "2026-11-15",
+      "last_rank": 9,
+      "last_score": 72.56,
+      "last_seen": "2026-11-16",
       "last_sent": "2026-11-15",
-      "last_stars_today": 133,
-      "last_total_stars": 1356
+      "last_stars_today": 953,
+      "last_total_stars": 2434
     },
     "NVIDIA/SkillSpector": {
       "first_seen": "2026-10-26",
@@ -354,12 +363,12 @@
     },
     "ag-ui-protocol/ag-ui": {
       "first_seen": "2026-11-14",
-      "last_rank": 2,
-      "last_score": 66.76,
-      "last_seen": "2026-11-15",
+      "last_rank": 1,
+      "last_score": 67.73,
+      "last_seen": "2026-11-16",
       "last_sent": "2026-11-14",
-      "last_stars_today": 393,
-      "last_total_stars": 17613
+      "last_stars_today": 790,
+      "last_total_stars": 18661
     },
     "akitaonrails/ai-memory": {
       "first_seen": "2026-09-21",
@@ -381,21 +390,12 @@
     },
     "alibaba/open-code-review": {
       "first_seen": "2026-11-13",
-      "last_rank": 6,
-      "last_score": 73.47,
-      "last_seen": "2026-11-15",
-      "last_sent": "2026-11-13",
-      "last_stars_today": 688,
-      "last_total_stars": 51770
-    },
-    "android/skills": {
-      "first_seen": "2026-10-16",
       "last_rank": 10,
-      "last_score": 64.25,
-      "last_seen": "2026-10-18",
-      "last_sent": "2026-10-16",
-      "last_stars_today": 381,
-      "last_total_stars": 8601
+      "last_score": 72.39,
+      "last_seen": "2026-11-16",
+      "last_sent": "2026-11-13",
+      "last_stars_today": 946,
+      "last_total_stars": 52795
     },
     "angular/angular": {
       "first_seen": "2026-11-06",
@@ -414,15 +414,6 @@
       "last_sent": "2026-10-17",
       "last_stars_today": 167,
       "last_total_stars": 152428
-    },
-    "anthropics/claude-plugins-official": {
-      "first_seen": "2026-08-26",
-      "last_rank": 2,
-      "last_score": 67.85,
-      "last_seen": "2026-10-18",
-      "last_sent": "2026-10-15",
-      "last_stars_today": 1187,
-      "last_total_stars": 42280
     },
     "anthropics/claude-quickstarts": {
       "first_seen": "2026-11-08",
@@ -471,12 +462,12 @@
     },
     "backnotprop/plannotator": {
       "first_seen": "2026-11-13",
-      "last_rank": 4,
-      "last_score": 74.19,
-      "last_seen": "2026-11-15",
+      "last_rank": 2,
+      "last_score": 71.64,
+      "last_seen": "2026-11-16",
       "last_sent": "2026-11-13",
-      "last_stars_today": 860,
-      "last_total_stars": 11630
+      "last_stars_today": 689,
+      "last_total_stars": 12375
     },
     "beenuar/AiSOC": {
       "first_seen": "2026-11-01",
@@ -505,23 +496,14 @@
       "last_stars_today": 2088,
       "last_total_stars": 64985
     },
-    "cursor/plugins": {
-      "first_seen": "2026-10-01",
-      "last_rank": 4,
-      "last_score": 45.47,
-      "last_seen": "2026-10-18",
-      "last_sent": "2026-10-16",
-      "last_stars_today": 351,
-      "last_total_stars": 12506
-    },
     "dream-num/univer": {
       "first_seen": "2026-11-14",
-      "last_rank": 1,
-      "last_score": 71.37,
-      "last_seen": "2026-11-15",
+      "last_rank": 3,
+      "last_score": 72.31,
+      "last_seen": "2026-11-16",
       "last_sent": "2026-11-14",
-      "last_stars_today": 1041,
-      "last_total_stars": 25300
+      "last_stars_today": 1878,
+      "last_total_stars": 27630
     },
     "dsx-ai-factory/nvke": {
       "first_seen": "2026-11-07",
@@ -576,6 +558,15 @@
       "last_sent": "2026-11-04",
       "last_stars_today": 608,
       "last_total_stars": 139738
+    },
+    "getarcaneapp/arcane": {
+      "first_seen": "2026-11-16",
+      "last_rank": 5,
+      "last_score": 62.75,
+      "last_seen": "2026-11-16",
+      "last_sent": "2026-11-16",
+      "last_stars_today": 31,
+      "last_total_stars": 8540
     },
     "ggml-org/ggml": {
       "first_seen": "2026-11-15",
@@ -633,12 +624,21 @@
     },
     "google-labs-code/stitch-skills": {
       "first_seen": "2026-11-15",
-      "last_rank": 3,
-      "last_score": 78.11,
-      "last_seen": "2026-11-15",
+      "last_rank": 7,
+      "last_score": 73.04,
+      "last_seen": "2026-11-16",
       "last_sent": "2026-11-15",
-      "last_stars_today": 248,
-      "last_total_stars": 9091
+      "last_stars_today": 540,
+      "last_total_stars": 9655
+    },
+    "google-research/paper-orchestra": {
+      "first_seen": "2026-11-16",
+      "last_rank": 11,
+      "last_score": 61.33,
+      "last_seen": "2026-11-16",
+      "last_sent": "2026-11-16",
+      "last_stars_today": 306,
+      "last_total_stars": 1230
     },
     "google/skills": {
       "first_seen": "2026-11-05",
@@ -793,15 +793,6 @@
       "last_stars_today": 295,
       "last_total_stars": 194865
     },
-    "mlabonne/llm-course": {
-      "first_seen": "2026-10-18",
-      "last_rank": 11,
-      "last_score": 64.77,
-      "last_seen": "2026-10-18",
-      "last_sent": "2026-10-18",
-      "last_stars_today": 81,
-      "last_total_stars": 83772
-    },
     "mpv-player/mpv": {
       "first_seen": "2026-11-06",
       "last_rank": 4,
@@ -818,6 +809,15 @@
       "last_sent": "2026-10-26",
       "last_stars_today": 457,
       "last_total_stars": 224248
+    },
+    "mvanhorn/last30days-skill": {
+      "first_seen": "2026-11-16",
+      "last_rank": 8,
+      "last_score": 67.89,
+      "last_seen": "2026-11-16",
+      "last_sent": "2026-11-16",
+      "last_stars_today": 122,
+      "last_total_stars": 67963
     },
     "nightly-labs/openbot": {
       "first_seen": "2026-10-26",
@@ -1170,6 +1170,15 @@
       "last_stars_today": 784,
       "last_total_stars": 30124
     },
+    "sponsors/kajisho5": {
+      "first_seen": "2026-11-16",
+      "last_rank": 14,
+      "last_score": 51.7,
+      "last_seen": "2026-11-16",
+      "last_sent": "2026-11-16",
+      "last_stars_today": 475,
+      "last_total_stars": 6412
+    },
     "sponsors/kornia": {
       "first_seen": "2026-11-01",
       "last_rank": 9,
@@ -1304,6 +1313,15 @@
       "last_stars_today": 683,
       "last_total_stars": 113290
     },
+    "sponsors/sveltejs": {
+      "first_seen": "2026-11-16",
+      "last_rank": 13,
+      "last_score": 21.4,
+      "last_seen": "2026-11-16",
+      "last_sent": "2026-11-16",
+      "last_stars_today": 58,
+      "last_total_stars": 88849
+    },
     "sponsors/thedotmack": {
       "first_seen": "2026-10-03",
       "last_rank": 5,
@@ -1405,12 +1423,12 @@
     },
     "tradermonty/claude-trading-skills": {
       "first_seen": "2026-11-13",
-      "last_rank": 11,
-      "last_score": 59.63,
-      "last_seen": "2026-11-15",
+      "last_rank": 4,
+      "last_score": 59.53,
+      "last_seen": "2026-11-16",
       "last_sent": "2026-11-13",
-      "last_stars_today": 707,
-      "last_total_stars": 5235
+      "last_stars_today": 841,
+      "last_total_stars": 6131
     },
     "twentyhq/twenty": {
       "first_seen": "2026-10-21",

@@ -1,0 +1,31 @@
+GitHub Trending: AI workflow signal - 2026-11-16
+
+Today leans toward AI workflow signal; the strongest pick is mvanhorn/last30days-skill.
+
+Top picks
+1. mvanhorn/last30days-skill - 67.9/100
+   https://github.com/mvanhorn/last30days-skill
+   AI Workflow, Try Today: Python project with 122 stars today; score 67.9/100.
+2. getarcaneapp/arcane - 62.8/100
+   https://github.com/getarcaneapp/arcane
+   AI Workflow, DevTools: Go project with 31 stars today; score 62.8/100.
+3. google-research/paper-orchestra - 61.3/100
+   https://github.com/google-research/paper-orchestra
+   AI Workflow, DevTools: Python project with 306 stars today; score 61.3/100.
+4. DeanChensj/jiangshan-map - 51.9/100
+   https://github.com/DeanChensj/jiangshan-map
+   Try Today: JavaScript project with 285 stars today; score 51.9/100.
+5. sponsors/kajisho5 - 51.7/100
+   https://github.com/sponsors/kajisho5
+   AI Workflow, DevTools: Python project with 475 stars today; score 51.7/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- mvanhorn/last30days-skill: 67.9/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 122 stars today; score 67.9/100.
+- getarcaneapp/arcane: 62.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Go project with 31 stars today; score 62.8/100.
+- google-research/paper-orchestra: 61.3/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 306 stars today; score 61.3/100.
+- DeanChensj/jiangshan-map: 51.9/100 [Try Today] Try Today: JavaScript project with 285 stars today; score 51.9/100.
+- sponsors/kajisho5: 51.7/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Python project with 475 stars today; score 51.7/100.
+- sponsors/sveltejs: 21.4/100 [Watch, Hype Risk] Watch, Hype Risk: JavaScript project with 58 stars today; score 21.4/100.
+
+Generated for 2026-11-16 from GitHub Trending daily.
