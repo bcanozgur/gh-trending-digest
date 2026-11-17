@@ -1,0 +1,27 @@
+GitHub Trending: AI workflow signal - 2026-11-17
+
+Today leans toward AI workflow signal; the strongest pick is jingyaogong/minimind.
+
+Top picks
+1. jingyaogong/minimind - 68.4/100
+   https://github.com/jingyaogong/minimind
+   AI Workflow, Try Today: Python project with 188 stars today; score 68.4/100.
+2. cursor/plugins - 49.7/100
+   https://github.com/cursor/plugins
+   DevTools: TypeScript project with 196 stars today; score 49.7/100.
+3. sponsors/affaan-m - 39.1/100
+   https://github.com/sponsors/affaan-m
+   AI Workflow, Watch: JavaScript project with 902 stars today; score 39.1/100.
+   Caution: Weak onboarding evidence.
+4. sponsors/obra - 34.4/100
+   https://github.com/sponsors/obra
+   AI Workflow, DevTools: Shell project with 598 stars today; score 34.4/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- jingyaogong/minimind: 68.4/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 188 stars today; score 68.4/100.
+- cursor/plugins: 49.7/100 [DevTools] DevTools: TypeScript project with 196 stars today; score 49.7/100.
+- sponsors/affaan-m: 39.1/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: JavaScript project with 902 stars today; score 39.1/100.
+- sponsors/obra: 34.4/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Shell project with 598 stars today; score 34.4/100.
+
+Generated for 2026-11-17 from GitHub Trending daily.
