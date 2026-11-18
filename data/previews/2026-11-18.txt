@@ -1,0 +1,32 @@
+GitHub Trending: AI workflow signal - 2026-11-18
+
+Today leans toward AI workflow signal; the strongest pick is n8n-io/n8n.
+
+Top picks
+1. n8n-io/n8n - 78.9/100
+   https://github.com/n8n-io/n8n
+   AI Workflow, DevTools: TypeScript project with 315 stars today; score 78.9/100.
+2. openvinotoolkit/openvino - 72.8/100
+   https://github.com/openvinotoolkit/openvino
+   AI Workflow, DevTools: C++ project with 18 stars today; score 72.8/100.
+3. appwrite/appwrite - 72.7/100
+   https://github.com/appwrite/appwrite
+   AI Workflow, DevTools: TypeScript project with 239 stars today; score 72.7/100.
+4. HKUDS/CLI-Anything - 65.6/100
+   https://github.com/HKUDS/CLI-Anything
+   AI Workflow, DevTools: Python project with 384 stars today; score 65.6/100.
+5. solidjs/solid - 62.4/100
+   https://github.com/solidjs/solid
+   AI Workflow, DevTools: TypeScript project with 37 stars today; score 62.4/100.
+
+Full reviewed list
+- n8n-io/n8n: 78.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 315 stars today; score 78.9/100.
+- openvinotoolkit/openvino: 72.8/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: C++ project with 18 stars today; score 72.8/100.
+- appwrite/appwrite: 72.7/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 239 stars today; score 72.7/100.
+- HKUDS/CLI-Anything: 65.6/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 384 stars today; score 65.6/100.
+- solidjs/solid: 62.4/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 37 stars today; score 62.4/100.
+- jquery/jquery: 59.8/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: JavaScript project with 268 stars today; score 59.8/100.
+- astral-sh/uv: 51.0/100 [Try Today] Try Today: Rust project with 260 stars today; score 51.0/100.
+- punkpeye/awesome-mcp-servers: 43.5/100 [AI Workflow, Watch] AI Workflow, Watch: Unknown project with 52 stars today; score 43.5/100.
+
+Generated for 2026-11-18 from GitHub Trending daily.

@@ -1,0 +1,1626 @@
+{
+  "date": "2026-11-18",
+  "ranked": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-06-22T09:24:21Z",
+        "default_branch": "master",
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "fork": false,
+        "full_name": "n8n-io/n8n",
+        "homepage": "https://n8n.io",
+        "latest_release": "n8n@2.48.5",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 1242,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-18T16:39:54Z",
+        "readme_excerpt": "![Banner image](https://raw.githubusercontent.com/n8n-io/n8n/master/assets/readme-banner.jpg) # n8n \u2013 The Platform for AI Agents and Workflow Automation Fair-code platform to build and deploy AI agents and workflows. Combine a visual canvas with custom code, run it self-hosted or in the [cloud](https://app.n8n.cloud/login), and connect to 1500+ integrations. AI automation you can trust with real work, from prototype to production. ![n8n.io - Screenshot](https://raw.githubusercontent.com/n8n-io/n",
+        "topics": [
+          "ai",
+          "apis",
+          "automation",
+          "cli",
+          "data-flow",
+          "development",
+          "integration-framework",
+          "integrations",
+          "ipaas",
+          "low-code",
+          "low-code-platform",
+          "mcp",
+          "mcp-client",
+          "mcp-server",
+          "n8n",
+          "no-code",
+          "self-hosted",
+          "typescript",
+          "workflow",
+          "workflow-automation"
+        ],
+        "updated_at": "2026-11-18T16:40:36Z"
+      },
+      "repo": {
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "forks": 61559,
+        "full_name": "n8n-io/n8n",
+        "language": "TypeScript",
+        "name": "n8n",
+        "owner": "n8n-io",
+        "rank": 18,
+        "stars_today": 315,
+        "total_stars": 210912,
+        "url": "https://github.com/n8n-io/n8n"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.29,
+        "novelty": 8.0,
+        "practical_usefulness": 20.0,
+        "production_readiness": 5.25,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 78.9
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 315 stars today; score 78.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-10-15T10:54:40Z",
+        "default_branch": "master",
+        "description": "OpenVINO\u2122 is an open source toolkit for optimizing and deploying AI inference",
+        "fork": false,
+        "full_name": "openvinotoolkit/openvino",
+        "homepage": "https://docs.openvino.ai",
+        "latest_release": "2026.4.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1162,
+        "primary_language": "C++",
+        "pushed_at": "2026-11-18T16:37:58Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"https://storage.openvinotoolkit.org/assets/branding/openvino-logo-transparent-white-outline.svg\" width=\"400px\" alt=\"OpenVINO\"> <h3 align=\"center\"> Open-source software toolkit for optimizing and deploying deep learning models. </h3> <p align=\"center\"> <a href=\"https://docs.openvino.ai/2026/index.html\"><b>Documentation</b></a> \u2022 <a href=\"https://blog.openvino.ai\"><b>Blog</b></a> \u2022 <a href=\"https://docs.openvino.ai/2026/about-openvino/key-features.html\"><b>Key Featur",
+        "topics": [
+          "ai",
+          "computer-vision",
+          "deep-learning",
+          "deploy-ai",
+          "diffusion-models",
+          "generative-ai",
+          "good-first-issue",
+          "inference",
+          "llm-inference",
+          "natural-language-processing",
+          "nlp",
+          "openvino",
+          "optimize-ai",
+          "performance-boost",
+          "recommendation-system",
+          "speech-recognition",
+          "stable-diffusion",
+          "transformers",
+          "yolo"
+        ],
+        "updated_at": "2026-11-18T16:37:49Z"
+      },
+      "repo": {
+        "description": "OpenVINO\u2122 is an open source toolkit for optimizing and deploying AI inference",
+        "forks": 3599,
+        "full_name": "openvinotoolkit/openvino",
+        "language": "C++",
+        "name": "openvino",
+        "owner": "openvinotoolkit",
+        "rank": 14,
+        "stars_today": 18,
+        "total_stars": 11261,
+        "url": "https://github.com/openvinotoolkit/openvino"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.79,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 72.84
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 18 stars today; score 72.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-04-08T16:36:25Z",
+        "default_branch": "main",
+        "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+        "fork": false,
+        "full_name": "appwrite/appwrite",
+        "homepage": "https://appwrite.io",
+        "latest_release": "2.7.3",
+        "license_spdx": "BSD-3-Clause",
+        "open_issues": 732,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-18T16:40:39Z",
+        "readme_excerpt": "<img width=\"1920\" height=\"1080\" alt=\"image\" src=\"https://github.com/user-attachments/assets/55a81268-4ecc-46cd-bdf5-73f7e8662fee\" /> <br /> <p align=\"center\"> <h1>Appwrite</h1> <b>The open-source cloud for agents and developers. Appwrite is an MCP and agent-first platform for building and scaling apps. Give your agents Auth, Databases, Storage, Functions, Messaging, Realtime, and Hosting, all in one place.</b> <br /> <br /> </p> [![Discord](https://img.shields.io/badge/chat-5865F2?style=flat-squ",
+        "topics": [
+          "android",
+          "appwrite",
+          "backend",
+          "backend-as-a-service",
+          "docker",
+          "firebase",
+          "firewall",
+          "flutter",
+          "hosting",
+          "ios",
+          "javascript",
+          "nextjs",
+          "react",
+          "react-native",
+          "reactnative",
+          "self-hosted",
+          "selfhosted",
+          "supabase",
+          "swift",
+          "web"
+        ],
+        "updated_at": "2026-11-18T16:38:59Z"
+      },
+      "repo": {
+        "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+        "forks": 5887,
+        "full_name": "appwrite/appwrite",
+        "language": "TypeScript",
+        "name": "appwrite",
+        "owner": "appwrite",
+        "rank": 13,
+        "stars_today": 239,
+        "total_stars": 58153,
+        "url": "https://github.com/appwrite/appwrite"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.74,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 72.65
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 239 stars today; score 72.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-08T13:52:57Z",
+        "default_branch": "main",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "fork": false,
+        "full_name": "HKUDS/CLI-Anything",
+        "homepage": "https://clianything.cc/",
+        "latest_release": "v0.4.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 243,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-22T02:01:29Z",
+        "readme_excerpt": "<h1 align=\"center\"><img src=\"assets/icon.png\" alt=\"\" width=\"64\" style=\"vertical-align: middle;\">&nbsp; CLI-Anything: Making ALL Software Agent-Native</h1> <div align=\"center\"> <a href=\"https://www.star-history.com/hkuds/cli-anything\"><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=HKUDS/CLI-Anything&amp;type=trending&amp;theme=dark\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://api.star-history.com/badge?repo=HKUDS/CLI-Anythin",
+        "topics": [],
+        "updated_at": "2026-11-18T16:40:08Z"
+      },
+      "repo": {
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "forks": 5404,
+        "full_name": "HKUDS/CLI-Anything",
+        "language": "Python",
+        "name": "CLI-Anything",
+        "owner": "HKUDS",
+        "rank": 3,
+        "stars_today": 384,
+        "total_stars": 59487,
+        "url": "https://github.com/HKUDS/CLI-Anything"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.7,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 65.61
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 384 stars today; score 65.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-04-24T16:36:27Z",
+        "default_branch": "main",
+        "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+        "fork": false,
+        "full_name": "solidjs/solid",
+        "homepage": "https://solidjs.com",
+        "latest_release": "@solidjs/diagnostics@2.0.1",
+        "license_spdx": "MIT",
+        "open_issues": 24,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-18T11:30:09Z",
+        "readme_excerpt": "<p> <img src=\"https://assets.solidjs.com/banner?project=Library&type=core&version=2.0\" alt=\"SolidJS\" /> </p> [![Build Status](https://img.shields.io/github/actions/workflow/status/solidjs/solid/main-ci.yml?branch=main&logo=github&style=for-the-badge)](https://github.com/solidjs/solid/actions/workflows/main-ci.yml) [![Coverage Status](https://img.shields.io/coveralls/github/solidjs/solid.svg?style=for-the-badge)](https://coveralls.io/github/solidjs/solid?branch=main) [![NPM Version](https://img.s",
+        "topics": [
+          "declarative",
+          "fine-grained",
+          "javascript",
+          "jsx",
+          "performance",
+          "proxies",
+          "reactive",
+          "solid"
+        ],
+        "updated_at": "2026-11-18T16:37:56Z"
+      },
+      "repo": {
+        "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+        "forks": 1176,
+        "full_name": "solidjs/solid",
+        "language": "TypeScript",
+        "name": "solid",
+        "owner": "solidjs",
+        "rank": 19,
+        "stars_today": 37,
+        "total_stars": 36438,
+        "url": "https://github.com/solidjs/solid"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.14,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 62.44
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 37 stars today; score 62.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2009-04-03T15:20:14Z",
+        "default_branch": "main",
+        "description": "jQuery JavaScript Library",
+        "fork": false,
+        "full_name": "jquery/jquery",
+        "homepage": "https://jquery.com",
+        "latest_release": "4.1.0",
+        "license_spdx": "MIT",
+        "open_issues": 95,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-11-17T19:00:49Z",
+        "readme_excerpt": "# [jQuery](https://jquery.com/) \u2014 New Wave JavaScript Meetings are currently held on the [matrix.org platform](https://matrix.to/#/#jquery_meeting:gitter.im). Meeting minutes can be found at [meetings.jquery.org](https://meetings.jquery.org/category/core/). The latest version of jQuery is available at [https://jquery.com/download/](https://jquery.com/download/). ## Version support | Version | Branch | Support | | ------- | ---------- | ------------- | | 4.x | main | Full | | 3.x | 3.x-stable | C",
+        "topics": [
+          "jquery"
+        ],
+        "updated_at": "2026-11-18T16:24:51Z"
+      },
+      "repo": {
+        "description": "jQuery JavaScript Library",
+        "forks": 20714,
+        "full_name": "jquery/jquery",
+        "language": "JavaScript",
+        "name": "jquery",
+        "owner": "jquery",
+        "rank": 12,
+        "stars_today": 268,
+        "total_stars": 59976,
+        "url": "https://github.com/jquery/jquery"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.99,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.79
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 268 stars today; score 59.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-10-02T20:24:11Z",
+        "default_branch": "main",
+        "description": "An extremely fast Python package and project manager, written in Rust.",
+        "fork": false,
+        "full_name": "astral-sh/uv",
+        "homepage": "https://docs.astral.sh/uv",
+        "latest_release": "0.13.9",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 3076,
+        "primary_language": "Rust",
+        "pushed_at": "2026-11-18T00:25:55Z",
+        "readme_excerpt": "# uv <a href=\"https://pypi.python.org/pypi/uv\"><img src=\"https://img.shields.io/pypi/v/uv.svg\" alt=\"Latest PyPI version\" /></a> <a href=\"https://pypi.python.org/pypi/uv\"><img src=\"https://img.shields.io/pypi/pyversions/uv.svg\" alt=\"Supported Python versions\" /></a> <a href=\"https://discord.gg/astral-sh\"><img src=\"https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white\" alt=\"Discord\" /></a> An extremely fast Python package and project manager, written in Rust. <p align=\"ce",
+        "topics": [
+          "packaging",
+          "python",
+          "resolver",
+          "uv"
+        ],
+        "updated_at": "2026-11-18T16:37:37Z"
+      },
+      "repo": {
+        "description": "An extremely fast Python package and project manager, written in Rust.",
+        "forks": 3918,
+        "full_name": "astral-sh/uv",
+        "language": "Rust",
+        "name": "uv",
+        "owner": "astral-sh",
+        "rank": 8,
+        "stars_today": 260,
+        "total_stars": 92156,
+        "url": "https://github.com/astral-sh/uv"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.53,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 1.44,
+        "technical_quality": 14.0,
+        "total": 51.02
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Rust project with 260 stars today; score 51.0/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-11-30T04:49:10Z",
+        "default_branch": "main",
+        "description": "A collection of MCP servers.",
+        "fork": false,
+        "full_name": "punkpeye/awesome-mcp-servers",
+        "homepage": "https://glama.ai/mcp/servers",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 4736,
+        "primary_language": null,
+        "pushed_at": "2026-11-17T05:21:40Z",
+        "readme_excerpt": null,
+        "topics": [
+          "ai",
+          "mcp"
+        ],
+        "updated_at": "2026-11-18T16:38:31Z"
+      },
+      "repo": {
+        "description": "A collection of MCP servers.",
+        "forks": 20318,
+        "full_name": "punkpeye/awesome-mcp-servers",
+        "language": null,
+        "name": "awesome-mcp-servers",
+        "owner": "punkpeye",
+        "rank": 20,
+        "stars_today": 52,
+        "total_stars": 97932,
+        "url": "https://github.com/punkpeye/awesome-mcp-servers"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 1.05,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 43.5
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch"
+      ],
+      "verdict": "AI Workflow, Watch: Unknown project with 52 stars today; score 43.5/100."
+    }
+  ],
+  "reviewed": [
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-06-22T09:24:21Z",
+        "default_branch": "master",
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "fork": false,
+        "full_name": "n8n-io/n8n",
+        "homepage": "https://n8n.io",
+        "latest_release": "n8n@2.48.5",
+        "license_spdx": "NOASSERTION",
+        "open_issues": 1242,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-18T16:39:54Z",
+        "readme_excerpt": "![Banner image](https://raw.githubusercontent.com/n8n-io/n8n/master/assets/readme-banner.jpg) # n8n \u2013 The Platform for AI Agents and Workflow Automation Fair-code platform to build and deploy AI agents and workflows. Combine a visual canvas with custom code, run it self-hosted or in the [cloud](https://app.n8n.cloud/login), and connect to 1500+ integrations. AI automation you can trust with real work, from prototype to production. ![n8n.io - Screenshot](https://raw.githubusercontent.com/n8n-io/n",
+        "topics": [
+          "ai",
+          "apis",
+          "automation",
+          "cli",
+          "data-flow",
+          "development",
+          "integration-framework",
+          "integrations",
+          "ipaas",
+          "low-code",
+          "low-code-platform",
+          "mcp",
+          "mcp-client",
+          "mcp-server",
+          "n8n",
+          "no-code",
+          "self-hosted",
+          "typescript",
+          "workflow",
+          "workflow-automation"
+        ],
+        "updated_at": "2026-11-18T16:40:36Z"
+      },
+      "repo": {
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "forks": 61559,
+        "full_name": "n8n-io/n8n",
+        "language": "TypeScript",
+        "name": "n8n",
+        "owner": "n8n-io",
+        "rank": 18,
+        "stars_today": 315,
+        "total_stars": 210912,
+        "url": "https://github.com/n8n-io/n8n"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.29,
+        "novelty": 8.0,
+        "practical_usefulness": 20.0,
+        "production_readiness": 5.25,
+        "strategic_relevance": 7.0,
+        "technical_quality": 11.2,
+        "total": 78.9
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 315 stars today; score 78.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-10-15T10:54:40Z",
+        "default_branch": "master",
+        "description": "OpenVINO\u2122 is an open source toolkit for optimizing and deploying AI inference",
+        "fork": false,
+        "full_name": "openvinotoolkit/openvino",
+        "homepage": "https://docs.openvino.ai",
+        "latest_release": "2026.4.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 1162,
+        "primary_language": "C++",
+        "pushed_at": "2026-11-18T16:37:58Z",
+        "readme_excerpt": "<div align=\"center\"> <img src=\"https://storage.openvinotoolkit.org/assets/branding/openvino-logo-transparent-white-outline.svg\" width=\"400px\" alt=\"OpenVINO\"> <h3 align=\"center\"> Open-source software toolkit for optimizing and deploying deep learning models. </h3> <p align=\"center\"> <a href=\"https://docs.openvino.ai/2026/index.html\"><b>Documentation</b></a> \u2022 <a href=\"https://blog.openvino.ai\"><b>Blog</b></a> \u2022 <a href=\"https://docs.openvino.ai/2026/about-openvino/key-features.html\"><b>Key Featur",
+        "topics": [
+          "ai",
+          "computer-vision",
+          "deep-learning",
+          "deploy-ai",
+          "diffusion-models",
+          "generative-ai",
+          "good-first-issue",
+          "inference",
+          "llm-inference",
+          "natural-language-processing",
+          "nlp",
+          "openvino",
+          "optimize-ai",
+          "performance-boost",
+          "recommendation-system",
+          "speech-recognition",
+          "stable-diffusion",
+          "transformers",
+          "yolo"
+        ],
+        "updated_at": "2026-11-18T16:37:49Z"
+      },
+      "repo": {
+        "description": "OpenVINO\u2122 is an open source toolkit for optimizing and deploying AI inference",
+        "forks": 3599,
+        "full_name": "openvinotoolkit/openvino",
+        "language": "C++",
+        "name": "openvino",
+        "owner": "openvinotoolkit",
+        "rank": 14,
+        "stars_today": 18,
+        "total_stars": 11261,
+        "url": "https://github.com/openvinotoolkit/openvino"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.79,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 72.84
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: C++ project with 18 stars today; score 72.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2019-04-08T16:36:25Z",
+        "default_branch": "main",
+        "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+        "fork": false,
+        "full_name": "appwrite/appwrite",
+        "homepage": "https://appwrite.io",
+        "latest_release": "2.7.3",
+        "license_spdx": "BSD-3-Clause",
+        "open_issues": 732,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-18T16:40:39Z",
+        "readme_excerpt": "<img width=\"1920\" height=\"1080\" alt=\"image\" src=\"https://github.com/user-attachments/assets/55a81268-4ecc-46cd-bdf5-73f7e8662fee\" /> <br /> <p align=\"center\"> <h1>Appwrite</h1> <b>The open-source cloud for agents and developers. Appwrite is an MCP and agent-first platform for building and scaling apps. Give your agents Auth, Databases, Storage, Functions, Messaging, Realtime, and Hosting, all in one place.</b> <br /> <br /> </p> [![Discord](https://img.shields.io/badge/chat-5865F2?style=flat-squ",
+        "topics": [
+          "android",
+          "appwrite",
+          "backend",
+          "backend-as-a-service",
+          "docker",
+          "firebase",
+          "firewall",
+          "flutter",
+          "hosting",
+          "ios",
+          "javascript",
+          "nextjs",
+          "react",
+          "react-native",
+          "reactnative",
+          "self-hosted",
+          "selfhosted",
+          "supabase",
+          "swift",
+          "web"
+        ],
+        "updated_at": "2026-11-18T16:38:59Z"
+      },
+      "repo": {
+        "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+        "forks": 5887,
+        "full_name": "appwrite/appwrite",
+        "language": "TypeScript",
+        "name": "appwrite",
+        "owner": "appwrite",
+        "rank": 13,
+        "stars_today": 239,
+        "total_stars": 58153,
+        "url": "https://github.com/appwrite/appwrite"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 8.96,
+        "momentum": 2.74,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 72.65
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 239 stars today; score 72.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-16T17:17:17Z",
+        "default_branch": "main",
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "fork": false,
+        "full_name": "google-labs-code/stitch-skills",
+        "homepage": "https://stitch.withgoogle.com/docs/mcp/setup",
+        "latest_release": "v1.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 21,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-18T05:00:25Z",
+        "readme_excerpt": "# Stitch Design Skills A collection of agent skills and plugins for [Google Stitch](https://stitch.withgoogle.com), following the [Agent Skills](https://agentskills.io) open standard. Compatible with coding agents such as Codex, Antigravity, Gemini CLI, Claude Code, Cursor, and OpenCode (manual install). ## Quick Start ### 1. Install Plugins (Recommended) The fastest way to set up the full Stitch plugin suite globally. #### Codex Add the Stitch Skills marketplace, then install the plugins you ne",
+        "topics": [],
+        "updated_at": "2026-11-18T16:39:34Z"
+      },
+      "repo": {
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "forks": 1362,
+        "full_name": "google-labs-code/stitch-skills",
+        "language": "TypeScript",
+        "name": "stitch-skills",
+        "owner": "google-labs-code",
+        "rank": 10,
+        "stars_today": 369,
+        "total_stars": 10327,
+        "url": "https://github.com/google-labs-code/stitch-skills"
+      },
+      "score": {
+        "ai_workflow_impact": 17.46,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.64,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 6.79,
+        "technical_quality": 14.0,
+        "total": 71.53
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 369 stars today; score 71.5/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-06-24T02:32:26Z",
+        "default_branch": "main",
+        "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+        "fork": false,
+        "full_name": "NVIDIA/SkillEvaluator",
+        "homepage": "https://docs.nvidia.com/skills/skillevaluator/",
+        "latest_release": "v1.0.1",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 56,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-18T09:12:59Z",
+        "readme_excerpt": "<div align=\"center\"> # ![SkillEvaluator](https://raw.githubusercontent.com/NVIDIA/SkillEvaluator/ad2815fe78c045db91d230681d32863698da08cf/docs/assets/skillevaluator-wordmark.svg) <h4>Evaluate and improve AI agent skills and plugins: quality, security, overlap, compatibility, and real impact across agents</h4> [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE) [![Python](https://img.shields.io/badge/Python-3.12%20%7C%203.13%20%7C%203.14-blue.svg)](https://www.pytho",
+        "topics": [
+          "agent-evaluation",
+          "agent-plugins",
+          "agent-security",
+          "agent-skills",
+          "agentic-ai",
+          "benchmark",
+          "claude-code",
+          "codex",
+          "evaluate",
+          "evaluation",
+          "plugin",
+          "plugin-evaluation",
+          "security-scanner",
+          "skill-eval",
+          "skill-evals",
+          "skill-evaluation",
+          "skill-evaluator",
+          "skills"
+        ],
+        "updated_at": "2026-11-18T16:39:13Z"
+      },
+      "repo": {
+        "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+        "forks": 503,
+        "full_name": "NVIDIA/SkillEvaluator",
+        "language": "Python",
+        "name": "SkillEvaluator",
+        "owner": "NVIDIA",
+        "rank": 6,
+        "stars_today": 323,
+        "total_stars": 3567,
+        "url": "https://github.com/NVIDIA/SkillEvaluator"
+      },
+      "score": {
+        "ai_workflow_impact": 18.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.05,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 7.0,
+        "technical_quality": 14.0,
+        "total": 69.9
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 323 stars today; score 69.9/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-23T20:37:37Z",
+        "default_branch": "main",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "fork": false,
+        "full_name": "mvanhorn/last30days-skill",
+        "homepage": null,
+        "latest_release": "v4.3.2",
+        "license_spdx": "MIT",
+        "open_issues": 22,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-17T22:37:11Z",
+        "readme_excerpt": "# /last30days English | [Fran\u00e7ais](README.fr.md) | [Deutsch](README.de.md) | [Espa\u00f1ol](README.es.md) | [Portugu\u00eas (Brasil)](README.pt-BR.md) | [\u65e5\u672c\u8a9e](README.ja.md) | [\u7b80\u4f53\u4e2d\u6587](README.zh-CN.md) | [\u0627\u0644\u0639\u0631\u0628\u064a\u0629](README.ar.md) | [\u0641\u0627\u0631\u0633\u06cc](README.fa.md) | [T\u00fcrk\u00e7e](README.tr.md) <p align=\"center\"> <img src=\"media/pr-assets/last30days-ad.gif\" width=\"720\" alt=\"last30days - an AI agent-led search engine that searches people, not editors\" /> </p> <p align=\"center\"> <a href=\"https://github.com/mvanhorn/last30days-sk",
+        "topics": [
+          "ai-prompts",
+          "ai-skill",
+          "bluesky",
+          "claude",
+          "claude-code",
+          "clawhub",
+          "deep-research",
+          "hackernews",
+          "instagram",
+          "openclaw",
+          "polymarket",
+          "recency",
+          "reddit",
+          "research",
+          "social-media",
+          "tiktok",
+          "trends",
+          "twitter",
+          "web-search",
+          "youtube"
+        ],
+        "updated_at": "2026-11-18T16:38:35Z"
+      },
+      "repo": {
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "forks": 6230,
+        "full_name": "mvanhorn/last30days-skill",
+        "language": "Python",
+        "name": "last30days-skill",
+        "owner": "mvanhorn",
+        "rank": 4,
+        "stars_today": 1062,
+        "total_stars": 69760,
+        "url": "https://github.com/mvanhorn/last30days-skill"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.01,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.95,
+        "strategic_relevance": 5.53,
+        "technical_quality": 14.0,
+        "total": 66.56
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: Python project with 1062 stars today; score 66.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-03-08T13:52:57Z",
+        "default_branch": "main",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "fork": false,
+        "full_name": "HKUDS/CLI-Anything",
+        "homepage": "https://clianything.cc/",
+        "latest_release": "v0.4.0",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 243,
+        "primary_language": "Python",
+        "pushed_at": "2026-09-22T02:01:29Z",
+        "readme_excerpt": "<h1 align=\"center\"><img src=\"assets/icon.png\" alt=\"\" width=\"64\" style=\"vertical-align: middle;\">&nbsp; CLI-Anything: Making ALL Software Agent-Native</h1> <div align=\"center\"> <a href=\"https://www.star-history.com/hkuds/cli-anything\"><picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://api.star-history.com/badge?repo=HKUDS/CLI-Anything&amp;type=trending&amp;theme=dark\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://api.star-history.com/badge?repo=HKUDS/CLI-Anythin",
+        "topics": [],
+        "updated_at": "2026-11-18T16:40:08Z"
+      },
+      "repo": {
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+        "forks": 5404,
+        "full_name": "HKUDS/CLI-Anything",
+        "language": "Python",
+        "name": "CLI-Anything",
+        "owner": "HKUDS",
+        "rank": 3,
+        "stars_today": 384,
+        "total_stars": 59487,
+        "url": "https://github.com/HKUDS/CLI-Anything"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.7,
+        "novelty": 8.0,
+        "practical_usefulness": 12.2,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 65.61
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 384 stars today; score 65.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2018-04-24T16:36:27Z",
+        "default_branch": "main",
+        "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+        "fork": false,
+        "full_name": "solidjs/solid",
+        "homepage": "https://solidjs.com",
+        "latest_release": "@solidjs/diagnostics@2.0.1",
+        "license_spdx": "MIT",
+        "open_issues": 24,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-18T11:30:09Z",
+        "readme_excerpt": "<p> <img src=\"https://assets.solidjs.com/banner?project=Library&type=core&version=2.0\" alt=\"SolidJS\" /> </p> [![Build Status](https://img.shields.io/github/actions/workflow/status/solidjs/solid/main-ci.yml?branch=main&logo=github&style=for-the-badge)](https://github.com/solidjs/solid/actions/workflows/main-ci.yml) [![Coverage Status](https://img.shields.io/coveralls/github/solidjs/solid.svg?style=for-the-badge)](https://coveralls.io/github/solidjs/solid?branch=main) [![NPM Version](https://img.s",
+        "topics": [
+          "declarative",
+          "fine-grained",
+          "javascript",
+          "jsx",
+          "performance",
+          "proxies",
+          "reactive",
+          "solid"
+        ],
+        "updated_at": "2026-11-18T16:37:56Z"
+      },
+      "repo": {
+        "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+        "forks": 1176,
+        "full_name": "solidjs/solid",
+        "language": "TypeScript",
+        "name": "solid",
+        "owner": "solidjs",
+        "rank": 19,
+        "stars_today": 37,
+        "total_stars": 36438,
+        "url": "https://github.com/solidjs/solid"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 1.14,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 4.27,
+        "technical_quality": 14.0,
+        "total": 62.44
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: TypeScript project with 37 stars today; score 62.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-05-01T18:07:52Z",
+        "default_branch": "main",
+        "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+        "fork": false,
+        "full_name": "google-research/paper-orchestra",
+        "homepage": "https://yiwen-song.github.io/paper_orchestra/",
+        "latest_release": null,
+        "license_spdx": "Apache-2.0",
+        "open_issues": 37,
+        "primary_language": "Python",
+        "pushed_at": "2026-11-15T18:08:08Z",
+        "readme_excerpt": "# <div align=\"center\">\ud83c\udfbb PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing</div> <div align=\"center\">Yiwen Song<sup>1</sup>, Yale Song<sup>1</sup>, Tomas Pfister<sup>1</sup>, and Jinsung Yoon<sup>1</sup></div> <div align=\"center\"><sup>1</sup>Google Cloud AI Research</div> <br><br> PaperOrchestra is a multi-agent framework for automated AI research paper writing. It flexibly transforms unconstrained pre-writing materials (ideas and experimental logs) into submission-r",
+        "topics": [
+          "ai-research-assistant",
+          "multi-agent-systems"
+        ],
+        "updated_at": "2026-11-18T16:39:57Z"
+      },
+      "repo": {
+        "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+        "forks": 501,
+        "full_name": "google-research/paper-orchestra",
+        "language": "Python",
+        "name": "paper-orchestra",
+        "owner": "google-research",
+        "rank": 9,
+        "stars_today": 1529,
+        "total_stars": 3981,
+        "url": "https://github.com/google-research/paper-orchestra"
+      },
+      "score": {
+        "ai_workflow_impact": 10.98,
+        "ease_of_adoption": 7.7,
+        "momentum": 7.98,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 5.6,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.9,
+        "total": 60.58
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Python project with 1529 stars today; score 60.6/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2009-04-03T15:20:14Z",
+        "default_branch": "main",
+        "description": "jQuery JavaScript Library",
+        "fork": false,
+        "full_name": "jquery/jquery",
+        "homepage": "https://jquery.com",
+        "latest_release": "4.1.0",
+        "license_spdx": "MIT",
+        "open_issues": 95,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-11-17T19:00:49Z",
+        "readme_excerpt": "# [jQuery](https://jquery.com/) \u2014 New Wave JavaScript Meetings are currently held on the [matrix.org platform](https://matrix.to/#/#jquery_meeting:gitter.im). Meeting minutes can be found at [meetings.jquery.org](https://meetings.jquery.org/category/core/). The latest version of jQuery is available at [https://jquery.com/download/](https://jquery.com/download/). ## Version support | Version | Branch | Support | | ------- | ---------- | ------------- | | 4.x | main | Full | | 3.x | 3.x-stable | C",
+        "topics": [
+          "jquery"
+        ],
+        "updated_at": "2026-11-18T16:24:51Z"
+      },
+      "repo": {
+        "description": "jQuery JavaScript Library",
+        "forks": 20714,
+        "full_name": "jquery/jquery",
+        "language": "JavaScript",
+        "name": "jquery",
+        "owner": "jquery",
+        "rank": 12,
+        "stars_today": 268,
+        "total_stars": 59976,
+        "url": "https://github.com/jquery/jquery"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 7.7,
+        "momentum": 2.99,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.79
+      },
+      "tags": [
+        "AI Workflow",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, Try Today: JavaScript project with 268 stars today; score 59.8/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2025-04-19T00:43:29Z",
+        "default_branch": "main",
+        "description": "Modern Docker Management, Designed for Everyone",
+        "fork": false,
+        "full_name": "getarcaneapp/arcane",
+        "homepage": "https://getarcane.app",
+        "latest_release": "v3.1.0",
+        "license_spdx": "BSD-3-Clause",
+        "open_issues": 13,
+        "primary_language": "Go",
+        "pushed_at": "2026-11-18T16:14:52Z",
+        "readme_excerpt": "> [!NOTE] > The `main` branch is the v3 version of Arcane See the [`release/2.x.x`](https://github.com/getarcaneapp/arcane/tree/release/2.x.x) branch for the last 2.x release. > [!IMPORTANT] > Feature requests have moved to [Discussions](https://github.com/getarcaneapp/arcane/discussions/categories/feature-requests). Open new requests and upvote existing ones there; issues are only used for Bug reports now to help maintain priority on those issues. <div align=\"center\"> <img src=\".github/assets/i",
+        "topics": [
+          "compose",
+          "container-management",
+          "containers",
+          "docker",
+          "docker-compose",
+          "docker-management",
+          "go",
+          "self-hosted",
+          "sveltekit",
+          "typescript",
+          "web-ui"
+        ],
+        "updated_at": "2026-11-18T16:36:27Z"
+      },
+      "repo": {
+        "description": "Modern Docker Management, Designed for Everyone",
+        "forks": 554,
+        "full_name": "getarcaneapp/arcane",
+        "language": "Go",
+        "name": "arcane",
+        "owner": "getarcaneapp",
+        "rank": 5,
+        "stars_today": 547,
+        "total_stars": 9673,
+        "url": "https://github.com/getarcaneapp/arcane"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 8.96,
+        "momentum": 5.0,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 7.0,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 59.39
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Try Today",
+        "Deep Dive"
+      ],
+      "verdict": "AI Workflow, DevTools: Go project with 547 stars today; score 59.4/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2023-10-02T20:24:11Z",
+        "default_branch": "main",
+        "description": "An extremely fast Python package and project manager, written in Rust.",
+        "fork": false,
+        "full_name": "astral-sh/uv",
+        "homepage": "https://docs.astral.sh/uv",
+        "latest_release": "0.13.9",
+        "license_spdx": "Apache-2.0",
+        "open_issues": 3076,
+        "primary_language": "Rust",
+        "pushed_at": "2026-11-18T00:25:55Z",
+        "readme_excerpt": "# uv <a href=\"https://pypi.python.org/pypi/uv\"><img src=\"https://img.shields.io/pypi/v/uv.svg\" alt=\"Latest PyPI version\" /></a> <a href=\"https://pypi.python.org/pypi/uv\"><img src=\"https://img.shields.io/pypi/pyversions/uv.svg\" alt=\"Supported Python versions\" /></a> <a href=\"https://discord.gg/astral-sh\"><img src=\"https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white\" alt=\"Discord\" /></a> An extremely fast Python package and project manager, written in Rust. <p align=\"ce",
+        "topics": [
+          "packaging",
+          "python",
+          "resolver",
+          "uv"
+        ],
+        "updated_at": "2026-11-18T16:37:37Z"
+      },
+      "repo": {
+        "description": "An extremely fast Python package and project manager, written in Rust.",
+        "forks": 3918,
+        "full_name": "astral-sh/uv",
+        "language": "Rust",
+        "name": "uv",
+        "owner": "astral-sh",
+        "rank": 8,
+        "stars_today": 260,
+        "total_stars": 92156,
+        "url": "https://github.com/astral-sh/uv"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 3.53,
+        "novelty": 8.0,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 1.44,
+        "technical_quality": 14.0,
+        "total": 51.02
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: Rust project with 260 stars today; score 51.0/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2010-04-15T17:47:47Z",
+        "default_branch": "master",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+        "fork": false,
+        "full_name": "nvm-sh/nvm",
+        "homepage": null,
+        "latest_release": "v0.41.0",
+        "license_spdx": "MIT",
+        "open_issues": 370,
+        "primary_language": "Shell",
+        "pushed_at": "2026-11-17T23:08:40Z",
+        "readme_excerpt": "<a href=\"https://github.com/nvm-sh/logos\"> <picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-white.svg\" /> <img src=\"https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-color.svg\" height=\"50\" alt=\"nvm project logo\" /> </picture> </a> # Node Version Manager [![Tests](https://github.com/nvm-sh/nvm/actions/workflows/tests-fast.yml/badge.svg?branch=master)][3] [![nvm version](https://img.shields.io/badge/version-v0.41",
+        "topics": [
+          "bash",
+          "install",
+          "lts",
+          "node",
+          "node-js",
+          "nodejs",
+          "nvm",
+          "nvmrc",
+          "posix",
+          "posix-compliant",
+          "shell",
+          "version-manager",
+          "zsh"
+        ],
+        "updated_at": "2026-11-18T16:26:32Z"
+      },
+      "repo": {
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+        "forks": 10777,
+        "full_name": "nvm-sh/nvm",
+        "language": "Shell",
+        "name": "nvm",
+        "owner": "nvm-sh",
+        "rank": 7,
+        "stars_today": 199,
+        "total_stars": 96115,
+        "url": "https://github.com/nvm-sh/nvm"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 8.96,
+        "momentum": 3.46,
+        "novelty": 2.8,
+        "practical_usefulness": 10.88,
+        "production_readiness": 5.95,
+        "strategic_relevance": 3.01,
+        "technical_quality": 14.0,
+        "total": 49.06
+      },
+      "tags": [
+        "DevTools",
+        "Try Today"
+      ],
+      "verdict": "DevTools, Try Today: Shell project with 199 stars today; score 49.1/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-07-23T22:44:35Z",
+        "default_branch": "main",
+        "description": "\u6c5f\u5c71\u65f6\u5e8f \u00b7 \u4e2d\u56fd\u5386\u53f2\u4ea4\u4e92\u5730\u56fe\u65f6\u95f4\u8f74 (403 BCE \u2013 Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+        "fork": false,
+        "full_name": "DeanChensj/jiangshan-map",
+        "homepage": "https://deanchen.me/jiangshan-map/",
+        "latest_release": "v1.3.0",
+        "license_spdx": "GPL-3.0",
+        "open_issues": 16,
+        "primary_language": "JavaScript",
+        "pushed_at": "2026-11-18T15:06:58Z",
+        "readme_excerpt": "# Chronicles of the Realm \u00b7 \u6c5f\u5c71\u65f6\u5e8f <p align=\"left\"> <strong>English</strong> \u00b7 <a href=\"README_ZH.md\">\u7b80\u4f53\u4e2d\u6587 (Chinese)</a> \u00b7 <a href=\"README_ZH_HANT.md\">\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)</a> \u00b7 <a href=\"README_JA.md\">\u65e5\u672c\u8a9e (Japanese)</a> </p> **An Interactive Historical Atlas of China from the Warring States (403 BCE) to the Present \u2014 Scrub Through Time, Trace Ancient Cities, and Walk in the Footsteps of History** [**Play Live Demo (English UI) \u2192 https://deanchen.me/jiangshan-map/?lang=en**](https://deanchen.",
+        "topics": [
+          "ancient-china",
+          "cartography",
+          "china-map",
+          "chinese-history",
+          "classical-chinese-poetry",
+          "digital-humanities",
+          "gis",
+          "historical-atlas",
+          "historical-map",
+          "interactive-map"
+        ],
+        "updated_at": "2026-11-18T16:37:53Z"
+      },
+      "repo": {
+        "description": "\u6c5f\u5c71\u65f6\u5e8f \u00b7 \u4e2d\u56fd\u5386\u53f2\u4ea4\u4e92\u5730\u56fe\u65f6\u95f4\u8f74 (403 BCE \u2013 Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+        "forks": 966,
+        "full_name": "DeanChensj/jiangshan-map",
+        "language": "JavaScript",
+        "name": "jiangshan-map",
+        "owner": "DeanChensj",
+        "rank": 17,
+        "stars_today": 991,
+        "total_stars": 7874,
+        "url": "https://github.com/DeanChensj/jiangshan-map"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.88,
+        "novelty": 2.8,
+        "practical_usefulness": 9.35,
+        "production_readiness": 7.0,
+        "strategic_relevance": 1.99,
+        "technical_quality": 14.0,
+        "total": 47.72
+      },
+      "tags": [
+        "Try Today"
+      ],
+      "verdict": "Try Today: JavaScript project with 991 stars today; score 47.7/100."
+    },
+    {
+      "caution": null,
+      "enrichment": {
+        "archived": false,
+        "created_at": "2026-01-23T01:57:42Z",
+        "default_branch": "main",
+        "description": "Cursor plugin specification and official plugins",
+        "fork": false,
+        "full_name": "cursor/plugins",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": 676,
+        "primary_language": "TypeScript",
+        "pushed_at": "2026-11-18T12:24:36Z",
+        "readme_excerpt": "# Cursor plugins Official Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the repository root with its own `.cursor-plugin/plugin.json` manifest. ## Plugins | `name` | Plugin | Author | Category | `description` (from marketplace) | |:-------|:-------|:-------|:---------|:-------------------------------------| | `teaching` | [Teaching](teaching/) | Cursor | Utilities | Skill mapping, practice plans, and learning retrospectives. |",
+        "topics": [],
+        "updated_at": "2026-11-18T16:40:19Z"
+      },
+      "repo": {
+        "description": "Cursor plugin specification and official plugins",
+        "forks": 1885,
+        "full_name": "cursor/plugins",
+        "language": "TypeScript",
+        "name": "plugins",
+        "owner": "cursor",
+        "rank": 2,
+        "stars_today": 315,
+        "total_stars": 17111,
+        "url": "https://github.com/cursor/plugins"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 7.7,
+        "momentum": 4.6,
+        "novelty": 2.8,
+        "practical_usefulness": 12.2,
+        "production_readiness": 2.8,
+        "strategic_relevance": 4.27,
+        "technical_quality": 11.2,
+        "total": 45.57
+      },
+      "tags": [
+        "DevTools"
+      ],
+      "verdict": "DevTools: TypeScript project with 315 stars today; score 45.6/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": false,
+        "created_at": "2024-11-30T04:49:10Z",
+        "default_branch": "main",
+        "description": "A collection of MCP servers.",
+        "fork": false,
+        "full_name": "punkpeye/awesome-mcp-servers",
+        "homepage": "https://glama.ai/mcp/servers",
+        "latest_release": null,
+        "license_spdx": "MIT",
+        "open_issues": 4736,
+        "primary_language": null,
+        "pushed_at": "2026-11-17T05:21:40Z",
+        "readme_excerpt": null,
+        "topics": [
+          "ai",
+          "mcp"
+        ],
+        "updated_at": "2026-11-18T16:38:31Z"
+      },
+      "repo": {
+        "description": "A collection of MCP servers.",
+        "forks": 20318,
+        "full_name": "punkpeye/awesome-mcp-servers",
+        "language": null,
+        "name": "awesome-mcp-servers",
+        "owner": "punkpeye",
+        "rank": 20,
+        "stars_today": 52,
+        "total_stars": 97932,
+        "url": "https://github.com/punkpeye/awesome-mcp-servers"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 1.05,
+        "novelty": 8.0,
+        "practical_usefulness": 3.4,
+        "production_readiness": 5.6,
+        "strategic_relevance": 3.01,
+        "technical_quality": 11.9,
+        "total": 43.5
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch"
+      ],
+      "verdict": "AI Workflow, Watch: Unknown project with 52 stars today; score 43.5/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/affaan-m",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "forks": 45090,
+        "full_name": "sponsors/affaan-m",
+        "language": "JavaScript",
+        "name": "affaan-m",
+        "owner": "sponsors",
+        "rank": 16,
+        "stars_today": 1109,
+        "total_stars": 306258,
+        "url": "https://github.com/sponsors/affaan-m"
+      },
+      "score": {
+        "ai_workflow_impact": 14.22,
+        "ease_of_adoption": 2.8,
+        "momentum": 5.45,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 5.53,
+        "technical_quality": 3.5,
+        "total": 38.4
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: JavaScript project with 1109 stars today; score 38.4/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/elementalsouls",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+        "forks": 1484,
+        "full_name": "sponsors/elementalsouls",
+        "language": "Python",
+        "name": "elementalsouls",
+        "owner": "sponsors",
+        "rank": 1,
+        "stars_today": 2322,
+        "total_stars": 10874,
+        "url": "https://github.com/sponsors/elementalsouls"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 12.0,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 4.9,
+        "technical_quality": 3.5,
+        "total": 37.84
+      },
+      "tags": [
+        "AI Workflow",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, Watch: Python project with 2322 stars today; score 37.8/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/obra",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "An agentic skills framework & software development methodology that works.",
+        "forks": 28532,
+        "full_name": "sponsors/obra",
+        "language": "Shell",
+        "name": "obra",
+        "owner": "sponsors",
+        "rank": 15,
+        "stars_today": 823,
+        "total_stars": 319840,
+        "url": "https://github.com/sponsors/obra"
+      },
+      "score": {
+        "ai_workflow_impact": 7.74,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.56,
+        "novelty": 2.8,
+        "practical_usefulness": 8.6,
+        "production_readiness": 0.7,
+        "strategic_relevance": 3.01,
+        "technical_quality": 3.5,
+        "total": 33.71
+      },
+      "tags": [
+        "AI Workflow",
+        "DevTools",
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "AI Workflow, DevTools: Shell project with 823 stars today; score 33.7/100."
+    },
+    {
+      "caution": "Weak onboarding evidence.",
+      "enrichment": {
+        "archived": null,
+        "created_at": null,
+        "default_branch": null,
+        "description": null,
+        "fork": null,
+        "full_name": "sponsors/sveltejs",
+        "homepage": null,
+        "latest_release": null,
+        "license_spdx": null,
+        "open_issues": null,
+        "primary_language": null,
+        "pushed_at": null,
+        "readme_excerpt": null,
+        "topics": [],
+        "updated_at": null
+      },
+      "repo": {
+        "description": "web development for the rest of us",
+        "forks": 6215,
+        "full_name": "sponsors/sveltejs",
+        "language": "JavaScript",
+        "name": "sveltejs",
+        "owner": "sponsors",
+        "rank": 11,
+        "stars_today": 694,
+        "total_stars": 89668,
+        "url": "https://github.com/sponsors/sveltejs"
+      },
+      "score": {
+        "ai_workflow_impact": 0.0,
+        "ease_of_adoption": 2.8,
+        "momentum": 4.67,
+        "novelty": 2.8,
+        "practical_usefulness": 3.4,
+        "production_readiness": 0.7,
+        "strategic_relevance": 1.91,
+        "technical_quality": 3.5,
+        "total": 19.78
+      },
+      "tags": [
+        "Watch",
+        "Hype Risk"
+      ],
+      "verdict": "Watch, Hype Risk: JavaScript project with 694 stars today; score 19.8/100."
+    }
+  ],
+  "subject": "GitHub Trending: AI workflow signal - 2026-11-18",
+  "summary": "Today leans toward AI workflow signal; the strongest pick is n8n-io/n8n."
+}
