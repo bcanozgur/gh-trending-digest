@@ -1,0 +1,32 @@
+GitHub Trending: AI workflow signal - 2026-11-19
+
+Today leans toward AI workflow signal; the strongest pick is firecrawl/firecrawl.
+
+Top picks
+1. firecrawl/firecrawl - 76.5/100
+   https://github.com/firecrawl/firecrawl
+   AI Workflow, DevTools: TypeScript project with 795 stars today; score 76.5/100.
+2. Tracer-Cloud/opensre - 75.9/100
+   https://github.com/Tracer-Cloud/opensre
+   AI Workflow, DevTools: Python project with 25 stars today; score 75.9/100.
+3. zhouxiaoka/autoclip - 63.2/100
+   https://github.com/zhouxiaoka/autoclip
+   AI Workflow, DevTools: Python project with 110 stars today; score 63.2/100.
+4. nginx/nginx - 59.8/100
+   https://github.com/nginx/nginx
+   AI Workflow, Try Today: C project with 66 stars today; score 59.8/100.
+5. XiaoYouChR/Ghost-Downloader-3 - 50.9/100
+   https://github.com/XiaoYouChR/Ghost-Downloader-3
+   Try Today: Python project with 449 stars today; score 50.9/100.
+
+Full reviewed list
+- firecrawl/firecrawl: 76.5/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 795 stars today; score 76.5/100.
+- Tracer-Cloud/opensre: 75.9/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 25 stars today; score 75.9/100.
+- zhouxiaoka/autoclip: 63.2/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 110 stars today; score 63.2/100.
+- nginx/nginx: 59.8/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: C project with 66 stars today; score 59.8/100.
+- XiaoYouChR/Ghost-Downloader-3: 50.9/100 [Try Today] Try Today: Python project with 449 stars today; score 50.9/100.
+- sponsors/cathrynlavery: 46.5/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: HTML project with 332 stars today; score 46.5/100.
+- sponsors/mjmirza: 42.4/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Shell project with 542 stars today; score 42.4/100.
+- sponsors/toeverything: 31.6/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: TypeScript project with 170 stars today; score 31.6/100.
+
+Generated for 2026-11-19 from GitHub Trending daily.
