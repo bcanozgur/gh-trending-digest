@@ -1,0 +1,18 @@
+GitHub Trending: daily developer signal - 2026-11-22
+
+Today leans toward daily developer signal; the strongest pick is google-labs-code/stitch-skills.
+
+Top picks
+1. google-labs-code/stitch-skills - 72.6/100
+   https://github.com/google-labs-code/stitch-skills
+   AI Workflow, DevTools: TypeScript project with 516 stars today; score 72.6/100.
+2. sponsors/elementalsouls - 37.8/100
+   https://github.com/sponsors/elementalsouls
+   AI Workflow, Watch: Python project with 1721 stars today; score 37.8/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- google-labs-code/stitch-skills: 72.6/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: TypeScript project with 516 stars today; score 72.6/100.
+- sponsors/elementalsouls: 37.8/100 [AI Workflow, Watch, Hype Risk] AI Workflow, Watch: Python project with 1721 stars today; score 37.8/100.
+
+Generated for 2026-11-22 from GitHub Trending daily.
