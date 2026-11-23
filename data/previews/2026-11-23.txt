@@ -1,0 +1,13 @@
+GitHub Trending: daily developer signal - 2026-11-23
+
+Today leans toward daily developer signal; the strongest pick is mvanhorn/last30days-skill.
+
+Top picks
+1. mvanhorn/last30days-skill - 69.6/100
+   https://github.com/mvanhorn/last30days-skill
+   AI Workflow, DevTools: Python project with 790 stars today; score 69.6/100.
+
+Full reviewed list
+- mvanhorn/last30days-skill: 69.6/100 [AI Workflow, DevTools, Try Today, Deep Dive] AI Workflow, DevTools: Python project with 790 stars today; score 69.6/100.
+
+Generated for 2026-11-23 from GitHub Trending daily.
