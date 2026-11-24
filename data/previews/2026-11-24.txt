@@ -1,0 +1,22 @@
+GitHub Trending: daily developer signal - 2026-11-24
+
+Today leans toward daily developer signal; the strongest pick is jingyaogong/minimind.
+
+Top picks
+1. jingyaogong/minimind - 67.1/100
+   https://github.com/jingyaogong/minimind
+   AI Workflow, Try Today: Python project with 727 stars today; score 67.1/100.
+2. cursor/plugins - 45.6/100
+   https://github.com/cursor/plugins
+   DevTools: TypeScript project with 359 stars today; score 45.6/100.
+3. sponsors/obra - 37.5/100
+   https://github.com/sponsors/obra
+   AI Workflow, DevTools: Shell project with 1006 stars today; score 37.5/100.
+   Caution: Weak onboarding evidence.
+
+Full reviewed list
+- jingyaogong/minimind: 67.1/100 [AI Workflow, Try Today, Deep Dive] AI Workflow, Try Today: Python project with 727 stars today; score 67.1/100.
+- cursor/plugins: 45.6/100 [DevTools] DevTools: TypeScript project with 359 stars today; score 45.6/100.
+- sponsors/obra: 37.5/100 [AI Workflow, DevTools, Watch, Hype Risk] AI Workflow, DevTools: Shell project with 1006 stars today; score 37.5/100.
+
+Generated for 2026-11-24 from GitHub Trending daily.
